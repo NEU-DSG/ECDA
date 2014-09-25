@@ -17,6 +17,7 @@ Prototype Omeka site (omekasites.northeastern.edu/ECDA)
 Data development, transcriptions
 Grant funded non-prototype interface for data
 Launch phase, community engagement
+
 Project Goals
 
 develop schema for TEI encoding (Summer 2014)
