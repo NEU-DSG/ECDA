@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../out/ecda.odd.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <!-- This where you write comments in green -->
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <titleBlock type="main">
+            <docTitle>
+               <titlePart type="main">The Columbian Magazine of Monthly Miscellany For June, 1798
+               </titlePart>
+            </docTitle>
+
+            <div type="contents">
+               <cb n="1"/>
+               <list type="toc">
+                  <item><rs>Sketch of the Life of the late <persName ref="#richard_bowen_1761">Captain Richard Bowen</persName></rs>
+                     <ref type="pagenum" rend="align(right)">3</ref></item>
+                  <item><rs>Curious Law Case</rs>
+                     <ref type="pagenum" rend="align(right)">7</ref></item>
+                  <item><rs>Patriotic Warnings</rs>
+                     <ref type="pagenum" rend="align(right)">ib.</ref></item>
+                  <item><rs>Surprising Returns Calcalated from Compound Interest</rs>
+                     <ref type="pagenum" rend="align(right)">8</ref></item>
+                  <item><rs>Barrenness of the <!-- fauna -->Mule disproved by several Cases in <placeName>St. Domingo</placeName></rs>
+                     <ref type="pagenum" rend="align(right)">9</ref></item>
+                  <item><rs>On Quack Doctors, &amp;c.</rs>
+                     <ref type="pagenum" rend="align(right)">ib.</ref></item>
+                  <item><rs>Some account of the Remora</rs>
+                     <ref type="pagenum" rend="align(right)">11</ref></item>
+                  <item><rs>Method of Curing Diseases by Electricity</rs>
+                     <ref type="pagenum" rend="align(right)">12</ref></item>
+                  <item><rs>Anecdote of the late <persName ref="#william_pitt_1708">William Pitt</persName> 13, of <persName ref="#john_vassal_001">John Vassal</persName> and <persName ref="#thomas_erskine_1750" cert="medium">Mr. Erskine</persName> 14,
+                     of <persName>General Washington</persName> and <persName ref="#dennis_kelly_0001">Dennis Kelly</persName> 15, of <persName ref="#william_julius_mickle_1788">William Julius Mickle</persName> and
+                     <persName ref="#augustus_keppel_1725">Admiral Keppel</persName></rs>
+                     <ref type="pagenum" rend="align(right)">16</ref></item>
+                  <item><rs><persName ref="#bryan_higgins_1741">Higgins's</persName> <bibl>Observations for Improvement of Sugar &amp; Rum</bibl></rs>
+                     <ref type="pagenum" rend="align(right)">17</ref></item>
+                  <item><rs>Object of <persName ref="#james_fitzpatrick_0001">Sir J. Fitzpatrick's</persName> Regulations; Abortive and Subsequent
+                        <!-- crime -->Murder but too common here; awful incident in a similar case in England</rs>
+                     <ref type="pagenum" rend="align(right)">25</ref></item>
+                  <item><rs><persName ref="#william_murray_first_earl_of_mansfield_1705">Lord Mansfield</persName>, wise and humane decisions of</rs>
+                     <ref type="pagenum" rend="align(right)">27</ref></item>
+                  <item><rs>Guilt and Tyranny of the <!-- event -->Spanish Inquisition</rs>
+                     <ref type="pagenum" rend="align(right)">28</ref></item>
+                  <cb n="2"/>
+                  <item><rs>Price of a Victory, by Dr. Aikin</rs>
+                     <ref type="pagenum" rend="align(right)">33</ref></item>
+                  <item><rs>Cost of a War, by ditto</rs>
+                     <ref type="pagenum" rend="align(right)">37</ref></item>
+                  <item><rs>Extract from Baron Wimpffen's Voyage to St. Domingo</rs>
+                     <ref type="pagenum" rend="align(right)">40</ref></item>
+                  <item><rs>Useful Recipes in our Botanical kingdom</rs>
+                     <ref type="pagenum" rend="align(right)">43</ref></item>
+                  <item><rs>Report of a Philadelphia Law Case</rs>
+                     <ref type="pagenum" rend="align(right)">44</ref></item>
+                  <item><rs>Essay on Origniality</rs>
+                     <ref type="pagenum" rend="align(right)">45</ref></item>
+                  <item><rs>Comments on the <title rend="pre(') post(')">Happy Marriage</title></rs>
+                     <ref type="pagenum" rend="align(right)">33</ref></item>
+                  <item><rs>Insects of Hot Climates</rs>
+                     <ref type="pagenum" rend="align(right)">48</ref></item>
+                  <item><rs>Rider on the Arrow Root,</rs>
+                     <ref type="pagenum" rend="align(right)">50</ref></item>
+                  <item><rs>Corn steeping of before planting recommended</rs>
+                     <ref type="pagenum" rend="align(right)">ib.</ref></item>
+                  <item><rs>Quin's friendship to, and embarrassment of, Thomson</rs>
+                     <ref type="pagenum" rend="align(right)">ib.</ref></item>
+                  <item><rs>Scotrch Blood-Hound</rs>
+                     <ref type="pagenum" rend="align(right)">51</ref></item>
+                  <item><rs>POETRY. Allusions to Six Picturesque Views, by P. Pindar; viz. Old
+                        Tower, to Morning, the Hill, the Rock, to Marian</rs>
+                     <ref type="pagenum" rend="align(right)">52-5</ref></item>
+                  <item><rs>Quin's Soliloquy, by Garrick</rs>
+                     <ref type="pagenum" rend="align(right)">56</ref></item>
+                  <item><rs>――Epitaph, by ditto</rs>
+                     <ref type="pagenum" rend="align(right)">ib.</ref></item>
+                  <item><rs>Attraction and Repulsion,</rs>
+                     <ref type="pagenum" rend="align(right)">57</ref></item>
+                  <item><rs>The Batchelor, a Parody</rs>
+                     <ref type="pagenum" rend="align(right)">ib.</ref></item>
+                  <item><rs>Ode to Masonry</rs>
+                     <ref type="pagenum" rend="align(right)">58</ref></item>
+                  <item><rs>Foreign Intelligence, &amp;c.</rs>
+                     <ref type="pagenum" rend="align(right)">60-64</ref></item>
+               </list>
+            </div>
+            <docImprint><name type="place">KINGSTON, JAMAICA</name>—Printed and Published by
+                  <name>W. SMART</name><name type="place">Church Street</name>
+            </docImprint>
+         </titleBlock>
+         <div type="prefatory">
+            <p>We would readily have inserted the piece expository of <title rend="italic">Hawking
+                  and Peddling</title>, as practised daily in the <hi>Streets of Kingston</hi>, had
+               the object not been anticipated, in the interim, by the mercantile Gentlemen, whose
+               just and weighty representation to the Magistrates, it is to be hoped will be
+               effectual both to <emph rend="italics">deter</emph> and <emph rend="italics"
+                  >detect</emph>.</p>
+            <p>The strictures of this Correspondent on <emph rend="italics">Higgling</emph> and its
+               complicated attendant evils, would, we have reason to apprehend, be passed over in
+               silence were we to give it a place. The <emph rend="italics">oversight</emph> hath
+               been often canvassed and reprobated through this Miscellanay, and only tends to prove
+               the justness of the old adage, <quote rend="italics">There is none so blind,
+                  &amp;c.</quote></p>
+            <p>A COWKEEPER who dates <placeName ref="#hornvale"><hi rend="italic">Horn
+                  Vale</hi></placeName>, <choice>
+                  <sic>obeserving</sic>
+                  <corr>observing</corr>
+               </choice> an article recently in the <title rend="italic">Diary</title>, signed
+                     "<q><addName type="pseudonym">A Sugar Planter</addName></q>," purporting, that
+                  "<quote>Coffee is not good without Sugar</quote>," remarks in return, that <quote
+                  rend="italics">Coffee is not good likewise without Milk—Query, may not the Negroes
+                  have stolen <emph rend="upright">that</emph>also?</quote></p>
+            <p>The writer who has obligingly furnished an answer to the <hi>Problem</hi> inserted
+               page 713, vol. 11. will please to accept our thanks; upon consideation, however, we
+               forbear to enter further on a subject so foreign to the nature of our Miscellany.</p>
+         </div>
+      </front>
+      <pb/>
+      <body>
+         <div>
+            <head>The COLUMBIAN MAGAZINE FOR JUNE, 1798.</head>
+            <head rend="case(allcaps)">BIOGRAPHY. <persName rend="case(allcaps)">CAPTAIN RICHARD
+                  BOWEN</persName>.</head>
+            <p>THE late <persName>Capt. Bowen</persName>, of his Majesty's ship
+               <!-- shipName -->Terpsichore, who was killed in the attack of the town of
+                  <placeName>Santa Cruz</placeName>, in the island of
+                  <placeName>Teneriffe</placeName>, in Juy last, was born at
+                  <placeName>Ilfracrombe</placeName>, in the <placeName>county of Devon</placeName>,
+               in 1761, and has left a worthy, aged father, three brothers, and two sisters, to
+               lament the loss of this invaluable ornament to his family. His eldest brother
+                  <persName>Capt. James Bowen</persName>, was a master in the navy, and served in
+               the last war, chiefly with <persName>Admiral McBride</persName>: in the peace he was
+               naval agent at <placeName>Deptford</placeName>; and, at the commencement of this war,
+               was appointed master of the <!-- shipName -->Queen Charlotte, in the
+               <!-- militaryUnit -->Channel Fleet; and for his meritorious services on the glorious
+               first of June, with the noble <persName>Early Howe</persName>, and for his
+               distinguished conduct as first lieutenant of the <!-- shipName -->Queen Charlotte, on
+               the <date>23d of June, 1795</date>, with the late gallant <persName>Sir Andrew Snape
+                  Douglas</persName>, under the command of <persName>Lord Bridport</persName>, he
+               was promoted to the rank of commander, and, shortly after, to that of post captain,
+               and commandeded the <!-- shipName -->Thunderer (never the Canada), under admiral
+                  <persName>Sir H.C. Christain</persName>, at the <!-- militaryEvent -->reduction of
+               St. Lucia. His youngest brother, fell a victim fo the West-India climate, on board
+               his Majesty's ship <!-- shipName -->Cumberland, in the <!-- militaryUnit -->Spanish
+               Armament in 1790.</p>
+            <p><persName>Capt. Richard Bowen</persName> was placed a midshipman in the navy early in
+               life, by his eldest brother; was soon after taken into a fireship, and patronized by
+                  <persName>Captain (now Sir Robert) Calder</persName>, who recommended him to
+                  <persName>Captain Jervis (now Earl of St. Vincent)</persName> of the
+               <!-- shipName -->Foudroyant, where he soon attracted the notice of that great
+               officer, who appointed him his aid-du-camp in time of action. His prompt obedience
+               and active service in the capture of <!-- shipName --><shipName
+                     xmlns="http://dsg.northeastern.edu/ecda/ns/1.0"><foreign
+                        xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">Le
+                  Pegase</foreign></shipName> merited the approbation and esteem of his Captain; in testimony
+               of which<pb n="004"/> her presented him with a sword, and immediately made him an
+               acting lieutenant in his own ship, where he continued to the end of the war; at which
+               period, not having served the six years required according to the regulations of the
+               navy, his commission could not be confirmed; to accomplish which, his patron sent him
+               to the <placeName>West-Indies</placeName>; where he served the greatest part of a
+               three years station as acting-lieutenant. There being no regular vacancy, he was not
+               confirmed; but, bent to perseere in his favourite profession, he went a second time
+               to the <placeName>West-Indies</placeName>, and was once more appointed
+               acting-lieutenant by <persName>Commodore Parker</persName>; and ater serving a
+               considerable time, and being disappointed in his confirmation, he rturned. However,
+               this discouragement did not damp his ardour for the service, and he again embarked
+               with his friend <persName>Sir Robert Calder</persName>.</p>
+            <p>When the Spanish Armament commenced, his patron <persName>Sir John Jervis</persName>,
+               took him in the <!-- shipName -->Prince, as his flag lieutenant, and he soon obtained
+               his confirmation to that rank, being included in the list of the first 20 that were
+               promoted by the Admiralty, in consequence of former services.</p>
+            <p>In 1791, he was appointed by the Navy-board to command a large division of
+               transports, destined to relieve the <placeName>Colony of New South-Wales</placeName>,
+               where he arrived in time to afford it great relief. The
+               <persName>Governor</persName>, deeming him a proper person to procure a farther
+               supply, dispatched him, in the Atlantic, to <placeName>Bengal</placeName>, for a
+               cargo of <!-- commodity --><commodity xmlns="http://dsg.northeastern.edu/ecda/ns/1.0">rice</commodity>, which voyage he performed in a short time, to the
+               great joy and comfort of the Colonists and very much to the satisfaction of
+                  <orgName>Government</orgName>, as well as to the <orgName>Council at
+                  Bengal</orgName>, who, in their dispatches home, considered his great attention to
+               the service he was entrusted with as meriting their notice.</p>
+            <p>On his return to <placeName>England</placeName> with <persName>Gov.
+                  Phillips</persName>, he found the present was had commenced, and his patron,
+                  <persName>Sir John Jervis</persName>, about to be employed on an expedition to the
+                  <placeName>West-Indies</placeName>, with whom he embarked as 4th lieutenant of the
+               Boyne, where he soon had an opportunity of distinguishing himself, being appointed,
+               at the siege of <placeName>Martinique</placeName>, commanding office of the guard,
+               and gun-boats, and actually took the guard 19 successive nights, exposed to the heavy
+               rains and dews of that climate, without ever laying down on a bed.</p>
+            <p>During this active siege, the commander in chief had information that it was the
+               enemy's intention to destroy all the English prisoners, if the English Admiral should
+               attempt to storm the fort; and that the French general had placed them on board the
+               Bien-Venu French frigate which was moored close to the walls of Fort-Royal for that
+               diabolical purpose. To rescue his countrymen from this <pb n="4"/> perilous
+               situation, he received a discretionary order from Sir John Jervis to act in such a
+               manner as he might think would prove successful. He was not long determining on the
+               performance of this service; for, the very next day at noon, in the face of the whole
+               garrison, and to the astonishment and admiration of the British fleet, this intrepid
+               officer, in the head of his barge, supported by his guard-boats, went through a heavy
+               fire of musquetry from the fort, which was not fifty yards from the ship, boarded the
+               frigate, and driving the greatest part of the French <choice>
+                  <sic>craw</sic>
+                  <corr>crew</corr>
+               </choice> over-board, obtained possessin of her. The ship being moored with chains,
+               and the wind unfavourable for bringing her off, after searching the hold and not
+               finding any English prisoners, he turned the frigate's guns against the fort, and
+               came off with the captain and about 20 French prisoners, under cover of the smoke,
+               with the loss of very few killed and wounded.</p>
+            <p>The success of this gallant action determined the commander in chief to commence the
+               attack of Fort-Royal. In the capture of which, it was this enterprizing young man's
+               good fortune to be close at the heels of the fallant Faulkner, who commanded the
+               Zebra, amp&amp; boarded the fort, under a press of sail which outstripped them all.
+               The same day the Bien-Venu was commissioned, and in compliment to the brave Faulkner,
+               who was appointed to command her, she was named the Undaunter, and Lieutenant Richard
+               Bowen appointed to the command of the Zebra, in which he was actively employed in the
+               reduction of Guadeloupe, and the rest of the islands, when he was promoted to the
+               command of his Majesty's ship Veteran, and, shortly after, to his Majesty's ship
+               Terpsichore, in which ship he was sent to America, where hearing that his Majesty's
+               ship Dædalus was blocked up in the Chesapeak by two French ships of superior force,
+               he boldly went and relieved her. Upon his return to Guadaloupe, he found part of the
+               island int he possession of the enemy; he was then stationed to guard the coast, and
+               to succour and protect the supplies brought to fort Matilda, which, at this time, the
+               enemy had closely besieged. His vigilance, seal, and exertions, on this service, were
+               the admiration of the genearl and the whole garrison; and, when it was deemed proper
+               to evacuate the fort, to his superior skill and judgment the admiraal and general
+               fave the credite of saving the whole garrison; for, by his judicious arrangements,
+               not a man was lost, and only himself wounded by a musquet ball in the cheek. The
+               letters on this occasion, from the admiral and general, bear ample tertimony of his
+               uncommon abilities.</p>
+            <p>The wound that he received was os such dangrous tendency, that the admiral thought it
+               necessary to send him home with the general and his dispatches, where he was actively
+               employed in con<pb n="5"/><fw type="pagenum">6</fw>voying the trade, until his patron
+               was appointed to the command of the Mediterranean fleet. He was then ordered to guard
+               the Streights of Gibraltar, and to communicate with that garrison. This post of
+               honour soon gave him another opportunity of distinguishing himself, by bringing to
+               action and capturing La Mahonesa Spanish frigate, mugh larger, and superior in every
+               point of force, that then Terpsichore. Shortly after his damages were repaired, he
+               fell in with La Vestale French frigate, of superior force, and, after a severe action
+               of several hours, upon a lee-shore, and an enemy's coart, cpature her; but her masts
+               being shot away, he was obliged to bring both ships to anchor. After repairing his
+               own damages, he took his prize in tow; but, unfortunately, the ropes got entangles in
+               the rocks, and she was under the necessity of cutting her adrift, and with much
+               difficulty cleared the coast with his own ship. The prisoners, taking advantage of
+               the night, rose upon the officers and few men who were on board the prize, took
+               possession, and, with the assistance of Spanish launches, which came from the shore,
+               by the next morning, before he could get within gun-shot of her, she was towing into
+               Cadiz. In this gallant action his brother, George, who was his first lieutenant, was
+               wounded by a ball passing through his shoulders, which rendered his arm useless, for
+               which he has been promoted to the rank of commander, and rewarded by a pension. </p>
+            <p>After the glorious action off Cape St. Vincent, he fell in with the Santis ema
+               Trinidada alone. Expecting every moment to meet with some of our cruizers, he brought
+               her to action, and annoyed her considerably, withouth receiving any damage himself;
+               after teazing her two days, he was obliged to quit her, on the approach of some
+               Spanish men of war.</p>
+            <p>His taking possession, and bringing off, a large Spanish merchantman, close to the
+               mouth of Cadiz, in the presence of a line-of-battle ship, who was in chace of him;
+               his cutting out a ship from under the gunds of Teneriffe in April 1797, and numerous
+               other enterprizes, executed with skill and judgment, brought him to act with
+               Rear-Admiral Nelson, at the bombardment of Cadiz, and to the fatal enterprize at
+               Teneriffe, where, at the head of his own ship's company, who had been his faithful
+               companions during the war, he gallantly exectued the part the admiral had assigned to
+               him; and after having taken possession of the mole, he unfortunately, though nobly,
+               fell; and there terminated the glorious career of one of the bravest officers his
+               country ever had to boast of, and after 20 years of actual service. With personal
+               courage inferior to none, he possessed great professional knowledge, with a feeling
+               mind and sound judgment to guide him.</p>
+         </div>
+
+      </body>
+
+   </text>
+</TEI>
