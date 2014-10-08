@@ -41,31 +41,37 @@
               </interpGrp>
               <interpGrp type="productionPhase">
                  <interp xml:id="ana_plant">planting</interp>
+                 <interp xml:id="ana_cultivation">cultivation</interp>
                  <interp xml:id="ana_harv">harvesting</interp>
                  <interp xml:id="ana_ref">refining</interp>
                  <interp xml:id="ana_prod">production</interp>
                  <interp xml:id="ana_trans">transport</interp>
                  <interp xml:id="ana_sale">sale</interp>
+                 <interp xml:id="ana_use">use of commodities</interp>
+              </interpGrp>
+              <interpGrp type="conceptual">
+                 <interp xml:id="punishment">References to scenes of punishment or the enforcement of colonial rule</interp>
+                 <interp xml:id="military">References to the material conditions, social institutions or actual events of warfare</interp>
               </interpGrp>
            </note>
            <note xml:id="n001" target="#a001">
               <p>
-                 <label rend="case(smallcaps)">Ver.22</label> <hi rend="slant(italic)">the spiry <ecda:flora ana="#ana_harv">Cane</ecda:flora>,</hi>] The botanical
-                 name of the <ecda:flora>Cane</ecda:flora> is <foreign xml:lang="la" rend="slant(italic)">Saccharum</foreign>. The
+                 <label rend="case(smallcaps)">Ver.22</label> <ref rend="slant(italic)">the spiry <ecda:flora ana="#ana_harv">Cane</ecda:flora>,</ref>] The botanical
+                 name of the <ecda:flora>Cane</ecda:flora> is <distinct type="dialect" xml:lang="la" rend="slant(italic)">Saccharum</distinct>. The
                  <name>Greeks</name> and <name>Romans</name> seem to have known very little of this most useful and beautiful
                  plant. <persName>Lucan</persName> and <persName>Pliny</persName> are the only authors among the former who mention it; and
                  so far as I can find, <persName>Arrian</persName> is the only <name>Greek</name>. The first of these Writers, in enumerating
-                 <persName>Pompey's</persName> Eastern auxilaries, describes a nation who made use of the <!-- food --> Cane-
-                 juice as a drink:
+                 <persName>Pompey's</persName> Eastern auxilaries, describes a nation who made use of the <ecda:food ana="#ana_flora #ana_use">Cane-
+                 juice</ecda:food> as a drink:
                  <quote xml:lang="la" rend="slant(italic)type(block)">Dulces bibebant ex arundine succos</quote>
-                 The industrious Naturalist says, <foreign xml:lang="la">Saccharum et Arabia fort, sed laudatius India</foreign>; and
-                 the <rs type="properAdjective">Greek</rs> Historian, in his <foreign xml:lang="el">περεπλους</foreign> of the <geogName>Red-sea</geogName>, tells us of the neighbouring nation
-                 who drank it also; his words are <foreign xml:lang="el"><!-- Include Greek here --></foreign>.
-                 The <ecda:flora>Cane</ecda:flora>, however, as it was a native of the East, so has it been probably 
+                 The industrious Naturalist says, <distinct xml:lang="la">Saccharum et Arabia fort, sed laudatius India</distinct>; and
+                 the <rs type="properAdjective">Greek</rs> Historian, in his <distinct xml:lang="el">περεπλους</distinct> of the <geogName>Red-sea</geogName>, tells us of the neighbouring nation
+                 who drank it also; his words are <distinct xml:lang="el"><!-- Include Greek here --></distinct>.
+                 The <ecda:flora ana="#ana_cultivation">Cane</ecda:flora>, however, as it was a native of the East, so has it been probably 
                  cultivated there time immemorial. The raw juice was doubtless first made use of;
                  they afterwards boiled it into a syrup; and, in process of time, and inebriating
                  spirit was prepared therefrom by fermentation. This conjecture is confirmed by the 
-                 etymology, for the Arabic word <foreign><!-- arabic --></foreign> is evidently derived from the Hebrew <foreign><!-- hebrew --></foreign>
+                 etymology, for the Arabic word <distinct type="dialect"><!-- arabic --></distinct> is evidently derived from the Hebrew <distinct type="dialect"><!-- hebrew --></distinct>
                  which signifies an <soCalled>intoxicating liquor</soCalled>. When <name>Indians</name> began to make the Cane-
                  juice into sugar, I cannot discover; probably, it soon found its way into <placeName>Europe</placeName>
                  in that <unclear>form</unclear>, first by the <geogName>Red-sea</geogName>, and afterwards through <placeName>Persia</placeName>, by the <geogName>Black-sea</geogName> and
@@ -92,10 +98,10 @@
                  more lively and enterprizing than the <name>Spaniards</name>. However they had not long the start
                  of the latter; for in <date>1506</date> <persName>Ferdinand the Catholic</persName> ordered the Cane to be carried from
                  the <placeName>Canaries</placeName> to <placeName>St. Domingo</placeName>, in which island one <persName>Pedro de Atenca</persName> soon after built an
-                 <foreign>Ingenio de açucar</foreign> for so the <name>Spaniards</name> call a Sugar-work. But, though they began thus
+                 <distinct type="dialect">Ingenio de açucar</distinct> for so the <name>Spaniards</name> call a Sugar-work. But, though they began thus
                  early to turn their thoughts to sugar, the <name>Portuguese</name> far outstripped them in that trade;
                  for <placeName>Lisbon</placeName> soon supplied most of <placeName>Europe</placeName> with a commodity; and notwithstanding
-                 the <name>English</name> then paid the <name>Portuguese</name> at the rate of <measure commodity="sugar">4l per C. wt.</measure> for muscovado, yet that
+                 the <name>English</name> then paid the <name>Portuguese</name> at the rate of <measure commodity="sugar">4l per C. wt.</measure> for <ecda:commodity ana="#flora #food">muscovado</ecda:commodity>, yet that
                  priece, great as it may now appear, was probably much less than what the Sugar from the
                  <placeName>East-Indies</placeName> had commonly been sold for. Indeed, so intent was the <orgName>Crown of Portugal</orgName>
                  on extending their <name><placeName>Brazil</placeName>-trade</name>, that that of the <placeName>East-Indies</placeName> began to be neglected, and
@@ -127,16 +133,16 @@
            </note>
            <note xml:id="n002" target="#a002">
               <p>
-                 <label rend="case(smallcaps)">Ver. 29.</label> <hi rend="slant(italic)">Muscovado,]</hi>
+                 <label rend="case(smallcaps)">Ver. 29.</label> <ref rend="slant(italic)">Muscovado,]</ref>
                  The Cane-juice being brought to the consistence of syrup,
-                 and, by subsequent coction, granulated, is then called <soCalled rend="slant(italic)"><foreign xml:lang="es">muscovado</foreign></soCalled> (a Spanish word
+                 and, by subsequent coction, granulated, is then called <distinct type="dialect" xml:lang="es">muscovado</distinct> (a <rs type="properAdjective">Spanish</rs> word
                  probably, though not to be found in <placeName>Pineda</placeName>) vulgarly brown Sugar; the <name>French</name>
-                 term it <soCalled rend="slant(italic)"><foreign xml:lang="fr">sucre brut</foreign></soCalled>.
+                 term it <distinct type="dialect" xml:lang="fr">sucre brut</distinct>.
               </p>
            </note>
            <note xml:id="n003" target="#a003">
               <p>
-                 <label rend="case(smallcaps)">Ver. 34</label> <hi rend="slant(italic)">wild <ecda:flora>red Cedar</ecda:flora>]</hi>
+                 <label rend="case(smallcaps)">Ver. 34</label> <ref rend="slant(italic)">wild <ecda:flora>red Cedar</ecda:flora>]</ref>
                  There are two species of Cedar commonly to be met with
                  in the <placeName>West-Indies</placeName>, the white and red, which differ from the cedars cultivated in
                  the <placeName>Bermudas</placeName>: both are lofty, shady, and of quick growth. The white succeeds in
@@ -148,32 +154,32 @@
            </note>
            <note xml:id="n004" target="#a004">
               <p>
-                <label rend="case(smallcaps)">Ver. 34</label> <hi rend="slant(italic)"><ecda:fauna>Locust</ecda:fauna>]</hi>
+                <label rend="case(smallcaps)">Ver. 34</label> <ref rend="slant(italic)"><ecda:fauna>Locust</ecda:fauna>]</ref>
                 This is also a lofty tree. It is of quick growth and handsome, and
                 produces a not disagreeable fruit in a <unclear cert="low">shut</unclear> pod or legumen, about three inches long. It
                 is a serviceable wood. In botanical books, I find three different names for the locust tree;
-                that meant here is the <foreign xml:id="la" rend="slant(italic)">Siliqua adulis</foreign>.
+                that meant here is the <distinct type="scientific" xml:id="la" rend="slant(italic)">Siliqua adulis</distinct>.
               </p>
            </note>
            <note xml:id="n005" target="#a005">
              <p>
-                 <label rend="case(smallcaps)">Ver. 36</label> <hi rend="slant(italic)">or vast ceiba save.]</hi>
+                 <label rend="case(smallcaps)">Ver. 36</label> <ref rend="slant(italic)">or vast ceiba save.]</ref>
                  Canoes have been scooped out of this tree, capable
                  of holding upwards of a hundred people; and many hundreds, as authors relate, have
                  been at once sheltered by its shade. Its pods contain a very soft short cotton, like
                  silk:hence the <name>English</name> call the tree the Silk-cotton-tree; and the <name>Spaniards</name> name
-                 its cotton <soCalled rend="slant(italic)"><foreign xml:lang="es">Lana de ceiba</foreign></soCalled>. It has been wrought into stockings, but its commonest use is
+                 its cotton <distinct type="dialect" xml:lang="es">Lana de ceiba</distinct>. It has been wrought into stockings, but its commonest use is
                  to stuff pillows and mattrasses. It might be made an article of commerce, as the
                  tree grows without trouble, and is yearly covered with pods. An infusion of the
                  leaves is a gentle diaphoretic, and much recommended in the small-pox. The botanical
-                 name of the ceiba is <soCalled xml:lang="la">Bombax</soCalled>; and the <name>French</name> call it <soCalled rend="slant(italic)"><foreign xml:lang="fr">Fromager</foreign></soCalled>. There are two
+                 name of the ceiba is <soCalled xml:lang="la">Bombax</soCalled>; and the <name>French</name> call it <distinct type="dialect" xml:lang="fr">Fromager</distinct>. There are two
                  species; the stem of one being prickly, and that of the other smooth.
              </p> 
            </note>
            <note xml:id="n006" target="#a006">
               <p>
-                 <label rend="case(smallcaps)">Ver. 37</label> <hi rend="slant(italic)">Yet spare the guava,]</hi>
-                 The <name>Spaniards</name> call this tree <soCalled><foreign xml:lang="es">guayava</foreign></soCalled>. It bears a
+                 <label rend="case(smallcaps)">Ver. 37</label> <ref rend="slant(italic)">Yet spare the guava,]</ref>
+                 The <name>Spaniards</name> call this tree <distinct type="dialect" xml:lang="es">guayava</distinct>. It bears a
                  fruit as large, and of much the same shape as a golden pippen. This is of three
                  species, the yellow, the amazon, and the white; the last is the most delicate, but
                  the second sort the largest: All are equally wholesome, when stewed or made into
@@ -182,13 +188,13 @@
                  however, goes off by use, and they become exceedingly agreeable. <persName>Acosta</persName> says
                  the <rs type="properAdjective">Peruvian</rs> guavas surpass those of any other part of <placeName>America</placeName>. The bark of the
                  tree is an astringent, and tanns leather as well as that of oak. The <name>French</name> call the
-                 tree <soCalled><foreign>Goyavier</foreign></soCalled>.
+                 tree <distinct type="dialect" xml:lang="fr">Goyavier</distinct>.
               </p>
            </note>
            <note xml:id="n007" target="#a007">
               <p>
-                 <label>Ver. 37.</label> <hi>—yet the guaiac spare;]</hi> 
-                 The lignum-vitae, or pockwood tree. The
+                 <label>Ver. 37.</label> <ref>—yet the guaiac spare;]</ref> 
+                 The <ecda:flora>lignum-vitae</ecda:flora>, or <ecda:flora ana="#ana_medical">pockwood tree</ecda:flora>. The
                  virtues of every part of this truly medicinal tree are too well known to be enumerated
                  here. The hardness and incorruptibility of its timber make abundant amends
                  for the great slowness of its growth, for of it are formed the best posts for houses against
@@ -197,7 +203,7 @@
            </note>
            <note xml:id="n008" target="#a008">
               <p>
-                 <label>Ver. 37.</label> <hi>The golden shaddoc,]</hi>
+                 <label>Ver. 37.</label> <ref>The golden <ecda:flora ana="#ana_food">shaddoc</ecda:flora>,]</ref>
                  This is the largest and finest kind of orange. It
                  is not a native of <placeName>America</placeName>, but was brought to the islands, from the <placeName>East-Indies</placeName>,
                  by an <!-- Englishman, whose name it bears -->. It is of three kinds, the sweet, the
@@ -209,10 +215,10 @@
            </note>
            <note xml:id="n009" target="#a009">
               <p>
-                 <label>Ver. 45.</label> <hi>sabbaca:]</hi>
+                 <label>Ver. 45.</label> <ref>sabbaca:]</ref>
                  This is the <rs type="properAdjective">Indian name of the</rs> avocato, avocado, avigato, or, as
                  the <name>English</name> corruptly call it, alligator-pear. The <name>Spaniards</name> in <placeName>South-America</placeName> name
-                 it <soCalled><foreign xml:lang="es">aguacate</foreign></soCalled>, and under that name it is described by <persName ref="#francisco_de_ulloa_0001">Ulloa</persName>. However, in <placeName>Peru</placeName> and
+                 it <distinct type="dialect" xml:lang="es">aguacate</distinct>, and under that name it is described by <persName ref="#francisco_de_ulloa_0001">Ulloa</persName>. However, in <placeName>Peru</placeName> and
                  <placeName>Mexico</placeName>, it is better known by the appellation of <soCalled>palta</soCalled> or <soCalled>palto</soCalled>. It is a sightly tree, of
                  two species; on bearing a green fruit, which is the most delicate, and the other
                  a red, which is less esteemed, and grows chiefly in <placeName>Mexico</placeName>. When ripe, the skin
@@ -223,16 +229,16 @@
                  thighs, and contains a large stone, frome whence the tree is propagated. These trees
                  bear fruit but once a year. Few strangers care for it; but, by use, soon become fond
                  of it. The juice of the kernel marks linen with a violet colour. Its wood is soft
-                 and consequently of little use. The <name>French</name> call it <soCalled><foreign>Bois d' anise</foreign></soCalled>, and the tree <soCalled><foreign>Avocat</foreign></soCalled>:
-                 the botanical name is <soCalled>Persea</soCalled>.
+                 and consequently of little use. The <name>French</name> call it <distinct type="dialect" xml:lang="fr">Bois d' anise</distinct>, and the tree <distinct xml:lang="fr" type="dialect">Avocat</distinct>:
+                 the botanical name is <distinct type="scientific">Persea</distinct>.
               </p>
            </note>
            <note xml:id="n010" target="#a010">
               <p>
-                 <label>Ver. 60.</label> <hi>green St. Christopher,]</hi> This beautiful and fertile island, and which,
+                 <label>Ver. 60.</label> <ref>green St. Christopher,]</ref> This beautiful and fertile island, and which,
                  in <persName>Shakespear's</persName> words, may justly be stiled
                  <quote rend="block">A precious stone set in the silver sea,</quote>
-                 lies in the seventeenth degree <choice><abbr>N. L.</abbr><expan><foreign>Nomen loci<!-- ?? --></foreign></expan></choice>. It was discovered by the great <persName ref="#christopher_columbus_1450">Christopher Columbus</persName>,
+                 lies in the seventeenth degree <choice><abbr>N. L.</abbr><expan><distinct type="geographical" xml:lang="la">Nomen loci<!-- ?? --></distinct></expan></choice>. It was discovered by the great <persName ref="#christopher_columbus_1450">Christopher Columbus</persName>,
                  in his second voyage, <date>1493</date>, who was so pleased with his appearance, that he honoured
                  it with his <rs type="properAdjective">Christian</rs> name. Though others pretend, that appellation was given it from
                  an imaginary resemblance between a high mountain in its centre, now called <geogName>Mount Misery</geogName>
@@ -286,20 +292,20 @@
                  Chrisopher</placeName>: but the war of the partition soon after breaking out, they were finally expelled,
                  and the whole island was ceded in Sovereignty to the crown of <placeName>Great Britain</placeName>, by the
                  <name>treaty of <placeName>Utrecht</placeName></name>. Since that time, <placeName>St. Christopher</placeName> has gradually improved, and it
-                 is now at the height of perfection. The Indian name of <placeName>St. Christopher</placeName> is <soCalled><foreign>Liamuiga</foreign></soCalled>,
+                 is now at the height of perfection. The Indian name of <placeName>St. Christopher</placeName> is <distinct type="dialect"><rs type="place">Liamuiga</rs></distinct>,
                  or the Fertile Island.
               </p>
            </note>
            <note xml:id="n011" target="#a011">
               <p>
-                 <label>Ver. 71</label><hi>yet virgins, far more beautiful]</hi> The inhabitants of <placeName>St. Christopher</placeName> look
+                 <label>Ver. 71</label><ref>yet virgins, far more beautiful]</ref> The inhabitants of <placeName>St. Christopher</placeName> look
                  whiter, are less sallow, and enjoy finer complexions, than any of the dwellers on the other islands.
                  <bibl><persName ref="#hans_sloane_1660">Sloane</persName></bibl>.
               </p>
            </note>
            <note xml:id="n012" target="#a012">
               <p>
-                 <label>Ver. 111.</label> <hi>and where the magnet]</hi>
+                 <label>Ver. 111.</label> <ref>and where the magnet]</ref>
                  The declension of the needle was discovered, A. D.
                  1492, by <persName ref="#christopher_columbus_1450">Columbus</persName>, in his first voyage to <placeName>America</placeName>: and would have been highly
                  alarming to any, but one of his undaunted philosophical turn of mind.
@@ -332,8 +338,8 @@
            </note>
            <note xml:id="n013" target="#a013">
               <p>
-                 <label>Ver. 132.</label> <hi>the bearded fig]</hi> This wonderful tree, by the <name>Indians</name> called the
-                 <soCalled><foreign>Banian-tree</foreign></soCalled>; and by the botanists <soCalled>Ficus Indica</soCalled>, or <soCalled>Bengalicusis</soCalled>, is exactly described
+                 <label>Ver. 132.</label> <ref>the bearded fig]</ref> This wonderful tree, by the <name>Indians</name> called the
+                 <distinct type="dialect">Banian-tree</distinct>; and by the botanists <distinct type="scientific">Ficus Indica</distinct>, or <distinct type="scientific">Bengalicusis</distinct>, is exactly described
                  by <persName>Q. Curtius</persName>, and beautifully by <persName>Milton</persName> in the following lines:
                  <quote rend="block">
                     <lg>
@@ -379,7 +385,7 @@
            </note>
            <note xml:id="n014" target="#a014">
               <p>
-                 <label>Ver. 134.</label> <hi>Chief Nevis,]</hi> This island, which does not contain many fewer square
+                 <label>Ver. 134.</label> <ref>Chief Nevis,]</ref> This island, which does not contain many fewer square
                  miles than <placeName>St. Christopher</placeName>, is more rocky, and almost of a circular figure. It is
                  separated from that island by a channel not above one mile and a half over, and
                  lies to windward. Its warm bath possesses all the medical properties of the hot well
@@ -415,7 +421,7 @@
            </note>
            <note xml:id="n016" target="#a016">
               <p>
-                 <label>Ver. 170</label> <hi>Yet will the arrow,]</hi> That part of the Cane which shoots up into the
+                 <label>Ver. 170</label> <ref>Yet will the arrow,]</ref> That part of the Cane which shoots up into the
                  fructification, is called by planters its Arrow, having been probably used for that 
                  purpose by the <name>Indians</name> Till the arrow drops, all additional jointing in the Cane is
                  supposed to be stopped
@@ -423,22 +429,22 @@
            </note>
            <note xml:id="n017" target="#a017">
               <p>
-                 <label>Ver. 179.</label> <hi>And highest temper,]</hi> Shell, or rather marble quick-lime, is so called
+                 <label>Ver. 179.</label> <ref>And highest temper,]</ref> Shell, or rather marble quick-lime, is so called
                  by the planters: Without this, the juice of the Cane cannot be concreted into sugar,
                  at least to advantage. <!-- See Book III. --> With quick-lime the <name>French</name> join ashes as a
-                 temper, and this mixture they call <soCalled><foreign xml:lang="fr"><unclear>Enyvrage</unclear></foreign></soCalled>. It is hoped the Reader will pardon the
+                 temper, and this mixture they call <distinct type="dialect" xml:lang="fr"><unclear>Enyvrage</unclear></distinct>. It is hoped the Reader will pardon the
                  introduction of the verb saccharize, as no other so emphatically expressed the Author's 
                  meaning; for some chemists define sugar to be a native salt, and others a soap.
               </p>
            </note>
            <note xml:id="n018" target="#a018">
               <p>
-                 <label>Ver. 206.</label> <hi>And Liamuiga,]</hi> The <placeName>Caribbean</placeName> name of <placeName>St. Christopher</placeName>.
+                 <label>Ver. 206.</label> <ref>And Liamuiga,]</ref> The <placeName>Caribbean</placeName> name of <placeName>St. Christopher</placeName>.
               </p>
            </note>
            <note xml:id="n019" target="#a019">
               <p>
-                 <label>Ver. 237</label> <hi>That yams improve the soil.]</hi> The botanical name of this plant is <soCalled>Dioscoria</soCalled>.
+                 <label>Ver. 237</label> <ref>That yams improve the soil.]</ref> The botanical name of this plant is <soCalled>Dioscoria</soCalled>.
                  Its leaves, like those of the water-melon, or gourd, soon mantle over the ground 
                  where it is planted. It takes about eight months to come to come to perfection, and then is
                  
@@ -452,7 +458,7 @@
            </note>
            <note xml:id="n020" target="#a020">
               <p>
-                 <label>Ver. 260.</label> <hi>gemmy tops;]</hi> The summit of the Cane being smaller-jointed as well as
+                 <label>Ver. 260.</label> <ref>gemmy tops;]</ref> The summit of the Cane being smaller-jointed as well as
                  softer, and consequently having more gems, from whence the young sprouts shoot, is
                  properer for planting than any other part of it. From one to four junks, each about 
                  a foot long, are put in every hole. Where too many junks are planted in one hole,
@@ -464,13 +470,13 @@
            </note>
            <note xml:id="n021" target="#a021">
               <p>
-                 <label>Ver. 290</label> <hi>By Ceres' son,]</hi> <persName>Jethro Tull</persName>, Esq; the greatest improver in modern
+                 <label>Ver. 290</label> <ref>By Ceres' son,]</ref> <persName>Jethro Tull</persName>, Esq; the greatest improver in modern
                  husbandry.
               </p>
            </note>
            <note xml:id="n022" target="#a022">
               <p>
-                 <label>Ver. 334.</label> <hi>Mosquitos,]</hi> This is a <rs type="properAdjective">Spanish</rs> word, signifying a Gnat or Fly. They
+                 <label>Ver. 334.</label> <ref>Mosquitos,]</ref> This is a <rs type="properAdjective">Spanish</rs> word, signifying a Gnat or Fly. They
                  are very troublesome, especially to strangers, whom they bite unmercifully, causing
                  a yellow coloured tumour, attended with excessive itching. Ugly ulcers have often
                  been occasioned by scratching those swellings, in persons of a bad habit of body.
@@ -487,7 +493,7 @@
            </note>
            <note xml:id="n023" target="#a023">
               <p>
-                 <label>Ver. 334.</label> <hi>sand-flies,]</hi> This insect the <name>Spaniards</name> call <soCalled><foreign>Mosquitilla</foreign></soCalled>, being much
+                 <label>Ver. 334.</label> <ref>sand-flies,]</ref> This insect the <name>Spaniards</name> call <distinct type="dialect" xml:lang="es">Mosquitilla</distinct>, being much
                  smaller than the Mosquito. Its bite is like a spark of <unclear>fire</unclear>, falling on the skin, which
                  it raises into a small tumour accompanied with itching. But if the sand-fly <unclear>causes</unclear> 
                  a sharper and more sudden pain than the Mosquito, yet it is a more honourable
@@ -497,7 +503,7 @@
            </note>
            <note xml:id="n024" target="#a024">
               <p>
-                 <label>Ver. 337.</label> <hi>Cockroaches crawl]</hi> This is a large species of the chafer, or scaribæus,
+                 <label>Ver. 337.</label> <ref>Cockroaches crawl]</ref> This is a large species of the chafer, or scaribæus,
                  and is a most disagreeable as well as distructive insect. There is scarece any thing 
                  which it will not devour, and wherever it has remained for any time, it leaves
                  a nauseous smell behind it. Though better than an inch long, their thickness is
@@ -509,12 +515,12 @@
                  is neither of so burnished a colour, nor so quick in its motions as the common sort,
                  that which it is also less frequent, and not so pernicious; yet both will nible peoples
                  toe-ends, especially if not well washed, and have sometimes occasioned uneasy
-                 sores there. They are natives of a warm climate. The <name>French</name> call them <soCalled><foreign><unclear>Ravets</unclear></foreign></soCalled>.
+                 sores there. They are natives of a warm climate. The <name>French</name> call them <distinct type="dialect" xml:lang="fr"><unclear>Ravets</unclear></distinct>.
               </p>
            </note>
            <note xml:id="n025" target="#a025">
               <p>
-                 <label>Ver 341.</label> <hi>the speckled lizard]</hi> This is meant of the ground-lizard, and not of the
+                 <label>Ver 341.</label> <ref>the speckled lizard]</ref> This is meant of the ground-lizard, and not of the
                  tree-lizard, which is of a fine green colour. There are many kinds of ground-
                  lizards, which, as they are common in the hot parts of <placeName>Europe</placeName>, I shall not describe.
                  
@@ -533,7 +539,7 @@
            </note>
            <note xml:id="n026" target="#a026">
               <p>
-                 <label>Ver. 342.</label> <hi>And black crabs]</hi> Black land-crabs are excellent eating; but as they
+                 <label>Ver. 342.</label> <ref>And black crabs]</ref> Black land-crabs are excellent eating; but as they
                  sometimes will occasion a most violent <soCalled>cholera morbus</soCalled>, (owing, say planters, to their
                  feeding on the mahoe-berry) they should never be dressed till they have fed for some 
                  weeks in a crab house, after being caught by the <name>Negroes</name>. When they moult, they
@@ -546,7 +552,7 @@
            </note>
            <note xml:id="n027" target="#a027">
               <p>
-                 <label>Ver. 393</label> <hi>Whose brow the fern-tree]</hi> This only grows in mountainous situations.
+                 <label>Ver. 393</label> <ref>Whose brow the fern-tree]</ref> This only grows in mountainous situations.
                  Its stem shoots up to a considerable height, but it does not divide into branches, till
                  near the summit, where it shoots out horizontally, like an umbrella, into leaves, which
                  resemble those of the common fern. I know of no medical uses, whereto this singularly
@@ -557,7 +563,7 @@
            </note>
            <note xml:id="n028" target="#a028">
               <p>
-                 <label>Ver. 418.</label> <hi>The mail'd anana]</hi> This is the pine-apple, and needs no description;
+                 <label>Ver. 418.</label> <ref>The mail'd anana]</ref> This is the pine-apple, and needs no description;
                  the <unclear>cherimoya</unclear>, a South-American fruit, is by all, who have tasted both, allowed to
                  surpass the pine, and is even said to be more wholesome. The botanical name of
                  the pineapple is <soCalled>bromelia</soCalled>. Of the wild pine-apple, or annanas <gap extent="4letters"/>, hedges are
@@ -566,22 +572,22 @@
            </note>
            <note xml:id="n029" target="#a029">
               <p>
-                 <label>Ver. 482.</label> <hi>if seasons glad the soil.]</hi>Long-continued and violent rains are called
+                 <label>Ver. 482.</label> <ref>if seasons glad the soil.]</ref>Long-continued and violent rains are called
                  <soCalled>Seasons</soCalled> in the <placeName>West-Indies.</placeName>
               </p>
            </note>
            <note xml:id="n030" target="#a030">
               <p>
-                 <label>Ver. 500.</label> <hi>Now children of this clime:]</hi> It is supposed that oranges, lemons, and
+                 <label>Ver. 500.</label> <ref>Now children of this clime:]</ref> It is supposed that oranges, lemons, and
                  limes were introduced into <placeName>America</placeName> by the <name>Spaniards</name>; but I am more inclined to
                  believe they are natural to this climate. The <name>Spaniards</name> themselves probably had the
-                 two first from the <name>Saracens</name>, for the <rs type="properAdjective">Spanish</rs> noun <soCalled><foreign>Naranja</foreign></soCalled>, whence the <rs type="properAdjective">English</rs> word
+                 two first from the <name>Saracens</name>, for the <rs type="properAdjective">Spanish</rs> noun <distinct type="dialect" xml:lang="es">Naranja</distinct>, whence the <rs type="properAdjective">English</rs> word
                  <soCalled>Orange</soCalled>, is plainly <rs type="properAdjective">Arabic</rs>.
               </p>
            </note>
            <note xml:id="n031" target="#a031">
               <p>
-                 <label>Ver. 503</label> <hi>the logwood-hedge.]</hi> <persName>Linnæus's</persName> name for this useful tree is <soCalled>Hæmotoxylon</soCalled>,
+                 <label>Ver. 503</label> <ref>the logwood-hedge.]</ref> <persName>Linnæus's</persName> name for this useful tree is <soCalled>Hæmotoxylon</soCalled>,
                  but it is better known to physicians by that of the <soCalled>Lignum campechense</soCalled>. Its virtues, as a
                  medicine, and properties as an ingredient in dying, need not to be enumerated in
                  this place. It makes a no less strong than beautiful hedge in the West-Indies, where
@@ -590,25 +596,25 @@
            </note>
            <note xml:id="n032" target="#a032">
               <p>
-                 <label>Ver. 508.</label> <hi>Nor shall the ricinus]</hi> This shrub is commonly called the physic-nut.
+                 <label>Ver. 508.</label> <ref>Nor shall the ricinus]</ref> This shrub is commonly called the physic-nut.
                  It is generally divided into three kinds, the common, the <!-- French, and the Spanish -->,
                  which differ from each other in their leaves and flowers, if not in their fruit or 
                  seeds. The plant from which the castor-oil is extracted is also called <soCalled>Ricinus</soCalled>, though
                  it has no resemblance to any of the former, in leaves, flowers, or seeds. In one particular
                  they all agree <abbr>viz.</abbr> in their yielding to coction or expression a purgative or emetic
-                 oil. The <name>Spaniards</name> name these nuts <soCalled><foreign>Avellanas purgativas</foreign></soCalled>; hence Ray terms them
-                 <soCalled><foreign>Avellanæ purgatrices novi orbis</foreign></soCalled>. By roasting they are supposed to lose part of their virulency,
+                 oil. The <name>Spaniards</name> name these nuts <distinct type="dialect" xml:lang="es">Avellanas purgativas</distinct>; hence Ray terms them
+                 <distinct type="dialect" xml:lang="la"><!-- check "type" on this one... -->Avellanæ purgatrices novi orbis</distinct>. By roasting they are supposed to lose part of their virulency,
                  which is wholly destroyed, say some people, by taking out a leaf-like substance
                  that is to be found between the lobes. The nut exceeds a walnut, or even an
                  almond, in sweetness, and yet three or four of them will operate briskly both up and 
                  down. The <name>French</name> call this useful shrub <soCalled><foreign>Medecinier</foreign></soCalled>. That species of it which bears
-                 red coral like flowers is named <soCalled><foreign>Bellyack</foreign></soCalled> by the <name>Barbadians</name>; and its ripe seeds are supposed
+                 red coral like flowers is named <distinct type="dialect">Bellyack</distinct> by the <name>Barbadians</name>; and its ripe seeds are supposed
                  to be a specific against melancholy.
               </p>
            </note>
            <note xml:id="n033" target="#a033">
               <p>
-                 <label>Ver. 510</label> <hi>The acassee,]</hi> <soCalled>Acacia.</soCalled> This is a species of thorn; the juice of the
+                 <label>Ver. 510</label> <ref>The acassee,]</ref> <soCalled>Acacia.</soCalled> This is a species of thorn; the juice of the
                  root is supposed to be poisonous. Its seeds are contained in a pod or ligumen. It is
                  of the class of the syngenesia. No astringent juice is extracted from it. Its trivial
                  name is <soCalled>Cashaw</soCalled>. <persName>Tournefort</persName> describes it in his voyage to the <placeName>Levant</placeName>. Some call it
@@ -619,13 +625,13 @@
            </note>
            <note xml:id="n034" target="#a034">
               <p>
-                 <label>Ver. 515.</label> <hi>the privet]</hi> <soCalled>Ligustrum.</soCalled> This shrub is sufficiently known. Its leaves
+                 <label>Ver. 515.</label> <ref>the privet]</ref> <soCalled>Ligustrum.</soCalled> This shrub is sufficiently known. Its leaves
                  and flowers make a good gargle in the aphthæ, and ulcured throat.
               </p>
            </note>
            <note xml:id="n035" target="#a035">
               <p>
-                 <label>Ver. 520.</label> <hi>carnation fair.</hi> This is indeed a most beautiful flowering shrub. It is
+                 <label>Ver. 520.</label> <ref>carnation fair.</ref> This is indeed a most beautiful flowering shrub. It is
                  a native of the <placeName>West-Indies</placeName>, and called, from a <rs type="properAdjective">French</rs> governor, named <persName>Depoinci</persName>,
                  <soCalled>Poinciana</soCalled>. If permitted, it will grow twenty feet high; but in order to make it a
                  good fence, it should be kept low. It is always in blossom. Tho' not purgative, it is
@@ -637,7 +643,7 @@
            </note>
            <note xml:id="n036" target="#a036">
               <p>
-                 <label>Ver. 526.</label> <hi>seen the humming bird,]</hi> The humming bird is called <soCalled><foreign>Picaflore</foreign></soCalled> by the
+                 <label>Ver. 526.</label> <ref>seen the humming bird,]</ref> The humming bird is called <distinct type="dialect" xml:lang="fr">Picaflore</distinct> by the
                  <name>Spaniards</name>, on account of its hovering over flowers, and sucking their juices, without
                  lacerating or even so much as discomposing their petals. Its <rs type="properAdjective">Indian</rs> name, says
                  <persName>Ulloa</persName>, is <soCalled><foreign>Guinde</foreign></soCalled>, though it is also known by the appellation of <soCalled>Rabilargo</soCalled> and <soCalled>Lizongero</soCalled>.
@@ -651,7 +657,7 @@
            </note>
            <note xml:id="n037" target="#a037">
               <p>
-                 <label>Ver. 536.</label> <hi>prickly pear;]</hi> The botanical name of this plant is <soCalled>Opuntia</soCalled>; it will 
+                 <label>Ver. 536.</label> <ref>prickly pear;]</ref> The botanical name of this plant is <soCalled>Opuntia</soCalled>; it will 
                  
                  <!-- insert pb info here -->
                  
@@ -672,7 +678,7 @@
            </note>
            <note xml:id="n038" target="#a038">
               <p>
-                 <label>Ver. 538.</label> <hi>wild liquorice]</hi> This is a scandent plant, from which the <name>Negroes</name> gather
+                 <label>Ver. 538.</label> <ref>wild liquorice]</ref> This is a scandent plant, from which the <name>Negroes</name> gather
                  what they call <soCalled>Jumbee Beeds</soCalled>. These are about the size of pigeon peas, almost
                  round, of a red colour, with a black speck on one extremity. They act as an
                  emetic, but, being violent in their operation, great caution should be observed in
@@ -683,13 +689,13 @@
            </note>
            <note xml:id="n039" target="#039">
               <p>
-                 <label>Ver. 559.</label> <hi>contagious blast.]</hi> So a particular species of blight is called in the <placeName>West-
+                 <label>Ver. 559.</label> <ref>contagious blast.]</ref> So a particular species of blight is called in the <placeName>West-
                  Indies</placeName>. See its description in the second book.
               </p>
            </note>
            <note xml:id="n040" target="#a040">
               <p>
-                 <label>Ver. 572.</label> <hi>yellow deaths]</hi> The yellow fever, to which <name>Europeans</name> of a sanguine
+                 <label>Ver. 572.</label> <ref>yellow deaths]</ref> The yellow fever, to which <name>Europeans</name> of a sanguine
                  habit of body, and who exceed in drinking or exercise, are liable upon their arrival
                  in the <placeName>West Indies</placeName>. The <name>French</name> call it <soCalled><foreign>Maladie de Siame</foreign></soCalled>, or more properly <soCalled><foreign>La
                  Fievre des Matelots</foreign></soCalled>. Those who have lived any time in the islands are no more
@@ -699,7 +705,7 @@
            </note>
            <note xml:id="n041" target="#a041">
               <p>
-                 <label>Ver. 596.</label> <hi>cassada,]</hi> Cassavi, cassava, is called <soCalled>Jatropha</soCalled> by botanists. Its
+                 <label>Ver. 596.</label> <ref>cassada,]</ref> Cassavi, cassava, is called <soCalled>Jatropha</soCalled> by botanists. Its
                  meal makes a wholesome and well-tasted bread, although its juice be poisonous.
                  There is a species of cassada which may be eat with safety, without expressing the
                  juice; this the <name>French</name> call Camagnoc. The colour of its root is white, like a
@@ -720,7 +726,7 @@
            </note>
            <note xml:id="n042" target="#a042">
               <p>
-                 <label>Ver. 597.</label> <hi>tanies:</hi> This wholesome root, in some of the islands, is called <soCalled>Edda</soCalled>:
+                 <label>Ver. 597.</label> <ref>tanies:</ref> This wholesome root, in some of the islands, is called <soCalled>Edda</soCalled>:
                  Its botanical name is <soCalled>Arum maximum Ægyptiacum</soCalled>. There are three species of tanies,
                  the blue, the scratching, and that which is commonly roasted. The blossoms of
                  all three are very fragrant, in a morning or evening. The young leaves, as well 
@@ -731,7 +737,7 @@
            </note>
            <note xml:id="n043" target="#a043">
               <p>
-                 <label>Ver. 598.</label> <hi>to the soursop]</hi> The true <rs type="properAdjective">Indian</rs> name of this tree is <soCalled>Suirsaak</soCalled>. It grows
+                 <label>Ver. 598.</label> <ref>to the soursop]</ref> The true <rs type="properAdjective">Indian</rs> name of this tree is <soCalled>Suirsaak</soCalled>. It grows
                  in the barrenest places to a considerable height. Its fruit will often weigh two pounds.
                  Its skin is green, and somewhat prickly. The pulp is not disagreeable to the
                  palate, being cool, and having its sweetness tempered with some degree of an
@@ -747,7 +753,7 @@
            </note>
            <note xml:id="n044" target="#a044">
               <p>
-                 <label>Ver. 601</label> <hi>cotton]</hi> The fine down, which this shrub produces to invelope its seeds,
+                 <label>Ver. 601</label> <ref>cotton]</ref> The fine down, which this shrub produces to invelope its seeds,
                  is sufficiently known. The <rs type="properAdjective">English</rs>, <rs type="properAdjective">Italian</rs>, and <rs type="properAdjective">French</rs> names, evidently are derived
                  from the <rs type="properAdjective">Arabic</rs> <soCalled><foreign>Algodon</foreign></soCalled>, as the <name>Spaniards</name> at this day call it. It was first
                  brought by the <name>Arabians</name> into the <placeName>Levant</placeName>, where it is now cultivated with great success.
@@ -763,7 +769,7 @@
            </note>
            <note xml:id="n045" target="#a045">
               <p>
-                 <label>Ver. 605.</label> <hi>cacao-walk</hi> It is also called <soCalled>Cocao</soCalled> and <soCalled>Coco</soCalled>. It is a native of some of
+                 <label>Ver. 605.</label> <ref>cacao-walk</ref> It is also called <soCalled>Cocao</soCalled> and <soCalled>Coco</soCalled>. It is a native of some of
                  
                  <!-- insert pb info here -->
                  
@@ -792,7 +798,7 @@
            </note>
            <note xml:id="n046" target="#a046">
               <p>
-                 <label>Ver. 606.</label> <hi>his coffee]</hi> This is certainly of <rs type="properAdjective">Arabic</rs> derivation; and has been used
+                 <label>Ver. 606.</label> <ref>his coffee]</ref> This is certainly of <rs type="properAdjective">Arabic</rs> derivation; and has been used
                  in the East, as a drink, time immemorial. The inhabitants about the mouth of the
                  <geogName>Red-Sea</geogName> were taught the use of it by the <name>Persians</name>, say authors, in the fifteenth century;
                  and the coffee-shrub was gradually introduced into Arabia Felix, whence
@@ -816,7 +822,7 @@
            </note>
            <note xml:id="n047" target="#a047">
               <p>
-                 <label>Ver. 625.</label> <hi>tamarind-vista,]</hi> This large, shady, and beautiful tree grows fast even
+                 <label>Ver. 625.</label> <ref>tamarind-vista,]</ref> This large, shady, and beautiful tree grows fast even
                  in the driest soils, and lasts long; and yet its wood is hard, and very fit for mechanical
                  uses. The leaves are smaller than those of senna, and pennated: they taste sourish,
                  
@@ -834,7 +840,7 @@
            </note>
            <note xml:id="n048" target="#a048">
               <p>
-                 <label>Ver. 642.</label> <hi>and ere the swift-wing'd zumbadore,]</hi> This bird, which is one of the
+                 <label>Ver. 642.</label> <ref>and ere the swift-wing'd zumbadore,]</ref> This bird, which is one of the
                  largest and swiftest known, is only seen at night, or rather heard; for it makes
                  a hideous humming noise (whence its name) on the desert tops of the <geogName>Andes</geogName>.
                  See <persName>Ulloa's</persName> <bibl><title>Voyage to <placeName>South-America</placeName></title></bibl>. It is also called <soCalled>Condor</soCalled>. Its wings,
@@ -844,32 +850,32 @@
            </note>
            <note xml:id="n049" target="#a049">
               <p>
-                 <label>Ver. 644.</label> <hi>Ere fire-flies]</hi> This surprising insect is frequent in <placeName>Guadaloupe</placeName>, &amp;c.
+                 <label>Ver. 644.</label> <ref>Ere fire-flies]</ref> This surprising insect is frequent in <placeName>Guadaloupe</placeName>, &amp;c.
                  and all the warmper parts of <placeName>America</placeName>. There are none of them in the <placeName><rs type="properAdjective">English</rs>
                  Caribbee</placeName>, or <placeName>Virgin-Islands</placeName>.
               </p>
            </note>
            <note xml:id="n050" target="#a050">
               <p>
-                 <label>Ver. 645.</label> <hi>on rapid Twilight's heel:]</hi>  There is little or no twilight in the <placeName>West-
+                 <label>Ver. 645.</label> <ref>on rapid Twilight's heel:]</ref>  There is little or no twilight in the <placeName>West-
                  Indies. All the year round it is dark before eight at night. The dawn is equally
                  short.</placeName>
               </p>
            </note>
            <note xml:id="n051" target="#a051">
               <p>
-                 <label>Ver. 46</label> <hi>peculiar pest]</hi> The monkeys which are now so numerous in the mountainous
+                 <label>Ver. 46</label> <ref>peculiar pest]</ref> The monkeys which are now so numerous in the mountainous
                  parts of <placeName>St. Christopher</placeName>, were brought thither by the <name>French</name> when they possessed 
                  half that island. The circumstance we learn from <persName rend="italic">Pere Labat</persName>, who farther
                  tells us, that they are a most delicate food. The <name>English-Negroes</name> are very fond 
                  of them, but the <name>White-inhabitants</name> do not eat them. They do a great deal of mischief
-                 in <placeName>St. Kitts</placeName>, destroying many thousand pounds <hi>Sterling's</hi> worth of Canes
+                 in <placeName>St. Kitts</placeName>, destroying many thousand pounds <ref>Sterling's</ref> worth of Canes
                  every year.
               </p>
            </note>
            <note xml:id="n052" target="#a052">
               <p>
-                 <label>Ver. 64</label> <hi>These to destroy]</hi> Rats &amp;c. are not natives of <placeName>America</placeName>, but came by
+                 <label>Ver. 64</label> <ref>These to destroy]</ref> Rats &amp;c. are not natives of <placeName>America</placeName>, but came by
                  shipping from <placeName>Europe</placeName>. They breed in the ground, under loose rocks and bushes.
                  <persName>Durante</persName>, a Roman, who was a physician to <persName>Pope Sixtus Quintus</persName>, and who wrote a
                  <rs type="properAdjective">Latin</rs> poem on the preservation of health, enumerates domestic rats among animals
@@ -881,7 +887,7 @@
            </note>
            <note xml:id="n053" target="#a053">
               <p>
-                 <label>Ver. 69</label> <hi>mangrove-banks]</hi> This tree, which botanists call <soCalled>Rizophra</soCalled>, grows in
+                 <label>Ver. 69</label> <ref>mangrove-banks]</ref> This tree, which botanists call <soCalled>Rizophra</soCalled>, grows in
                  marshy soils, and on the sides of rivers; and, as the brances take root, they frequently
                  render narrow strams impassible to boats. Oysters often adhere to their roots,
                  &amp;c. The <rs type="properAdjective">French</rs> name of this strange water shrub is <ecda:flora>Paltuvier</ecda:flora>. The species
@@ -890,7 +896,7 @@
            </note>
            <note xml:id="n054" target="#a054">
               <p>
-                 <label>Ver. 74</label> <hi>Dread alligators]</hi> This dreadful animal is amphibious, and seldom lays
+                 <label>Ver. 74</label> <ref>Dread alligators]</ref> This dreadful animal is amphibious, and seldom lays
                  fewer than 100 eggs. These she carefully covers with sand. But, notwithstanding
                  this precaution, the gallinazo (a large species of carrion crow) conceals itself among
                  the thick boughs of the nieghbouring trees, and thus often discovers the hoard of the
@@ -907,7 +913,7 @@
            </note>
            <note xml:id="n055" target="#a055">
               <p>
-                 <label>Ver. 75</label> <hi>teeth-fil'd Ibbos]</hi> Or <name rend="italic">Ebbos</name>, as they are more commonly called, are a
+                 <label>Ver. 75</label> <ref>teeth-fil'd Ibbos]</ref> Or <name rend="italic">Ebbos</name>, as they are more commonly called, are a
                  numerous nation. Many of them have their teeth filed, and blackened in an extraordinary
                  manner. They make good slaves when bought young; but are, in general,
                  
@@ -922,14 +928,14 @@
            </note>
            <note xml:id="n056" target="#a056">
               <p>
-                 <label>Ver. 76</label> <hi>Nor thou their wayward]</hi> <persName>Pere Labat</persName> says that Cane-rats give those
+                 <label>Ver. 76</label> <ref>Nor thou their wayward]</ref> <persName>Pere Labat</persName> says that Cane-rats give those
                  <name>Negroes</name> who eath them pulmonic disorders, but the good <name>Jesuit</name> was no physician. I
                  have been told by those who have eat them, that they are a very delicate food.
               </p>
            </note>
            <note xml:id="n057" target="#a057">
               <p>
-                 <label>Ver. 95</label> <hi>Tis safer then to mingle nightshade's juice]</hi> See the article <title rend="italic">Solanum</title> in
+                 <label>Ver. 95</label> <ref>Tis safer then to mingle nightshade's juice]</ref> See the article <title rend="italic">Solanum</title> in
                  <bibl><author><persName>Newman's</persName></author> Chemistry published by <publisher><persName>Dr. Lewis</persName></publisher>.</bibl> There is a species of <rs type="properAdjective">East-India</rs> animal
                  called a <ecda:fauna>Mungoes</ecda:fauna>, which bears a natural antipathy to rats. Its introduction into
                  the <placeName>Sugar-Islands</placeName> would, probably, effectuate the extirpation of this destructive vermin.
@@ -937,13 +943,13 @@
            </note>
            <note xml:id="n058" target="#a058">
               <p>
-                 <label>Ver. 114</label> <hi>the yellow thistle]</hi> The seeds of this plant are an excellent emetic;
+                 <label>Ver. 114</label> <ref>the yellow thistle]</ref> The seeds of this plant are an excellent emetic;
                  and almost as useful in dysenteric complaints as an ipecacuan. It grows every where.
               </p>
            </note>
            <note xml:id="n059" target="#a059">
               <p>
-                 <label>Ver. 119</label> <hi>Nor let rude hands the knotted grass profane,]</hi> This is a truly powerful
+                 <label>Ver. 119</label> <ref>Nor let rude hands the knotted grass profane,]</ref> This is a truly powerful
                  vermifuge; but, uncautiously administered, has often proved mortal. The juice
                  of it clarified, is sometimes given; but a decoction of it is greatly preferable. Its botanical
                  name is <distinct type="scientific">Spigelia</distinct>.
@@ -951,7 +957,7 @@
            </note>
            <note xml:id="n060" target="#a060">
               <p>
-                <label>Ver. 123</label>  <hi>The cow-itch also save;]</hi> This extraordinary vine should not be permitted
+                <label>Ver. 123</label>  <ref>The cow-itch also save;]</ref> This extraordinary vine should not be permitted
                  to grow in a Cane-piece; for Negroes have been known to fire the Canes, to
                  save themselves from the torture which attends working in grounds where it has
                  abounded. Mixed with molasses, it is a safe and excellent vermifuge. Its seeds, which
@@ -962,7 +968,7 @@
            </note>
            <note xml:id="n061" target="#a061">
               <p>
-                 <label>Ver. 128</label> <hi>Planter, thou may'st the humble chickweed]</hi> There are two kinds of
+                 <label>Ver. 128</label> <ref>Planter, thou may'st the humble chickweed]</ref> There are two kinds of
                  chickweed, which grow spontaneously in the <placeName>Caribbees</placeName>, and both possess very considerable
                  virtues, particularly that which potanists call <distinct type="scientific">Cajacia</distinct>, and which the
                  <name>Spaniards</name> emphatically name <distinct xml:lang="es" type="dialect">Erudos Cobres</distinct>, or <distinct>Snakeweed</distinct>, on account of its remarkable
@@ -975,7 +981,7 @@
            </note>
            <note xml:id="n062" target="#a062">
               <p>
-                 <label>Ver. 130</label> <hi>Not the confection]</hi> This medicine is called <distinct type="scientific">Mithridatium</distinct>, in honour
+                 <label>Ver. 130</label> <ref>Not the confection]</ref> This medicine is called <distinct type="scientific">Mithridatium</distinct>, in honour
                  of <persName>Mithridates king of <placeName>Pontus</placeName></persName>; who, by using it constantly, had secured himself
                  from the effects of poison, in such a manner, that, when he actually attempted to 
                  put an end to his life, by that means, he failed in his purpose. So, at least, <persName>Pliny</persName>
@@ -991,7 +997,7 @@
            </note>
            <note xml:id="n063" target="#a063">
               <p>
-                 <label>Ver. 131.</label> <hi>Not the bless'd apple]</hi> Authors are not agreed what the apple is, to
+                 <label>Ver. 131.</label> <ref>Not the bless'd apple]</ref> Authors are not agreed what the apple is, to
                  which <persName>Virgil</persName> attributes such remarkable virtues, nor is it indeed possible they ever
                  
                  <!-- insert pb info here -->
@@ -1003,13 +1009,13 @@
            </note>
            <note xml:id="n064" target="#a064">
               <p>
-                 <label>Ver. 149.</label> <hi>For not the costly root,]</hi> Some medical writers have bestwoed the high
+                 <label>Ver. 149.</label> <ref>For not the costly root,]</ref> Some medical writers have bestwoed the high
                  appellation of <distinct type="scientific">Donum Dei</distinct> on rhubarb.
               </p>
            </note>
            <note xml:id="n065" target="#a065">
               <p>
-                 <label>Ver. 171.</label> <hi>Thus cochinille]</hi> This is a <rs type="properAdjective">Spanish</rs> word. For the manner of
+                 <label>Ver. 171.</label> <ref>Thus cochinille]</ref> This is a <rs type="properAdjective">Spanish</rs> word. For the manner of
                  propagating this useful inect, see <bibl><author><persName>Sir Hans Sloane's</persName> <title>Natural History of <placeName>Jamaica</placeName></title></author></bibl>. It was
                  long believed in <placeName>Europe</placeName> to be a seed, or vegetable production. The botanical name
                  of the plant on which the <ecda:fauna>cochinille</ecda:fauna> feeds, is <distinct type="scientific">Opunita maxima, folio oblongo
@@ -1018,20 +1024,20 @@
            </note>
            <note xml:id="n066" target="#a066">
               <p>
-                 <label>Ver. 205.</label> <hi>Tho' seasons]</hi> Without a rainy season, the Sugar-cane could not be
+                 <label>Ver. 205.</label> <ref>Tho' seasons]</ref> Without a rainy season, the Sugar-cane could not be
                  cultivated to any advantage: for what <persName>Pliny the Elder</persName> writes of another plant may
                  be applied to this, <quote xml:lang="la" rend="italics">Gaudet irriguis, et toto anno bibere amat.</quote>
               </p>
            </note>
            <note xml:id="n067" target="#a067">
               <p>
-                 <label>Ver. 205.</label> <hi>this pestilence]</hi> It must, however, be confessed, that the blast is less frequent
+                 <label>Ver. 205.</label> <ref>this pestilence]</ref> It must, however, be confessed, that the blast is less frequent
                  in lands naturally rich, or such as are made so well by well-rotted manure.
               </p>
            </note>
            <note xml:id="n068" target="#a068">
               <p>
-                 <label>Ver. 218.</label> <hi>the plumb-tree sheds,]</hi> This is the <ecda:flora><rs type="properAdjective">Jamaica</rs> plumb tree</ecda:flora>. When covered
+                 <label>Ver. 218.</label> <ref>the plumb-tree sheds,]</ref> This is the <ecda:flora><rs type="properAdjective">Jamaica</rs> plumb tree</ecda:flora>. When covered
                  with fruit, it has no leaves upon it. The fruit is wholesome. In like manner,
                  the panspan is destitute of foliage when covered with flowers. The latter is
                  a species of jessamine, and grows as large as an apple-tree.
@@ -1039,7 +1045,7 @@
            </note>
            <note xml:id="n069" target="#a069">
               <p>
-                 <label>Ver. 231.</label> <hi>Eurus reigns]</hi> The East is the center of the trade-wind in the <placeName>West
+                 <label>Ver. 231.</label> <ref>Eurus reigns]</ref> The East is the center of the trade-wind in the <placeName>West
                  Indies</placeName>, which veers a few points to the North or South. What <persName>Homer</persName> says of the
                  West-wind, in his islands of the blessed, may more aptly be applied to the trade-
                  winds.
@@ -1047,19 +1053,19 @@
            </note>
            <note xml:id="n070" target="#a070">
               <p>
-                 <label>Ver. 265.</label> <hi>Cathäy]</hi> An old name for <placeName>China.</placeName>
+                 <label>Ver. 265.</label> <ref>Cathäy]</ref> An old name for <placeName>China.</placeName>
               </p>
            </note>
            <note xml:id="n071" target="#a071">
               <p>
-                 <label>Ver. 293.</label> <hi>stocks and mill-points:]</hi> The sails are fastened to the mill-points, as
+                 <label>Ver. 293.</label> <ref>stocks and mill-points:]</ref> The sails are fastened to the mill-points, as
                  those are to the stocks. They should always be taken down before the hurricane
                  season.
               </p>
            </note>
            <note xml:id="n072" target="#a072">
               <p>
-                 <label>Ver. 314.</label> <hi>strange burs]</hi> These are astral halos. <persName>Columbus</persName> soon made himself
+                 <label>Ver. 314.</label> <ref>strange burs]</ref> These are astral halos. <persName>Columbus</persName> soon made himself
                  master of the signs that precede a hurricane in the <placeName>West-Indies</placeName>, by which means
                  he saved his own squadron; while another large fleet, whose commander despised his
                  prognostics, put to sea, and was wrecked.
@@ -1067,7 +1073,7 @@
            </note>
            <note xml:id="n073" target="#a073">
               <p>
-                 <label>Ver. 392.</label> <hi>Solfaterre</hi> Volcanos are called <distinct type="geographical">sulphurs</distinct> or <distinct type="dialect">solfaterres</distinct>, in the <placeName>West
+                 <label>Ver. 392.</label> <ref>Solfaterre</ref> Volcanos are called <distinct type="geographical">sulphurs</distinct> or <distinct type="dialect">solfaterres</distinct>, in the <placeName>West
                  Indies</placeName>. There are a few mountainous islands in that part of the globe without them,
                  and those probably will destroy them in time. I saw much sulphur and alum in the
                  solfaterre at <placeName>Mountserrat</placeName>. The stream that runs through it, is almost as hot as boiling
@@ -1076,7 +1082,7 @@
            </note>
            <note xml:id="n074" target="#a074">
               <p>
-                 <label>Ver. 438.</label> <hi>the bending coco's]</hi> The coco-nut tree is of the palm genus; there are
+                 <label>Ver. 438.</label> <ref>the bending coco's]</ref> The coco-nut tree is of the palm genus; there are
                  several species of them, which grow naturally in the Torrid Zone. The coco-nut tree
                  is, by no means, so useful as travellers have represented it. The wood is of little
                  or no service, being spungy, and the brown covering of the nuts is of too rough a
@@ -1109,7 +1115,7 @@
               </p>
            </note>
            <note xml:id="n075" target="#a075">
-              <p><label>Ver. 441</label> <hi>sappadillas]</hi> This is a pleasant-tasted fruit, somewhat resembling a
+              <p><label>Ver. 441</label> <ref>sappadillas]</ref> This is a pleasant-tasted fruit, somewhat resembling a
                  bergamot-pear, in shape and colour. The tree which produces it, is large and
                  shady. Its leaves are of a shining green; but the flowers, which are monopetalous,
                  are of a palish white. The fruit is coronated when ripe, and contains, in its pulp,
@@ -1118,20 +1124,20 @@
               </p>
            </note>
            <note xml:id="n076" target="#a076">
-              <p><label>Ver. 499.</label> <hi>Porto Santo]</hi> This is one of the <placeName>Madeira islands</placeName>, and of course subject
+              <p><label>Ver. 499.</label> <ref>Porto Santo]</ref> This is one of the <placeName>Madeira islands</placeName>, and of course subject
                  to the <name>King of <placeName>Portugal</placeName></name>. It lies in <distinct type="geographical">32.33 degrees of N. latitude</distinct>. It is neither so
                  fruitful nor so large as <placeName>Madeira Proper</placeName>, and is chiefly peopled by convicts, &amp;c.
               </p>
            </note>
            <note xml:id="n077" target="#a077">
-              <p><label>Ver. 504.</label> <hi>The boneta]</hi> This fish, which is equal in size to the largest salmon,
+              <p><label>Ver. 504.</label> <ref>The boneta]</ref> This fish, which is equal in size to the largest salmon,
                  is only to be found in the warm latitudes. It is not a delicate food, but thoe who
                  have lived for any length of time on salt meats at sea, do not dislike it. <persName>Sir
                  Hans Sloane</persName>, in his voyage to Jamaica, describes the method of striking them.
               </p>
            </note>
            <note xml:id="n078" target="#a078">
-              <p><label>Ver. 504.</label> <hi>Or the shark]</hi> This voracious fish needs no description; I have seen
+              <p><label>Ver. 504.</label> <ref>Or the shark]</ref> This voracious fish needs no description; I have seen
                  them from 15 to 20 foot long. Some naturalists call it <distinct type="scientific">Canis Carbarias</distinct>. They have
                  been known to follow a slave ship from <placeName>Guinea</placeName> to the <placeName>West Indies</placeName>. They swim
                  with incredible celerity, and are found in some of the warmer seas of <placeName>Europe</placeName>, as
@@ -1139,16 +1145,53 @@
               </p>
            </note>
            <note xml:id="n079" target="#a079">
-              <p><label>Ver. 505.</label> <hi>nautilus]</hi> This fish the seamen call a <rs type="properAdjective">Portuguese</rs> man of war. It makes
+              <p><label>Ver. 505.</label> <ref>nautilus]</ref> This fish the seamen call a <rs type="properAdjective">Portuguese</rs> man of war. It makes
                  a most beautiful appearance on the water.
               </p>
            </note>
            <note xml:id="n080" target="#a080">
-              <p><label>Ver. 507</label> <hi>winged vishes]</hi> This extraordinary species of fish is only found in
+              <p><label>Ver. 507</label> <ref>winged fishes]</ref> This extraordinary species of fish is only found in
                  the warm latitudes. Being pursued in the water by a fish of prey called <ecda:fauna>Albacores</ecda:fauna>,
                  they betake themselves in shoals to flight, and in the air are often snapt up by the
                  <ecda:fauna>Garayio</ecda:fauna>, a sea fowl. They sometimes fall on the shrouds o decks of ships.
                  They are well tasted, and commonly sold at <placeName>Barbadoes.</placeName>
+              </p>
+           </note>
+           <note xml:id="n081" target="#a081">
+              <p><label>Ver. 508</label> <ref>Dolphins]</ref> This is most beautiful fish, when first taken out of the
+                 sea; but its beauty vanishes, almost as soon as it is dead.
+              </p>
+           </note>
+           <note xml:id="n082" target="#a082">
+              <p><label>Ver. 509.</label> <ref>Tropic-bird]</ref> The <name>French</name> call this bird <distinct type="dialect" xml:lang="fr" ana="#fauna">Fregate</distinct>, on account of its
+                 swift flying. It is only to be met with in the warm latitudes.
+              </p>
+           </note>
+           <note xml:id="n083" target="#083">
+              <p><label>Ver. 17.</label> <ref>Tho' mountains heapt on mountains]</ref> This more particularly aludes to
+                 <placeName>St. Kitts</placeName>; where one of the highest ridges of that chain of mountains, which run
+                 through its center, from one end of it to the other, bears upon it another mountain,
+                 which, somewhat resembling the legendary prints of the devil's carrying on his 
+                 shoulders <persName>St. Christopher</persName>; or, as others write, of a giant, of that appelation,
+                 carrying our Saviour, in the form of a child, in the same manner, through a deep
+                 sea; gave name, to this island.
+              </p>
+           </note>
+           <note xml:id="n084" target="#a084">
+              <p><label>Ver. 25</label> <ref>Of broad-leaf'd china,]</ref> The leaves of this medicinal tree are so large,
+                 that the Negroes commonly use them to cover the water, which they bring in pails
+                 from the mountain, where it chiefly grows. The roots of this tree were introduced
+                 into <rs type="properAdjective">European</rs> practice, soon after the venereal disease; but unless they are
+                 fresh, it must be confessed they possess fewer virtues than either sarsaparilla or lignum
+                 
+                 <!-- insert pb info here -->
+                 
+                 vitæ. It also grows in <placeName>China</placeName> and many parts of the <placeName>East-Indies</placeName>, where it is
+                 greatly recommended in the gout palsy, sciatica, obstructions, and obstinate headachs:
+                 but it can surely not effect the removal of these terrible disorders; since, in <placeName>China</placeName>,
+                 the people eat the fresh root, boiled with their meat, as we do turnips; and the better
+                 sort, there, use water distilled from it. The <name>Spaniards</name> call it <distinct type="dialect" xml:lang="es">Palo de China</distinct>. The
+                 botanical name is <distinct type="scientific">Smilax</distinct>.
               </p>
            </note>
         </ecda:notes>
@@ -2935,6 +2978,876 @@
               </lg>
            </div>
            <trailer>The End of Book II.</trailer>
+        </div>
+        <div type="book">
+           <head>The Sugar-Cane</head>
+           <head type="sub">Book III</head>
+           <div type="prefatory">
+              <head>Argument</head>
+              <p>Hymn to the month of <name>January</name>, when <unclear reason="flawed-reproduction">crop</unclear> begins. Address. Planters have
+                  employment all the year round. Planters should be pious. A ripe Cane piece
+                  on fire at midnight. Crop begun. Cane cutting described. Effects of
+                  music. Greate care requisite in feeding the mill. Humanity towards the 
+                  <unclear reason="flawed-reproduction">maimed</unclear> recommended. The tainted Canes should not be ground. Their
+                 use. How to preserve the laths and mill-points from sudden squalls.
+                 Address to the Sun, and praise of <placeName>Antigua</placeName>. A cattle-mill described.
+                 Care of mules &amp;c. Diseases to which they are subject. A water-mill
+                 the least liable to interruption. Common in <placeName>Guadaloupe</placeName> and <placeName>Martinico</placeName>.
+                 Praise of <persName>Lord Romney</persName>. The necessity of a strong, clear fire, in boiling. 
+                 Planters should always have a spare set of vessels to melt. The danter of throwing
+                 cold water into a thorough-heated furnace. Cleanliness, and skimming
+                 well, recommended. A boiling-house should be lofty, and open at 
+                 top, to the leeward. Constituent parts of vegetables. Sugar an essential
+                 salt. What retards its granulation. How to forward it. Dumb Cane.
+                 Effects of it. Bristol-lime the best temper. Various uses of Bristol lime.
+                 Good muscovado described. Bermudas-lime recommended. The Negroes
+                 should not be hindered from drinking the hot liquor. The chearfulness
+                 and healthiness of Negroes in crop time. Boilers to be encouraged. 
+                 They snould neither boil the sugar too little, nor too much. When the 
+                 Sugar is of too loose a grain, and about to boil over the teach, or last
+                 copper, a little crease settles it, and makes it a boil closer. The <name>French</name>
+                 often mix sand with their Sugars. This practice not followed by the <name>English</name>.
+                 A character. Of skimmings. Their various uses. Of rum. Its
+                 praise. A <rs type="properAdjective">West-India</rs> prospect, when crop is finished. An address to the
+                 <name>Creoles</name>, to live more upon their estates than they do. The reasons.
+              </p>
+           </div>
+           <div type="poem">
+              <head>The Sugar-Cane</head>
+              <head type="sub">Book III</head>
+              <lg>
+                 <l>From scenes of deep distress, the heavenly Mu<unclear reason="obscured">se</unclear></l>
+                 <l>Emerging joyous, clasps her dewy wings.</l>
+                 <l>As when a pilgrim, in the howling waste,</l>
+                 <l>Hath long time wandered, fearful at each step,</l>
+                 <l>Of tumbling cliffs, fell serpents, whelming bogs;</l>
+                 <l>At last, from some long eminence, descries</l>
+                 <l>Fair haunts of social life; wide cultur'd plains</l>
+                 <l>O'er which glad reapers pour; he chearly sings:</l>
+                 <l>So she to sprightlier notes her pipe attunes,</l>
+                 <l>Than e'er these mountains heard; to gratulate,</l>
+                 <l>With duteous carols, the beginning year.</l>
+              </lg>
+              
+              <!-- Insert pb info here -->
+              
+              <lg>
+                 <l>Hail, eldest birth of Time! in other climes,</l>
+                 <l>In the old world, with tempests usher'd in;</l>
+                 <l>While rifled nature thine appearance wails,</l>
+                 <l>And savage winter wields his iron mace:</l>
+                 <l>But not the rockiest verge of these green isles,</l>
+                 <l><seg xml:id="a083" corresp="#n083">Tho' mountains heapt on mountains</seg> brave the sky,</l>
+                 <l>Dares winter, by is residence, prophane.</l>
+                 <l>At times the ruffian, wrapt in murky state,</l>
+                 <l>Inroads will, fly, attempt; but soon the sun,</l>
+                 <l>Benign protector of the Cane-land isles,</l>
+                 <l>Repells the invader, and his rude mace breaks.</l>
+                 <l>Here, every mountain, every winding dell,</l>
+                 <l>(Haunt of the Dryads; where, beneath the shade</l>
+                 <l><seg xml:id="a084" corresp="#n084">Of broad leaf'd china,</seg> idly they repose,</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>Charm'd with the murmur of the tinkling rill;</l>
+                 <l>Charm'd with the hummings of the neighbouring hive;)</l>
+                 <l>Welcome thy glad approach: but chief the Cane,</l>
+                 <l>Whose juice now longs to murmur down the spout,</l>
+                 <l>Hails thy lov'd coming; <name>January</name>, hail!</l>
+              </lg>
+              <lg>
+                 <l>O <seg>M***</seg>! thou, whose polish'd mind contains</l>
+                 <l>Each science useful to thy native isle!</l>
+                 <l>Philosopher, without the hermit's spleen!</l>
+                 <l>Polite, yet learned; and tho' solid, gay!</l>
+                 <l>Critic, whose head each beauty, fond, admires;</l>
+                 <l>Whose heart each error flings in friendly shade!</l>
+                 <l>Planter, whose youth sage cultivation taught</l>
+                 <l>Each secret lesson of her sylvan school:</l>
+                 <l>To thee the Muse a grateful tribute pays;</l>
+                 <l>She owes to thee the precepts of her song:</l>
+                 <l>Nor wilt thou, sour, refuse; tho' other cares,</l>
+                 <l>The public welfare, claim thy busy hour;</l>
+                 <l>With her to roam (thrice pleasing devious walk)</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>The ripened cane-piece; and with her, to taste</l>
+                 <l>(Delicious draught!) the nectar of the mill!</l>
+              </lg>
+              <lg>
+                 <l>The planter's labour in a round revolves;</l>
+                 <l>Ends with the year, and with the year begins.</l>
+              </lg>
+              <lg>
+                 <l>Ye swains, to Heaven bend low in grateful prayer,</l>
+                 <l>Worship the Almighty; whose kind-fostering hand</l>
+                 <l>Hath blest your labour, and hath given the cane</l>
+                 <l>To rose superior to each menac'd ill.</l>
+              </lg>
+              <lg>
+                 <l>Nor less, ye planters, in devotion, sue,</l>
+                 <l>That nor the heavenly bold, nor casual spark,</l>
+                 <l>Nor hand of malice may the crop destroy.</l>
+              </lg>
+              <lg>
+                 <l>Ah me! what numerous deafning bells, resound?</l>
+                 <l>What cries of horror startle the dull sleep?</l>
+                 <l>What gleaming brighness makes, and midnight, day?</l>
+                 <l>By its portentuous glare, too well I see</l>
+                 <l><persName>Palæmon's</persName> fate; the virtuous, and the wise!</l>
+                 <l>Where were ye, watches, when the flame burst forth?</l>
+                 <l>A little care had then the hydra quell'd:</l>
+                 <l>But, now, what clouds of white smoke load the sky!</l>
+                 <l>How strong, how rapid the combustion pours!</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>Aid not, ye winds! with your destroying breath,</l>
+                 <l>The spreading vengeance.—They contemn my prayer.</l>
+              </lg>
+              <lg>
+                 <l>Rous'd by the deafning bells, the cries, the blaze;</l>
+                 <l>From every quarter, in tumultuous bands,</l>
+                 <l>The <name>Negroes</name> rush; and, 'mid the crackling flames,</l>
+                 <l>Plunge, dæmon-like! All, all, urge every nerve:</l>
+                 <l>This way, tear up those Canes; dash the fire out,</l>
+                 <l>Which sweeps, with serpent-<orig>error</orig> o'er the ground.</l>
+                 <l>There, hew these down, their topmost branches burn:</l>
+                 <l>And here bid all thy watery engines play;</l>
+                 <l>For here the wind the burning deluge drives.</l>
+              </lg>
+              <lg>
+                 <l>In vain.—More wide the blazing torrent rolls;</l>
+                 <l>More loud it roars, more bright it fires the pole!</l>
+                 <l>And toward thy mansion, see, it bends its way.</l>
+                 <l>Haste! far, O far, your infant-thring remove:</l>
+                 <l>Quick from your stables drag your steeds and mules:</l>
+                 <l>With well-wet blankets guard your cypress-roofs;</l>
+                 <l><seg xml:id="a085" corresp="#n085">And where thy dried Canes</seg> in large stacks are pil'd.—</l>
+              </lg>
+              <lg>
+                 <l>Effords but serve to irritate the flames:</l>
+                 <l>Naught but thy ruin can their wrath appease.</l>
+                 <l>Ah, my Palæmon! what avail'd thy care,</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>Oft to prevent the earliest dawn of day,</l>
+                 <l>And walk thy ranges, at the noon of night?</l>
+                 <l>What tho' no ills assail'd thy bunching sprouts,</l>
+                 <l>And seasons pour'd obedient to thy will:</l>
+                 <l>All, all must perish; nor shalt thou preserve</l>
+                 <l>Wherewifth to feed thy little orphan throng.</l>
+              </lg>
+              <lg>
+                 <l>Oh, may the Cane-isles know few nights, like this!</l>
+                 <l>For now the sail-clad points, impatient wait</l>
+                 <l>The hour of sweet release, to court the gale.</l>
+                 <l>The late-hung coppers wish to feel the warmth</l>
+                 <l>Which well-dreid fewel from the Cane imparts:</l>
+                 <l>The Negroe-train, with placid looks, survey</l>
+                 <l>Thy fields, which full perfection have attain'd,</l>
+                 <l>And pant to wield the bill: (no surly watch</l>
+                 <l>Dare now deprive them of the luscious Cane:)</l>
+                 <l>Nor thou, my friend, their cheerful toil is light.</l>
+                 <l>So from no field, shall slow-pac'd <ecda:fauna>oxen</ecda:fauna> draw</l>
+                 <l>More frequent loaded wanes; which many a day,</l>
+                 <l>And many a night shall feed thy crackling mills</l>
+                 <l>With richest offerings: while thy far seen flames,</l>
+                 <l>Bursting thro' many a chimney, bright emblaze</l>
+                 <l>The <rs type="properAdjective">Æthiop</rs>-brow of night. And see, they pour</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>(Ere Phosphor his pale circlet yet withdraws,</l>
+                 <l>What time grey dawn stands tip-toe on the hill,)</l>
+                 <l>O'er the rich Cane-grove: Muse, their labour sing.</l>
+              </lg>
+              <lg>
+                 <l>Some bending, of their sapless burden ease</l>
+                 <l>The yellow jointed canes, (whose height exceeds</l>
+                 <l>A mounted trooper, and whose clammy round</l>
+                 <l>Measures two inches full;) and near the root</l>
+                 <l>Low the stem off, which quivers in their hand</l>
+                 <l>With fond impatience: soons it's branchy spires,</l>
+                 <l>(Food to thy cattle) it resigns; and soon</l>
+                 <l>It's tender prickly tops, with eyes thick set,</l>
+                 <l>To load with future crops thy long-hoed land.</l>
+                 <l>These with their green, their pliant branches bound,</l>
+                 <l>(For not a part of this amazing plant,</l>
+                 <l>But serves some useful purpose) charge the young:</l>
+                 <l>Not laziness declines this easy toil;</l>
+                 <l><seg ana="#disease" cert="medium">Even lameness</seg> from it's leafy pallet crawls,</l>
+                 <l>To join the favoured gang. What of the Cane</l>
+                 <l>Remains, and much the largest part remains,</l>
+                 <l>Cut into junks a yard in length, and tied</l>
+                 <l>In small light bundles; load the broad wheel'd wane,</l>
+                 <l>The mules crook-harnest, and the sturdier crew,</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>With sweet abundance. As on <placeName>Lincoln-plains</placeName>,</l>
+                 <l>(Ye plains of <placeName>Lincoln</placeName> sound your <persName>Dyer's</persName> praise!)</l>
+                 <l>When the lav'd snow-white stocks are numerous penn'd;</l>
+                 <l>The senior swans, with sharpened shars cut off</l>
+                 <l>The fleecy vestment; others stir the tar;</l>
+                 <l>And some impress, upon their captives sides,</l>
+                 <l>Their master's cypher; while the infant throng</l>
+                 <l>Strive by the horns to hold the struggling ram,</l>
+                 <l>Proud of their prowess. Nor meanwhile the jest</l>
+                 <l>Light-bandied round, but innocent of ill;</l>
+                 <l>Nor choral song are wanting: eccho rings.</l>
+              </lg>
+              <lg>
+                 <l>Nor need the drive, <name>Æthiop</name> authoriz'd,</l>
+                 <l>Thence more inhuman, crack his horrid whip;</l>
+                 <l>From such dire sounds the indignant muse averts</l>
+                 <l>Her virgin-ear, where musick loves to dwell:</l>
+                 <l>'Tis malice now, 'tis wantonness of power</l>
+                 <l><seg ana="#ana_punishment">To lash</seg> the laughing, labouring, singing throng.</l>
+              </lg>
+              <lg>
+                 <l>What cannot song? all nature feels its power:</l>
+                 <l>The hind's blithe whistle, as thro' stubborn soils</l>
+                 <l>He drives the shining share; more than the goad,</l>
+                 <l>His tardy steers impells.—The muse hath seen,</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>When health danc'd frolic in her youthful veins,</l>
+                 <l>And vacant gambols wing'd the laughing hours;</l>
+                 <l>The muse hath seen on Annan's pastoral hills,</l>
+                 <l>Of theft and slaughter erst the fell retreat,</l>
+                 <l>But now the shepherd's best-beloved walk:</l>
+                 <l>Hath seen the shepherd, with his sylvan pipe,</l>
+                 <l>Lead on his stock o'er crags, thro' bogs, and streams,</l>
+                 <l>A tedious journey; yet not weary they,</l>
+                 <l>Drawn by the enchantmetn of his artless song.</l>
+                 <l>What cannot musick?—When brown Ceres asks</l>
+                 <l>The reapers sickle; what like magic sound,</l>
+                 <l>Puff'd from the sonorous bellows by the squeeze</l>
+                 <l>Of tuneful artist, can the rage disarm</l>
+                 <l>Of the swart dog-star, and make harvest light?</l>
+              </lg>
+              <lg>
+                 <l>And now thy mills dance eager in the gale;</l>
+                 <l>Feed well their eagerness: but O beware;</l>
+                 <l>Nor trust, between the steel-cas'd cylinders,</l>
+                 <l>The hand incautious: <seg xml:id="a086" corresp="#n086">off the member snapt</seg></l>
+                 <l>Thou'lt ever rue; sad spectacle of woe!</l>
+              </lg>
+              
+              <!-- insert pb info here -->
+              
+              <lg>
+                 <l>Are there, the muse can scarce believe the tale;</l>
+                 <l>Are there, who lost to every feeling sense,</l>
+                 <l>To reason, interest lost; their slaves desert,</l>
+                 <l>And manumit them, generous boon! to starve</l>
+                 <l>Maim'd by imprudence, or the hand of Heaven?</l>
+                 <l>The good man feeds his blind, his aged steed,</l>
+                 <l>That in his service spent his vigorous prime:</l>
+                 <l>And dares a mortal to his fellow man,</l>
+                 <l>(For spite of vanity, thy slaves are men)</l>
+                 <l>Deny protection? Muse suppress the tale.</l>
+              </lg>
+              <lg>
+                 <l>Ye! who in bundles bind the lopt-off <ecda:flora ana="#ana_commodity">Canes</ecda:flora>;</l>
+                 <l>But chiefly ye! who feed the tight-brac'd mill;</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>In separate parcels, far, the infected fling:</l>
+                 <l>Of bad Cane-juice the least admixture <unclear>spons</unclear></l>
+                 <l>The richest, soundest; thus, in pastoral walks,</l>
+                 <l>One tainted <ecda:fauna ana="#ana_disease">sheep</ecda:fauna> contaminates the fold.</l>
+              </lg>
+              <lg>
+                 <l>Nor yet to dung-heaps thou resign the canes,</l>
+                 <l>Which or the sun hath burnt, or <ecda:fauna>rats</ecda:fauna> have gnaw'd.</l>
+                 <l>These, to small junks reduc'd, and in huge casks</l>
+                 <l>Steept, where no cool winds blow; do thou ferment:—</l>
+                 <l>Then, when from his entaglements inlarg'd</l>
+                 <l>Th' evasive spirit mounts; by Vulcan's aid,</l>
+                 <l>(Nor <seg xml:id="a087" corresp="#n087">Amphitryte</seg> will her help deny,)</l>
+                 <l>Do thou through all his winding ways pursue</l>
+                 <l>The runaway; till in thy sparkling bowl</l>
+                 <l>Confin'd he dances mor a friend to life,</l>
+                 <l>And joy, than that Nepenthe fam'd of yore,</l>
+                 <l>Which Polydamna, Thone's imperial queen,</l>
+                 <l>Taught Jove-born Helen on the banks of <geogName>Nile</geogName>.</l>
+              </lg>
+              <lg>
+                 <l>As on old ociean, when the wind blows high,</l>
+                 <l>The cautious mariner bursts the speeding gale,</l>
+                 <l>If thou from ruin would'st thy points preserve,</l>
+                 <l>Less Bellying canvass to the storm oppose.</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>To this be nail'd three polish'd iron plates;</l>
+                 <l>Whereon, three steel Capouces, turn with ease,</l>
+                 <l>Of three long rollers, twice nine inches round,</l>
+                 <l>With iron cas'd and jacc'd with many a cogg.</l>
+                 <l>The central Cylinder exceeds the rest</l>
+                 <l>In portly size, thence aptly Captain nam'd</l>
+                 <l>To this be rivetted th' extended sweeps;</l>
+                 <l>And harness to each sweep two seasoned mules:</l>
+                 <l>They pacing round, give motion to the whole.</l>
+                 <l>The close brac'd cylinders with ease revolve</l>
+                 <l>On their greas'd axle; and with ease reduce</l>
+                 <l>To trash, the canes thy negores throw between.</l>
+                 <l>Fast stows the liquor thro' the lead lin'd spouts;</l>
+                 <l>And depurated by opposing wines,</l>
+                 <l>In the receiver floats a limpid stream.</l>
+                 <l>So twice five casks, with <ecda:commodity ana="#ana_food #ana_flora #ana_refinement">muscovado</ecda:commodity> fill'd,</l>
+                 <l>Shall from thy stanchions drip, ere Day's bright god</l>
+                 <l>Hath in the Atlantic six times cool'd his wheels.</l>
+              </lg>
+              <lg>
+                 <l>Wouldst thou against calamity provide?</l>
+                 <l>Let a well shingled roof, from <rs type="place" xml:id="a088" corresp="#a088"><persName>Raleigh's</persName> land,</rs></l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 
+                 <l>Defend thy stock from noon's inclement blaze,</l>
+                 <l>And from night-dews; for night no respite knows.</l>
+              </lg>
+              <lg>
+                 <l>Nor, when their destin'd labour is perform'd,</l>
+                 <l>Be thou asham'd to lead the panting mules</l>
+                 <l>(The muse, soft parent of each social grace,</l>
+                 <l>With eyes of love God's whole creation views)</l>
+                 <l>To the warm pen; where copious forage strowed,</l>
+                 <l>And strenuous rubbing, renovate their strength.</l>
+                 <l>So, fewer ails, (alas, how prone to ails!)</l>
+                 <l>Their days shall shorten; ah, too short at best!</l>
+              </lg>
+              <lg>
+                 <l>For not, even then, my friend, art thou secure</l>
+                 <l>From fortune: spite of all thy steady care,</l>
+                 <l>What ills, that laugh to scorm Machaon's art,</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>Await thy cattle! fancy's tabid form,</l>
+                 <l>Joint-racking spasms, and cholic's pungent pang,</l>
+                 <l>Need the muse tell? which one in luckless moon,</l>
+                 <l>Thy sheds dispeople; when perhaps thy groves,</l>
+                 <l>To full perfection shot, by day, by night,</l>
+                 <l><!-- what is this? --> demand their rigorous toil.</l>
+              </lg>
+              <lg>
+                 <l>Then happiest he, for whom the Naiads pour,</l>
+                 <l>From rocky urns, the never ceasing stream,</l>
+                 <l>To turn his rollers with unbought dispatch.</l>
+              </lg>
+              <lg>
+                 <l>In <seg xml:id="a089" corresp="#n089">Karukera's</seg> rich well-water'd isle!</l>
+                 <l>In <seg xml:id="a090" corresp="#n090">Matanina</seg>! boast of Albion's arms,</l>
+                 <l>The brawling Naiads for the planters toil,</l>
+                 <l>Howe'er unworthy; and, thro' solemn scenes,</l>
+                 <l>Romantic, cool, with rocks and woods between,</l>
+                 <l>Enchant the senses! but, among thy swains,</l>
+                 <l>Sweet Liamuiga! who such bliss can boast?</l>
+                 <l>Yes, Romney, thou may'st boast; of <rs type="properAdjective">British</rs> heart,</l>
+                 <l>Of courtly manners, join'd to antient worth:</l>
+                 <l>Friend to thy Britain's every blood earn'd right,</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>From tyrants wrung, the many or the few.</l>
+                 <l>By wealth, by titles, by ambition's lure,</l>
+                 <l>Not to be tempted from fair honour's path:</l>
+                 <l>While others, falsely flattering their Prince,</l>
+                 <l>Bold disapprov'd, or by oblique surmise</l>
+                 <l>Their terror hinted, of the people arm'd;</l>
+                 <l>Indignnant, in the senate, he uprose,</l>
+                 <l>And, with the well-urg'd energy of zeal,</l>
+                 <l>Their specious, subtle sophistry disprov'd;</l>
+                 <l>The importance the necessity display'd,</l>
+                 <l>Of civil armies, freedom's surest guard!</l>
+                 <l>Nor in the senate didst thou only win</l>
+                 <l>The palm of eloquence, securely bodl;</l>
+                 <l>But rear'd'st thy banners, fluttering in the wind:</l>
+                 <l>Kent, from each hamlet, pour'd her marshal'd swains,</l>
+                 <l>To hurl defiance on the threatening Gaul.</l>
+              </lg>
+              <lg>
+                 <l>Thy foaming coppers well with fewel feed;</l>
+                 <l>For a clear, strong continued fire improves</l>
+                 <l>Thy muscovado's colour, and its grain.—</l>
+                 <l>Yet vehement heat, protracted will consume</l>
+                 <l><seg xml:id="a091" corresp="#a091">Thy vessels,</seg> whether from the martial mine,</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>Or from thine ore, bright Venus, they are drawn;</l>
+                 <l>Or hammer, or hot fusion, give them form.</l>
+                 <l>If prudence guides thee then, thy stores shall hold</l>
+                 <l>Of well-siz'd vessels a complete supply:</l>
+                 <l>For every hour, thy boilers cease to skim,</l>
+                 <l>(Now Cancer reddens with the solar ray)</l>
+                 <l>Defeats thy honest purposes of gain.</l>
+              </lg>
+              <lg>
+                 <l>Nor small the risque, (when piety, or chance,</l>
+                 <l>Force thee from boiling to desist) to lave</l>
+                 <l>Thy heated furnace, with the gelid steam.</l>
+                 <l>The cheminst knows, when all dissolving fire</l>
+                 <l>Bids the metalline ore abruptly flow;</l>
+                 <l>What dread explosions, and what dire effects,</l>
+                 <l>A few old drops of water will produce,</l>
+                 <l>Uncautious, on the novel fluid thrown.</l>
+              </lg>
+              <lg>
+                 <l>For grain and colour, wouldst thou win, my friend,</l>
+                 <l>At every curious mart, the constant palm?</l>
+                 <l>O'er all thy works let cleanliness preside,</l>
+                 <l>Child of frugality; and, as the skum</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>Thick mantles o'er the boiling wave, do thou</l>
+                 <l>The skum that mantles carefully remove.</l>
+              </lg>
+              <lg>
+                 <l>From bloating dropsy, from pulmonic ails,</l>
+                 <l>Would'st thou defend thy boilers, (prime of slaves,)</l>
+                 <l>For days, for nights, for weeks, for months involv'd</l>
+                 <l>In the warm vapour's all-relaxing steam;</l>
+                 <l>Thy boiling house be lofty: all atop</l>
+                 <l><seg xml:id="a092" corresp="#n092">Open, and pervious</seg> to the tropic breeze;</l>
+                 <l>Whose cool <unclear>perflation</unclear>, wooed through many a grate,</l>
+                 <l>Dispells the steam, and gives the lungs to play.</l>
+              </lg>
+              <lg>
+                 <l>The skill'd in chemia, boast of modern arts,</l>
+                 <l>Know from experiment, the fire of truth,</l>
+                 <l>In many a plant that oil, and acid juice,</l>
+                 <l>And ropy mucilage, by nature live:</l>
+                 <l>These, envious, stop the much desir'd embrace</l>
+                 <l>Of the essential salts, tho coction bid</l>
+                 <l>The aqueous particles to mount in air.</l>
+              </lg>
+              <lg>
+                 <l>'Mong salts essential, sugar wins the palm,</l>
+                 <l xml:id="a093" corresp="#n093">For taste, for colour, and for various use:</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>And in the nectar of the yellowest Cane,</l>
+                 <l>Much acor, oil, and mucilage abound:</l>
+                 <l>But in the less mature, the mountain-land,</l>
+                 <l>These harsh intruders so redundant float,</l>
+                 <l>Muster so strong, as scarce to be subdued.</l>
+              </lg>
+              <lg>
+                 <l>Muse, sing the ways to quell them. Some use Cane,</l>
+                 <l><seg xml:id="a094" corresp="#n094">That Cane</seg>, whose juices to the tongue apply'd,</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>In silence lock it, sudden, and constrain'd,</l>
+                 <l>(Death to Xantippe,) with distorting pain.</l>
+              </lg>
+              <lg>
+                 <l>Nor is it not effectual: But wouldst thou</l>
+                 <l>Have rival brokers for thy cades contend;</l>
+                 <l>Superior arts remain.—Small casks provide,</l>
+                 <l>And from the air secur'd: This Bristol sends,</l>
+                 <l>Bristol, Brittania's second mart and eye!</l>
+              </lg>
+              <lg>
+                 <l>Nor <quote>to thy waters only trust for fame,</quote></l>
+                 <l>Bristol; nor to thy beamy diamonds trust:</l>
+                 <l>Tho' these oft deck Brittania's lovely fair;</l>
+                 <l>And those oft save the guardians of her realm.</l>
+                 <l>Thy marble-quarries claim the voice of praise,</l>
+                 <l>Which rich incrusts thy Avon's banks, sweet banks!</l>
+                 <l>Tho' not to you young <persName>Shakespear</persName>, Fancy's child,</l>
+                 <l>All-rudely warbled his first woodland notes;</l>
+                 <l>Tho' not your caves, while terror stalk'd around,</l>
+                 <l>Saw him essay to clutch the ideal sword,</l>
+                 <l>With drops of blood distan'd yet, lovely banks,</l>
+                 <l>On you reclin'd another tun'd his pipe;</l>
+                 <l>Whom all the Muses emulously love,</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>And in whose strains your praises shall endure,</l>
+                 <l>While to Sabrina speeds your healing stream.</l>
+              </lg>
+              <lg>
+                 <l><placeName>Bristol</placeName>, without thy marble, by the flame</l>
+                 <l>Calcin'd to whiteness, vain the stately reed</l>
+                 <l>Would swell with juice mellifluent; heat would soon</l>
+                 <l>The strongest, best-hung furnaces consume.</l>
+                 <l>Without its aid the cool-imprison'd stream,</l>
+                 <l>Seldom allow'd to view the face of day,</l>
+                 <l>Tho' late it roam'd a denizen of air;</l>
+                 <l>Would steal from its involuntary bounds,</l>
+                 <l>And, by sly windings, set itself at large.</l>
+                 <l>But chief thy lime the experienced boiler loves,</l>
+                 <l>Nor loves ill-founded; when no other art</l>
+                 <l>Can bribe to union the coy floating salts,</l>
+                 <l>A proper portion of this precious dust,</l>
+                 <l>Cast in the wave, (so showers alone of gold</l>
+                 <l>Could win fair <persName>Danae</persName> to the God's embrace;)</l>
+                 <l>With nectar'd <ecda:commodity>muscovado</ecda:commodity> soon will charge</l>
+                 <l>Thy shelving coolers, which severely press'd</l>
+                 <l>Between the fingers, not resolves; and which</l>
+                 <l>Rings in the cask; and or a light-brown hue,</l>
+                 <l>Or thine, more precious silvery-grey, assumes.</l>
+              </lg>
+              
+              <!-- insert pb info here -->
+              
+              <lg>
+                 <l>The fam'd Bermuda's ever-healthy isles,</l>
+                 <l>More fam'd by gentle Waller's deathless strains,</l>
+                 <l>Than for their cedars, which, insulting, fly</l>
+                 <l>O'er the wide ocean; 'mid their rocks contain</l>
+                 <l>A stone, which, when calcin'd, (experience says,)</l>
+                 <l>Is only second to <persName>Sabrina's</persName> lime.</l>
+              </lg>
+              <lg>
+                 <l>While flows the juice mellifluent from the Cane,</l>
+                 <l>Grudge not, my friend, to let thy slaves, each morn,</l>
+                 <l>But chief the sick and young, at setting day,</l>
+                 <l>Themselves regale with oft-repeated draughts</l>
+                 <l>Of tepid Nectar; so shall health and strength</l>
+                 <l>Confirm thy Negroes, and make labour light.</l>
+              </lg>
+              <lg>
+                 <l>While flame thy chimneys, while thy coppers foam,</l>
+                 <l>How blithe, how jocund, the plantations smiles!</l>
+                 <l>By day, by night, resounds the choral song</l>
+                 <l>Of glad barbarity; serene, the sun</l>
+                 <l>Shines not intensely hot; the trade wind blows:</l>
+                 <l>How sweet, how silken, is its noontide breath?</l>
+                 <l>While to far climes the fell destroyer, Death,</l>
+                 <l>Wings his dark flight. Then seldom pray for rain:</l>
+                 <l>Rather for cloudless days thy prayers prefer;</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>For if the skies too frequently relent,</l>
+                 <l>Crude flows the Cane-juice, and will long elude</l>
+                 <l>The boiler's wariest skill: thy Canes will spring</l>
+                 <l>To an unthrifty loftiness; or, weighed</l>
+                 <l>Down by their load, (Ambition's curse,) decay.</l>
+              </lg>
+              <lg>
+                 <l>Encourage thou thy boilers; much depends</l>
+                 <l>On their skill'd efforts. <seg xml:id="a095" corresp="#n095">If too soon they strike,</seg></l>
+                 <l>E'er all the watery particles have fled;</l>
+                 <l>Or lime sufficient granulate the juice:</l>
+                 <l>In vain the thickning liquor is effus'd;</l>
+                 <l>An heterogeneous, an uncertain mass,</l>
+                 <l>And never in thy coolers to condense.</l>
+              </lg>
+              <lg>
+                 <l>Or, planter, if the coction they prolong</l>
+                 <l>Beyond its stated time; the viscous wave</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>Will in huge flinty masses chrystalize,</l>
+                 <l>Which forceful fingers scarce can crumble down;</l>
+                 <l>And which with its melasses ne'er will part</l>
+                 <l>Yet this, fast dripping in nectarious drops,</l>
+                 <l>Not only betters what remains, but when</l>
+                 <l>With art fermented, yields a noble wine,</l>
+                 <l>Than which nor <placeName>Gallia</placeName>, nor the <rs type="properAdjective">Indian</rs> clime,</l>
+                 <l>Where rolls the <geogName>Ganges</geogName>, can a nobler show.</l>
+                 <l>So misers in their coffers lock that gold;</l>
+                 <l>Which, if allowed at liberty to roam,</l>
+                 <l>Would better them, and benefit mankind.</l>
+              </lg>
+              <lg>
+                 <l>In the last coppers, when the embrowning wave</l>
+                 <l>With sudden fury swells; some grease immix'd,</l>
+                 <l>The foaming tumult sudden will compose,</l>
+                 <l>And force to union the divided grain.</l>
+                 <l>So when two swarms in airy battle join,</l>
+                 <l>The winged heroes heap the bloody field;</l>
+                 <l>Until some dust, thrown upward in the sky,</l>
+                 <l>Quell the wild conflict, and sweet peace restore.</l>
+              </lg>
+              <lg>
+                 <l>False <!--<placeName>Gallia's</placeName>--> sons, that hoe the ocean-isles,</l>
+                 <l>Mix with their sugar, loads of worthless sand,</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>Fraudful, their weight of sugar to increase.</l>
+                 <l>Far be such guile from <placeName>Britain's</placeName> honest swains.</l>
+                 <l>Such arts, awhile, the unwary may surprise,</l>
+                 <l>And benefit the Impostor; but, ere long,</l>
+                 <l>The skilful buyer will the fraud detect,</l>
+                 <l>And, with abhorrence reprobate the <unclear reason="flawed-reproduction">name.</unclear></l>
+              </lg>
+              <lg>
+                 <l>Fortune had crown'd <!--Avaro's--> younger years,</l>
+                 <l>With a vast tract of land, on which the cane</l>
+                 <l>Delighted grew, nor ask'd the toil of art.</l>
+                 <l>The Sugar-bakers deem'd themselves secure,</l>
+                 <l>Of mighty profit, could they buy his cades;</l>
+                 <l>For, whiteness, hardness, to the leeward-crop,</l>
+                 <l>His <ecda:commodity>muscovado</ecda:commodity> gave. But, not content</l>
+                 <l>With this pre-eminence of honest gain,</l>
+                 <l>He baser sugars started in his casks;</l>
+                 <l>His own, by mixing sordid things, debas'd.</l>
+                 <l>One year the fraud succeeded; wealth immense</l>
+                 <l>Flowed in upon him, and he blest his wiles:</l>
+                 <l>The next, the brokers spurn'd the adulterate mass,</l>
+                 <l>Both on the <geogName>Avon</geogName> and the banks of <geogName>Thame</geogName>.</l>
+              </lg>
+              <lg>
+                 <l>Be thrifty, planter, even thy skimmings save:</l>
+                 <l>For, planter, know, the refuse of the Cane</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>Serves needful purposes. Are barbecues</l>
+                 <l>The cates thou lov'st? What like the rich skimmings feed</l>
+                 <l>The grunting bristly kind? Your labouring <ecda:fauna>mules</ecda:fauna></l>
+                 <l>They soon invigorate: Give old Baynard these,</l>
+                 <l>Untir'd he trudges in his destin'd round;</l>
+                 <l>Nor need the driver crack his horrid lash.</l>
+              </lg>
+              <lg>
+                 <l>Yet, with small quantities indulge the <ecda:fauna>steed</ecda:fauna>,</l>
+                 <l>Whom skimmings ne'er have fatten'd: else, too fond,</l>
+                 <l>So gluttons use, he'll eat intemperate meals;</l>
+                 <l>And, staggering, fall the prey of ravening <ecda:fauna>sharks</ecda:fauna>.</l>
+              </lg>
+              <lg>
+                 <l>But say, ye boon companions, in what strains,</l>
+                 <l>What grateful strains, shall I record the praise</l>
+                 <l>Of their best produce, heart-recruiting <ecda:food>rum</ecda:food>?</l>
+                 <l>Thrice wholesome spirit! well-matur'd with age,</l>
+                 <l>Thrice grateful to the palate! when, with thirst,</l>
+                 <l>With heat, with labour, and wan care opprest,</l>
+                 <l>I quaff thy bowl, where fruit my hands have cull'd,</l>
+                 <l>Round, golden fruit; where water from the spring,</l>
+                 <l>Which dripping coolness spreads her umbrage round;</l>
+                 <l>With hardest, whitest sugar, thrice refin'd;</l>
+                 <l>Dilates my soul with genuine joy; low care</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>I spurn indignant; toil a pleasure seems.</l>
+                 <l><seg xml:id="a096" corresp="#n096">For not <!-- Marne's --> flowery banks, nor <!-- Tille's --></seg> green bounds,</l>
+                 <l>Where <persName>Ceres</persName> with the God of vintage reigns,</l>
+                 <l>In happiest union, nor <rs type="properAdjective">Vigornian</rs> hills,</l>
+                 <l><persName>Pomona's</persName> lov'd abode, afford to man</l>
+                 <l>Goblets more priz'd, or laudable of taste,</l>
+                 <l>To <unclear>slake</unclear> parch'd thirst, and mitigate the clime.</l>
+              </lg>
+              <lg>
+                 <l>Yet, 'mid this blest ebriety, some tears,</l>
+                 <l>For friends I left in <rs type="place">Albion's</rs> distant isle,</l>
+                 <l>For <persName>Johnson</persName>, <persName>Percy</persName>, <persName>White</persName>, escape mine eyes:</l>
+                 <l><seg xml:id="a097" corresp="#n097">For her, fair <rs type="person">Auth'ress <!-- ?? --></rs>!</seg> whom first <!-- Calpe's --> rocks</l>
+                 <l>A sportive infant saw; and whose green years</l>
+                 <l>True genius blest with her benignest gifts</l>
+                 <l>Of happiest fancy. O, were ye all here,</l>
+                 <l>O, were ye yere; with him, my <!-- Pæon's --> son!</l>
+                 <l>Long-known, of worth approv'd, thrice candid soul!</l>
+                 <l>How would your converse charm the lonely hour?</l>
+                 <l>Your converse, where mild wistom tempers mirth;</l>
+                 <l>And charity, the petulance of wit;</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>How would your converse polish my rude lays,</l>
+                 <l>With what new, noble images adorn?</l>
+                 <l>Then should I scarce regret the banks of <geogName>Thames</geogName>,</l>
+                 <l>All as we sat beneath that <seg xml:id="a098" corresp="#n098">sand-box</seg> shade;</l>
+                 <l>Whence the delighted eye expatiates wide</l>
+                 <l>O'er the fair landscape; where in loveliest forms,</l>
+                 <l>Green cultivation hath array'd the land.</l>
+              </lg>
+              <lg>
+                 <l>See there, what mills, like giants raise their arms,</l>
+                 <l>To quell the speeding gale! what smoke ascends</l>
+                 <l>From every boiling house! What structures rise,</l>
+                 <l>Neath tho' not lofty, pervious to the breeze;</l>
+                 <l>With galleries, porches, or piazzas grac'd!</l>
+                 <l>Nor not delightful are those reed-built huts,</l>
+                 <l>On yonder hill, that front the rising sun;</l>
+                 <l>With <ecda:flora>plantanes</ecda:flora>, with <ecda:flora>banana's</ecda:flora> bosom'd-deep,</l>
+                 <l>That flutter in the wind: where frolick goats,</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>Butt the young negroes, while their swarthy sires,</l>
+                 <l>With ardent gladness wield the bill, and <unclear>hark</unclear>,</l>
+                 <l>The crop is finish'd, how they rend the sky!—</l>
+              </lg>
+              <lg>
+                 <l>Nor, beauteous only shows the cultured soil,</l>
+                 <l>From this cool station. No less charms the eye</l>
+                 <l>That wild interminable waste of waves:</l>
+                 <l>While on the horizon's farthest verge are seen</l>
+                 <l>Islands of different shape, and different size;</l>
+                 <l>While sail-clad ships, with their sweet produce fraught,</l>
+                 <l>Swell on the straining sight; while near yon rock,</l>
+                 <l>On which ten thousand wings with ceaseless clang</l>
+                 <l>Their airies build, a water spout descends,</l>
+                 <l>And shakes mid ocean; and while there below,</l>
+                 <l>That town, embowered in the different shade</l>
+                 <l>Of tamarinds, <seg xml:id="a099" corresp="#n099">panspans</seg>, and <seg xml:id="a100" corresp="#n100">papaws</seg>, o'er which</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>A double Iris throws her painted arch,</l>
+                 <l>Shows commerce toiling in each crowded street,</l>
+                 <l>And each throng'd street with limpid currents lav'd.</l>
+              </lg>
+              <lg>
+                 <l>What tho' no bird of song, here charms the sense</l>
+                 <l>With her wild minstrelsy; far, far beyond,</l>
+                 <l>The unnatural wuavers of <rs type="properAdjective">Hesperian</rs> throats!</l>
+                 <l>Tho' the chaste poet of the vernal woods,</l>
+                 <l>That shuns rude folly's din, delight not here</l>
+                 <l>The listening eve; and tho' no herald-lark</l>
+                 <l>Here leave his couch, high-towering, do descry,</l>
+                 <l>The approach of dawn, and hail her with his song:</l>
+                 <l>Yet not unmusical the tinkling lapse</l>
+                 <l>Of yon cool argent rill, which <persName>Phœbus</persName> gilds</l>
+                 <l>With his first orient rays; yet musical,</l>
+                 <l>Those buxom airs that through the <ecda:flora>plantanes</ecda:flora> play,</l>
+                 <l>And tear with wantonness their leafy scrolls;</l>
+                 <l>Yet not unmusical the waves hoarse sound,</l>
+                 <l>That dashes, sullen, on the distant shore;</l>
+                 <l>Yet musical those little insects hum,</l>
+                 <l>That hover round us, and to reason's ear,</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>Deep, moral truths convey; while every beam</l>
+                 <l>Flings on them transient tints, which vary when</l>
+                 <l>They wave their purple plumes; yet musical</l>
+                 <l>The love-lorn cooing of the mountain dove,</l>
+                 <l>That woos to pleasing thoughtfulness the soul;</l>
+                 <l>But chief the breeze, that murmurs through yon canes,</l>
+                 <l>Enchants the ear with tunable delight.</l>
+              </lg>
+              <lg>
+                 <l>While such fair scenes adorn these blissful isels;</l>
+                 <l>Why will their sons, ungrateful, roam abroad?</l>
+                 <l>Why spend their opulence in other climes?</l>
+              </lg>
+              <lg>
+                 <l>Say, is pre-eminence your partial aim?—</l>
+                 <l>Distinction courts you here; the senate calls.</l>
+                 <l>Here, crouching slaves, attendant wait your nod:</l>
+                 <l>While there, unnoted, but for folly's garb,</l>
+                 <l>For folly's jargon; your dull hours ye pass,</l>
+                 <l>Eclips'd by titles, and superior wealth.</l>
+              </lg>
+              <lg>
+                 <l>Does martial ardour fire your generous veins?</l>
+                 <l>Fly to your native isles: Bellona, there,</l>
+                 <l>Hath long time rear'd her bloody flag; these isles</l>
+                 <l>Your strenuous arms demand; for ye are brave!</l>
+                 <l>Nor longer to the lute and taber's sound</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>Weave antic measures. O, could my weak song,</l>
+                 <l>O could my song, like his, heaven favoured bard,</l>
+                 <l>Who led desponding <placeName>Sparta's</placeName> oft-beat hosts,</l>
+                 <l>To victory, to glory; fire your souls</l>
+                 <l>With <rs type="properAdjective">English</rs> ardor! for now <placeName>England's</placeName> swains,</l>
+                 <l>(<rs type="person" xml:id="a101" corresp="#n101">The Man of <placeName>Norfolk</placeName></rs>, swains of <placeName>England</placeName>, thank;)</l>
+                 <l>All emulous, to Freedom's standard fly,</l>
+                 <l>And drive invasion from their native shore:</l>
+                 <l>How would my soul exult with consious pride;</l>
+                 <l>Nor grudge those wreaths Tyrtæus gain'd of yore.</l>
+              </lg>
+              <lg>
+                 <l>Or are ye fond of rich luxurious cates?—</l>
+                 <l>Can aught in <placeName>Europe</placeName> emulate the pine,</l>
+                 <l>Or fruit forbidden, native of your isles?</l>
+                 <l>Sons of <!-- Apicius -->, say, can <placeName>Europe's</placeName> seas,</l>
+                 <l>Can aught the edible creation yields,</l>
+                 <l>Compare with turtle, boast of land and wave?</l>
+                 <l>Can <placeName>Europe's</placeName> seas, in all their finny realms,</l>
+                 <l>Aught so delicious as the <ecda:fauna xml:id="a102" corresp="#n102">Jew-fish</ecda:fauna> show?</l>
+                 <l>Tell me what viands, land or streams produce,</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>The large, black, female, <ecda:fauna>moulting crab</ecda:fauna> excel?</l>
+                 <l>A richer flavour not wild <placeName>Cambria's</placeName> hills,</l>
+                 <l>Nor <placeName>Scotia's</placeName> rocks with heath and thyme o'erspread,</l>
+                 <l>Give to their flocks; than, lone <seg xml:id="a103" corresp="#n103"><placeName>Barbuda</placeName>,</seg> you</l>
+                 <l>Than you, <seg xml:id="a104" corresp="#n104"><placeName>Anguilla</placeName>,</seg> to your sheep impart.</l>
+                 <l>Even <placeName>Britain's</placeName> vintage, here, improved, we quaff;</l>
+                 <l>Even <rs type="properAdjective">Lusitanian</rs>, even <rs type="properAdjective">Hesperian</rs> wines.</l>
+                 <l>Those from the Rhine's imperial banks (poor <geogName>Rhine</geogName>!</l>
+                 <l>How have thy banks been died with brother-blood?</l>
+                 <l>Unnatural warfare!) strenght and flavour gain</l>
+                 <l>In this delicious clime. Besides, the Cane</l>
+                 <l>Wasted to every quarter of the globe,</l>
+                 <l>Makes the vast produce of the world your own.</l>
+              </lg>
+              <lg>
+                 <l>Or rather, doth the love of nature charm;</l>
+                 <l>Its mighty love your chief attention claim?</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>Leave <placeName>Europe</placeName>; there through all her coyest <unclear reason="flawed-reproduction">ways,</unclear></l>
+                 <l>Her secret mazes, nature is pursued:</l>
+                 <l>But here, with savage loneliness, she reigns</l>
+                 <l>On yonder peak, whence giddy fancy looks,</l>
+                 <l>Affrighted, on the labouring main below.</l>
+                 <l>Heaven's! what stupendous, what unnumbered trees,</l>
+                 <l><q rend="quotes">Stage above stage, in various verdure drest,</q></l>
+                 <l>Unprofitable shag its airy cliffs!</l>
+                 <l>Heavens! what new shrubs, that herbs with useless bloom,</l>
+                 <l>Adorn its channel'd sides; and, in its caves</l>
+                 <l>What sulphurs, ores, what earths and stones abound!</l>
+                 <l>There let philosophy conduct thy steps,</l>
+                 <l><q rend="quotes">For naught is useless made:</q> With candid search,</l>
+                 <l>Examine all the properties of things;</l>
+                 <l>Immense discoveries soon will crown your toil,</l>
+                 <l>Your time will soon repay. Ah, when will cares,</l>
+                 <l>The cares of Fortune, less my minutes claim?</l>
+                 <l>Then with what joy, what energy of soul,</l>
+                 <l>Will I not climb yon mountain's airiest brow!</l>
+                 <l>The dawn, the burning noon, the setting sun,</l>
+                 <l>The midnight-hour, shall hear my constant vows</l>
+                 <l>To Nature, see me prostrate at her shrine!</l>
+                 <l>And, O, if haply I may aught invent</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>Of use to mortal man, life to prolong,</l>
+                 <l>To soften, or adorn; what genuine joy,</l>
+                 <l>What exultation of supreme delight,</l>
+                 <l>Will swell my raptured bosom. Then, when death</l>
+                 <l>Shall call me hence, I'll unrepining go;</l>
+                 <l>Nor envy conquerors their storied tombs,</l>
+                 <l>Tho' not a stone point out my humble grave.</l>
+              </lg>
+           </div>
+           <trailer>The End of Book III</trailer>
+        </div>
+        <div type="book">
+           <head>The Sugar-Cane</head>
+           <head type="sub">Book IV</head>
+           <div type="prefatory">
+              <head>Argument</head>
+              
+           </div>
         </div>
       </body>    
   </text>
