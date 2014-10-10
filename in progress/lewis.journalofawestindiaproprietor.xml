@@ -765,6 +765,7 @@
   <div type="entry">
      <opener><dateline><date when="1815-12-05">December 5</date>.</dateline></opener> 
   <p>   Sea Terms.— 
+     <!-- does this need any sort of markup???? if so, there are several others -->
      <distinct type="nautical" rend="italic">Ratlines</distinct>,
      <gloss>the rope ladders by which the sailors climb the shrouds</gloss>; 
       the <distinct type="nautical" rend="italic">companion</distinct>, 
@@ -8933,16 +8934,233 @@
         and concealed himself on board among the
         <ecda:commodity>bags of cotton</ecda:commodity>, was found to be the thief. He
         was sent back to the workhouse, of which the chain
-        was still about his nice. But another <ecda:anonPers>negro</ecda:anonPers> had
+        was still about his neck. But another negro had
         better luck in a similar attempt on board of a
         different vessel. He contrived to secrete himself
         in the lower part of it, where the <ecda:commodity>sugar hogsheads</ecda:commodity>
-        are stored, unknown to any one. 
+        are stored, unknown to any one. As soon as the
+        cargo was completed, the planks above it were
+        caulked down, and raised no more till their ship
+        reached <placeName>Liverpool</placeName>; when, to the universal astonishment,
+        upon opening the hold, out walked <persName ref="#mungo_0001">Mungo</persName>,
+        in a wretched condition to be sure, but still at least
+        alive, and a freeman in <placeName>Great Britain</placeName>. During his
+        painful voyage, he had subsisted entirely upon
         
+        
+        
+        
+        <ecda:commodity>sugar</ecda:commodity>, of which he had consumed nearly <measure>an hogshead</measure>;
+        how he managed for water I could not learn,
+        nor can imagine.        
      </p>
-     
-     
-  </div>          
+  </div>    
+  <div type="entry">
+     <opener><dateline><date when="1816-04-23">April 23</date>.</dateline></opener>  
+     <p>The <ecda:anonPers>old steward</ecda:anonPers>, this morning, told one of the
+        sailors, who complained of being ill, that he would
+        get well as soon as he should reach <placeName>England</placeName>, and
+        could have plenty of <ecda:food>vegetables</ecda:food>; <said rend="quotes">for,</said> he said,
+        <said rend="quotes">the man had only got a <distinct rend="italic" type="dialect">stomachick</distinct> complaint;
+        nothing but just scurvy!</said>
+     </p>
+  </div>    
+  <div type="entry">
+     <opener><dateline><date when="1816-04-24">April 24</date>.</dateline></opener>  
+     <p>Sea Terms.—The <distinct type="nautical" rend="italic">sheets</distinct>, a term for <gloss>various
+     ropes</gloss>; the <distinct type="nautical" rend="italic">halyards</distinct>, <gloss>ropes which extend the top-
+     sails</gloss>; the <distinct type="nautical" rend="italic">painter</distinct>, the <gloss>rope which fastens the boat
+     to the vessel</gloss>; the <distinct type="nautical" rend="italic">eight points of the compass</distinct>, 
+     <gloss>south, south and east, south-south east, south
+     east and by east, south-east, east south and by 
+     east, east south east, east and by south east</gloss>. The
+     knowledge of these points is termed <distinct type="nautical" rend="quotes">knowing
+     how to box the compass</distinct>. 
+     </p>
+  </div>  
+  <div type="entry">
+     <opener><dateline><date when="1816-04-27">April 27</date>.</dateline></opener>  
+     <p>Many years ago, a new species of <ecda:fauna>grass</ecda:fauna> was imported 
+     into <placeName>Jamaica</placeName>, by a <persName>Mr. Vassal</persName>, (to whom <rs type="place">an
+      estate</rs> near <rs type="place">my house</rs> then belonged), as he said <said rend="quotes" direct="false">for
+      the purpose of feeding his <ecda:fauna>pigs</ecda:fauna> and his <rs type="persGroup">book-
+      keepers</rs>.</said> Its seeds being soon scattered about by 
+      
+      
+      
+      
+      the <ecda:fauna>birds</ecda:fauna>, it has taken possession of the <ecda:flora>cane-pieces</ecda:flora>,
+        whence to eradicate it is an utter impossibility, the
+        roots being as strong as those of <ecda:flora>ginger</ecda:flora>, and insinuating 
+        themselves under ground to a great extent; so that the only means of preventing it
+        from entirely choking up the <ecda:flora>canes</ecda:flora>, is plucking it
+        out with the hand, which is obliged to be done
+        frequently, and has increased the labour of the
+        plantation at least one third. This nuisance, which
+        is called <distinct type="agricultural" rend="quotes"><ecda:flora><persName>Vassal's</persName> grass</ecda:flora></distinct>, from its original introducer,
+        has now completely over-run the parish of
+        <placeName>Westmoreland</placeName>, has begun to show itself in the
+        neighbouring parishes, and probably in time will
+        get a footing throughout <rs type="place">the island</rs>. <placeName>St Thomas's
+        in the East</placeName> has been innoculated with another self-
+        inflicted plague, under the name of <distinct type="scientific" rend="quotes"><ecda:fauna>the rifle-
+        ant</ecda:fauna></distinct>, which was imported for the purpose of eating
+        up the <ecda:fauna>ants</ecda:fauna> of the country; and so to be sure they 
+        did, but in the bargain they eat up every thing else
+        which came in their way, a practice in which they 
+        persist to this hour; so that it may be doubted
+        whether in <placeName>Jamaica</placeName> most execrations are bestowed
+        in the course of the day upon <ecda:flora><persName>Vassal's</persName> grass</ecda:flora>, the
+        <ecda:fauna>rifle-ants</ecda:fauna>, <ecda:fauna><persName ref="#charles_price_1708">Sir Charles Price's</persName> rats</ecda:fauna>, or the <name>Reporter</name>
+        of the <orgName>African Society</orgName>; only that the maledictions
+        uttered against the three first are necessarily local,
+        while the <name>Reporter</name> of the <orgName>African Society</orgName> comes
+        in for curses from all quarters.   
+     </p>
+  </div>  
+            
+            
+            
+            
+            
+            
+            
+   <div type="entry">
+      <opener><dateline><date when="1816-04-30">April 30</date>. <hi rend="mixed">(Tuesday.)</hi></dateline></opener>     
+      <p>A whole calendar month has elapsed since our
+         quitting <placeName>Jamaica</placeName>, during which the wind has been
+         favourable for something less than four-and-twenty
+         hours; either it has blown precisely from the point
+         on which we wanted to sail, or has been so faint,
+         that we scarcely made <measure>one knot an hour</measure>. However,
+         on Tuesday last, finding ourselves in the latitude 
+         of the <quote rend="quotes" source="shakespeare_tempest">still vexed <placeName>Bermoothes</placeName></quote>, by way of
+         variety, a sudden squall carried away both our lower
+         stunsails in the morning; and at nine in the evening
+         there came on a gale of wind truly tremendous.
+         The ship pitched and rolled every minute, as if she
+         had been on the point of overturning; the <ecda:fauna>hen</ecda:fauna>-
+         coops floated about on the deck, and many of the <ecda:fauna>poultry</ecda:fauna>
+         were found drowned in them the next morning.
+         Just as the last dead-light was putting up, the sea
+         embraced the opportunity of the window being
+         open, to whip itself through, and half filled the
+         after-cabin with water; and in half an hour more
+         a mountain of waves broke over the vessel, and
+         pouring itself through the sky-light, paid the same
+         compliment to the fore-cabin, with which it had
+         already honoured the after one. About for in the
+         morning the storm abated, and then we relapsed
+         into our good old jog-trot pace of a knot an hour.
+         Our passengers consist of a <persName>Mrs Walker</persName> with her
+         two children, and a sick surgeon of the name of
+         <persName>Ashman</persName>
+      </p>
+   </div> 
+   <div type="entry">
+      <opener><dateline><date when="1816-05-05">May 5</date>. <hi rend="mixed">(Sunday.)</hi></dateline></opener> 
+    <p>We continue to proceed at such a <ecda:fauna>tortoise</ecda:fauna>-pace,
+       that it has been thought advisable to put <rs type="persGroup">the crew</rs>
+       upon an allowance of <ecda:food>water</ecda:food>.       
+    </p>   
+   </div> 
+   <div type="entry">
+      <opener><dateline><date when="1816-05-07">May 7</date>.</dateline></opener>    
+         <p>A Negro song.—<quote rend="quotes"><distinct type="dialect">Me take my cutacoo, (i.e. a
+         basket made of matting,) and follow him to <placeName>Lucea</placeName>,
+         all for love of my bonny man-O—My bonny 
+         man come home, come home! Doctor no do you 
+         good. When neger fall into neger hands, buckra
+         doctor no do him good more. Come home, my
+         gold ring, come home!</distinct></quote> This is the song of a
+         wife, whose husband has been <distinct type="religious">Obeahed</distinct> by another
+         woman, in consequence of his rejecting her advances.
+         A negro riddle: <quote rend="quotes"><persName ref="#miss_nancy_0001">Pretty Miss Nancy</persName>
+         was going to market, and she tore her fine yellow
+         gown, and there was not a taylor in all the town
+         who could mend it again.</quote> This is a ripe <ecda:food>plantain</ecda:food>
+         with a broken skin. <rs type="persGroup">The Negroes</rs> are also
+         very fond of what they call <title ref="#anansi_stories">Nancy stories</title>, part of 
+         which is related and part sung. The heroine of
+         one of them is an old woman named <persName ref="#mama_luna_0001">Mamma
+         Luna</persName>, who having left a pot boiling in her hut,
+         found it robbed on her return. Her suspicions
+         were divided between <rs type="persGroup">two children</rs> whom she 
+         found at play near her door, and <rs type="persGroup">some negroes</rs> who
+         had passed that way to market. <rs type="persGroup">The children</rs> denied
+         the theft positively. It was necessary for <rs type="persGroup">the
+            
+            
+            
+            
+       
+       
+         negroes</rs>, in order to reach their own estate, to wade
+         through a river at that time almost dry; and on
+         their return, <persName ref="#mamma_luna_0001">Mammy Luna</persName> (who it should seem,
+            was not without some skill in witchcraft,) warned 
+            them to take care in venturing across the stream,
+            for that water would infallibly rise and carry
+            away the person who had stolen <rs ana="#food">the contents of
+            her pot</rs>; but if the thief would but confess the
+            offence, she engaged that no harm should happen,
+            as she only wanted to exculpate the innocent, and
+            not to punish the guilty. One and all denied the
+            charge, and several crossed the river without fear
+            or danger; but upon the approach of a <distinct type="dialect" rend="italic"><ecda:anonPers>belly-
+            woman</ecda:anonPers></distinct> to the bank, she was observed to hesitate.
+            <said rend="quotes"><distinct type="dialect">My neger, my neger</distinct></said>, said <persName ref="#mamma_luna_0001">Mammy Luna</persName> <said rend="quotes"><distinct type="dialect">why
+            you stop? me tink, you savee well, who thief
+            me?</distinct></said> This accusation spirited up <ecda:anonPers>the woman</ecda:anonPers>,
+            who instantly marched into the river, singing as
+            she went (and the woman's part is always chanted
+            frequently in chorus, which <rs type="persGroup">the negroes</rs> call,
+            <distinct rend="quotes" type="dialect">taking up the sing</distinct>. 
+            <quote source="#mamma_luna">
+                  <lg>
+                     <l><said rend="prequotes" xml:id="s024" next="#s025"><distinct type="dialect">If da me eat <persName ref="#mamma_luna_0001">Mamma Luna's</persName> <ecda:food>pease-O</ecda:food></distinct>,</said></l>
+                     <l><said rend="postquotes" xml:id="s025" prev="#s024"><distinct type="dialect">Drowny me water, drowny, drowny</distinct>!</said></l>
+                  </lg>
+            </quote>
+           <said rend="quotes"><distinct type="dialect">My neger, my neger</distinct>,</said> cried the old woman,
+            <said rend="quotes"><distinct type="dialect">me sure now you the thief! me see the water wet
+            you feet. Come back now, my neger, come back</distinct>.</said>
+            Still on when <ecda:anonPers>the woman</ecda:anonPers>, and still continued her song of
+            <quote rend="quotes"><said><distinct type="dialect">If da me eat <persName ref="#mamma_luna_0001">Mamma Luna's</persName> <ecda:food>pease</ecda:food>, &amp;c.</distinct></said></quote>
+            
+            
+            
+            
+            
+            
+            <said rend="quotes"><distinct type="dialect">My neger, my neger</distinct>,</said> repeated <persName ref="#mamma_luna">Mammy Luna</persName>,
+            <said rend="quotes"><distinct type="dialect">me no want punish you; my pot smell good, and
+            you belly-woman. Come back, my neger, come
+            back; me see now water above your knee!</distinct></said> But
+            <ecda:anonPers>the woman</ecda:anonPers> was obstinate; she continued to sing
+            and to advance, till she reached the middle of the
+            river's bed, when down came a tremendous flood,
+            swept her away, and she never was heard of more;
+            while <persName ref="#mamma_luna_0001">Mammy Luna</persName> warned <rs type="persGroup">the other negroes</rs>
+            never to take the property of another; always to
+            tell the truth; and, at least, if they should be
+            betrayed into telling a lie, not to persist in it,
+            otherwise they must expect to perish like their
+            companion. Observe, that a moral is always an
+            indispensible part of a <title ref="#anansi_story">Nancy story</title>. Another is
+            as follows: <quote rend="quotes"><rs type="persGroup">Two sisters</rs> had always lived together
+            on the best terms; but, on the death of <ecda:anonPers>one
+            of them</ecda:anonPers>, <ecda:anonPers>the other</ecda:anonPers> treated very harshly a little
+            <ecda:anonPers>niece</ecda:anonPers>, who had been left to her care, and made her
+            a common drudge to herself and <ecda:anonPers>her daughter</ecda:anonPers>.
+            One day <ecda:anonPers>the child</ecda:anonPers> having broken a <ecda:commodity>water-jug</ecda:commodity>, was
+            turned out of the house, and ordered not to return
+            till she could bring back as good a one. As she
+            was going along, weeping, she came to a large 
+           <ecda:flora>cotton-tree</ecda:flora>, under which was sitting an <ecda:anonPers>old woman</ecda:anonPers>
+            without a head. I suppose this unexpected sight</quote>
+      </p>
+   </div>         
      </body>
       
   </text>
