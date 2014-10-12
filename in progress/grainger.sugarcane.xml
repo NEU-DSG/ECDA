@@ -59,9 +59,9 @@
                  <label rend="case(smallcaps)">Ver.22</label> <ref rend="slant(italic)">the spiry <ecda:flora ana="#ana_harv">Cane</ecda:flora>,</ref>] The botanical
                  name of the <ecda:flora>Cane</ecda:flora> is <distinct type="dialect" xml:lang="la" rend="slant(italic)">Saccharum</distinct>. The
                  <name>Greeks</name> and <name>Romans</name> seem to have known very little of this most useful and beautiful
-                 plant. <persName>Lucan</persName> and <persName>Pliny</persName> are the only authors among the former who mention it; and
-                 so far as I can find, <persName>Arrian</persName> is the only <name>Greek</name>. The first of these Writers, in enumerating
-                 <persName>Pompey's</persName> Eastern auxilaries, describes a nation who made use of the <ecda:food ana="#ana_flora #ana_use">Cane-
+                 plant. <persName ref="#lucan_0039">Lucan</persName> and <persName ref="#pliny_0023">Pliny</persName> are the only authors among the former who mention it; and
+                 so far as I can find, <persName ref="#arrian_0086">Arrian</persName> is the only <name>Greek</name>. The first of these Writers, in enumerating
+                 <persName ref="#pompey_0106">Pompey's</persName> Eastern auxilaries, describes a nation who made use of the <ecda:food ana="#ana_flora #ana_use">Cane-
                  juice</ecda:food> as a drink:
                  <quote xml:lang="la" rend="slant(italic)type(block)">Dulces bibebant ex arundine succos</quote>
                  The industrious Naturalist says, <distinct xml:lang="la">Saccharum et Arabia fort, sed laudatius India</distinct>; and
@@ -96,7 +96,7 @@
                  and whether the <name>Spaniards</name> or <name>Portuguese</name> were the first planters in the new world:
                  it is indeed most likely that the latter erected the first sugar-works in <placeName>Brazil</placeName>, as they are
                  more lively and enterprizing than the <name>Spaniards</name>. However they had not long the start
-                 of the latter; for in <date>1506</date> <persName>Ferdinand the Catholic</persName> ordered the Cane to be carried from
+                 of the latter; for in <date>1506</date> <persName ref="#ferdinand_ii_aragon_1479">Ferdinand the Catholic</persName> ordered the Cane to be carried from
                  the <placeName>Canaries</placeName> to <placeName>St. Domingo</placeName>, in which island one <persName>Pedro de Atenca</persName> soon after built an
                  <distinct type="dialect">Ingenio de açucar</distinct> for so the <name>Spaniards</name> call a Sugar-work. But, though they began thus
                  early to turn their thoughts to sugar, the <name>Portuguese</name> far outstripped them in that trade;
@@ -185,7 +185,7 @@
                  the second sort the largest: All are equally wholesome, when stewed or made into
                  jelly or marmalade. When raw, they are supposed to generate worms. Strangers
                  do not always at first like their flavour, which is peculiarly strong. This,
-                 however, goes off by use, and they become exceedingly agreeable. <persName>Acosta</persName> says
+                 however, goes off by use, and they become exceedingly agreeable. <persName ref="#jose_de_acosta_1539">Acosta</persName> says
                  the <rs type="properAdjective">Peruvian</rs> guavas surpass those of any other part of <placeName>America</placeName>. The bark of the
                  tree is an astringent, and tanns leather as well as that of oak. The <name>French</name> call the
                  tree <distinct type="dialect" xml:lang="fr">Goyavier</distinct>.
@@ -236,7 +236,7 @@
            <note xml:id="n010" target="#a010">
               <p>
                  <label>Ver. 60.</label> <ref>green St. Christopher,]</ref> This beautiful and fertile island, and which,
-                 in <persName>Shakespear's</persName> words, may justly be stiled
+                 in <persName ref="#william_shakespeare_1564">Shakespear's</persName> words, may justly be stiled
                  <quote rend="block">A precious stone set in the silver sea,</quote>
                  lies in the seventeenth degree <choice><abbr>N. L.</abbr><expan><distinct type="geographical" xml:lang="la">Nomen loci<!-- ?? --></distinct></expan></choice>. It was discovered by the great <persName ref="#christopher_columbus_1450">Christopher Columbus</persName>,
                  in his second voyage, <date>1493</date>, who was so pleased with his appearance, that he honoured
@@ -281,7 +281,7 @@
                  retire, and the colony succeeded better than ever. One reason for this, was that it had
                  been agreed between the two nations, that they should here remain neutral whatever
                  wars their mother-counties might wage against each other in Europe. This was
-                 a wise regulation for an instant settlement; but, when <persName>King James</persName> abdicated the <rs type="properAdjective">British</rs>
+                 a wise regulation for an instant settlement; but, when <persName ref="james_vi_i_1566">King James</persName> abdicated the <rs type="properAdjective">British</rs>
                  throne, the <name>French</name> suddenly rose, and drove out the unprepared <name>English</name> by
                  force of arms. The <rs type="properAdjective">French</rs> colonists of <placeName>St. Christopher</placeName> had soon reason, however to
                  repent their impolitic breach of faith; for the expelled planters, being assisted by their
@@ -321,18 +321,18 @@
                  early [A.D. <date>1509</date>] the following century. What improvements  the <name>Spaniards</name> made
                  therein is no where mentioned; but, had their industry been equal to their opportunities, 
                  their improvements whould have been considerable; for they continued in the
-                 undisturbed possession of it till the year 1596, when <persName>Sir Anthony Shirley</persName>, with a
+                 undisturbed possession of it till the year 1596, when <persName ref="anthony_shirley_1565">Sir Anthony Shirley</persName>, with a
                  single man of war, took and plundered <placeName>St. Jago de la Vega</placeName>, which then consisted of
                  2000 houses. In the year 1635, <placeName>St. Jago de la Vega</placeName> was a second timed plundered
                  by 500 <name>English</name> from the <placeName>Leeward islands</placeName>, tho' that capital, and the fort (which they
                  also took) were defended by four times their number of <name>Spaniards</name>. One and twenty
                  years afterwards, the whole island was reduced by the forces sent thither by <persName ref="#oliver_cromwell_1599">Oliver
                  Cromwell</persName>, and has ever since belonged to <placeName>England</placeName>. It is by far the largest island
-                 possessed by the <name>English</name> in the <placeName>West Indies</placeName>. <persName>Sir Thomas Modyford</persName>, a rich and
+                 possessed by the <name>English</name> in the <placeName>West Indies</placeName>. <persName ref="thomas_modyford_1620">Sir Thomas Modyford</persName>, a rich and
                  eminent planter of Barbadoes, removed to <placeName>Jamaica</placeName> A.D. <date>1660</date>, to the great advantage of
                  that island, for he instructed the young <rs type="properAdjective">English</rs> settlers to cultivate the Sugar-cane; for
                  which, and other great improvements which he then made them acquainted with,
-                 <persName>King Charles</persName>, three years afterwards, appointed him Governour thereof, in which
+                 <persName ref="charles_ii_england_1630">King Charles</persName>, three years afterwards, appointed him Governour thereof, in which
                  honourable employment he continued until the year 1699.
               </p>
            </note>
@@ -340,7 +340,7 @@
               <p>
                  <label>Ver. 132.</label> <ref>the bearded fig]</ref> This wonderful tree, by the <name>Indians</name> called the
                  <distinct type="dialect">Banian-tree</distinct>; and by the botanists <distinct type="scientific">Ficus Indica</distinct>, or <distinct type="scientific">Bengalicusis</distinct>, is exactly described
-                 by <persName>Q. Curtius</persName>, and beautifully by <persName>Milton</persName> in the following lines:
+                 by <persName ref="#quintus_curtius_rufus_0001">Q. Curtius</persName>, and beautifully by <persName ref="#john_milton_1608">Milton</persName> in the following lines:
                  <quote rend="block">
                     <lg>
                        <l>The Fig-tree, not that kind renown'd for fruit,</l>
@@ -366,8 +366,8 @@
                  when the <name>English</name> first landed there, which was about the end of the sixteenth or beginning
                  of the seventeenth century, they found in it an excellent breed of wild hogs,
                  but no inhabitants. In the year <date>1627</date>, <placeName>Barbadoes</placeName>, with most of the other <placeName>Caribbee-
-                 Islands</placeName>, were granted by <persName>Charles I</persName>. to the Earl of Carlisle, that nobleman agreeing to
-                 pay to the <persName>Earl of Marlborough</persName>, and his hears, a perpetual annuity of 300 l. per annum,
+                 Islands</placeName>, were granted by <persName ref="#charles_i_england_1600">Charles I</persName>. to the Earl of Carlisle, that nobleman agreeing to
+                 pay to the Earl of Marlborough, and his hears, a perpetual annuity of 300 l. per annum,
                  for his waving his claim to <placeName>Barbadoes</placeName>, which he had obtained, by patent, in the
                  preceding reign. The adventurers to whom that nobleman parcelled out this island, at
                  first cultivated tobacco; but, that not turning out to their advantage, they applied,
@@ -375,7 +375,7 @@
                  fortune transporting themselves thither, and introducing the Sugar-cane [A. D. 1647]
                  probably from <placeName>Brazil</placeName>, in ten years time the island was peopled with upwards of
                  30,000 <name>Whites</name>, and twice that number of <name>Negroes</name>, and sent yearly very considerable
-                 quantities of sugar to the mother-country. At the Restoration, <persName>King Charles II.</persName>
+                 quantities of sugar to the mother-country. At the Restoration, <persName ref="#charles_ii_england_1630">King Charles II.</persName>
                  bought off the claim of the <name>Carlisle</name>-family; and, in the consideration of its then
                  becoming a royal instead of a proprietary government, the planters gave the <orgName>Crown</orgName>
                  4 ½ per cent. on their sugars; which duty still continues, although the island is said to 
@@ -396,7 +396,7 @@
                  1628. Sixty-two ears afterwards, the chief town was almost wholly destoyed by
                  an earthquake; and, in 1706, the planters were well-nigh ruined by the <name>French</name>,
                  who carried off their slaves contrary to capitulation. It must have been discovered
-                 in <persName>Columbus's</persName> second voyage, A. D. 1493.
+                 in <persName ref="#christopher_columbus_1450">Columbus's</persName> second voyage, A. D. 1493.
               </p>
            </note>
            <note xml:id="n015" target="#a015">
@@ -408,15 +408,15 @@
                  <!-- Insert pb info here -->
                  
                  shape, it cannot contain much less land than either <placeName>Nevis</placeName> or <placeName>St. Christopher</placeName>. It is
-                 naturally strong, so that when the <name>French</name> made descents thereon, in <persName>K. William</persName> and 
-                 <persName>Q. Anne's</persName> time, they were always repulsed with considerable loss. It was settled by
-                 that great adventurer <persName>Sir Thomas Warner</persName>, A. D. 1632, who sent thither some
+                 naturally strong, so that when the <name>French</name> made descents thereon, in <persName ref="#william_iii_england_1650">K. William</persName> and 
+                 <persName ref="#anne_great_britain_1665">Q. Anne's</persName> time, they were always repulsed with considerable loss. It was settled by
+                 that great adventurer <persName ref="#thomas_warner_1580">Sir Thomas Warner</persName>, A. D. 1632, who sent thither some
                  of his people from <placeName>St. Christopher</placeName>, for that purpose. In the beginning of the reign of
-                 <persName>Charles II.</persName> the <name>French</name> took it, but it was restored, A. D. 1667, by the <name>treaty of
+                 <persName ref="charles_ii_england_1630">Charles II.</persName> the <name>French</name> took it, but it was restored, A. D. 1667, by the <name>treaty of
                  <placeName>Breda</placeName></name>. In this island the <name>Roman-catholics</name>, who behaved well when our enemies
                  attempted to conquer it, have many privileges, and of course are more numerous
                  there, than in any other of the <placeName><rs type="properAdjective">English</rs> Caribbee-islands</placeName>. Its capital is called 
-                 <placeName>Plymouth</placeName>. <persName>Columbus</persName> discovered it in his second voyage.
+                 <placeName>Plymouth</placeName>. <persName ref="#christopher_columbus_1450">Columbus</persName> discovered it in his second voyage.
               </p>
            </note>
            <note xml:id="n016" target="#a016">
@@ -470,7 +470,7 @@
            </note>
            <note xml:id="n021" target="#a021">
               <p>
-                 <label>Ver. 290</label> <ref>By Ceres' son,]</ref> <persName>Jethro Tull</persName>, Esq; the greatest improver in modern
+                 <label>Ver. 290</label> <ref>By Ceres' son,]</ref> <persName ref="#jethro_tull_1674">Jethro Tull</persName>, Esq; the greatest improver in modern
                  husbandry.
               </p>
            </note>
@@ -481,7 +481,7 @@
                  a yellow coloured tumour, attended with excessive itching. Ugly ulcers have often
                  been occasioned by scratching those swellings, in persons of a bad habit of body.
                  Though natives of the <placeName>West-Indies</placeName>, they are not less common in the coldest
-                 regions; for <persName>Mr. Maupertuis</persName> takes notice how troublesome they were to him and his
+                 regions; for <persName ref="#pierre_louis_maupertuis_1698">Mr. Maupertuis</persName> takes notice how troublesome they were to him and his
                  attendents on the snowy summit of certain mountains within the arctic circle. They,
                  however, chiefly love shady, moist, and warm places. Accordingly they are commonest
                  to be met with in the corners of rooms, towards evening, and before rain. They are
@@ -587,7 +587,7 @@
            </note>
            <note xml:id="n031" target="#a031">
               <p>
-                 <label>Ver. 503</label> <ref>the logwood-hedge.]</ref> <persName>Linnæus's</persName> name for this useful tree is <soCalled>Hæmotoxylon</soCalled>,
+                 <label>Ver. 503</label> <ref>the logwood-hedge.]</ref> <persName ref="#carl_linnaeus_1707">Linnæus's</persName> name for this useful tree is <soCalled>Hæmotoxylon</soCalled>,
                  but it is better known to physicians by that of the <soCalled>Lignum campechense</soCalled>. Its virtues, as a
                  medicine, and properties as an ingredient in dying, need not to be enumerated in
                  this place. It makes a no less strong than beautiful hedge in the West-Indies, where
@@ -617,7 +617,7 @@
                  <label>Ver. 510</label> <ref>The acassee,]</ref> <soCalled>Acacia.</soCalled> This is a species of thorn; the juice of the
                  root is supposed to be poisonous. Its seeds are contained in a pod or ligumen. It is
                  of the class of the syngenesia. No astringent juice is extracted from it. Its trivial
-                 name is <soCalled>Cashaw</soCalled>. <persName>Tournefort</persName> describes it in his voyage to the <placeName>Levant</placeName>. Some call it
+                 name is <soCalled>Cashaw</soCalled>. <persName ref="#joseph_tournefort_1656">Tournefort</persName> describes it in his voyage to the <placeName>Levant</placeName>. Some call it
                  the Holy Thorn, and others Sweet Brier. The half-ripe pod affords a strong cement;
                  and the main stem, being wounded, produces a transparent gum, like the <rs type="properAdjective">Arabic</rs>, to
                  which tree this bears a strong resemblance.
@@ -632,7 +632,7 @@
            <note xml:id="n035" target="#a035">
               <p>
                  <label>Ver. 520.</label> <ref>carnation fair.</ref> This is indeed a most beautiful flowering shrub. It is
-                 a native of the <placeName>West-Indies</placeName>, and called, from a <rs type="properAdjective">French</rs> governor, named <persName>Depoinci</persName>,
+                 a native of the <placeName>West-Indies</placeName>, and called, from a <rs type="properAdjective">French</rs> governor, named <persName ref="#phillippe_de_poincy_1583">Depoinci</persName>,
                  <soCalled>Poinciana</soCalled>. If permitted, it will grow twenty feet high; but in order to make it a
                  good fence, it should be kept low. It is always in blossom. Tho' not purgative, it is
                  of the senna kind. Its leaves and flowers are stomachic, carminative, and emmenagogue.
@@ -646,7 +646,7 @@
                  <label>Ver. 526.</label> <ref>seen the humming bird,]</ref> The humming bird is called <distinct type="dialect" xml:lang="fr">Picaflore</distinct> by the
                  <name>Spaniards</name>, on account of its hovering over flowers, and sucking their juices, without
                  lacerating or even so much as discomposing their petals. Its <rs type="properAdjective">Indian</rs> name, says
-                 <persName>Ulloa</persName>, is <soCalled><foreign>Guinde</foreign></soCalled>, though it is also known by the appellation of <soCalled>Rabilargo</soCalled> and <soCalled>Lizongero</soCalled>.
+                 <persName ref="#francisco_de_ulloa_0001">Ulloa</persName>, is <soCalled><foreign>Guinde</foreign></soCalled>, though it is also known by the appellation of <soCalled>Rabilargo</soCalled> and <soCalled>Lizongero</soCalled>.
                  By the <name>Caribbeans</name> it was called <soCalled>Collobree</soCalled>. It is common in all the warm parts of <placeName>America</placeName>
                  There are various species of them, all exceeding small, beautiful and bold.
                  The crested one, though not so frequent, is yet more beautiful than the others. It is
@@ -720,7 +720,7 @@
                  It is pretended that all creatures
                  but man eat the raw root of the cassada with impunity; and, when dried, that it
                  is a sovereign antidote against venomous bites. A wholesome drink is prepared from
-                 this root by the <name>Indians</name>, <name>Spaniards</name>, and <name>Poruguese</name>, according to <persName>Pineda</persName>. There is
+                 this root by the <name>Indians</name>, <name>Spaniards</name>, and <name>Portuguese</name>, according to <persName>Pineda</persName>. There is
                  one species of this plant which the <name>Indians</name> only use, and is by them called <soCalled>Baccacoua</soCalled>.
               </p>
            </note>
@@ -761,7 +761,7 @@
                  or <soCalled>Ceiba</soCalled>, among them. The flower of the <rs type="properAdjective">West-India</rs> cotton-shrub is yellow, and
                  campanulated. It produces twice every year. That of Cayenne is the best of any
                  that comes from <placeName>America</placeName>. This plant is very apt to be destroyed by a grub within a
-                 short time; bating that, it is a profitable production. <persName>Pliny</persName> mentions <soCalled>Gossipium</soCalled>,
+                 short time; bating that, it is a profitable production. <persName ref="#pliny_0023">Pliny</persName> mentions <soCalled>Gossipium</soCalled>,
                  which is the common botanical name of cotton. It is likewise called <soCalled>Zylon</soCalled>. <persName>Martinus</persName>,
                  in his <bibl>Philological Lexicon</bibl>, derives cotton from the Hebrew word <!-- Hebrew here --> <foreign>Katon</foreign>,
                  (or as pronounced by the <name>German-Jews</name>, <soCalled><foreign>Kotoun</foreign></soCalled>.)
@@ -809,7 +809,7 @@
                  <!-- insert pb info here -->
                  
                  <persName>Pasqua</persName>, a <name>Greek</name>, having opened a coffee-house in <placeName>London</placeName> about the middle of the
-                 last century. The famous traveller, <persName>Thevenot</persName>, introduced coffee into <placeName>France</placeName>.
+                 last century. The famous traveller, <persName ref="#melchisedech_thevenot_1620">Thevenot</persName>, introduced coffee into <placeName>France</placeName>.
                  This plant is cultivated in the <placeName>West-Indies</placeName>, particularly by the <name>French</name>, with great
                  success; but the berry from thence is not equal to that from <!-- Mocha -->. It is a species
                  of <rs type="properAdjective">Arabian</rs> jasmine; the flower is particularly redolent, and from it a pleasant cordial
@@ -843,7 +843,7 @@
                  <label>Ver. 642.</label> <ref>and ere the swift-wing'd zumbadore,]</ref> This bird, which is one of the
                  largest and swiftest known, is only seen at night, or rather heard; for it makes
                  a hideous humming noise (whence its name) on the desert tops of the <geogName>Andes</geogName>.
-                 See <persName>Ulloa's</persName> <bibl><title>Voyage to <placeName>South-America</placeName></title></bibl>. It is also called <soCalled>Condor</soCalled>. Its wings,
+                 See <persName ref="#francisco_de_ulloa_0001">Ulloa's</persName> <bibl><title>Voyage to <placeName>South-America</placeName></title></bibl>. It is also called <soCalled>Condor</soCalled>. Its wings,
                  When expanded, have been known to exceed sixteen feet from tip to tip. See
                  <bibl>Phil. Trans. No. 208.</bibl>
               </p>
@@ -866,7 +866,7 @@
               <p>
                  <label>Ver. 46</label> <ref>peculiar pest]</ref> The monkeys which are now so numerous in the mountainous
                  parts of <placeName>St. Christopher</placeName>, were brought thither by the <name>French</name> when they possessed 
-                 half that island. The circumstance we learn from <persName rend="italic">Pere Labat</persName>, who farther
+                 half that island. The circumstance we learn from <persName ref="#jeanbaptiste_labat_1663">Pere Labat</persName>, who farther
                  tells us, that they are a most delicate food. The <name>English-Negroes</name> are very fond 
                  of them, but the <name>White-inhabitants</name> do not eat them. They do a great deal of mischief
                  in <placeName>St. Kitts</placeName>, destroying many thousand pounds <ref>Sterling's</ref> worth of Canes
@@ -877,7 +877,7 @@
               <p>
                  <label>Ver. 64</label> <ref>These to destroy]</ref> Rats &amp;c. are not natives of <placeName>America</placeName>, but came by
                  shipping from <placeName>Europe</placeName>. They breed in the ground, under loose rocks and bushes.
-                 <persName>Durante</persName>, a Roman, who was a physician to <persName>Pope Sixtus Quintus</persName>, and who wrote a
+                 <persName>Durante</persName>, a Roman, who was a physician to <persName ref="#pope_sixtus_v_1521">Pope Sixtus Quintus</persName>, and who wrote a
                  <rs type="properAdjective">Latin</rs> poem on the preservation of health, enumerates domestic rats among animals
                  that may be eaten with savety. But if these are wholesome, cane-rats must be much
                  more delicate, as well as nourishing. Accordingly we find most field <name>Negroes</name>
@@ -908,7 +908,7 @@
                  scarece ever escapes into the river with more than five out of all her hundred. Thus
                  providence doubly prevents the otherwise immense propacation of that voracious animal,
                  on the banks of the river <geogName>Guayaquil</geogName>; for the gallinazo is not always found,
-                 where alligators are. <bibl rend="ital"><author><persName>Ulloa</persName></author>.</bibl>
+                 where alligators are. <bibl rend="ital"><author><persName ref="#francisco_de_ulloa_0001">Ulloa</persName></author>.</bibl>
               </p>
            </note>
            <note xml:id="n055" target="#a055">
@@ -928,7 +928,7 @@
            </note>
            <note xml:id="n056" target="#a056">
               <p>
-                 <label>Ver. 76</label> <ref>Nor thou their wayward]</ref> <persName>Pere Labat</persName> says that Cane-rats give those
+                 <label>Ver. 76</label> <ref>Nor thou their wayward]</ref> <persName ref="#jeanbaptiste_labat_1663">Pere Labat</persName> says that Cane-rats give those
                  <name>Negroes</name> who eath them pulmonic disorders, but the good <name>Jesuit</name> was no physician. I
                  have been told by those who have eat them, that they are a very delicate food.
               </p>
@@ -982,9 +982,9 @@
            <note xml:id="n062" target="#a062">
               <p>
                  <label>Ver. 130</label> <ref>Not the confection]</ref> This medicine is called <distinct type="scientific">Mithridatium</distinct>, in honour
-                 of <persName>Mithridates king of <placeName>Pontus</placeName></persName>; who, by using it constantly, had secured himself
+                 of <persName ref="#mithridates_vi_pontus_0134">Mithridates king of <placeName>Pontus</placeName></persName>; who, by using it constantly, had secured himself
                  from the effects of poison, in such a manner, that, when he actually attempted to 
-                 put an end to his life, by that means, he failed in his purpose. So, at least, <persName>Pliny</persName>
+                 put an end to his life, by that means, he failed in his purpose. So, at least, <persName ref="#pliny_0023">Pliny</persName>
                  informs us. But we happily are not obliged to believe, implicitly, whatever that elaborate
                  compiler has told us. When poisons immediately operate on the nervous
                  system, and their effects are to be expelled by the skin, this electuary is no contemptible
@@ -998,7 +998,7 @@
            <note xml:id="n063" target="#a063">
               <p>
                  <label>Ver. 131.</label> <ref>Not the bless'd apple]</ref> Authors are not agreed what the apple is, to
-                 which <persName>Virgil</persName> attributes such remarkable virtues, nor is it indeed possible they ever
+                 which <persName ref="#virgil_0070">Virgil</persName> attributes such remarkable virtues, nor is it indeed possible they ever
                  
                  <!-- insert pb info here -->
                  
@@ -1016,16 +1016,16 @@
            <note xml:id="n065" target="#a065">
               <p>
                  <label>Ver. 171.</label> <ref>Thus cochinille]</ref> This is a <rs type="properAdjective">Spanish</rs> word. For the manner of
-                 propagating this useful inect, see <bibl><author><persName>Sir Hans Sloane's</persName> <title>Natural History of <placeName>Jamaica</placeName></title></author></bibl>. It was
+                 propagating this useful inect, see <bibl><author><persName ref="#hans_sloane_1660">Sir Hans Sloane's</persName> <title>Natural History of <placeName>Jamaica</placeName></title></author></bibl>. It was
                  long believed in <placeName>Europe</placeName> to be a seed, or vegetable production. The botanical name
                  of the plant on which the <ecda:fauna>cochinille</ecda:fauna> feeds, is <distinct type="scientific">Opunita maxima, folio oblongo
-                 majore, spinulis obtusis, mollibus et innocentibus obsito, flore,striis rubris variegato</distinct>. <bibl><author><persName>Sloane</persName></author></bibl>.
+                 majore, spinulis obtusis, mollibus et innocentibus obsito, flore,striis rubris variegato</distinct>. <bibl><author><persName ref="#hans_sloane_1660">Sloane</persName></author></bibl>.
               </p>
            </note>
            <note xml:id="n066" target="#a066">
               <p>
                  <label>Ver. 205.</label> <ref>Tho' seasons]</ref> Without a rainy season, the Sugar-cane could not be
-                 cultivated to any advantage: for what <persName>Pliny the Elder</persName> writes of another plant may
+                 cultivated to any advantage: for what <persName ref="#pliny_0023">Pliny the Elder</persName> writes of another plant may
                  be applied to this, <quote xml:lang="la" rend="italics">Gaudet irriguis, et toto anno bibere amat.</quote>
               </p>
            </note>
@@ -1046,7 +1046,7 @@
            <note xml:id="n069" target="#a069">
               <p>
                  <label>Ver. 231.</label> <ref>Eurus reigns]</ref> The East is the center of the trade-wind in the <placeName>West
-                 Indies</placeName>, which veers a few points to the North or South. What <persName>Homer</persName> says of the
+                 Indies</placeName>, which veers a few points to the North or South. What <persName ref="#homer_0001">Homer</persName> says of the
                  West-wind, in his islands of the blessed, may more aptly be applied to the trade-
                  winds.
               </p>
@@ -1065,7 +1065,7 @@
            </note>
            <note xml:id="n072" target="#a072">
               <p>
-                 <label>Ver. 314.</label> <ref>strange burs]</ref> These are astral halos. <persName>Columbus</persName> soon made himself
+                 <label>Ver. 314.</label> <ref>strange burs]</ref> These are astral halos. <persName ref="#christopher_columbus_1450">Columbus</persName> soon made himself
                  master of the signs that precede a hurricane in the <placeName>West-Indies</placeName>, by which means
                  he saved his own squadron; while another large fleet, whose commander despised his
                  prognostics, put to sea, and was wrecked.
@@ -1132,7 +1132,7 @@
            <note xml:id="n077" target="#a077">
               <p><label>Ver. 504.</label> <ref>The boneta]</ref> This fish, which is equal in size to the largest salmon,
                  is only to be found in the warm latitudes. It is not a delicate food, but thoe who
-                 have lived for any length of time on salt meats at sea, do not dislike it. <persName>Sir
+                 have lived for any length of time on salt meats at sea, do not dislike it. <persName ref="#hans_sloane_1660">Sir
                  Hans Sloane</persName>, in his voyage to Jamaica, describes the method of striking them.
               </p>
            </note>
@@ -1172,7 +1172,7 @@
                  <placeName>St. Kitts</placeName>; where one of the highest ridges of that chain of mountains, which run
                  through its center, from one end of it to the other, bears upon it another mountain,
                  which, somewhat resembling the legendary prints of the devil's carrying on his 
-                 shoulders <persName>St. Christopher</persName>; or, as others write, of a giant, of that appelation,
+                 shoulders <persName ref="#saint_christopher_0001">St. Christopher</persName>; or, as others write, of a giant, of that appelation,
                  carrying our Saviour, in the form of a child, in the same manner, through a deep
                  sea; gave name, to this island.
               </p>
@@ -1340,7 +1340,7 @@
                <lg type="indeterminate">
                   <l>So shall my numbers win the Public ear;</l>
                   <l>And not displease <persName ref="#marcus_aurelius_0121">Aurelius</persName>; him to whom,</l>
-                  <l>Imperial <persName ref="george_III_1738">George</persName>, the monarch of the main</l>
+                  <l>Imperial <persName ref="george_iii_uk_1738">George</persName>, the monarch of the main</l>
                   <l>Hath given wield the scepter of those isles,</l>
                   <l>Where first the Muse beheld <seg xml:id="a001" corresp="#n001">the spiry Cane,</seg></l>
                   <l>Supreme of plants, rich subject of my song.</l>
@@ -1762,7 +1762,7 @@
                   <l>His wife, his babes, his friends, will soon deplore;</l>
                   <l>Unless hot wines, dry cloaths, and fricktion's aid,</l>
                   <l>His fleeting spirits stay. Yet not even these,</l>
-                  <l>Nor all <persName>Apollo's</persName> arts, will always bribe</l>
+                  <l>Nor all <persName ref="#apollo_0001">Apollo's</persName> arts, will always bribe</l>
                   <l>The insidious tyrant death, thrice here:</l>
                   <l>Else good <persName>Amyntor</persName>, him the graces lov'd,</l>
                   <l>Wisdom caress'd, and Themis call'd her own,</l>
@@ -1839,7 +1839,7 @@
                   <l>Old as the deluge.—There, in secret haunts,</l>
                   <l>The watery spirits ope their liquid court;</l>
                   <l>There, with the wood-nymphs, linked in festal band,</l>
-                  <l>(Soft airs and <persName>Phoebus</persName> wing them to their arms)</l>
+                  <l>(Soft airs and <persName ref="#apollo_0001">Phoebus</persName> wing them to their arms)</l>
                   <l>Hod amorous dalliance. Ah, may none profane,</l>
                   <l>With fire, or steel, their mystic privacy:</l>
                   <l>For there their fluetn offspring first see day,</l>
@@ -1865,7 +1865,7 @@
                   <l>The mounded interval; and smooth the trench:</l>
                   <l>Well-pleas'd, the master-swain reviews their toil;</l>
                   <l>And rolls, in fancy, many a full-fraught cask.</l>
-                  <l>So, when the shield was forg'd for <persName><persName>Peleus'</persName> Son</persName>;</l>
+                  <l>So, when the shield was forg'd for <rs type="person" ref="#achilles_0001"><persName ref="#peleus_0001">Peleus'</persName> Son</rs>;</l>
                   <l>The swarthy Cyclops shar'd the important task:</l>
                   <l>With bellows, some reviv'd the seeds of fire;</l>
                   <l>Some, gold, and brass, and steel, together fused</l>
@@ -1879,7 +1879,7 @@
                
                
                <lg>
-                  <l>While <persName>Procyon</persName> reigns yet fervid in the sky;</l>
+                  <l>While Procyon reigns yet fervid in the sky;</l>
                   <l>While yet the fiery Sun in Leo rides;</l>
                   <l>And the Sun's child, <seg xml:id="a028" corresp="#n028">the mail'd <!-- anana --></seg>, yields</l>
                   <l>His regal apple to the ravish'd taste;</l>
@@ -2024,7 +2024,7 @@
                   
                   <l>Thy bloomy honours, Tipt with burnish'd gold,</l>
                   <l>And with imperial purple crested high,</l>
-                  <l>More gorgeous than the train of <persName>Juno's</persName> bird,</l>
+                  <l>More gorgeous than the train of <persName ref="juno_0001">Juno's</persName> bird,</l>
                   <l>Thy bloomy honours oft the curious muse</l>
                   <l>Hath seen transported: <seg xml:id="a036" corresp="#n036">seen the humming bird,</seg></l>
                   <l>Whose burnish'd neck bright glows with verdant gold;</l>
@@ -2036,7 +2036,7 @@
                <lg>
                   <l>But if with stones thy meagre lands are spread;</l>
                   <l>Be these collected, they will pay the toil:</l>
-                  <l>And let <persName>Vitruvius</persName>, aided by the line,</l>
+                  <l>And let <persName ref="#vitruvius_0001">Vitruvius</persName>, aided by the line,</l>
                   <l>Fence thy plantaitions with a thick-built wall.</l>
                   <l>On this lay cuttings of the <seg xml:id="a037" corresp="#n037">prickly pear;</seg></l>
                   
@@ -2129,7 +2129,7 @@
                   
                   
                   <l><seg xml:id="a046" corresp="#n046">His coffee</seg> bath'd, that glow'd with berries, red</l>
-                  <l>As <persName>Danae's</persName> lip, or, <persName>Theodosia</persName>, thine,</l>
+                  <l>As <persName ref="#danae_0001">Danae's</persName> lip, or, <persName>Theodosia</persName>, thine,</l>
                   <l>Yet countelss as the pebbles on the shore;</l>
                   <l>Oft while drought kill'd his impious neighbour's grove.</l>
                   <l>In time, a numerous gang of sturdy slaves,</l>
@@ -2227,20 +2227,20 @@
            <div type="prefatory">
               <head>Advertisement to Book II</head>
               <p>The following Book having been originally addressed
-                 to <persName>William Shenstone</persName>, Esq; and by him
+                 to <persName ref="#william_shenstone_1714">William Shenstone</persName>, Esq; and by him
                  approved of; the Author should deem it a kind of poetical
                  sacrilege, now, to address it to any other. To his
                  memory, therefore, be it sacred; as a small but sincere
                  testimony of the high opinion the Author entertained
                  of that Gentleman's genius and manners; and as the only
                  return now, alas! in his power to make, for the
-                 friendship where with <persName>Mr. Shenstone</persName> had condescended
+                 friendship where with <persName ref="#william_shenstone_1714">Mr. Shenstone</persName> had condescended
                  to honour him.
               </p>
            </div>
            <div type="prefatory">
               <head>Argument</head>
-              <p>Subject proposed. Address to <persName>William Shenstone</persName>, Esq. Of monkeys.
+              <p>Subject proposed. Address to <persName ref="#william_shenstone_1714">William Shenstone</persName>, Esq. Of monkeys.
                  Of rats and other vermin. Of weeds. Of the yellow fly. Of
                  the greasy fly. Of the blast. A hurricane described. Of calms 
                  and earthquakes. A tale.
@@ -2278,7 +2278,7 @@
                     <l>To burnish'd silver turns the blue-green wave.</l>
                  </lg>
                  <lg>
-                    <l>Say, will my <persName>Shenstone</persName> lend a patient ear,</l>
+                    <l>Say, will my <persName ref="#william_shenstone_1714">Shenstone</persName> lend a patient ear,</l>
                     <l>And weep at woes unknown to <placeName>Britain's Isle</placeName>?</l>
                     <l>Yes, thu wilt weep; for pity chose thy breast,</l>
                     <l>With taste and science for their soft abode:</l>
@@ -2288,7 +2288,7 @@
                  <lg>
                     <l><quote rend="quotes">O were my pipe as soft, my dittied song</quote></l>
                     <l>And smooth as thine, my too too distant friend,</l>
-                    <l><persName>Shenstone</persName>; my soft pipe, and my dittied song</l>
+                    <l><persName ref="#william_shenstone_1714">Shenstone</persName>; my soft pipe, and my dittied song</l>
                     <l>Should hush the hurricanes tremendous roar,</l>
                     <l>And from each evil guard the ripening Cane!</l>
                  </lg>
@@ -2799,7 +2799,7 @@
                     <l>To where old <name>Thames</name> with conscious pride surveys</l>
                     <l>Green <placeName>Eton</placeName>, soft abode of every Muse.</l>
                     <l>Each classic beauty soon he made his own;</l>
-                    <l>And soon fam'd <persName>Isis</persName> saw him woo the Nine,</l>
+                    <l>And soon fam'd <persName ref="#isis_0001">Isis</persName> saw him woo the Nine,</l>
                     <l>On her inspiring banks: Love tun'd his song;</l>
                     <l>For fair <name>Theana</name> was his only theme,</l>
                     <l><persName>Acasto's</persName> daughter, whom, in early youth,</l>
@@ -2824,7 +2824,7 @@
                     <l>She shone all-perfect; while each pleasing art,</l>
                     <l>And each soft virtue of that sex adorns,</l>
                     <l>Adorn'd the woman. My imperfect strain,</l>
-                    <l>Which <persName>Percy's</persName> happier pencil would demand,</l>
+                    <l>Which <persName ref="#thomas_percy_1729">Percy's</persName> happier pencil would demand,</l>
                     <l>Can ill describe the transports <persName>Junio</persName> felt</l>
                     <l>At this discovery: He declar'd his love;</l>
                     <l>She own'd his merit, nor refus'd his hand.</l>
@@ -2993,7 +2993,7 @@
                  Address to the Sun, and praise of <placeName>Antigua</placeName>. A cattle-mill described.
                  Care of mules &amp;c. Diseases to which they are subject. A water-mill
                  the least liable to interruption. Common in <placeName>Guadaloupe</placeName> and <placeName>Martinico</placeName>.
-                 Praise of <persName>Lord Romney</persName>. The necessity of a strong, clear fire, in boiling. 
+                 Praise of <persName ref="#charles_marsham_1744" cert="medium">Lord Romney</persName>. The necessity of a strong, clear fire, in boiling. 
                  Planters should always have a spare set of vessels to melt. The danter of throwing
                  cold water into a thorough-heated furnace. Cleanliness, and skimming
                  well, recommended. A boiling-house should be lofty, and open at 
@@ -3188,7 +3188,7 @@
                  <!-- insert pb info here -->
                  
                  <l>With sweet abundance. As on <placeName>Lincoln-plains</placeName>,</l>
-                 <l>(Ye plains of <placeName>Lincoln</placeName> sound your <persName>Dyer's</persName> praise!)</l>
+                 <l>(Ye plains of <placeName>Lincoln</placeName> sound your <persName ref="#john_dyer_1699">Dyer's</persName> praise!)</l>
                  <l>When the lav'd snow-white stocks are numerous penn'd;</l>
                  <l>The senior swans, with sharpened shars cut off</l>
                  <l>The fleecy vestment; others stir the tar;</l>
@@ -3307,7 +3307,7 @@
               </lg>
               <lg>
                  <l>Wouldst thou against calamity provide?</l>
-                 <l>Let a well shingled roof, from <rs type="place" xml:id="a088" corresp="#a088"><persName>Raleigh's</persName> land,</rs></l>
+                 <l>Let a well shingled roof, from <rs type="place" xml:id="a088" corresp="#a088"><persName ref="#walter_raleigh_1554">Raleigh's</persName> land,</rs></l>
                  
                  <!-- insert pb info here -->
                  
@@ -3467,7 +3467,7 @@
                  <l>And those oft save the guardians of her realm.</l>
                  <l>Thy marble-quarries claim the voice of praise,</l>
                  <l>Which rich incrusts thy Avon's banks, sweet banks!</l>
-                 <l>Tho' not to you young <persName>Shakespear</persName>, Fancy's child,</l>
+                 <l>Tho' not to you young <persName ref="#william_shakespeare_1564">Shakespear</persName>, Fancy's child,</l>
                  <l>All-rudely warbled his first woodland notes;</l>
                  <l>Tho' not your caves, while terror stalk'd around,</l>
                  <l>Saw him essay to clutch the ideal sword,</l>
@@ -3495,7 +3495,7 @@
                  <l>Can bribe to union the coy floating salts,</l>
                  <l>A proper portion of this precious dust,</l>
                  <l>Cast in the wave, (so showers alone of gold</l>
-                 <l>Could win fair <persName>Danae</persName> to the God's embrace;)</l>
+                 <l>Could win fair <persName ref="danae_0001">Danae</persName> to the God's embrace;)</l>
                  <l>With nectar'd <ecda:commodity>muscovado</ecda:commodity> soon will charge</l>
                  <l>Thy shelving coolers, which severely press'd</l>
                  <l>Between the fingers, not resolves; and which</l>
@@ -3642,16 +3642,16 @@
                  
                  <l>I spurn indignant; toil a pleasure seems.</l>
                  <l><seg xml:id="a096" corresp="#n096">For not <!-- Marne's --> flowery banks, nor <!-- Tille's --></seg> green bounds,</l>
-                 <l>Where <persName>Ceres</persName> with the God of vintage reigns,</l>
+                 <l>Where <persName ref="#ceres_0001">Ceres</persName> with the God of vintage reigns,</l>
                  <l>In happiest union, nor <rs type="properAdjective">Vigornian</rs> hills,</l>
-                 <l><persName>Pomona's</persName> lov'd abode, afford to man</l>
+                 <l><persName ref="#pomona_0001">Pomona's</persName> lov'd abode, afford to man</l>
                  <l>Goblets more priz'd, or laudable of taste,</l>
                  <l>To <unclear>slake</unclear> parch'd thirst, and mitigate the clime.</l>
               </lg>
               <lg>
                  <l>Yet, 'mid this blest ebriety, some tears,</l>
                  <l>For friends I left in <rs type="place">Albion's</rs> distant isle,</l>
-                 <l>For <persName>Johnson</persName>, <persName>Percy</persName>, <persName>White</persName>, escape mine eyes:</l>
+                 <l>For <persName ref="#samuel_johnson_1709" cert="medium">Johnson</persName>, <persName ref="#thomas_percy_1729">Percy</persName>, <persName>White</persName>, escape mine eyes:</l>
                  <l><seg xml:id="a097" corresp="#n097">For her, fair <rs type="person">Auth'ress <!-- ?? --></rs>!</seg> whom first <!-- Calpe's --> rocks</l>
                  <l>A sportive infant saw; and whose green years</l>
                  <l>True genius blest with her benignest gifts</l>
