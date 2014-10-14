@@ -19,8 +19,8 @@
       <ecda:hyperDiv>
          <ecda:notes>
             <note xml:id="n001" target="#a001"> A samboe is the offspring of a mulatto and a negro. </note>
-            <note xml:id="n002" target="#a002"
-                  ><bibl><author><persName>Milton</persName></author></bibl></note>
+            <note xml:id="n002" target="#a002"><bibl><author><persName ref="john_milton_1608"
+                        >Milton</persName></author></bibl></note>
             <note xml:id="n003" target="#a003"><p>Long after the sketch entitled <name>'The Slave
                      Dealer'</name> was written, I found the following account of a case remarkably
                   similar to the supposed one, related by the Rev. T.R. England at an anti-slavery
@@ -50,7 +50,7 @@
                   the Revolted Negroes of Surinam</titlePart>
             </docTitle>
             <docImprint>
-               <pubPlace>Boston</pubPlace> Published by <persName ref="#isaac_knapp_001"/>
+               <pubPlace>Boston</pubPlace> Published by <persName ref="#isaac_knapp_1804"/>
                <address>
                   <postCode>25, Cornhill.</postCode>
                </address>
@@ -1427,6 +1427,8 @@
                            <l>And now with God I have to deal,</l>
                            <l>And dare not meet his eye!'*</l>
                         </lg>
+                        <pb n="062"/>
+                        <fw type="pageNum">65</fw>
 
                      </div>
                   </div>
@@ -1434,6 +1436,28 @@
             </floatingText>
          </div>
       </body>
+      <back>
+
+         <div type="notice">
+            <head>Standard Anti-Slavery Works, For Sale by <persName ref="isaac_knapp_1804">Isaac
+                  Knapp</persName>, Depository, No. 25, Cornhill, Boston.</head>
+            <div type="notice">
+               <head><title>JAY's INQUIRY</title>: 206 pp. 12 mo. cloth. 37 1-2 cts.</head>
+               <p>An inquiry into the character and tendency of the American Colonization and
+                  American Anti-Slavery Societies. By <persName ref="william_jay_1789">William
+                     Jay</persName>, of <placeName>Bedford, New York</placeName>, son of the
+                  celebrated <persName ref="john_jay_1745">John Jay</persName>, first Chief Justice
+                  of the United States.——This book is in two parts. The first contains copious
+                  extracts from the slave laws, besides being the best Manual, which is now for
+                  sale, exhibiting the odious and repulsive character of Colonization. The second
+                  part unfolds the principles of anti-slavery societies, answers objections to them,
+                  and, by historical facts and unanswerable arguments, shows their adaptation to the
+                  end in view, and the glorious consequences which must follow from their adoption.
+                  It gives much useful information, respecting <placeName>St. Domingo</placeName>,
+                  and the working of <name>the British Emancipation Act</name>.</p>
+            </div>
+         </div>
+      </back>
 
    </text>
 </TEI>
