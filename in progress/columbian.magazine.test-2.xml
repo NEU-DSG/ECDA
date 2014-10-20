@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="../out/ecda.odd.rnc" type="application/relax-ng-compact-syntax"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ecda="http://dsg.northeastern.edu/ecda/ns/1.0">
    <teiHeader>
       <!-- This where you write comments in green -->
       <fileDesc>
@@ -24,9 +22,9 @@
                <titlePart type="main">The Columbian Magazine of Monthly Miscellany For June, 1798
                </titlePart>
             </docTitle>
-
+<!-- what to do with <div>s inside of title pages??? -->
             <div type="contents">
-               <cb n="1"/>
+              
                <list type="toc">
                   <item><rs>Sketch of the Life of the late <persName ref="#richard_bowen_1761">Captain Richard Bowen</persName></rs>
                      <ref type="pagenum" rend="align(right)">3</ref></item>
@@ -36,7 +34,7 @@
                      <ref type="pagenum" rend="align(right)">ib.</ref></item>
                   <item><rs>Surprising Returns Calcalated from Compound Interest</rs>
                      <ref type="pagenum" rend="align(right)">8</ref></item>
-                  <item><rs>Barrenness of the <!-- fauna -->Mule disproved by several Cases in <placeName>St. Domingo</placeName></rs>
+                  <item><rs>Barrenness of the <ecda:fauna>Mule</ecda:fauna> disproved by several Cases in <placeName>St. Domingo</placeName></rs>
                      <ref type="pagenum" rend="align(right)">9</ref></item>
                   <item><rs>On Quack Doctors, &amp;c.</rs>
                      <ref type="pagenum" rend="align(right)">ib.</ref></item>
@@ -48,7 +46,7 @@
                      of <persName>General Washington</persName> and <persName ref="#dennis_kelly_0001">Dennis Kelly</persName> 15, of <persName ref="#william_julius_mickle_1788">William Julius Mickle</persName> and
                      <persName ref="#augustus_keppel_1725">Admiral Keppel</persName></rs>
                      <ref type="pagenum" rend="align(right)">16</ref></item>
-                  <item><rs><persName ref="#bryan_higgins_1741">Higgins's</persName> <bibl>Observations for Improvement of Sugar &amp; Rum</bibl></rs>
+                  <item><rs><persName ref="#bryan_higgins_1741">Higgins's</persName> <title>Observations for Improvement of Sugar &amp; Rum</title></rs>
                      <ref type="pagenum" rend="align(right)">17</ref></item>
                   <item><rs>Object of <persName ref="#james_fitzpatrick_0001">Sir J. Fitzpatrick's</persName> Regulations; Abortive and Subsequent
                         <!-- crime -->Murder but too common here; awful incident in a similar case in England</rs>
@@ -57,7 +55,7 @@
                      <ref type="pagenum" rend="align(right)">27</ref></item>
                   <item><rs>Guilt and Tyranny of the <!-- event -->Spanish Inquisition</rs>
                      <ref type="pagenum" rend="align(right)">28</ref></item>
-                  <cb n="2"/>
+              
                   <item><rs>Price of a Victory, by Dr. Aikin</rs>
                      <ref type="pagenum" rend="align(right)">33</ref></item>
                   <item><rs>Cost of a War, by ditto</rs>
@@ -99,20 +97,19 @@
                      <ref type="pagenum" rend="align(right)">60-64</ref></item>
                </list>
             </div>
-            <docImprint><name type="place">KINGSTON, JAMAICA</name>—Printed and Published by
-                  <name>W. SMART</name><name type="place">Church Street</name>
+            <docImprint><placeName rend="allcaps">Kingston, Jamaica</placeName>—Printed and Published by
+                  <persName ref="#w_smart_0001" rend="allcaps">W. Smart</persName><placeName>Church Street</placeName> <!-- add to personography & add @ref -->
             </docImprint>
          </titleBlock>
          <div type="prefatory">
             <p>We would readily have inserted the piece expository of <title rend="italic">Hawking
-                  and Peddling</title>, as practised daily in the <hi>Streets of Kingston</hi>, had
-               the object not been anticipated, in the interim, by the mercantile Gentlemen, whose
-               just and weighty representation to the Magistrates, it is to be hoped will be
-               effectual both to <emph rend="italics">deter</emph> and <emph rend="italics"
-                  >detect</emph>.</p>
-            <p>The strictures of this Correspondent on <emph rend="italics">Higgling</emph> and its
+                  and Peddling</title>, as practised daily in the <hi>Streets of <placeName>Kingston</placeName></hi>, had <!-- is this in italics? -->
+               the object not been anticipated, in the interim, by the <rs type="persGroup">mercantile Gentlemen</rs>, whose
+               just and weighty representation to the <rs type="persGroup">Magistrates</rs>, it is to be hoped will be
+               effectual both to <emph rend="italic">deter</emph> and <emph rend="italic">detect</emph>.</p>
+            <p>The strictures of this Correspondent on <distinct type="economic" rend="italic">Higgling</distinct> and its
                complicated attendant evils, would, we have reason to apprehend, be passed over in
-               silence were we to give it a place. The <emph rend="italics">oversight</emph> hath
+               silence were we to give it a place. The <emph rend="italic">oversight</emph> hath
                been often canvassed and reprobated through this Miscellanay, and only tends to prove
                the justness of the old adage, <quote rend="italics">There is none so blind,
                   &amp;c.</quote></p>
