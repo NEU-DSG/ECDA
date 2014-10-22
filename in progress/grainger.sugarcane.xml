@@ -33,25 +33,31 @@
         <ecda:notes>
            <note type="ecda">
               <interpGrp type="commType">
-                 <interp xml:id="ana_flora">plants (flora)</interp>
-                 <interp xml:id="ana_fauna">animals (fauna)</interp>
-                 <interp xml:id="ana_food">food and other consumable items (incl. drinks, seasonings, etc.)</interp>
-                 <interp xml:id="ana_med">medical or medicinal items (including references to folk medicine)</interp>
-                 <interp xml:id="ana_textile">sartorial and textile references</interp>
+                 <interp xml:id="flora">plants (flora)</interp>
+                 <interp xml:id="fauna">animals (fauna)</interp>
+                 <interp xml:id="food">food and other consumable items (incl. drinks, seasonings, etc.)</interp>
+                 <interp xml:id="medical">medical or medicinal items (including references to folk medicine)</interp>
+                 <interp xml:id="textile">sartorial and textile references</interp>
+                 <interp xml:id="currency">references to money or currency</interp>
               </interpGrp>
               <interpGrp type="productionPhase">
-                 <interp xml:id="ana_plant">planting</interp>
-                 <interp xml:id="ana_cultivation">cultivation</interp>
-                 <interp xml:id="ana_harv">harvesting</interp>
-                 <interp xml:id="ana_ref">refining</interp>
-                 <interp xml:id="ana_prod">production</interp>
-                 <interp xml:id="ana_trans">transport</interp>
-                 <interp xml:id="ana_sale">sale</interp>
-                 <interp xml:id="ana_use">use of commodities</interp>
+                 <interp xml:id="plant">planting</interp>
+                 <interp xml:id="cultivation">cultivation</interp>
+                 <interp xml:id="harvest">harvesting</interp>
+                 <interp xml:id="refine">refining</interp>
+                 <interp xml:id="production">production (non plant-based commodities)</interp>
+                 <interp xml:id="transport">transport</interp>
+                 <interp xml:id="sale">sale</interp>
+                 <interp xml:id="use">use of commodities</interp>
               </interpGrp>
-              <interpGrp type="conceptual">
+              <interpGrp>
                  <interp xml:id="punishment">References to scenes of punishment or the enforcement of colonial rule</interp>
                  <interp xml:id="military">References to the material conditions, social institutions or actual events of warfare</interp>
+                 <interp xml:id="abolition">References to the abolition of slavery or abolitionist movement</interp>
+                 <interp xml:id="disease">References to ailment and disease</interp>
+                 <interp xml:id="poison">References to poison</interp>
+                 <interp xml:id="obeah">References to Obeah</interp>
+                 <interp xml:id="performance">References to performance (esp. John Canoe)</interp>
               </interpGrp>
            </note>
            <note xml:id="n001" target="#a001">
