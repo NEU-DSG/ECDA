@@ -7,7 +7,7 @@ namespace s = "http://www.ascc.net/xml/schematron"
 namespace sch = "http://purl.oclc.org/dsdl/schematron"
 namespace xlink = "http://www.w3.org/1999/xlink"
 
-# Schema generated from ODD source 2014-09-24T14:40:45Z. 
+# Schema generated from ODD source 2014-10-22T14:59:40Z. 
 # Edition: 2.5.0. Last updated on
 #	26th July 2013.
 # Edition Location: http://www.tei-c.org/Vault/P5/2.5.0/
@@ -1633,6 +1633,9 @@ distinct =
       | 
         ##
         "ethnographic"
+      | 
+        ##
+        "mentioned"
     }?,
     
     ## specifies how the phrase is distinct diachronically
