@@ -26,7 +26,37 @@
   </teiHeader>
   <text>
      <ecda:hyperDiv>
+        
         <ecda:notes>
+           <note type="ecda">
+              <interpGrp type="commType">
+                 <interp xml:id="flora">plants (flora)</interp>
+                 <interp xml:id="fauna">animals (fauna)</interp>
+                 <interp xml:id="food">food and other consumable items (incl. drinks, seasonings, etc.)</interp>
+                 <interp xml:id="medical">medical or medicinal items (including references to folk medicine)</interp>
+                 <interp xml:id="textile">sartorial and textile references</interp>
+                 <interp xml:id="currency">references to money or currency</interp>
+              </interpGrp>
+              <interpGrp type="productionPhase">
+                 <interp xml:id="plant">planting</interp>
+                 <interp xml:id="cultivation">cultivation</interp>
+                 <interp xml:id="harvest">harvesting</interp>
+                 <interp xml:id="refine">refining</interp>
+                 <interp xml:id="production">production (non plant-based commodities)</interp>
+                 <interp xml:id="transport">transport</interp>
+                 <interp xml:id="sale">sale</interp>
+                 <interp xml:id="use">use of commodities</interp>
+              </interpGrp>
+              <interpGrp>
+                 <interp xml:id="punishment">References to scenes of punishment or the enforcement of colonial rule</interp>
+                 <interp xml:id="military">References to the material conditions, social institutions or actual events of warfare</interp>
+                 <interp xml:id="abolition">References to the abolition of slavery or abolitionist movement</interp>
+                 <interp xml:id="disease">References to ailment and disease</interp>
+                 <interp xml:id="poison">References to poison</interp>
+                 <interp xml:id="obeah">References to Obeah</interp>
+                 <interp xml:id="performance">References to performance (esp. John Canoe)</interp>
+              </interpGrp>
+           </note>
            <note xml:id="n001" target="#a001"><foreign xml:lang="fr">*L'heure du berger</foreign>.</note>
            <note xml:id="n002" target="#a002">*The <rs type="persGroup">negroes</rs> never distinguish between <distinct rend="quotes" type="dialect">him</distinct> and <distinct rend="quotes">her</distinct> in their conversation.</note>
         </ecda:notes>
@@ -1891,7 +1921,7 @@
          which we coasted to-day, is low, barren, and without
          any recommendation whatever. As yet I can 
          only look at <placeName>Jamaica</placeName> as one does on a man who
-         comes to pay money, and whom we are extremely 
+         comes to pay <seg ana="#currency">money</seg>, and whom we are extremely 
          well pleased to see, however little the fellow's appearance
          may be in his favour.         
       </p>
@@ -2139,7 +2169,7 @@
         heard, but could not obtain a sight), seemed to act
         upon quite an independent interest, and go about
         from house to house, tumbling and playing antics
-        to pick up money for themselves.
+        to pick up <seg ana="#currency">money</seg> for themselves.
      </p>
      <p>A play was now proposed to us, and, of course, 
         accepted. <rs type="persGroup">Three men</rs> and <ecda:anonPers>a girl</ecda:anonPers> accordingly
@@ -2353,7 +2383,7 @@
         sound made me feel a pang at the heart. The
         lad appeared all gaiety and good humour, and his
         whole countenance expressed anxiety to recommend
-        himself to my notice; but the word <distinct rend="quotes">slave</distinct>
+        himself to my notice; but the word <distinct type="mentioned" rend="quotes">slave</distinct>
         seemed to imply, that, although he did feel pleasure
         then in serving me, if he had detested me he must
         have served me still. I really felt quite humiliated
@@ -3422,7 +3452,7 @@
          The <ecda:anonPers>watchman</ecda:anonPers> then summoned the <rs type="persGroup">two
          negroes</rs> from their concealment, who bound his
          arms, and conveyed him to <placeName>Montego Bay</placeName>, where he
-         was immediately sentenced to execution. He died
+         was immediately sentenced to execution. <seg ana="#obeah">He died
          most heroically; kept up the terrors of his imposture
          to the last moment; he told <rs type="persGroup">the magistrates</rs>, who
          condemned thim, that his death should be revenged
@@ -3431,7 +3461,7 @@
          him to the stake at which he was destined to suffer,
          he assured him that he should not live long to
          triumph in his death, for that he had taken good
-         care to <distinct type="religious">Obeah</distinct> him before his quitting the prison.
+         care to Obeah him before his quitting the prison.
          It certainly did happen, strangely enough, that, 
          before the year was over, the most violent storm
          took place ever known in <placeName>Jamaica</placeName>; and as to the
@@ -3443,9 +3473,9 @@
          change the course of his ideas, still, from the
          moment of <persName ref="#plato_0001">Plato's</persName> death, he gradually pined and
          withered away, and finally expired before the
-         completion of the twelvemonth.         
+         completion of the twelvemonth.</seg>
       </p>
-      <p>The belief in <distinct type="religious">Obeah</distinct> is now greatly weakened, 
+      <p><seg ana="#obeah">The belief in <name>Obeah</name> is now greatly weakened, 
  <pb n="103"/>
  <fw type="pageNum">95</fw>  
          but still exists in some degree. Not above ten
@@ -3465,12 +3495,12 @@
          particular, to his having sold such and such <rs type="persGroup">slaves</rs>
          medicines and charms to deliver them from their
          enemies; being, in plain <name>English</name>, nothing else than
-         rank poisons. He was conviced of <distinct type="religious">Obeah</distinct> upon
+         rank poisons. He was conviced of <name>Obeah</name> upon
          the most indubitable evidence. The good old
          practice of burning has fallen into disrepute; so
          he was sentenced to be transported, and was
          shipped off the island, to the great satisfaction of
-         <rs type="persGroup">persons of all colours—white, black, and yellow</rs>.         
+         <rs type="persGroup">persons of all colours—white, black, and yellow</rs>.</seg>         
       </p>
    </div>   
       <div type="entry">
@@ -4773,9 +4803,9 @@
         asserted his perfect ignorance; nor could the accuser 
         advance any grounds for the charge, except
         his belief of <persName ref="#edward_0001">Edward's</persName> guilt. <said direct="false" rend="quotes">Why did he think
-        so?</said> After much beating about the bush, at
+        so?</said> <seg ana="#obeah">After much beating about the bush, at
         length came the real <foreign rend="italic" xml:lang="la">causa doloris</foreign>—<said rend="quotes" direct="false"><persName ref="#edward_0001">Edward</persName>
-        had <distinct type="religious" rend="italic">Obeahed</distinct> him!</said> He had accused <persName ref="#edward_0001">Edward</persName> of
+        had Obeahed him!</said> He had accused <persName ref="#edward_0001">Edward</persName> of
         breaking open <rs type="place">his house</rs>, and had begged him to 
         help him to his goods again; and <said direct="false" rend="quotes"><persName ref="#edward_0001">Edward</persName> had
         gone at midnight into the <distinct type="dialect">bush</distinct></said> (i.e. the wood), 
@@ -4789,37 +4819,37 @@
         <name>Daniel</name>; and <persName ref="#edward_0001">Edward</persName> had said, that this would
         help him to find his goods; but instead of that, he
         had immediately felt this pain in his side, and
-        therefore was sure that, instead of using <distinct type="religious">Obeah</distinct>
+        therefore was sure that, instead of using <name>Obeah</name>
         to find his goods, <persName ref="#edward_0001">Edward</persName> had used it to kill him-
       <pb n="143"/>
       <fw type="pageNum">135</fw>
-        self. <said rend="quotes">And were these all his reasons?</said> I enquired.
+        self.</seg> <said rend="quotes">And were these all his reasons?</said> I enquired.
         <said direct="false" rend="quotes">No; when he married, <persName ref="#edward_0001">Edward</persName> was very
         angry at the loss of his mistress, and had said that 
         they never would live well and happily together;
         and they never <emph rend="quotes">had</emph> lived happily and well together.</said>
       </p>
-      <p>This last argument quite got the better of my
+      <p><seg ana="#obeah">This last argument quite got the better of my
          gravity. By parity of reasoning, I thought that
          almost every married couple in <placeName>Great Britain</placeName> must
-         be under the influence of <distinct type="religious">Obeah</distinct>! I endeavoured
+         be under the influence of <name>Obeah</name>! I endeavoured
          to convince the fellow of his folly and injustice,
          especially as the person accused was the identical
-         man who had detected the <distinct type="religious">Obeah</distinct> priest harboured
+         man who had detected the <rs type="properAdjective">Obeah</rs> priest harboured
          in one of my negro huts last year, had seized him
          with his own hands, and delivered him up to my
          agent, who had prosecuted and transported him.
          It was, therefore, improbable in the highest degree,
-         that he should be an <distinct type="religious">Obeah</distinct> man himself; and all
+         that he should be an <rs type="properAdjective">Obeah</rs> man himself; and all
          the <rs type="persGroup">bystanders</rs>, black and white, joined me in
          ridiculing <persName ref="#pickle_0001">Pickle</persName> for complaints so improbable and
          childish. But anger, argument, and irony were 
          all ineffectual. I offered to christen him, and expel
-         black <distinct type="religious">Obeah</distinct> by white, but in vain; the fellow
+         black <name>Obeah</name> by white, but in vain; the fellow
          persisted in saying that, <said rend="quotes" direct="false">he had a pain in his side,
          and, <emph rend="italic">therefore</emph>, <persName ref="#edward_0001">Edward</persName> must have given it to him;</said>
          and he went back to his hospital, shaking his head
-         all the way, sullen and unconvinced. He is a 
+         all the way, sullen and unconvinced.</seg> He is a 
          young strong negro, perfectly well disposed, and
          doing his due portion of work willingly; and it 
       <pb n="144"/>
@@ -4843,7 +4873,7 @@
          operated dangerously upon <persName ref="#pickle_0001">Pickle's</persName> imagination, I
          begged him to tell me precisely what had passed,
          in order that I might counteract its baleful effects.
-         In reply, <persName ref="#edward_0001">Edward</persName> swore to me most solemnly, <said rend="quotes">by
+         In reply, <seg ana="#obeah"><persName ref="#edward_0001">Edward</persName> swore to me most solemnly, <said rend="quotes">by
          the great God Almighty, who lives above the
          clouds,</said> that he never had used any such practices;
          that he had never gone into <rs type="place">the woods</rs> to
@@ -4853,7 +4883,7 @@
          His eyes filled with tears while he protested that
          he should be as sorry for <persName ref="#pickle_0001">Pickle's</persName> death as if it were
          himself; and he complained bitterly of having the
-         ill name of an <distinct type="religious">Obeah</distinct> man given to him, which
+         ill name of an <rs type="properAdjective">Obeah</rs> man given to him, which
          made him feared and shunned by his companions,
          and entirely without cause. But he said that he 
        <pb n="145"/>
@@ -4862,7 +4892,7 @@
          him of such a crime, if a third person had not put
          it into his head. There is a negro on my estate
          called <persName ref="#adam_0002">Adam</persName>, who has been long and strongly suspected
-         of having connections with <distinct type="religious">Obeah</distinct> men.
+         of having connections with <rs type="properAdjective">Obeah</rs> men.
          When <persName ref="#edward_0001">Edward</persName> was quite young, he was under this 
          fellow's superintendence, and he now assured me,
          that <persName ref="#adam_0001">Adam</persName> had not only endeavoured to draw him
@@ -4874,7 +4904,7 @@
          protector, had become his enemy, had shown him
          spite upon every occasion; and he it was, he had
          no doubt, who, for the purpose of injuring him,
-         had put this foolish notion into <persName ref="#pickle_0001">Pickle's</persName> head.
+         had put this foolish notion into <persName ref="#pickle_0001">Pickle's</persName> head.</seg>
         </p>
       <p>Upon enquiry it appeared, that on the very morning succeeding
          <persName ref="#pickle_0001">Pickle's</persName> entering the hospital, this
@@ -4892,7 +4922,7 @@
     <pb n="146"/>
     <fw type="pageNum">138</fw>   
         that he swore by <name>the Almighty God</name> that he had
-        never been in the bush to hurt him, nor any where
+        never <seg ana="#obeah">been in the bush</seg> to hurt him, nor any where
         else; on the contrary, that he had always loved
         him, and wished him well; and that he now begged
         him to be friends with him again, to forget and forgive
@@ -4904,8 +4934,8 @@
          it was his ingratitude for such affection which vexed
          him more than any thing. On this I told him, that
          I insisted upon their being good friends for the
-         future, and that I should never hear the world
-         <distinct type="religious">Obeah</distinct>, or any such nonsense, mentioned on my
+         future, and that I should never hear the word
+         <distinct type="mentioned" ana="#obeah">Obeah</distinct>, or any such nonsense, mentioned on my
          estate, on pain of my extreme displeasure. I promised
          that, as soon as <persName ref="#piclke_0001">Pickle</persName> should be quite recovered,
          I would buy for him exactly a set of such 
@@ -4981,7 +5011,7 @@
       might and main, especially at <persName ref="#whaunica_0001">Whaunica</persName>, whose
       ingratitude was peculiar; as she is the wife of
       <persName ref="#edward_0001">Edward</persName>, the <name>Eboe</name>, whom I had been protecting
-      against the charge of theft and <distinct type="religious">Obeahism</distinct>, and had
+      against the charge of theft and <name ana="#obeah">Obeahism</name>, and had
       shown him more than usual kindness. They, at 
       last, appeared to be very penitent and ashamed of
       themselves, and engaged never to behave ill again,
@@ -5154,9 +5184,9 @@
    her by charms or spells, or any thing but medicine,
    I should desire <ecda:anonPers>his master</ecda:anonPers> to cure the black doctor
    by giving him the punishment proper for such an
-   imposter. Upon this <persName ref="#bessie_0001">Bessie</persName> burst into tears, and
-   said <said direct="false" rend="quotes">that <persName ref="#ormond_0001">Ormond</persName> was not an <distinct type="religious">Obeah</distinct> man, and
-   that she had suffered too much by <distinct type="religious">Obeah</distinct> men to
+   imposter. Upon this <seg ana="#obeah"><persName ref="#bessie_0001">Bessie</persName> burst into tears, and
+   said <said direct="false" rend="quotes">that <persName ref="#ormond_0001">Ormond</persName> was not an <rs type="properAdjective">Obeah</rs> man, and
+   that she had suffered too much by <rs type="persGroup"><rs type="properAdjective">Obeah</rs> men</rs> to
    wish to have any more to do with them. She had
    made <persName ref="#adam_0002">Adam</persName> her enemy by betraying him, when he
    had attempted to poison the <ecda:anonPers>former attorney</ecda:anonPers>; he
@@ -5167,7 +5197,7 @@
    her complaint had declared itself; and her poor
    <distinct type="dialect">pickaninies</distinct> had all died away, one after another;
    and she was sure that it was <persName ref="#adam_0002">Adam</persName> who had done
-   all this mischief by <distinct type="religious">Obeah</distinct>.</said> Upon this, I put myself
+   all this mischief by <name>Obeah</name>.</said></seg> Upon this, I put myself
    in a great rage, and asked her, <said rend="quotes" direct="false">how she could
    believe that <name>God</name> would suffer a low wicked fellow
    like <persName ref="#adam_002">Adam</persName> to make good people die, merely because
@@ -5187,18 +5217,18 @@
    to the poor creature, that she clapped her hands
    together, and began laughing for joy; so I said to
    her every thing that I could imagine likely to remove
-   her prejudice; told her that I should make 
+   her prejudice; told her that <seg ana="#obeah">I should make 
    it a crime even so much as to mention the word
-   <distinct type="religious">Obeah</distinct> on the estate; and that, if any negro from
+   <distinct type="mentioned">Obeah</distinct> on the estate; and that, if any negro from
    that time forward should be proved to have accused
-   another of <distinct type="religious">Obeahing</distinct> him, or of telling another that
+   another of Obeahing him, or of telling another that
    <pb n="155"/>
    <fw type="pageNum">147</fw> 
-   he had been <distinct type="religious">Obeahed</distinct>, he should forfeit his share
+   he had been Obeahed, he should forfeit his share
    of the next present of <ecda:food>salt-fish</ecda:food>, which I meant soon
    to distribute among <rs type="persGroup">the slaves</rs>, and should never
-   receive any favour from me in future; so I gave
-   <persName ref="#bessie_0001">Bessie</persName> a piece of <ecda:commodity>money</ecda:commodity>, and she seemed to go
+   receive any favour from me in future;</seg> so I gave
+   <persName ref="#bessie_0001">Bessie</persName> a piece of <ecda:commodity ana="#currency">money</ecda:commodity>, and she seemed to go
    away in better spirits than she came.
   </p>   
  <p>This <persName ref="#adam_0002">Adam</persName>, of whom she complained, is a most
@@ -5217,10 +5247,10 @@
     poison into the water-jars through spite against <ecda:anonPers>the
     late superintendent</ecda:anonPers>. It was this same fellow
     whom <persName ref="#edward_0001">Edward</persName> suspected of having put into <rs ref="#pickle_0001" type="person">his
-    brother-in-law's </rs> head the idea of his having been
-    bewitched; and it was also in his hut that the old
-    <ecda:anonPers><distinct type="religious">Obeah man</distinct></ecda:anonPers> was found concealed, whom <ecda:anonPers>my attorney</ecda:anonPers>
-    seized and transported last year. He is, unfortunately,
+    brother-in-law's</rs> head the idea of his having been
+    bewitched; and it was also in his hut that <seg ana="#obeah">the old
+    <ecda:anonPers><rs type="properAdjective">Obeah</rs> man</ecda:anonPers> was found concealed, whom <ecda:anonPers>my attorney</ecda:anonPers>
+    seized and transported last year.</seg> He is, unfortunately,
     clever and plausible; and I am told 
     that the mischief which he has already done, by
     working upon the folly and superstition of his
@@ -5242,13 +5272,13 @@
     virtue of the holy water; but, perhaps he may refuse
     to be christened. However, I will at least ask
     him the question; and if he consents, I will send
-    him―and <measure>a couple of dollars</measure>—to <rs type="person" ref="pope_0001">the clergyman</rs>—
+    him―and <measure ana="#currency">a couple of dollars</measure>—to <rs type="person" ref="pope_0001">the clergyman</rs>—
     for he shall not have so great a distinction as baptism
     from <distinct type="dialect">massa's</distinct> own hand—and see what effect
-    <distinct type="religious" rend="quotes">white Obeah</distinct> will have in removing the terrors
+    <name ana="#obeah" rend="quotes">white Obeah</name> will have in removing the terrors
     of this professor of the black.
   </p>  
-  <p>As to my sick <distinct type="religious">Obeah</distinct> patient, <persName ref="#pickle_0001">Pickle</persName>, from the
+  <p>As to my sick <rs type="properAdjective" ana="#obeah">Obeah</rs> patient, <persName ref="#pickle_0001">Pickle</persName>, from the
      moment of his reconciliation with <rs ref="#edward_0001" type="person">his brother-in-
      law</rs> he began to mend, and has recovered with
      wonderful rapidity: the fellow seems <emph rend="italic">really</emph> grateful
@@ -5261,7 +5291,7 @@
      the negro character; the worst faults appear
      <pb n="157"/>
      <fw type="pageNum">149</fw> 
-     to be, this prejudice respecting <distinct type="religious">Obeah</distinct>, and the
+     to be, <seg ana="#obeah">this prejudice respecting <name>Obeah</name></seg>, and the
      facility with which they are frequently induced
      to poison to the right hand and to the left. <ecda:anonPers>A
      neighbouring gentleman</ecda:anonPers>, as I hear, now has <rs type="persGroup">three
@@ -5279,15 +5309,15 @@
      by a <ecda:food>cup of coffee</ecda:food>, only escaped a second time by
      his civility, in giving the beverage, prepared for
      himself, to <rs type="persGroup">two young book-keepers</rs>, to both of 
-     whom it proved fatal. It, indeed, came out afterwards,
+     whom it proved fatal. <seg ana="#obeah">It, indeed, came out afterwards,
      that this crime was also effected by the
-     abominable belief in <distinct type="religious">Obeah</distinct>: <ecda:anonPers>the woman</ecda:anonPers>, who mixed
+     abominable belief in <name>Obeah</name>: <ecda:anonPers>the woman</ecda:anonPers>, who mixed
      the draught, had no idea of its being poison; but
      she had received the deleterious ingredients from
-     an <ecda:anonPers><distinct type="religious">Obeah man</distinct></ecda:anonPers>, as a <said direct="false" rend="quotes">charm to make her <distinct type="dialect">massa</distinct>
+     an <ecda:anonPers><rs type="properAdjective">Obeah man</rs></ecda:anonPers>, as a <said direct="false" rend="quotes">charm to make her <distinct type="dialect">massa</distinct>
      good to her;</said> by which <rs type="persGroup">the negroes</rs> mean, the
      compelling a person to give another every thing for 
-     which that other may ask him.  
+     which that other may ask him.</seg>  
   </p>
   <p>Next to this vile trick of poisoning people (arising,
      doubtless, in a great measure, from their total want
@@ -8239,7 +8269,7 @@
        negroes</rs>! It is a great pity that so reasonable an
        attempt should not have succeeded.—The <ecda:anonPers>rebel
        captain</ecda:anonPers> who broke out of prison, has been found
-       concealed in the hut of a notorious <distinct type="religious">Obeah</distinct>-man, and
+       concealed in the hut of a notorious <ecda:anonPers ana="#obeah"><rs type="properAdjective">Obeah</rs>-man</ecda:anonPers>, and
        has been lodged a second time in the gaol of <placeName>Savannah
        la Mar</placeName>.       
     </p>
@@ -8289,7 +8319,7 @@
  </p>  
  <p>Then we had a christening for such persons as
     had been absent on the former occasion, one of
-    whom was <persName ref="#adam_0002">Adam</persName>, the reputed <distinct type="religious">Obeah-man</distinct>. In
+    whom was <persName ref="#adam_0002">Adam</persName>, the reputed <seg ana="#obeah"><rs type="properAdjective">Obeah</rs>-man</seg>. In
     the number was a new-born child, whom we called
     <persName ref="shakespeare_1816">Shakespeare</persName>, and whom <persName ref="#afra_0001">Afra</persName>, the <name>Eboe</name> mother,
     had very earnestly begged me to make a <name>Christian</name>,
@@ -8869,15 +8899,15 @@
    </div> 
    <div type="entry">
       <opener><dateline><date when="1816-05-07">May 7</date>.</dateline></opener>    
-         <p>A Negro song.—<quote rend="quotes"><distinct type="dialect">Me take my cutacoo, (i.e. a
+         <p>A Negro song.—<quote rend="quotes" ana="#obeah"><distinct type="dialect">Me take my cutacoo, (i.e. a
          basket made of matting,) and follow him to <placeName>Lucea</placeName>,
          all for love of my bonny man-O—My bonny 
          man come home, come home! Doctor no do you 
          good. When neger fall into neger hands, buckra
          doctor no do him good more. Come home, my
-         gold ring, come home!</distinct></quote> This is the song of a
-         wife, whose husband has been <distinct type="religious">Obeahed</distinct> by another
-         woman, in consequence of his rejecting her advances.
+         gold ring, come home!</distinct></quote> <seg ana="#obeah">This is the song of a
+         wife, whose husband has been Obeahed by another
+         woman, in consequence of his rejecting her advances.</seg>
          A negro riddle: <quote rend="quotes"><persName ref="#miss_nancy_0001">Pretty Miss Nancy</persName>
          was going to market, and she tore her fine yellow
          gown, and there was not a taylor in all the town
@@ -9022,13 +9052,13 @@
                him head</distinct>!</said> Now this reply was doubly offensive;
                it was rude, because it reminded the <ecda:anonPers>old lady</ecda:anonPers> of
                what might be considered as a personal
-               defect; and it was dangerous, as, if such a circumstance
+               defect; and <seg ana="#obeah">it was dangerous, as, if such a circumstance
                were to come to the ears of <rs type="persGroup">the buckras</rs>,
                it might bring her into trouble, women being
                
                
                seldom known to walk and talk without their heads,
-               indeed, if ever, except by the assistance of <distinct type="religious">Obeah</distinct>. 
+               indeed, if ever, except by the assistance of <name>Obeah</name></seg>. 
                <said rend="quotes">Bad child!</said> cried the <ecda:anonPers>old woman</ecda:anonPers> <said rend="quotes">bad child!
                and bad will come to you!</said> Matters were no 
                better managed near the <ecda:flora>cocoa-tree</ecda:flora>; and even
@@ -9039,7 +9069,7 @@
                without calling her <quote rend="quotes">grannie</quote> <note>[Among negroes
                it is almost tantamount to an affront to address by
                the name, without affixing some term of relationship,
-               such as <quote rend="quotes">grannie</quote>, or <quote rend="quotes">uncle</quote>, or <quote rend="quotes">cousin</quote>. My
+               such as <distinct type="mentioned" rend="quotes">grannie</distinct>, or <distinct type="mentioned" rend="quotes">uncle</distinct>, or <distinct type="mentioned" rend="quotes">cousin</distinct>. My
                <rs type="properAdjective">Cornwall</rs> boy, <persName ref="#george_0001">George</persName>, told me one day, that
                <said rend="quotes" direct="false"><persName ref="#duke_of_sully_0001">Uncle Sully</persName> wanted to speak to <distinct type="dialect">massa</distinct>.</said> <said rend="quotes">Why, is
                <persName ref="#duke_of_sully_0001">Sully</persName> your uncle, <persName ref="#george_0001">George</persName>?</said> <said rend="quotes"><distinct type="dialect">No, massa; me only
