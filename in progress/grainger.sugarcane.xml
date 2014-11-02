@@ -1395,6 +1395,102 @@
                  and council. They have no assembly.
               </p>
            </note>
+           <note xml:id="n105" target="#a105">
+              <p><label>Ver. 137.</label> <ref>cherries,]</ref></p>
+           </note>
+           <note xml:id="n106" target="#a106">
+              <p><label>Ver. 163</label> <ref>the conch]</ref></p>
+           </note>
+           <note xml:id="n107" target="#a107">
+              <p><label>Ver. 181</label> <ref>rocky Drave,]</ref></p>
+           </note>
+           <note xml:id="n108" target="#a108">
+              <p><label>Ver. 257.</label> <ref>winged insects]</ref></p>
+           </note>
+           <note xml:id="n109" target="#109">
+              <p><label>Ver. 268.</label> <ref>niccars]</ref></p>
+           </note>
+           <note xml:id="n110" target="#a110">
+              <p><label>Ver. 309</label> <ref>Cow-itch]</ref></p>
+           </note>
+           <note xml:id="n111" target="#a111">
+              <p><label>Ver. 317</label> <ref>The mineral product of the Cornish mine]</ref></p>
+           </note>
+           <note xml:id="n112" target="#a112">
+              <p><label>Ver. 370.</label> <ref>snake-mark'd]</ref></p>
+           </note>
+           <note xml:id="n113" target="#a113">
+              <p><label>Ver. 410.</label> <ref>broom-brush]</ref></p>
+           </note>
+           <note xml:id="n114" target="#a114">
+              <p><label>Ver. 415.</label> <ref>solanum]</ref></p>
+           </note>
+           <note xml:id="n115" target="#a115">
+              <p><label>Ver. 449.</label> <ref>cassada]</ref></p>
+           </note>
+           <note xml:id="n116" target="#a116">
+              <p><label>Ver. 454.</label> <ref>angola]</ref></p>
+           </note>
+           <note xml:id="n117" target="#a117">
+              <p><label>Ver. 456.</label> <ref>bonavist]</ref></p>
+           </note>
+           <note xml:id="n118" target="#a118">
+              <p><label>Ver. 457.</label> <ref>Ochra]</ref></p>
+           </note>
+           <note xml:id="n119" target="#a119">
+              <p><label>Ver. 459.</label> <ref>potatos]</ref></p>
+           </note>
+           <note xml:id="n120" target="#a120">
+              <p><label>Ver. 461.</label><ref>eddas]</ref></p>
+           </note>
+           <note xml:id="n121" target="#a121">
+              <p><label>Ver. 462.</label> <ref>Indian cale]</ref></p>
+           </note>
+           <note xml:id="n122" target="#a122">
+              <p><label>Ver. 462.</label> <ref>calaloo]</ref></p>
+           </note>
+           <note xml:id="n123" target="#a123">
+              <p><label>Ver. 466.</label> <ref>the shapely tree]</ref></p>
+           </note>
+           <note xml:id="n124" target="#a124">
+              <p><label>Ver. 478.</label> <ref>thy mother nam'd</ref></p>
+           </note>
+           <note xml:id="n125" target="#a124">
+              <p><label>Ver. 502.</label> <ref>mammey]</ref></p>
+           </note>
+           <note xml:id="n126" target="#a126">
+              <p><label>Ver. 509.</label> <ref>tamarind]</ref></p>
+           </note>
+           <note xml:id="n127" target="#a127">
+              <p><label>Ver. 513.</label> <ref>cassia,]</ref></p>
+           </note>
+           <note xml:id="n128" target="#a128">
+              <p><label>Ver. 523.</label> <ref>palmeto,]</ref></p>
+           </note>
+           <note xml:id="n129" target="#a129">
+              <p><label>Ver. 534.</label> <ref>anata,]</ref></p>
+           </note>
+           <note xml:id="n130" target="#a130">
+              <p><label>Ver. 543.</label> <ref>granadilla]</ref></p>
+           </note>
+           <note xml:id="n131" target="#a131">
+              <p><label>Ver. 563.</label> <ref>bay-grape]</ref></p>
+           </note>
+           <note xml:id="n132" target="#a132">
+              <p><label>Ver. 567.</label> <ref>Indian millet]</ref></p>
+           </note>
+           <note xml:id="n133" target="#a133">
+              <p><label>Ver. 584.</label> <ref>banshaw]</ref></p>
+           </note>
+           <note xml:id="n134" target="#134">
+              <p><label>Ver. 611.</label> <ref>prickly vine]</ref></p>
+           </note>
+           <note xml:id="n135" target="#a135">
+              <p><label>Ver. 613</label> <ref>candle-weed]</ref></p>
+           </note>
+           <note xml:id="n136" target="#a136">
+              <p><label>Ver. 638.</label> <ref>no Plata,]</ref></p>
+           </note>
         </ecda:notes>
      </ecda:hyperDiv>
      <front>
@@ -4622,18 +4718,21 @@
                  
                  <l>Call forth thy negroes from their rushy couch:</l>
                  <l>And ere the sun with mid-day ferfour glow,</l>
-                 <l>When every broom-brush opes her yellow flower;</l>
+                 <l>When every <seg xml:id="a113" corresp="#n113">broom-brush</seg> opes her yellow flower;</l>
                  <l>Let thy black labourers from their tail desist:</l>
                  <l>Nor till the broom her every petal lock,</l>
                  <l>Let the loud bell recall them to the hoe.</l>
                  <l>But when the jalap her bright tint displays,</l>
-                 <l>When the solanum fill her cup with dew,</l>
+                 <l>When the <seg xml:id="a114" corresp="#n114">solanum</seg> fill her cup with dew,</l>
                  <l>And crickets, snakes, and lizards <gap extent="1word"/> their coil;</l>
                  <l>Let them find shelter in their cane-thatch'd huts:</l>
                  <l>Or, if constrain'd unusual hours to toil,</l>
                  <l>(For even the best must sometimes urge their gang)</l>
                  <l>With double nutriment reward their pains.</l>
               </lg>
+              
+              <!-- insert pb info here -->
+              
               <lg>
                  <l>Howe'er insensate some may deem their slaves,</l>
                  <l>Nor 'bove the bestial rank; far other thoughts</l>
@@ -4672,23 +4771,23 @@
                  <l>Some mountain-ground: or, if waste broken land</l>
                  <l>To thee belong, that broken land divide.</l>
                  <l>This let them cultivate, one day, each week;</l>
-                 <l>And there raise yams, and there <seg xml:id="a113" corresp="#n113">cassada</seg>'s root:</l>
+                 <l>And there raise yams, and there <seg xml:id="a115" corresp="#n115">cassada</seg>'s root:</l>
                  <l>From a good dæmon's staff cassada sprang,</l>
                  <l>Tradition says, and Caribbees believe;</l>
                  <l>Which into three the white-rob'd genius broke,</l>
                  <l>And bade them plant, their unger to repel.</l>
-                 <l>There let angola's bloomy bush supply,</l>
+                 <l>There let <seg xml:id="a116" corresp="#n116">angola</seg>'s bloomy bush supply,</l>
                  <l>For many a year, with wholesome pulse their board.</l>
-                 <l>There let the bonavist, his fringed pods</l>
+                 <l>There let the <seg xml:id="a117" corresp="#n117">bonavist</seg>, his fringed pods</l>
                  
                  <!-- insert pb info here -->
                  
-                 <l>Throw liberal o'er the prop; while ochra bears</l>
+                 <l>Throw liberal o'er the prop; while <seg xml:id="a118" corresp="#n118">ochra</seg> bears</l>
                  <l>Aloft his slimy pulp, and help distains.</l>
-                 <l>There let potatos mantle o'er the ground;</l>
+                 <l>There let <seg xml:id="a119" corresp="#n119">potatos</seg> mantle o'er the ground;</l>
                  <l>Sweet as the cane-juice is the root they bear.</l>
-                 <l>There too let eddas spring in order meet,</l>
-                 <l>With Indian cale, and foodful calaloo:</l>
+                 <l>There too let <seg xml:id="a120" corresp="#n120">eddas</seg> spring in order meet,</l>
+                 <l>With <seg xml:id="a121" corresp="#n121">Indian cale</seg>, and foodful <seg xml:id="a122" corresp="#n122">calaloo</seg>:</l>
                  <l>While mint, thyme, balm, and <placeName>Europe's</placeName> coyer herbs,</l>
                  <l>Shoot gladsome forth, nor reprobate the clime.</l>
               </lg>
@@ -4697,7 +4796,7 @@
               
               <lg>
                  <l>This tract secure, with hedges or of limes,</l>
-                 <l>Or bushy citrons, or the shapely tree</l>
+                 <l>Or bushy citrons, or the <seg xml:id="a123" corresp="#n123">shapely tree</seg></l>
                  <l>That glows at once with aromatic blooms,</l>
                  <l>And golden fruit mature. To these be join'd,</l>
                  <l>In comely neighbourhood, the cotton shrub;</l>
@@ -4709,7 +4808,7 @@
                  <l>Tho' years, and heat, and moisture they require,</l>
                  <l>Ere the stone grind them to the food of health.</l>
                  <l>Of thee, perhaps, and of thy various sorts,</l>
-                 <l>And that kind sheltering tree, thy mother nam'd,</l>
+                 <l>And that kind sheltering tree, <seg xml:id="a124" corresp="#n124">thy mother nam'd,</seg></l>
                  <l>With crimson flowerets prodigally grac'd;</l>
                  <l>In future times, the enruptur'd muse may sing:</l>
                  <l>If public favour crown her present lay.</l>
@@ -4740,7 +4839,7 @@
                  <l>The muse might tell, what trees will best exclude</l>
                  <l>(<q rend="quotes">Insuperable height of airiest shade</q>)</l>
                  <l>With their vast umbrage the noon's fervent ray.</l>
-                 <l>Thee, verdant mammey, first, her song should praise:</l>
+                 <l>Thee, verdant <seg xml:id="a125" corresp="#n125">mammey</seg>, first, her song should praise:</l>
                  
                  <!-- insert pb info here -->
                  
@@ -4750,11 +4849,11 @@
                  <l>With pious awe; for thine high flavoured fruit,</l>
                  <l>The airy phantoms of their friend deceas'd</l>
                  <l>Joy'd to regale on.—Such their simple creed.</l>
-                 <l>The tamarind likewise should adorn her theme,</l>
+                 <l>The <seg xml:id="a126" corresp="#n126">tamarind</seg> likewise should adorn her theme,</l>
                  <l>With whose tart fruit the sweltering fever loves</l>
                  <l>To quench his thirst, whose breezy umbrage soon</l>
                  <l>Shades the pleas'd planter, shades his children long.</l>
-                 <l>Nor, lofty cassia, should she not recount</l>
+                 <l>Nor, lofty <seg xml:id="a127" corresp="#n127">cassia</seg>, should she not recount</l>
                  <l>Thy woodland honours! See, what yellow flowers</l>
                  <l>Dance in the gale, and scent the ambient air;</l>
                  <l>While thy long pods, full-fraught with nectared sweets,</l>
@@ -4767,7 +4866,7 @@
                  
                  <l>Thy fragrant shade to beautify the scene.</l>
                  <l>But, chief of palms, and pride of Indian-groves,</l>
-                 <l>Thee, fair palmeto, should her song resound:</l>
+                 <l>Thee, fair <seg xml:id="a128" corresp="#n128">palmeto</seg>, should her song resound:</l>
                  <l>What swelling columns, form'd by Jones or Wren,</l>
                  <l>Or great Palladio, may with thee compare?</l>
                  <l>Not nice-proportion'd, but of size immense,</l>
@@ -4781,7 +4880,7 @@
                  <!-- insert pb info here -->
                  
                  <l>Of Typhon, or of hurricane destroy.</l>
-                 <l>Nor should, thou small, the anana not be sung:</l>
+                 <l>Nor should, thou small, the <seg xml:id="a129" corresp="#n129">anata</seg> not be sung:</l>
                  <l>Thy purple dye the salk and cotton fleece</l>
                  <l>Delighted drink; thy purple dye the tribes</l>
                  <l>Of Northern Ind, a fierce and wily tact,</l>
@@ -4790,7 +4889,7 @@
                  <l>To add new torns to the face of war.</l>
                  <l>The muse might teach to twine the verdant arch,</l>
                  <l>And the cool alcove's lofty roof adorn,</l>
-                 <l>With ponderous granadillas, and the fruit</l>
+                 <l>With ponderous <seg xml:id="a130" corresp="#n130">granadillas</seg>, and the fruit</l>
                  
                  <!-- insert pb info here -->
                  
@@ -4815,14 +4914,14 @@
                  <l>Soon round the bending stem's aerial height,</l>
                  <l>Clusters of mighty nuts, with milk and fruit</l>
                  <l>Delicious fraught, hang clattering in the sky.</l>
-                 <l>There let the bay-grape, too, its crooked limbs</l>
+                 <l>There let the <seg xml:id="a131" corresp="#n131">bay-grape</seg>, too, its crooked limbs</l>
                  
                  <!-- insert pb info here -->
                  
                  <l>Project enormous; of impurpled hue</l>
                  <l>Its frequent clusters glow. And there, if thou</l>
                  <l>Would'st make the sand yield salutary food,</l>
-                 <l>Let Indian millet rear its corny reed,</l>
+                 <l>Let <seg xml:id="a132" corresp="#n132">Indian millet</seg> rear its corny reed,</l>
                  <l>Like arm'd battalions in array of war.</l>
                  <l>But, round the upland huts, bananas plant;</l>
                  <l>A wholesome nutriment bananas yield,</l>
@@ -4832,7 +4931,147 @@
                  <l>So flames design'd, or by imprudence caught,</l>
                  <l>Shall spread no ruin to the neighbouring roof.</l>
               </lg>
+              <lg>
+                 <l>Yet nor the sounding margin of the main,</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>Nor gently sloping side of breezy hill,</l>
+                 <l>Nor streets, at distance due, imbower'd in trees;</l>
+                 <l>Will half the health, or half the pleasure yield,</l>
+                 <l>Unless some pitying naiad deign to lave,</l>
+                 <l>With an unceasing stream, thy thirsty bounds.</l>
+              </lg>
+              <lg>
+                 <l>On festal days; or when their work is done;</l>
+                 <l>Permit thy slaves to lead the choral dance,</l>
+                 <l>To the wild <seg xml:id="a133" corresp="#n133">banshaw</seg>'s melancholy sound.</l>
+                 <l>Responsive to the sound, head feet and frame</l>
+                 <l>Move aukwardly harmonious; hand in hand</l>
+                 <l>Now lock'd, the gay troop circularly wheels,</l>
+                 <l>And frisks and capers in intemperate joy.</l>
+                 <l>Halts the vast circle, all clap hands and sing;</l>
+                 <l>While those distinguish'd for their heels and air,</l>
+                 <l>Bound in the center, and fantastic twine.</l>
+                 <l>Meanwhile some stripling, from the choral ring,</l>
+                 <l>Trips forth; and, not ungallantly, bestows</l>
+                 <l>On her who nimblest hath the greensward beat,</l>
+                 <l>And whose flush'd beauties have inthrall'd his soul,</l>
+                 <l>A silver token of his fond applause.</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>Anon they form in ranks; nor inexpert</l>
+                 <l>A thousand tuneful intricacies weave,</l>
+                 <l>Shaking their sable limbs; and oft a kiss</l>
+                 <l>Steal from their partners; who with neck reclin'd,</l>
+                 <l>And semblant scorn, resent the ravish'd bliss.</l>
+                 <l>But let not thou the drum their mirth inspire;</l>
+                 <l>Nor vinous spirits; else, to madness fir'd,</l>
+                 <l>(What will not the bacchanalian frenzy dare?)</l>
+                 <l>Fell acts of blood, and vengeance they pursue.</l>
+              </lg>
+              <lg>
+                 <l>Compel by threats, or win by soothing arts,</l>
+                 <l>Thy slaves to wed their fellow slaves at home;</l>
+                 <l>So shall they not their vigorous prime destroy,</l>
+                 <l>By distant journeys, at untimely hours,</l>
+                 <l>When muffled midnight decks her raven-hair</l>
+                 <l>With the white plumage of the <seg xml:id="a134" corresp="#n134">prickly vine</seg>.</l>
+              </lg>
+              <lg>
+                 <l>Would'st thou from countless ails preserve thy gang;</l>
+                 
+                 <!-- insert pb info her -->
+                 
+                 <l>To every Negroe, as the <seg xml:id="a135" corresp="#n135">candle-weed</seg></l>
+                 <l>Expands his blossoms to the cloudy sky,</l>
+                 <l>And moist Aquarius melts in daily showers;</l>
+                 <l>A woolly vestment give, (this Wiltshire weaves)</l>
+                 <l>Warm to repel chill Night's unwholesome dews:</l>
+                 <l>While strong coarse linen, from the Scotian loom,</l>
+                 <l>Wards off the fervours of the burning day.</l>
+              </lg>
+              <lg>
+                 <l>The truly great, tho' from a hostile clime,</l>
+                 <l>The sacred Nine embalm; then, Muses, chant,</l>
+                 <l>In grateful numbers, Gallic Lewis' praise:</l>
+                 <l>For private murder quell'd; for laurel'd arts,</l>
+                 <l>Invented cherish'd in his native realm;</l>
+                 <l>For rapine punish'd; for grim famine fed;</l>
+                 <l>For sly chicane expell'd the wrangling bar;</l>
+                 <l>And rightfull Themis seated on her throne:</l>
+                 <l>But chief, for those mild laws his wisdom fram'd,</l>
+                 <l>To guard the Æthiop from tyrannic sway!</l>
+              </lg>
+              <lg>
+                 <l>Did such, in these green isles which Albion claims,</l>
+                 <l>Did such obtain, the muse, at midnight hour,</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>This last brain-racking study had not ply'd:</l>
+                 <l>But, sunk in slumbers of immortal bliss,</l>
+                 <l>To bards had listned on a fancied Thames!</l>
+              </lg>
+              <lg>
+                 <l>All hail, old father Thames! tho' not from far</l>
+                 <l>Thy springing waters roll; nor countless streams,</l>
+                 <l>Of name conspicuous, swell thy watery store;</l>
+                 <l>Tho' thou, <seg xml:id="a136" corresp="#n136">no Plata,</seg> to the sea devolve</l>
+                 <l>Vast humid offerings: thou art king of streams:</l>
+                 <l>Delighted Commerce broods upon thy wave;</l>
+                 <l>And every quarter of this sea-girt globe</l>
+                 <l>To thee due tribute pays; but chief the world</l>
+                 <l>By great <persName>Columbus</persName> found, where now the muse</l>
+                 <l>Beholds, transported, slow vast fleecy clouds,</l>
+                 <l>Alps pil'd on Alps romantically high,</l>
+                 <l>Which charm the sight with many a pleasing form.</l>
+                 <l>The moon in virgin-glory, gilds the pole,</l>
+                 <l>And tips yon tamarinds, tips yon Cane-cron'd vale,</l>
+                 <l>With fluent silver; while unnumbered stars</l>
+                 <l>Gild the vast concave with their lively beams.</l>
+                 <l>The main, a moving burnish'd mirror, shines;</l>
+                 <l>No noise is heard, save when the distant surge</l>
+                 <l>With drouzy murmurings breaks upon the shore!—</l>
+              </lg>
+              <lg>
+                 <l>Ah me, what thunders roll! the sky's on fire!</l>
+                 <l>Now sudden darkness muffles up the pole!</l>
+                 <l>Heavens! what wild scenes, before the affrighted sense,</l>
+                 <l>Imperfect swim!—See! in that flaming scroll,</l>
+                 <l>Which Time unfolds, the future germs bud forth,</l>
+                 <l>Of mighty empires! independent realms!—</l>
+                 <l>And must Brittania, Neptune's favourite queen,</l>
+                 <l>Protect'ress of true science, freedom, arts;</l>
+                 <l>Must she, ah! must she, to her offspring crouch?</l>
+                 <l>Ah, must my <placeName>Thames</placeName>, old Ocean's favourite son,</l>
+                 <l>Resign his trident to barbaric streams;</l>
+                 <l>His banks neglected, and, and his waves unsought,</l>
+                 <l>No bards to sing them, and no fleets to grace?—</l>
+                 <l>Again the fleecy clouds amuse the eye,</l>
+                 <l>And sparkling stars the vast horizon gild—</l>
+                 <l>She shall not crouch; if Wisdom guide the helm,</l>
+                 <l>Wisdom that bade loud Fame, with justest praise,</l>
+                 <l>Record her triumphs! bade the lacquaying winds</l>
+                 <l>Transport, to every quarter of the globe,</l>
+                 <l>Her winged havies! bade her sceptered sons</l>
+                 <l>Of earth acknowledge her pre-eminence!—</l>
+                 <l>She shall not crouch; if these Cane ocean-isles,</l>
+                 <l>Isles which on <placeName>Britain</placeName> for their all depend,</l>
+                 
+                 <!-- insert pb info here -->
+                 
+                 <l>And must for ever, still indulgent share</l>
+                 <l>Her fostering smile: and other isles be given,</l>
+                 <l>From vanquish'd foes.—And, see, another race!</l>
+                 <l>A golden æra dazzles my fond sight!</l>
+                 <l>That other race, that long'd for æra, hail!</l>
+                 <l rend="smallcaps">The British George now reigns, the Patriot King!</l>
+                 <l rend="smallcaps">Britain shall ever triumph o'er the main.</l>
+              </lg>
            </div>
+           <trailer>The End of Book IV.</trailer>
         </div>
       </body>    
   </text>
