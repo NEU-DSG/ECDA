@@ -570,8 +570,8 @@
    </lg>
      </lg>
     </div>
-    <closer><note><p>N. B.I was most horribly sea-sick when I took
- this view of the subject. Besides, <ecda:food>grapes</ecda:food> on ship-
+    <closer><note type="inline"><p>N. B.I was most horribly sea-sick when I took
+ this view of the subject. Besides, <ecda:food ana="#transport">grapes</ecda:food> on ship-
  board, in general, are remarkably sour.</p></note></closer>
  </div>
  <div type="entry">
@@ -681,15 +681,15 @@
     <ecda:food>salt-cellars</ecda:food> carry on a perpetual domestic warfare
     during the whole time of dinner, like the <name>Guelphs</name>
     and the <name>Ghibellines</name>. Nothing is so common as to
-    see a <ecda:food>roast goose</ecda:food> suddenly jump out of its dish
+    see a <ecda:food ana="#fauna">roast goose</ecda:food> suddenly jump out of its dish
     in the middle of dinner, and make a frisk from one
     end of the table to the other; and we are quite in
-    the habit of laying waters which of the two <ecda:food>boiled
+    the habit of laying waters which of the two <ecda:food ana="#fauna">boiled
     fowls</ecda:food> will arrive at the bottom first.
     </p>  
-  <closer><note><p>N. B. To-day the <ecda:food>fowl without the liver wing</ecda:food>
+  <closer><note type="inline"><p>N. B. To-day the <ecda:food ana="#fauna">fowl without the liver wing</ecda:food>
   was the favourite, but the knowing ones were
-  taken in; the <ecda:food>uncarved one</ecda:food> carried it hollow</p></note></closer>    
+  taken in; the <ecda:food ana="#fauna">uncarved one</ecda:food> carried it hollow</p></note></closer>    
       
    </div>
                
@@ -1047,7 +1047,7 @@
          
            </lg>
        </div>
-       <closer><note><p><said rend="quotes">And pray now do you mean to say that you 
+       <closer><note type="inline"><p><said rend="quotes">And pray now do you mean to say that you 
           really saw all this fine show?</said> Oh, yes, really,
           <quote rend="quotes" source="shakespeare_hamlet">in my mind's eye, <persName ref="#Horatio_0001">Horatio</persName>,</quote>  as <persName ref="#william_shakespeare_1564">Shakespeare</persName> says;
           or, if you like it better in Greek—
@@ -1129,7 +1129,7 @@
      <opener><dateline><date when="1815-12-13">December 13</date>.</dateline></opener> 
      <p>We caught a <ecda:fauna>dolphin</ecda:fauna>, but not with the spear:
       he gorged a line which was fastened to the stern, 
-      and baited with <ecda:food>salt pork</ecda:food>; but being a very large 
+      and baited with <ecda:food ana="#fauna">salt pork</ecda:food>; but being a very large 
       and strong fish, his efforts to escape were so powerful,
       that it was feared he would break 
       the line, and a <distinct rend="italic" type="nautical">grainse</distinct> (as the <ecda:fauna>dolphin</ecda:fauna>-spear is 
@@ -1212,10 +1212,10 @@
    any further than his skin. Part of him, which was
    boiled for yesterday's dinner, was rather coarse
    and dry, and might have been mistaken for
-   indifferent <ecda:food>haddock</ecda:food>. But his having been steeped
+   indifferent <ecda:food ana="#fauna">haddock</ecda:food>. But his having been steeped
    in <ecda:food>brine</ecda:food>, and then broiled with a good deal of 
    <ecda:food>pepper and salt</ecda:food>, had improved him wonderfully;
-   and to-day I thought him as good as any other <ecda:food>fish</ecda:food>.</p>  
+   and to-day I thought him as good as any other <ecda:food ana="#fauna">fish</ecda:food>.</p>  
   </div>             
  
 <pb n="37"/>
@@ -1495,7 +1495,7 @@
        by administering a few pages of <title rend="quotes" ref="#ovid_metamorphoses"><persName ref="#ovid_0043">Ovid's</persName> Metamorphoses</title>;
        and in an old receipt-book, we are directed 
        for the cure of double tertial fever, <quote rend="quotes">to
-       drink plentifully of <ecda:food>cock-broth</ecda:food>, and sleep with the
+       drink plentifully of <ecda:food ana="#fauna">cock-broth</ecda:food>, and sleep with the
        <title ref="#homer_iliad">Second Book of the Iliad</title> under the pillow.</quote> If,
        instead of sleeping with it under the pillow,
        the doctor had desired us to read the <title ref="#homer_iliad">Second Book of
@@ -1517,7 +1517,7 @@
        Perouse</persName>, to return no more, I suppose; unless, 
        indeed,—like <persName ref="#polycrates_538">Polycrates</persName>, the fortunate tyrant of
        <placeName>Samos</placeName>, who threw his favourite ring into the ocean,
-       and found it again in the stomach of the first <ecda:food>fish</ecda:food>
+       and found it again in the stomach of the first <ecda:food ana="#fauna">fish</ecda:food>
        that was served up at his table,—I should have the 
        good luck (but I by no means reckon upon it) to
        catch a <ecda:fauna>dolphin</ecda:fauna> with my hat upon his head: as to
@@ -1763,7 +1763,7 @@
            <l>And such we all must be!</l>
         </lg> 
      </div>
-    <closer><note><p>There is a technical fault in the above lines: the
+    <closer><note type="inline"><p>There is a technical fault in the above lines: the
     <distinct type="nautical">grainse</distinct>, or <gloss><ecda:fauna>dolphin</ecda:fauna>-spear</gloss>, has five barbs; but the
     <emph rend="italic">harpooner</emph> never uses a lance with more than a
     single point. However, the word was so agreeable 
@@ -1975,7 +1975,7 @@
         <p>A <ecda:anonPers>black pilot</ecda:anonPers> came on board yesterday, in a
            canoe hollowed out of the <ecda:flora>cotton-tree</ecda:flora>; and when
            it returned for him this morning, it brought us
-           a <ecda:food>water-melon</ecda:food>. I have never met with a worse article
+           a <ecda:food ana="#flora">water-melon</ecda:food>. I have never met with a worse article
            in my life; the pulp is of a faint greenish yellow,
            stained here and there with spots of moist red, so
            that it looks exactly as if the servant in slicing it
@@ -1984,9 +1984,9 @@
            present the happiest imitation of drops of clotted
            gore; and altogether (prejudiced as I was by its
            appearance), when I had put a single bit into my 
-           mouth, it had such a kind of <rs type="properAdjective" ref="#shakespeare_venice">Shylocky</rs> taste of <ecda:food>raw
+           mouth, it had such a kind of <rs type="properAdjective" ref="#shakespeare_venice">Shylocky</rs> taste of <ecda:food ana="#fauna">raw
            flesh</ecda:food> about it (not that I recollect having ever
-           eaten a bit of <ecda:food>raw flesh</ecda:food> itself), that I sent away my 
+           eaten a bit of <ecda:food ana="#fauna">raw flesh</ecda:food> itself), that I sent away my 
            plate, and was perfectly satisfied as to the merits of 
            the fruit.           
         </p>
@@ -2440,7 +2440,7 @@
           squires</rs> would be mightily astonished at being
           accosted so familiarly by their <rs type="persGroup">farmers</rs>. This delightful
           north wind keeps the air temperate and 
-          agreeable. I live upon <ecda:food>shaddocks</ecda:food> and <ecda:food>pine-apples</ecda:food>.
+          agreeable. I live upon <ecda:food ana="#flora">shaddocks</ecda:food> and <ecda:food ana="#flora">pine-apples</ecda:food>.
           The dreaded <ecda:fauna>mosquitoes</ecda:fauna> are not worse than <ecda:fauna>gnats</ecda:fauna>,
           nor as bad as the <ecda:fauna><rs type="properAdjective">Sussex</rs> harvest-bugs</ecda:fauna>; and, as yet
           I never felt myself in more perfect health. There
@@ -2772,9 +2772,9 @@
       <div type="entry">
       <opener><dateline><date when="1816-01-06">1816.—January 6</date>.</dateline></opener> 
          <p>This was the day given to my <rs type="persGroup">negroes</rs> as a festival
-            on my arrival. A couple of <ecda:food>heifers</ecda:food> were 
+            on my arrival. A couple of <ecda:food ana="#fauna">heifers</ecda:food> were 
             slaughtered for them: they were allowed as much
-            <ecda:food>rum</ecda:food>, and <ecda:food>sugar</ecda:food>, and noise, and dancing as they
+            <ecda:food ana="#commodity">rum</ecda:food>, and <ecda:food ana="#commodity">sugar</ecda:food>, and noise, and dancing as they
             chose; and as to the two latter, certainly they 
             profited by the permission. About two o'clock
             they began to assemble round <rs type="place">the house</rs>, all drest
@@ -2946,10 +2946,10 @@
           <choice><sic>aword</sic><corr>a word</corr></choice> <said rend="quotes">Oh, don't shut the window <persName ref="#polly_0001">Polly</persName>.</said>—
             <said rend="quotes"><distinct type="dialect">Night-air not good for massa</distinct>;</said> and she shuts
             the casement without mercy. I am drinking
-            <ecda:food>orangeade</ecda:food>, or some such liquid; <persName ref="#polly_0001">Polly</persName> walks up
+            <ecda:food ana="#flora">orangeade</ecda:food>, or some such liquid; <persName ref="#polly_0001">Polly</persName> walks up
             to the table, and seizes it; <said rend="quotes">Leave that jug, <persName ref="#polly_0001">Polly</persName>,
             I am dying with thirst.</said>—<said rend="quotes"><distinct type="dialect">More hurt, massa</distinct>;</said>
-            and away go <persName ref="#polly_0001">Polly</persName> and the <ecda:food>orangeade</ecda:food>. So that
+            and away go <persName ref="#polly_0001">Polly</persName> and the <ecda:food ana="#flora">orangeade</ecda:food>. So that
             I begin to fancy myself <persName ref="#sancho_panza_0001">Sancho</persName> in <placeName>Barataria</placeName>, and
             that <persName ref="#polly_0001">Polly</persName> is the <persName ref="#doctor_pedro_0001">Señor Doctor Pedro</persName> in petticoats.
          </p>
@@ -3004,7 +3004,7 @@
             dancers</rs> was, through every part of <rs type="place">the house</rs> except
             the bed-rooms, occupied by men, women,
             and children, fast asleep. But although they were
-            allowed <ecda:food>rum</ecda:food> and <ecda:food>sugar</ecda:food> by whole pailfuls, and
+            allowed <ecda:food ana="#commodity">rum</ecda:food> and <ecda:food ana="#commodity">sugar</ecda:food> by whole pailfuls, and
             were most of them <emph rend="italic">merry</emph> in consequence, there 
        <pb n="89"/>
        <fw type="pageNum">81</fw>        
@@ -3050,7 +3050,7 @@
             <rs type="persGroup">the slaves</rs> maintain themselves in this manner by
             their own labour; even <rs type="persGroup">the domestic attendants</rs>
             are not exempted, but are expected to feed them-
-            selves, except stated allowances of <ecda:food>salt fish</ecda:food>, <ecda:food>salt
+            selves, except stated allowances of <ecda:food ana="#fauna">salt fish</ecda:food>, <ecda:food ana="#commodity">salt
             pork</ecda:food>, &amp;c.
          </p>
       </div>
@@ -3166,7 +3166,7 @@
         grounds. A large spreading <ecda:flora>tamarind</ecda:flora> fronts me
         at this moment, and overshadows the stables,
         which are formed of open wickerwork; and an
-        <ecda:flora>orange-tree</ecda:flora>, loaded with <ecda:food>fruit</ecda:food>, grows against the
+        <ecda:flora>orange-tree</ecda:flora>, loaded with <ecda:food ana="#flora">fruit</ecda:food>, grows against the
         window at which I am writing.       
      </p>
      <p>On three sides of the landscape the prospect is
@@ -3618,13 +3618,13 @@
             faintings had seized him at <rs type="place">the slaughter-house</rs>,
             and the fellow was an <rs type="properAdjective">African</rs>, it was at first supposed
             by <rs type="persGroup">his companions</rs>, that the sight and smell
-            of the <ecda:food>meat</ecda:food> had affected him; for many of the
-            <name>Africans</name> cannot endure <ecda:food>animal food</ecda:food> of any kind,
+            of the <ecda:food ana="#fauna">meat</ecda:food> had affected him; for many of the
+            <name>Africans</name> cannot endure <ecda:food ana="#fauna">animal food</ecda:food> of any kind,
             and most of the <name>Ebres</name> in particular are made ill by
-            eating <ecda:food>turtle</ecda:food>, even although they can use any other
+            eating <ecda:food ana="#fauna">turtle</ecda:food>, even although they can use any other
             food without injury. However, upon enquiry
             among <rs type="persGroup">his shipmates</rs>, it appeared that he had 
-            frequently eaten <ecda:food>beef</ecda:food> without the slightest inconvenience.
+            frequently eaten <ecda:food ana="#fauna">beef</ecda:food> without the slightest inconvenience.
             For my own part, the symptoms of 
             his complaint were such as to make me suspect
             him of having tasted something poisonous, especially as,
@@ -3632,7 +3632,7 @@
             in <rs type="place">the small grove</rs>of <ecda:flora>mangoes</ecda:flora> near <rs type="place">the
             house</rs>; but I was assured by the <rs type="persGroup">negroes</rs>, one and 
             all, that nothing could possibly have induced him
-            to eat an <ecda:food>herb</ecda:food> or <ecda:food>fruit</ecda:food> from <rs type="place">that grove</rs>, as it had
+            to eat an <ecda:food ana="#flora">herb</ecda:food> or <ecda:food ana="#flora">fruit</ecda:food> from <rs type="place">that grove</rs>, as it had
             been used as a burying-ground for <said rend="quotes">the white
             people</said>. But although my idea of the poison was 
             scouted, still the mention of <rs type="place">the burying-ground </rs>
@@ -3760,29 +3760,29 @@
             ought to ship themselves off for <placeName>Jamaica</placeName> out of
             hand; and even the lord mayor himself need not
             blush to give his aldermen such a dinner as is
-            placed on my table, even when I dine alone. <ecda:food>Land
-            and sea turtle</ecda:food>, <ecda:food>quails</ecda:food>, <ecda:food>snipes</ecda:food>, <ecda:food>plovers</ecda:food>, and <ecda:food>pigeons</ecda:food>
-            and <ecda:food>doves</ecda:food> of all descriptions—of which <ecda:food>the ring-tail</ecda:food>
+            placed on my table, even when I dine alone. <ecda:food ana="#fauna">Land
+            and sea turtle</ecda:food>, <ecda:food ana="#fauna">quails</ecda:food>, <ecda:food ana="#fauna">snipes</ecda:food>, <ecda:food ana="#fauna">plovers</ecda:food>, and <ecda:food ana="#fauna">pigeons</ecda:food>
+            and <ecda:food ana="#fauna">doves</ecda:food> of all descriptions—of which <ecda:food ana="#fauna">the ring-tail</ecda:food>
             has been allowed to rank with the most exquisite
             of the winged species, by epicures of such distinction,
             that their opinion, in matters of this nature,
             almost carries with it the weight of a law,—excellent
-            <ecda:food>pork</ecda:food>, <ecda:food>barbicued pigs</ecda:food>, <ecda:food>pepperpots</ecda:food>, with numberless
+            <ecda:food ana="#fauna">pork</ecda:food>, <ecda:food ana="#fauna">barbicued pigs</ecda:food>, <ecda:food>pepperpots</ecda:food>, with numberless
             other excellent dishes, form the ordinary
-            fare; while the <ecda:food>poultry</ecda:food> is so large and fine, that if
-            the <name>Dragon of <placeName>Wantley</placeName></name> found <quote rend="quotes" source="dragon_wantley">houses and churches
-            to be <ecda:food>geese</ecda:food> and <ecda:food>turkies</ecda:food></quote> in <placeName>England</placeName>, he would
-            mistake the <ecda:food>geese</ecda:food> and <ecda:food>turkies</ecda:food> for houses and 
-            churches here. Then our <ecda:food>tarts</ecda:food> are made of <ecda:food>pine-
-            apples</ecda:food>, and <ecda:food>pine-apples</ecda:food> make the best tarts that I 
+            fare; while the <ecda:food ana="#fauna">poultry</ecda:food> is so large and fine, that if
+            the <name><ecda:fauna>Dragon</ecda:fauna> of <placeName>Wantley</placeName></name> found <quote rend="quotes" source="dragon_wantley">houses and churches
+            to be <ecda:food ana="#fauna">geese</ecda:food> and <ecda:food ana="#fauna">turkies</ecda:food></quote> in <placeName>England</placeName>, he would
+            mistake the <ecda:food ana="#fauna">geese</ecda:food> and <ecda:food ana="#fauna">turkies</ecda:food> for houses and 
+            churches here. Then our <ecda:food>tarts</ecda:food> are made of <ecda:food ana="#flora">pine-
+            apples</ecda:food>, and <ecda:food ana="#flora">pine-apples</ecda:food> make the best tarts that I 
       <pb n="112"/>
       <fw type="pageNum">104</fw>    
             ever tasted; there is no end of the variety of fruits,
-            of which the <ecda:food>shaddock</ecda:food> is <quote rend="quotes" source="colton_hypocrisy">in itself a host</quote>; but
+            of which the <ecda:food ana="#flora">shaddock</ecda:food> is <quote rend="quotes" source="colton_hypocrisy">in itself a host</quote>; but
             the most singular and exquisite flavour, perhaps, is
-            to be found in the <ecda:food>granadillo</ecda:food>, a fruit which grows
+            to be found in the <ecda:food ana="#flora">granadillo</ecda:food>, a fruit which grows
             upon a species of vine, and, in fact, appears to be
-            a kind of <ecda:food>cucumber</ecda:food>. It must be suffered to hang
+            a kind of <ecda:food ana="#flora">cucumber</ecda:food>. It must be suffered to hang
             till it is dead ripe, when it is scarcely any thing except
             juice and seeds, which can only be eaten with
             a spoon. It requires <ecda:food>sugar</ecda:food>, but the acid is truly
@@ -3799,11 +3799,11 @@
             here, none is necessary, and it is only to be wished
             that their names equalled their flesh in taste; for it
             must be owned, that nothing can be less tempting
-            than the sounds of <ecda:food>Jew-fish</ecda:food>, <ecda:food>hog-fish</ecda:food>, <ecda:food>mud-fish</ecda:food>,
-            <ecda:food>snappers</ecda:food>, <ecda:food>god-dammies</ecda:food>, <ecda:food>groupas</ecda:food>, and <ecda:food>grunts</ecda:food>!
-            Of the <ecda:fauna>Sea Fish</ecda:fauna> which I have hitherto met with, the
-            <ecda:food>Deep-water Silk</ecda:food> appears to me the best; and of
-            rivers, the <ecda:food>Mountain-Mullet</ecda:food>: but indeed, the fish
+            than the sounds of <ecda:food ana="#fauna">Jew-fish</ecda:food>, <ecda:food ana="#fauna">hog-fish</ecda:food>, <ecda:food ana="#fauna">mud-fish</ecda:food>,
+            <ecda:food ana="#fauna">snappers</ecda:food>, <ecda:food ana="#fauna">god-dammies</ecda:food>, <ecda:food ana="#fauna">groupas</ecda:food>, and <ecda:food ana="#fauna">grunts</ecda:food>!
+            Of the <ecda:fauna ana="#food">Sea Fish</ecda:fauna> which I have hitherto met with, the
+            <ecda:food ana="#fauna">Deep-water Silk</ecda:food> appears to me the best; and of
+            rivers, the <ecda:food ana="#fauna">Mountain-Mullet</ecda:food>: but indeed, the fish
             is generally so excellent, and in such profusion,
             that I never sit down to table without wishing for
             the company of <persName ref="#atargatis_0001">Queen Atygatis</persName> of <placeName>Scythia</placeName>, who
@@ -3816,15 +3816,15 @@
          </p>
          <p>This fondness for fish seems to be a sort of royal
             passion: more than one of our <rs type="properAdjective">English</rs> sovereigns
-            died of eating too many <ecda:food>lampreys</ecda:food>; though, to own
+            died of eating too many <ecda:food ana="#fauna">lampreys</ecda:food>; though, to own
             the truth, it was suspected that the monks, in an instance
             or two, improved the same by the addition 
             of a little ratsbane; and <persName ref="#honore_riqueti_1749">Mirabeau</persName> assures us, that
             <persName ref="#frederick_the_great_1712">Frederick the Second of <placeName>Prussia</placeName></persName> might have prolonged
             his existence, if he could but have resisted
-            the fascination of an <ecda:food>eel-pye</ecda:food>; but the charm was too
+            the fascination of an <ecda:food ana="#fauna">eel-pye</ecda:food>; but the charm was too
             strong for him, and, like his great-grandmother of 
-            all, he ate and died—<quote rend="quotes" source="dryden_love">All for <ecda:food>eel-pye</ecda:food>, or this world
+            all, he ate and died—<quote rend="quotes" source="dryden_love">All for <ecda:food ana="#fauna">eel-pye</ecda:food>, or this world
             well lost!</quote> And now, which had to resist the most
             difficult temptation, <persName ref="#frederick_the_great_1712">Frederic</persName> or <persName ref="#eve_0001">Eve</persName>? <emph rend="italic">She</emph> longed
             to experience pleasures yet untasted, and which
@@ -3839,26 +3839,26 @@
             time than to solve it.             
          </p>
          <p><rs type="place">The provision-grounds</rs> of the <rs type="persGroup">negroes</rs> furnish
-            them with <ecda:food>plantains</ecda:food>, <ecda:food>bananas</ecda:food>, <ecda:food>cocoa-nuts</ecda:food>, and <ecda:food>yams</ecda:food>:
+            them with <ecda:food ana="#flora">plantains</ecda:food>, <ecda:food ana="#flora">bananas</ecda:food>, <ecda:food ana="#flora">cocoa-nuts</ecda:food>, and <ecda:food ana="#flora">yams</ecda:food>:
             of the latter there is a regular harvest once a year, 
         <pb n="114"/>
         <fw type="pageNum">106</fw>  
             and they remain in great perfection for many
             months, provided they are dug up carefully, but the
             slightest wound with the spade is sufficient to rot
-            them. <ecda:food><distinct type="agricultural">Catalue</distinct></ecda:food> (a species of <ecda:food>spinach</ecda:food>) is a principal
+            them. <ecda:food ana="#flora"><distinct type="agricultural">Catalue</distinct></ecda:food> (a species of <ecda:food ana="#flora">spinach</ecda:food>) is a principal
             article in their <ecda:food>pepper-pots</ecda:food>; but in this parish their
             most valuable and regular supply of food arises from
-            the <ecda:food>cocoa-finger</ecda:food>, or <ecda:food>coccos</ecda:food>, a species of the <ecda:food>yam</ecda:food>,
+            the <ecda:food ana="#flora">cocoa-finger</ecda:food>, or <ecda:food ana="#flora"><distinct type="agricultural">coccos</distinct></ecda:food>, a species of the <ecda:food ana="#flora">yam</ecda:food>,
             but which lasts all year round. These vegetables
             form the basis of negro sustenance; but the slaves
             also receive from their owners a regular weekly
-            allowance of <ecda:food>red herrings</ecda:food> and <ecda:food>salt meat</ecda:food>, which
+            allowance of <ecda:food ana="#fauna">red herrings</ecda:food> and <ecda:food ana="#fauna">salt meat</ecda:food>, which
             serves to relish their vegetable diet; and, indeed,
             they are so passionately fond of salted provisions,
-            that, instead of giving them <ecda:food>fresh beef</ecda:food> (as at their 
+            that, instead of giving them <ecda:food ana="#fauna">fresh beef</ecda:food> (as at their 
             festival of Saturday last), I have been advised to
-            provides some <measure>hogsheads</measure> of <ecda:food>salt fish</ecda:food>, as likely to
+            provides some <measure>hogsheads</measure> of <ecda:food ana="#fauna">salt fish</ecda:food>, as likely to
             afford them more gratification, at such future additional 
             holidays as I may find it possible to allow
             them in this busy season of crop. 
@@ -3916,7 +3916,7 @@
            <rs type="properAdjective">English</rs> cottages, where a few <ecda:flora>cabbages</ecda:flora> and <ecda:flora>carrots</ecda:flora>
            just peep up and grovel on the earth between
            <ecda:flora>hedges</ecda:flora>, in square narrow beds, and where the
-           tallest tree is a <ecda:flora>gooseberry bush</ecda:flora>: the <ecda:food>vegetables</ecda:food> of 
+           tallest tree is a <ecda:flora>gooseberry bush</ecda:flora>: the <ecda:food ana="#flora">vegetables</ecda:food> of 
            the <rs type="persGroup">negroes</rs> are all cultivated in their <rs type="place">provision-
            grounds</rs>; these form their <mcr rend="italic">kitchen</mcr>-gardens, and
            these are all for ornament or luxury, and are filled
@@ -3996,7 +3996,7 @@
              it had carried her all the way to <rs type="place">the mountains</rs>), I
              desired that an act of oblivion might be passed in
              favour of <persName ref="#marcia_0001"><persName ref="cato_0095">Cato's</persName> daughter</persName>, and away she went,
-             quite happy, to pick <ecda:food>hog's meat</ecda:food>. 
+             quite happy, to pick <ecda:food ana="#fauna">hog's meat</ecda:food>. 
           </p>
           <p><rs type="place">The negro houses</rs> are composed of wattles on the
              outside, with rafters of sweet-wood, and are well
@@ -4016,7 +4016,7 @@
              from <rs type="place">the bay</rs> or <rs type="place">the mountains</rs>. As I passed
              through <rs type="place">their grounds</rs>, many little requests were
              preferred to me: <ecda:anonPers>one</ecda:anonPers> wanted an additional supply
-             of <ecda:commodity ana="#refining">lime</ecda:commodity> for the whitewashing <rs type="place">his house</rs>; <ecda:anonPers>another</ecda:anonPers> was
+             of <ecda:commodity ana="#use">lime</ecda:commodity> for the whitewashing <rs type="place">his house</rs>; <ecda:anonPers>another</ecda:anonPers> was
              building <rs type="place">a new house</rs> for a <ecda:anonPers>superannuated wife</ecda:anonPers> (for
              they have all so much decency as to call their 
              sexual attachments by a conjugal name), and
@@ -4098,7 +4098,7 @@
           so much pleasure, is estimated to cost me a <measure ana="#currency">guinea</measure>, 
           I feel, while breathing it, like <persName ref="#frances_burney_1752">Miss Burney's</persName> <persName>Citizen</persName>
           at <placeName>Vauxhall</placeName>, who kept muttering to himself, with
-          every bit of <ecda:food>ham</ecda:food> that he put into his mouth,
+          every bit of <ecda:food ana="#fauna">ham</ecda:food> that he put into his mouth,
           <quote rend="quotes" source="harrison_connoisseur">There goes <measure ana="#currency">sixpence</measure>, and there goes a <measure ana="#currency">shilling</measure>!</quote>
       </p>
        </div>
@@ -4146,7 +4146,7 @@
       <pb n="123"/>
       <fw type="pageNum">115</fw>   
           running away with a <ecda:fauna>dog</ecda:fauna> or two, which appears to 
-          be their <ecda:food>venison</ecda:food> and <ecda:food>turtle</ecda:food>. There is no river on
+          be their <ecda:food ana="#fauna">venison</ecda:food> and <ecda:food ana="#fauna">turtle</ecda:food>. There is no river on
           my estate large enough for their inhabiting; but, 
           in <placeName>Paradise River</placeName>, which is not above <measure>four miles</measure>
           off, I understand that they are common. 
@@ -4569,7 +4569,7 @@
           <persName ref="#cubina_0001">Cubina</persName>, having never heard a harsh word from me
            before, scarcely knew whether he stood upon his
            head or his heels. When he afterwards brought
-           my <ecda:food>coffee</ecda:food>, he expressed his sorrow for having
+           my <ecda:food ana="#flora">coffee</ecda:food>, he expressed his sorrow for having
            offended me, and begged my pardon in the most
            humble manner. I told him, that to obtain mine, 
            he must first obtain that of <persName ref="#phillis_0001">Phillis</persName>, and he immediately
@@ -4610,7 +4610,7 @@
            of their first dance, a couple of <ecda:fauna>sheep</ecda:fauna> disappeared
            from the pen, although they could not have been
            taken from want of food, as on that very morning
-           there had been an ample distribution of <ecda:food>fresh beef</ecda:food>;
+           there had been an ample distribution of <ecda:food ana="#fauna">fresh beef</ecda:food>;
            and last night another <ecda:fauna>sheep</ecda:fauna> and a quantity of
            <ecda:fauna>poultry</ecda:fauna> followed them. Yesterday, too, a young
            rascal of a boy called <persName ref="#massa_jackey_0001" rend="quotes">massa Jackey</persName>, who is in
@@ -4641,7 +4641,7 @@
         <p>One species of flattery (or of <distinct type="dialect" rend="italic"><rs type="properAdjective">Congo</rs>-saw</distinct>, as we
            call it here) amused me very much this morning: an
            <rs type="person" ref="#philippa_0001">old woman</rs> who is in <rs type="place">the hospital</rs> wanted to express 
-           her gratitude for some <ecda:food>stewed fish</ecda:food> which I
+           her gratitude for some <ecda:food ana="#fauna">stewed fish</ecda:food> which I
            had sent her for supper, and, instead of calling me
            <distinct type="dialect" rend="quotes">massa</distinct>, she always said—<said rend="quote"><distinct type="dialect">Tank him, <emph>my husband</emph></distinct></said>
           </p>
@@ -4686,7 +4686,7 @@
           note to the <ecda:anonPers>overseer</ecda:anonPers>, requesting that the women
           might remain quite unmolested till the <ecda:anonPers>trustee's</ecda:anonPers>
           arrival, which was daily expected; and, with this
-          note and a present of <ecda:food>cocoa-fingers</ecda:food> and <ecda:food>salt fish</ecda:food>,
+          note and a present of <ecda:food ana="#flora">cocoa-fingers</ecda:food> and <ecda:food ana="#fauna">salt fish</ecda:food>,
           <persName ref="#delia_0001">Delia</persName> and <persName ref="#juliet_0002">Juliet</persName> departed, apparently much comforted.           
         </p>
       <p>They were succeeded by no less a personage 
@@ -4737,7 +4737,7 @@
          on <persName ref="cacus_0001">Cacus</persName>, when his own <ecda:fauna>oxen</ecda:fauna> were stolen, was
          taken up himself for stealing my <ecda:fauna>sheep</ecda:fauna> in <placeName>Jamaica</placeName>!
          The demi-god had nothing to say in his excuse:
-         he had just received a large allowance of <ecda:food>beef</ecda:food>:—
+         he had just received a large allowance of <ecda:food ana="#fauna">beef</ecda:food>:—
          therefore, hunger had no share in his transgression;
          and the committing the offence during the very time
          that I was giving the <rs type="persGroup">negroes</rs> a festival, rendered
@@ -4765,7 +4765,7 @@
         can be expected of him; and that he had been absent for
         five weeks together before my arrival, and only returned
         home upon hearing that there was a distribution 
-        of <ecda:food>beef</ecda:food>, <ecda:food>rum</ecda:food>, and <ecda:commodity ana="#textile #use">jackets</ecda:commodity> going forward; in
+        of <ecda:food ana="#fauna">beef</ecda:food>, <ecda:food>rum</ecda:food>, and <ecda:commodity ana="#textile #use">jackets</ecda:commodity> going forward; in
         return for all which, he stole my <ecda:fauna>sheep</ecda:fauna> and my
         poor <ecda:fauna>great turkey-cock</ecda:fauna>.            
       </p>
@@ -5103,8 +5103,8 @@
       if he does not provide himself with a wife at
       <placeName>Cornwall</placeName>, before my return from <placeName>Kingston</placeName>, I will
       put him up to auction, and call the girls together
-      to bid for him, one offering half a dozen <ecda:food>yams</ecda:food>,
-      and another a bit of <ecda:food>salt fish</ecda:food>; and the highest
+      to bid for him, one offering half a dozen <ecda:food ana="#flora">yams</ecda:food>,
+      and another a bit of <ecda:food ana="#fauna">salt fish</ecda:food>; and the highest
       bidder shall carry him off as her property. But
       to-day, as he came into the room just as the minister
       left it, I told him that <persName ref="#pope_0001">Dr. Pope</persName> was coming
@@ -5225,7 +5225,7 @@
    <pb n="155"/>
    <fw type="pageNum">147</fw> 
    he had been Obeahed, he should forfeit his share
-   of the next present of <ecda:food>salt-fish</ecda:food>, which I meant soon
+   of the next present of <ecda:food ana="#fauna">salt-fish</ecda:food>, which I meant soon
    to distribute among <rs type="persGroup">the slaves</rs>, and should never
    receive any favour from me in future;</seg> so I gave
    <persName ref="#bessie_0001">Bessie</persName> a piece of <ecda:commodity ana="#currency">money</ecda:commodity>, and she seemed to go
@@ -5306,7 +5306,7 @@
      frequent attempts to poison him; and a person
      against whom there is no sort of charge alleged for
      tyranny, after being brought to the doors of death
-     by a <ecda:food>cup of coffee</ecda:food>, only escaped a second time by
+     by a <ecda:food ana="#flora">cup of coffee</ecda:food>, only escaped a second time by
      his civility, in giving the beverage, prepared for
      himself, to <rs type="persGroup">two young book-keepers</rs>, to both of 
      whom it proved fatal.</seg> <seg ana="#poison"><seg ana="#obeah">It, indeed, came out afterwards,
@@ -5373,14 +5373,14 @@
    patient</ecda:anonPers> left me with every prospect of finding no
    bad effects whatever from his accident.  
   </p>
- <p>We had at dinner a <ecda:food>land tortoise</ecda:food> and a <ecda:food>barbecued
+ <p>We had at dinner a <ecda:food ana="#fauna">land tortoise</ecda:food> and a <ecda:food ana="#fauna">barbecued
     pig</ecda:food>, two of the best and richest dishes that I ever 
     tasted;—the latter, in particular—which was
     dressed in the true maroon fashion, being placed
     on a <distinct type="dialect">barbecue</distinct> (a frame of wicker-work, through
     whose interstices the steam can ascend), filled with
     <ecda:food>peppers and spices</ecda:food> of the highest flavour, wrapt in
-    <ecda:food>plantain leaves</ecda:food>, and then buried in a hole filled
+    <ecda:food ana="#flora">plantain leaves</ecda:food>, and then buried in a hole filled
     with hot stones, by whose vapour it is baked, no
     particle of the juice being thus suffered to evaporate.
     I have eaten several other good <placeName>Jamaica</placeName>
@@ -5389,50 +5389,50 @@
     in the hospital. Perhaps an <rs type="properAdjective">English</rs> physician would
     have felt every hair of his wig bristle upon his head
     with astonishment, at hearing me ask, this morning,
-    a woman in a fever, how her bark and her barbe-
+    a woman in a fever, how her <ecda:flora ana="#medical">bark</ecda:flora> and her <ecda:food ana="#fauna">barbe-
     <pb n="160"/>
     <fw type="pageNum">152</fw>
-    cued pig had agreed with her. But, with negroes,
-    I find that feeding the sick upon <ecda:food>stewed fish</ecda:food> and
-    <ecda:food>pork</ecda:food>, highly seasoned, produces the very best effects
+    cued pig</ecda:food> had agreed with her. But, with negroes,
+    I find that feeding the sick upon <ecda:food ana="#fauna">stewed fish</ecda:food> and
+    <ecda:food ana="#fauna">pork</ecda:food>, highly seasoned, produces the very best effects
     possible
   </p>
-  <p>Some of the fruits here are excellent, such as <ecda:food>shaddocks</ecda:food>,
-     <ecda:food>oranges</ecda:food>, <ecda:food>granadelloes</ecda:food>, <ecda:food>forbidden fruit</ecda:food>; and
-     one between an <ecda:food>orange</ecda:food> and a <ecda:food>lemon</ecda:food>, called <ecda:food><distinct type="dialect">the 
-     <ecda:food>grape</ecda:food> or cluster fruit</distinct></ecda:food>, appears to me quite delicious.
+  <p>Some of the fruits here are excellent, such as <ecda:food ana="#flora">shaddocks</ecda:food>,
+     <ecda:food ana="#flora">oranges</ecda:food>, <ecda:food ana="#flora">granadelloes</ecda:food>, <ecda:food ana="#flora">forbidden fruit</ecda:food>; and
+     one between an <ecda:food ana="#flora">orange</ecda:food> and a <ecda:food ana="#flora">lemon</ecda:food>, called <ecda:food ana="#flora"><distinct type="dialect">the 
+     <ecda:food ana="#flora">grape</ecda:food> or cluster fruit</distinct></ecda:food>, appears to me quite delicious.
      For the vegetables, I cannot say so much,
-     <ecda:food>yams</ecda:food>, <ecda:food>plantains</ecda:food>, <ecda:food>cocoa poyers</ecda:food>, <ecda:food>yam-poys</ecda:food>, <ecda:food>bananas</ecda:food>,
+     <ecda:food ana="#flora">yams</ecda:food>, <ecda:food ana="#flora">plantains</ecda:food>, <ecda:food ana="#flora">cocoa poyers</ecda:food>, <ecda:food ana="#flora">yam-poys</ecda:food>, <ecda:food ana="#flora">bananas</ecda:food>,
      &amp;c. look and taste all so much alike, that I
      scarcely know one from the other: they are all
-     something between <ecda:food>bread</ecda:food> and <ecda:food>potatoes</ecda:food>, not so
+     something between <ecda:food>bread</ecda:food> and <ecda:food ana="#flora">potatoes</ecda:food>, not so
      good as either, and I am quite tired of them all.
-     The <ecda:food>Lima Bean</ecda:food> is said to be more like a <ecda:food>pea</ecda:food> than a
-     <ecda:food>bean</ecda:food>, but whatever it be like, it appeared to me
-     very indifferent. As to <ecda:food>peas</ecda:food> themselves, nothing
-     can be worse. The <ecda:food><distinct type="dialect">achie fruit</distinct></ecda:food> is a kind of vegetable, 
+     The <ecda:food ana="#flora">Lima Bean</ecda:food> is said to be more like a <ecda:food ana="#flora">pea</ecda:food> than a
+     <ecda:food ana="#flora">bean</ecda:food>, but whatever it be like, it appeared to me
+     very indifferent. As to <ecda:food ana="#flora">peas</ecda:food> themselves, nothing
+     can be worse. The <ecda:food ana="#flora"><distinct type="dialect">achie fruit</distinct></ecda:food> is a kind of vegetable, 
      which generally is fried in <ecda:food>butter</ecda:food>; many people, I
      am told, are fond of it, but I could find no merit in
-     it. The <ecda:food>palm-tree</ecda:food> (or <ecda:food><distinct type="dialect">abba</distinct></ecda:food>, as it is called here)
+     it. The <ecda:food ana="#flora">palm-tree</ecda:food> (or <ecda:food ana="#flora"><distinct type="dialect">abba</distinct></ecda:food>, as it is called here)
      produces a long scarlet or reddish brown cone,
      which separates into beads, each of which contains
-     a <ecda:food>roasting nut</ecda:food> surrounded by a kind of stringy
+     a <ecda:food ana="#flora">roasting nut</ecda:food> surrounded by a kind of stringy
      husk—which, being boiled in <ecda:food>salt</ecda:food> and water, upon
-     being chewn has a taste of <ecda:food>artichoke</ecda:food>, but the consistence
+     being chewn has a taste of <ecda:food ana="#flora">artichoke</ecda:food>, but the consistence
      is very disagreeable. The only native 
-     vegetable, which I like much, is the <ecda:food>ochra</ecda:food>, which
-     tastes like <ecda:food>asparagus</ecda:food>, though not with quite so
+     vegetable, which I like much, is the <ecda:food ana="#flora">ochra</ecda:food>, which
+     tastes like <ecda:food ana="#flora">asparagus</ecda:food>, though not with quite so
      delicate a flavour.      
   </p> 
      <pb n="161"/>
      <fw type="pageNum">153</fw>    
   <p>As to fish, the variety is endless; but I think
      it rather consists in variety of names than of flavour.
-     From this, however, I must except the <ecda:food>Silk-
-     Fish</ecda:food> and <ecda:food>Mud-Fish</ecda:food>, and above all, the <ecda:food>Mountain-
+     From this, however, I must except the <ecda:food ana="#fauna">Silk-
+     Fish</ecda:food> and <ecda:food ana="#fauna">Mud-Fish</ecda:food>, and above all, the <ecda:food ana="#fauna">Mountain-
      Mullet</ecda:food>, which is almost the best fish that I ever
-     tasted. All the <ecda:food>shell-fish</ecda:food>, that I have met with
-     as yet, have been excellent; the <ecda:food>oysters</ecda:food> have
+     tasted. All the <ecda:food ana="#fauna">shell-fish</ecda:food>, that I have met with
+     as yet, have been excellent; the <ecda:food ana="#fauna">oysters</ecda:food> have
      not come in my way, but I am told that they are
      not only poor and insipid, but frequently are so
      poisonous that I had better not venture upon them;
@@ -6087,7 +6087,7 @@
        <ecda:commodity ana="#flora #food #cultivation">corn-fields</ecda:commodity>; but, from their extreme wildness, he
        never could make any of them prisoners. He had
        a barn lighted by a large sash window, and into
-       this he laid a train of <ecda:food>corn</ecda:food>, hiding <rs type="persGroup">some servants</rs>
+       this he laid a train of <ecda:food ana="#fauna">corn</ecda:food>, hiding <rs type="persGroup">some servants</rs>
        with guns behind the large doors, which were folded
        back. The <ecda:fauna>turkeys</ecda:fauna> picked up the corn, and gradually
        were enticed to enter the barn. But as 
@@ -6715,7 +6715,7 @@
  </p>
  <p>Today being a play-day, the gaiety of <rs type="persGroup">the negroes</rs> 
     was promoted by a distribution of an additional
-    quantity of <ecda:food>salt-fish</ecda:food> (which forms a most acceptable
+    quantity of <ecda:food ana="#fauna">salt-fish</ecda:food> (which forms a most acceptable
     ingredient in their <ecda:food>pepper-pots</ecda:food>), and as much <ecda:food>rum</ecda:food>
     and <ecda:food>sugar</ecda:food> as they chose to drink. But there was 
     also a dinner prepared at the house where the
@@ -6848,18 +6848,18 @@
      lodged near his eye, soon put an end to him. I
      went over to see him this morning; but I was not
      contented with merely seeing him, so I begged to
-     have a <ecda:food>steak</ecda:food> cut off for me, brought it home, and
+     have a <ecda:food ana="#fauna">steak</ecda:food> cut off for me, brought it home, and
      ordered it to be broiled for dinner. <ecda:anonPers>One of the 
      negroes</ecda:anonPers> happened to see it in the kitchen; the
      news spread through the estate like wildfire; and
      I had immediately half a dozen different deputations,
      all hoping that <distinct type="dialect">massa</distinct> would not think of
-     eating the alligator, for it was poisonous. However,
+     eating the <ecda:food ana="#fauna">alligator</ecda:food>, for it was poisonous. However,
      I was obstinate, and found the taste of the flesh,
      when broiled with <ecda:food>pepper and salt</ecda:food>, and assisted by
-     an <ecda:food>onion sauce</ecda:food>, by no means to be despised; but
+     an <ecda:food ana="#fauna">onion sauce</ecda:food>, by no means to be despised; but
      the consistence of the meat was disagreeable, being
-     as tough as a piece of <ecda:food>eel-skin</ecda:food>. Perhaps any body
+     as tough as a piece of <ecda:food ana="#fauna">eel-skin</ecda:food>. Perhaps any body
      who wishes to eat alligator stakes in perfection,
      ought to keep them for two or three days before
      dressing them; or the animal's age might be in fault,
@@ -6868,7 +6868,7 @@
      or three morsels; but <ecda:anonPers>a person</ecda:anonPers> who was dining
      <pb n="204"/>
      <fw type="pageNum">196</fw>
-     with me ate a whole <ecda:food>steak</ecda:food>, and pronounced the
+     with me ate a whole <ecda:food ana="#fauna">steak</ecda:food>, and pronounced the
      dish to be a very good one. The <ecda:food>eggs</ecda:food> are said to
      be very palatable; nor have the negroes who live
      near morasses, the same objection with those of
@@ -7055,8 +7055,8 @@
        —<said rend="quotes">A little <ecda:commodity ana="#textile #use">coat</ecda:commodity>! For what?</said>—<said rend="quotes"><distinct type="dialect">Massa, please,
        for wear when me go down to <placeName>the Bay</placeName></distinct></said>—<said rend="quotes">And
        why should you wear a little <ecda:commodity ana="#textile #use">coat</ecda:commodity> when you go 
-       to <placeName>the Bay</placeName></said>—<said rend="quotes"><distinct type="dialect">Massa, please, make me look eerie
-       <!-- (buckish) how to indicate this is not direct speech? linked <said>s? --> when me go abroad</distinct>.</said> So I assured him
+       to <placeName>the Bay</placeName></said>—<said rend="quotes"><distinct type="dialect">Massa, please, make me look <distinct type="dialect">eerie</distinct>
+       <gloss>(buckish)</gloss>when me go abroad</distinct>.</said> So I assured him
        that he looked quite <distinct type="dialect" rend="italic">eerie</distinct> enough already; and
        that, as I was going away too soon to admit of my
        seeing him in his little <ecda:commodity ana="#textile #use">coat</ecda:commodity>, there could not be
@@ -7115,7 +7115,7 @@
       evening my<rs type="persGroup">negro boys</rs> are set to hunt them, and
       they kill them by dozens on the chairs and sofas, in
       the covers of my books, and among the leaves in
-      my <ecda:food>fruit</ecda:food>-baskets. Yesterday I wanted to send
+      my <ecda:food ana="#flora">fruit</ecda:food>-baskets. Yesterday I wanted to send
       away a note in a great hurry, snatched up a <ecda:food>wafer</ecda:food>,
       and was on the point of putting it into my mouth,
       when I felt it move, and found it to be a <ecda:fauna>cock-
@@ -7445,10 +7445,10 @@
      each other; and the seeds of the very finest <ecda:flora>mango</ecda:flora>
      (although sown and cultivated with the utmost
      care) seldom affording any thing at all like the
-     parent stock. The two first <ecda:food>mangoes</ecda:food> which I tasted
+     parent stock. The two first <ecda:food ana="#flora">mangoes</ecda:food> which I tasted
      were nothing but turpentine and <ecda:food>sugar</ecda:food>; the third
      was very delicious; and yet I was told that it was 
-     by no means of a superior quality. The <ecda:flora><distinct rend="italic" type="agricultural">sweet</distinct> 
+     by no means of a superior quality. The <ecda:flora ana="#flora"><distinct rend="italic" type="agricultural">sweet</distinct> 
      cassava</ecda:flora> requires no preparation; the <ecda:flora><distinct type="agricultural" rend="italic">bitter</distinct> cassava</ecda:flora>,
      unless the <ecda:food>juice</ecda:food> is carefully pressed out of it, is a
      deadly poison; there is a third kind, called the <ecda:flora><distinct rend="italic" type="agricultural">sweet-
@@ -7492,40 +7492,40 @@
    leaves, and the wild fantastic wreathings of their
    roots and branches. As to the kitchen, nothing
    can be larger and finer in appearance than the
-   <ecda:food>poultry</ecda:food> of all kinds, but nothing can be uniformly
+   <ecda:food ana="#fauna">poultry</ecda:food> of all kinds, but nothing can be uniformly
    more tough and tasteless; and the same is the case
-   with all <ecda:food>butcher's meat</ecda:food>, <ecda:food>pork</ecda:food> excepted, which is
+   with all <ecda:food ana="#fauna">butcher's meat</ecda:food>, <ecda:food ana="#fauna">pork</ecda:food> excepted, which is
    much better here than in <placeName>Europe</placeName>. The fault is in
-   the climate, which prevents any <ecda:food>animal food</ecda:food> from
+   the climate, which prevents any <ecda:food ana="#fauna">animal food</ecda:food> from
    <pb n="222"/>
    <fw type="pageNum">214</fw>
    being kept sufficiently long to become tender; so
    that when a man sits down to a <rs type="properAdjective">Jamaica</rs> <ecda:food>dinner</ecda:food>, he
    might almost fancy himself a guest at <persName ref="macbeth_0001">Macbeth's</persName>
-   <rs type="properAdjective">Covent-Garden</rs> baquet, where the <ecda:food>fouls</ecda:food>, <ecda:food>hams</ecda:food>,
-   and <ecda:food>legs of mutton</ecda:food> are all made of deal boards. I
-   ordered a <ecda:food>duck</ecda:food> to be kept for two days; but it was
+   <rs type="properAdjective">Covent-Garden</rs> baquet, where the <ecda:food ana="#fauna">fowls</ecda:food>, <ecda:food ana="#fauna">hams</ecda:food>,
+   and <ecda:food ana="#fauna">legs of mutton</ecda:food> are all made of deal boards. I
+   ordered a <ecda:food ana="#fauna">duck</ecda:food> to be kept for two days; but it was
    so completely spoiled, that there was no bearing it 
    upon the table. Then I tried the expidient of 
-   boiling a <ecda:food>fowl</ecda:food> til it absolutely fell to pieces; but
+   boiling a <ecda:food ana="#fauna">fowl</ecda:food> til it absolutely fell to pieces; but
    even this violent process had not the power of 
    rendering it tender. The only effect produced by
    it was, that instead of being helped to a wing of
    solid wood, I got a plateful of splinters. Perhaps, 
    my having totally lost my appetite (probably from
    my not being able to take, in this climate, sufficient
-   of my usual exercise) makes the <ecda:food>meat</ecda:food> appear to me
+   of my usual exercise) makes the <ecda:food ana="#fauna">meat</ecda:food> appear to me
    less palatable than it may to others; but I have
    observed, that most people here prefer living upon
    <ecda:food>soups</ecda:food>, <ecda:food>stews</ecda:food>, and <ecda:food>salted provisions</ecda:food>. For my own
    part, I have for the last few weeks eaten nothing
-   except <ecda:food>black crabs</ecda:food>, than which I never met with a
+   except <ecda:food ana="#fauna">black crabs</ecda:food>, than which I never met with a
    more delicous article for the table. I have also 
-   tried the <ecda:food rend="italic"><mcr>soldier</mcr> soup</ecda:food>, which is in great estimation
+   tried the <ecda:food rend="italic" ana="#fauna"><mcr>soldier</mcr> soup</ecda:food>, which is in great estimation
    in <rs type="place">this island</rs>; but although it greatly resembled
-   the very richest <ecda:food>cray-fish soup</ecda:food>, it seemed to be
-   composed of <ecda:food>cray-fish</ecda:food> which had been kept too
-   long. The <ecda:fauna rend="italic">soldiers</ecda:fauna> themselves were perfectly fresh,
+   the very richest <ecda:food ana="#fauna">cray-fish soup</ecda:food>, it seemed to be
+   composed of <ecda:food ana="#fauna">cray-fish</ecda:food> which had been kept too
+   long. The <ecda:fauna ana="#fauna" rend="italic">soldiers</ecda:fauna> themselves were perfectly fresh,
    for they were brought to the kitchen quite alive
    and merry; but I was told that this taste of 
    staleness is their peculiar flavour, as well as their 
@@ -7533,7 +7533,7 @@
    <fw type="pageNum">215</fw>
    peculiar scent even when alive, and is precisely
    the quality which forms their recommendation. It
-   was quite enough to fix my opinion of the <ecda:food>soup</ecda:food>:
+   was quite enough to fix my opinion of the <ecda:food ana="#fauna">soup</ecda:food>:
    I ate two spoonfuls, and never mean to venture on
    a third. 
   </p>
@@ -7943,7 +7943,7 @@
     discovered by <ecda:anonPers>the overseer</ecda:anonPers> of <placeName>Lyndhurst Penn</placeName> (a
     <name>Frenchman</name> from <placeName>St. Domingo</placeName>) observing an uncommon
     concourse of <rs type="persGroup">stranger negroes</rs> to a <ecda:anonPers>child's</ecda:anonPers> 
-    funeral, on which occasion a <ecda:food>hog</ecda:food> was roasted by
+    funeral, on which occasion a <ecda:food ana="#fauna">hog</ecda:food> was roasted by
     the <ecda:anonPers>father</ecda:anonPers>. He stole softly down to the feasting
     hut, and listened behind a hedge to the conversation
     of the <rs type="persGroup">supposed mourners</rs>; when he heard
@@ -8249,7 +8249,7 @@
      their not being entirely selfish. When they heard
      that the boat was come to convey my baggage to
      the ship at <placeName>Black River</placeName>, they collected all their
-     <ecda:food>poultry</ecda:food>, and brought it to <ecda:anonPers>my agent</ecda:anonPers>, desiring him
+     <ecda:food ana="#fauna">poultry</ecda:food>, and brought it to <ecda:anonPers>my agent</ecda:anonPers>, desiring him
      to add it to my <ecda:commodity ana="#food #transport">sea-stores</ecda:commodity>. Of course I refused to
      let them be received, and they were evidently much 
      disappointed, till I consented to accept the <ecda:fauna>fowls</ecda:fauna>
@@ -8337,7 +8337,7 @@
     not produce upon hersel and the infant.</said>   
  </p>
   <p>After the christening there was a general distribution 
-     of <ecda:food>salt-fish</ecda:food> by <ecda:anonPers>the trustee</ecda:anonPers>; and I also gave
+     of <ecda:food ana="#fauna">salt-fish</ecda:food> by <ecda:anonPers>the trustee</ecda:anonPers>; and I also gave
      <rs type="persGroup">every man and woman</rs> <measure ana="#currency">half a dollar</measure> each, and <rs type="persGroup">every
      child</rs> a <distinct type="dialect"><measure ana="#currency">maccarony</measure></distinct> (<measure ana="#currency">fifteen pence</measure>) as a parting present,
      to show them that I parted with them in good 
@@ -8420,7 +8420,7 @@
         my husband! my father!</quote> <said rend="quotes"><distinct type="dialect">You no my massa,
         you my tata</distinct>!</said> said <ecda:anonPers>one old woman</ecda:anonPers> (upon which
         <ecda:anonPers>another</ecda:anonPers> wishing to go a step beyond her, added, 
-        <said rend="quotes"><distinct type="dialect">Iss, massa, iss! it was you</distinct></said>; 
+        <said rend="quotes"><distinct type="dialect">Iss, massa, iss! it was you</distinct></said>;* * * * * * * 
         and when I came down the steps to depart, they
         crowded about me, kissing my feet, and clasping
         my knees, so that it was with difficulty that I could
@@ -8437,23 +8437,23 @@
      </p>
      <p>To fill up my list of <rs type="properAdjective">Jamaica</rs> delicacies, I must
         not forget to mention, that I did my best to procure
-        a <ecda:food>Cane-piece Cat</ecda:food> roasted in the true <rs type="properAdjective">African</rs>
+        a <ecda:food ana="#fauna">Cane-piece Cat</ecda:food> roasted in the true <rs type="properAdjective">African</rs>
         fashion. The <rs type="persGroup"><rs type="properAdjective">Creole</rs> negroes</rs>, however, greatly
         disapproved of my venturing upon this dish, which
         they positively denied having tasted themselves;
-        and when, at length, the <ecda:food>Cat</ecda:food> was procured, last
+        and when, at length, the <ecda:food ana="#fauna">Cat</ecda:food> was procured, last
         Saturday, instead of plainly boiling it with <ecda:food>negro-
         pepper</ecda:food> and <ecda:food>salt</ecda:food>, they made it into a high seasoned
-        <ecda:food>stew</ecda:food>, which rendered it impossible to judge of its
+        <ecda:food ana="#fauna">stew</ecda:food>, which rendered it impossible to judge of its
         real flavour. However, I tasted it, as did also
         several other people, and we were unanimous in
         opinion, that it might have been mistaken for a 
-        very good <ecda:food>game-soup</ecda:food>, and that, when properly
-        dressed, a <ecda:food>Cane-piece Cat</ecda:food> must be excellent food.
+        very good <ecda:food ana="#fauna">game-soup</ecda:food>, and that, when properly
+        dressed, a <ecda:food ana="#fauna">Cane-piece Cat</ecda:food> must be excellent food.
      </p>
      <p>One of the best vegetable productions of <rs type="place">the
-        island</rs> is estimated to be the <ecda:flora>Avogada pear</ecda:flora>, sometimes
-        called <distinct type="scientific" rend="quotes"><ecda:flora>the vegetable marrow</ecda:flora></distinct>. It was 
+        island</rs> is estimated to be the <ecda:flora ana="#food">Avogada pear</ecda:flora>, sometimes
+        called <distinct type="scientific" rend="quotes"><ecda:flora ana="#food">the vegetable marrow</ecda:flora></distinct>. It was 
         not the proper season for them, and with great
         difficulty I procured a couple, which were said to
         be by no means in a state of perfection. Such as
@@ -8461,8 +8461,8 @@
         they were to be eaten cold with <ecda:food>pepper</ecda:food> and <ecda:food>salt</ecda:food>, and 
         <pb n="250"/>
         <fw type="pageNum">242</fw>
-        seemed to be an insipid kind of <ecda:food>melon</ecda:food>, with no 
-        other resemblance to <ecda:food>marrow</ecda:food> than their softness. 
+        seemed to be an insipid kind of <ecda:food ana="#flora">melon</ecda:food>, with no 
+        other resemblance to <ecda:food ana="#flora">marrow</ecda:food> than their softness. 
      </p>
   </div>
   <div type="entry">
@@ -8766,7 +8766,7 @@
      <p>Two or three years ago, <rs type="person" ref="#boyes_0001">our captain</rs>, while his
         vessel was lying in <placeName>Black River Bay</placeName>, for the purpose
         of loading, was informed by <rs type="persGroup">his sailors</rs>, that 
-        their <ecda:food>beef</ecda:food> and other <ecda:commodity ana="#food #transport">provisions</ecda:commodity> frequently disappeared
+        their <ecda:food ana="#fauna">beef</ecda:food> and other <ecda:commodity ana="#food #transport">provisions</ecda:commodity> frequently disappeared
         in a very unaccountable manner. However,
         by setting up a strict watch during the night,
         he soon managed to clear up the mystery: and <ecda:anonPers>a
@@ -8798,7 +8798,7 @@
      <p>The <ecda:anonPers>old steward</ecda:anonPers>, this morning, told one of the
         sailors, who complained of being ill, that he would
         get well as soon as he should reach <placeName>England</placeName>, and
-        could have plenty of <ecda:food>vegetables</ecda:food>; <said rend="quotes">for,</said> he said,
+        could have plenty of <ecda:food ana="#flora">vegetables</ecda:food>; <said rend="quotes">for,</said> he said,
         <said rend="quotes">the man had only got a <distinct rend="italic" type="dialect">stomachick</distinct> complaint;
         nothing but just scurvy!</said>
      </p>
@@ -8911,7 +8911,7 @@
          A negro riddle: <quote rend="quotes"><persName ref="#miss_nancy_0001">Pretty Miss Nancy</persName>
          was going to market, and she tore her fine yellow
          gown, and there was not a taylor in all the town
-         who could mend it again.</quote> This is a ripe <ecda:food>plantain</ecda:food>
+         who could mend it again.</quote> This is a ripe <ecda:food ana="#flora">plantain</ecda:food>
          with a broken skin. <rs type="persGroup">The Negroes</rs> are also
          very fond of what they call <title ref="#anansi_stories">Nancy stories</title>, part of 
          which is related and part sung. The heroine of
@@ -8947,7 +8947,7 @@
             <distinct rend="quotes" type="dialect">taking up the sing</distinct>. 
             <quote source="#mamma_luna">
                   <lg type="song">
-                     <l><said rend="prequotes" xml:id="s024" next="#s025"><distinct type="dialect">If da me eat <persName ref="#mamma_luna_0001">Mamma Luna's</persName> <ecda:food>pease-O</ecda:food></distinct>,</said></l>
+                     <l><said rend="prequotes" xml:id="s024" next="#s025"><distinct type="dialect">If da me eat <persName ref="#mamma_luna_0001">Mamma Luna's</persName> <ecda:food ana="#flora">pease-O</ecda:food></distinct>,</said></l>
                      <l><said rend="postquotes" xml:id="s025" prev="#s024"><distinct type="dialect">Drowny me water, drowny, drowny</distinct>!</said></l>
                   </lg>
             </quote>
@@ -8955,7 +8955,7 @@
             <said rend="quotes"><distinct type="dialect">me sure now you the thief! me see the water wet
             you feet. Come back now, my neger, come back</distinct>.</said>
             Still on when <ecda:anonPers>the woman</ecda:anonPers>, and still continued her song of
-            <quote rend="quotes"><said><distinct type="dialect">If da me eat <persName ref="#mamma_luna_0001">Mamma Luna's</persName> <ecda:food>pease</ecda:food>, &amp;c.</distinct></said></quote>
+            <quote rend="quotes"><said><distinct type="dialect">If da me eat <persName ref="#mamma_luna_0001">Mamma Luna's</persName> <ecda:food ana="#flora">pease</ecda:food>, &amp;c.</distinct></said></quote>
         <pb n="264"/>
         <fw type="pageNum">255</fw>
             <said rend="quotes"><distinct type="dialect">My neger, my neger</distinct>,</said> repeated <persName ref="#mamma_luna">Mammy Luna</persName>,
@@ -9006,12 +9006,12 @@
                made her best courtesy—<said rend="quotes"><distinct type="dialect">How day, grannie</distinct>!</said>
                <said rend="quotes"><distinct type="dialect">how day, my picaniny; what matter, you no
                look well</distinct>?</said> <said rend="quotes"><distinct type="dialect">Grannie, me lilly hungry</distinct>.</said> <said rend="quotes"><distinct type="dialect">My
-               picaniny, you see that hut, there's <ecda:food>rice</ecda:food> in the pot,
+               picaniny, you see that hut, there's <ecda:food ana="#flora">rice</ecda:food> in the pot,
                take it and yam-yamme; but if you see one <ecda:fauna>black
                puss</ecda:fauna>, mind you give him him share</distinct>.</said> The <ecda:anonPers>child</ecda:anonPers>
                hastened to profit by the permission; the <quote rend="quotes"><ecda:fauna>one
                black puss</ecda:fauna></quote> failed not to make its appearance, and
-               was served first to its portion of <ecda:food>rice</ecda:food>, after which
+               was served first to its portion of <ecda:food ana="#flora">rice</ecda:food>, after which
                it departed; and the <ecda:anonPers>child</ecda:anonPers> had but just finished her
                meal, when the <ecda:anonPers>mistress of the hut</ecda:anonPers> entered, and 
                told her that she might help herself to three <ecda:food>eggs</ecda:food> out
@@ -9040,7 +9040,7 @@
                whole <ecda:commodity ana="#use">large sugar estate</ecda:commodity>; and out of the third a
                <ecda:commodity ana="#use">splendid equipage</ecda:commodity>, in which she returned to her
                <ecda:anonPers>aunt</ecda:anonPers>, delivered up the <ecda:commodity ana="#use">jug</ecda:commodity>, related that an <ecda:anonPers>old
-               woman</ecda:anonPers> in a red <distinct type="dialect">docker</distinct> (i.e. <ecda:commodity ana="#textile #use">petticoat</ecda:commodity>) had made 
+               woman</ecda:anonPers> in a red <distinct type="dialect">docker</distinct> <gloss>(i.e. <ecda:commodity ana="#textile #use">petticoat</ecda:commodity>)</gloss> had made 
                her a great lady, and then departed in triumph to
                her <ecda:commodity ana="#use">sugar estate</ecda:commodity>. Stung by envy, the <ecda:anonPers>aunt</ecda:anonPers> lost no
                time in sending her own <ecda:anonPers>daughter</ecda:anonPers> to search for the
@@ -9066,7 +9066,7 @@
                that the old woman had not only got her head on,
                but had a red docker besides, she could not prevail
                on herself to say more than a short <said rend="quotes"><distinct type="dialect">How day</distinct>?</said>
-               without calling her <quote rend="quotes">grannie</quote> <note>[Among negroes
+               without calling her <quote rend="quotes">grannie</quote> <note type="inline">[Among negroes
                it is almost tantamount to an affront to address by
                the name, without affixing some term of relationship,
                such as <distinct type="mentioned" rend="quotes">grannie</distinct>, or <distinct type="mentioned" rend="quotes">uncle</distinct>, or <distinct type="mentioned" rend="quotes">cousin</distinct>. My
@@ -9074,7 +9074,7 @@
                <said rend="quotes" direct="false"><persName ref="#duke_of_sully_0001">Uncle Sully</persName> wanted to speak to <distinct type="dialect">massa</distinct>.</said> <said rend="quotes">Why, is
                <persName ref="#duke_of_sully_0001">Sully</persName> your uncle, <persName ref="#george_0001">George</persName>?</said> <said rend="quotes"><distinct type="dialect">No, massa; me only
                call him so for honour</distinct>.</said>]</note> However, she received
-               the permission to eat <ecda:food>rice</ecda:food> at the cottage, coupled
+               the permission to eat <ecda:food ana="#flora">rice</ecda:food> at the cottage, coupled
                with the injunction of giving share to the <ecda:fauna>black
                puss</ecda:fauna>; an injunction, however, which she totally 
                disregarded, although she scrupled not to assure
@@ -9206,7 +9206,7 @@
              </lg>
        <lg>
           <head><persName ref="#zayde_0001">Zayde</persName> and <persName ref="#zayda">Zayda</persName>.</head>
-          <note rend="italic">(From <title xml:lang="es">Las Guerras Civiles de Granada</title></note>
+          <note type="inline" rend="italic">(From <title xml:lang="es">Las Guerras Civiles de Granada</title></note>
           <lg>
              <l>Lo! beneath yon haughty towers,</l>
              <l>Where the young and gallant <persName ref="#zayde_0001">Zayde</persName></l>
@@ -9371,7 +9371,7 @@
              <l>From <placeName>Goa's</placeName> precious sands to <placeName>Lisbon's</placeName> shore,</l>
              <l>The viceroy's countless wealth that vessel bore:</l>
              <l>In heaps there <ecda:commodity ana="#transport">jewels</ecda:commodity> lay of various dyes,</l>
-             <l><ecda:commodity ana="#use">Ingots of gold</ecda:commodity>, and <ecda:commodity ana="#transport">pearls</ecda:commodity> of wondrous size</l>
+             <l><ecda:commodity ana="#transport">Ingots of gold</ecda:commodity>, and <ecda:commodity ana="#transport">pearls</ecda:commodity> of wondrous size</l>
              <l>And there (two gems worth all that <persName>Cortez</persName> won)</l>
              <l>He placed his angel niece and only son.</l>
              <l><persName ref="#sebastian_0001">Sebastian</persName> sought the Moors! With loyal zeal</l>
@@ -9412,7 +9412,7 @@
             <l><said prev="s061" xml:id="s062" next="s063">How bold those mossy cliffs, which guard the strand,</said></l>
             <l><said prev="s062" xml:id="s063" next="s064">Like spires, and domes, and towers in fairy-land!</said></l>
             <l><said prev="s063" xml:id="s064" next="s065">How green the plains! how balsam-fraught the breeze!</said></l>
-            <l><said prev="s064" xml:id="s065" next="s066">How bend with golden <ecda:food>fruit</ecda:food> the loaded <ecda:flora>trees</ecda:flora>;</said></l>
+            <l><said prev="s064" xml:id="s065" next="s066">How bend with golden <ecda:food ana="#flora">fruit</ecda:food> the loaded <ecda:flora>trees</ecda:flora>;</said></l>
             <l><said prev="s065" xml:id="s066" next="s067">While, fluttering midst their boughs in joyful notes,</said></l>
             <l><said prev="s066" xml:id="s067" next="s068">Myriads of <ecda:fauna>birds</ecda:fauna> attune their warbling throats!</said></l>
             <l><said prev="s067" xml:id="s068" next="s069">Blooms all the ground with <ecda:flora>flowers</ecda:flora>! and mark, oh! mark</said></l>
@@ -9515,48 +9515,98 @@
                 <l>Mark too that deathlike stillness, deep and dread!</l>
                 <l>And hark!—from yon black cloud an awful voice</l>
                 <l>Pours the wild chaunt, and bids the winds rejoice!</l>
-                
-                <lg>
-                   <l></l>  
-                   <l></l>
-                   <l></l>
-                   <l></l>
-                   <l></l>   
-                   
-                </lg>
-                
-                <l></l>
-                <l></l>
-                <l></l>
-                <l></l>  
-                <l></l>
-                <l></l>
-                <l></l>
-                <l></l>
-                <l></l>
-                <l></l> 
              </lg>
-          </lg>
-        
+       <lg>
+          <head>Song of the <name>Tempest-Fiend</name>.</head>
+
+          <lg>
+             <l>I marked her!—the pennants, how gaily they streamed!—</l>
+             <l>How well was she armed for resistance!</l>
+             <l>The waves that sustained her, how brightly they beamed</l>  
+             <l>In the sun's setting rays, and the sailors all seemed</l>
+             <l>To forget the storm-spirit's existence.</l>  
+          </lg>  
+          <lg>
+             <l>But I marked her!—and now from the clouds I descend!</l>
+             <l>My spells to the billows I mutter!</l>
+             <l>I clap my black pinions! my wand I extend,</l>  
+             <l>In darkness the sky and the ocean to belnd,</l>
+             <l>And the winds mark the charms which I utter.</l>  
+          </lg>  
+          <lg>
+             <l>Now more and more rapid in eddies I whirl,</l>
+             <l>In my voice while the thunder-clap rumbles:</l>
+             <l>And now the white mountainous waves, as they curl,</l>  
+             <l>I joy o'er the deck of the vessel to hurl,</l>
+             <l>And laugh, as she tosses and tumbles.</l>  
+          </lg>  
+          <lg>
+             <l>The crew is alarmed; but the tempest prevails,</l>
+             <l>No care from my fury delivers!</l>
+             <l>Ere there's time for their furling the canvass, the sails</l>  
+             <l>From the top to the bottom I split with my nails,</l>
+             <l>And they stream in the blast, rent in shivers!</l>  
+          </lg>  
+          <lg>
+             <l>The sky and the ocean, fierce battle they wage;</l>
+             <l>The elements all are in action!</l>
+             <l>No sailor the storm longer hopes to assuage:</l>  
+             <l>What clamours, what hurry, what oaths, and what rage!</l>
+             <l>Oh, brave! what despair, what distraction!</l>  
+          </lg>  
+          <lg>
+             <l>Their heart-strings, they ache, while my ravage they view;</l>
+             <l>Each knee 'gainst its fellows is knocking!</l>
+             <l>My eyes, darting lightnings to dazzle the crew</l>  
+             <l>Burn and blaze; and those lightnings so forked and so blue</l>
+             <l>Make the darkness of midnight more shocking.</l>  
+          </lg>  
+          <lg>
+             <l></l>
+             <l></l>
+             <l></l>  
+             <l></l>
+             <l></l>  
+          </lg>  
+          <lg>
+             <l></l>
+             <l></l>
+             <l></l>  
+             <l></l>
+             <l></l>  
+          </lg>  
+          <lg>
+             <l></l>
+             <l></l>
+             <l></l>  
+             <l></l>
+             <l></l>  
+          </lg>  
+          <lg>
+             <l></l>
+             <l></l>
+             <l></l>  
+             <l></l>
+             <l></l>  
+          </lg>  
+          <lg>
+             <l></l>
+             <l></l>
+             <l></l>  
+             <l></l>
+             <l></l>  
+          </lg>  
+          <lg>
+             <l></l>
+             <l></l>
+             <l></l>  
+             <l></l>
+             <l></l>  
+          </lg>  
           
-          <l></l>
-          <l></l>
-          <l></l>  
-          <l></l>
-          <l></l>
-          <l></l>
-          <l></l>  
-          <l></l>
-          <l></l>
-          <l></l>
-          <l></l>
-          <l></l>
-          <l></l>
-          <l></l>
-          <l></l>
-          <l></l>  
-          <l></l>
-          <l></l>
+       </lg>     
+     </lg>
+        
           
        </lg>
     </div>  
