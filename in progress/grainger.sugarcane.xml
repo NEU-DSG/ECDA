@@ -92,7 +92,7 @@
                  transported the Cane to the <placeName><unclear>Azores</unclear></placeName>, the <placeName>Madeiras</placeName>, the <placeName>Canary</placeName> and the <placeName>Cape-Verd
                  islands</placeName>, soon after they had been discovered in the fifteenth century and in most of
                  these, particularly <placeName>Madeira</placeName>, it throve exceedingly. Weather the Cane is a native
-                 of either the <placeName>Great</placeName> or <placeName>Lesser Antilles</placeName> cannot now be determined for their discoverers
+                 of either the <placeName>Great</placeName> or <placeName><seg xml:id="er001" corresp="#ec001">Lesser</seg> Antilles</placeName> cannot now be determined for their discoverers
                  were so wholly employed in searching after imaginary gold-mines, that they took
                  little or no notice of the natural productions. Indeed the wars, wherein they wantonly
                  engaged themselves with the natives, was another hindrance to physical investigation.
@@ -810,7 +810,7 @@
                  <geogName>Red-Sea</geogName> were taught the use of it by the <name>Persians</name>, say authors, in the fifteenth century;
                  and the coffee-shrub was gradually introduced into Arabia Felix, whence
                  it passed into <placeName>Egypt</placeName>, <placeName>Syria</placeName>, and lastly <placeName>Constantinople</placeName>. The <name>Turks</name>, though so
-                 excessively fond of coffee, have not known it much above eighty years; whereas
+                 excessively fond of coffee, have not known it much above <seg xml:id="er004" corresp="#ec004">eighty</seg> years; whereas
                  the <name>English</name> have been acquainted therewith for upwards of an hundred, one
                  
                  <!-- insert pb info here -->
@@ -1396,100 +1396,286 @@
               </p>
            </note>
            <note xml:id="n105" target="#a105">
-              <p><label>Ver. 137.</label> <ref>cherries,]</ref></p>
+              <p><label>Ver. 137.</label> <ref>cherries,]</ref> The tree which produces this wholesome fruit is tall, shady,
+                 and of quick growth. Its <rs type="properAdjective">Indian</rs> name is <distinct type="dialect">Acajou</distinct>; hence corruptly called <distinct type="dialect" xml:lang="en">Cashew</distinct> by
+                 
+                 <!-- insert pb info here -->
+                 
+                 the <name>English</name>. The fruit has no resemblance to a cherry, either in shape or size; and
+                 bears, at its lower extremity, a nut (which the <name>Spaniards</name> name <distinct type="dialect" xml:lang="es">Anacardo</distinct>, and physicians
+                 <distinct type="scientific">Anacardium</distinct>) that resembles a large kidney-bean. Its kernel is as grateful as
+                 an almond, and more easy of digestion. Between its rhinds is contained a highly
+                 caustic oil; which, being held to a candle, emits bright salient sparkes, in which
+                 the <rs type="properAdjective">American</rs> fortune-tellers pretend they saw spirits who gave answers to whatever
+                 questions were put tothem by their ignorant followers. This oil is used as a cosmetic
+                 by the ladies to remove freckles and sun-burning; but the pain they necessarily 
+                 suffer makes its use not very frequent. The tree also produces a gum not inferior to
+                 Gum-Arabic; and its bark is an approved astringent. The juice of the cherry stains
+                 exceedingly. The long citron, or amber-coloured, is the best. The cashew-nuts,
+                 when unripe, are of a green colour. But, ripe, they assume that of a pale olive.
+                 This tree bears fruit but onc a year.
+              </p>
            </note>
            <note xml:id="n106" target="#a106">
-              <p><label>Ver. 163</label> <ref>the conch]</ref></p>
+              <p><label>Ver. 163</label> <ref>the conch]</ref> Plantations that have no bells, assemble their <rs type="persGroup">Negroes</rs> by
+                 sounding a conch-shell
+              </p>
            </note>
            <note xml:id="n107" target="#a107">
-              <p><label>Ver. 181</label> <ref>rocky Drave,]</ref></p>
+              <p><label>Ver. 181</label> <ref>rocky Drave,]</ref> A river in <placeName>Hungary</placeName>, on whose banks are found mines
+                 of quicksilver.
+              </p>
            </note>
            <note xml:id="n108" target="#a108">
-              <p><label>Ver. 257.</label> <ref>winged insects]</ref></p>
+              <p><label>Ver. 257.</label> <ref>winged insects]</ref> These, by the <name>English</name>, are called <distinct type="dialect" xml:lang="en">Chigoes</distinct> or <distinct type="dialect" xml:lang="en">Chigres</distinct>.
+                 They chiefly perforate the toes, and sometimes the fingers; occasioning an itching,
+                 which some people think is not unpleasing, and are at pains to get, by going to 
+                 the copper-holes, or mill-round, where chigres most about. They lay their nits in a
+                 bag, about the size of a small pea, and are partly contained therein themselves.
+                 This the <rs type="persGroup">Negroes</rs> extract without bursting, by means of a needle, and filling up the
+                 place with a little snuff; it soon heals, if the person has a good constitution. One
+                 species of them is supposed to be poisonous; but, I believe, unjustly. When they
+                 bury themselves near a tendon, especially if the person is in a bad habit of body, they
+                 occasion some troublesome sores. The <name>South-Americans</name> call them <distinct type="dialect">Migues</distinct>.
+              </p>
            </note>
            <note xml:id="n109" target="#109">
-              <p><label>Ver. 268.</label> <ref>niccars]</ref></p>
+              <p><label>Ver. 268.</label> <ref>niccars]</ref> The botanical name of this medicinal shrub is <distinct type="scientific">Guilaudina</distinct>.
+                 The fruit resembles marbles, though not so round. Their shell is hard and smooth,
+                 and contains a farinaceous nut, of admirable use in seminal weaknesses. They are
+                 also given to throw out the yaws.
+              </p>
            </note>
            <note xml:id="n110" target="#a110">
-              <p><label>Ver. 309</label> <ref>Cow-itch]</ref></p>
+              <p><label>Ver. 309</label> <ref>Cow-itch]</ref> See notes in Book II.</p>
            </note>
            <note xml:id="n111" target="#a111">
-              <p><label>Ver. 317</label> <ref>The mineral product of the Cornish mine]</ref></p>
+              <p><label>Ver. 317</label> <ref>The mineral product of the Cornish mine]</ref> Tin-fillings are a better
+                 vermifuge than tin in powder. The western parts of <placeName>Britain</placeName>, and the neighbouring
+                 isles, have been famous for this useful metal from the remotest antiquity; for we find
+                 from <persName>Strabo</persName>, that the Phænicians made frequent voyages to those parts (which they
+                 called <distinct type="dialect">Cassiterides</distinct> from <!-- check greek --> stannum) in quest of that commodity, which turned
+                 out so beneficial to them, that a pilot of that nation stranded his vessel, rather
+                 that show a <rs type="properAdjective">Roman</rs> ship, that watched him the way to those mines. For this
+                 public spirited action he was amply rewarded, says that accurate writer, upon his return
+                 to his country. The <name>Romans</name>, however, soon made themselves masters of the
+                 secret, and shared with them in the profit of that merchandize.
+              </p>
            </note>
            <note xml:id="n112" target="#a112">
-              <p><label>Ver. 370.</label> <ref>snake-mark'd]</ref></p>
+              <p><label>Ver. 370.</label> <ref>snake-mark'd]</ref> The negro-conjurers, or <name ana="#religion">Obia-men</name>, as they are
+                 called, carry about them a staff, which is marked with frogs, snakes &amp;c. The
+                 
+                 <!-- insert pb info here -->
+                 
+                 blacks imagine that its blow, if not mortal, will at least occasion long and troublesome
+                 disorders. A belief in magic is inseparable from human nature, but those nations
+                 are most addicted thereto, among whom learning, and of course, philosophy have
+                 least obtained. As in all other countries, so in <placeName>Guinea</placeName>, the conjurers, as they have
+                 more understanding, so are they almost always more wicked than the common herd
+                 of their deluded countrymen; and as the <rs type="persGroup">negroe-magicians</rs> can do mischief, so they
+                 can also do good on a plantation, provided they are kept by the white people in
+                 proper subordination.
+              </p>
            </note>
            <note xml:id="n113" target="#a113">
-              <p><label>Ver. 410.</label> <ref>broom-brush]</ref></p>
+              <p><label>Ver. 410.</label> <ref>broom-brush]</ref> This small plant, which grows in every pasture, may, with
+                 propriety, be termed an <rs type="properAdjective">American</rs> clock; for it begins every forenoon at eleven
+                 to open its yellow flowers, which about one are fully expanded, and at two
+                 closed. The jalap, or marvel of <placeName>Peru</placeName>, unfolds its petals between five and six in the
+                 evening, which shut again as soon as night comes on, to open again in the cool of
+                 the morning. This plant is called <!-- <distinct type="dialect">four o'clock</distinct> --> by the natives, and bears either a yellow
+                 or purple-coloured flower.
+              </p>
            </note>
            <note xml:id="n114" target="#a114">
-              <p><label>Ver. 415.</label> <ref>solanum]</ref></p>
+              <p><label>Ver. 415.</label> <ref>solanum]</ref> So some authors name the fire-weed, which grows every where,
+                 and is the <distinct type="dialect">datura</distinct> of <persName>Linnæus</persName>; whose virtues <persName>Dr. Stork</persName>, at <placeName>Vienna</placeName>, has greatly
+                 extolled in a late publication. It bears a white monopetalous flower, which opens always
+                 about sun-set.
+              </p>
            </note>
            <note xml:id="n115" target="#a115">
-              <p><label>Ver. 449.</label> <ref>cassada]</ref></p>
+              <p><label>Ver. 449.</label> <ref>cassada]</ref> To an antient <name>Carribean</name>, bemoaning the savage uncomfortable
+                 life of his country, a deity clad in white apparel appeared, and told him, he would
+                 have come sooner to have taught him the ways of civil life, had he been addressed
+                 before. He then showed him sharp-cutting stones to fell trees and build houses; and
+                 bade him cover them with palm leaves. Then he broke his staff in three; which,
+                 being planted, soon after produced the cassada. See <bibl><author><persName>Ogilvy's</persName></author> <title>America</title></bibl>.
+              </p>
            </note>
            <note xml:id="n116" target="#a116">
-              <p><label>Ver. 454.</label> <ref>angola]</ref></p>
+              <p><label>Ver. 454.</label> <ref>angola]</ref>This is called <distinct type="dialect" xml:id="en">Pidgeon-pea</distinct>, and grows on a sturdy shrub, that
+                 will last for years. It is justly reckoned amond the most wholesome legumens.
+                 The juice of the leaves, dropt into the eye, will remove incipient films. The botanic
+                 name is <distinct type="scientific">Citisus</distinct>.
+              </p>
            </note>
            <note xml:id="n117" target="#a117">
-              <p><label>Ver. 456.</label> <ref>bonavist]</ref></p>
+              <p><label>Ver. 456.</label> <ref>bonavist]</ref> This is the <rs type="properAdjective">Spanish</rs> name of a plant, which produces an excellent
+                 bean. It is a parasitical plant. There are five sorts of bonavist, the green, the white, the
+                 
+                 <!-- insert pb info here -->
+                 
+                 moon-shine, the small or common; and, lastly, the black and red. The flowers of
+                 all are white and papilionaceous; except the last, whose blossoms are purple. They 
+                 commonly bear in six weaks. Their pulse is wholesome, thou somewhat flatulent;
+                 especially those from the black and red. The pods are flattish, two are three inches
+                 long; and contain from three to five seeds in partitional cells.
+              </p>
            </note>
            <note xml:id="n118" target="#a118">
-              <p><label>Ver. 457.</label> <ref>Ochra]</ref></p>
+              <p><label>Ver. 457.</label> <ref>Ochra]</ref>Or <distinct type="dialect">Ockro</distinct>. This shrub, which will last for years, produces a
+                 not less agreeable, that wholesome pod. it bears all the year round. Being of
+                 a slimy and balsamic nature, it becomes a truly medicinal aliment in dysenteric complaints.
+                 It is of the <distinct type="scientific">Malva</distinct> species. It rises to about four or five feet high, bearing,
+                 on and near the summit, many yellow flowers; suceeded by green, conic,
+                 fleshy pods, channelled into several groves. There are as many cells filled 
+                 with small round seed, as there are channels.
+              </p>
            </note>
            <note xml:id="n119" target="#a119">
-              <p><label>Ver. 459.</label> <ref>potatos]</ref></p>
+              <p><label>Ver. 459.</label> <ref>potatos]</ref> I cannot positively say, whether these vines are of <rs type="properAdjective">Indian</rs>
+                 original or not; but as in their fructification, they differ from potatos at home, they
+                 probably are not <rs type="properAdjective">European</rs>. They are sweet. There are four kinds, the red, the
+                 white, the long, and round: The juice of each may be made into a pleasant cool
+                 drink; and, being distilled, yield an excellent spirit.
+              </p>
            </note>
            <note xml:id="n120" target="#a120">
-              <p><label>Ver. 461.</label><ref>eddas]</ref></p>
+              <p><label>Ver. 461.</label><ref>eddas]</ref> See notes on Book I. The French call this plant <distinct type="dialect" xml:lang="fr">Lavoye</distinct>.
+                 It produces eatable roots every four months, for one year only.
+              </p>
            </note>
            <note xml:id="n121" target="#a121">
-              <p><label>Ver. 462.</label> <ref>Indian cale]</ref></p>
+              <p><label>Ver. 462.</label> <ref>Indian cale]</ref> This green, which is native of the New World, equals
+                 any of the greens in the Old.
+              </p>
            </note>
            <note xml:id="n122" target="#a122">
-              <p><label>Ver. 462.</label> <ref>calaloo]</ref></p>
+              <p><label>Ver. 462.</label> <ref>calaloo]</ref> Another species of <rs type="properAdjective">Indian</rs> pot herb, no less wholesome than the
+                 preceding. These, with mezamby, and the <rs type="properAdjective">Jamaica</rs> prickle-weed, yield to no
+                 esculent plants in <placeName>Europe</placeName>. This is an <rs type="properAdjective">Indian</rs> name.
+              </p>
            </note>
            <note xml:id="n123" target="#a123">
-              <p><label>Ver. 466.</label> <ref>the shapely tree]</ref></p>
+              <p><label>Ver. 466.</label> <ref>the shapely tree]</ref> The orange tree.</p>
            </note>
            <note xml:id="n124" target="#a124">
-              <p><label>Ver. 478.</label> <ref>thy mother nam'd</ref></p>
+              <p><label>Ver. 478.</label> <ref>thy mother nam'd</ref> See Book I. p. 43.</p>
            </note>
            <note xml:id="n125" target="#a124">
-              <p><label>Ver. 502.</label> <ref>mammey]</ref></p>
+              <p><label>Ver. 502.</label> <ref>mammey]</ref> This is a lofty, shady, and beautiful tree. Its fruit is as large
+                 as the largest melon, and of an exquisite smell, greatly superior to it in point of taste.
+                 Within the fruit are contained one or two large stones, which when distilled, give
+                 to spirits a ratasia flavour, and therefore the <rs type="properAdjective">French</rs> call them <distinct type="dialect" xml:lang="fr">Les apricot de <placeName>St.
+                 Domingue</placeName></distinct>: accordingly, the <distinct type="dialect" xml:lang="fr">l'eau des noiaux</distinct>, one of the best <rs type="properAdjective">West-Indian</rs> cordials, is made
+                 from them. The fruit, eaten raw, is of an aperient quality; and made into sweet-meets
+                 
+                 <!-- insert pb info here -->
+                 
+                 &amp;c. is truly exquisite. This tree, contrary to most others in the New World shoots
+                 up to a pyramidal figure: the leaves are uncommonly green; and it produces fruit, but
+                 once a year. The name is <rs type="properAdjective">Indian</rs>. The <rs type="properAdjective">English</rs> commonly call it <distinct type="dialect" xml:lang="en">Mammey-sapota</distinct>.
+                 There are two species of it, the sweet, and the tart. The botanical name is <distinct type="scientific">Achras</distinct>.
+              </p>
            </note>
            <note xml:id="n126" target="#a126">
-              <p><label>Ver. 509.</label> <ref>tamarind]</ref></p>
+              <p><label>Ver. 509.</label> <ref>tamarind]</ref> See Book. I. p. 44.</p>
            </note>
            <note xml:id="n127" target="#a127">
-              <p><label>Ver. 513.</label> <ref>cassia,]</ref></p>
+              <p><label>Ver. 513.</label> <ref>cassia,]</ref> Both this tree and its mild purgative pulp are sufficiently known.</p>
            </note>
            <note xml:id="n128" target="#a128">
-              <p><label>Ver. 523.</label> <ref>palmeto,]</ref></p>
+              <p><label>Ver. 523.</label> <ref>palmeto,]</ref> This being the most beautiful of palms, nay, perhaps, superior 
+                 to any other known tree in the world, has with propriety obtained the name
+                 of <distinct>Royal</distinct>. The botanical name is <distinct type="scientific">Palma Maxima</distinct>. It will shoot up perpendicularly
+                 to an hundred foot and more. The stem is perfectly circular; only towards the 
+                 root, and immediately under the branches at top, it bulges out. The bark is smooth,
+                 and of an ash-brown colour, except at the top where it is green. It grows very fast,
+                 and the seed from whence it springs is not bigger than an acorn. In this, as in all
+                 the palm-genus, what the native call <distinct type="dialect">Cabbage</distinct> is found; but it resembles in taste
+                 an almond, and is in fact the pith of the upper, or greenish part of the
+                 stem. But it owuld be the most unpardonable luxury to cut down so lovely a tree,
+                 for so mean a gratification; especially as the wild, or mountain cabbage tree, sufficiently
+                 supplies the table with that esculent. I never ride past the charming vista
+                 of royal palms on the <placeName>Caon-estate</placeName> of <persName>Daniel Mathew</persName>, Esq.; in <placeName>St. Christopher</placeName>,
+                 without being put in mind of the pillars of the Temple of the Sun at <placeName>Palmyra</placeName>. This
+                 tree grows on the tops of hills, as well as in valleys; its hard cortical part makes
+                 very durable <unclear reason="obscured">laths</unclear> for houses. There is a smaller species not quite so beautiful.
+              </p>
            </note>
            <note xml:id="n129" target="#a129">
-              <p><label>Ver. 534.</label> <ref>anata,]</ref></p>
+              <p><label>Ver. 534.</label> <ref>anata,]</ref> Or <distinct>Annotto</distinct>, or <distinct>Arnotta</distinct>; thence corruptly called <distinct type="dialect" xml:lang="en"> Indian Otter</distinct>,
+                 by the <name>Enlgish</name>. The tree is about the size of an ordinary apple tree. The <name>French</name>
+                 call it <distinct type="dialect" xml:lang="fr">Rocou</distinct>; and send the farina home as a paint, &amp;c. for which purpose the tree is
+                 cultivated by them in their islands. The flower is pentapetalous, fo a bluish and
+                 spoon like appearance. The yellow filaments are tipped with purplish spices. The
+                 style proves the rudiment of the succeeding pod, which is of a conic shape, an inch
+                 and a half long. This is divided into many cells, which contain a great number of
+                 small seeds, covered with a red farina.
+              </p>
            </note>
            <note xml:id="n130" target="#a130">
-              <p><label>Ver. 543.</label> <ref>granadilla]</ref></p>
+              <p><label>Ver. 543.</label> <ref>granadilla]</ref> This is the <rs type="properAdjective">Spanish</rs> name, and is a species of the <distinct type="scientific">passiflora</distinct>,
+                 or passion-flower, called by <persName>Linnæus</persName> <distinct type="scientific">Musa</distinct>. The seeds and pulp, through which
+                 the seeds are dispersed, are cooling, and grateful to the palate. This, as well as
+                 the water-lemon, bell-apple, or honeysuckle, as it is named, being parasitical plants,
+                 are easily formed tino cooling arbors, that which nothing can be more grateful in
+                 warm climates. Both fruits are wholesome. The granadilla is commonly eat with
+                 sugar, on account of its tartness, and yet the pulp is viscid. <persName>Plumier</persName> calls it <distinct type="scientific" xml:lang="la">Granadilla,
+                 latefolia, fructu maliformi</distinct>, It grows best in shady places. The unripe fruit makes an 
+                 excellent pickle.
+              </p>
            </note>
            <note xml:id="n131" target="#a131">
-              <p><label>Ver. 563.</label> <ref>bay-grape]</ref></p>
+              <p><label>Ver. 563.</label> <ref>bay-grape]</ref> Or sea-side grape, as it is more commonly called. This
+                 is a large, crooked, and shady tree, (the leaves being broad, thick, and almost
+                 
+                 <!-- insert pb info here -->
+                 
+                 circular;) and succeeds best in sandy places. It bears large clusters of grapes once a
+                 year; which, when ripe, are not disagreeable. The stones, seeds, or <distinct>acini</distinct>, contained
+                 in them, are large in proportion; and being reduced to a powder, are an excellent
+                 astringent. The bark of the tree has the same property. The grapes, steept 
+                 in water and fermented with sugar, make an agreeable wine.
+              </p>
            </note>
            <note xml:id="n132" target="#a132">
-              <p><label>Ver. 567.</label> <ref>Indian millet]</ref></p>
+              <p><label>Ver. 567.</label> <ref>Indian millet]</ref> Or maise. This is commonly called <distinct type="dialect">Guinea-corn</distinct>, to
+                 distinguish it from the great or Indian-corn, that grows in the souther parts of 
+                 <placeName>North America</placeName>. It soon shoots up to a great height, often twenty feet high, and
+                 will ratoon like the other; but its blades are not so nourishing to horses as those of
+                 the great corn, although its seeds are more so, and rather more agreeable to the
+                 taste. The Indians, Negroes, and poor white people, make many (not unsavoury)
+                 dishes with them. It is also called <distinct type="dialect">Turkey wheat</distinct>. The turpentine tree will also grow
+                 in the sand, and is most useful upon a plantation.
+              </p>
            </note>
            <note xml:id="n133" target="#a133">
-              <p><label>Ver. 584.</label> <ref>banshaw]</ref></p>
+              <p><label>Ver. 584.</label> <ref>banshaw]</ref> This is a sort of rude guitar, invented by the Negroes.
+                 It produces a wild pleasing melancholy sound.
+              </p>
            </note>
            <note xml:id="n134" target="#134">
-              <p><label>Ver. 611.</label> <ref>prickly vine]</ref></p>
+              <p><label>Ver. 611.</label> <ref>prickly vine]</ref> This beautiful white <gap extent="1word"/> flower is as large as the
+                 crown of one's hat, and only blows at midnight. The plant, which is prickly
+                 and attaches itself firmly to the sides of houses, trees, &amp;c. produces a healthy fruit,
+                 which some call <distinct type="dialect">Wythe Apple</distinct>, and other with more propriety, <distinct type="dialect">Mountain strawberry</distinct>.
+                 But though it resemples the large Chili-strawberry in looks and size; yet being inelegant
+                 of taste, it is seldom eaten. The botanical name is <distinct type="scientific">Cereus scandens minor</distinct>.
+                 The rind of the fruit is here and there studded with tufts of small sharp prickles.
+              </p>
            </note>
            <note xml:id="n135" target="#a135">
-              <p><label>Ver. 613</label> <ref>candle-weed]</ref></p>
+              <p><label>Ver. 613</label> <ref>candle-weed]</ref> This shrub, which produces a yellow flower somewhat
+                 resembling a narcissus, makes a beautiful hedge, and blows about November. It
+                 grows wild every where. <!--It is said to be diuretic, but this I do not know from
+                 experience.-->
+              </p>
            </note>
            <note xml:id="n136" target="#a136">
-              <p><label>Ver. 638.</label> <ref>no Plata,]</ref></p>
+              <p><label>Ver. 638.</label> <ref>no Plata,]</ref> One of the largest rivers in <placeName>South America</placeName>.</p>
            </note>
         </ecda:notes>
      </ecda:hyperDiv>
@@ -1789,7 +1975,7 @@
                </lg>
                <lg>
                   <l>Shall the Muse celebrate the dark deep mould,</l>
-                  <l>With clay or gravel mix'd?—This soil the Cane</l>
+                  <l>With <seg xml:id="er002" corresp="#ec002">clay</seg> or gravel mix'd?—This soil the Cane</l>
                   <l>With partial fondness loves; and oft surveys</l>
                   <l>Its progeny with wonder.—Such rich veins</l>
                   <l>Are plenteous scatter'd o'er the <!-- Sugar-isles -->:</l>
@@ -1884,7 +2070,7 @@
                
                <lg>
                   <l>Planter, if thou with wonder wouldst survey</l>
-                  <l>Redundant harvests, load thy willing soil;</l>
+                  <l>Redundant <seg xml:id="er003" corresp="#ec003">harvests,</seg> load thy willing soil;</l>
                   <l>Let sun and rain mature thy deep=hoed land,</l>
                   <l>And old fat dung co-operate with these.</l>
                   <l>Be this great truth still present to thy mind;</l>
@@ -5073,6 +5259,386 @@
            </div>
            <trailer>The End of Book IV.</trailer>
         </div>
-      </body>    
+      </body> 
+      <back>
+         <div type="index"> <!-- do we care about columns? -->
+            <list>
+               <head>A.</head>
+               <item>Acajou, a tree, p. 8, 131.</item>
+               <item>Acassee, p. 36.</item>
+               <item>Africk, p. 125.</item>
+               <item>Anguilla, p. 120.</item>
+               <item>Antigua, praise of, p. 98.</item>
+               <item>Anatto, p. 152.</item>
+               <item>Anana, p. 31.</item>
+               <item>Alligator, p. 57.</item>
+               <item>Ausonia, p. 79.</item>
+               <item>Atlantic ocean, p. 100.</item>
+               <item>Avaro, a character, p. 112.</item>
+               <item>Avocato pear-tree, p. 8.</item>
+               <item>Avon, p. 107.</item>
+               <item>Arrow, what, p. 17.</item>
+               <item>Annan, p. 95.</item>
+               <item>Aurelius, p. 4.</item>
+               <item>Arsenic, p. 58.</item>
+               <item>Amyntor, p. 25.</item>
+               <item>Albion, p. 143.</item>
+               <item>Attic land, p. 141.</item>
+               <item>Asia's king, p. 141.</item>
+               <item>Ants, p. 66.</item>
+               <item>Antillé isles, p. 16</item>
+               <item>Angola pea, p. 148.</item>
+               <item>Apple, blest, p. 61.</item>
+            </list>
+            <list>
+               <head>B.</head>
+               <item>Barbadoes-island, praise of, p.15.</item>
+               <item>Barbuda-sland, p. 120.</item>
+               <item>Bonavist, p. 148.</item>
+               <item>Bermudas, islands of, p. 109.</item>
+               <item>Blight, or blast, p. 65.</item>
+               <item>Burr, what, p. 71.</item>
+               <item>Bird, tropic, p. 82.</item>
+               <item>Boneta-fish, p. 81.</item>
+               <item>Bristol, p. 107.</item>
+               <item>Broom-bush, p. 146.</item>
+               <item>Banana, a tree, p. 156</item>
+               <item>Barbecue, p. 113.</item>
+               <item>Biscay, bay of, p. 80.</item>
+               <item>Belgium, p. 79.</item>
+               <item>Banshaw, Negro-instrument of musick, p. 157.</item>
+               <item>Banian-tree, p. 14.</item>
+               <item>Bay-grape tree, p. 155.</item>
+            </list>
+            <list>
+               <head>C.</head>
+               <item>Cedar-tree, p. 6.</item>
+               <item>Cassia-tree, p. 7.</item>
+               <item>Ceiba, large tree, p. 7.</item>
+               <item>Cassada-shrub, p. 41.</item>
+               <item>Cotton-shrub, p. 42.</item>
+               <item>Cacao-tree, p. 42.</item>
+               <item>Coffee-shrub, p. 43.</item>
+               
+               <!-- insert pb info here -->
+               
+               <item>Carnation, Spanish-shrub, p. 36.</item>
+               <item>Chickweed, p. 61.</item>
+               <item>Crabs, land, p. 27.</item>
+               <item>Cockroach, insect, p. 26.</item>
+               <item>Cathäy, p. 68.</item>
+               <item>Cormantee Negroes, p. 129.</item>
+               <item>Chigres, small insect, p. 138.</item>
+               <item>Chirimoya, fruit, p. 152.</item>
+               <item>Congo Negroes, p. 127.</item>
+               <item>Congaw Negroes, p. 130.</item>
+               <item>Crickets, p. 146.</item>
+               <item>Cherry, p. 131.</item>
+               <item>Calm, effects of a, p. 73.</item>
+               <item>Cowitch, p. 60.</item>
+               <item>Cochinille, p. 64.</item>
+               <item>Coco-nut tree, p. 77.</item>
+               <item>China-shrub, p. 88.</item>
+               <item>Calpe, p. 114.</item>
+               <item>Cambria, p. 120.</item>
+               <item>Cooler, what, p. 108.</item>
+               <item>Cane, p. 3</item>
+               <item>Cane, dumb, p. 106.</item>
+               <item>Calaloo, p. 149.</item>
+               <item>Charente, a river, p. 80.</item>
+               <item>Calaba, large tree, p. 99.</item>
+               <item>Condor, a large bird, p. 46.</item>
+               <item>Coco-shrub, p. 42.</item>
+               <item>Cassiterides, p. 141.</item>
+               <item>Conch, p. 133.</item>
+               <item>Columbus, praise of, p. 12.</item>
+               <item>Cale, Indian, p. 149.</item>
+            </list>
+            <list>
+               <head>D.</head>
+               <item>Dyer, praise of, p. 3.</item>
+               <item>Dolphin, p. 81.</item>
+               <item>Drave, river, p. 134.</item>
+               <item>Dorchestria, p. 20.</item>
+               <item>Dove, mountain, p. 60.</item>
+               <item>Dioscoria, a vine, p. 20.</item>
+               <item>Death, yellow, p. 40.</item>
+            </list>
+            <list>
+               <head>E.</head>
+               <item>Edda, an esculent root, p. 41.</item>
+               <item>Ebbo Negroes, p. 57.</item>
+               <item>Eagle, white, p. 131.</item>
+               <item>Eton, p. 76.</item>
+               <item>Enna, p. 142</item>
+            </list>
+            <list>
+               <head>F.</head>
+               <item>Fruit, forbidden, p. 8.</item>
+               <item>Fire-fly, p. 46.</item>
+               <item>Fly, yellow, p. 63.</item>
+               <item>Fly, sand, p. 25.</item>
+               <item>Fig, Indian, large tree, p. 14.</item>
+               <item>Fishes, winged, p. 81.</item>
+               <item>Fern-tree, p. 29.</item>
+            </list>
+            <list>
+               <head>G.</head>
+               <item>Guava-tree, p. 7.</item>
+               <item>Guaiac-tree, p. 7.</item>
+               
+               <!-- insert pb info here -->
+               
+               <item>Guayaquil river, p. 57.</item>
+               <item>Gold-coast Negroes, p. 128.</item>
+               <item>Guinea-worm, p. 137.</item>
+               <item>Gallinazo, a bird, p. 57.</item>
+               <item>Granadilla, a vine, p. 154.</item>
+               <item>Grape, a sea-side tree, p. 155.</item>
+               <item>Greece, p. 79.</item>
+               <item>Ginger-root, p. 42.</item>
+               <item>Grampian hills, p. 36.</item>
+               <item>Guilandina, shrub, p. 138.</item>
+            </list>
+            <list>
+               <head>H.</head>
+               <item>Humming-bird, p. 37.</item>
+               <item>Hurricane described, p. 69.</item>
+               <item>Hesperia, p. 79.</item>
+               <item>Hiccory, large tree, p. 99.</item>
+               <item>Helen, p. 97.</item>
+               <item>Hura, a tree, p. 115.</item>
+            </list>
+            <list>
+               <head>I.</head>
+               <item>Ibbo Negroes, p. 57.</item>
+               <item>Jumbee beeds, p. 38.</item>
+               <item>Jamaica, praise of, p. 12.</item>
+               <item>Iërne, p. 147.</item>
+               <item>Jamaica plumb-tree, p. 66.</item>
+               <item>Jalap, p. 146.</item>
+               <item>Indus river, p. 136.</item>
+               <item>Jew-fish, p. 119.</item>
+               <item>Junio, tale of, p. 76.</item>
+               <item>Isis, p. 79.</item>
+               <item>Indian-fig, shrub, p. 64.</item>
+               <item>Johnson, Mr. S., praise of, p. 114.</item>
+            </list>
+            <list>
+               <head>K.</head>
+               <item>Karukera island, p. 102.</item>
+            </list>
+            <list>
+               <head>L.</head>
+               <item>Lennox, Mrs. praise of, p. 114.</item>
+               <item>Locust, large tree, p. 6.</item>
+               <item>Logwood-tree, p. 35.</item>
+               <item>Lizard, p. 26.</item>
+               <item>Labat, Pere, p. 96.</item>
+               <item>Lemon-tree, p. 31.</item>
+               <item>Lime-tree, p. 31.</item>
+               <item>Lime-marble, p. 107.</item>
+               <item>Liamuiga island, p. 18.</item>
+               <item>Liquorice, wild, a vine, p. 38.</item>
+               <item>Leprosy, p. 132.</item>
+               <item>Lybia, p. 126.</item>
+               <item>Lusitania, p. 143.</item>
+               <item>Lincoln, p. 94.</item>
+            </list>
+            <list>
+               <head>M.</head>
+               <item>Maro, praise of, p. 3.</item>
+               <item>Mounserrat island, praise of, p. 15.</item>
+               <item>Madre de Cacao, a tree, p. 43.</item>
+               <item>Monkey, p. 55.</item>
+               <item>Mosquito, p. 25.</item>
+               <item>Mundingo Negroes, p. 130.</item>
+               <item>Minnah Negroes, p. 130.</item>
+               <item>Moco Negroes, p. 130.</item>
+               <item>Muscovado, what, p. 6.</item>
+               <item>Melon, p. 151.</item>
+               <item>Montano, a character, p. 40.</item>
+               
+               <!-- insert pb info here -->
+               
+               <item>Melasses, p. 111.</item>
+               <item>Mangrove-tree, p. 57.</item>
+               <item>Markley-hill, p. 18.</item>
+               <item>Mill-points, what, p. 70.</item>
+               <item>Mammey-tree, p. 151.</item>
+               <item>Magosse, what, p. 91.</item>
+               <item>Matanina island, p. 102.</item>
+               <item>Maize, p. 156.</item>
+               <item>Marne-river, p. 144.</item>
+               <item>Millet, Indian, p. 156.</item>
+               <item>Myrtle, p. 39.</item>
+               <item>Migua, p. 138.</item>
+               <item>Mastic, a large tree, p. 99.</item>
+               <item>Melvil, General, praise of, p. 126.</item>
+               <item>Mungoes, p. 59.</item>
+            </list>
+            <list>
+               <head>N.</head>
+               <item>Newfoundland, p. 147.</item>
+               <item>Nevis island, praise of, p. 15.</item>
+               <item>Nightshade, p. 59.</item>
+               <item>Nautilus, p. 81</item>
+               <item>Niger-river, p. 125.</item>
+               <item>Niccars, a shrub, p. 138.</item>
+            </list>
+            <list>
+               <head>O.</head>
+               <item>Obia, Negro-magic, p. 144.</item>
+               <item>Obia-men, p. 144.</item>
+               <item>Orange-tree, p. 31.</item>
+               <item>Ochra-shrub, p. 149.</item>
+               <item>Rhine-river, p.120.</item>
+               <item>Opuntia-shrub, p. 64.</item>
+            </list>
+            <list>
+               <head>P.</head>
+               <item>Papaw Negroes, p. 130.</item>
+               <item>Palæmon, p. 91.</item>
+               <item>Papaw-tree, p. 125.</item>
+               <item>Papaya-tree, p. 125.</item>
+               <item>Philips, praise of, p. 3.</item>
+               <item>Pine-apple, p. 31.</item>
+               <item>Panspan-tree, p. 116.</item>
+               <item>Plantane-tree, p. 31.</item>
+               <item>Palmeto, p. 72.</item>
+               <item>Potatos, p. 149.</item>
+               <item>Pensilvania, p. 147.</item>
+               <item>Porto Sancto island, p. 80.</item>
+               <item>Po, name of a ship, p. 80.</item>
+               <item>Polydamna, p. 97.</item>
+               <item>Passiflora, a vine, p. 154.</item>
+               <item>Prickly pear, shrub, p. 37.</item>
+               <item>Physic nut, shrub, p. 35.</item>
+               <item>Percy, praise of, p. 78.</item>
+               <item>Privet shrub, p. 36.</item>
+            </list>
+            <list>
+               <head>Q.</head>
+               <item>Quanza River, p. 130.</item>
+            </list>
+            <list>
+               <head>R.</head>
+               <item>Ricinus, p. 35.</item>
+               <item>Rats, p. 56.</item>
+               <item>Rey-river, p. 128.</item>
+               <item>Rocou, p. 152.</item>
+               <item>Rum, p. 113.</item>
+               <item>Rhubarb, p. 62.</item>
+               <item>Rio-grande river, p. 125</item>
+               <item>Rhine river, p. 120.</item>
+               <item>Raleigh, Sir Walter, p. 100.</item>
+               <item>Romney, Lord, praise of, p. 102.</item>
+            </list>
+            <list>
+               <head>S.</head>
+               <item>Sabbaca, a tree, p. 8.</item>
+               <item>Sugar, p. 3.</item>
+               
+               <!-- insert pb info here -->
+               
+               <item>Soursop-tree, p. 42.</item>
+               <item>Solanum-plant, p. 146.</item>
+               <item>St. Christopher, island, praise of, p. 9.</item>
+               <item>Senega-river, p. 125.</item>
+               <item>Smart, praise of, p. 3.</item>
+               <item>Sommerville, praise of, p. 3.</item>
+               <item>Snakes, p. 57.</item>
+               <item>Season, what. p. 65.</item>
+               <item>Stocks, what, p. 70.</item>
+               <item>Solfaterre, what. p. 74.</item>
+               <item>Sapadilla-tree, p. 78.</item>
+               <item>Shark, p. 81.</item>
+               <item>Skimmings, sugar, use of, p. 113.</item>
+               <item>Scotia, p. 120.</item>
+               <item>Shaddock, p. 8.</item>
+               <item>Semprevive, a vegetable, p. 131.</item>
+               <item>Sabrina, a river, p. 108.</item>
+               <item>Shakespear, praise of, p. 54.</item>
+               <item>Shenstone, praise of, p. 54.</item>
+               <item>Sheen, p. 78.</item>
+               <item>Sensitive plant, p. 61.</item>
+               <item>Spain, p. 142.</item>
+            </list>
+            <list>
+               <head>T.</head>
+               <item>Tanies, a root, p. 41.</item>
+               <item>Tamarind-tree, p. 44.</item>
+               <item>Thames, praise of, p. 115.</item>
+               <item>Temper, p. 18.</item>
+               <item>Turtle, p. 119.</item>
+               <item>Tops, gemmy, p. 22.</item>
+               <item>Tyrtæus, p. 119.</item>
+               <item>Tille, a river, p. 114.</item>
+               <item>Tobago island, p. 99.</item>
+               <item>Thone, p. 97.</item>
+               <item>Tobacco, p. 42.</item>
+               <item>Turpentine-tree, p. 139.</item>
+               <item>Thistle, yellow, p. 60.</item>
+               <item>Townshend, the Honourable General, praise of, p. 119.</item>
+               <item>Theana, tale of, p. 76.</item>
+               <item>Tull, praise of, p. 23.</item>
+            </list>
+            <list>
+               <head>V.</head>
+               <item>Volga-river, p. 63.</item>
+               <item>Volta-river, p. 128.</item>
+               <item>Vigorna, p. 114.</item>
+               <item>Vine, prickly, p. 158.</item>
+               <item>Venus of Medici, p. 79.</item>
+               <item>Virginia, p. 100.</item>
+               <item>Virgin-isles, p. 66.</item>
+               <item>Vervain-plant, p. 63.</item>
+            </list>
+            <list>
+               <head>W.</head>
+               <item>Wind-trade, p. 67.</item>
+               <item>Worms, p. 60.</item>
+               <item>Wolfe, General, praise, of, p. 64.</item>
+               <item>Whitehead, praise of, p. 109.</item>
+               <item>Waller, praise of, p. 109.</item>
+               <item>White, praise of, p. 114.</item>
+               <item>Water-lemon, p. 155.</item>
+            </list>
+            <list>
+               <head>Y.</head>
+               <item>Yaws, p. 138.</item>
+               <item>Yams, p. 20.</item>
+            </list>
+            <list>
+               <head>Z.</head>
+               <item>Zaire-river, p. 127.</item>
+               <item>Zumbadore-bird, p. 46.</item>
+            </list>
+         </div>
+         <div type="corrigenda">
+            <list type="errata">
+               <head rend="allcaps">Errata</head>
+               <item>Page 5, in note, for <hi>lesser</hi> read <ref type="err" rend="italic" xml:id="ec001" target="#er001">less</ref>.</item>
+               <item>Page 14, line, 128, for <hi>elay</hi> read <ref type="err" rend="italic" xml:id="ec002" target="#er002">clay</ref>.</item>
+               <item>Page 19, dele <hi>comma</hi> after <ref type="err" rend="italic" xml:id="ec003" target="#er003">harvests</ref>.</item>
+               <item>Page 43, note on ver. 606, for <hi>eighty</hi> read <ref type="err" rend="italic" xml:id="ec004" target="#er004">one hundred and fifty</ref>.</item>
+               <item>Page 61, line 129, for <hi>eoily</hi> read <ref type="err" rend="italic" xml:id="ec005" target="#er005">coily</ref>.</item>
+               <item>Page 81, line 500, for <hi>sky</hi> read <ref type="err" rend="italic" xml:id="ec006" target="#er006">air</ref>.</item>
+               <item>Page 81, for lines 505 and 506, read
+                     <lg>
+                        <l><ref type="err" rend="italic" xml:id="ec007a" target="#er007a">The fring'd urtica spreads her purple form</ref></l>
+                        <l><ref type="err" rend="italic" xml:id="ec007b" target="#er007b">To catch the gale, and dances o'er the skies</ref></l>
+                     </lg>
+               </item>
+               <item>Ibid. in the notes, for <hi>nautilus</hi> read <ref type="err" rend="italic" xml:id="ec008" target="#er008">uritca</ref>.</item>
+               <item>Page 100, line 252, for <hi>thro'</hi> read <ref type="err" rend="italic" xml:id="ec009" target="#er009"></ref></item>
+               <item>Page 102, line 285, the same.</item>
+               <item>Page 110, line 425, for <hi>weighed</hi> read <ref type="err" rend="italic" xml:id="ec010" target="#er010">weigh'd</ref>.</item>
+               <item>Page 128, line 58, for <hi>art</hi> read <ref type="err" rend="italic" xml:id="ec011" target="#er011">want</ref>.</item>
+               <item>Page 132, in note, for <hi>rhinds</hi> read <ref type="err" rend="italic" xml:id="ec012" target="#er012">rinds</ref>.</item>
+               <item>Page 141, in note, for <!-- greek --> read <!-- greek --></item>
+            </list>
+         </div>
+      </back>
   </text>
 </TEI>
