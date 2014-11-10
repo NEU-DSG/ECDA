@@ -5,13 +5,16 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Narrative of Joanna; An Emancipated Slave, of
+               <placeName>Surinam</placeName></title>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>Boston: Published by <persName ref="#isaac_knapp_1804">Isaac Knapp</persName>, 25
+               Cornhill. 1838</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <p>From Stedman's Narrative of a Five Year's Expedition against the Revolted Negroes of
+               Surinam.</p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
@@ -1019,7 +1022,7 @@
                <fw type="pageNum">52</fw> spent the few remaining days with
                   <persName>Joanna</persName>, in the dwelling she had so generously prepared for
                her reception, under the shad of <ecda:flora>tamarind</ecda:flora> and
-                  <ecda:flora>orange</ecda:flora> trees. The house was furnished with everything
+                  <ecda:flora>orange trees</ecda:flora>. The house was furnished with everything
                that could be desired; and <rs type="person">a negro woman</rs> and <rs type="person"
                   >girl</rs> were appointed to attend upon her. Thus situated, how blessed could I
                have been to the end of my days! But fate ordered it otherwise.</p>
@@ -1541,13 +1544,14 @@
                   known authors, among which are <persName ref="george_washington_1732">Geo.
                      Washington</persName>, <persName ref="John_Adams_1735">John Adams</persName>,
                      <persName ref="Thomas_Jefferson_1743">Thomas Jefferson</persName>,
-                     <persName>Barlow</persName>, <persName>Brougham</persName>,
-                     <persName>Channing</persName>, <persName>Franklin</persName>,
-                     <persName>Hopkins</persName>, <persName>Andrew Jackson</persName>,
-                     <persName>Milton</persName>, <persName>Pitt</persName>,
-                     <persName>Roscoe</persName>, <persName>Daniel Webster</persName>,
-                     <persName>Whitefield</persName>, &amp;c. It contains a full history of the
-                  Texan Revolution, and a large collection of facts relating to slavery.</p>
+                     <persName>Barlow</persName>, <persName ref="henry_brougham_1778"
+                     >Brougham</persName>, <persName ref="william_channing_1780"
+                  >Channing</persName>, <persName>Franklin</persName>, <persName>Hopkins</persName>,
+                     <persName>Andrew Jackson</persName>, <persName>Milton</persName>,
+                     <persName>Pitt</persName>, <persName>Roscoe</persName>, <persName>Daniel
+                     Webster</persName>, <persName>Whitefield</persName>, &amp;c. It contains a full
+                  history of the Texan Revolution, and a large collection of facts relating to
+                  slavery.</p>
                <!-- finish persnaming these authors -->
             </div>
             <div type="notice">
@@ -1630,7 +1634,48 @@
             <div type="notice">
                <head><title rend="allcaps">Phillis Wheatley</title>110 pp. 18 mo. 37 1-2.</head>
                <p>Memoir and Poems of Philis Wheatley, a native African and a slave.</p>
-               <p>The Poems were originally published in London in 1773</p>
+               <p>The Poems were originally published in <placeName>London</placeName> in
+                     <date>1773</date>. Many of them would do credit to a person of the highest
+                  advantages. It would be well to have them always at hand that we may have some
+                  conception of the amount of genius which slavery is murdering. The book has a
+                  beautiful lithographic likeness.</p>
+            </div>
+            <div type="notice">
+               <head><title rend="allcaps">Whittier's Poems</title>103 pp. 12 mo. Cloth.</head>
+               <p>Poems written during the progress of the Abolition question in the United States,
+                  between the years 1830 and 1838 , by J.G. Whitier. It is embellished with a
+                  beautiful copperplate engraving, just received from London, illustrating a verse
+                  in Cowper's Morning Dream.</p>
+            </div>
+            <pb n="069"/>
+            <fw type="pageNum">72</fw>
+            <div type="notice">
+               <head><title rend="allcaps">Thompson's Lectures and Debates</title> 190 pp. 12mo.
+                  cloth. 50.</head>
+               <p>Lectures of <persName ref="george_thompson_1804">George Thompson</persName>, with
+                  a full report of the discussion between him and Mr. Borthwick, the pro-slavery
+                  agent, held at the royal amphitheatre, <placeName>Liverpool</placeName>, (Eng.)
+                  and which continued for six evenings with unabatted interest. The book is enriched
+                  by an exceedingly interesting preface of more than 30 pages, by <persName
+                     ref="william_garrison_1805">Wm. L. Garrison</persName>, giving a brief account
+                  of Mr. Thompson's labors. The whole work gives us a vivid conception of the east
+                  and completeness with which Mr. Thompson demolished the extended rampart of
+                  slavery, erected with great effort by the hired champion of the slaveholders. The
+                  speech in which he cuts up colonization is worth the price of the book.</p>
+            </div>
+            <div type="notice">
+               <head><title rend="allcaps">Thompson in America</title>126 pp. 12 mo. boards. 37
+                  1-2</head>
+               <p>Letters and addresses by <persName ref="george_thompson_1804">George
+                     Thompson</persName>, during his mission in the United States, from Oct. 1st
+                  1834, to Nov. 27, 1835.</p>
+               <p>This book is a faint reflection of the brilliant light which flashed forth,
+                  whenever Mr. Thompson was permitted to speak. The letter from Marblehead to
+                     <persName ref="william_garrison_1805">W.L. Garrison</persName> on the occasion
+                  of the Washington st. mob, is one of the most thrilling, spirit-stirring
+                  productions which the cause of liberty ever elicited. In addition to much else
+                  which is very interesting and valuable, it contains complete and triumphant
+                  replies to Mr. Kauffman's absurd story.</p>
             </div>
          </div>
       </back>
