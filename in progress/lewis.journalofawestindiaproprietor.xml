@@ -45,6 +45,7 @@
                  <interp xml:id="production">production (non plant-based commodities)</interp>
                  <interp xml:id="transport">transport</interp>
                  <interp xml:id="sale">sale</interp>
+                 <interp xml:id="circulation">circulation of commodities, such as through gift-giving or theft</interp>
                  <interp xml:id="use">use of commodities</interp>
               </interpGrp>
               <interpGrp>
@@ -184,7 +185,7 @@
             <div type="entry">
                <opener><dateline><date when="1815-11-10">November 10</date>.</dateline></opener>
                <p>At four o'clock in the afternoon, I embarked
-                  on board the <ecda:shipName rend="quotes">Sir Godfrey Webster</ecda:shipName>, <persName ref="#boyes_0001">Captain 
+                  on board the <ecda:shipName rend="quotes"><persName ref="#godfrey_webster_1747">Sir Godfrey Webster</persName></ecda:shipName>, <persName ref="#boyes_0001">Captain 
                   Boyes</persName>. On approaching the vessel, we heard
                   <pb n="11"/>
                   <fw type="pageNum">3</fw>
@@ -247,8 +248,8 @@
                     in the vessel moored off the <placeName>Goodwin sands</placeName>: it
                     is constantly inhabited by two families, who reside
                     there alternately every fortnight, except when the
-                    weather delays the exchange. The <ecda:shipName rend="quotes">Sir Godfrey
-                    Webster</ecda:shipName> is a vessel of <measure>600 tons</measure>, and was formerly
+                    weather delays the exchange. The <ecda:shipName rend="quotes"><persName ref="#godfrey_webster_1747">Sir Godfrey
+                    Webster</persName></ecda:shipName> is a vessel of <measure>600 tons</measure>, and was formerly
                     in the <orgName>East India service</orgName>. I have a very clean
                     cabin, a place for my books, and every thing is much
                     more comfortable than I expected; the wind, however,
@@ -977,7 +978,7 @@
              </lg>
              <lg>     
                 <l>Of dark sea-blue is the mantle he wears;</l>
-                <l>For a sceptre a <ecda:flora>plantain branch</ecda:flora> he bears;</l>
+                <l>For a sceptre a <ecda:flora ana="#commodity #food">plantain branch</ecda:flora> he bears;</l>
                 <l>Pears his sable arms surround,</l>
                 <l>And his locks of wool with <ecda:fauna>coral</ecda:fauna> are crown'd</l>
              </lg>
@@ -1232,7 +1233,7 @@
     amusing himself by making the ship take root in
     the ocean; a trick which he played once before 
     to a vessel (they say) in the days of <persName ref="#ulysses_0001">Ulysses</persName>. I
-    have got some <ecda:flora>locust plants</ecda:flora> on board in pots: if 
+    have got some <ecda:flora ana="#commodity #transport">locust plants</ecda:flora> on board in pots: if 
     we continue to sail as slowly as we have done for 
     the last week, before we reach <placeName>Jamaica</placeName> my plants
     will be forest trees, little <persName ref="#jem_parsons_0001">Jem</persName>, the cabin-boy, will
@@ -1649,7 +1650,7 @@
        <measure>five hundred miles</measure>; and <placeName>Barbadoes</placeName> being to windward
         of the volcano, such immense quantities of 
         its contents were carried to that island as almost
-        covered the fields; and destroying <ecda:flora>vegetation</ecda:flora> completely
+        covered the fields; and destroying <ecda:flora ana="#commodity">vegetation</ecda:flora> completely
         wherever they fell, did inconceivable damage,
         while that which <placeName>St. Vincent's</placeName> itself experienced
         was but trifling in proportion. 
@@ -2001,7 +2002,7 @@
       satisfaction attendant upon our having overcome
       the difficulty, added something to the illusion of
       its effect; but the beauty of the atmosphere, the
-     <ecda:flora>mangroves</ecda:flora> of the liveliest green downt to the very
+     <ecda:flora>mangroves</ecda:flora> of the liveliest green down to the very
       edge of the water, and the light-coloured houses
       with their lattices and piazzas completely embowered 
       in <ecda:flora>trees</ecda:flora>, altogether made the scenery of the
@@ -2505,7 +2506,7 @@
             tree</ecda:flora> presented itself on all sides; but as this is the
             season for its shedding its leaves, its wide-spreading 
             bare white arms contributed nothing to the beauty
-            of the scene, except where the <ecda:flora>wild fig</ecda:flora> and various
+            of the scene, except where the <ecda:flora ana="#food">wild fig</ecda:flora> and various
             <ecda:flora>creeping plants</ecda:flora> had completely mantled the stems
             and branches; and then its gigantic height, and 
             the fantastic wreathings of its limbs, from which
@@ -3034,7 +3035,7 @@
             to themselves, in order that they might
             go to <rs type="place">the mountains</rs> for provisions. For although
             <rs type="place">their cottages</rs> are always surrounded with <ecda:flora>trees</ecda:flora>
-            and <ecda:flora>shrubs</ecda:flora>, their <rs type="place">provision grounds</rs> are kept quite
+            and <ecda:flora>shrubs</ecda:flora>, their <rs type="place" ana="#food #cultivation">provision grounds</rs> are kept quite
             distinct, and are at a distance among <rs type="place">the mountains</rs>.
             Of course, I made no difficulty of aceding 
             to their request, but upon condition, that they 
@@ -3154,19 +3155,19 @@
         under the <ecda:anonPers>agent's</ecda:anonPers> personal inspection (a point of
         material consequence with them all, but more particularly
         for the <rs type="place">hospital</rs>). This dead flat is only
-        ornamented with a few scattered <ecda:flora>bread-fruit</ecda:flora> and
-        <ecda:flora>cotton trees</ecda:flora>, a grove of <ecda:flora>mangoes</ecda:flora>, and the branch
+        ornamented with a few scattered <ecda:flora ana="#food">bread-fruit</ecda:flora> and
+        <ecda:flora>cotton trees</ecda:flora>, a grove of <ecda:flora ana="#food">mangoes</ecda:flora>, and the branch
         of a small river, which turns the mill. Several of
         these buildings are ugly enough; but <rs type="place">the shops of
         the <ecda:anonPers>cooper</ecda:anonPers>, <ecda:anonPers>carpenter</ecda:anonPers>, and <ecda:anonPers>blacksmith</ecda:anonPers></rs>, some of
         the trees in their vicinity, and <rs type="place">the negro-huts</rs>, embowered 
-        in <ecda:flora>shrubberies</ecda:flora>, and groves of <ecda:flora>oranges</ecda:flora>,
-        <ecda:flora>plantains</ecda:flora>, <ecda:flora>cocoas</ecda:flora>, and <ecda:flora>pepper-trees</ecda:flora>, would be
+        in <ecda:flora>shrubberies</ecda:flora>, and groves of <ecda:flora ana="#food">oranges</ecda:flora>,
+        <ecda:flora ana="#food">plantains</ecda:flora>, <ecda:flora ana="#food">cocoas</ecda:flora>, and <ecda:flora ana="#food">pepper-trees</ecda:flora>, would be
         reckoned picturesque in the most ornamented
-        grounds. A large spreading <ecda:flora>tamarind</ecda:flora> fronts me
+        grounds. A large spreading <ecda:flora ana="#food">tamarind</ecda:flora> fronts me
         at this moment, and overshadows the stables,
         which are formed of open wickerwork; and an
-        <ecda:flora>orange-tree</ecda:flora>, loaded with <ecda:food ana="#flora">fruit</ecda:food>, grows against the
+        <ecda:flora ana="#food">orange-tree</ecda:flora>, loaded with <ecda:food ana="#flora">fruit</ecda:food>, grows against the
         window at which I am writing.       
      </p>
      <p>On three sides of the landscape the prospect is
@@ -3187,11 +3188,11 @@
         filled with <ecda:fauna>ducks</ecda:fauna> and <ecda:fauna>geese</ecda:fauna>; <rs type="persGroup"> the coopers and carpenters</rs>
         are employed about the <distinct type="agricultural">puncheons</distinct>; carts 
         drawn some by six, others by eight, <ecda:fauna>oxen</ecda:fauna>, are bringing
-        loads of <ecda:flora>Indian corn</ecda:flora> from the fields; <rs type="persGroup">the black
+        loads of <ecda:flora ana="#food">Indian corn</ecda:flora> from the fields; <rs type="persGroup">the black
         children</rs> are employed in gathering it into the
         granary, and in quarreling with <ecda:fauna>pigs</ecda:fauna> as black as 
         themselves, who are equally busy in stealing the
-        <ecda:flora>corn</ecda:flora> whenever the children are looking another
+        <ecda:flora ana="#food">corn</ecda:flora> whenever the children are looking another
         way: in short, a plantation possesses all the movement
         and interest of a farm, without its dung, and
         its stench, and its dirty accompaniments.
@@ -3247,27 +3248,27 @@
        when but once distilled, it is called <ecda:commodity ana="#refining #food"><distinct type="agricultural" rend="quotes">low wine</distinct></ecda:commodity>;
        and it is not till after it has gone through a second
        distillation, that it acquires the name of <ecda:commodity ana="#refining #food">rum</ecda:commodity>. The
-       <ecda:commodity ana="#refining #flora"><distinct type="agricultural" rend="quotes">trash</distinct></ecda:commodity> used for fuel consists of the empty <ecda:flora>canes</ecda:flora>,
+       <ecda:commodity ana="#refining #flora"><distinct type="agricultural" rend="quotes">trash</distinct></ecda:commodity> used for fuel consists of the empty <ecda:flora ana="#commodity #refining">canes</ecda:flora>,
        that which is employed for fodder and for thatching
-       is furnished by the superabundant <ecda:flora>cane-tops</ecda:flora>;
+       is furnished by the superabundant <ecda:flora ana="#commodity">cane-tops</ecda:flora>;
        after so many have been set aside as are required
        for planting. After these original plants have been 
        cut, their roots throw up suckers, which, in time,
-       become <ecda:flora>canes</ecda:flora>, and are called <ecda:flora><distinct type="agricultural" rend="italic">ratoons</distinct></ecda:flora>: they are far
-       inferior in juice to the planted <ecda:flora>canes</ecda:flora>; but then, on
+       become <ecda:flora ana="#commodity #cultivation">canes</ecda:flora>, and are called <ecda:flora ana="#cultivation"><distinct type="agricultural" rend="italic">ratoons</distinct></ecda:flora>: they are far
+       inferior in juice to the planted <ecda:flora ana="#commodity #cultivation">canes</ecda:flora>; but then, on
        the other hand, they require much less weeding,
        and spare the <rs type="persGroup">negroes</rs> the only laborious part of
        the business of <ecda:commodity ana="#refining">sugar-making</ecda:commodity>, the digging holes for
-       the <ecda:flora>plants</ecda:flora>; therefore, although <measure>an acre</measure> of <ecda:flora>ratoons</ecda:flora> 
+       the <ecda:flora ana="#plant #commodity">plants</ecda:flora>; therefore, although <measure>an acre</measure> of <ecda:flora ana="#cultivation #commodity">ratoons</ecda:flora> 
        will produce but <measure>one hogshead</measure> of <ecda:commodity ana="#refining #food">sugar</ecda:commodity>, while <measure>an
-       acre</measure> of <ecda:flora>plants</ecda:flora> will produce two, the superiority of
+       acre</measure> of <ecda:flora ana="#commodity #cultivation">plants</ecda:flora> will produce two, the superiority of
        the ratooned piece is very great, inasmuch as the
        saving of time and labour will enable the proprietor
-       to cultivate <measure>five acres</measure> of <ecda:flora>ratoons</ecda:flora> in the same time
-       with one of <ecda:flora>plants</ecda:flora>. Unluckily, after three crops,
-       or five at the utmost, in general the <ecda:flora>ratoons</ecda:flora> are
+       to cultivate <measure>five acres</measure> of <ecda:flora ana="#cultivation #commodity">ratoons</ecda:flora> in the same time
+       with one of <ecda:flora ana="#cultivation #commodity">plants</ecda:flora>. Unluckily, after three crops,
+       or five at the utmost, in general the <ecda:flora ana="#commodity #harvest">ratoons</ecda:flora> are
        totally exhausted, and you are obliged to have recourse
-       to fresh <ecda:flora>plants</ecda:flora>.       
+       to fresh <ecda:flora ana="#commodity #cultivation">plants</ecda:flora>.       
       </p>
       <p>Last night a poor man, named <persName ref="#charles_0001">Charles</persName>, who had
          been coachman to <rs type="person">my uncle</rs> ages ago, was brought
@@ -3393,7 +3394,7 @@
        herself from the <ecda:fauna>hounds</ecda:fauna>, when the <ecda:fauna>fox</ecda:fauna>, with his
        thousand tricks, was caught by them. He was an 
        admirable climber, an art in which <persName ref="#plato_0001">Plato</persName> possessed
-       no skill; and a <ecda:flora>bread-nut tree</ecda:flora>, which is remarkably 
+       no skill; and a <ecda:flora ana="#food">bread-nut tree</ecda:flora>, which is remarkably 
        difficult of ascent, presenting itself before him, in
        a few moments <persName ref="#taffy_0001">Taffy</persName> was bawling for help from
        the very top of it. To reach him was impossible 
@@ -3629,7 +3630,7 @@
             his complaint were such as to make me suspect
             him of having tasted something poisonous, especially as,
             just before his first fit, he had been observed
-            in <rs type="place">the small grove</rs>of <ecda:flora>mangoes</ecda:flora> near <rs type="place">the
+            in <rs type="place">the small grove</rs>of <ecda:flora ana="#food">mangoes</ecda:flora> near <rs type="place">the
             house</rs>; but I was assured by the <rs type="persGroup">negroes</rs>, one and 
             all, that nothing could possibly have induced him
             to eat an <ecda:food ana="#flora">herb</ecda:food> or <ecda:food ana="#flora">fruit</ecda:food> from <rs type="place">that grove</rs>, as it had
@@ -3703,7 +3704,7 @@
          </p>
          <p>I am told that there is one part of their business
             very laborious, the digging holes for receiving the
-            <ecda:flora>cane-plants</ecda:flora>, and which I have not as yet seen; but
+            <ecda:flora ana="#plant #commodity">cane-plants</ecda:flora>, and which I have not as yet seen; but
             this does not occupy above a month (I believe) at
             the utmost, at two periods of the year; and on
             my estate this service is chiefly performed by extra
@@ -3728,7 +3729,7 @@
             on a platform of ebony; the building, which is
             surmounted by a statue of <name>Time</name>, with his scythe
             and hour-glass, stands in the very heart of an 
-            <ecda:flora>orange grove</ecda:flora>, now in full bearing; and the whole
+            <ecda:flora ana="#food">orange grove</ecda:flora>, now in full bearing; and the whole
             scene this morning looked so cool, so tranquil, and
             so gay, and is so perfectly divested of all vestiges 
             of dissolution, that the sight of it gave me an
@@ -3913,24 +3914,24 @@
       <fw type="pageNum">108</fw>    
            all kinds of sweet-smelling and flowering plants;
            but not such gardens as those belonging to our
-           <rs type="properAdjective">English</rs> cottages, where a few <ecda:flora>cabbages</ecda:flora> and <ecda:flora>carrots</ecda:flora>
+           <rs type="properAdjective">English</rs> cottages, where a few <ecda:flora ana="#food">cabbages</ecda:flora> and <ecda:flora ana="#food">carrots</ecda:flora>
            just peep up and grovel on the earth between
            <ecda:flora>hedges</ecda:flora>, in square narrow beds, and where the
-           tallest tree is a <ecda:flora>gooseberry bush</ecda:flora>: the <ecda:food ana="#flora">vegetables</ecda:food> of 
+           tallest tree is a <ecda:flora ana="#food">gooseberry bush</ecda:flora>: the <ecda:food ana="#flora">vegetables</ecda:food> of 
            the <rs type="persGroup">negroes</rs> are all cultivated in their <rs type="place">provision-
            grounds</rs>; these form their <mcr rend="italic">kitchen</mcr>-gardens, and
            these are all for ornament or luxury, and are filled
-           with a profusion of <ecda:flora>oranges</ecda:flora>, <ecda:flora>shaddocks</ecda:flora>, <ecda:flora>cocoa-nuts</ecda:flora>,
-           and <ecda:flora>peppers</ecda:flora> of all descriptions: in particular I
-           was shown the <ecda:flora><distinct type="agricultural">abba</distinct></ecda:flora>, or <ecda:flora>palm-tree</ecda:flora>, resembling the
-           <ecda:flora>cocoa-tree</ecda:flora>, but much more beautiful, as its leaves
+           with a profusion of <ecda:flora ana="#food">oranges</ecda:flora>, <ecda:flora ana="#food">shaddocks</ecda:flora>, <ecda:flora ana="#food">cocoa-nuts</ecda:flora>,
+           and <ecda:flora ana="#food">peppers</ecda:flora> of all descriptions: in particular I
+           was shown the <ecda:flora ana="#food"><distinct type="agricultural">abba</distinct></ecda:flora>, or <ecda:flora ana="#food">palm-tree</ecda:flora>, resembling the
+           <ecda:flora ana="#food">cocoa-tree</ecda:flora>, but much more beautiful, as its leaves
            are larger and more numerous, and, feathering to
            the ground as they grow old, they form a kind of
            natural arbour. It bears a large fruit, or rather
            vegetable, towards the top of the tree, in shape
            like the  cone of the <ecda:flora>pine</ecda:flora>, but formed of seeds,
            some scarlet and bright as <ecda:fauna>coral</ecda:fauna>, others of a
-           brownish-red or purple. The <ecda:flora>abba</ecda:flora> requires a 
+           brownish-red or purple. The <ecda:flora ana="#food">abba</ecda:flora> requires a 
            length of years to arrive at maturity: a very fine
            one, which was shown to me this morning, was supposed
            to be upwards of a an hundred years old; and
@@ -4809,10 +4810,10 @@
         breaking open <rs type="place">his house</rs>, and had begged him to 
         help him to his goods again; and <said direct="false" rend="quotes"><persName ref="#edward_0001">Edward</persName> had
         gone at midnight into the <distinct type="dialect">bush</distinct></said> (i.e. the wood), 
-        and <said rend="quotes" direct="false">had gathered the plant <ecda:flora>whangra</ecda:flora>, which he
+        and <said rend="quotes" direct="false">had gathered the plant <ecda:flora ana="#obeah">whangra</ecda:flora>, which he
         had boiled in an iron pot, by a fire of leaves, over 
         which he went <distinct type="dialect">puff, puffie</distinct>!</said> and said the <distinct type="dialect">sautee-
-        sautee</distinct>; and then had cut the <ecda:flora>whangra root</ecda:flora> into 
+        sautee</distinct>; and then had cut the <ecda:flora ana="#obeah">whangra root</ecda:flora> into 
         four pieces, three to bury at the plantation gates,
         and one to burn; and to each of those three pieces
         he gave the name of a Christian, one of which was
@@ -4877,7 +4878,7 @@
          the great God Almighty, who lives above the
          clouds,</said> that he never had used any such practices;
          that he had never gone into <rs type="place">the woods</rs> to
-         gather <ecda:flora>whangra</ecda:flora>; and that he had considered
+         gather <ecda:flora ana="#obeah">whangra</ecda:flora>; and that he had considered
          <persName ref="#pickle_0001">Pickle</persName>, from the moment of his own marriage, as his 
          brother, and had always, till then, loved him as such.
          His eyes filled with tears while he protested that
@@ -5389,7 +5390,7 @@
     in the hospital. Perhaps an <rs type="properAdjective">English</rs> physician would
     have felt every hair of his wig bristle upon his head
     with astonishment, at hearing me ask, this morning,
-    a woman in a fever, how her <ecda:flora ana="#medical">bark</ecda:flora> and her <ecda:food ana="#fauna">barbe-
+    a woman in a fever, how her <ecda:flora ana="#medical">bark</ecda:flora> and her <ecda:food ana="#fauna #medical">barbe-
     <pb n="160"/>
     <fw type="pageNum">152</fw>
     cued pig</ecda:food> had agreed with her. But, with negroes,
@@ -5645,7 +5646,7 @@
    deep precipice on the other, and bordered with a
    profusion of noble trees and <ecda:flora>flowering shrubs</ecda:flora> in
    great variety. In particular, I was struck with the 
-   picturesque appearance of some wild <ecda:flora>fig-trees</ecda:flora> of 
+   picturesque appearance of some wild <ecda:flora ana="#food">fig-trees</ecda:flora> of 
    singular size and beauty. Although there were 
    only two of us, besides <rs type="persGroup">servants</rs>, we found it necessary
    to employ seven <ecda:fauna>horses</ecda:fauna> and a couple of <ecda:fauna>mules</ecda:fauna>;
@@ -6221,7 +6222,7 @@
  <div type="entry">
     <opener><dateline><date when="1816-02-13">February 13</date>.</dateline></opener>
  <p>Two <ecda:fauna><placeName>Jamaica</placeName> nightingales</ecda:fauna> have established themselves
-    on the <ecda:flora>orange tree</ecda:flora> which grows against my
+    on the <ecda:flora ana="#food">orange tree</ecda:flora> which grows against my
     window, and their song is most beautiful. This bird
     is also called <distinct type="scientific" rend="quotes"><ecda:fauna>the mocking-bird</ecda:fauna></distinct>, from its facility
     of imitating, not only the notes of every other
@@ -7239,7 +7240,7 @@
  </p>
  <p>To sum up the whole, about three this morning
     an alarm was tiven that <ecda:anonPers>the pen-keeper</ecda:anonPers> had suffered
-    the <ecda:fauna>cattle</ecda:fauna> th get among the <ecda:flora>canes</ecda:flora>, where they might
+    the <ecda:fauna>cattle</ecda:fauna> th get among the <ecda:flora ana="#commodity #cultivation">canes</ecda:flora>, where they might
     <pb n="215"/>
     <fw type="pageNum">207</fw>
     do infinite mischief; <ecda:anonPers>the trustee</ecda:anonPers> was roused out of
@@ -7282,8 +7283,8 @@
     when it declears itself in the form of offensive
     sores, attended with extreme debility. No cure
     for it has yet been discovered: there are <rs type="persGroup">negro
-    doctors</rs>, who understand how to prepare <ecda:food>diet drinks</ecda:food>
-    from <ecda:flora>simples</ecda:flora> of the island, which moderate its
+    doctors</rs>, who understand how to prepare <ecda:food ana="#medical">diet drinks</ecda:food>
+    from <ecda:flora ana="#medical">simples</ecda:flora> of the island, which moderate its
     virulence for a time; but the disease itself is
     never entirely subdued. On the contrary, <distinct type="dialect" rend="quotes">the
     yaws</distinct>, although it defies the power of medicine,
@@ -7352,7 +7353,7 @@
           <l>Deck'd with all that youth and beauty</l>
           <l>E'er bestow'd on sable maid,</l>
           <l>Gathering blooms her fragrant duty,</l>
-          <l>Down the <ecda:flora>lime</ecda:flora>-walk <persName ref="#zoe_0001">Zoè</persName> stray'd</l>
+          <l>Down the <ecda:flora ana="#food">lime</ecda:flora>-walk <persName ref="#zoe_0001">Zoè</persName> stray'd</l>
        </lg>
        <lg>
           <l>Many a <ecda:flora>logwood</ecda:flora> brake was ringing</l>
@@ -7367,7 +7368,7 @@
           <l>Suck'd the rich ambrosial juice.</l>
        </lg>
        <lg>
-          <l>There an <ecda:flora>orange-plant</ecda:flora>, perfuming</l>
+          <l>There an <ecda:flora ana="#food">orange-plant</ecda:flora>, perfuming</l>
           <l>All the air with blossoms white,</l>
           <l>Near a bush of <ecda:flora>roses</ecda:flora> blooming,</l>
           <l>Charm'd at once the scent and sight.</l>
@@ -7390,7 +7391,7 @@
           <l>Sure, he deems, these cups untasted,</l>
           <l>Many a honied drop allow!</l>
           <l>Soon he finds his labour wasted;</l>
-          <l><ecda:fauna>Bees</ecda:fauna> have robb'd that <ecda:flora>orange bough</ecda:flora>.</l>
+          <l><ecda:fauna>Bees</ecda:fauna> have robb'd that <ecda:flora ana="#food">orange bough</ecda:flora>.</l>
        </lg>
        <lg>
           <l>Wandering <ecda:fauna>bees</ecda:fauna>, at blush of morning,</l>
@@ -7427,51 +7428,51 @@
   </div> 
   <div type="entry">
  <opener><dateline><date when="1816-03-09">March 9</date>.</dateline></opener>     
-  <p>The <ecda:flora>shaddock</ecda:flora> contains generally thirty-two
-     seeds, two of which only will reproduce <ecda:flora>shaddocks</ecda:flora>;
+  <p>The <ecda:flora ana="#food">shaddock</ecda:flora> contains generally thirty-two
+     seeds, two of which only will reproduce <ecda:flora ana="#food">shaddocks</ecda:flora>;
      and these two it is impossible to distinguish:
-     the rest will yield, some <ecda:flora>sweet oranges</ecda:flora>,
+     the rest will yield, some <ecda:flora ana="#food">sweet oranges</ecda:flora>,
      <pb n="220"/>
      <fw type="pageNum">212</fw>
-     others <ecda:flora>bitter ones</ecda:flora>, others again <ecda:flora>forbidden fruit</ecda:flora>, and
-     in short, all the varieties of the <ecda:flora>orange</ecda:flora>; but until
+     others <ecda:flora ana="#food">bitter ones</ecda:flora>, others again <ecda:flora ana="#food">forbidden fruit</ecda:flora>, and
+     in short, all the varieties of the <ecda:flora ana="#food">orange</ecda:flora>; but until
      the trees are are actually in bearing, no one can guess
      what the fruit is likely to prove; and even then,
-     the seeds which produce <ecda:flora>shaddocks</ecda:flora>, although
+     the seeds which produce <ecda:flora ana="#food">shaddocks</ecda:flora>, although
      taken from a tree remarkable for the excellence of
      its fruit, will frequently yield only such as are
-     scarcely eatable. So also the varieties of the <ecda:flora>mango</ecda:flora>
+     scarcely eatable. So also the varieties of the <ecda:flora ana="#food">mango</ecda:flora>
      are infinite: the fruit of no two trees resembling 
-     each other; and the seeds of the very finest <ecda:flora>mango</ecda:flora>
+     each other; and the seeds of the very finest <ecda:flora ana="#food">mango</ecda:flora>
      (although sown and cultivated with the utmost
      care) seldom affording any thing at all like the
      parent stock. The two first <ecda:food ana="#flora">mangoes</ecda:food> which I tasted
      were nothing but turpentine and <ecda:food>sugar</ecda:food>; the third
      was very delicious; and yet I was told that it was 
-     by no means of a superior quality. The <ecda:flora ana="#flora"><distinct rend="italic" type="agricultural">sweet</distinct> 
-     cassava</ecda:flora> requires no preparation; the <ecda:flora><distinct type="agricultural" rend="italic">bitter</distinct> cassava</ecda:flora>,
+     by no means of a superior quality. The <ecda:food ana="#flora"><distinct rend="italic" type="agricultural">sweet</distinct> 
+     cassava</ecda:food> requires no preparation; the <ecda:flora ana="#food"><distinct type="agricultural" rend="italic">bitter</distinct> cassava</ecda:flora>,
      unless the <ecda:food>juice</ecda:food> is carefully pressed out of it, is a
-     deadly poison; there is a third kind, called the <ecda:flora><distinct rend="italic" type="agricultural">sweet-
+     deadly poison; there is a third kind, called the <ecda:flora ana="#food"><distinct rend="italic" type="agricultural">sweet-
      and-bitter</distinct> cassava</ecda:flora>, which is perfectly wholesome
      till a certain age, when it acquires its deleterious
      qualities. Many persons have been poisoned by
-     mistaking these various kinds of <ecda:flora>cassava</ecda:flora> for each
-     other. As soon as the <ecda:flora>plantain</ecda:flora> has done bearing,
+     mistaking these various kinds of <ecda:flora ana="#food">cassava</ecda:flora> for each
+     other. As soon as the <ecda:flora ana="#food">plantain</ecda:flora> has done bearing,
      it is cut down; when four or five suckers spring
-     from each root, which become p<ecda:flora>lants</ecda:flora> themselves in
-     their turn. <ecda:flora>Ratoons</ecda:flora> are suckers of the <ecda:flora>sugar-cane</ecda:flora>:
-     they are far preferable to the original <ecda:flora>plants</ecda:flora>, where
+     from each root, which become <ecda:flora ana="#food">plants</ecda:flora> themselves in
+     their turn. <ecda:flora ana="#commodity #cultivation">Ratoons</ecda:flora> are suckers of the <ecda:flora ana="#commodity #cultivation">sugar-cane</ecda:flora>:
+     they are far preferable to the original <ecda:flora ana="#cultivation #commodity">plants</ecda:flora>, where
      the soil is rich enough to support them; but they 
      are much better adapted to some estates than to 
      <pb n="221"/>
      <fw type="pageNum">213</fw>
      others. Thus, on my estate in <placeName>St. Thomas's in the
-     East</placeName>, they can allow of ten <ecda:flora>ratoons</ecda:flora> from the
-     same <ecda:flora>plant</ecda:flora>, and only dig <ecda:flora>cane</ecda:flora>-holes every eleventh
-     year; while, at <placeName>Cornwall</placeName>, the strength of the <ecda:flora>cane</ecda:flora>
-     is exhausted in the fourth <ecda:flora>ratoon</ecda:flora>, or the fifth at
-     furthest. The fresh <ecda:flora>plants</ecda:flora> are <ecda:flora>cane-tops</ecda:flora>; but 
-     those <ecda:flora>canes</ecda:flora> which bear <ecda:flora><distinct rend="italic" type="agricultural">flags</distinct></ecda:flora> or feathers at their
+     East</placeName>, they can allow of ten <ecda:flora ana="#commodity #cultivation">ratoons</ecda:flora> from the
+     same <ecda:flora ana="#commodity #cultivation">plant</ecda:flora>, and only dig <ecda:flora ana="#commodity #plant">cane</ecda:flora>-holes every eleventh
+     year; while, at <placeName>Cornwall</placeName>, the strength of the <ecda:flora ana="#commodity #plant">cane</ecda:flora>
+     is exhausted in the fourth <ecda:flora ana="#commodity #cultivation">ratoon</ecda:flora>, or the fifth at
+     furthest. The fresh <ecda:flora ana="#commodity #cultivation">plants</ecda:flora> are <ecda:flora ana="#commodity #cultivation">cane-tops</ecda:flora>; but 
+     those <ecda:flora ana="#commodity #cultivation">canes</ecda:flora> which bear <distinct rend="italic" type="agricultural">flags</distinct> or feathers at their
      extremities will not answer the purpose, as dry
      weather easily burns up the slight arrows to which
      the flags adhere, and destroys them before they
@@ -7705,7 +7706,7 @@
    were kept locked, and no person allowed to disturb
    him with their conversation; while, by <ecda:anonPers>the
    doctor's</ecda:anonPers> orders, he was obliged to take frequent
-   doses of <ecda:flora>Bitter-Wood</ecda:flora> and <ecda:flora>Assafœtida</ecda:flora>. Shame would
+   doses of <ecda:flora ana="#medical">Bitter-Wood</ecda:flora> and <ecda:flora ana="#medical">Assafœtida</ecda:flora>. Shame would
    not suffer him to get well all at once; so yesterday
    he still complained of a pain in his chest, and
    begged to be blooded. His request was granted;
@@ -7829,7 +7830,7 @@
  <p><persName ref="#hercules_0001">Hercules</persName>, the poor paralytic runaway, has neither
     moved nor spoken since his being brought into <rs type="place">the
     hospital</rs>. For the last two days he refused all sustenance;
-    blisters, rubbing with <ecda:flora>mustard</ecda:flora>, &amp;c. were
+    blisters, rubbing with <ecda:flora ana="#medical">mustard</ecda:flora>, &amp;c. were
     tried without producing the least sensation; and
     <pb n="232"/>
     <fw type="pageNum">224</fw>
@@ -8432,8 +8433,8 @@
      </p>
      <p>I dined with <persName ref="#allwood__0001">Mr. Allwood</persName> at <placeName>Shaftstone</placeName>, his pen
         near <placeName>Blue-fields</placeName>, and at half past seven found
-        myself once more on board the <ecda:shipName>Sir Godfrey
-        Webster</ecda:shipName>.   
+        myself once more on board the <ecda:shipName><persName ref="#godfrey_webster_1747">Sir Godfrey
+        Webster</persName></ecda:shipName>.   
      </p>
      <p>To fill up my list of <rs type="properAdjective">Jamaica</rs> delicacies, I must
         not forget to mention, that I did my best to procure
@@ -8825,11 +8826,11 @@
       keepers</rs>.</said> Its seeds being soon scattered about by 
      <pb n="259"/>
      <fw type="pageNum">251</fw>
-      the <ecda:fauna>birds</ecda:fauna>, it has taken possession of the <ecda:flora>cane-pieces</ecda:flora>,
+      the <ecda:fauna>birds</ecda:fauna>, it has taken possession of the <ecda:flora ana="#commodity #cultivation">cane-pieces</ecda:flora>,
         whence to eradicate it is an utter impossibility, the
-        roots being as strong as those of <ecda:flora>ginger</ecda:flora>, and insinuating 
+        roots being as strong as those of <ecda:flora ana="#food">ginger</ecda:flora>, and insinuating 
         themselves under ground to a great extent; so that the only means of preventing it
-        from entirely choking up the <ecda:flora>canes</ecda:flora>, is plucking it
+        from entirely choking up the <ecda:flora ana="#commodity #cultivation">canes</ecda:flora>, is plucking it
         out with the hand, which is obliged to be done
         frequently, and has increased the labour of the
         plantation at least one third. This nuisance, which
@@ -8993,7 +8994,7 @@
                
                
                again the <ecda:anonPers>old woman</ecda:anonPers>; <said rend="quotes">and good will come to
-               you.</said> Not far distant was a <ecda:flora>cocoa-tree</ecda:flora>; and here
+               you.</said> Not far distant was a <ecda:flora ana="#food">cocoa-tree</ecda:flora>; and here
                was another <ecda:anonPers>old woman</ecda:anonPers>, without any more head
                than the former one. The same question was
                asked her, and she failed not to give the same
@@ -9061,7 +9062,7 @@
                indeed, if ever, except by the assistance of <name>Obeah</name></seg>. 
                <said rend="quotes">Bad child!</said> cried the <ecda:anonPers>old woman</ecda:anonPers> <said rend="quotes">bad child!
                and bad will come to you!</said> Matters were no 
-               better managed near the <ecda:flora>cocoa-tree</ecda:flora>; and even
+               better managed near the <ecda:flora ana="#food">cocoa-tree</ecda:flora>; and even
                when she reached the <ecda:flora>mahogany</ecda:flora>, although she saw
                that the old woman had not only got her head on,
                but had a red docker besides, she could not prevail
@@ -9147,7 +9148,7 @@
          I defy any one to be more sick while reading them
          than the <rs type="person" ref="#matthew_lewis_1775">author himself</rs> was while writing them.
          This strange story was found by me in an old
-         <rs type="properAdjective">Italian</rs> book, called <title rend="quotes" xml:lang="it">Il Palagio degli Incanti</title>, in
+         <rs type="properAdjective">Italian</rs> book, called <title rend="quotes" xml:lang="it" ref="#cigogna_palagio">Il Palagio degli Incanti</title>, in
          which it was related as a fact, and stated to be
          taken from the <title rend="quotes">Annals of <placeName>Portugal</placeName></title>, an historical
          work. I will not vouch for the truth of it myself;
@@ -9161,7 +9162,7 @@
          swim, that secret shall go to the grave with me.</said>
       </p>
  
-   <div type="poemGroup">
+   <div type="poem">
     <head>The Isle of Devils.
       A Metrical Tale.</head>  
      <epigraph rend="quotes">
@@ -9177,16 +9178,16 @@
     </quote>
         <bibl>—<title rend="italic" ref="#shakespeare_tempest">Tempest</title>, <biblScope unit="line">Act 3.</biblScope></bibl>
      </epigraph> 
-    <div type="poem">
+  
        <lg type="poem">
           <lg>
              <head>I.</head>
              <lg>
-             <l>Speed, <persName ref="#halcyon_0001">Halcyon</persName>, speed, and here construct thy nest:</l>
+               <l>Speed, <persName ref="#alcyone_0001">Halcyon</persName>, speed, and here construct thy nest:</l>
              <l>Brood on these waves, and charm the winds to rest!</l>
              <l>No wave should dare to rage, no wind to roar,</l>
              <l>Till lands yon blooming <rs type="person" ref="#irza_0001">maid</rs> on <placeName>Lisbon's</placeName> shore.</l>
-             <l>That maid, as <persName>Venus</persName> fair and chaste is she,</l>
+             <l>That maid, as <persName ref="#venus_0001">Venus</persName> fair and chaste is she,</l>
              <l>When first to dazzled sky and glorying sea</l>
              <l>the buring conch <name>Love's</name> new-born queen exposed,</l>
              <l>The fairest pearl that ever shell inclosed</l>
@@ -9205,8 +9206,8 @@
          </lg>
              </lg>
        <lg>
-          <head><persName ref="#zayde_0001">Zayde</persName> and <persName ref="#zayda">Zayda</persName>.</head>
-          <note type="inline" rend="italic">(From <title xml:lang="es">Las Guerras Civiles de Granada</title></note>
+          <head><persName ref="#zayde_0001">Zayde</persName> and <persName ref="#zayda_0001">Zayda</persName>.</head>
+          <note type="inline" rend="italic">(From <title xml:lang="es" ref="#hita_wars">Las Guerras Civiles de Granada</title></note>
           <lg>
              <l>Lo! beneath yon haughty towers,</l>
              <l>Where the young and gallant <persName ref="#zayde_0001">Zayde</persName></l>
@@ -9372,7 +9373,7 @@
              <l>The viceroy's countless wealth that vessel bore:</l>
              <l>In heaps there <ecda:commodity ana="#transport">jewels</ecda:commodity> lay of various dyes,</l>
              <l><ecda:commodity ana="#transport">Ingots of gold</ecda:commodity>, and <ecda:commodity ana="#transport">pearls</ecda:commodity> of wondrous size</l>
-             <l>And there (two gems worth all that <persName>Cortez</persName> won)</l>
+             <l>And there (two gems worth all that <persName ref="#hernan_cortes_1485">Cortez</persName> won)</l>
              <l>He placed his angel niece and only son.</l>
              <l><persName ref="#sebastian_0001">Sebastian</persName> sought the Moors! With loyal zeal</l>
              <l><persName ref="#rosalvo_0001">Rosalvo</persName> cased his youthful limbs in steel;</l>
@@ -9393,7 +9394,7 @@
             
             <l>Then oh! ye winds, gently your pinions move,</l>
             <l>And speed in safety home the bark of love.</l>
-            <l>Brood <persName ref="#halcyon_0001">Halcyon</persName>, brood: thy sea-spell chaunt again,</l>
+            <l>Brood <persName ref="#alcyone_0001">Halcyon</persName>, brood: thy sea-spell chaunt again,</l>
             <l>And keep the mirror of the enchanted main,</l>
             <l>Where his white wing the exulting tropic dips,</l>
             <l>Calm as their hearts, and smiling as their lips.</l>
@@ -9416,7 +9417,7 @@
             <l><said prev="s065" xml:id="s066" next="s067">While, fluttering midst their boughs in joyful notes,</said></l>
             <l><said prev="s066" xml:id="s067" next="s068">Myriads of <ecda:fauna>birds</ecda:fauna> attune their warbling throats!</said></l>
             <l><said prev="s067" xml:id="s068" next="s069">Blooms all the ground with <ecda:flora>flowers</ecda:flora>! and mark, oh! mark</said></l>
-            <l><said prev="s068" xml:id="s069" next="s070">That giant <ecda:flora>palm</ecda:flora>, whose foliage broad and dark</said></l>
+            <l><said prev="s068" xml:id="s069" next="s070">That giant <ecda:flora ana="#food">palm</ecda:flora>, whose foliage broad and dark</said></l>
             <l><said prev="s069" xml:id="s070" next="s071">Plays on the sun-clad rock!—Beneath, a cave</said></l>
             <l><said prev="s070" xml:id="s071" next="s072">Spreads wide its sparry mouth: while loosely wave</said></l>
             <l><said prev="s071" xml:id="s072" next="s073">A thousand <ecda:flora>creepers</ecda:flora>, dyed with thousand stains,</said></l>
@@ -9434,7 +9435,7 @@
             <l>The <ecda:anonPers>pilot</ecda:anonPers> heard—<said rend="quotes">Oh! spring of life,</said> he cried</l>
             <l><said rend="prequotes" xml:id="s082" next="s083">How bright and beauteous seems the world untried!</said></l>
             <l><said prev="s082" xml:id="s083" next="s084">I too, like you, in youth's romantic bowers</said></l>
-            <l><said prev="s083" xml:id="s084" next="s085">Dreamt not of <ecda:fauna>wasps</ecda:fauna> in <ecda:flora>fruit</ecda:flora>, nor thorns in <ecda:flora>flowers</ecda:flora>;</said></l>
+            <l><said prev="s083" xml:id="s084" next="s085">Dreamt not of <ecda:fauna>wasps</ecda:fauna> in <ecda:flora ana="#food">fruit</ecda:flora>, nor thorns in <ecda:flora>flowers</ecda:flora>;</said></l>
             <l><said prev="s084" xml:id="s083" next="s086">And when on banks of sand the sunbeams shone,</said></l>
             <l><said prev="s085" xml:id="s086" next="s087">I deemed each sparkling flint a precious stone.</said></l>
             <l><said prev="s086" xml:id="s087" next="s088">Ah! noble lady, learn, that isle sofair,</said></l>
@@ -9450,7 +9451,7 @@
             <l><said prev="s096" xml:id="s097" next="s098">Nor think, on rumour's faith this tale is given:</said></l>
             <l><said prev="s097" xml:id="s098" next="s099">Once, hot in youthful blood, when hell nor heaven</said></l>
             <l><said prev="s098" xml:id="s099" next="s100">Much claimed my thoughts, (the truth with shame I tell;</said></l>
-            <l><said prev="s099" xml:id="s100" next="s101">Holy <persName>St. Francis</persName>, guard thy votary well!)</said></l>
+            <l><said prev="s099" xml:id="s100" next="s101">Holy <persName ref="#francis_of_assisi_1181">St. Francis</persName>, guard thy votary well!)</said></l>
             <l><said prev="s100" xml:id="s101" next="s102">In quest of water near that isle I drew:</said></l>
             <l><said prev="s101" xml:id="s102" next="s103">When lo! such monstrous forms appalled my view,</said></l>
             <l><said prev="s102" xml:id="s103" next="s104">Such shrieks I heard, sounds all so strange and d read,</said></l>
@@ -9483,7 +9484,7 @@
              <l>Soon as fair <persName ref="#irza_0001">Irza</persName> marked the evening's close,</l>
              <l>Grave from her seat the young enthusiast rose,</l>
              <l>Told o'er herbeads, and when the string was said,</l>  
-             <l><title rend="quotes" xml:lang="la">Ave Maria</title> sang the enraptured maid;</l>
+             <l><title rend="quotes" xml:lang="la" ref="ave_maria">Ave Maria</title> sang the enraptured maid;</l>
              <l>Her look so humble, so devout her air,</l>
                <l>Each worldly wish appeared so lost in prayer,</l>
                <l>All felt, no thought could to her mind be near,</l>
@@ -9515,7 +9516,11 @@
                 <l>Mark too that deathlike stillness, deep and dread!</l>
                 <l>And hark!—from yon black cloud an awful voice</l>
                 <l>Pours the wild chaunt, and bids the winds rejoice!</l>
-             </lg>
+            
+            </lg>
+             
+             
+             
        <lg>
           <head>Song of the <name>Tempest-Fiend</name>.</head>
 
@@ -9560,59 +9565,307 @@
              <l>My eyes, darting lightnings to dazzle the crew</l>  
              <l>Burn and blaze; and those lightnings so forked and so blue</l>
              <l>Make the darkness of midnight more shocking.</l>  
+          </lg> 
+          
+          
+          
+          <lg>
+             <l>That morn to the vessel no succor shall bring!</l>
+             <l>Now high o'er the main-mast I hover;</l>
+             <l>Now I plunge from the sky to the deck with a spring</l>  
+             <l>And sharter the mast with a flap of my wing</l>
+             <l>It cracks! and it breaks! and goes over!</l>  
           </lg>  
           <lg>
-             <l></l>
-             <l></l>
-             <l></l>  
-             <l></l>
-             <l></l>  
+             <l>Hew away, gallant seamen! fatigue nver dread;</l>
+             <l>You shall all rest to-night from your labours!</l>
+             <l>The ocean's wide mantle shall o'er you be spread,</l>  
+             <l>The while bones of mariners pillow your head,</l>
+             <l>And the whale and the shark be your neighbours.</l>  
           </lg>  
           <lg>
-             <l></l>
-             <l></l>
-             <l></l>  
-             <l></l>
-             <l></l>  
+             <l>For I swoop from aloft, and I blaze, and I burn,</l>
+             <l>While my spouts the salt billows are drinking:</l>
+             <l>And I drive 'gainst the vessel, and beat down the stern,</l>  
+             <l>And pour in a flood, which shall never return,</l>
+             <l>And all cry—<said rend="quotes">She's sinking! she's sinking!</said>—</l>  
           </lg>  
           <lg>
-             <l></l>
-             <l></l>
-             <l></l>  
-             <l></l>
-             <l></l>  
+             <l>The barge?—well remembered!—'tis strong, and 'tis large,</l>
+             <l>And will live in the billows' commotion;</l>
+             <l>But now all my spouts from the clouds I discharge,</l>  
+             <l>And down goes the vessel, and down goes the barge!</l>
+             <l>Hurrah! I reign lord of the ocean!</l>  
           </lg>  
           <lg>
-             <l></l>
-             <l></l>
-             <l></l>  
-             <l></l>
-             <l></l>  
+             <l>How their shrieks rose in chorus! Now all is at rest;</l>
+             <l>THe tempest no longer is brewing!</l>
+             <l>my dreams by the harm newly done will be blest,</l>  
+             <l>So I'll sleep for a while on a thunder-cloud's breast,</l>
+             <l>Then rouze to hurl round me fresh ruin.</l>  
           </lg>  
-          <lg>
-             <l></l>
-             <l></l>
-             <l></l>  
-             <l></l>
-             <l></l>  
-          </lg>  
-          <lg>
-             <l></l>
-             <l></l>
-             <l></l>  
-             <l></l>
-             <l></l>  
-          </lg>  
+     
           
        </lg>     
      </lg>
-        
+       <lg>
+          <head>V.</head>
+         <lg>
+          <l>Hushed is the storm: the heavens no longer frown;</l>
+          <l>And o'er that spot, where late the bark went down,</l>
+          <l>All bright and smiling flows the treacherous wave,</l>
+          <l>Like sunshine playing on a new-made grave.</l>
+          <l>Full rose the watery moon: it showed a plank,</l>
+          <l>To which, all deadly pale, with tresses dank,</l>
+          <l>And robes of white, on which the sea had flung</l>
+          <l>Loose wreaths of <ecda:flora>ocean-flowers</ecda:flora>, unconscious clung</l>
+            
+            
+            
+          <l>A fair frail form:—'twas <persName ref="#irza_0001">Irza</persName>—to the shore</l>
+          <l>Each following wave the virgin nearer bore;</l>
+          <l>And now the mountain surge o'erwhelmed the land,</l>
+          <l>Then flying left her on the wished-for strand.</l>
+     
+         </lg>
+         <lg> 
+          <l>Soon hope and love of life her powers renew;</l>
+          <l>Swift tow'rds a cliff she speeds, which towers in view,</l>
+          <l>Nor waits the wave's return; and now again</l>
+          <l>Safe on the shore, and rescued from the main,</l>
+          <l>Prostrate she falls, and thanks the Sire of life,</l>
+          <l>Whose arm hath snatched her from the billowy strife.</l>
+          <l>That duty done, she rose, and gazed around:</l>
+          <l>Mossed are the rocks, and flowers bestrew the ground.</l>
+          <l>Not distaint far, a group of fragrant trees</l>
+          <l>Bend with their golden <ecda:flora ana="#food">fruit</ecda:flora>. The ocean-breeze</l>
+          <l>Shakes a gigantic <ecda:flora>palm</ecda:flora>, which o'er a cave</l>
+          <l>Its dark green foliage spreads, and wildly wave</l>
+          <l>Their blooming wreaths, all starred with midnight dws,</l>
+          <l>A thousand creeping plants of thousand hues.</l>
+          <l>Then flashed the dreadful truth on <persName ref="#irza_0001">Irza's</persName> view!</l>
+          <l>That cave—those trees—that giant <ecda:flora>palm</ecda:flora> she knew!</l>
+          <l>Then from her lips for ever fled the smile:</l>
+          <l>—<said rend="quotes">Mother of God!</said> she shrieked, <said rend="quotes">The <placeName>Demon-Isle!</placeName>—</said></l>
+     </lg>
+         <lg> 
+           <l>Long on a broken crag she knelt, and prayed,</l>
+           <l>And wearied every saint for strength and aid;</l>
+           <l>Then speechless, heedless, senseless lay; when, lo!</l>
+           <l>Strange mutterings near her roused from torpid woe</l>
+           <l>Her soul to fresh alarms. Her head she reared,</l>
+           <l>And near her face a hideous face appeared;</l>
+           <l>But straight 'twas gone!—In trembling haste she rose,</l>
+           <l>And saw a ring of monstrous dwarfs inclose</l>
+            <l>Her rugged couch. Not <persName ref="#tenier_david_1610">Teniers'</persName> hand could paint</l>
+           <l>Forms more grotesque to scare the tempted saint,</l>
+           <l>Than here, as on they pressed in circling throng,</l>
+           <l>And grinned, and glared, and gloated! Quicker grew</l>
+           <l>Her breath! Death hemmed her round! As yet, 'tis true</l>
+           <l>Far off they kept; but soon, more daring grown,</l>
+           <l>More near they crept, oft sharpening on the stone</l>
+           <l>Their long crookt claws; and still, as on they came,</l>
+           <l>They screeched and chattered; and their eyes of flame,</l>
+           <l>Twinkling and goggling, told, what pleasure grim</l>
+           <l>'Twould give to rack and rend her limb from limb:</l>
+           <l>―<said rend="quotes">Heaven take my soul!</said> she cried, when, hark! a moan,</l>
+           <l>So full, so sad, so strange—not shriek—not groan—</l>
+           <l>Something scarce earthly—breathed above her head—</l>    
+           <l>'Twas heard, and instant every imp was fled.</l>
+       
+         </lg>
+         <lg> 
+          <l>What was that sound? What pitying saint from high</l>
+          <l>Had stooped to save her? Now to heaven her eye</l>
+          <l>Grateful she raised. Almighty powers!—a form,</l>
+          <l>Gigantic as the palm, black as the storm,</l>
+          <l>All shagged with hair, wild, strange in shape and show,</l>
+          <l>Towered on the loftiest cliff and gazed below.</l>
+          <l>On <emph rend="italic">her</emph> he gazed, and gazed so fixed, so hard,</l>
+          <l>Like knights of bronze some hero's tomb who guard.</l>
+          <l>Bright wreaths of scarlet plumes his temple crowned,</l>
+          <l>And round his ankles, arms, and wrists were wound</l>
+          <l>Unnumbered glassy strings of crystals bright,</l>
+          <l><ecda:fauna>Corals</ecda:fauna>, and shells, and <ecda:flora ana="#food">berries</ecda:flora> red and white.</l>
+          <l>On <emph rend="italic">her</emph> he gazed, and floods of sable fires</l>
+          <l>Rolled his huge eyes, and spoke his fierce desires,</l>
+          <l>As on his club, a torn-up <ecda:flora ana="#food">lime</ecda:flora> he leaned.—</l>
+          <l><said rend="quotes">Help, heaven!</said> thought <persName ref="irza_0001">Irza</persName>, <said rend="quotes">'tis the master-fiend!</said></l>
+         </lg> 
+          <lg>
+          <l>Not long he paused: he now with one quick bound</l>
+          <l>Sprang from the cliff, and lighted on the ground.</l>
+          <l>Back fled the <rs type="person" ref="irza_0001">maid</rs> in terror; but her fear</l>
+          <l>Was needless. Humbly, slowly crept he near,</l>
+          <l>Then kissed the earth, his club before her laid,</l>
+          <l>And of his neck her footstool would have made:</l>
+          <l>But from his touch she shrank. He raised his head,</l>
+          <l>And saw her limbs convulsed, her face all dread,</l>
           
+             
+             
+          <l>And felt the cause his presence! Sad and slow</l>
+          <l>He rose, resumed his club, and turn'd to go.</l>
+          <l>Reproachful was his look, but still 'twas kind;</l>
+          <l>He climb'd the rock, but of he gazed behind;</l>
+          <l>He reach'd the cave; one look below he threw;</l>
+          <l>plaintive again he moan'd, and with slow steps withdrew.</l>
+          </lg>
+          <lg>  
+          <l>She is alone; she breaths again!—Fly, fly!—</l>
+          <l>Ah! wretched girl! too late! with frenzied eye,</l>
+          <l>(Scarce gone the master-fiend) his imps she sees,</l>
+          <l>Pour from the rocks, and drop from all the trees</l>
+          <l>With yell, and squeak, and many a horrid sound,</l>
+          <l>And form a living fence to hedge her round:</l>
+          <l>—<said rend="quotes">Now then,</said> she cried, <said xml:id="s110" next="#s111" rend="prequotes">all's over!—oh! farewell,</said></l>
+          <l><said rend="postquotes" prev="#s110" xml:id="s111">Farewell, <persName ref="#rosalvo_0001">Rosalvo</persName>!</said> On her knees she fell,</l>
+          <l>And told her beads with trembling hands. Yet still</l>
+          <l>On came the throng; and soon, with wanton skill</l>
+          <l>(Lured by its coral glow and cross of gold),</l>
+          <l>One snatch'd her chaplet, nor forsook his hold,</l>
+          <l>Though hard she struggled: while more bold, more fierce</l>
+          <l>Another seized her arm, and dared to pierce</l>
+          <l>With his sharp teeth its snow. The pure blood stream'd</l>
+          <l>Fast from the wound, and loud the <rs type="person" ref="irza_0001">virgin</rs> scream'd;</l>
+          <l>And strait again was heard that sad strange moan,</l>
+          <l>And instant all the dwarfs again were flown.</l>
+     
+          </lg> 
+          <l>Scarce conscious that she lived, scarce knowing why,</l>
+          <l>Half grieved, half grateful, <persName ref="irza_0001">Irza</persName> raised her eye:</l>
+          <l>Still on the rock (not dared he down to spring)</l>
+          <l>Dark and majestic stood the demon-king;</l>
+          <l>Then lowly knelt, and raised his arm to wave</l>
+          <l>An <ecda:flora ana="#food">orange bough</ecda:flora>, and court her to his cave.</l>
+          <l>Lost are her friends; no help, no hope is nigh;</l>
+          <l>What can she do, and wither can she fly?</l>
+          <l>To <emph rend="italic">him</emph> already twice her life she owes,</l>
+          <l>And but his presence now restrains her foes.</l>
+          <l>On wings of flame the sun had left the main;</l>
+          <l>And peeping from the trees, the imps too plain</l>
+          
+          
+          
+          <l>Shot darts of rage from their green orbs of sight:</l>
+          <l>She heard their gibberings, and she mark'd their spite;</l>
+          <l>And, while they eyed her form, the care she saw</l>
+          <l>To grind their teeth, and whet each cruel claw.</l>
+          <l>Demons alike, the monarch-demon's breast</l>
+          <l>Appear'd less fierce; of ills she chose the best,</l>
+          <l>Sought, where profan'd her coral rosary lay,</l>
+          <l>Then slowly mounted where he show'd the way.</l>
        </lg>
-    </div>  
+          <lg>
+          <l>Cautious he led her tow'rds his lone abod,</l>
+          <l>And clear'd each stone that might impede her road.</l>
+          <l>With pain she trod: she reach'd the cave; but there</l>
+          <l>No more her weight her wearied limbs could bear.</l>
+          <l>Exhausted, fainting, anguish, terror, thirst,</l>
+          <l>Fatigue o'erpower'd her frame: her heart must burst,</l>
+          <l>Her eyes grow dim! Sunk on the rock she lies,</l>
+          <l>And sinking, prays she never more may rise.</l>
+          </lg> 
+   
+       </lg>      
+             
+               
+           <lg>
+           <head>VI.</head>   
+          <lg> 
+           <l>Long in this deathlike swoon she lay: at length</l>
+           <l>Exhausted nature show'd forth all its strength</l>
+           <l>And call'd her back to life. Her opening eyes</l>
+           <l>Beheld a grotto vast in depth and size,</l>
+           <l>Whose high straight sides forbade all hopes of flight:</l>
+           <l>The fractured roof gave ample space for light,</l>
+           <l>Through which in gorgeous guise the day-star shone</l>
+           <l>On many a lucid shell and brilliant stone.</l>
+           <l>Through pendant spars and crystals as it falls,</l>
+           <l>Each beam with rainbow hues adorns the walls,</l>
+           <l>Gilds all the roof, emblazes all the ground,</l>
+           <l>And scatters light, and warmth, and splendour round.</l>
+           <l>Gently on pillowing furs reposed her head;</l>
+           <l>With many a verdant rush her couch was spread;</l>
+           <l>A gourd with blushing <ecda:food ana="#flora">fruits</ecda:food> was near her placed,</l>
+           <l>Whose scent and colour woo'd alike her taste;</l>
+           <l>And round her strewn there bloom'd unnumber'd flowers;</l>
+           <l>Charming her sense with aromatic powers.</l>
+           
+             
+             
+           <l>Only one object chill'd her blod with <supplied>f</supplied>ear:</l>
+           <l>Far off removed (but still, alas! too near),</l>
+           <l>Scarce breathing, lest a breath her sleep might break,</l>
+           <l>There stood the fiend, and watched to see her wake.</l>
+           <l></l>
+           <l></l>
+           <l></l>
+           <l></l>
+           <l></l>
+           <l></l>
+           <l></l>
+           <l></l>
+           <l></l>
+           <l></l></lg>
+           <l></l>
+           <l></l>
+           <l></l>
+           <l></l>
+</lg>
+       
+             
+     <!-- lots more poem, can't bear it for the moment  -->
+      
       
    </div>          
-   </div>        
+   </div>   
+            
+   <div type="entry">   
+   <opener><dateline><date when="1816-04-17">April 17</date>.</dateline></opener>  
+      <epigraph><quote rend="quotes" xml:lang="it" source="#tasso_gerusalemme"><lg>
+      <l>Piansi i riposi di quest' umil vita,</l>
+      <l>E sospirai la mia perduta pace!</l>
+   </lg></quote></epigraph>   
+<p>I regret the loss of our dead calm and our crawling
+    pace of a knot and a half an horu; for during 
+    the last four days we have had nothing but gales
+    and squalls, mountainous waves, the vessel rolling
+    and pitching incessantly, and the sea perpetually
+    pouring in at the windows and down through the
+    hatchway. Into the bargain, we are now sufficiently
+    towards the north to find the weather perishingly
+    cold, and we have neither wood nor coals
+    enough on board to allow a fire for the cabin. 
+    
+    
+    But, among all our inconveniences, that which
+    is the most intolerable undoubtedly arises from
+    the <ecda:anonPers>sick apothecary</ecda:anonPers>. It seems that his complaint
+   is the consequence of dram-drinking, which has
+   affected his liver. Since his coming on board, he 
+   has continued to indulge his taste; and growing
+   worse (as might be expected), he has now thought 
+   proper to put himself in a state of salivation: the 
+   consequence is, that what with the <seg ana="#medical"></seg> and
+   what with the man, aided by the concomitant
+   effluviva of our cargo of <ecda:commodity ana="#transport #flora #food">sugar, rum, and coffee</ecda:commodity>, for
+   a combination of villanous smells, <persName ref="#john_falstaff_0001">Falstaff's</persName> buck-
+   basket was nothing to the cabin of the <ecda:shipName><persName ref="#godfrey_webster_1747">Sir Godfrey
+      Webster</persName></ecda:shipName>. I could almost fancy myself <persName ref="#hafen_slawkenbergius_0001">Slawkenbergius's</persName>
+   <persName>Don Diego</persName> just returned from the <placeName>Promontory 
+   of Noses</placeName>, and that I had exchanged my 
+   snub for a proboscis; su much do all my other
+   senese appeare to be absorbed in that of smelling,
+   and do completely do i seem to myself to be nose
+   all over. As to the poor <ecda:anonPers>apothecary</ecda:anonPers>, his <seg ana="#medical">mercury</seg>
+   annoys us without any signs as yet of its benefiting
+   himself. He grows worse daily, and I greatly
+   doubt his ever reaching <placeName>England</placeName>.
+   
+
+</p>
+   </div>
      </body>
       
   </text>
