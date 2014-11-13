@@ -22,7 +22,7 @@
       <ecda:hyperDiv>
          <ecda:notes>
             <note xml:id="n001" target="#a001"> A samboe is the offspring of a mulatto and a negro. </note>
-            <note xml:id="n002" target="#a002"><bibl><author><persName ref="john_milton_1608"
+            <note xml:id="n002" target="#a002"><bibl><author><persName ref="#john_milton_1608"
                         >Milton</persName></author></bibl></note>
             <note xml:id="n003" target="#a003"><p>Long after the sketch entitled <name>'The Slave
                      Dealer'</name> was written, I found the following account of a case remarkably
@@ -129,13 +129,13 @@
                   and severity. He has been obliged to fly the colony, leaving his estate and stock
                   to the disposal of his creditors. One of the slaves, who escaped from him and
                   joined the rebel negroes, has by his industry been able to protect <persName
-                     ref="#cery_0001">Cery</persName> and her children. He is a <seg xml:id="a001"
+                     ref="#cery_0001">Cery</persName> and her children. He is a <seg xml:id="#a001"
                      corresp="#n001"> Samboe</seg> and his name is <persName ref="#jolycoeur_0001"
                      >Jolycoeur</persName>. He has become the first of Baron's captains ; and you
                   may chance to meet him in the rebel camp, breathing revenge against the
                   Christians. <persName ref="#mrs_db_0001">Mrs. D.B.</persName> is still in
-                     <placeName ref="#Surinam_001">Surinam</placeName>, being arrested for her
-                  husband's debts, till <placeName ref="#Fauconberg_001">Fauconberg</placeName>
+                     <placeName ref="#Surinam_0001">Surinam</placeName>, being arrested for her
+                  husband's debts, till <placeName ref="#Fauconberg_0001">Fauconberg</placeName>
                   shall be sold by execution to pay them. This lady now lodges at my house, </said>
             </p>
             <pb n="003"/>
@@ -174,7 +174,7 @@
                   ref="#mrs_demelly_0001">Mrs. Demlly</persName> what was become of the amiable
                   <persName ref="#Joanna_0001">Joanna</persName>. She informed me that <persName
                   ref="#Mrs_db_0001">Mrs. D.B.</persName> had escaped to <placeName
-                  ref="#Holland_001">Holland</placeName>; and that <rs type="person">the young
+                  ref="#Holland_0001">Holland</placeName>; and that <rs type="person">the young
                   mulatto</rs> was now at the house of her own <ecda:anonPers>annt</ecda:anonPers>,
                a free woman whence she hourly expected to be sent to the estate <placeName
                   ref="#Fauconberg_001">Fauconberg</placeName>, friendless, and at the mercy of any
@@ -186,11 +186,11 @@
                <fw type="pageNum">10</fw> cuse. Yet surely my feelings will be forgiven, except by
                those few who approve of the <emph rend="italic">prudent</emph> conduct of <persName
                   ref="#Inkle_0001">Mr. Inkle</persName> toward the unfortunate and much injured
-                  <persName ref="#Yarico_0001">Yarico</persName> at <placeName ref="#Barbadoes_001"
+                  <persName ref="#Yarico_0001">Yarico</persName> at <placeName ref="#Barbadoes_0001"
                   >Barbadoes</placeName>
             </p>
             <p>I next went to my friend, <persName ref="#mr_lolkens_0001">Mr. Lolkens</persName> who
-               happened to be the administrator of the <placeName ref="#Fauconberg_001"/> estate,
+               happened to be the administrator of the <placeName ref="#Fauconberg_0001"/> estate,
                and intimated to him my strange determination of purchasing <persName
                   ref="#Joanna_0001">Joanna</persName> and giving her a good education. Having
                looked at me in silence, until he recovered from his surprise, he proposed an
@@ -217,7 +217,7 @@
                I could only request <persName ref="#mr_lolkens_0001">Mr. Lolkens</persName> to
                afford her all the protection in his power; and that she might, at elast for some
                time, be allowed to live separate from the other slaves, and remain in <placeName
-                  ref="#Paramaribo_001">Paramaribo</placeName>. In this request he kindly indulged
+                  ref="#Paramaribo_0001">Paramaribo</placeName>. In this request he kindly indulged
                me</p>
          </div>
 
@@ -399,7 +399,7 @@
                   <div type="subsection">
                      <p> Here follows the account of another distressing campaign, which I pass over
                         entirely, because it is unconnected with the subject of the story. <persName
-                           ref="john_stedman_1744">Capt. Stedman</persName> proceeds as follows:
+                           ref="#john_stedman_1744">Capt. Stedman</persName> proceeds as follows:
                      </p>
                   </div>
                </body>
@@ -459,7 +459,7 @@
                walks, constantly accompanied, by <rs type="person">my dear mulatto</rs></p>
             <p>"But alas, in the midst of all my hopes, my happiness was blasted by news that
                   <persName ref="#passalage_0001">Mr. Passalage</persName>, to whom I had written
-               for <persName ref="Joanna_0001">Joanna</persName>'s manumission, had died suddenly.
+               for <persName ref="#Joanna_0001">Joanna</persName>'s manumission, had died suddenly.
                She was likely soon to become a mother: and this redoubled my distress. The idea that
                   <rs type="person">my best friend</rs>, and my offspring must be slaves, <pb
                   n="020"/>
@@ -515,9 +515,9 @@
                morals,——now depressed to the lowest ebb in my constitution and spirits. My friend
                   <persName ref="#Henneman_0001">Henneman</persName>, who visited me constantly,
                told me had had discovered that the medicine, which so nearly killed me, was <seg
-                  ana="med">four grains of tartar-emetic with forty grains of ipecacuanha</seg>. The
-                  <rs type="person">surgeon</rs> had measured my constitution by my height, which is
-               above six feet.</p>
+                  ana="#med">four grains of tartar-emetic with forty grains of ipecacuanha</seg>.
+               The <rs type="person">surgeon</rs> had measured my constitution by my height, which
+               is above six feet.</p>
             <p>"Being too weak to perform military duty, I surrendered the command to <rs
                   type="person">the officer next in rank</rs>, and went to visit a neighboring <rs
                   type="person">French planter</rs>, who had given me and <persName
@@ -530,7 +530,7 @@
                deserved a flogging for their robberies, came off with a few lashes; while
                   <ecda:anonPers>two old ones</ecda:anonPers>, for a trifling dispute, were
                condemned to receive no less than three hundred. When I asked the cause of this
-               partiality, <persName ref="m_cachelieu_0001">M. Cachelieu</persName> answered, that
+               partiality, <persName ref="#m_cachelieu_0001">M. Cachelieu</persName> answered, that
                the young negroes still had a very good skin, and might do much work; whereas the old
                ones had long been disfigured and worn out, and killing them altogether would be a
                benefit to the estate.</p>
@@ -552,8 +552,8 @@
                   >Joanna</persName>'s critical and almost hopeless situation, greatly contributed
                to prevent the restoration of my health. My anxiety was not dimished by hearing that
                the estate <placeName>Fauconberg</placeName> had passed to a new proprietor, a
-                  <persName ref="mr_lude_0001">Mr. Lude</persName> of Amsterdam, with whom my friend
-                  <persName ref="mr_lolkens_0001">Mr. Lolkens</persName> had not the smallest
+                  <persName ref="#mr_lude_0001">Mr. Lude</persName> of Amsterdam, with whom my
+               friend <persName ref="#mr_lolkens_0001">Mr. Lolkens</persName> had not the smallest
                interest; and that there was in town a general report that we had both been poisoned.
                These tidings were somewhat softened by the kindness of <persName
                   ref="mrs_lolkens_0001">Mrs. Lolkens</persName>, who came to insist that my Joanna
@@ -566,7 +566,7 @@
             <p>"On my return to <placeName>The Hope</placeName>, I could hardly restrain my
                indignation at the coarse manner in which my messmates rallied me <pb n="025"/>
                <fw type="pageNum">32</fw> concerning my anxiety. '<said>Do as we do, <persName
-                     ref="john_stedman_1744">Stedman</persName></said>, said they: '<said>if our
+                     ref="#john_stedman_1744">Stedman</persName></said>, said they: '<said>if our
                   children are slaves, they are provided for; and if they die, what do we care? Keep
                   your sighs in your bosom, and your money in your pocket, my boy</said>.' I repeat
                this to show how much my feelings must have been hurt and disgusted with similar
@@ -578,15 +578,15 @@
                unless the proprietor of the mother consented.</p>
             <p>"This infomation completed my misery. I tried to drown reflection in wine; which only
                raised my spirits for a moment, to make them sink the lower. During this conflict in
-               my feelings, <persName ref="de_graav_0001">Mr. De Graav</persName> kindly invited me
+               my feelings, <persName ref="#de_graav_0001">Mr. De Graav</persName> kindly invited me
                to his plantation, and did everything in his power to amuse me; but to no purpose. At
                last, seeing me seated by myself, on a small bridge that led to <ecda:flora>an
                   orange-grove</ecda:flora>, with a settled gloom on my countenance, he took me by
                the hand, and, to my astonishment, addressed me thus: '<said><persName
-                     ref="mr_lolkens_0001">Mr. Lolkens</persName> has ac- <pb n="026"/>
+                     ref="#mr_lolkens_0001">Mr. Lolkens</persName> has ac- <pb n="026"/>
                   <fw type="pageNum">33</fw> quainted me with the cause of your distress. Heaven
                   never left a good intention unrewarded. I have the pleasure to inform you that
-                     <persName ref="mr_lude_0001">Mr. Lude</persName> has chosen me his
+                     <persName ref="#mr_lude_0001">Mr. Lude</persName> has chosen me his
                   administrator. I shall pride myself upon rendering any service in my power to you
                   and the virtuous <persName ref="#Joanna_0001">Joanna</persName>, whose character
                   has attracted the attention of so many people; while your laudable conduct toward
@@ -669,7 +669,7 @@
                <persName ref="#de_graav_0001">Mr. De Graav</persName> arrived; and I took the
                earliest opportunity to beg him to give me credit for the money demanded for my
                   <persName ref="#Joanna_0001">Joanna</persName> and <persName
-                  ref="johnny_stedman_0001">her boy</persName>. I was determined to save it out of
+                  ref="#johnny_stedman_0001">her boy</persName>. I was determined to save it out of
                my pay, if I lived on merely <ecda:food>bread</ecda:food>, and
                   <ecda:commodity>salt</ecda:commodity>, and <ecda:commodity>water</ecda:commodity>;
                though even then, the debt could not be discharged under two or three years</p>
@@ -687,9 +687,9 @@
                   recommended you to my attention, that I beg leave to have a share in your
                   happiness, and the future prospects of your virtuous <persName ref="#Joanna_0001"
                      >Joanna</persName>, by requesting you to accept from me the sum of two thousand
-                  florins. Take the money, <persName ref="john_stedman_1744">Stedman</persName>——and
-                  go immediately to redeem innocence, good sense, and beauty, from tyranny and
-                  insult.'</said></p>
+                  florins. Take the money, <persName ref="#john_stedman_1744"
+                  >Stedman</persName>——and go immediately to redeem innocence, good sense, and
+                  beauty, from tyranny and insult.'</said></p>
             <p>"Seeing me gaze upon her, utterly stupified with amazement, she smiled and
                   said——<said>'Sailors and soliders should ever be men of the fewest compliments.
                   All I ask is, that you will say nothing upon the subject</said></p>
@@ -727,7 +727,7 @@
                   amply paid,'</said> said he, <said>'in being the instrument to bring about what
                   seems to contribute so much to the enjoyment of two deserving people.'</said></p>
             <p>"Having thanked my disinterested friend, with a cordial shake of the hand, I
-               immediately restored to <persName ref="mrs_godefroy_0001">Mrs. Godefroy</persName>
+               immediately restored to <persName ref="#mrs_godefroy_0001">Mrs. Godefroy</persName>
                the <measure type="currency">two hundred florins</measure>, which she refused</p>
          </div>
          <div type="section">
@@ -735,14 +735,14 @@
                <body>
                   <div type="subsection">
                      <p>After describing another tedious and dangerous campaign, during which he was
-                        several times very near losing his life, and <persName ref="Joanna_0001"
-                           >Joanna</persName> and <persName ref="johnny_stedman_0001">her
+                        several times very near losing his life, and <persName ref="#Joanna_0001"
+                           >Joanna</persName> and <persName ref="#johnny_stedman_0001">her
                            boy</persName> narrowly escaped dying of a fever, <persName
-                           ref="john_stedman_1744">Capt. Stedman</persName> continues:</p>
+                           ref="#john_stedman_1744">Capt. Stedman</persName> continues:</p>
                   </div>
                </body>
             </floatingText>
-            <p>"On the third of January, 1776, I arrived <pb n="033"/>
+            <p>"On <date>the third of January, 1776</date>, I arrived <pb n="033"/>
                <fw type="pageNum">40</fw> once more at <placeName>Paramaribo</placeName>, and found
                my little family perfectly recovered, though they had been blind for more than three
                weeks. Being invited to take up my abode with them, at the house of my friend
@@ -753,19 +753,21 @@
                February, ill as I was, with a lame foot, a sore arm, the prickly heart, and my teeth
                all loose with the scurvy, I found means to scramble out on crutches, with <measure
                   type="currency">a thousand florins</measure> in my pocket, which I divided between
-                  <persName>Mrs. Godefroy</persName> and <persName>Col. Fourgeoud</persName>, for
-               the redemption of my mulatto, and the black boy, <persName>Quacco</persName>. I
-               returned home without a shilling in my purse. <persName>Mrs. Godefroy</persName>
-               generously renewed her persuasions of carrying <persName>Joanna</persName> and <rs
-                  type="person">the boy</rs> with me to <placeName>Holland</placeName>. But this
-               Joanna nobly and firmy refused. '<said><ecda:embSN>Independent of all other
-                     considerations</ecda:embSN></said>,' said she, '<said><ecda:embSN>I can never
-                     think of sacrificing one benefactor to the interest of another. My own
-                     happiness, or that of him who is dearer to me than life, must not be allowed to
-                     have any weight, until the price of my liberty is paid to the ut- <pb n="034"/>
+                  <persName ref="#mrs_godefroy_0001">Mrs. Godefroy</persName> and <persName
+                  ref="colonel_fourgeoud_0001">Col. Fourgeoud</persName>, for the redemption of my
+               mulatto, and the black boy, <persName ref="#quacco_0001">Quacco</persName>. I
+               returned home without a shilling in my purse. <persName ref="#mrs_godefroy_0001">Mrs.
+                  Godefroy</persName> generously renewed her persuasions of carrying <persName
+                  ref="#Joanna_0001">Joanna</persName> and <rs type="person">the boy</rs> with me to
+                  <placeName>Holland</placeName>. But this Joanna nobly and firmy refused.
+                     '<said><ecda:embSN>Independent of all other
+               considerations</ecda:embSN></said>,' said she, '<said><ecda:embSN>I can never think
+                     of sacrificing one benefactor to the interest of another. My own happiness, or
+                     that of him who is dearer to me than life, must not be allowed to have any
+                     weight, until the price of my liberty is paid to the ut- <pb n="034"/>
                      <pb n="035"/>
                      <figure>
-                        <figDesc><persName ref="john_stedman_1744">Capt. Stedman</persName>'s
+                        <figDesc><persName ref="#john_stedman_1744">Capt. Stedman</persName>'s
                            residence, 'The Hope,'-See page</figDesc>
                         <graphic url=""/>
                      </figure>
@@ -788,7 +790,7 @@
                <body>
                   <div type="subsection">
                      <p>The details of another campaign are given; and after various adventures,
-                           <persName ref="john_stedman_1744">Capt. Stedman</persName> returns to
+                           <persName ref="#john_stedman_1744">Capt. Stedman</persName> returns to
                            <placeName>The Hope</placeName>. He says:</p>
                   </div>
                </body>
@@ -799,12 +801,13 @@
                garden, and if I could not with <pb n="037"/>
                <fw type="pageNum">42</fw> propriety be called a planter, I might at least claim with
                some degree of justice, the name of a small farmer.</p>
-            <p>"On the ninth we all dined with <persName>Mr. De Graav</persName>, at his beautiful
-               plantation on <placeName>Cassawina Creek</placeName>; where this worthy man had
-               foretold, before the birth of <rs type="person">my boy</rs>, that both he and his
-               mother would one day be free and happy. We returned in a boat loaded with presents of
-               every kind. The <rs type="persGroup">slaves</rs> of <placeName>The Hope</placeName>
-               and <placeName>Fauconberg</placeName> likewise testified their respect for
+            <p>"On the ninth we all dined with <persName ref="#mr_de_graav_0001">Mr. De
+                  Graav</persName>, at his beautiful plantation on <placeName>Cassawina
+                  Creek</placeName>; where this worthy man had foretold, before the birth of <rs
+                  type="person">my boy</rs>, that both he and his mother would one day be free and
+               happy. We returned in a boat loaded with presents of every kind. The <rs
+                  type="persGroup">slaves</rs> of <placeName>The Hope</placeName> and
+                  <placeName>Fauconberg</placeName> likewise testified their respect for
                   <persName>Joanna</persName>, by bringing in
                <ecda:commodity>fowls</ecda:commodity>, <ecda:commodity>fruit</ecda:commodity>,
                   <ecda:commodity>eggs</ecda:commodity>, <ecda:commodity>venison</ecda:commodity>,
@@ -829,11 +832,12 @@
                   <placeName>Comewina</placeName>, and row down to
                <placeName>Paramaribo</placeName>, where the transport ships were put in commission
                to carry us back to <placeName>Holland</placeName>. The troops received these tidings
-               with unbounded joy. I alone sighed bitterly. Oh, my <persName>Joanna</persName>! Oh,
-                  <rs type="person">my boy</rs>! Both were at this time dangerously ill; the one
-               with a fever, the other with convulsions; so that neither were expected to survive.
-               As soon as they were able to be removed, I thought it necessary to send them to
-                  <placeName>Paramaribo</placeName>, before it was too late</p>
+               with unbounded joy. I alone sighed bitterly. Oh, my <persName ref="#Joanna_0001"
+                  >Joanna</persName>! Oh, <rs type="person">my boy</rs>! Both were at this time
+               dangerously ill; the one with a fever, the other with convulsions; so that neither
+               were expected to survive. As soon as they were able to be removed, I thought it
+               necessary to send them to <placeName>Paramaribo</placeName>, before it was too
+               late</p>
             <p>"On <date>the fourteenth</date>, I removed my flag from <placeName>The
                   Hope</placeName> to the barges; and in the evening took my last farewell of <rs
                   type="persGroup">Joanna relations</rs> on the <placeName>Fauconberg</placeName>
@@ -842,16 +846,17 @@
                   <placeName>Europe</placeName>.</p>
             <pb n="039"/>
             <fw type="pageNum">44</fw>
-            <p>"At <placeName>Paramaribo</placeName> I found, to my great joy, that
-                  <persName>Joanna</persName> and <rs type="person">the child</rs> were very much
-               recovered. When I offered <persName>Mrs. Godefroy</persName>
+            <p>"At <placeName>Paramaribo</placeName> I found, to my great joy, that <persName
+                  ref="#Joanna_0001">Joanna</persName> and <rs type="person">the child</rs> were
+               very much recovered. When I offered <persName ref="#mrs_godefroy_0001">Mrs.
+                  Godefroy</persName>
                <measure type="currency">40 pounds</measure> more, (being all the money I had) that
                excellent woman renewed her entreaties that I would carry <rs type="person">my
                   boy</rs> and <rs type="person">his mother</rs> with me to
-                  <placeName>Holland</placeName>. But <persName>Joanna</persName> was immovable,
-               even to a degree of heroism. No persuasion could make the least impression upon her.
-               We affected to bear our fate with perfect resignation, though what each of us felt
-               may more easily be imagined than described.</p>
+                  <placeName>Holland</placeName>. But <persName ref="#Joanna_0001">Joanna</persName>
+               was immovable, even to a degree of heroism. No persuasion could make the least
+               impression upon her. We affected to bear our fate with perfect resignation, though
+               what each of us felt may more easily be imagined than described.</p>
             <p>"On the very eve of departure, orders again arrived for the troops to remain until
                reinforcements were sent out from <placeName>Holland</placeName>. When these orders
                were proclaimed, I never saw dejection, disappointment and despair so strongly marked
@@ -859,31 +864,32 @@
 
          </div>
          <div type="section">
-            <p>"On <date>the tenth of August</date>, I waited upon <persName>Mrs.
-                  Godefroy</persName>, and told her my earnest wish to see everything arranged with
-               certainty concerning the emancipation of <persName>little Johnny Stedman</persName>.
-               I requested her to become bail before the Court, for the usual sum of <measure
-                  type="currency">three hundred pounds</measure>; assuring her that he should <pb
-                  n="040"/>
+            <p>"On <date>the tenth of August</date>, I waited upon <persName
+                  ref="#mrs_godefroy_0001">Mrs. Godefroy</persName>, and told her my earnest wish to
+               see everything arranged with certainty concerning the emancipation of <persName
+                  ref="#johnny_stedman_0001">little Johnny Stedman</persName>. I requested her to
+               become bail before the Court, for the usual sum of <measure type="currency">three
+                  hundred pounds</measure>; assuring her that he should <pb n="040"/>
                <fw type="pageNum">45</fw> never be any charge to the <placeName>Colony of
                   Surinam</placeName>. This she decidedly declined, though it was a mere matter of
                form. I was at first very much astonished; but I found afterward that she had refused
                a similar favor to her own son.</p>
-            <p>"Poor <persName>Joanna</persName> remained inflexible in her resolution; and on
-                  <date>the twenty-fourth</date>, an agreement with <persName>Mrs.
-                  Godefroy</persName> was solemnly ratified in the presence of <rs type="persGroup"
-                  >her mother and all her relations</rs>, whereby that lady bound herself never to
-               part with her except to myself alone; and that upon her death, not only her full
-               liberty, but a spot of ground for cultivation, with a neat house built upon it,
-               should be her portion forever, to dispose of as she pleased. After this, she returned
-               my remaining bond of <measure type="currency">nine hundred florins</measure>, and
-               gave <persName>Joanna</persName> a purse containing near <measure type="currency"
-                  >twenty ducats</measure>, besides two pieces of <measure type="currency">East
-                  India chintz</measure>. At the same time, she advised me to give into the Court a
-               request for <persName>little Johnny</persName>'s immediate manumission. She said it
-               was a necessary form, whether I were able to obtain the bail usually required, or
-               not; and that even if the bail should be ready to appear, nothing could be done if
-               this formality were dispensed with.</p>
+            <p>"Poor <persName ref="#joanna_0001">Joanna</persName> remained inflexible in her
+               resolution; and on <date>the twenty-fourth</date>, an agreement with <persName
+                  ref="#mrs_godefroy_0001">Mrs. Godefroy</persName> was solemnly ratified in the
+               presence of <rs type="persGroup">her mother and all her relations</rs>, whereby that
+               lady bound herself never to part with her except to myself alone; and that upon her
+               death, not only her full liberty, but a spot of ground for cultivation, with a neat
+               house built upon it, should be her portion forever, to dispose of as she pleased.
+               After this, she returned my remaining bond of <measure type="currency">nine hundred
+                  florins</measure>, and gave <persName ref="#Joanna_0001">Joanna</persName> a purse
+               containing near <measure type="currency">twenty ducats</measure>, besides two pieces
+               of <measure type="currency">East India chintz</measure>. At the same time, she
+               advised me to give into the Court a request for <persName ref="#Johnny_Stedman_0001"
+                  >little Johnny</persName>'s immediate manumission. She said it was a necessary
+               form, whether I were able to obtain the bail usually required, or not; and that even
+               if the bail should be ready to appear, nothing could be done if this formality were
+               dispensed with.</p>
             <pb n="041"/>
             <fw type="pageNum">46</fw>
             <p>"Having both of us thanked this most excellent woman, I went to sup with <rs
@@ -895,15 +901,16 @@
                for. Thus after so much time and labor, besides the expense of more than <measure
                   type="currency">a hundred guineas</measure>, I still had the inexpressible
                mortification of seeing this dear little fellow in danger of perpetual servitude. As
-               for <persName>Joanna</persName>, she, to my heartfelt satisfaction, was now perfectly
-               safe."</p>
+               for <persName ref="#joanna_0001">Joanna</persName>, she, to my heartfelt
+               satisfaction, was now perfectly safe."</p>
          </div>
          <div type="section">
             <floatingText>
                <body>
                   <div type="subsection">
-                     <p>After describing some shocking scenes of cruelty toward the slaves, Capt.
-                        Stedman continues:</p>
+                     <p>After describing some shocking scenes of cruelty toward the slaves,
+                           <persName ref="#john_stedman_1744">Capt. Stedman</persName>
+                        continues:</p>
                   </div>
                </body>
             </floatingText>
@@ -919,21 +926,22 @@
                   Governor</rs> for my son's manumission. On the <date>eigth of October</date> I saw
                with joyful surprise, the following advertisement posted up: <floatingText>
                   <body>
-                     <ab>'If any one can give in a lawful objection why <persName>John
-                           Stedman</persName>, <rs type="properAdjective">a Quadroon infant</rs>,
-                        son of <persName>Captain John Stedman</persName>, should not be presented
-                        with the blessing of freedom, such person, or persons are requested to
-                        appear before <date>January 1st, 1777</date>.'</ab>
+                     <ab>'If any one can give in a lawful objection why <persName
+                           ref="#john_stedman_1744">John Stedman</persName>, <rs
+                           type="properAdjective">a Quadroon infant</rs>, son of <persName
+                           ref="#john_stedman_1744">Captain John Stedman</persName>, should not be
+                        presented with the blessing of freedom, such person, or persons are
+                        requested to appear before <date>January 1st, 1777</date>.'</ab>
                   </body>
                </floatingText> I no sooner read it, than I ran with the good news to my friend,
                   <persName>Mr. Palmer</persName>, who assured me it was a mere form, put in
                practice on the supposition of my producing the required bail, which was undoubtedly
                expected, from my having so boldly gien in my request to <rs type="person">the
                   Governor of the Colony</rs>. Unable to utter a syllable in reply, I retired to the
-               company of <persName>Joanna</persName>, who with a smile bade me never despair, for
-                  <persName>Johnny</persName> would certainly one day be free. She never failed to
-               give me consolation, even when my prospects were the darkest, and my feelings the
-               most desperate.</p>
+               company of <persName ref="#Joanna_0001">Joanna</persName>, who with a smile bade me
+               never despair, for <persName ref="#Johnny_Stedman_0001">Johnny</persName> would
+               certainly one day be free. She never failed to give me consolation, even when my
+               prospects were the darkest, and my feelings the most desperate.</p>
          </div>
          <div type="section">
             <p>"Having been some time encamped in the <pb n="043"/>
@@ -947,23 +955,24 @@
                domestic felicity, at <placeName>The Hope</placeName>. It was made on an ablong
                board, of about eighteen inches by twelves, entirely of <ecda:flora>the manicole
                   tree</ecda:flora> and its branches, like the original; and was esteemed quite a
-               masterpiece. I sent it as a present to my friend, <persName>Mr. De Graav</persName>,
-               at <placeName>Paramaribo</placeName>, who has since placed it in a cabinet of natural
-               curiosities at <placeName>Amsterdam</placeName></p>
+               masterpiece. I sent it as a present to my friend, <persName ref="#Mr_de_graav_0001"
+                  >Mr. De Graav</persName>, at <placeName>Paramaribo</placeName>, who has since
+               placed it in a cabinet of natural curiosities at <placeName>Amsterdam</placeName></p>
             <p>"Illness soon broke out in the camp, and mortality every day gained ground, under the
                most loathsame and hideous form; and to complete the distress, a part of the camp
                took fire</p>
             <p>"My misery, however, received an unexpected termination on <date>the twenty-sixth of
-                  January</date>, by <persName>Colonel Fourgeoud</persName>'s giving me,<pb n="044"/>
+                  January</date>, by <persName ref="#colonel_fourgeoud_0001">Colonel
+                  Fourgeoud</persName>'s giving me,<pb n="044"/>
                <fw type="pageNum">49</fw> unasked, leave of absence, if I chose to accompany him to
                   <placeName>Paramaribo</placeName>. I joyfully accepted the offer. On the way, he
                informed me of his determination to return to the woods no more, and in a few weeks
                to draw this long and painful expedition to a conclusion</p>
             <p>"I arrived in fine spirits and perfect health; and was most heartily welcomed by my
                friends, who rejoiced to see me once more alive. Not wishing to be troublesome to any
-               person, I hired a small neat house by the water-side, where
-                  <persName>Joanna</persName> and I lived almost as happily as we had done at
-                  <placeName>The Hope</placeName></p>
+               person, I hired a small neat house by the water-side, where <persName
+                  ref="#Joanna_0001">Joanna</persName> and I lived almost as happily as we had done
+               at <placeName>The Hope</placeName></p>
             <p>"<date>On the sixteenth of February</date>, being invited to dine with his excellency
                   <rs type="person">the Governor</rs>, I laid before him my collection of drawings,
                and my remarks on the Colony of <placeName>Surinam</placeName>, which he honored with
@@ -1018,7 +1027,8 @@
                      boy</rs> should die a heathen, rather than be baptised by such a
                   blockhead</quote>.</p>
             <p>"The day of our departure now drew so near, that I was obliged to give up my house.
-               At <persName>Mrs. Godefroy</persName>'s pressing invitation, I <pb n="047"/>
+               At <persName ref="#mrs_godefroy_0001">Mrs. Godefroy</persName>'s pressing invitation,
+               I <pb n="047"/>
                <fw type="pageNum">52</fw> spent the few remaining days with
                   <persName>Joanna</persName>, in the dwelling she had so generously prepared for
                her reception, under the shad of <ecda:flora>tamarind</ecda:flora> and
@@ -1031,13 +1041,13 @@
                   Colony</placeName>; but my soul was full of a friend dearer than all, to feel what
                I could have felt at parting under other circumstances</p>
             <p>"While I gave the most impetuous vent to my feelings, not the smallest expression of
-               grief, or even of dejection, escaped <persName>Joanna</persName>'s lips. Her good
-               sense, her fortitude, and her affection for me, restrained the tears in my presence.
-               I once more earnestly entreated her to accompany me; and I was seconded by
-                  <persName>Mrs. Godefroy</persName> and all her friends; but she remained firm. Her
-               answer was, that <ecda:intSN>'dreadful as this fatal separation appeared——perhaps
-                  never more to meet,——she felt that it was her duty to remain in
-                     <placeName>Surinam</placeName>. First,<pb n="048"/>
+               grief, or even of dejection, escaped <persName ref="#Joanna_0001">Joanna</persName>'s
+               lips. Her good sense, her fortitude, and her affection for me, restrained the tears
+               in my presence. I once more earnestly entreated her to accompany me; and I was
+               seconded by <persName ref="#mrs_godefroy_0001">Mrs. Godefroy</persName> and all her
+               friends; but she remained firm. Her answer was, that <ecda:intSN>'dreadful as this
+                  fatal separation appeared——perhaps never more to meet,——she felt that it was her
+                  duty to remain in <placeName>Surinam</placeName>. First,<pb n="048"/>
                   <fw type="pageNum">53</fw> from a consciousness that she had no right to dispose
                   of herself; secondly, because she had rather be among the first of her own class
                   in <placeName>America</placeName>, than a disgrace to me in
@@ -1057,8 +1067,8 @@
             <p>"Here my friends <persName>Gordon</persName> and <persName>Gourlay</persName>, the
                guardians of <rs type="person">my boy</rs>, came to insist upon my going back with
                them to <placeName>Paramaribo</placeName>. My soul could not resist the hope of once
-               more seeing what was so dear to me. I went——and found <persName>Joanna</persName>,
-               who had displayed so <pb n="049"/>
+               more seeing what was so dear to me. I went——and found <persName ref="#Joanna_0001"
+                  >Joanna</persName>, who had displayed so <pb n="049"/>
                <fw type="pageNum">54</fw> much fortitude in my presence, now bathed in tears, and
                scarcely alive——so much was she become the victim of melancholy and despair. She had
                not partaken of food or sleep since my departure——nor spoken to any living
@@ -1077,8 +1087,9 @@
                death——and she sunk lifeless into the arms of <rs type="person">her adopted
                   mother</rs>. Rousing all my remaining <pb n="050"/>
                <figure>
-                  <figDesc><persName ref="john_stedman_1744">Capt. Stedman</persName> taking a final
-                     leave of <persName>Joanna</persName>.——See page 54.</figDesc>
+                  <figDesc><persName ref="#john_stedman_1744">Capt. Stedman</persName> taking a
+                     final leave of <persName ref="#Joanna_0001">Joanna</persName>.——See page
+                     54.</figDesc>
                   <graphic url=""/>
                </figure>
                <pb n="051"/>
@@ -1090,33 +1101,36 @@
             <floatingText>
                <body>
                   <div type="subsection">
-                     <p>Here follows an account of <persName ref="john_stedman_1744">Capt.
+                     <p>Here follows an account of <persName ref="#john_stedman_1744">Capt.
                            Stedman</persName>'s voyage, his promotion in the army, his reception in
-                        Holland and England. His black boy <persName>Quacco</persName>, whose
-                        freedom he had purchased, accompanied him to
+                        Holland and England. His black boy <persName ref="#Quacco_0001"
+                           >Quacco</persName>, whose freedom he had purchased, accompanied him to
                            <placeName>Amsterdam</placeName>, and became butler to <persName>the
                            Countess of Rosendaal</persName>. He mentions a pleasing anecdote
                         concerning the attachment of this boy. Having found a crown piece more than
-                        he expected in his purse, he questioned <persName>Quacco</persName>; who
-                        replied, '<said>I was afraid you might be short of cash, where people seem
-                           so fond ot it; and I put my five shilling piece into your pocket</said>.'
-                        This was the more generous, being the only crown poor
-                           <persName>Quacco</persName> possessed in the world.</p>
-                     <p>No further mention is made of <persName>Joanna</persName>, until near the
-                        close of the volume. It is as follows:</p>
+                        he expected in his purse, he questioned <persName ref="#Quacco_0001"
+                           >Quacco</persName>; who replied, '<said>I was afraid you might be short
+                           of cash, where people seem so fond ot it; and I put my five shilling
+                           piece into your pocket</said>.' This was the more generous, being the
+                        only crown poor <persName ref="#Quacco_0001">Quacco</persName> possessed in
+                        the world.</p>
+                     <p>No further mention is made of <persName ref="#Joanna_0001"
+                        >Joanna</persName>, until near the close of the volume. It is as
+                        follows:</p>
                   </div>
                </body>
             </floatingText>
             <p>"In <date>August, 1783</date>, I received the melancholy tidings from <persName>Mr.
-                  Gourlay</persName>, that <persName>Joanna</persName> was no more. She had died on
-                  <date>the fifth of November</date> preceding. Some suspected she was poisoned by
-               the hand of jealousy and envy, on account of her prosperity, and the marks of
-               distinction which her superior character so justly attracted from the most
-               respectable people in <placeName>the Colony</placeName>. <persName>Mrs.
-                  Godefroy</persName> wept for her with sincere affection, and ordered her beautiful
-               body to be buried with every mark of respect, under <ecda:flora>the orange
-                  grove</ecda:flora> where she had lived. <rs type="person">Her lovely boy</rs> was
-               sent to me, with nearly two hundred <pb n="053"/>
+                  Gourlay</persName>, that <persName ref="#Joanna_0001">Joanna</persName> was no
+               more. She had died on <date>the fifth of November</date> preceding. Some suspected
+               she was poisoned by the hand of jealousy and envy, on account of her prosperity, and
+               the marks of distinction which her superior character so justly attracted from the
+               most respectable people in <placeName>the Colony</placeName>. <persName
+                  ref="mrs_godefroy_0001">Mrs. Godefroy</persName> wept for her with sincere
+               affection, and ordered her beautiful body to be buried with every mark of respect,
+               under <ecda:flora>the orange grove</ecda:flora> where she had lived. <rs
+                  type="person">Her lovely boy</rs> was sent to me, with nearly two hundred <pb
+                  n="053"/>
                <fw type="pageNum">56</fw> pounds, which he received by inheritance from his mother.
                This charming youth made a most commendable progress in his education at
                   <placeName>Devon</placeName>; went two <placeName>West India</placeName> voyages,
@@ -1142,25 +1156,25 @@
                         <l>There, oh, my boy!——on that celestial shore,</l>
                         <l>Oh, may we gladly meet——and part no more.'</l>
                      </lg>
-                     <p>Such is <persName ref="john_stedman_1744">Capt. Stedman</persName>'s own
-                        account of the beautiful and excellent <persName>Joanna</persName>. In
-                        reading it, we cannot but feel that he might have paid <persName>Mrs.
-                           Godefroy</persName>, and sent for his wife to
-                           <placeName>England</placeName>, long before <date>1783</date>. His
-                        marriage was unquestionably a sincere tribute of respect to the delicacy and
-                        natural refinement of <persName>Joanna</persName>'s character. Yet we find
-                        him often apologizing for his feelings and conduct, which are more truly
-                        creditable to him than any of his exploits in
-                        <placeName>Surinam</placeName>; and he never calls her his wife. Perhaps
-                           <persName>Joanna</persName>, with the quick discernment of 'strong
-                        affection,' perceived that he would be ashamed of her in
-                           <placeName>Europe</placeName>, and therefore heroically sacrificed her
-                        own happiness. If he had any reluctance to <pb n="054"/>
+                     <p>Such is <persName ref="#john_stedman_1744">Capt. Stedman</persName>'s own
+                        account of the beautiful and excellent <persName ref="#Joanna_0001"
+                           >Joanna</persName>. In reading it, we cannot but feel that he might have
+                        paid <persName ref="mrs_godefroy_0001">Mrs. Godefroy</persName>, and sent
+                        for his wife to <placeName>England</placeName>, long before
+                           <date>1783</date>. His marriage was unquestionably a sincere tribute of
+                        respect to the delicacy and natural refinement of <persName
+                           ref="#Joanna_0001">Joanna</persName>'s character. Yet we find him often
+                        apologizing for his feelings and conduct, which are more truly creditable to
+                        him than any of his exploits in <placeName>Surinam</placeName>; and he never
+                        calls her his wife. Perhaps <persName ref="#Joanna_0001">Joanna</persName>,
+                        with the quick discernment of 'strong affection,' perceived that he would be
+                        ashamed of her in <placeName>Europe</placeName>, and therefore heroically
+                        sacrificed her own happiness. If he had any reluctance to <pb n="054"/>
                         <fw type="pageNum">57</fw> acknowledge his love, his admiration and his
                         gratitude in <placeName>England</placeName>, he is at least manly enough to
                         be ashamed of confessing it.</p>
-                     <p><persName ref="john_stedman_1744">Captain Stedman</persName> appears to have
-                        been extremely kind-hearted, and strongly prepossessed in favor of the
+                     <p><persName ref="#john_stedman_1744">Captain Stedman</persName> appears to
+                        have been extremely kind-hearted, and strongly prepossessed in favor of the
                         African character. He was often made ill and wretched by the cruelties he
                         witnessed;——(cruelties, which the imagination of the most 'fanatical'
                         Abolitionist could never have conceived;) he saved <rs type="person">a negro
@@ -1182,7 +1196,7 @@
                   </div>
                   <div type="epilogue">
                      <div type="poem">
-                        <head>A Negro Mother's Appeal</head>
+                        <head><title>A Negro Mother's Appeal</title></head>
                         <lg>
                            <l><name>White Lady</name>, happy, proud and free!</l>
                            <l>Lend, awhile, thine ear to me;</l>
@@ -1363,7 +1377,7 @@
                      <pb n="060"/>
                      <fw type="pageNum">63</fw>
                      <div type="poem" xml:id="a003" corresp="#n003">
-                        <head>The Slave Dealer</head>
+                        <head><title>The Slave Dealer</title></head>
                         <head>[From Pringle's African Sketches.]</head>
                         <lg>
                            <l>From ocean's wave a wanderer came,</l>
@@ -1444,15 +1458,15 @@
 
          <div type="notice">
             <head><title rend="allcaps">Standard Anti-Slavery Works</title>, For Sale by <persName
-                  ref="isaac_knapp_1804">Isaac Knapp</persName>, Depository, No. 25, Cornhill,
+                  ref="#isaac_knapp_1804">Isaac Knapp</persName>, Depository, No. 25, Cornhill,
                Boston.</head>
             <div type="notice">
                <head><title rend="allcaps">Jay's Inquiry</title>: 206 pp. 12 mo. cloth. 37 1-2
                   cts.</head>
                <p>An inquiry into the character and tendency of the American Colonization and
-                  American Anti-Slavery Societies. By <persName ref="william_jay_1789">William
+                  American Anti-Slavery Societies. By <persName ref="#william_jay_1789">William
                      Jay</persName>, of <placeName>Bedford, New York</placeName>, son of the
-                  celebrated <persName ref="john_jay_1745">John Jay</persName>, first Chief Justice
+                  celebrated <persName ref="#john_jay_1745">John Jay</persName>, first Chief Justice
                   of the United States.——This book is in two parts. The first contains copious
                   extracts from the slave laws, besides being the best Manual, which is now for
                   sale, exhibiting the odious and repulsive character of Colonization. The second
@@ -1520,7 +1534,7 @@
                   1-2</head>
                <p>This book contains a collection of facts and arguments on American slavery,
                   arranged under appropriate heads, and admirably adapted to be the abolitionist's
-                  pocket companion. By Rev. La Roy Sunderland.</p>
+                  pocket companion. By <persName>Rev. La Roy Sunderland</persName>.</p>
             </div>
             <div type="notice">
                <head><title rend="allcaps">Bourne's Picture</title>. 228 pp. 18 mo. cloth.
@@ -1541,18 +1555,21 @@
                   memorable saying of Lafayette, 'Slavery is a dark spot upon the face of the
                   nation.' Any one who has ever learnt the value of this book, will never be willing
                   to be destitute of it. It contains copious and pertinent extracts from 150 well
-                  known authors, among which are <persName ref="george_washington_1732">Geo.
-                     Washington</persName>, <persName ref="John_Adams_1735">John Adams</persName>,
-                     <persName ref="Thomas_Jefferson_1743">Thomas Jefferson</persName>,
-                     <persName>Barlow</persName>, <persName ref="henry_brougham_1778"
-                     >Brougham</persName>, <persName ref="william_channing_1780"
-                  >Channing</persName>, <persName>Franklin</persName>, <persName>Hopkins</persName>,
-                     <persName>Andrew Jackson</persName>, <persName>Milton</persName>,
-                     <persName>Pitt</persName>, <persName>Roscoe</persName>, <persName>Daniel
-                     Webster</persName>, <persName>Whitefield</persName>, &amp;c. It contains a full
+                  known authors, among which are <persName ref="#george_washington_1732">Geo.
+                     Washington</persName>, <persName ref="#John_Adams_1735">John Adams</persName>,
+                     <persName ref="#Thomas_Jefferson_1743">Thomas Jefferson</persName>,
+                     <persName>Barlow</persName>, <persName ref="#henry_brougham_1778"
+                     >Brougham</persName>, <persName ref="#william_channing_1780"
+                     >Channing</persName>, <persName ref="#benjamin_franklin_1706"
+                     >Franklin</persName>, <persName ref="#samuel_hopkins_1721">Hopkins</persName>,
+                     <persName ref="#andrew_jackson_1767">Andrew Jackson</persName>, <persName
+                     ref="#john_milton_1608">Milton</persName>, <persName ref="#william_pitt_1759"
+                     >Pitt</persName>, <persName ref="#william_roscoe_1753">Roscoe</persName>,
+                     <persName ref="#daniel_webster_1782">Daniel Webster</persName>, <persName
+                     ref="#george_whitefield_1714">Whitefield</persName>, &amp;c. It contains a full
                   history of the Texan Revolution, and a large collection of facts relating to
                   slavery.</p>
-               <!-- finish persnaming these authors -->
+
             </div>
             <div type="notice">
                <head><title rend="allcaps">Anti-slavery Record vol. I.</title> 174 pp. 12 mo. Cloth.
@@ -1621,19 +1638,21 @@
                   violence. It contains many documents of very great value, which it is diff-<pb
                      n="068"/>
                   <fw type="pageNum">71</fw>cult to find elsewhere. It comprises a very able
-                  exposition of the tyrannical doctrines of the Post Master General, and points out,
-                  with great clearness and force, the destructive tendency of all attempts to set
-                  aside the law, on any pretence whatever. It was not written by a member of an
-                  Anti-Slavery Society, but by an ardent lover and vigilant defender of the
-                  Constitution. He evidently needs but little more age and experience, to become
-                  what we so much need, another Junius. The book should be kept as a fireside
+                  exposition of the tyrannical doctrines of <name>the Post Master General</name>,
+                  and points out, with great clearness and force, the destructive tendency of all
+                  attempts to set aside the law, on any pretence whatever. It was not written by a
+                  member of an <orgName>Anti-Slavery Society</orgName>, but by an ardent lover and
+                  vigilant defender of the Constitution. He evidently needs but little more age and
+                  experience, to become what we so much need, another
+                     <ecda:anonPers>Junius</ecda:anonPers>. The book should be kept as a fireside
                   companion in every household, where liberty is regarded as anything more than a
                   name, or there is any desire to preserve it for posterity.</p>
-               <!-- Junius? Also, how to mark up anti-slavery society? -->
             </div>
             <div type="notice">
-               <head><title rend="allcaps">Phillis Wheatley</title>110 pp. 18 mo. 37 1-2.</head>
-               <p>Memoir and Poems of Philis Wheatley, a native African and a slave.</p>
+               <head><title rend="allcaps"><persName ref="#phillis_wheatley_1753">Phillis
+                        Wheatley</persName></title>110 pp. 18 mo. 37 1-2.</head>
+               <p>Memoir and Poems of <persName ref="#phillis_wheatley_1753">Phillis
+                     Wheatley</persName>, a native African and a slave.</p>
                <p>The Poems were originally published in <placeName>London</placeName> in
                      <date>1773</date>. Many of them would do credit to a person of the highest
                   advantages. It would be well to have them always at hand that we may have some
@@ -1643,7 +1662,8 @@
             <div type="notice">
                <head><title rend="allcaps">Whittier's Poems</title>103 pp. 12 mo. Cloth.</head>
                <p>Poems written during the progress of the Abolition question in the United States,
-                  between the years 1830 and 1838 , by J.G. Whitier. It is embellished with a
+                  between the years <date>1830</date> and <date>1838</date>, by <persName
+                     ref="#john_whittier_1807">J.G. Whittier</persName>. It is embellished with a
                   beautiful copperplate engraving, just received from London, illustrating a verse
                   in Cowper's Morning Dream.</p>
             </div>
@@ -1652,12 +1672,12 @@
             <div type="notice">
                <head><title rend="allcaps">Thompson's Lectures and Debates</title> 190 pp. 12mo.
                   cloth. 50.</head>
-               <p>Lectures of <persName ref="george_thompson_1804">George Thompson</persName>, with
+               <p>Lectures of <persName ref="#george_thompson_1804">George Thompson</persName>, with
                   a full report of the discussion between him and Mr. Borthwick, the pro-slavery
                   agent, held at the royal amphitheatre, <placeName>Liverpool</placeName>, (Eng.)
                   and which continued for six evenings with unabatted interest. The book is enriched
                   by an exceedingly interesting preface of more than 30 pages, by <persName
-                     ref="william_garrison_1805">Wm. L. Garrison</persName>, giving a brief account
+                     ref="#william_garrison_1805">Wm. L. Garrison</persName>, giving a brief account
                   of Mr. Thompson's labors. The whole work gives us a vivid conception of the east
                   and completeness with which Mr. Thompson demolished the extended rampart of
                   slavery, erected with great effort by the hired champion of the slaveholders. The
@@ -1666,12 +1686,12 @@
             <div type="notice">
                <head><title rend="allcaps">Thompson in America</title>126 pp. 12 mo. boards. 37
                   1-2</head>
-               <p>Letters and addresses by <persName ref="george_thompson_1804">George
+               <p>Letters and addresses by <persName ref="#george_thompson_1804">George
                      Thompson</persName>, during his mission in the United States, from Oct. 1st
                   1834, to Nov. 27, 1835.</p>
                <p>This book is a faint reflection of the brilliant light which flashed forth,
                   whenever Mr. Thompson was permitted to speak. The letter from Marblehead to
-                     <persName ref="william_garrison_1805">W.L. Garrison</persName> on the occasion
+                     <persName ref="#william_garrison_1805">W.L. Garrison</persName> on the occasion
                   of the Washington st. mob, is one of the most thrilling, spirit-stirring
                   productions which the cause of liberty ever elicited. In addition to much else
                   which is very interesting and valuable, it contains complete and triumphant
