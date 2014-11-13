@@ -19,7 +19,7 @@
            <rendition xml:id="r.quotes">quotes</rendition>
            <rendition xml:id="r.smallcaps">smallcaps</rendition>
            <namespace name="dsg.">
-              <tagUsage gi="foreign" render="#r.ital"/>
+              <tagUsage gi="distinct" render="#r.ital"/>
               <tagUsage gi="hi" render="#r.ital"/>
               <tagUsage gi="said" render="#r.quotes"/>
               <tagUsage gi="quote" render="#r.quotes"/>
@@ -72,7 +72,7 @@
                  juice</ecda:food> as a drink:
                  <quote xml:lang="la" rend="slant(italic)type(block)">Dulces bibebant ex arundine succos</quote>
                  The industrious Naturalist says, <distinct xml:lang="la">Saccharum et Arabia fort, sed laudatius India</distinct>; and
-                 the <rs type="properAdjective">Greek</rs> Historian, in his <distinct xml:lang="el">περεπλους</distinct> of the <geogName>Red-sea</geogName>, tells us of the neighbouring nation
+                 the <rs type="properAdjective">Greek</rs> Historian, in his <distinct xml:lang="el">περεπλους</distinct> of the <placeName>Red-sea</placeName>, tells us of the neighbouring nation
                  who drank it also; his words are <distinct xml:lang="el"><!-- Include Greek here --></distinct>.
                  The <ecda:flora ana="#ana_cultivation">Cane</ecda:flora>, however, as it was a native of the East, so has it been probably 
                  cultivated there time immemorial. The raw juice was doubtless first made use of;
@@ -1681,13 +1681,38 @@
      </ecda:hyperDiv>
      <front>
         <titleBlock>
-           <docRole type="author">Grainger</docRole>
+           <titlePart type="main" rend="allcaps">The Sugar-Cane.</titlePart>
+           <titlePart type="desc" rend="allcaps">A Poem.</titlePart>
+        </titleBlock>
+        <figure>
+           <figDesc>A frontispiece depicting the sugar cane plant</figDesc>
+        </figure>
+        <titleBlock>
+           <titlePart type="main" rend="allcaps">The Sugar-Cane.</titlePart>
+           <titlePart type="desc" rend="allcaps">A Poem.
+              <lb/>In Four Books.
+              <lb/>With Notes
+           </titlePart>
+           <epigraph>
+              <lg>
+                 <l><unclear>Agredior primusque novis Helicona movere</unclear></l>
+                 <l><unclear>Cantibus, et viridi nutantes vertice sylves;</unclear></l>
+                 <l><unclear>Hospita sacra ferens, nulli memorate priorum.</unclear></l>
+              </lg>
+              <bibl><author><persName ref="#marcus_manilius_0001">Manil.</persName></author></bibl>
+           </epigraph>
+           <byline>by <docRole type="author"><persName ref="#james_grainger_1721">James Grainger</persName></docRole>, M. D. &amp;c.</byline>
+           <docImprint>
+              <pubPlace><placeName rend="case(allcaps)">London:</placeName></pubPlace>
+              Printed for <persName ref="#robert_dodsley_1704 #james_dodsley_1724">R. and J. Dodsley,</persName> in Pall-mall.
+              <docDate><date when="1764">MDCCLXIV.</date></docDate>
+           </docImprint>
         </titleBlock>
         
         <div type="prefatory">
            <head rend="case(allcaps)">Preface</head>
            <p>Soon after my arrival in the <placeName>West-Indies</placeName>, I conceived the de-
-              sign of writing a poem on the cultivation of the Sugar-Cane.
+              sign of writing a poem on the cultivation of the <ecda:flora ana="#commodity">Sugar-Cane</ecda:flora>.
               My inducements to this arduous undertaking were, not only the 
               importance and novelty of the subject, but more especially this consideration; 
               that, as the face of the country was wholly different
@@ -1705,9 +1730,9 @@
               wishes to be thought a good man.
            </p>
            <p>It must, however, be observed, that, though the general precepts 
-              are suited to every climate where Cane will grow; yet,
-              the more minute rules are chiefly drawn from the practice of St.
-              Christopher. Some selection was necessary; and I could adopt no
+              are suited to every climate where <ecda:flora>Cane</ecda:flora> will grow; yet,
+              the more minute rules are chiefly drawn from the practice of <placeName>St.
+              Christopher</placeName>. Some selection was necessary; and I could adopt no
               
               
               
@@ -1716,8 +1741,8 @@
               reside since I came to the <placeName>West-Indies</placeName>.
            </p>
            <p>I have often been astonished, that so little has been published
-              on the cultivation of the Sugar-Cane, while the press has groaned
-              under folios on every other branch of rural <sic>oeconomy</sic>. It were
+              on the cultivation of the <ecda:flora ana="#cultivation">Sugar-Cane</ecda:flora>, while the press has groaned
+              under <ecda:commodity ana="#production">folios</ecda:commodity> on every other branch of rural <sic>oeconomy</sic>. It were
               unjust to suppose planters were not solicitous for the improvement
               of their art, and injurious to assert they were incapable of obliging
               mankind with their improvements.
@@ -1725,7 +1750,7 @@
            <p>And yet except some scattered hints in <persName ref="#jeanbaptiste_labat_1663">Pere Labat</persName>, and other
               <rs type="properAdjective">French</rs> travellers in <placeName>America</placeName>; an Essay by <persName ref="samuel_martin_1694">Colonel Martyn</persName> of <placeName>Antigua</placeName>, 
               is the only piece on plantership I have seen deserving a perusal. 
-              That gentleman's pamphlet is, indeed, an excellent performance; 
+              That gentleman's <ecda:commodity>pamphlet</ecda:commodity> is, indeed, an excellent performance; <!-- should we count books as commodities? -->
               and to it I own myself indebted.
            </p>
            <p>It must be confessed, that terms of art look awkward in poetry;
@@ -1769,7 +1794,7 @@
            <head>The Sugar-Cane. Book I.</head>
             <div type="prefatory">
                <head>Argument</head>
-               <p rend="indent(-1)">Subject proposed. Invocation and address. What soils the Cane grows
+               <p>Subject proposed. Invocation and address. What soils the Cane grows
                   best in. The grey light earth. Praise of <placeName>St. Christopher</placeName>, The red
                   brick mould. Praise of <placeName>Jamaica</placeName>, and of <persName ref="christopher_columbus_1450">Christopher Columbus</persName>. The
                   black soil mixed with clay and gravel. Praise of <placeName>Barbadoes</placeName>, <placeName>Nevis</placeName>,
