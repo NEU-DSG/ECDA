@@ -1777,10 +1777,10 @@
               added, which, it is presumed will not be disagreeable to those
               who have never been in the <placeName>West-Indies</placeName>.
            </p>
-           <p>In a <rs type="properAdjective">West-India</rs> georgic, the mention of many indigenous
-              remedies, as well as diseases, was unavoidable. The truth is,
+           <p>In a <rs type="properAdjective">West-India</rs> georgic, <seg ana="#medical #disease">the mention of many indigenous
+              remedies, as well as diseases, was unavoidable.</seg> The truth is,
               I have rather courted opportunities of this nature, than avoided
-              them. Medicines of such amazing efficacy, as I have had occasion
+              them. <ecda:commodity ana="medical">Medicines</ecda:commodity> of such amazing efficacy, as I have had occasion <!-- is it?? -->
               to make trials of in these islands, deserve to be universally known.
               And wherever, in the following poem, I recommend any such, I
               beg leave to be understood as a physician, and not a poet
@@ -1794,14 +1794,14 @@
            <head>The Sugar-Cane. Book I.</head>
             <div type="prefatory">
                <head>Argument</head>
-               <p>Subject proposed. Invocation and address. What soils the Cane grows
+               <p>Subject proposed. Invocation and address. What soils the <ecda:commodity ana="#flora">Cane</ecda:commodity> grows
                   best in. The grey light earth. Praise of <placeName>St. Christopher</placeName>, The red
                   brick mould. Praise of <placeName>Jamaica</placeName>, and of <persName ref="christopher_columbus_1450">Christopher Columbus</persName>. The
                   black soil mixed with clay and gravel. Praise of <placeName>Barbadoes</placeName>, <placeName>Nevis</placeName>,
-                  and Mount serrat. Composts may improve other soils. Advantages
+                  and <placeName>Mount serrat</placeName>. Composts may improve other soils. Advantages
                   and disadvantages of a level plantation. Of a mountain-estate. Of
                   a midland one. Advantages of proper cultivation. Of fallowing.
-                  of compost. Of leaving the <placeName>Woura</placeName>, and penning cattle on the distant
+                  of compost. Of leaving the Woura, and penning cattle on the distant
                   Cane-pieces. Whether yams improve the soil. Whether dung should be
                   buried in each hole, or scattered over the piece. Cane-lands may be 
                   holed at any time. The ridges should be open to the trade-wind. The
@@ -1824,7 +1824,7 @@
                <head>The Sugar-Cane Book I.</head>
                <lg type="poem">
                   <lg type="indeterminate">
-                     <l>What soil the Cane affects; what care demands;</l>
+                     <l>What soil the <ecda:flora>Cane</ecda:flora> affects; what care demands;</l>
                      <l>Beneath what signs to plant; what ills await;</l>
                      <l>How the hot nectar best to cristallize;</l>
                      <l>And Afric's sable progeny to treat:</l>
@@ -1833,7 +1833,7 @@
                   </lg>
                   <lg type="indeterminate">
                   <l>Spirit of Inspiration, that did'st lead</l>
-                  <l>Th' Ascrean Poet to the sacred Mount,</l>
+                  <l>Th' <rs>Ascrean Poet</rs> to the sacred Mount,</l>
                   <l>And taught'st him all the precepts of the swain</l>
                   <l>Descend from Heaven, and guide my trembling steps</l>
                   <l>To Fame's Eternal Dome, where <persName ref="#virgil_0070" cert="medium">Maro</persName> reigns</l>
@@ -1870,15 +1870,15 @@
                   <l>Permit a choice: avoid the rocky slope,</l>
                   <l>The clay-cold bottom, and the sandy beach.</l>
                   <l>But let thy biting ax with ceaseless stroke</l>
-                  <l>The <seg xml:id="a003" corresp="#n003">wild red cedar</seg>, the touch <seg xml:id="a004" corresp="#n004">locust</seg> fell:</l>
+                  <l>The <seg xml:id="a003" corresp="#n003">wild <ecda:flora ana="#commodity #cultivation">red cedar</ecda:flora></seg>, the touch <seg xml:id="a004" corresp="#n004" ana="#flora #commodity #production">locust</seg> fell:</l>
                   
                   
                   
                   <l>Nor let his nectar, nor his silken pods,</l>
-                  <l>The sweet-smelled cassia, <seg xml:id="a005" corresp="#n005">or vast ceiba save.</seg></l>
-                  <l><seg xml:id="a006" corresp="#n006">Yet spare the guava,</seg> <seg xml:id="a007" corresp="#n007">yet the guaiac spare;</seg></l>
-                  <l>A wholesome food the ripened guava yields,</l>
-                  <l>Boast of the housewife; while the guaiac grows</l>
+                  <l>The sweet-smelled <ecda:flora>cassia</ecda:flora>, <seg xml:id="a005" corresp="#n005">or vast <ecda:flora>ceiba</ecda:flora> save.</seg></l>
+                  <l><seg xml:id="a006" corresp="#n006">Yet spare the <ecda:flora>guava</ecda:flora>,</seg> <seg xml:id="a007" corresp="#n007">yet the <ecda:flora>guaiac</ecda:flora> spare;</seg></l>
+                  <l>A wholesome food the ripened <ecda:flora ana="#food #commodity">guava</ecda:flora> yields,</l>
+                  <l>Boast of the housewife; while the <ecda:flora ana="#food #medical">guaiac</ecda:flora> grows</l>
                   <l>A sovereign antidote, in wood, bark, gum,</l>
                   <l>To cause the lame his useless crutch forego,</l>
                   <l>And dry the sources of corrupted love.</l>
@@ -1886,8 +1886,8 @@
                   
                   
                   
-                  <l><seg xml:id="a008" corresp="#n008">The golden shaddoc,</seg> the forbidden fruit,</l>
-                  <l>The white acajou, and rich <seg xml:id="a009" corresp="#n009">sabbaca:</seg></l>
+                  <l><seg xml:id="a008" corresp="#n008">The golden <ecda:flora>shaddoc</ecda:flora>,</seg> the forbidden fruit,</l>
+                  <l>The white acajou, and rich <seg xml:id="a009" corresp="#n009" ana="#flora #food">sabbaca:</seg></l>
                   <l>For, where these trees their leafy banners raise</l>
                   <l>Aloft in air, a grey deep earth abounds,</l>
                   <l>Fat, light; yet, when it feels the wounding hoe,</l>
@@ -1909,7 +1909,7 @@
                   <l>Disdain supplies, nor ask from compost aid.</l>
                </lg>
                <lg>
-                  <l>Such, <seg xml:id="a010" corresp="#n010">green St. Christopher,</seg> thy happy soil!—</l>
+                  <l>Such, <seg xml:id="a010" corresp="#n010">green <placeName>St. Christopher</placeName>,</seg> thy happy soil!—</l>
                   <l>Not <rs type="properAdjective">Grecian</rs> Tempé, where <rs type="properAdjective">Arcadian</rs>Pan,</l>
                   
                   
@@ -1936,7 +1936,7 @@
                   <l>As far transcend the immortal songs of <placeName>Greece</placeName>,</l>
                   <l>As thou the partial subject of their praise!</l>
                   <l>Thy fame should float familiar thro' the world;</l>
-                  <l>Each plant should own thy <commodity xmlns="http://dsg.northeastern.edu/ecda/ns/1.0">Cane</commodity> her lawful lord;</l>
+                  <l>Each plant should own thy <ecda:commodity>Cane</ecda:commodity> her lawful lord;</l>
                   <l>Nor whould old Time, song stops the flight of Time,</l>
                   <l>Obscure thy lustre with his shadowy wing.</l>
                </lg>
@@ -1996,7 +1996,7 @@
                   <l>Dear to the Nine, thy glory shall remain</l>
                   <l>While winged Commerce either ocean ploughs;</l>
                   <l>While its lov'd pole the magnet coyly shuns;</l>
-                  <l>While weeps the guaiac, and while joints the Cane.</l>
+                  <l>While weeps the <ecda:flora>guaiac</ecda:flora>, and while joints the <ecda:flora>Cane</ecda:flora>.</l>
                </lg>
                <lg>
                   <l>Shall the Muse celebrate the dark deep mould,</l>
@@ -2004,7 +2004,7 @@
                   <l>With partial fondness loves; and oft surveys</l>
                   <l>Its progeny with wonder.—Such rich veins</l>
                   <l>Are plenteous scatter'd o'er the <!-- Sugar-isles -->:</l>
-                  <l>But chief that land, to which <seg xml:id="a013" corresp="#n013">the bearded fig</seg>,</l>
+                  <l>But chief that land, to which <seg xml:id="a013" corresp="#n013">the bearded <ecda:flora>fig</ecda:flora></seg>,</l>
                   
                   
                   
@@ -2018,7 +2018,7 @@
                   <l>To stony hardness; boast this fertile globe.</l>
                </lg>
                <lg>
-                  <l>Tho' such the soils the <rs type="properAdjective">Antillean</rs> Cane</l>
+                  <l>Tho' such the soils the <rs type="properAdjective">Antillean</rs> <ecda:flora>Cane</ecda:flora></l>
                   <l>Supremely loves; yet other soils abound,</l>
                   <l>Which art may tutor to obtain its smile.</l>
                   <l>Say, shall the experienc'd Muse that art recite?</l>
@@ -2045,7 +2045,7 @@
                   <l>Far from the hill; be parsimony thine.</l>
                   <l>For tho' this year when constant showers descend;</l>
                   <l>The speeding gale, thy sturdy numerous stock,</l>
-                  <l>Scarcely suffice to grind thy mighty Canes:</l>
+                  <l>Scarcely suffice to grind thy mighty <ecda:flora>Canes</ecda:flora>:</l>
                   <l>Yet thou, with rueful eye, for man a year,</l>
                   <l>Shalt view thy plants burnt by the torch of day;</l>
                   <l>Hear their parch'd wan blades rustle in the air;</l>
@@ -2072,7 +2072,7 @@
                   <l><seg xml:id="a017" corresp="#n017">And highest temper,</seg> ere it saccharize;</l>
                   <l>A meagre produce. Such is Virtue's meed,</l>
                   <l>Alas, too oft in these degenerate days.</l>
-                  <l>Thy cattle likewise, as they grag the wain,</l>
+                  <l>Thy <ecda:fauna>cattle</ecda:fauna> likewise, as they grag the wain,</l>
                   <l>Charg'd from the beach; in spite of whips and shouts,</l>
                   <l>Will stop, will pant, will sink beneath the load;</l>
                   <l>A better fate deserving.―</l>
@@ -2083,7 +2083,7 @@
                   <l>Thy neighbour's vale. So <placeName>Markley-hill</placeName> of old,</l>
                   <l>As sung thy bard, <persName ref="pomona_001">Pomona</persName>, (in these isles</l>
                   <l>Yet unador'd;) with all its spreading trees,</l>
-                  <l>Full fraught with apples, chang'd its lofty site.</l>
+                  <l>Full fraught with <ecda:flora>apples</ecda:flora>, chang'd its lofty site.</l>
                </lg>
                <lg>
                   <l>But, as in life, the golden mean is best;</l>
@@ -2152,7 +2152,7 @@
                   <l>'Tis known the yem will ne'e'r to bigness swell;</l>
                   <l>And from each mould the vegetable tribes,</l>
                   <l>However frugal, nutriment derive:</l>
-                  <l>Yet may their sheltiering vines, their dropping leaves,</l>
+                  <l>Yet may their sheltering vines, their dropping leaves,</l>
                   <l>Their roots dividing the tenacious glebe,</l>
                   <l>More than refund the sustenance they draw.</l>
                </lg>
@@ -2207,7 +2207,7 @@
                   <l>And fill spectators with an awful joy.</l>
                </lg>
                <lg>
-                  <l><ecda:anonPers>Planter</ecda:anonPers>, improvement is the child of time;</l>
+                  <l>Planter, improvement is the child of time;</l>
                   <l>What your sires know not, ye their offspring know:</l>
                   <l>But hath your art receiv'd Perfection's stamp?</l>
                   <l>Thou can'st not say.—Unprejudic'd, then learn</l>
