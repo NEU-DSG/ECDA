@@ -79,19 +79,19 @@
                  they afterwards boiled it into a syrup; and, in process of time, and inebriating
                  spirit was prepared therefrom by fermentation. This conjecture is confirmed by the 
                  etymology, for the Arabic word <distinct type="dialect"><!-- arabic --></distinct> is evidently derived from the Hebrew <distinct type="dialect"><!-- hebrew --></distinct>
-                 which signifies an <soCalled>intoxicating liquor</soCalled>. When <name>Indians</name> began to make the Cane-
-                 juice into sugar, I cannot discover; probably, it soon found its way into <placeName>Europe</placeName>
-                 in that <unclear>form</unclear>, first by the <geogName>Red-sea</geogName>, and afterwards through <placeName>Persia</placeName>, by the <geogName>Black-sea</geogName> and
-                 <geogName>Caspian</geogName>; but the plant itself was not known to <placeName>Europe</placeName>, till the <name>Arabians</name> introduced
+                 which signifies an <soCalled>intoxicating liquor</soCalled>. When <name>Indians</name> began to make the <ecda:food ana="#refinement">Cane-
+                 juice</ecda:food> into <ecda:food ana="#use">sugar</ecda:food>, I cannot discover; probably, it soon found its way into <placeName>Europe</placeName>
+                 in that <unclear>form</unclear>, first by the <placeName>Red-sea</placeName>, and afterwards through <placeName>Persia</placeName>, by the <placeName>Black-sea</placeName> and
+                 <placeName>Caspian</placeName>; but the plant itself was not known to <placeName>Europe</placeName>, till the <name>Arabians</name> introduced
                  it into the southern parts of <placeName>Spain</placeName>, <placeName>Sicily</placeName>, and those provinces of <placeName>France</placeName> which bor­
                  
                  <!-- Insert pb info and links here -->
                  
-                 der on the <geogName>Pyrenean mountains</geogName>. It was also successfully cultivated in <placeName>Egypt</placeName>, and in many
-                 places on the <geogName>Barbary-coast</geogName>. From the <geogName>Mediterranean</geogName>, the <name>Spaniards</name> and <name>Portuguese</name>
-                 transported the Cane to the <placeName><unclear>Azores</unclear></placeName>, the <placeName>Madeiras</placeName>, the <placeName>Canary</placeName> and the <placeName>Cape-Verd
+                 der on the <placeName>Pyrenean mountains</placeName>. It was also successfully cultivated in <placeName>Egypt</placeName>, and in many
+                 places on the <placeName>Barbary-coast</placeName>. From the <placeName>Mediterranean</placeName>, the <name>Spaniards</name> and <name>Portuguese</name>
+                 transported the <ecda:commodity ana="#transport #food #flora">Cane</ecda:commodity> to the <placeName><unclear>Azores</unclear></placeName>, the <placeName>Madeiras</placeName>, the <placeName>Canary</placeName> and the <placeName>Cape-Verd
                  islands</placeName>, soon after they had been discovered in the fifteenth century and in most of
-                 these, particularly <placeName>Madeira</placeName>, it throve exceedingly. Weather the Cane is a native
+                 these, particularly <placeName>Madeira</placeName>, it throve exceedingly. Weather the <ecda:flora>Cane</ecda:flora> is a native
                  of either the <placeName>Great</placeName> or <placeName><seg xml:id="er001" corresp="#ec001">Lesser</seg> Antilles</placeName> cannot now be determined for their discoverers
                  were so wholly employed in searching after imaginary gold-mines, that they took
                  little or no notice of the natural productions. Indeed the wars, wherein they wantonly
@@ -103,7 +103,7 @@
                  and whether the <name>Spaniards</name> or <name>Portuguese</name> were the first planters in the new world:
                  it is indeed most likely that the latter erected the first sugar-works in <placeName>Brazil</placeName>, as they are
                  more lively and enterprizing than the <name>Spaniards</name>. However they had not long the start
-                 of the latter; for in <date>1506</date> <persName ref="#ferdinand_ii_aragon_1479">Ferdinand the Catholic</persName> ordered the Cane to be carried from
+                 of the latter; for in <date>1506</date> <persName ref="#ferdinand_ii_aragon_1479">Ferdinand the Catholic</persName> ordered the <ecda:flora ana="#commodity #transport #food">Cane</ecda:flora> to be carried from
                  the <placeName>Canaries</placeName> to <placeName>St. Domingo</placeName>, in which island one <persName>Pedro de Atenca</persName> soon after built an
                  <distinct type="dialect">Ingenio de açucar</distinct> for so the <name>Spaniards</name> call a Sugar-work. But, though they began thus
                  early to turn their thoughts to sugar, the <name>Portuguese</name> far outstripped them in that trade;
@@ -122,7 +122,7 @@
                  
                  of coming in for a share of the sugar-trade; accordingly they, renouncing their chimerical
                  search after gold mines in <placeName>Florida</placeName> and <placeName>Guiana</placeName>, settled themselves soon after the
-                 mouth of the <geogName>river Surinam</geogName>, where they cultivated the Cane with such success, that when
+                 mouth of the <placeName>river Surinam</placeName>, where they cultivated the <ecda:flora ana="#commodity #food #cultivation">Cane</ecda:flora> with such success, that when
                  the colony was ceded to the <name>Dutch</name> by the <name>treaty of <placeName>Breda</placeName></name>, it maintained not less than
                  40,000 <name>Whites</name>, half of that number of slaves, as employed one year with another 15,000
                  ton of shipping. This cession was a severe blow to the <name><rs type="properAdjective">English</rs>-trade</name>, which did not
@@ -141,7 +141,7 @@
            <note xml:id="n002" target="#a002">
               <p>
                  <label rend="case(smallcaps)">Ver. 29.</label> <ref rend="slant(italic)">Muscovado,]</ref>
-                 The Cane-juice being brought to the consistence of syrup,
+                 The <ecda:commodity ana="#refinement #food">Cane-juice</ecda:commodity> being brought to the consistence of syrup,
                  and, by subsequent coction, granulated, is then called <distinct type="dialect" xml:lang="es">muscovado</distinct> (a <rs type="properAdjective">Spanish</rs> word
                  probably, though not to be found in <placeName>Pineda</placeName>) vulgarly brown Sugar; the <name>French</name>
                  term it <distinct type="dialect" xml:lang="fr">sucre brut</distinct>.
@@ -248,7 +248,7 @@
                  lies in the seventeenth degree <choice><abbr>N. L.</abbr><expan><distinct type="geographical" xml:lang="la">Nomen loci<!-- ?? --></distinct></expan></choice>. It was discovered by the great <persName ref="#christopher_columbus_1450">Christopher Columbus</persName>,
                  in his second voyage, <date>1493</date>, who was so pleased with his appearance, that he honoured
                  it with his <rs type="properAdjective">Christian</rs> name. Though others pretend, that appellation was given it from
-                 an imaginary resemblance between a high mountain in its centre, now called <geogName>Mount Misery</geogName>
+                 an imaginary resemblance between a high mountain in its centre, now called <placeName>Mount Misery</placeName>
                  to the fabulous legend of the Devil's carrying <!--<persName>St. Christopher</persName>--> on his shoulders.
                  But, be this as it will, the <name>Spaniards</name> soon after settled it, and lived in tolerable harmony
                  with the natives for many years; and as their fleets commonly called in there to
@@ -270,7 +270,7 @@
                  
                  their produce cannot be refined to the best advantage without a mixture of <placeName>St. Kitts'</placeName>
                  muscovado. In the barren part of the island, which runs out towards <placeName>Nevis</placeName>, are several
-                 ponds, which in dry weather crystallize into good salt; and below <geogName>Mount Misery</geogName> is
+                 ponds, which in dry weather crystallize into good salt; and below <placeName>Mount Misery</placeName> is
                  a small Solfaterre, and collection of fresh water, where fugitive <name>Negroes</name> often take
                  shelter, and escape their pursuers. Not far below is a large plain which affords good
                  pasture, water, and wood; and, if the apporaches thereto were fortified, which might
@@ -807,7 +807,7 @@
               <p>
                  <label>Ver. 606.</label> <ref>his coffee]</ref> This is certainly of <rs type="properAdjective">Arabic</rs> derivation; and has been used
                  in the East, as a drink, time immemorial. The inhabitants about the mouth of the
-                 <geogName>Red-Sea</geogName> were taught the use of it by the <name>Persians</name>, say authors, in the fifteenth century;
+                 <placeName>Red-Sea</placeName> were taught the use of it by the <name>Persians</name>, say authors, in the fifteenth century;
                  and the coffee-shrub was gradually introduced into Arabia Felix, whence
                  it passed into <placeName>Egypt</placeName>, <placeName>Syria</placeName>, and lastly <placeName>Constantinople</placeName>. The <name>Turks</name>, though so
                  excessively fond of coffee, have not known it much above <seg xml:id="er004" corresp="#ec004">eighty</seg> years; whereas
@@ -849,7 +849,7 @@
               <p>
                  <label>Ver. 642.</label> <ref>and ere the swift-wing'd zumbadore,]</ref> This bird, which is one of the
                  largest and swiftest known, is only seen at night, or rather heard; for it makes
-                 a hideous humming noise (whence its name) on the desert tops of the <geogName>Andes</geogName>.
+                 a hideous humming noise (whence its name) on the desert tops of the <placeName>Andes</placeName>.
                  See <persName ref="#francisco_de_ulloa_0001">Ulloa's</persName> <bibl><title>Voyage to <placeName>South-America</placeName></title></bibl>. It is also called <soCalled>Condor</soCalled>. Its wings,
                  When expanded, have been known to exceed sixteen feet from tip to tip. See
                  <bibl>Phil. Trans. No. 208.</bibl>
@@ -914,7 +914,7 @@
                  fails to accompany her and to devour as many of them as he can: So that the mother
                  scarece ever escapes into the river with more than five out of all her hundred. Thus
                  providence doubly prevents the otherwise immense propacation of that voracious animal,
-                 on the banks of the river <geogName>Guayaquil</geogName>; for the gallinazo is not always found,
+                 on the banks of the river <placeName>Guayaquil</placeName>; for the gallinazo is not always found,
                  where alligators are. <bibl rend="ital"><author><persName ref="#francisco_de_ulloa_0001">Ulloa</persName></author>.</bibl>
               </p>
            </note>
@@ -1099,7 +1099,7 @@
                  a pain in the stomach. A salutary oil may be extracted from the kernel; which, if
                  old, and eaten too plentifully, is apt to produce a shortness of breathing. A species
                  of arrack is made from this tree, in the <placeName>East-Indies</placeName>. The largest coco-nut trees grow
-                 on the banks of the <geogName>river Oronoko</geogName>. They thrive best near the sea, and look beautiful
+                 on the banks of the <placeName>river Oronoko</placeName>. They thrive best near the sea, and look beautiful
                  at a distance. They afford no great shide. Ripe nuts have been produced from
                  them in three years after planting. The nuts should be macerated in water, before
                  they are put in the ground. <distinct type="dialect">Coco</distinct> is an <rs type="properAdjective">Indian</rs> name; the <name>Spaniards</name> call it also
@@ -3784,7 +3784,7 @@
                  <l>Confin'd he dances mor a friend to life,</l>
                  <l>And joy, than that Nepenthe fam'd of yore,</l>
                  <l>Which Polydamna, Thone's imperial queen,</l>
-                 <l>Taught Jove-born Helen on the banks of <geogName>Nile</geogName>.</l>
+                 <l>Taught Jove-born Helen on the banks of <placeName>Nile</placeName>.</l>
               </lg>
               <lg>
                  <l>As on old ociean, when the wind blows high,</l>
@@ -4070,7 +4070,7 @@
                  <l>Not only betters what remains, but when</l>
                  <l>With art fermented, yields a noble wine,</l>
                  <l>Than which nor <placeName>Gallia</placeName>, nor the <rs type="properAdjective">Indian</rs> clime,</l>
-                 <l>Where rolls the <geogName>Ganges</geogName>, can a nobler show.</l>
+                 <l>Where rolls the <placeName>Ganges</placeName>, can a nobler show.</l>
                  <l>So misers in their coffers lock that gold;</l>
                  <l>Which, if allowed at liberty to roam,</l>
                  <l>Would better them, and benefit mankind.</l>
@@ -4112,7 +4112,7 @@
                  <l>One year the fraud succeeded; wealth immense</l>
                  <l>Flowed in upon him, and he blest his wiles:</l>
                  <l>The next, the brokers spurn'd the adulterate mass,</l>
-                 <l>Both on the <geogName>Avon</geogName> and the banks of <geogName>Thame</geogName>.</l>
+                 <l>Both on the <placeName>Avon</placeName> and the banks of <placeName>Thame</placeName>.</l>
               </lg>
               <lg>
                  <l>Be thrifty, planter, even thy skimmings save:</l>
@@ -4174,7 +4174,7 @@
                  
                  <l>How would your converse polish my rude lays,</l>
                  <l>With what new, noble images adorn?</l>
-                 <l>Then should I scarce regret the banks of <geogName>Thames</geogName>,</l>
+                 <l>Then should I scarce regret the banks of <placeName>Thames</placeName>,</l>
                  <l>All as we sat beneath that <seg xml:id="a098" corresp="#n098">sand-box</seg> shade;</l>
                  <l>Whence the delighted eye expatiates wide</l>
                  <l>O'er the fair landscape; where in loveliest forms,</l>
@@ -4299,7 +4299,7 @@
                  <l>Than you, <seg xml:id="a104" corresp="#n104"><placeName>Anguilla</placeName>,</seg> to your sheep impart.</l>
                  <l>Even <placeName>Britain's</placeName> vintage, here, improved, we quaff;</l>
                  <l>Even <rs type="properAdjective">Lusitanian</rs>, even <rs type="properAdjective">Hesperian</rs> wines.</l>
-                 <l>Those from the Rhine's imperial banks (poor <geogName>Rhine</geogName>!</l>
+                 <l>Those from the Rhine's imperial banks (poor <placeName>Rhine</placeName>!</l>
                  <l>How have thy banks been died with brother-blood?</l>
                  <l>Unnatural warfare!) strenght and flavour gain</l>
                  <l>In this delicious clime. Besides, the Cane</l>
@@ -5656,7 +5656,7 @@
                      </lg>
                </item>
                <item>Ibid. in the notes, for <hi>nautilus</hi> read <ref type="err" rend="italic" xml:id="ec008" target="#er008">uritca</ref>.</item>
-               <item>Page 100, line 252, for <hi>thro'</hi> read <ref type="err" rend="italic" xml:id="ec009" target="#er009"></ref></item>
+               <item>Page 100, line 252, for <hi>thro'</hi> read <ref type="err" rend="italic" xml:id="ec009" target="#er009">through</ref></item>
                <item>Page 102, line 285, the same.</item>
                <item>Page 110, line 425, for <hi>weighed</hi> read <ref type="err" rend="italic" xml:id="ec010" target="#er010">weigh'd</ref>.</item>
                <item>Page 128, line 58, for <hi>art</hi> read <ref type="err" rend="italic" xml:id="ec011" target="#er011">want</ref>.</item>
