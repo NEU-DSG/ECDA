@@ -60,6 +60,8 @@
            </note>
            <note xml:id="n001" target="#a001"><foreign xml:lang="fr">*L'heure du berger</foreign>.</note>
            <note xml:id="n002" target="#a002">*The <rs type="persGroup">negroes</rs> never distinguish between <distinct rend="quotes" type="dialect">him</distinct> and <distinct rend="quotes">her</distinct> in their conversation.</note>
+           <note xml:id="n003" target="#a003"><quote xml:lang="la" rend="quotes" source="virgil_aeneid">Purpureus veluti flos,</quote> &amp;c. <bibl><author rend="smallcaps"><persName ref="#virgil_0070">Virgil</persName></author></bibl>.</note>
+            <note xml:id="n003" target="#a004"><quote rend="quotes" xml:lang="la" source="virgil_georgics">Qualis populcâ, &amp;c.</quote>–<bibl><author rend="smallcaps"><persName ref="#virgil_0070">Virgil</persName></author></bibl>.</note>
         </ecda:notes>
      </ecda:hyperDiv>
      <front>
@@ -159,12 +161,12 @@
                      Just now, too, a carriage passed my 
                      windows, conveying on board a cargo of passengers,
                      who seemed sincerely afflicted at the thought of
-                     leaving their dear native land! The <ecda:fauna>pigs</ecda:fauna> squeaked,
-                     the <ecda:fauna>ducks</ecda:fauna> quacked, and the <ecda:fauna>fowls</ecda:fauna> screamed; and
+                     leaving their dear native land! The <ecda:fauna ana="#commodity #transport">pigs</ecda:fauna> squeaked,
+                     the <ecda:fauna ana="#commodity #transport">ducks</ecda:fauna> quacked, and the <ecda:fauna ana="#commodity #transport">fowls</ecda:fauna> screamed; and
                      all so dolefully, as clearly to prove, that <emph rend="italic">theirs</emph> was
                      no dissembled sorrow? And after them (more 
                      affecting than all) came a wheelbarrow, with a 
-                     <ecda:fauna>solitary porker</ecda:fauna> tied in a basket, with his head hanging
+                     <ecda:fauna ana="#commodity #transport">solitary porker</ecda:fauna> tied in a basket, with his head hanging
                      over on one side, and his legs sticking out on
                      the other, who neither grunted nore moved, nor
                      gave any signs of life, but seemed to be of quite
@@ -175,7 +177,7 @@
                   <p><seg ana="#performance">As <persName ref="#eliza_o'neil_1791">Miss O'Neil</persName> is to play <persName ref="#elwina_0001" rend="quotes">Elwina</persName> for the
                      first time to-morrow, it is a thousand pities that
                      she had not the previous advantage of seeing the
-                     speechless despondency of this poor <ecda:fauna>pig</ecda:fauna>; it might
+                     speechless despondency of this poor <ecda:fauna ana="#commodity #transport">pig</ecda:fauna>; it might
                      have furnished her with some valuable hints, and
                      enabled her to convey more perfectly to the audience
                      the <quote rend="quotes" source="thompson_hymn">expressive silence</quote> of irremediable
@@ -193,13 +195,13 @@
                   the loudest of all possible shrieks proceeding from
                   a boat lying near her: and who should prove to
                   be the complainant, but my former acquaintance,
-                  the despairing <ecda:fauna>pig</ecda:fauna>. He had recovered his voice to
+                  the despairing <ecda:fauna ana="#commodity #transport">pig</ecda:fauna>. He had recovered his voice to
                   protest against entering the ship: I had already declared
                   against climbing up the accommodation 
-                  ladder; the <ecda:fauna>pig</ecda:fauna> had precisely the very same objection.
+                  ladder; the <ecda:fauna ana="#commodity #transport">pig</ecda:fauna> had precisely the very same objection.
                   So a <foreign xml:lang="fr" rend="italic">soi-disant</foreign> chair, being a broken bucket,
-                  was let down for us, and the <ecda:fauna>pig</ecda:fauna> and myself entered 
-                  the vessel by the same conveyance; only <ecda:fauna>pig</ecda:fauna> had
+                  was let down for us, and the <ecda:fauna ana="#commodity #transport">pig</ecda:fauna> and myself entered 
+                  the vessel by the same conveyance; only <ecda:fauna ana="#commodity #transport">pig</ecda:fauna> had
                   the precedence, and was hoisted up first. The 
                   ship proceeded <measure>three miles</measure>, and then the darkness
                   obliged us to come to an anchor. There are only
@@ -481,11 +483,11 @@
     As to our <ecda:commodity ana="#transport #fauna">live stock</ecda:commodity>, they seem to have made up
     their minds on the subject, and say with one of 
     <persName ref="#ludovico_ariosto_1474">Ariosto's</persName> <ecda:anonPers>knights</ecda:anonPers> (when he was cloven from the
-    head to the chine), <quote rend="quotesitalic" source="ariosto_orlando" xml:lang="it">or convien morire.</quote> Our <ecda:fauna>fowls</ecda:fauna>
-    and <ecda:fauna>ducks</ecda:fauna> are screaming and quacking their last 
+    head to the chine), <quote rend="quotesitalic" source="ariosto_orlando" xml:lang="it">or convien morire.</quote> Our <ecda:fauna ana="#commodity #transport">fowls</ecda:fauna>
+    and <ecda:fauna ana="#commodity #transport">ducks</ecda:fauna> are screaming and quacking their last 
     by dozens; and by Tuesday morning, it is supposed
     that we shall not have an animal alive in the ship,
-    except the <ecda:fauna>black terrier</ecda:fauna>—and my friend the <ecda:fauna>squeaking
+    except the <ecda:fauna>black terrier</ecda:fauna>—and my friend the <ecda:fauna ana="#commodity #transport">squeaking
     pig</ecda:fauna>, whose vocal powers are still audible,
     maugre the storm and the <rs type="persGroup">sailors</rs>, who (I 
     verily believe) only continues to survive out of 
@@ -505,7 +507,7 @@
    <div type="entry">
    <opener><dateline><date when="1815-11-20">November 20</date>.</dateline></opener>   
    <p>Our <ecda:commodity ana="#transport #fauna">live stock</ecda:commodity> has received an increase; our
-    <ecda:fauna>fowls</ecda:fauna> and <ecda:fauna>ducks</ecda:fauna> are dead to be sure, but a <ecda:fauna>lark</ecda:fauna>
+    <ecda:fauna ana="#commodity #transport">fowls</ecda:fauna> and <ecda:fauna ana="#commodity #transport">ducks</ecda:fauna> are dead to be sure, but a <ecda:fauna>lark</ecda:fauna>
    flew on board this morning, blown (as is supposed)   
    
       <pb n="19"/>
@@ -579,7 +581,7 @@
  <opener><dateline><date when="1815-11-24">November 24</date>.</dateline></opener>  
     <epigraph><quote rend="quotes" source="virgil_aeneid" xml:lang="la"><lg><l>Manibus date <ecda:flora>lilia</ecda:flora> plenis;</l>
     <l>Purpureos spargam <ecda:flora>flores</ecda:flora>!</l></lg></quote></epigraph> 
-  <p>The squeaking <ecda:fauna>pig</ecda:fauna> was killed this morning.</p>  
+  <p>The squeaking <ecda:fauna ana="#food">pig</ecda:fauna> was killed this morning.</p>  
     
  </div>              
   <div type="entry">
@@ -1209,7 +1211,7 @@
    the most magical in effect that I ever beheld; and
    it was with great reluctance that I was called away
    from admiring it, to ascertain whether the merits 
-   of our new acquaintance, the <ecda:fauna>dolphin</ecda:fauna>, extended
+   of our new acquaintance, the <ecda:fauna ana="#food">dolphin</ecda:fauna>, extended
    any further than his skin. Part of him, which was
    boiled for yesterday's dinner, was rather coarse
    and dry, and might have been mistaken for
@@ -1670,7 +1672,7 @@
     </div> 
    <div type="entry">
   <opener><dateline><date when="1815-12-21">December 21</date>.</dateline></opener>       
-    <p>We succeeded in catching another <ecda:fauna>dolphin</ecda:fauna> today;
+    <p>We succeeded in catching another <ecda:fauna ana="#food">dolphin</ecda:fauna> today;
     but he did not have a hat on; however, I just 
     asked him whether he happened to have seen mine,
     but to little purpose; for I cound he could
@@ -3226,7 +3228,7 @@
        to find a new course through another gutter, which
        conveys them to the distillery, where, being mixed
        with the <ecda:commodity ana="#refining #food">molasses</ecda:commodity>, or <ecda:commodity ana="#refining #food">treacle</ecda:commodity>, they are manufactured
-       into <ecda:commodity>rum</ecda:commodity>. From the second copper they are transmitted 
+       into <ecda:commodity ana="#food">rum</ecda:commodity>. From the second copper they are transmitted 
        into the first, and thence into two others,
        and in these four latter basins the scum is removed
        with skimmers pierced with holes, till it becomes
@@ -3258,7 +3260,7 @@
        inferior in juice to the planted <ecda:flora ana="#commodity #cultivation">canes</ecda:flora>; but then, on
        the other hand, they require much less weeding,
        and spare the <rs type="persGroup">negroes</rs> the only laborious part of
-       the business of <ecda:commodity ana="#refining">sugar-making</ecda:commodity>, the digging holes for
+       the business of <ecda:commodity ana="#food">sugar</ecda:commodity>-making, the digging holes for
        the <ecda:flora ana="#plant #commodity">plants</ecda:flora>; therefore, although <measure>an acre</measure> of <ecda:flora ana="#cultivation #commodity">ratoons</ecda:flora> 
        will produce but <measure>one hogshead</measure> of <ecda:commodity ana="#refining #food">sugar</ecda:commodity>, while <measure>an
        acre</measure> of <ecda:flora ana="#commodity #cultivation">plants</ecda:flora> will produce two, the superiority of
@@ -4017,12 +4019,12 @@
              from <rs type="place">the bay</rs> or <rs type="place">the mountains</rs>. As I passed
              through <rs type="place">their grounds</rs>, many little requests were
              preferred to me: <ecda:anonPers>one</ecda:anonPers> wanted an additional supply
-             of <ecda:commodity ana="#use">lime</ecda:commodity> for the whitewashing <rs type="place">his house</rs>; <ecda:anonPers>another</ecda:anonPers> was
+             of <ecda:commodity ana="#circulation">lime</ecda:commodity> for the whitewashing <rs type="place">his house</rs>; <ecda:anonPers>another</ecda:anonPers> was
              building <rs type="place">a new house</rs> for a <ecda:anonPers>superannuated wife</ecda:anonPers> (for
              they have all so much decency as to call their 
              sexual attachments by a conjugal name), and
              wanted a little assistance towards the finishing it;
-             <ecda:anonPers>a third </ecda:anonPers> requested <ecda:commodity ana="#use">a new axe</ecda:commodity> to work with; and
+             <ecda:anonPers>a third </ecda:anonPers> requested <ecda:commodity ana="#circulation">a new axe</ecda:commodity> to work with; and
              several entreated me to negotiate the purchase of
              <rs type="persGroup">some relation or friend</rs> belonging to another estate, 
              and with whom they were anxious to be reunited:
@@ -4050,7 +4052,7 @@
              of provisions, which the better sort of <rs type="persGroup">negroes</rs>
              are enabled to sell regularly once a week at <placeName>Savannah
              la Mar</placeName> to a considerable amount, they keep a
-             large stock of <ecda:fauna>poultry</ecda:fauna>, and <ecda:fauna>pigs</ecda:fauna> without number;
+             large stock of <ecda:fauna ana="#commodity">poultry</ecda:fauna>, and <ecda:fauna ana="#commodity">pigs</ecda:fauna> without number;
              which latter cost their owners but little, though
              they cost me a great deal; for they generally make
              their way into the <ecda:commodity ana="#cultivation #flora">cane-pieces</ecda:commodity>, and sometimes eat
@@ -4457,7 +4459,7 @@
          with great difficulty, and dismissed, quite strong,
          from <rs type="place">the hospital</rs>; <ecda:anonPers>the mother</ecda:anonPers> had taken great
          care of it till the tenth day, when she was entitled
-         to an <ecda:commodity ana="#textiles #use">allowance of clothes, provisions &amp;c.</ecda:commodity>;
+         to an <ecda:commodity ana="#textile #circulation">allowance of clothes, provisions &amp;c.</ecda:commodity>;
          but no sooner had she received her reward, than on 
          that very night she suffered <ecda:anonPers>the child </ecda:anonPers>to remain so
       <pb n="132"/>
@@ -4493,7 +4495,7 @@
          <ecda:anonPers>that woman</ecda:anonPers> with a basket on her head?</said> <said rend="quotes"><distinct type="dialect">Massa</distinct>,</said>
          he answered, <said rend="quotes"><distinct type="dialect">that one belly-woman going to sell
          provisions at the <placeName>Bay</placeName></distinct>.</said> As she was going to sell
-         <emph rend="italic"><ecda:commodity ana="#use">provisions</ecda:commodity></emph>, I supposed that <distinct type="dialect"><emph rend="italic">belly</emph>-woman</distinct> was the
+         <emph rend="italic"><ecda:commodity ana="#sale">provisions</ecda:commodity></emph>, I supposed that <distinct type="dialect"><emph rend="italic">belly</emph>-woman</distinct> was the
       <pb n="133"/>
       <fw type="pageNum">125</fw> 
          name of her trade; but it afterwards appeared
@@ -4507,20 +4509,20 @@
          addition to their usual allowance of clothes and provisions,
          for every infant which should be brought 
          to the overseer alive and well on the fourteenth
-         day; and I also gave each mother a present of <ecda:commodity ana="#use #textile">a
-         scarlet girdle with a silver mdeal in the centre</ecda:commodity>,
+         day; and I also gave each mother a present of <ecda:commodity ana="#circulation #textile">a
+         scarlet girdle with a <ecda:commodity ana="#currency">silver medal</ecda:commodity> in the centre</ecda:commodity>,
          telling her always to wear it on feasts and holidays,
          when it should entitle her to marks of peculiar
          respect and attention, such as being one of the 
          first served, and receiving a larger portion than
          the rest; that the <emph rend="italic">first</emph> fault which she might
          commit, should be forgiven on the production of 
-         this <ecda:commodity ana="#use #textile">girdle</ecda:commodity>; and that when she should have any
+         this <ecda:commodity ana="#circulation #textile">girdle</ecda:commodity>; and that when she should have any
          favour to ask, she should always put it round her
          waist, and be assured, that on seeing it, the over-
          seer would allow the wearer to be entitled to
          particular indulgence. On every additional child
-         an additional mdeal is to be affixed to <ecda:commodity ana="#textile #use">the belt</ecda:commodity>,
+         an additional <ecda:commodity ana="#circulation #currency">medal</ecda:commodity> is to be affixed to <ecda:commodity ana="#textile #use">the belt</ecda:commodity>,
          and precedence is to follow the greater number of 
          medals. I expected that this notion of an order
          of honour would have been treated as completely 
@@ -4529,16 +4531,16 @@
       <fw type="pageNum">126</fw> 
          <ecda:anonPers>my manager</ecda:anonPers> told me, that <said rend="quotes" direct="false">he never knew <measure ana="#currency">a dollar</measure>
          better bestowed than the one which formed 
-         the medal of <ecda:commodity ana="#textile #use">the girdle</ecda:commodity>, and that he thought the
+         the <ecda:commodity ana="#currency #circulation">medal</ecda:commodity> of <ecda:commodity ana="#textile #circulation">the girdle</ecda:commodity>, and that he thought the
          institution likely to have a very good effect.</said>       
       </p>
       <p>Immediately after the christening the <name>Eboe</name>
          drums were produced, and in defiance of Sunday
          the <rs type="persGroup">negroes</rs> had the irreverence to be gay and happy,
          while the presents were getting in order for distribution.
-         All <rs type="persGroup">the men</rs> got <ecda:commodity ana="#textile #use">jackets</ecda:commodity>, <rs type="persGroup">the women</rs> <measure>seven
-         yards</measure> of <ecda:commodity ana="#textile #use">stuff</ecda:commodity> each for <ecda:commodity ana="#textile #use">>petticoats, &amp;c.,</ecda:commodity>  and the
-         children as much <ecda:commodity ana="#textile #use">printed cotton</ecda:commodity> as would make
+         All <rs type="persGroup">the men</rs> got <ecda:commodity ana="#textile #circulation">jackets</ecda:commodity>, <rs type="persGroup">the women</rs> <measure>seven
+         yards</measure> of <ecda:commodity ana="#textile #circulation">stuff</ecda:commodity> each for <ecda:commodity ana="#textile #use">>petticoats, &amp;c.,</ecda:commodity>  and the
+         children as much <ecda:commodity ana="#textile #circulation">printed cotton</ecda:commodity> as would make
          <ecda:commodity ana="#textile #use">a couple of frocks</ecda:commodity>. The <name>Creoles</name> were delighted
          beyond measure when <rs type="persGroup">some of the <rs type="properAdjective">African</rs> male
          negroes</rs> exclaimed, <said rend="quotes"><distinct type="dialect">Tank, massa</distinct>,</said> and made a
@@ -4608,12 +4610,12 @@
         </p>
         <p>On the other hand, there are some choice ungrateful
            scoundrels among the <rs type="persGroup">negroes</rs>: on the night
-           of their first dance, a couple of <ecda:fauna>sheep</ecda:fauna> disappeared
+           of their first dance, a couple of <ecda:fauna ana="#commodity #circulation">sheep</ecda:fauna> disappeared
            from the pen, although they could not have been
            taken from want of food, as on that very morning
            there had been an ample distribution of <ecda:food ana="#fauna">fresh beef</ecda:food>;
-           and last night another <ecda:fauna>sheep</ecda:fauna> and a quantity of
-           <ecda:fauna>poultry</ecda:fauna> followed them. Yesterday, too, a young
+           and last night another <ecda:fauna ana="#commodity #circulation">sheep</ecda:fauna> and a quantity of
+           <ecda:fauna ana="#commodity #circulation">poultry</ecda:fauna> followed them. Yesterday, too, a young
            rascal of a boy called <persName ref="#massa_jackey_0001" rend="quotes">massa Jackey</persName>, who is in
            the frequent habit of running away for months at
            a time, and whom I had distinguished from the
@@ -4627,7 +4629,7 @@
            keeper</ecda:anonPers>, when it appeared that he had always re-
   <pb n="137"/>
   <fw type="pageNum">129</fw>  
-           ceived a regular allowance of <ecda:commodity ana="#use #sale #food">provisions</ecda:commodity> twice a
+           ceived a regular allowance of <ecda:commodity ana="#circulation #sale #food">provisions</ecda:commodity> twice a
            week, which he generally sold, as well as his
            <ecda:commodity ana="#textile #sale">clothes</ecda:commodity>, at <placeName>the Bay</placeName>, for <ecda:food>spirits</ecda:food>; had received an
            additional portion only last Friday; and, into the
@@ -4708,20 +4710,20 @@
          I promised the paper required, and engaged to act
          the part of a second <persName ref="#vulcan_0001">Vulcan</persName> by releasing <persName ref="#venus_0002">Venus</persName>
          from my chains: but the paper was not the only 
-         thing that <persName ref="#venus_0002">Venus</persName> wanted; she also wanted a <ecda:commodity ana="#textile #use">petticoat</ecda:commodity>!
+         thing that <persName ref="#venus_0002">Venus</persName> wanted; she also wanted a <ecda:commodity ana="#textile #circulation">petticoat</ecda:commodity>!
          She told me, that when the presents were
-         distributed on Sunday, the <ecda:commodity ana="#textile #use">petticoat</ecda:commodity>, which she
+         distributed on Sunday, the <ecda:commodity ana="#textile #circulation">petticoat</ecda:commodity>, which she
          would otherwise have had, was, of course <said rend="quotes">given
          to the <emph rend="italic">other</emph> <persName ref="#big_joan_0001">Venus</persName>;</said> and though, to be sure, she
          was free now, yet, <said rend="quotes" direct="false">when she belonged to <distinct type="dialect">massa</distinct>
          she had always worked for him well,</said> and <said direct="false" rend="quotes">she
          was quite as glad to see <distinct type="dialect">massa</distinct> as the other <persName ref="#big_joan_0001">Venus</persName>,</said>
          and, therefore, <said rend="quotes" direct="false">ought to have quite as much
-         <ecda:commodity ana="#textile #use">petticoat</ecda:commodity>.</said> I tried to convince her that for <persName ref="#venus_0001">Venus</persName> 
-         to wear a <ecda:commodity ana="#textile">petticoat</ecda:commodity> of blue durant, or, indeed, any
+         <ecda:commodity ana="#textile #circulation">petticoat</ecda:commodity>.</said> I tried to convince her that for <persName ref="#venus_0001">Venus</persName> 
+         to wear a <ecda:commodity ana="#textile">petticoat of blue durant</ecda:commodity>, or, indeed, any
          <ecda:commodity ana="#textile">petticoat</ecda:commodity> at all, would be quite unclassical: the
          goddess of beauty stuck to her point, and finally
-         carried off the <ecda:commodity ana="#use #textile">petticoat</ecda:commodity>.
+         carried off the <ecda:commodity ana="#circulation #textile">petticoat</ecda:commodity>.
       </p>
       <p><persName ref="#venus_0002">Venus</persName> had scarcely evacuated the premises,
         when her place was occupied by <rs type="person" ref="#pope_0001">the minister</rs> of 
@@ -4731,12 +4733,12 @@
          the <rs type="persGroup">negroes</rs> in religion; and <rs type="person" ref="#pope_0001">the minister</rs>, in his
          turn, was replaced by one of the Sunday-night
          thieves, who had been caught while in the actual
-         possession of one of my <ecda:fauna>sheep</ecda:fauna> and a <ecda:fauna>great turkey-
+         possession of one of my <ecda:fauna ana="#commodity #circulation">sheep</ecda:fauna> and a <ecda:fauna ana="#commodity #circulation">great turkey-
          cock</ecda:fauna>; and, to make matters worse, the depredator's
          name was <persName ref="#hercules_0002">Hercules</persName>! <persName ref="#hercules_0001">Hercules</persName>, whom
          <persName ref="#virgil_0070">Virgil</persName> states to have exercised so much severity
          on <persName ref="cacus_0001">Cacus</persName>, when his own <ecda:fauna>oxen</ecda:fauna> were stolen, was
-         taken up himself for stealing my <ecda:fauna>sheep</ecda:fauna> in <placeName>Jamaica</placeName>!
+         taken up himself for stealing my <ecda:fauna ana="#commodity #circulation">sheep</ecda:fauna> in <placeName>Jamaica</placeName>!
          The demi-god had nothing to say in his excuse:
          he had just received a large allowance of <ecda:food ana="#fauna">beef</ecda:food>:—
          therefore, hunger had no share in his transgression;
@@ -4766,9 +4768,9 @@
         can be expected of him; and that he had been absent for
         five weeks together before my arrival, and only returned
         home upon hearing that there was a distribution 
-        of <ecda:food ana="#fauna">beef</ecda:food>, <ecda:food>rum</ecda:food>, and <ecda:commodity ana="#textile #use">jackets</ecda:commodity> going forward; in
-        return for all which, he stole my <ecda:fauna>sheep</ecda:fauna> and my
-        poor <ecda:fauna>great turkey-cock</ecda:fauna>.            
+        of <ecda:food ana="#fauna #commodity #circulation">beef</ecda:food>, <ecda:food ana="#commodity #circulation">rum</ecda:food>, and <ecda:commodity ana="#textile #circulation">jackets</ecda:commodity> going forward; in
+        return for all which, he stole my <ecda:fauna ana="#commodity #circulation">sheep</ecda:fauna> and my
+        poor <ecda:fauna ana="#commodity #circulation">great turkey-cock</ecda:fauna>.            
       </p>
       <p>But now came the most puzzling business of the
         day. About four years ago, two <name>Eboes</name>, called
@@ -5170,7 +5172,7 @@
    obliged to live separated from him, lest he should
    be destroyed by contracting the same complaint. 
    She now came to tell me, that she wanted a
-   <ecda:commodity ana="#textile #use">blanket</ecda:commodity>, <said rend="quotes" direct="false">for that the cold killed her of nights;</said>
+   <ecda:commodity ana="#textile #circulation">blanket</ecda:commodity>, <said rend="quotes" direct="false">for that the cold killed her of nights;</said>
    cold being that which negroes dislike most, and
    from which most of their illnesses arise. Of course
    she got her <ecda:commodity ana="#textile #use">blanket</ecda:commodity>; then she said, that she wanted
@@ -5512,9 +5514,9 @@
     the revenge of the <name>Eboe</name> <persName ref="#edward_0001">Edward</persName>, whom he had
     detected in cutting out part of a boiling-house
     window, in order that he might pass out stolen
-    <ecda:commodity ana="#food">sugar</ecda:commodity> unperceived; for, to do <rs type="persGroup">the negroes</rs> justice,
+    <ecda:commodity ana="#food #circulation">sugar</ecda:commodity> unperceived; for, to do <rs type="persGroup">the negroes</rs> justice,
     it is a doubt whether they are the greatest thieves
-    or liars, and the quantity of <ecda:commodity ana="#food">sugar</ecda:commodity> which they purloin
+    or liars, and the quantity of <ecda:commodity ana="#food #circulation">sugar</ecda:commodity> which they purloin
     during the crop, and dispose of at <placeName>the Bay</placeName> for
     a mere trifle, is enormous. However, whether
     the charge of striking were true or not, it was
@@ -6174,7 +6176,7 @@
    than they extended their exertions to the <ecda:fauna>cats</ecda:fauna>, of
    whom their strength and size at length enabled
    them completely to get the better; and since that
-   last victory, <distinct type="dialect"><persName ref="#charles_price_1708">Sir Charles Price's</persName> <ecda:fauna>rags</ecda:fauna></distinct>, as they are
+   last victory, <distinct type="dialect"><persName ref="#charles_price_1708">Sir Charles Price's</persName> <ecda:fauna>rats</ecda:fauna></distinct>, as they are
    called, have increased so prodigiously, that (like
    the man in Scripture, who got rid of one devil, and
    was taken possession of by seven others) this single
@@ -6301,7 +6303,7 @@
  <div type="entry">
     <opener><dateline><date when="1816-02-20">February 20</date>.</dateline></opener>  
  <p>I attended the <orgName>Slave Court</orgName>, where <ecda:anonPers>a negro</ecda:anonPers> was
-    tried for <ecda:fauna>sheep</ecda:fauna>-stealing, <seg ana="#poison">and a black servant girl
+    tried for <ecda:fauna ana="#commodity #circulation">sheep</ecda:fauna>-stealing, <seg ana="#poison">and a black servant girl
     for attempting to poison <ecda:anonPers>her master</ecda:anonPers>. <seg ana="#punishment">The former
     was sentenced to be transported.</seg> The latter was a 
   <pb n="187"/>
@@ -6873,8 +6875,8 @@
      dish to be a very good one. The <ecda:food>eggs</ecda:food> are said to
      be very palatable; nor have the negroes who live
      near morasses, the same objection with those of
-     <placeName>Cornwall</placeName> to eating the flesh; it is, however, true
-     that the gall of the <ecda:fauna>alligator</ecda:fauna>, if not extracted 
+     <placeName>Cornwall</placeName> to eating the <ecda:food ana="#fauna">flesh</ecda:food>; it is, however, true
+     that the gall of the <ecda:fauna ana="#food">alligator</ecda:fauna>, if not extracted 
      fully, will render the whole animal unfit for food;
      and <seg ana="#poison">when this gall is reduced to powder, it forms a
      poison of the most dangerous nature, as the negroes
@@ -6934,7 +6936,7 @@
   <div type="entry">
   <opener><dateline><date when="1816-02-27">February 27</date>.</dateline></opener>    
  <p>The only <ecda:fauna>horned cattle</ecda:fauna> said to be fit for <placeName>Jamaica</placeName>
-  wor, are those which have a great deal of black
+  work, are those which have a great deal of black
   in them. The white are terribly tormented by the
   <ecda:fauna>insects</ecda:fauna>, and they are weak and sluggish in propor-
     <pb n="206"/>
@@ -7052,8 +7054,8 @@
       look after the cattle.       
    </p> 
     <p>Just now <persName ref="#prince_0001">Prince</persName> came to me with a request of
-       his own. <said rend="quotes"><distinct type="dialect">Massa, please, me want one little <ecda:commodity ana="#textile #use">coat</ecda:commodity></distinct>.</said>
-       —<said rend="quotes">A little <ecda:commodity ana="#textile #use">coat</ecda:commodity>! For what?</said>—<said rend="quotes"><distinct type="dialect">Massa, please,
+       his own. <said rend="quotes"><distinct type="dialect">Massa, please, me want one little <ecda:commodity ana="#textile #circulation">coat</ecda:commodity></distinct>.</said>
+       —<said rend="quotes">A little <ecda:commodity ana="#textile #commodity">coat</ecda:commodity>! For what?</said>—<said rend="quotes"><distinct type="dialect">Massa, please,
        for wear when me go down to <placeName>the Bay</placeName></distinct></said>—<said rend="quotes">And
        why should you wear a little <ecda:commodity ana="#textile #use">coat</ecda:commodity> when you go 
        to <placeName>the Bay</placeName></said>—<said rend="quotes"><distinct type="dialect">Massa, please, make me look <distinct type="dialect">eerie</distinct>
@@ -7073,23 +7075,23 @@
  <div type="entry">
   <opener><dateline><date when="1816-03-02">March 2</date>.</dateline></opener>  
  <p>Most of <rs type="persGroup">those negroes</rs> who are tolerably industrious,
-    breed <ecda:fauna>cattle</ecda:fauna> on my estate, which are their 
+    breed <ecda:fauna ana="#commodity">cattle</ecda:fauna> on my estate, which are their 
   <pb n="210"/>
   <fw type="pageNum">202</fw>
     own peculiar property, and by the sale of which
     they obtain considerable sums. The pasturage of
     a <ecda:fauna>steer</ecda:fauna> would amount, in <rs type="place">this country</rs>, to <measure ana="#currency">12<hi rend="italic">l</hi>.</measure> a year;
-    but the negro <ecda:fauna>cattle</ecda:fauna> get their <ecda:flora>grass</ecda:flora> from me without
+    but the negro <ecda:fauna ana="#commodity">cattle</ecda:fauna> get their <ecda:flora>grass</ecda:flora> from me without
     it costing them <measure ana="#currency">a farthing</measure>; and as they were very
     desirous that I should be their general purchaser,
     I ordered them to agree among themselves as to
     what the price should be. It was, therefore, settled
     that I should take their whole stock, good and bad
     indifferently, at the rate of <measure ana="#currency">15<hi rend="italic">l</hi>.</measure> a head for every
-    <ecda:fauna>three-year-old beast</ecda:fauna>; and they expressed themselves
+    <ecda:fauna ana="#commodity">three-year-old beast</ecda:fauna>; and they expressed themselves
     not only satisfied, but very grateful for my
     acceptance of their proposal. <persName ref="#john_fuller_0001">John Fuller</persName> and the
-    beautiful <persName ref="psyche_0001">Psyche</persName> had each a <ecda:fauna>steer</ecda:fauna> to sell (how
+    beautiful <persName ref="psyche_0001">Psyche</persName> had each a <ecda:fauna ana="#commodity">steer</ecda:fauna> to sell (how
     <persName ref="#psyche_0001">Psyche</persName> came to be so rich, I had too much discretion
     to enquire), and they were paid down their
     <measure ana="#currency">15<hi rend="italic">l</hi>.</measure> a piece instantly, which they carried off with
@@ -7240,7 +7242,7 @@
  </p>
  <p>To sum up the whole, about three this morning
     an alarm was tiven that <ecda:anonPers>the pen-keeper</ecda:anonPers> had suffered
-    the <ecda:fauna>cattle</ecda:fauna> th get among the <ecda:flora ana="#commodity #cultivation">canes</ecda:flora>, where they might
+    the <ecda:fauna>cattle</ecda:fauna> to get among the <ecda:flora ana="#commodity #cultivation">canes</ecda:flora>, where they might
     <pb n="215"/>
     <fw type="pageNum">207</fw>
     do infinite mischief; <ecda:anonPers>the trustee</ecda:anonPers> was roused out of
@@ -7292,7 +7294,7 @@
     by contact, and that of so slight a nature,
     that a <ecda:fauna>fly</ecda:fauna>, which had touched an ulcer produced
     by <distinct type="dialect">the yaws</distinct>, has been known to convey
-    the infection by merely alighting on the would of
+    the infection by merely alighting on the wound of
     a cut finger. It generally shows itself by a slight
     pimple, which is soon converted into a sore; and
     this spreads itself gradually over the invalid's
@@ -7327,9 +7329,9 @@
      of <rs type="properAdjective">British</rs> manners with a vengeance. In <placeName>England</placeName>,
      a man only runs away with another person's wife:
      but to run away with his own—what depravity!—
-     As to my ungrateful demigod of a <ecda:fauna>sheep</ecda:fauna>-stealer,
+     As to my ungrateful demigod of a <ecda:fauna ana="#commodity #circulation">sheep</ecda:fauna>-stealer,
      <persName ref="#hercules_0002">Hercules</persName>, the poor wretch has brought down upon
-     himself a full punishmet for all his misdeeds. By
+     himself a full punishment for all his misdeeds. By
      running away, and sleeping in the woods, exposed
      to all the fury of the late heavy rains, he has been
      struck by the palsy. Yesterday some of my negroes
@@ -7526,7 +7528,7 @@
    in <rs type="place">this island</rs>; but although it greatly resembled
    the very richest <ecda:food ana="#fauna">cray-fish soup</ecda:food>, it seemed to be
    composed of <ecda:food ana="#fauna">cray-fish</ecda:food> which had been kept too
-   long. The <ecda:fauna ana="#fauna" rend="italic">soldiers</ecda:fauna> themselves were perfectly fresh,
+   long. The <ecda:fauna ana="#food" rend="italic">soldiers</ecda:fauna> themselves were perfectly fresh,
    for they were brought to the kitchen quite alive
    and merry; but I was told that this taste of 
    staleness is their peculiar flavour, as well as their 
@@ -7909,7 +7911,7 @@
    To make the matter better, in the present instance,
    the <ecda:anonPers>man</ecda:anonPers> was a clergyman; and his cause of
    quarrel against the <ecda:anonPers>officer</ecda:anonPers> was the latter's refusal
-   to give him a <measure>puncheon</measure> of <ecda:commodity ana="#food #use">rum</ecda:commodity> to christen all <rs type="persGroup">his 
+   to give him a <measure>puncheon</measure> of <ecda:commodity ana="#food #circulation">rum</ecda:commodity> to christen all <rs type="persGroup">his 
    negroes</rs> in a lump. 
 </p>    
  </div>   
@@ -8253,8 +8255,8 @@
      <ecda:food ana="#fauna">poultry</ecda:food>, and brought it to <ecda:anonPers>my agent</ecda:anonPers>, desiring him
      to add it to my <ecda:commodity ana="#food #transport">sea-stores</ecda:commodity>. Of course I refused to
      let them be received, and they were evidently much 
-     disappointed, till I consented to accept the <ecda:fauna>fowls</ecda:fauna>
-     and <ecda:fauna>ducks</ecda:fauna>, and then gave them back to them again,
+     disappointed, till I consented to accept the <ecda:fauna ana="#commodity #transport">fowls</ecda:fauna>
+     and <ecda:fauna ana="#commodity #transport">ducks</ecda:fauna>, and then gave them back to them again,
      <pb n="244"/>
      <fw type="pageNum">236</fw>
      telling them to consider them as a present from my
@@ -8305,7 +8307,7 @@
     they had opportunities of addressing me from
     nine in the morning till twelve at night, the only
     favours asked me were by a <ecda:anonPers>poor old man</ecda:anonPers>, who
-      wanted an <ecda:commodity ana="#use">iron cooking pot</ecda:commodity>, and by <persName ref="#adam_0002">Adam</persName>, who
+      wanted an <ecda:commodity ana="#circulation">iron cooking pot</ecda:commodity>, and by <persName ref="#adam_0002">Adam</persName>, who
       begged me to order a <ecda:anonPers>little daughter of his</ecda:anonPers> to 
       be instructed in needle-work: and as to complaints,
       not a murmur of such a thing was heard; 
@@ -8767,7 +8769,7 @@
      <p>Two or three years ago, <rs type="person" ref="#boyes_0001">our captain</rs>, while his
         vessel was lying in <placeName>Black River Bay</placeName>, for the purpose
         of loading, was informed by <rs type="persGroup">his sailors</rs>, that 
-        their <ecda:food ana="#fauna">beef</ecda:food> and other <ecda:commodity ana="#food #transport">provisions</ecda:commodity> frequently disappeared
+        their <ecda:food ana="#fauna #transport #commodity">beef</ecda:food> and other <ecda:commodity ana="#food #transport">provisions</ecda:commodity> frequently disappeared
         in a very unaccountable manner. However,
         by setting up a strict watch during the night,
         he soon managed to clear up the mystery: and <ecda:anonPers>a
@@ -8872,7 +8874,7 @@
          there came on a gale of wind truly tremendous.
          The ship pitched and rolled every minute, as if she
          had been on the point of overturning; the <ecda:fauna>hen</ecda:fauna>-
-         coops floated about on the deck, and many of the <ecda:fauna>poultry</ecda:fauna>
+         coops floated about on the deck, and many of the <ecda:fauna ana="#commodity #transport">poultry</ecda:fauna>
          were found drowned in them the next morning.
          Just as the last dead-light was putting up, the sea
          embraced the opportunity of the window being
@@ -9038,8 +9040,8 @@
                had seen an <ecda:anonPers>old woman</ecda:anonPers> that morning. The first 
                <ecda:food>egg</ecda:food> produced a <ecda:commodity ana="#use">water-jug</ecda:commodity> exactly similar to that
                which she had broken; out of the second came a
-               whole <ecda:commodity ana="#use">large sugar estate</ecda:commodity>; and out of the third a
-               <ecda:commodity ana="#use">splendid equipage</ecda:commodity>, in which she returned to her
+               whole <ecda:commodity ana="#circulation">large sugar estate</ecda:commodity>; and out of the third a
+               <ecda:commodity ana="#circulation">splendid equipage</ecda:commodity>, in which she returned to her
                <ecda:anonPers>aunt</ecda:anonPers>, delivered up the <ecda:commodity ana="#use">jug</ecda:commodity>, related that an <ecda:anonPers>old
                woman</ecda:anonPers> in a red <distinct type="dialect">docker</distinct> <gloss>(i.e. <ecda:commodity ana="#textile #use">petticoat</ecda:commodity>)</gloss> had made 
                her a great lady, and then departed in triumph to
@@ -9484,7 +9486,7 @@
              <l>Soon as fair <persName ref="#irza_0001">Irza</persName> marked the evening's close,</l>
              <l>Grave from her seat the young enthusiast rose,</l>
              <l>Told o'er herbeads, and when the string was said,</l>  
-             <l><title rend="quotes" xml:lang="la" ref="ave_maria">Ave Maria</title> sang the enraptured maid;</l>
+             <l><title rend="quotes" xml:lang="la" ref="ave_maria">Ave <persName ref="#mary_0001">Maria</persName></title> sang the enraptured maid;</l>
              <l>Her look so humble, so devout her air,</l>
                <l>Each worldly wish appeared so lost in prayer,</l>
                <l>All felt, no thought could to her mind be near,</l>
@@ -9767,7 +9769,7 @@
           <l>And sinking, prays she never more may rise.</l>
           </lg> 
    
-       </lg>      
+           
              
                
            <lg>
@@ -9798,26 +9800,633 @@
            <l>Far off removed (but still, alas! too near),</l>
            <l>Scarce breathing, lest a breath her sleep might break,</l>
            <l>There stood the fiend, and watched to see her wake.</l>
-           <l></l>
-           <l></l>
-           <l></l>
-           <l></l>
-           <l></l>
-           <l></l>
-           <l></l>
-           <l></l>
-           <l></l>
-           <l></l></lg>
-           <l></l>
-           <l></l>
-           <l></l>
-           <l></l>
-</lg>
-       
+          </lg>  
+    
+             <lg>
+              <l>In sooth, if credit outward show might crave,</l>
+              <l>Than <persName ref="#irza_0001">Irza</persName>, ne'er had nymph an humbler slave.</l>
+              <l>He watched her every glance; her frown he fear'd;</l>
+              <l>And if his pains to meet her wish appear'd,</l>
+              <l>All pains seem'd far o'er-paid, all cares appeased,</l>
+              <l>And so <emph rend="italic">she</emph> found but pleasure, <emph rend="italic">he</emph> was pleased.</l>
+              <l>One power he claimed, but claimed that power alone:</l>
+              <l>Still, when he left her side, a mass of stone</l>
+              <l>Barr'd up the grotto, nor allow'd her feet</l>
+              <l>To pass up the limits of her bright retreat.</l>
+              <l>But when in quest of food not forced to stray,</l>
+              <l>In <persName ref="#irza_0001">Irza's</persName> sight he wore the livelong day,</l>
+              <l>And show'd her living springs and noontide shades,</l>
+              <l><ecda:food>Spice</ecda:food>-breathing <ecda:flora>groves</ecda:flora> and <ecda:flora>flower-enamell'd</ecda:flora> glades.</l>
+              <l>For her he still selects the sweetest <ecda:food ana="#flora">roots</ecda:food>,</l>
+              <l>The coolest waters, and the loveliest <ecda:food ana="#flora">fruits</ecda:food>;</l>
+              <l>To deck her charms the softest furs he brings,</l>
+              <l>And plucks their plumage from <ecda:fauna>flamingo</ecda:fauna> wings;</l>
+              <l>Bids <ecda:flora>blooming shrubs</ecda:flora>, to shade her, bend in bowers,</l>
+              <l>And strews her couch with fragrant <ecda:flora>herbs and flowers</ecda:flora>;</l>
+              <l>While many an <ecda:flora>ivy</ecda:flora>-twisted grate restrains</l>
+              <l>The splendid tenants of the etherial plains.</l>
+              <l>Then, when she sought her lonesome grot at eve,</l>
+              <l>And waved her hand, and warn'd him take his leave,</l>
+              <l>Her will was his: he breathed his plaintive moan,</l>
+              <l>Gazed one last look, then gently roll'd the stone.</l>
+           </lg>
+             <lg> 
+              <l>Perhaps, such constant care and worship paid,</l>
+              <l>More fit for angel than for mortal maid,</l>
+              <l>At length had won her, with more grateful mind</l>
+              <l>To view his gifts, and pay respect so kind;</l>
+              <l>But, as her giant-gaoler she esteem'd</l>
+              <l>Some prince of subterraneous fire, she deem'd</l>
+                
+                
+                
+              <l>His favours snares, his presents only given</l>
+              <l>To shake her faith, and steal her soul from heaven.</l>
+              <l>Still then her loathing heart remain'd the same,</l>
+              <l>Joy'd when he went, and shudder'd when he came;</l>
+              <l>And when to share his fruits by hunger press'd,</l>
+              <l>Ever she bless'd them first, and cross'd her breast.</l>
+             </lg>
+           </lg>
+            <lg>  
+             <head>VII.</head>  
+             <lg> 
+              <l>Days creep—months roll—no change! no hope! and oh!</l>
+              <l><persName ref="#rosalvo_0001">Rosalvo</persName> lost, what hope can life bestow?</l>
+              <l>Death, only death, she feels, can end her woes;</l>
+              <l>Nor doubts death soon will bring that wish'd for close;</l>
+              <l>For now her frame, her mind, confess disease;</l>
+              <l>Painful and faint she moves; her tottering knees</l>
+              <l>Scarce bear her weight; and oft, by humour moved,</l>
+              <l>Her sickening soul now loathes what late it loved.</l>
+              <l>it comes! the moment comes! Her frame is rent</l>
+              <l>By sharper pangs; her nerves, too strongly ben,</l>
+              <l>Seem on the point to break; her forehead burns;</l>
+              <l>Her curdling blood is fire, is ice by turns;</l>
+              <l>Her heart-strings crack!—<said rend="quotes" direct="false">This hour is sure her last!</said></l>
+              <l>Fainting she sinks, and hopes <said rend="quotes">that hour is pass'd!</said></l>
+             </lg>
+              <lg> 
+              <l>Wake <persName ref="#irza_0001">Irza</persName>, wake to grief most strange and deep!</l>
+              <l>Still must thou live, and only live to weep!</l>
+              <l>Oh, lift thine aching head, thy languid eyes,</l>
+              <l>And mark what hideous stranger with the lies.</l>
+              <l><said rend="quotes">Guard me, all blessed saints!</said>—A monster child</l>
+              <l>Press'd her green couch; and, as it grimly smiled,</l>
+              <l>Its shaggy limbs, and eyes of sable fire,</l>
+              <l>Betray'd the crime, and claim'd its hellish sire!</l>
+             </lg>
+            <lg>
+               <l><said rend="quotes">Lost! lost! My soul is lost!</said> the affrighted <rs type="person" ref="#irza_0001">maid</rs>,</l>
+               <l>(Ah, now a maid no more!) distracted, said,</l>
+               <l>And wrung her hands. These words she scarce could say;</l>
+               <l>Yet <emph rend="italic">would</emph> have pray'd, but fear'd was in sin to pray!</l>
+               <l>That only veil which ne'er admits a stain,</l>
+               <l>The veil of ignorance, was rent in twain:</l>
+               
+               
+               
+               <l>In spite of virtue, cloistors, horror, youth,</l>
+               <l>She knows, and feels, and shudders at the truth.</l>
+               <l>That night accursed!—In death-like swoon she slept—</l>
+               <l>Then near her couch if that dark demon crept—</l>
+               <l>Oh! where was then her guardian angel's aid?</l>
+               <l>And would not heavenly <persName ref="#mary_0001">Mary</persName> save her maid?</l>
+               <l>Deprived of sense—betray'd by place and time—</l>
+               <l>Then was she doom'd to share the unconscious crime?</l>
+               <l>Debased, deflower'd, and stamp'd a wretch for life,</l>
+               <l>A monster's mother, and a demon's wife?</l>
+            </lg>
+               <lg>
+               <l>Oh! at that thought her soul what passions tear!</l>
+               <l>How then she beats her breast, how rends her hair,</l>
+               <l>And bids, with golden ringlets scatter'd round,</l>
+               <l>Stream all the air, and glitter all the ground!</l>
+               <l>Sighs, sobs, and shrieks the place of words supply;</l>
+               <l>And still she mourns to live, and prays to die,</l>
+               <l>Till heart denies to groan, and eyes to flow;</l>
+               <l>The, on her couch of rushes sinking low,</l>
+               <l>Languid and lost she lies, in silent, senseless woe.</l>
+               </lg>
+               <lg>
+               <l>What lifts her burning head? why opes her eye?</l>
+               <l>What makes her blood run back? A faint shill cry!</l>
+               <l>Too well, alas! that cry was understood:</l>
+               <l>The monster pined for want, and claim'd its food.</l>
+               <l>Then in her heart what rival passions strove!</l>
+               <l>How shrinks disgust, how yearns maternal love!</l>
+               <l>Now to its life her feelings she prefers;</l>
+               <l>Now <name>Nature</name> wakes, and makes her own—<said rend="quotes">'T is hers!</said></l>
+               <l>Loathing its sight, she melts to hear its cries,</l>
+               <l>And, while she yields the breast, averts her eyes.</l>
+             </lg>
+               <lg>
+               <l>Not so the demon-sire: the child he raised,</l>
+               <l>He kiss'd it—danced it—nursed it—knelt, and gazed,</l>
+               <l>Till joyful tears gush'd forth, and dimm'd his sight:</l>
+               <l>Scarce <persName ref="#irza_0001">Irza's</persName> self was view'd with more delight.</l>
+               <l>He held it now tow'rds her—horror seem'd to thrill</l>
+               <l>Her frame. He sigh'd and clasp'd it closer still.</l>
+               <l>Once, and but once, his features wrath express'd:</l>
+               <l>He saw her shudder, as it drain'd her breast:</l>
+                  
+                  
+                  
+               <l>And, while reproach half mingled with his moan,</l>
+               <l>Snatch'd it from her's, and press'd it to his own.</l>
+               </lg>
+            </lg>
+          <lg>
+             <head>VIII.</head>
+               <lg>
+                <l>Three months had pass'd; still lived the monster-brat:</l>
+               <l>Its sire had sought the wood; alone she sat:</l>
+               <l>She sheds no tears—no tears are left to shed;</l>
+               <l>Unmoisten'd burn her eyes—her heart seems dead—</l>
+               <l>Her form seems marble. Lo! from far the sound</l>
+               <l>Of music steals, and fills the caves around.</l>
+               <l>She starts!—scarce breathing—trembling:— <said rend="quotes">Oh! for wings!</said>—</l>
+               <l>But hark! for nearer now the minstrel sings.</l>
+               </lg>
              
-     <!-- lots more poem, can't bear it for the moment  -->
+         <lg>    
+            <head>Song.</head>
+            <lg>
+               <head>1.</head>
+               <l>What summer smiled on <placeName>Goa's</placeName> bowers</l>
+               <l>They seem'd so fair;</l>
+               <l>All light the skies, all bloom the flowers,</l>
+               <l>All balm the air!</l>
+               <l>The <ecda:fauna>mock-bird</ecda:fauna> swell'd his amorous lay,</l>
+               <l>Soft, sweet, and clear;</l>
+               <l>And all was beauteous, all was gay,</l>
+               <l>For <emph rend="italic">she</emph> was near.</l>
+             </lg>
+             <lg>
+                <head>2.</head>
+                <l>But now the skies in vain are bright</l>
+                <l>With Summer's glow;</l>
+                <l>The <ecda:fauna>pea-dove's</ecda:fauna> call to <name>Love's</name> delight</l>
+                <l>Augment's my woe;</l>
+                <l>And blusing <ecda:flora>roses</ecda:flora> vainly bloom;</l>
+                <l>Their charms are fled,</l>
+                <l>And all is sadness, all is gloom,</l>
+                <l>For <emph rend="italic">she</emph> is dead!</l>
+             </lg>
+            
+            
+            
+            
+             <lg>
+                <head>3.</head>
+                <l>Now o'er thy head, my virgin love,</l>
+                <l>Rolls Ocean's wave;</l>
+                <l>But fond regret, in <ecda:flora>myrtle grove</ecda:flora>,</l>
+                <l>Hath dug thy grave.</l>
+                <l>Sweet <ecda:flora>flowers</ecda:flora>, around her vacant urn</l>
+                <l>Your wreaths I'll twine,</l>
+                <l>And pray such <ecda:flora>flowers</ecda:flora>, ere Spring's return,</l>
+                <l>May garland mine!</l>
+             </lg>
+         </lg>
+
+             <lg>
+             <l><said rend="quotes">He! he!</said>—That love-lorn dirge—that heavenly tongue—</l>
+             <l>That air, <emph rend="italic">she</emph> taught him; 'twas <persName ref="#rosalvo_0001">Rosalvo</persName> sung!</l>
+             <l><persName ref="#rosalvo_0001">Rosalvo</persName>, whom the waves, which werck'd their bark,</l>
+             <l>Had borne, like her, for purpose sad and dark,</l>
+             <l>To that strange isle; though far remote the beach</l>
+             <l>From <persName ref="#irza_0001">Irza's</persName> grot, which <name>Fate</name> ordain'd him reach;</l>
+             <l>But now at length his curious search explores</l>
+             <l>These rude and slippery crags and distant shores;</l>
+             <l>And while he treads his dangerous path, the strains</l>
+             <l>Which <persName ref="#irza_0001">Irza</persName> taught him soothe her lover's pains.</l>
+           </lg>
+             <lg>
+             <l>She hears his steps, and hears them soon more near;</l>
+             <l>And loud she cries—<said rend="prequotes" xml:id="s112" next="s113">Hear! oh, hear!</said></l>
+             <l><said rend="postquotes" xml:id="s113" prev="s112">'T is <persName ref="irza_0001">Irza</persName> calls!</said> and now more quick, more nigh,</l>
+             <l>Down the steep rock she hears those footsteps fly.</l>
+             <l>Again she calls. He comes! He searches round;</l>
+             <l>He seeks the gate, and soon the gate is found.</l>
+             <l>Alas! 't is found in vain! the marble guard</l>
+             <l>Seem'd rooted as the rock, whose mouth is barr'd.</l>
+             <l>Yet still, with labouring nerves, to move the stone</l>
+             <l>He struggles. Now he stops; and hark! A groan!</l>
+             <l>But one; then all was hush'd! A sickening chill</l>
+             <l>Seized <persName ref="#irza_0001">Irza's</persName> heart, and seem'd her veins to thrill.</l>
+             <l>Fain had she call'd her youthful bridegroom's name;</l>
+             <l>Her tongue Fear's numbing finger's seemed to lame</l>
+             
+                
+                
+             <l>Footsteps!—more near they drew:—slow rolled the stone—</l>
+             <l>The infernal gaoler came, but came alone.</l>
+             <l>With anxious glance his eye explored the cell;</l>
+             <l>But when it fix'd on her, abash'd it fell.</l>
+             <l>He knelt, and seem'd to fear her frown. He bore</l>
+             <l>His club. 'Twas splash'd with brains! 'twas wet with gore!</l>
+             <l>She fear'd—she guess'd—she rush'd—she ran—she flew,—</l>
+             <l>Nor dared the fiend her frantic course pursue.</l>
+             <l><said rend="quotes">Rosalvo! speak! Rosalvo!</said> Shrill, yet sweet,</l>
+             <l>She wakes the echoes. What obstructs her feet?</l>
+             <l xml:id="a003" corresp="#n003">As some frail lily, which the passing share*</l>
+             <l>Or wanton boy hath wounded, droops its head,</l>
+             <l>Its whiteness wither'd, and its fragrence fled,</l>
+             <l>Low lay the youth, and from his temple's wound</l>
+             <l>With precious streams bedew'd the ensanguin'd ground.</l>
+</lg>
+          
+            <lg> 
+             <l>Then reason fled its seat! She shrieks! she raves!</l>
+             <l>And fills with hedeous yells the ocean caves;</l>
+             <l>Rends her bright locks, and laughs to see them fly,</l>
+             <l>And bids them seek <persName ref="#rosalvo_0001">Rosalvo</persName> in the sky.</l>
+             <l>To dig his grave she fiercely ploughs the ground,</l>
+             <l>Loud shrieks his name, nor fears the flints that wound</l>
+             <l>Her bosom's globes, and stains their snow with gore,</l>
+             <l>As wild she dashes down, and beats in rage the floor.</l>
+            </lg>
+            <lg> 
+             <l>Now fails her strength, her spirits; mute she sits,</l>
+             <l>Silent and sad; then laughs and sings by fits.</l>
+             <l>A statue now she seems, or one just dead,</l>
+             <l>Her looks all gloom, her eyes two balls of lead:</l>
+             <l>Then simply smiles, and chaunts with idiot glee,</l>
+             <l><quote rend="quotes" source="ave_maria" xml:lang="la">Ave <persName ref="#mary_0001">Maria</persName>! Benedicte!</quote></l>
+             <l>Till, <name>Nature's</name> powers revived by rest, again</l>
+             <l>The fury passions riot in her brain,</l>
+             <l>And all is rage, revenge, and helpless, hopeless pain.</l>
+            </lg>
+          </lg>
+          
+          
+       <lg>
+          <head>IX.</head>
+          <lg>
+          <l>Days, weeks, months pass. Time came with slow relief;</l>
+          <l>But still at length it came. No more her grief</l>
+          <l>Disturbs her brain: she knows <said rend="quotes">that groan was his!</said></l>
+          <l>And fully feels herself the wretch she is.</l>
+          <l>She rises: towards the grotto's mouth she goes,</l>
+          <l>Nor dares the fiend her wandering steps aoppose.</l>
+          <l>She seeks the spot on which <persName ref="rosalvo_0001">Rosalvo</persName> fell,</l>
+          <l>On which he died! She knows that spot too well!</l>
+          <l>But, lo! no corse was there! All smooth and green</l>
+          <l>A velvet turf o'erstrewn with flowers was seen,</l>
+          <l>And fenced with roses, <said rend="prequotes" xml:id="s114" next="s115">Oh! whose pious care</said></l>
+          <l><said next="s116" prev="114" xml:id="s115">Hath deck'd this grave? Hear, gracious Heaven, his prayer,</said></l>
+          <l><said rend="postquotes" xml:id="s116" prev="s115">When most he needs!</said> While thus in doubt she stands,</l>
+          <l>She marks the fiend's approach. His ebon hands</l>
+          <l>Sustain'd a gourd of flowers of various hue;</l>
+          <l>He pour'd them, kiss'd the turf, and straight withdrew.</l>
+       
+         </lg>
+          <lg>
+          <l>Hither each morn his blooming gifts he bore,</l>
+          <l>Smooth'd the green sod, and strew'd it o'er and o'er.</l>
+          <l>Hither, each morn, came <persName ref="#irza_0001">Irza</persName>; on those flowers</l>
+          <l>She wept, she pray'd,  she sang away her hours.</l>
+          <l xml:id="a004" corresp="#n004">So mourns the nightingale on poplar spray*,</l>
+          <l>Her callow brood by shepherds borne away,</l>
+          <l>Weeps all the night, and from her green retreat</l>
+          <l>Fills the wide grove with warblings sad as sweet.</l>
+        </lg>
+       </lg>
+       <lg>
+      <head>X.</head>
+         <lg> 
+          <l>And still fresh woes succeed. She feels again</l>
+          <l>Mysterious pangs, nor doubts her cause of pain.</l>
+          <l>Too sure, while lost in manic state she lay,</l>
+          <l>Her sense, her wits, her feeling all away,</l>
+          <l>THe fiend once more had seized the unguarded hour</l>
+          <l>To force her weakness, and abuse his <supplied reason="flawedReproduction">p</supplied>ower.</l>
+          <l>Again <persName ref="lucina_0001">Lucina</persName> came. That new-born cry,</l>
+          <l>Shuddering, again she heard; her fearful eye</l>
+          <l>Wander'd around awhile, nor dared to stay.</l>
+          <l><said rend="quotes">There, there he lies! my child!</said> With fresh essay</l>
+          <l>Once more she turn'd. But when at length her sight</l>
+          <l>Dwelt on its face, her wonder—her delight—</l>
+          <l>Can ne'er by tongue be told, by fancy guess'd!</l>
+          <l>Frantic she caught, she kiss'd, and lull'd him on her breast.</l>
+      </lg>
+          <lg><l>Oh! who can paint how <persName ref="#irza_0001">Irza</persName> loved that child!</l>
+          <l>Grieved when he moan'd, and smiled whene'er he smiled!</l>
+          <l>His dimpled arm soft on rushes lay;</l>
+          <l>Through his fine skin the blood was seen to play;</l>
+          <l>That skin than down of <ecda:fauna>swans</ecda:fauna> more smooth and white;</l>
+          <l>Nor e'er shone summer sky so blue and bright,</l>
+          <l>As shone the eye of that same cherub elf;</l>
+          <l>In small the model of her beauteous self.</l>
+          <l>The scant gold locks which gilt his ivory brow,</l>
+          <l>Were sun-beams gleaming on a globe of snow;</l>
+          <l>And on his coral lips the red which stood,</l>
+          <l>Shamed the first <ecda:flora>rose</ecda:flora>, whose milk was <persName ref="#paphia_0001">Paphia's</persName> blood.</l>
+          <l>By fairy-thefts since nurses were beguiled,</l>
+          <l>Never stole fairy yet a lovelier child!</l>
+          <l>In <name>Nature's</name> costlier charms no babe array'd</l>
+          <l>At length a mother's fears and throes repaid:</l>
+          <l>Not when <persName ref="#lucina_0001">Lucina</persName> first in <ecda:flora>myrtle</ecda:flora> grove,</l>
+          <l>To Beauty's kiss presented new-born Love;</l>
+          <l>And while, with wondr'ing eyes, the immortal boy</l>
+          <l>Imbibed new light, and pour'd ecstatic joy:</l>
+          <l>He kiss'd and drain'd by turns her fragrant breast,</l>
+          <l>Till amorous <ecda:fauna>ring-doves</ecda:fauna> coo'd the god to rest.</l></lg>
+       
+          <lg>
+          <l>Mothers may love as much, but never more,</l>
+          <l>Nor e'er did mother love so well before,</l>
+          <l>As <persName ref="#irza_0001">Irza</persName> loved that child! Her sable lord</l>
+          <l>Mark'd well that love; and now, to health restored,</l>
+          <l>He felt her child to home would chain her feet,</l>
+          <l>Nor roll'd the stone to close her lone retreat.</l>
+          <l>Still, when he went, he with him bore away</l>
+          <l>That fav'rite babe, nor fear'd she far would stray.</l>
+          <l>Arm'd with his club, she now might safely rove</l>
+          <l>Through verdant vale, or weep in shadowy grove;</l>
+          <l>For soon the dwarfs were used to bear her sight,</l>
+          <l>Knew that dread club, nor dared indulge their spite.</l>
+          <l>Still from afar off looks of rage they cast,</l>
+          <l>And shrilly squeal'd and clamour'd as she pass'd;</l>
+          <l>But by their flight when near she came, 't was seen,</l>
+          <l>They own'd allegiance, and confess'd their queen.</l>
+          </lg>
+         </lg>
+       <lg>
+          <head>XI.</head>
+          <lg>
+             <l>One morn her savage lord, in quest of food,</l>
+             <l>Forsook the cave, and sought th' adjacent wood;</l>
+             <l>And as her darling boy he with him bore,</l>
+             <l><persName ref="#irza_0001">Irza</persName>, unwatch'd, might pace the sounding shore.</l>
+             <l>Listless and slow she moved, and climb'd with pain</l>
+             <l>A tow'ring cliff, which beetled o'er the main.</l>
+             <l>Now three full years had flown, since <persName ref="#irza_0001">Irza's</persName> eye</l>
+             <l>Had dwelt on human form, and since reply</l>
+             <l>From human tongue had blest her ear. 'Tis true,</l>
+             <l>Throned on a rock, which spread before her view</l>
+             <l>The sea's wide-stretching plains, she once descried</l>
+             <l>A gallant vessel plough the neighbouring tide.</l>
+             <l>By cries to draw it near she long essay'd,</l>
+             <l>And oft a <ecda:flora>palm-bough</ecda:flora> waved in sign for aid:</l>
+             <l>But all her cries and all her signs were vain;</l>
+             <l>On sail'd the bark, nor e'er return'd again!</l>
+          </lg>
+          <lg>
+             <l>On that same rock she sat, and eyed the wave,</l>
+             <l>And wish'd she there had found her wat'ry grave!</l>
+             <l>Fain had she sought one then, plunged from the steep,</l>
+             <l>And buried all her suff'rings in the deep;</l>
+             <l>But faith alike and reason bade her shun</l>
+             <l>That wish, nor break a thread which God had spun.</l>
+             <l>Hark!—was it fancy?—hark again!—the shores</l>
+             <l>Echo the sound of fast approaching oars.</l>
+             
+             
+             
+             <l>Oh! how she gazed!—a barge (by <rs type="persGroup">friars</rs> 't was mann'd)</l>
+             <l>Cut the smooth waves, and sought the rocky strand.</l>
+             <l>Soon (while his wither'd hands a croiser hold,</l>
+             <l>All rich with gems, and rough with sculptured gold),</l>
+             <l>Landing alone, a reverend <ecda:anonPers>monk</ecda:anonPers> appear'd:—</l>
+             <l>His jewell'd cross—his flowing silver beard—</l>
+             <l><said rend="quotes">'Tis he!—'tis he!</said>—swift down the steep she flies,</l>
+             <l>Falls at the stranger's feet, and frantic cries,</l>
+             <l>Down her pale cheek while tears imploring roll,</l>
+             <l><said rend="quotes">Help, father abbot! save me! save my soul!</said></l>
+             <l>'Twas he indeed! that bark which ne'er return'd,</l>
+             <l>Well on the cliff her fair wild form discern'd,</l>
+             <l>But deem'd some island-fiend had spread a snare</l>
+             <l>To lure them with a form so wild and fair.</l>
+             <l>Yet of in <placeName>Lisbon</placeName> would those seamen tell,</l>
+             <l>How angled for their souls the <rs type="person" ref="#lucifer_0001">prince of hell</rs>;</l>
+             <l>And warmly paint, their leisure to beguile,</l>
+             <l>The fallen angel of th' enchanted isle.</l>
+             <l>At length this wonder reach'd the <ecda:anonPers>abbot's</ecda:anonPers> ear,</l>
+             <l>And prompt affection made the wonder clear:—</l>
+             <l><said rend="prequotes" xml:id="s117" next="s118">'Twas <persName ref="#irza_0001">Irza</persName>! shipwreck'd <persName ref="#irza_0001">Irza</persName>! none but she</said></l>
+             <l><said rend="postquotes" xml:id="s118" prev="s117">So heavenly fair, so lonely lost could be!</said></l>
+             <l>Straight he prepares anew that sea to brave,</l>
+             <l>Which once already seem'd to yawn his grave;</l>
+             <l>Nor ask, how chance it that he reach'd the shore:</l>
+             <l>'Twas through a miracle and nothing more.</l>
+             <l>Whether on monkish frock as safe rode he,</l>
+             <l>As night-hags skim in sieves o'er <placeName>Norway's</placeName> sea;</l>
+             <l>Or like <persName ref="#arion_0001">Arion</persName> plough'd the wat'ry plain,</l>
+             <l>Horsed on some monster of the astonish'd main,</l>
+             <l>Some <ecda:fauna>shark</ecda:fauna>, some <ecda:fauna>whale</ecda:fauna>, some <ecda:fauna>kraken</ecda:fauna>, some <ecda:fauna>sea-cow</ecda:fauna>—</l>
+             <l><persName ref="#francis_of_assisi_1181">St. Francis</persName> saved him, and it boots now how.</l>
+             <l>And now again the saint his priest survey'd,</l>
+             <l>From waves and winds imploring heavenly aid;</l>
+             <l>Resolved for <persName ref="#irza_0001">Irza's</persName> sake to brave the worst</l>
+             <l>Which fate could offer on that isle accurst.</l>
+          </lg>
+          
+          
+          
+          
+          <lg>
+             <l>Far off his ship was anchor'd; on that strand</l>
+             <l>Not <placeName>India's</placeName> wealth could make a layman land!</l>
+             <l>Therefore with none but monks he mann'd his barge,</l>
+             <l>Which bore of beads and bells a sacred charge;</l>
+             <l>Whole heaps of relics lent by <placeName>Cintra's</placeName> nuns,</l>
+             <l>And holy water (blest at <placeName>Rome</placeName>) by tons!</l>
+             <l></l>
+          </lg>
+          <lg>
+             <l>His toils were all o'erpaid! he saw again</l>
+             <l>His fav'rite child, and kindly soothed her pain;</l>
+             <l>And while her tale he heard, oft dropp'd a tear,</l>
+             <l>And sigh'd his beard-swept breast in awe and fear:</l>
+             <l>Then bade her speed the friendly bark to gain,</l>
+             <l>And fly the infernal monarch's green domain;</l>
+             <l>Nor yield her tyrant time to cast a spell,</l>
+             <l>And rouse to cross her flight the powers of hell.</l>
+          </lg>
+          <lg>
+             <l>Then first from <persName ref="#irza_0001">Irza's</persName> cheek the glow of red,</l>
+             <l>By hope of rescue raised, grew faint, and fled;</l>
+             <l>Trembling she nam'd her cherub-boy, confess'd</l>
+             <l>A mother's fondness fill'd his mother's breast;</l>
+             <l>Described how fair he look'd, how sweet he smiled,</l>
+             <l>And fear'd her flight might quite destroy her child.</l>
+             <l>Then rose the <ecda:anonPers>abbot's</ecda:anonPers> ire <said rend="quotes">Oh, guilty care</said></l>
+             <l><said rend="prequotes" xml:id="s119" next="s120">Fair is the imp? and shall he therefore breathe</said></l>
+             <l><said xml:id="s120" next="s121" prev="s119">To win new subjects for the realms beneath?</said></l>
+             <l><said xml:id="s121" next="s122" prev="s120">The fiends most dangerous are those spirits bright,</said></l>
+             <l><said xml:id="s122" next="s123" prev="s121">Who toil for hell, and show like sons of light;</said></l>
+             <l><said xml:id="s123" next="s124" prev="s122">And still when <persName ref="#lucifer_0001">Satan</persName> spreads his subtlest snars,</said></l>
+             <l><said xml:id="s124" next="s125" prev="s123">The baits are azure eyes, the lines are golden hairs.</said></l>
+             <l><said xml:id="s125" next="s126" prev="s124">Name thou the brat no more! To <placeName>Cintra's</placeName> walls</said></l>
+             <l><said xml:id="s126" next="s127" prev="s125">Fly, where thy footsteps mild repentance calls.</said></l>
+             <l><said xml:id="s127" next="s128" prev="s126">I'll hear no plaint! kneel not! I'm deaf to prayer!</said></l>
+             <l><said xml:id="s128" next="s129" prev="s127">Swift, brethren, to the barge this maniac bear;</said></l>
+             <l><said xml:id="s129" next="s130" prev="s128">Speed! speed!—no tears!—no struggling!—no delay!</said></l>
+             <l><said xml:id="s130" prev="s129" rend="postquotes">Row, brethren, row, and walk us swift away!</said></l> 
+          </lg> 
+       </lg>
+          
+          
+          
+          
+          <lg>
+           <head>XII.</head>  
+            <lg>
+             <l>The <rs type="persGroup">monks</rs> obeyed. Then, in <persName ref="#irza_0001">Irza's</persName> soul</l>
+             <l>What various passions raged, and mock'd control!</l>
+             <l>Now how she mourn'd, now how she wept for joy,</l>
+             <l>How loathed the sire, and how adored the boy!</l>
+             <l>The barge is gain'd; they row. When, lo! from high</l>
+             <l>Her ear again receives that well-known cry,</l>
+             <l>That sad, strange moan! she starts, and lifts her eye.</l>
+             <l>There, on a rock which faced the strand, once more</l>
+             <l>She saw her demon-husband stand: he bore</l>
+             <l>Her beauteous babe; and, while he view'd the barge,</l>
+             <l>Keen anguish seem'd each feature to enlarge,</l>
+             <l>And shake each giant limb. With piteous air</l>
+             <l>His arms he spread, his hands he clasp'd in prayer;</l>
+             <l>Knelt, wept, and while his eye-balls seem'd to burn,</l>
+             <l>Oft show'd the child, and woo'd her to return.</l>
+             <l>His suit the <rs type="persGroup">monks</rs> disdain; the barge recedes;</l>
+             <l>More humbly now he kneels, more earnest pleads.</l>
+             <l>But when he found no tears their course delay,</l>
+             <l>And still the boat pursued its water way;</l>
+             <l>Then, 'gainst his grief and rage no longer proof,</l>
+             <l>He gnash'd his teeth, he stamp'd his iron hoof,</l>
+             <l>Whirl'd the boy wildly round and round his head</l>
+            <l>Dash'd it against the rocks, and howling fled.</l>
+            </lg>
+             <lg>
+             <l>Loud shrieks the mother! changed to stone she stands,</l>
+             <l>And silent lifts to heav'n her clay-cold hands:</l>
+             <l>Then, sinking down, stretch'd on the deck she lies,</l>
+             <l>Hid her pale face, and closed her aching eyes.</l>
+             <l>But hark! why should the <rs type="persGroup">monks</rs>? <said rend="quotes">Again,</said> they said,</l>
+             <l><said rend="quotes">Again the demon comes!</said> with desperate dread</l>
+             <l>Starts the poor wretch, and lifts her anguish'd head.</l>
+             <l>Yes! there the infant-murderer stood once more,</l>
+             <l>But now far different were the looks he wore.</l>
+             <l>No bending knee, no suppliant grance was seen,</l>
+             <l>Proud was his port, and stren and fierce his mein.</l>
+             <l>His blood-stain'd eye-balls glared with vengeful ire;</l>
+             <l>His spreading nostrils seem'd to snort out fire.</l>
+                
+                
+                
+             <l>Swiftly from crag to crag he following sprung,</l>
+             <l>While round his neck his shaggy offspring clung;</l>
+             <l>And now, like some dark tow'r, erect he stood,</l>
+             <l>Where the last rock hung frowning o'er the flood:—</l>
+             </lg>
+             <lg>
+             <l><said rend="quotes">Look! look!</said> he seem'd to say, with action wild,</l>
+             <l><said rend="prequotes" xml:id="s131" next="s132">Look, mother, look! this babe is still your child!</said></l>
+             <l><said xml:id="s132" prev="s131" next="s133">With him as me all social bonds you break,</said></l>
+             <l><said xml:id="s133" prev="s132" next="s134">Scorn'd and detested for his father's sake:</said></l>
+             <l><said xml:id="s134" prev="s133" next="s135">My love, my service only wrought disdain,</said></l>
+             <l><said xml:id="s135" prev="s134" next="s136">And nature fed his heart from yours in vain!</said></l>
+             <l><said xml:id="s136" prev="s135" next="s137">Then go, Ingrate, far o'er the ocean go,</said></l>
+             <l><said xml:id="s137" prev="s136" next="s138">Consign your friend, your child to endless woe!</said></l>
+             <l><said xml:id="s138" prev="s137" next="s138">Renounce us! hate us! pleased, your course pursue,</said></l>
+             <l><said xml:id="s139" prev="s138" rend="postquotes">And break their hearts who lived alone for you!</said></l>
+             <l>His eyes, which flash'd red fire—his arms spread wide,</l>
+             <l>Her child raised high to heaven—too plain implied,</l>
+             <l>Such were his thoughts, thoughts nature speech denied.</l>
+             <l>And now with eager glance the deep he view'd,</l>
+             <l>And now the barge with savage howl pursued;</l>
+             <l>Then too his lips the his infant wildly press'd,</l>
+             <l>And fondly, fiercely, clasp'd it to his breast:</l>
+             <l>Three piteous moans, three hideous yells he gave,</l>
+             <l>Plunged headlong from the rock, and made the sea his grave.</l>
+             </lg>
+          </lg>
+          <lg>
+             <head>XIII.</head>
+             <lg>
+             <l>Where, screen'd by <ecda:flora ana="#food">orange groves</ecda:flora> and <ecda:flora>myrtle bowers</ecda:flora>,</l>
+             <l>Saint-favour'd <placeName>Cintra</placeName> rears her gothic towers;</l>
+             <l>A nun there dwells, most holy, sad, and fair,</l>
+             <l>Her only business penance, fasts, and prayer;</l>
+             <l>Her only joy with <ecda:flora>flowers</ecda:flora> the shrines to dress,</l>
+             <l>Weep with the suff'ring, and relieve distress.</l>
+             <l>A poor lay-sister she; yet golden rain</l>
+             <l>Showers from her hand to glad each barren plain:</l>
+             <l>In other eyes she lights up joy, but ne'er</l>
+             <l>Those eyes of hers were seen a smile to wear:</l>
+             <l>From other breasts she plucks the thorn of grief,</l>
+             <l>But feels, her own admits of no relief</l>
+             
+                
+                
+             <l>Where age and sickness count the hours by groans,</l>
+             <l>Uncall'd, she comes to hear and hush their moans.</l>
+             <l>There, ever humble, watchful, patient, kind,</l>
+             <l>No nauseous task, no servile care declined,</l>
+             <l>O'er the sick couch, all day, all night she hangs,</l>
+             <l>Till health or death relieves the sufferer's pangs.</l>
+             <l>No thanks she takes, no praise from man receives,</l>
+             <l>Her duty done, the rest to God she leaves;</l>
+             <l>But only when her care redeems a life,</l>
+             <l>Parting she says—<said rend="quotes">Pray for a demon's wife!</said></l>
+             <l>With blessings still, whene'er that nun they view,</l>
+             <l>The young, the aged her sainted steps pursue,</l>
+             <l>And cry, with bended knee, and suppliant air,</l>
+             <l><said rend="quotes">Sister of mercy, name us in thy prayer!</said></l>
+             <l>With beads the night, in gracious acts the day,</l>
+             <l>So wore her youth, so wears her age away</l>   
+             <l>Now cease, my lay! thy mournful task is o'er;</l>   
+             <l><persName ref="#irza_0001">Irza</persName>, farewell! I wake thy lute no more.</l>   
+             </lg>
+          </lg>
+          <lg>
+             <head>XIV.</head>
+           <lg>
+             <l><said rend="prequotes" xml:id="s138" next="s139">Was such her fate? and did her days thus creep</said></l>
+             <l><said xml:id="s139" next="s140" prev="s139">So sad, so slow, till came the long last sleep?</said></l>
+             <l><said xml:id="s141" next="s141" prev="s140">And did for this her hands with <ecda:flora>roses</ecda:flora> twine</said></l>
+             <l><said xml:id="s141" next="s142" prev="s141">The <rs type="person">Saviour's</rs> altar and the <rs type="person" ref="#mary_0001">Virgin's</rs> shrine?</said></l>
+             <l><said xml:id="s142" next="s143" prev="s142">Pure, beauteous, rich, did all these blessings tend,</said></l>
+             <l><said xml:id="s143" next="s144" prev="s143">But from the world in prime of life to send</said></l>
+             <l><said xml:id="s144" next="s145" prev="s144">This gifted maid, in prayer to waste her hours,</said></l>
+             <l><said xml:id="s145" prev="s144" rend="postquotes">And weep a fancied crime in cloister'd bowers?</said></l>
+           </lg>
+             <lg>
+              <l>Oh, blind to fate! perhaps that fancied crime</l>
+             <l>Which bade her quit the world in youthful prime,</l>
+             <l>Snatch'd her from paths, where beauty, wealth, and fame</l>
+             <l>Had proved but snares to load her soul with shame,</l>
+             <l>And spared her pangs from wilful guilt which flow,</l>
+             <l>The only serious ills that man can know!</l>
+             <l>Ah! what avails it, since they ne'er can last,</l>
+             <l>If gay or sad our span of days be past?</l>
+             <l>Pray, mortals, pray, in sickness or in pain,</l>
+             <l>Not long nor blest to live, but pure from stain.</l>
+             <l>A life of pleasure, and a life of woe,</l>
+             <l>When both are past, the difference who can show?</l>
+             <l>But all can tell, how wide apart in price</l>
+             <l>A life of virtue, and a life of vice</l></lg>
+            <lg>
+             <l>Then still, sad <persName ref="#irza_0001">Irza</persName>, tread your thorny way,</l>
+             <l>Since life must end, and merits ne'er decay.</l>
+             <l>Wounded past hope, still prize the pleasure pure,</l>
+             <l>To heal those hearts which yet can hope a cure;</l>
+             <l>Nor doubt, the soul which joys in noble deeds</l>
+             <l>Shall reap a rich reward when most it needs.</l>
+             <l>When comes that day to conscious guilt so dread,</l>
+             <l>Angels unseen shall bathe your burning head:</l>
+             <l>The prayer of orphans fan with balm breath,</l>
+             <l>And widow's blessings drown the threats of death;</l>
+             <l>Each sigh your pity hush'd shall swelling rise</l>
+             <l>In loud hosanas when you mount the skies;</l>
+             <l>And every tear on earth to sorrow given,</l>
+             <l>Be precious pearls to wreathe your brows in heaven!</l>
+           </lg>
+            </lg>
       
-      
+       </lg>   
+ 
    </div>          
    </div>   
             
@@ -9866,6 +10475,242 @@
 
 </p>
    </div>
+            
+   <div type="entry">
+      <opener><dateline><date when="1816-04-19">April 19</date>. <hi rend="mixed">(Sunday.)</hi></dateline></opener>
+      
+      <p>I have not been able to ascertain exactly the
+         negro notions concerning the <distinct type="dialect" rend="italic">Duppy</distinct>; indeed, I
+         believe that his character and qualities must vary in
+         different parts of the country. At first, I thought
+         that the term <distinct type="dialect">Duppy</distinct> meant neither more nor less
+         
+         
+         than a ghost; but sometimes he is spoken of as
+         <distinct type="dialect" rend="quotes">the Duppy</distinct>, as if there were but one, and then
+         he seems to answer to the devil. Sometimes he is
+         a kind of malicious spirit, who haunts burying-
+         grounds (like the <rs type="properAdjective">Arabian</rs> gouls), and delights
+         in playing tricks to those who may pass that way.
+         On other occasions, <seg ana="#obeah">he seems to be a supernatural
+         attendant on the practitioners of <name ana="#obeah">Obeah</name>, in the
+         shape of some animal</seg>, as familiar imps are supposed
+         to belong to our <rs type="properAdjective">English</rs> witches; and this latter
+         is the part assigned to him in the following <title rend="quotes" ref="anansi_stories">Nancy-
+         story</title>:—
+      </p>
+         <quote rend="quotes"><p><persName ref="#sarah_winyan_0001">Sarah Winyan</persName> was scarcely ten years old, when
+            her <ecda:anonPers>mother</ecda:anonPers> died, and bequeathed to her a considerable
+            property. Her <ecda:anonPers>father</ecda:anonPers> was already dead; and
+            the guardianship of the child devolved upon his
+            <ecda:anonPers>sister</ecda:anonPers>, who had always resided in the same house,
+            and who was her only surviving relation. Her
+            mother, indeed, had left <rs type="persGroup">two sons</rs> by a former <ecda:anonPers>husband</ecda:anonPers>,
+            but they lived at some distance in the wood,
+            and seldom came to see their <ecda:anonPers>mother</ecda:anonPers>; chiefly from
+            a rooted aversion to this <ecda:anonPers>aunt</ecda:anonPers>; who, although from
+            interested motives she stooped to flatter her <ecda:anonPers>sister-
+            in-law</ecda:anonPers>, was haughty, ill-natured, and even suspected 
+            of <name ana="#obeah">Obeahism</name>, from the occasional visits of
+            an <ecda:fauna>enormous black dog</ecda:fauna>, whom she called <ecda:fauna><name>Tiger</name></ecda:fauna>,
+            and whom she never failed to feed and caress with
+            marked distinction. In case of <persName ref="#sarah_winyan_0001">Sarah's</persName> death, the
+            <ecda:anonPers>aunt</ecda:anonPers>, in right of her <ecda:anonPers>brother</ecda:anonPers>, was the heiress of his
+            property. She was determined to remove this ob-
+            
+            
+            
+            stacle to her wishes; and after treating her for
+            some time with harshness and even cruelty, she
+            one night took occasion to quarrel with her for
+            some trifling fault, and fairly turned her out of
+            doors. The poor girl seated herself on a stone
+            near the house, and endeavoured to beguile the
+            time by singing—
+            <quote rend="quotes">
+               <lg type="song">
+                <l><said xml:id="s146" next="s147" rend="prequotes">Ho-day, poor me, O!<distinct type="dialect"></distinct></said></l>  
+                  <l><said xml:id="s147" next="s148" prev="s146"><distinct type="dialect">Poor me, <persName ref="#sarah_winyan_0001">Sarah Winyan</persName>, O!</distinct></said></l>
+                  <l><said xml:id="s148" next="s149" prev="s147"><distinct type="dialect">They call me neger, neger!</distinct></said></l>
+                  <l><said xml:id="s149" prev="s148" rend="postquotes"><distinct type="dialect">They call me <persName ref="#sarah_winyan_0001">Sarah Winyan</persName>, O!</distinct></said></l>
+               </lg>
+            </quote>
+            But her song was soon interrupted by a loud rushing 
+            among the bushes; and the growling which
+            accompanied it announced the approach of the 
+            dreaded <ecda:fauna><name>Tiger</name></ecda:fauna>. She endeavoured to secure herself
+            against his attacks by climbing a <ecda:flora>tree</ecda:flora>: but it seems
+            that <ecda:fauna><name>Tiger</name></ecda:fauna> had not been suspected of <name ana="#obeah">Obeahism</name>
+            without reason; for he immediately growled out
+            an assurance to the girl, that come down she must
+            and should! Her <ecda:anonPers>aunt</ecda:anonPers>, she said, had made her
+            over to him by contract, and had turned <emph rend="italic">her</emph> out
+            of doors that night for the express purpose of
+            giving him an opportunity of carrying her away.
+            If she would descend from the <ecda:flora>tree</ecda:flora>, and follow
+            him willingly to his own den to wait upon him, he
+            engaged to do her no harm; but if she refused to
+            do this, he threatened to gnaw down the <ecda:flora>tree</ecda:flora> without
+            loss of time, and tear her into a thousand 
+            pieces. His long sharp teeth, which he gnashed
+            occasionally during the above speech, appeared 
+            
+            
+            perfectly adequate to the execution of his menaces,
+            and <persName ref="#sarah_winyan_0001">Sarah</persName> judged it most prudent to obey his commands.
+            But as she followed <ecda:fauna><name>Tiger</name></ecda:fauna> into the wood,
+            she took care to resume her song of
+            <quote><said rend="quotes"><distinct type="dialect">Ho-day, poor me, O!</distinct></said></quote>
+            in hopes that some one passing near them might
+            hear her name, and come to her rescue. <ecda:fauna><name>Tiger</name></ecda:fauna>,
+            however, was aware of this, and positively forbad
+            her singing. However, she contrived every now
+            and then to loiter behind; and when she thought
+            him out of hearing, her
+            <quote><said rend="quotes"><distinct type="dialect">Ho-day, poor me, O!</distinct></said></quote>
+            began again; although she was compelled to sing 
+            in so low a voice, through fear of her four-footed
+            master, that she had but faint hopes of its reaching
+            any ear but her own. Such was, indeed, the event,
+            and <ecda:fauna><name>Tiger</name></ecda:fauna> conveyed her to his den withouth molestation.
+            In the meanwhile, her <rs type="persGroup">two half-brothers</rs>
+            had heard of their <ecda:anonPers>mother's</ecda:anonPers> death, and soon arrived
+            at the house to enquire what was become of 
+            <persName ref="#sarah_winyan_0001">Sarah</persName>. The <ecda:anonPers>aunt</ecda:anonPers> received them with every appearance
+            of welcome; told them that grief for the loss
+            of her only surviving <ecda:anonPers>parent</ecda:anonPers> had already carried
+            her niece to the grave, which she showed them in
+            her garden; and acted her part so well, that the
+            <rs type="persGroup">youths</rs> departed perfectly satisfied of the decease
+            of their <ecda:anonPers>sister</ecda:anonPers>. But while passing through the
+            wood on their return, they heard some one singing,
+            but in so low a tone that it was impossible to
+            
+            
+            distinguish the words. As this part of the wood
+            was the most unfrequented, they were surprised
+            to find any one concealed there. Curiosity induced
+            them to draw nearer, and they soon could make 
+            out the 
+            <quote>
+               <lg><l><said xml:id="s150" next="s151" rend="prequotes">Ho-day, poor me, O!<distinct type="dialect"></distinct></said></l>  
+                  <l><said xml:id="s151" prev="s150"><distinct type="dialect">Poor me, <persName ref="#sarah_winyan_0001">Sarah Winyan</persName>, O!</distinct></said></l>
+               </lg>
+            </quote>
+            There needed no more to induce them to hasten
+            onwards; and upon advancing deeper into the
+            thickety, they found themselves at the mouth of
+            a large cavern in a rock. A fire was burning
+            within it; and by its light they perceived their 
+            sister seated on a heap of stones, and weeping, while
+            she chanted her melancholy little ditty in a low voice,
+            and supported on her lap the head of the formidable
+            <ecda:fauna><name>Tiger</name></ecda:fauna>. This was a precaution which he
+            always took when inclined to sleep, lest she should
+            escape; and when she had taken advantage of his slumber
+            to resume her song in as low a tone as her
+            fears of waking him would allow. She saw her 
+            <rs type="persGroup">brothers</rs> at the mouth of the cave: the <ecda:anonPers>youngest</ecda:anonPers>
+            fortunately had a gun with him, and he made signs
+            that <persName ref="#sarah_winyan_0001">Sarah</persName> should disengage herself from <ecda:fauna><name>Tiger</name></ecda:fauna> if
+            possible. It was long before she could summon
+            up courage enough to make the attempt; but at
+            length, with fear and trembling, and moving with 
+            the utmost caution, she managed to slip a log of
+            wood between her knees and the frightful head,
+            and at length drew herself away without waking 
+            him. She then crept softly out of the cavern, while
+            
+            
+            the <ecda:anonPers>youngest brother</ecda:anonPers> crept as softly into it: the
+            monster's head still reposed upon the block of 
+            wood; in a moment it was blown into a thousand 
+            pieces; and the <rs type="persGroup">brothers</rs>, afterwards cutting the
+            body into four parts, laid each one in a quarter of
+            the wood.         
+            </p>
+         </quote>
+      <p>From that time only were <ecda:fauna>dogs</ecda:fauna> brought into
+         subjection to men; and the <rs type="persGroup">inhabitants of <placeName>Jamaica</placeName></rs>
+         would never have been able to subdue 
+         those ferocious <ecda:fauna>animals</ecda:fauna>, if <ecda:fauna><name>Tiger</name></ecda:fauna> had not been
+         killed and quartered by <persName ref="#sarah_winyan_0001">Sarah Winyan's</persName> <rs type="persGroup">brothers</rs>.
+         As to the <ecda:anonPers>aunt</ecda:anonPers>, she received the punishment which
+         she merited, but I cannot remember what it was
+         exactly. Probably, the <rs type="persGroup">brothers</rs> killed and quartered
+         <emph rend="italic">her</emph> as well as her four-footed ally: or, perhaps,
+         she was turned into a <ecda:fauna>wild beast</ecda:fauna>, and supplied
+         the vacancy left by <ecda:fauna><name>Tiger</name></ecda:fauna>, as was the case with the
+         celebrated <persName ref="#anna_nzinga_1583">Zingha</persName>, queen of <placeName>Angola</placeName>; who, although
+         she embraced <name>Christianity</name> on her death-bed, and
+         died according to the most orthodox forms of the
+         <rs type="properAdjective">Romish</rs> religion, still had conducted herself in
+         such a manner while alive, that shortly after her
+         decease, the kingdom being ravaged by a <ecda:fauna>hyena</ecda:fauna>,
+         her subjects could not be persuaded but that the
+         soul of this most <rs type="properAdjective">Christian</rs> queen had transmigrated
+         into the body of the <ecda:fauna>hyena</ecda:fauna>. Yet this was surely
+         doing the <ecda:fauna>hyena</ecda:fauna> great inustice; for she, at least,
+         had never been in the habit of composing ointments
+         by pounding little children in a mortar with
+         her own hands; an amusement which <persName ref="#anna_nzinga_1583">Zingha</persName> had 
+         
+         
+         introduced at the court of <placeName>Angola</placeName>. It took surprisingly;
+         shortly, no woman thought her toilette
+         completed, unless she had used some of the ointment.
+         Pounding children became all the rage;
+         and ladies who aspired to be leaders of fashion,
+         pounded ther own.          
+      </p>
+   </div> 
+   <div type="entry">
+      <opener><dateline><date when="1816-04-20">April 20</date>.</dateline></opener>
+      <quote>
+         <lg>
+          <head>Epigram.—</head> <note>(From the French.)</note>
+            <l><said rend="prequotes" xml:id="s152" next="s153">Who can that little monster be?</said></l>
+           <l><said rend="postquotes" xml:id="s153" prev="s152">Its parents really claim one's pity</said></l>
+            <l><said rend="quotes">Madam, that child belongs to me.</said>—</l>
+            <l><said rend="quotes">Well, I protest, she's vastly pretty!</said></l>
+         </lg>
+         
+      </quote>
+   </div>
+   <div type="entry">
+      <opener><dateline><date when="1816-04-21">April 21</date>.</dateline></opener> 
+      <p>The weather gets no better, the apothecary gets
+         no worse, and both are as foul and as disagreeable 
+         as they can well be. As to the man, it is wonderful
+         that he is still alive, for he has swalloed nothing
+         for the last three weeks except <seg ana="#medical">drams and laudanum</seg>. 
+         He drinks, and he stinks, and he does nothing else 
+         earthly or celestial. The quantity of <ecda:food>spirits</ecda:food> which
+         he pours down his throat incessantly should, of 
+         itself, be sufficent to finish him; but he seems to
+         have accustomed himself to <seg ana="#medical">drams</seg>, as <persName ref="#mithridates_vi_pontus_0134">Mithridates</persName>
+         used himself to poisons, till his stomach is completely
+         proof against them; or like the <ecda:anonPers><rs type="properAdjective">Scythian</rs>
+         princess</ecda:anonPers>, who was fed upon <seg ana="#poison">ratsbane pap</seg> from her
+         infancy, for the express purpose of one day or 
+         other poisoning <persName ref="#alexander_the_great_356">Alexander</persName> in her embraces; and
+         who arrived at such perfection, that although the
+         
+         
+         venom did no harm to her own constitution, she
+         killed a condemned criminal with a single kiss.
+         The consequence was, that <ecda:commodity>hemp</ecda:commodity> fell fifty per cent,
+         and <persName ref="#jack_ketch_0001">Jack Ketch's</persName> nose was pout out of joint completely;
+         for the devil a culprit of any pretensions
+         to taste could be found in all of <placeName>Scythia</placeName>, who could
+         be prevailed upon to be executed except by her
+         royal highness's own lips. I am afraid this story
+         is not strictly historical, and that we should look
+         for it in vain in <persName ref="#quintus_curtius_rufus_0001">Quintus Curtius</persName>. 
+         
+         
+      </p>
+   </div>         
      </body>
       
   </text>
