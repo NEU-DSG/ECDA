@@ -91,7 +91,7 @@
                  places on the <placeName>Barbary-coast</placeName>. From the <placeName>Mediterranean</placeName>, the <name>Spaniards</name> and <name>Portuguese</name>
                  transported the <ecda:commodity ana="#transport #food #flora">Cane</ecda:commodity> to the <placeName><unclear>Azores</unclear></placeName>, the <placeName>Madeiras</placeName>, the <placeName>Canary</placeName> and the <placeName>Cape-Verd
                  islands</placeName>, soon after they had been discovered in the fifteenth century and in most of
-                 these, particularly <placeName>Madeira</placeName>, it throve exceedingly. Weather the <ecda:flora>Cane</ecda:flora> is a native
+                 these, particularly <placeName>Madeira</placeName>, it throve exceedingly. Whether the <ecda:flora>Cane</ecda:flora> is a native
                  of either the <placeName>Great</placeName> or <placeName><seg xml:id="er001" corresp="#ec001">Lesser</seg> Antilles</placeName> cannot now be determined for their discoverers
                  were so wholly employed in searching after imaginary gold-mines, that they took
                  little or no notice of the natural productions. Indeed the wars, wherein they wantonly
@@ -112,11 +112,11 @@
                  priece, great as it may now appear, was probably much less than what the Sugar from the
                  <placeName>East-Indies</placeName> had commonly been sold for. Indeed, so intent was the <orgName>Crown of Portugal</orgName>
                  on extending their <name><placeName>Brazil</placeName>-trade</name>, that that of the <placeName>East-Indies</placeName> began to be neglected, and
-                 soon suffered a manifest decay. However, their sugar made them ample amends,
+                 soon suffered a manifest decay. However, their <ecda:commodity>sugar</ecda:commodity> made them ample amends,
                  in which trade they continued almost without a rival for upwards of a century. At last
                  the <name>Dutch</name>, in <date>1623</date>, drove the <name>Portuguese</name> out of all the northern part of <placeName>Brazil</placeName>; and,
                  during one and twenty years they kept that conquest, those industrious republicans
-                 learned the art making sugar. This probably inspired the <name>English</name> with a desire
+                 learned the art making <ecda:commodity>sugar</ecda:commodity>. This probably inspired the <name>English</name> with a desire
                  
                  <!-- Insert page and link information here -->
                  
@@ -165,7 +165,7 @@
                 This is also a lofty tree. It is of quick growth and handsome, and
                 produces a not disagreeable fruit in a <unclear cert="low">shut</unclear> pod or legumen, about three inches long. It
                 is a serviceable wood. In botanical books, I find three different names for the locust tree;
-                that meant here is the <distinct type="scientific" xml:id="la" rend="slant(italic)">Siliqua adulis</distinct>.
+                that meant here is the <distinct type="scientific" xml:lang="la" rend="slant(italic)">Siliqua adulis</distinct>.
               </p>
            </note>
            <note xml:id="n005" target="#a005">
@@ -174,7 +174,7 @@
                  Canoes have been scooped out of this tree, capable
                  of holding upwards of a hundred people; and many hundreds, as authors relate, have
                  been at once sheltered by its shade. Its pods contain a very soft short cotton, like
-                 silk:hence the <name>English</name> call the tree the Silk-cotton-tree; and the <name>Spaniards</name> name
+                 silk: hence the <name>English</name> call the tree the Silk-cotton-tree; and the <name>Spaniards</name> name
                  its cotton <distinct type="dialect" xml:lang="es">Lana de ceiba</distinct>. It has been wrought into stockings, but its commonest use is
                  to stuff pillows and mattrasses. It might be made an article of commerce, as the
                  tree grows without trouble, and is yearly covered with pods. An infusion of the
@@ -215,7 +215,7 @@
                  is not a native of <placeName>America</placeName>, but was brought to the islands, from the <placeName>East-Indies</placeName>,
                  by an <!-- Englishman, whose name it bears -->. It is of three kinds, the sweet, the
                  sour, and the bitter; the juice of all of them is wholesome, and the rind medical.
-                 In flavour and wholesomeness, the sweet shaddoc excels the other two, and
+                 In flavour and wholesomeness, the sweet <ecda:flora>shaddoc</ecda:flora> excels the other two, and
                  indeed every other kind of orange, except the forbidden fruit, which scarce yields to
                  any known fruit in the four quarters of the world.
               </p>
@@ -223,7 +223,7 @@
            <note xml:id="n009" target="#a009">
               <p>
                  <label>Ver. 45.</label> <ref>sabbaca:]</ref>
-                 This is the <rs type="properAdjective">Indian name of the</rs> avocato, avocado, avigato, or, as
+                 This is the <rs type="properAdjective">Indian</rs> name of the avocato, avocado, avigato, or, as
                  the <name>English</name> corruptly call it, alligator-pear. The <name>Spaniards</name> in <placeName>South-America</placeName> name
                  it <distinct type="dialect" xml:lang="es">aguacate</distinct>, and under that name it is described by <persName ref="#francisco_de_ulloa_0001">Ulloa</persName>. However, in <placeName>Peru</placeName> and
                  <placeName>Mexico</placeName>, it is better known by the appellation of <soCalled>palta</soCalled> or <soCalled>palto</soCalled>. It is a sightly tree, of
@@ -256,15 +256,15 @@
                  advantage from their situation. By <!-- Templeman's Survey -->, it contains eighty square miles,
                  and is about seventy miles in circumference. It is of an irregular oblong figure, and
                  has a chain of mountains, that run South and North almost from the one end of it to 
-                 the other, formerly covered with wood, but now the Cane plantations reach almost to
-                 their summits, and extend all the way, down their easy declining sides, tothe sea, From
+                 the other, formerly covered with wood, but now the <ecda:commodity ana="#flora #cultivation">Cane</ecda:commodity> plantations reach almost to
+                 their summits, and extend all the way, down their easy declining sides, to the sea, From
                  these mountains some rivers take their rise, which never dry up; and there are many
                  others which, after rain, run into the sea, but which, at other times, are lost before
                  they reach it. Hence, as this land consists of mountain-land and valley, it must always
                  make a midling crop; for when the low grounds fail, the uplands supply that deficiency;
                  and, when the mountain canes are lodged (or become watery from too much
                  rain) those in the plains yield surprisingly. Nor are the plantations here only seasonable,
-                 their Sugar sells for mor than the Sugar of any other of his Majesty's islands; as
+                 their <ecda:commodity ana="#use">Sugar</ecda:commodity> sells for more than the Sugar of any other of his Majesty's islands; as
                  
                  <!-- Insert pb info here -->
                  
@@ -275,13 +275,13 @@
                  shelter, and escape their pursuers. Not far below is a large plain which affords good
                  pasture, water, and wood; and, if the apporaches thereto were fortified, which might
                  be done at a moderate expence, it would be rendered inaccessible. The <name>English</name>,
-                 repulsing the few natives and <name>Spaniards</name>, who opposed them, began to plant tobacco
+                 repulsing the few natives and <name>Spaniards</name>, who opposed them, began to plant <ecda:commodity>tobacco</ecda:commodity>
                  here A.D. 1623. Two years after, the <rs type="properAdjective">English</rs>-settlers received a considerable reinforcement from their
                  mother-country; and, the chiefs of both nations, being men of sound policy, entered 
                  into an agreement to divide the island between them: the <name>French</name> retaining
                  both extremities, and the <name>English</name> possessing themselves of the middle parts of the island.
-                 Some time after both nations erected sugar-works, but there were more tobacco, indigo,
-                 coffee, and cotton-plantations, than Sugar ones, as these require a much greater fund to
+                 Some time after both nations erected sugar-works, but there were more <ecda:commodity>tobacco</ecda:commodity>, <ecda:commodity>indigo</ecda:commodity>,
+                 <ecda:commodity>coffee</ecda:commodity>, and <ecda:commodity>cotton</ecda:commodity>-plantations, than <ecda:commodity>Sugar</ecda:commodity> ones, as these require a much greater fund to
                  carry them on, than those other. All the planters, however, lived easy in their circumstances;
                  for, though the <name>Spaniards</name>, who could not bear to be spectators of their thriving
                  condition, did repossess themselves of the island, yet they were soon obliged to
@@ -294,7 +294,7 @@
                  repent their impolitic breach of faith; for the expelled planters, being assisted by their
                  countrymen from the neighbouring isles, and supported by a formidable fleet, soon recovered,
                  not only their lost plantations, but obliged the french totally to abandon
-                 the island. Ager the <name>treaty of <placeName>Ryswick</placeName></name>, indeedm some few of those among them, who
+                 the island. Ager the <name>treaty of <placeName>Ryswick</placeName></name>, indeed some few of those among them, who
                  had not obtained settlements in <placeName>Martinico</placeName> and <placeName>Hispaniola</placeName>, returned to <placeName>St.
                  Chrisopher</placeName>: but the war of the partition soon after breaking out, they were finally expelled,
                  and the whole island was ceded in Sovereignty to the crown of <placeName>Great Britain</placeName>, by the
@@ -336,8 +336,8 @@
                  years afterwards, the whole island was reduced by the forces sent thither by <persName ref="#oliver_cromwell_1599">Oliver
                  Cromwell</persName>, and has ever since belonged to <placeName>England</placeName>. It is by far the largest island
                  possessed by the <name>English</name> in the <placeName>West Indies</placeName>. <persName ref="thomas_modyford_1620">Sir Thomas Modyford</persName>, a rich and
-                 eminent planter of Barbadoes, removed to <placeName>Jamaica</placeName> A.D. <date>1660</date>, to the great advantage of
-                 that island, for he instructed the young <rs type="properAdjective">English</rs> settlers to cultivate the Sugar-cane; for
+                 eminent planter of <placeName>Barbadoes</placeName>, removed to <placeName>Jamaica</placeName> A.D. <date>1660</date>, to the great advantage of
+                 that island, for he instructed the young <rs type="properAdjective">English</rs> settlers to cultivate the <ecda:commodity>Sugar-cane</ecda:commodity>; for
                  which, and other great improvements which he then made them acquainted with,
                  <persName ref="charles_ii_england_1630">King Charles</persName>, three years afterwards, appointed him Governour thereof, in which
                  honourable employment he continued until the year 1699.
@@ -371,15 +371,15 @@
                  
                  in their voyages to and from <placeName>South-America</placeName>, and the Islands; accordingly we are told,
                  when the <name>English</name> first landed there, which was about the end of the sixteenth or beginning
-                 of the seventeenth century, they found in it an excellent breed of wild hogs,
+                 of the seventeenth century, they found in it an excellent breed of <ecda:fauna>wild hogs</ecda:fauna>,
                  but no inhabitants. In the year <date>1627</date>, <placeName>Barbadoes</placeName>, with most of the other <placeName>Caribbee-
                  Islands</placeName>, were granted by <persName ref="#charles_i_england_1600">Charles I</persName>. to the Earl of Carlisle, that nobleman agreeing to
                  pay to the Earl of Marlborough, and his hears, a perpetual annuity of 300 l. per annum,
                  for his waving his claim to <placeName>Barbadoes</placeName>, which he had obtained, by patent, in the
                  preceding reign. The adventurers to whom that nobleman parcelled out this island, at
-                 first cultivated tobacco; but, that not turning out to their advantage, they applied,
-                 with better success, to cotton, indigo, and ginger. At last, some cavaliers of good
-                 fortune transporting themselves thither, and introducing the Sugar-cane [A. D. 1647]
+                 first cultivated <ecda:commodity ana="#production">tobacco</ecda:commodity>; but, that not turning out to their advantage, they applied,
+                 with better success, to <ecda:commodity ana="#flora #production">cotton</ecda:commodity>, <ecda:commodity ana="#production #flora">indigo</ecda:commodity>, and <ecda:commodity ana="#production #flora #food">ginger</ecda:commodity>. At last, some cavaliers of good
+                 fortune transporting themselves thither, and introducing the <ecda:commodity ana="#flora #production">Sugar-cane</ecda:commodity> [A. D. 1647]
                  probably from <placeName>Brazil</placeName>, in ten years time the island was peopled with upwards of
                  30,000 <name>Whites</name>, and twice that number of <name>Negroes</name>, and sent yearly very considerable
                  quantities of sugar to the mother-country. At the Restoration, <persName ref="#charles_ii_england_1630">King Charles II.</persName>
@@ -395,8 +395,8 @@
                  <label>Ver. 134.</label> <ref>Chief Nevis,]</ref> This island, which does not contain many fewer square
                  miles than <placeName>St. Christopher</placeName>, is more rocky, and almost of a circular figure. It is
                  separated from that island by a channel not above one mile and a half over, and
-                 lies to windward. Its warm bath possesses all the medical properties of the hot well
-                 at <placeName>Bristol</placeName>, and its water, being properly bottled, keeps as well at sea, and is no
+                 lies to windward. <seg ana="#medical">Its warm bath possesses all the medical properties of the hot well
+                 at <placeName>Bristol</placeName></seg>, and its water, being properly bottled, keeps as well at sea, and is no
                  less agreeable to the palate. It was for many years the capital of the Leeward Island
                  government; and, at that period, contained both more Whites and Blacks than it
                  does at present, often mustering 3000 men. The <name>English</name> first settled there A.D
@@ -409,7 +409,7 @@
            <note xml:id="n015" target="#a015">
               <p>
                  <label>Ver. 135.</label> <label>And breezy Mountserrat,]</label> This Island, which lies about 30 miles to the
-                 south-west of Antigua, is not less famous for its solfaterre (or volcano), and hot
+                 south-west of <placeName>Antigua</placeName>, is not less famous for its solfaterre (or volcano), and hot
                  retrifying spring, than for the goodness of its sugars. Being almost circular in its 
                  
                  <!-- Insert pb info here -->
@@ -446,13 +446,13 @@
            </note>
            <note xml:id="n018" target="#a018">
               <p>
-                 <label>Ver. 206.</label> <ref>And Liamuiga,]</ref> The <placeName>Caribbean</placeName> name of <placeName>St. Christopher</placeName>.
+                 <label>Ver. 206.</label> <ref>And Liamuiga,]</ref> The <rs type="properAdjective">Caribbean</rs> name of <placeName>St. Christopher</placeName>.
               </p>
            </note>
            <note xml:id="n019" target="#a019">
               <p>
-                 <label>Ver. 237</label> <ref>That yams improve the soil.]</ref> The botanical name of this plant is <soCalled>Dioscoria</soCalled>.
-                 Its leaves, like those of the water-melon, or gourd, soon mantle over the ground 
+                 <label>Ver. 237</label> <ref>That yams improve the soil.]</ref> The botanical name of this plant is <distinct type="scientific" xml:lang="la">Dioscoria</distinct>.
+                 Its leaves, like those of the <ecda:flora>water-melon</ecda:flora>, or <ecda:flora>gourd</ecda:flora>, soon mantle over the ground 
                  where it is planted. It takes about eight months to come to come to perfection, and then is
                  
                  <!-- insert pb info here -->
@@ -465,7 +465,7 @@
            </note>
            <note xml:id="n020" target="#a020">
               <p>
-                 <label>Ver. 260.</label> <ref>gemmy tops;]</ref> The summit of the Cane being smaller-jointed as well as
+                 <label>Ver. 260.</label> <ref>gemmy tops;]</ref> The summit of the <ecda:flora>Cane</ecda:flora> being smaller-jointed as well as
                  softer, and consequently having more gems, from whence the young sprouts shoot, is
                  properer for planting than any other part of it. From one to four junks, each about 
                  a foot long, are put in every hole. Where too many junks are planted in one hole,
@@ -546,8 +546,8 @@
            </note>
            <note xml:id="n026" target="#a026">
               <p>
-                 <label>Ver. 342.</label> <ref>And black crabs]</ref> Black land-crabs are excellent eating; but as they
-                 sometimes will occasion a most violent <soCalled>cholera morbus</soCalled>, (owing, say planters, to their
+                 <label>Ver. 342.</label> <ref>And black crabs]</ref> <ecda:fauna ana="#food">Black land-crabs</ecda:fauna> are excellent eating; but as they
+                 sometimes will occasion a most violent <distinct type="scientific" xml:lang="la">cholera morbus</distinct>, (owing, say planters, to their
                  feeding on the mahoe-berry) they should never be dressed till they have fed for some 
                  weeks in a crab house, after being caught by the <name>Negroes</name>. When they moult, they
                  are most delicate; and then, it is believed, never poison. This however is certain,
@@ -570,7 +570,7 @@
            </note>
            <note xml:id="n028" target="#a028">
               <p>
-                 <label>Ver. 418.</label> <ref>The mail'd anana]</ref> This is the pine-apple, and needs no description;
+                 <label>Ver. 418.</label> <ref>The mail'd anana]</ref> This is the <ecda:flora ana="#food">pine-apple</ecda:flora>, and needs no description;
                  the <unclear>cherimoya</unclear>, a South-American fruit, is by all, who have tasted both, allowed to
                  surpass the pine, and is even said to be more wholesome. The botanical name of
                  the pineapple is <soCalled>bromelia</soCalled>. Of the wild pine-apple, or annanas <gap extent="4letters"/>, hedges are
@@ -585,8 +585,8 @@
            </note>
            <note xml:id="n030" target="#a030">
               <p>
-                 <label>Ver. 500.</label> <ref>Now children of this clime:]</ref> It is supposed that oranges, lemons, and
-                 limes were introduced into <placeName>America</placeName> by the <name>Spaniards</name>; but I am more inclined to
+                 <label>Ver. 500.</label> <ref>Now children of this clime:]</ref> It is supposed that <ecda:flora ana="#food">oranges</ecda:flora>, <ecda:flora ana="#food">lemons</ecda:flora>, and
+                 <ecda:flora ana="#food">limes</ecda:flora> were introduced into <placeName>America</placeName> by the <name>Spaniards</name>; but I am more inclined to
                  believe they are natural to this climate. The <name>Spaniards</name> themselves probably had the
                  two first from the <name>Saracens</name>, for the <rs type="properAdjective">Spanish</rs> noun <distinct type="dialect" xml:lang="es">Naranja</distinct>, whence the <rs type="properAdjective">English</rs> word
                  <soCalled>Orange</soCalled>, is plainly <rs type="properAdjective">Arabic</rs>.
@@ -606,7 +606,7 @@
                  <label>Ver. 508.</label> <ref>Nor shall the ricinus]</ref> This shrub is commonly called the physic-nut.
                  It is generally divided into three kinds, the common, the <!-- French, and the Spanish -->,
                  which differ from each other in their leaves and flowers, if not in their fruit or 
-                 seeds. The plant from which the castor-oil is extracted is also called <soCalled>Ricinus</soCalled>, though
+                 seeds. The plant from which the castor-oil is extracted is also called <distinct type="scientific" xml:lang="la">Ricinus</distinct>, though
                  it has no resemblance to any of the former, in leaves, flowers, or seeds. In one particular
                  they all agree <abbr>viz.</abbr> in their yielding to coction or expression a purgative or emetic
                  oil. The <name>Spaniards</name> name these nuts <distinct type="dialect" xml:lang="es">Avellanas purgativas</distinct>; hence Ray terms them
@@ -643,9 +643,9 @@
                  <soCalled>Poinciana</soCalled>. If permitted, it will grow twenty feet high; but in order to make it a
                  good fence, it should be kept low. It is always in blossom. Tho' not purgative, it is
                  of the senna kind. Its leaves and flowers are stomachic, carminative, and emmenagogue.
-                 Some authors name it <soCalled>Cauda pavonis</soCalled>, on account of its inimitable beauty: the 
-                 flowers have a physicky smell. How it came to be called <soCalled>Doodle-doo</soCalled> I know not; the
-                 <name>Barbadians</name> more properly term it <soCalled>Flower Fence</soCalled>. This plant grows also in <placeName>Guinea</placeName>.
+                 Some authors name it <distinct type="scientific">Cauda pavonis</distinct>, on account of its inimitable beauty: the 
+                 flowers have a physicky smell. How it came to be called <distinct type="dialect">Doodle-doo</distinct> I know not; the
+                 <name>Barbadians</name> more properly term it <distinct type="dialect">Flower Fence</distinct>. This plant grows also in <placeName>Guinea</placeName>.
               </p>
            </note>
            <note xml:id="n036" target="#a036">
@@ -653,8 +653,8 @@
                  <label>Ver. 526.</label> <ref>seen the humming bird,]</ref> The humming bird is called <distinct type="dialect" xml:lang="fr">Picaflore</distinct> by the
                  <name>Spaniards</name>, on account of its hovering over flowers, and sucking their juices, without
                  lacerating or even so much as discomposing their petals. Its <rs type="properAdjective">Indian</rs> name, says
-                 <persName ref="#francisco_de_ulloa_0001">Ulloa</persName>, is <soCalled><foreign>Guinde</foreign></soCalled>, though it is also known by the appellation of <soCalled>Rabilargo</soCalled> and <soCalled>Lizongero</soCalled>.
-                 By the <name>Caribbeans</name> it was called <soCalled>Collobree</soCalled>. It is common in all the warm parts of <placeName>America</placeName>
+                 <persName ref="#francisco_de_ulloa_0001">Ulloa</persName>, is <distinct type="dialect">Guinde</distinct>, though it is also known by the appellation of <distinct type="dialect">Rabilargo</distinct> and <distinct type="dialect">Lizongero</distinct>.
+                 By the <name>Caribbeans</name> it was called <distinct type="dialect">Collobree</distinct>. It is common in all the warm parts of <placeName>America</placeName>
                  There are various species of them, all exceeding small, beautiful and bold.
                  The crested one, though not so frequent, is yet more beautiful than the others. It is
                  chiefly to be found in the woody parts of the mountains. <persName>Edwards</persName> has described a very
@@ -671,7 +671,7 @@
                  grow in the barrenest of soils, and on the tops of walls, if a small portion of earth be
                  added. There are two sorts of it, one whose fruit is roundish and sweet, the other,
                  which has more the shape of a fig, is sour. The former is sometimes eaten, but
-                 the other seldom. The <name>French</name> call them <soCalled><foreign>Pomme de Raquette</foreign></soCalled>. Both fruit and leaves
+                 the other seldom. The <name>French</name> call them <distinct type="dialect">Pomme de Raquette</distinct>. Both fruit and leaves
                  are guarded with sharp prickles, and, even in the interior part of the fruit, there
                  is one which must be removed before it is eaten. The leaves, which are half
                  an inch thick, having a sort of pulp interposed between their surfaces, being deprived
@@ -686,11 +686,11 @@
            <note xml:id="n038" target="#a038">
               <p>
                  <label>Ver. 538.</label> <ref>wild liquorice]</ref> This is a scandent plant, from which the <name>Negroes</name> gather
-                 what they call <soCalled>Jumbee Beeds</soCalled>. These are about the size of pigeon peas, almost
+                 what they call <distinct type="dialect">Jumbee Beeds</distinct>. These are about the size of pigeon peas, almost
                  round, of a red colour, with a black speck on one extremity. They act as an
                  emetic, but, being violent in their operation, great caution should be observed in
                  using them. The leaves make a good pectoral drink in disorders of the breast. By
-                 the <name>French</name> it is named <soCalled><foreign>Petit Panacoco</foreign></soCalled>, to distuinguish it from a large tree, which bears
+                 the <name>French</name> it is named <distinct type="dialect">Petit Panacoco</distinct>, to distuinguish it from a large tree, which bears
                  seeds of the same colours, only much bigger. This tree is a species of black ebony.
               </p>
            </note>
@@ -704,8 +704,8 @@
               <p>
                  <label>Ver. 572.</label> <ref>yellow deaths]</ref> The yellow fever, to which <name>Europeans</name> of a sanguine
                  habit of body, and who exceed in drinking or exercise, are liable upon their arrival
-                 in the <placeName>West Indies</placeName>. The <name>French</name> call it <soCalled><foreign>Maladie de Siame</foreign></soCalled>, or more properly <soCalled><foreign>La
-                 Fievre des Matelots</foreign></soCalled>. Those who have lived any time in the islands are no more
+                 in the <placeName>West Indies</placeName>. The <name>French</name> call it <distinct type="dialect">Maladie de Siame</distinct>, or more properly <distinct type="dialect">La
+                 Fievre des Matelots</distinct>. Those who have lived any time in the islands are no more
                  subject to this disease than the <name>Creoles</name>, whence, however, some physicians have
                  too hastily concluded that it was of foreign extraction.
               </p>
@@ -715,26 +715,26 @@
                  <label>Ver. 596.</label> <ref>cassada,]</ref> Cassavi, cassava, is called <soCalled>Jatropha</soCalled> by botanists. Its
                  meal makes a wholesome and well-tasted bread, although its juice be poisonous.
                  There is a species of cassada which may be eat with safety, without expressing the
-                 juice; this the <name>French</name> call Camagnoc. The colour of its root is white, like a
+                 juice; this the <name>French</name> call <distinct type="dialect" xml:lang="fr">Camagnoc</distinct>. The colour of its root is white, like a
                  parsnip; that of the common kind is of a brownish red, before it is scraped. By 
                  coction the cassada-juice becomes an excellent sauce for fish; and the <name>Indians</name> prepare
                  many wholesom dishes from it. I have given it internally mixed with flour 
                  without any bad consequences; it did not however produce any of the salutary effects
                  I expected. A good starch is made from it. The stem is knotty, and,
                  being cut into small junks and planted, young sprouts shoot up from each knob.
-                 Horses have been poisoned by eating its leaves. The <name>French</name> name it <soCalled><foreign>Manihot</foreign></soCalled>,
-                 <soCalled><foreign>Magnoc</foreign></soCalled>, and <soCalled><foreign>Manioc</foreign></soCalled>, and the <name>Spaniards</name> <soCalled><foreign>Mandiocha</foreign></soCalled>.
+                 Horses have been poisoned by eating its leaves. The <name>French</name> name it <distinct type="dialect">Manihot</distinct>,
+                 <distinct type="dialect">Magnoc</distinct>, and <distinct type="dialect">Manioc</distinct>, and the <name>Spaniards</name> <distinct type="dialect">Mandiocha</distinct>.
                  It is pretended that all creatures
                  but man eat the raw root of the cassada with impunity; and, when dried, that it
                  is a sovereign antidote against venomous bites. A wholesome drink is prepared from
                  this root by the <name>Indians</name>, <name>Spaniards</name>, and <name>Portuguese</name>, according to <persName>Pineda</persName>. There is
-                 one species of this plant which the <name>Indians</name> only use, and is by them called <soCalled>Baccacoua</soCalled>.
+                 one species of this plant which the <name>Indians</name> only use, and is by them called <distinct type="dialect">Baccacoua</distinct>.
               </p>
            </note>
            <note xml:id="n042" target="#a042">
               <p>
-                 <label>Ver. 597.</label> <ref>tanies:</ref> This wholesome root, in some of the islands, is called <soCalled>Edda</soCalled>:
-                 Its botanical name is <soCalled>Arum maximum Ægyptiacum</soCalled>. There are three species of tanies,
+                 <label>Ver. 597.</label> <ref>tanies:</ref> This wholesome root, in some of the islands, is called <distinct type="dialect">Edda</distinct>:
+                 Its botanical name is <distinct type="scientific">Arum maximum Ægyptiacum</distinct>. There are three species of tanies,
                  the blue, the scratching, and that which is commonly roasted. The blossoms of
                  all three are very fragrant, in a morning or evening. The young leaves, as well 
                  as the spiral stalks which support the flower, are eaten by <name>Negroes</name> as a salad. The
@@ -744,7 +744,7 @@
            </note>
            <note xml:id="n043" target="#a043">
               <p>
-                 <label>Ver. 598.</label> <ref>to the soursop]</ref> The true <rs type="properAdjective">Indian</rs> name of this tree is <soCalled>Suirsaak</soCalled>. It grows
+                 <label>Ver. 598.</label> <ref>to the soursop]</ref> The true <rs type="properAdjective">Indian</rs> name of this tree is <distinct type="scientific">Suirsaak</distinct>. It grows
                  in the barrenest places to a considerable height. Its fruit will often weigh two pounds.
                  Its skin is green, and somewhat prickly. The pulp is not disagreeable to the
                  palate, being cool, and having its sweetness tempered with some degree of an
@@ -752,8 +752,8 @@
                  leaves of the soursop are very shining and green. The fruit is wholesome, but seldom
                  admitted to the tables of the elegant. The seeds are dispersed through the pulp
                  like the guava. It has a peculiar flavour. It grows in the East as well as the <placeName>West-
-                 Indies</placeName>. The botinical name is <soCalled>Guanabanus</soCalled>. The <name>French</name> call it <soCalled><foreign>Petit Corosol</foreign></soCalled>, or
-                 <soCalled><foreign>Cœur de Bœuf</foreign></soCalled>, to which the fruit bears a resemblance. The root, being reduced to
+                 Indies</placeName>. The botinical name is <distinct type="scientific">Guanabanus</distinct>. The <name>French</name> call it <distinct type="dialect" xml:lang="fr">Petit Corosol</distinct>, or
+                 <distinct type="dialect" xml:lang="fr">Cœur de Bœuf</distinct>, to which the fruit bears a resemblance. The root, being reduced to
                  a powder, and snuffed up the nose, produces the same effect as tobacco. Taken by
                  the mouth, the <name>Indians</name> pretend it is a specific in the epilepsy.
               </p>
@@ -793,12 +793,12 @@
                  They may be planted fifteen or twenty feet distant, though some advise to plant
                  them much nearer, and perhaps wisely; for it is an easy matter to thin them, when
                  they are past the danger of being destroyed by dry weather, &amp;c. Some recommend
-                 planting cassada, or bananas, in the intervals, when the cacao-trees are young,
+                 planting <ecda:flora>cassada</ecda:flora>, or <ecda:flora>bananas</ecda:flora>, in the intervals, when the cacao-trees are young,
                  to destroy weeds, from which the walk cannot be kept too free. It is generally
                  three years before they produce good pods; but in six years, they are in highest
                  perfection. The pods are commonly of the size and shape of a large cucumber.
                  There are three or four sorts of cacao, which differ from one another in the colour 
-                 and goodness of their nuts. That from the Caraccas is certainly the best. None
+                 and goodness of their nuts. That from the <placeName>Caraccas</placeName> is certainly the best. None
                  of the species grow in <placeName>Peru</placeName>. Its alimentary, as well as physical properties, are
                  sufficiently known. This word is <rs type="properAdjective">Indian</rs>.
               </p>
@@ -822,8 +822,8 @@
                  of <rs type="properAdjective">Arabian</rs> jasmine; the flower is particularly redolent, and from it a pleasant cordial
                  water is distilled. It produces fruit twice every year; but the shrub must be three
                  years old before any can be gathered. It should not be allowed to grow above six
-                 foot high. It is very apt to be destroyed by a large fly, which the <name>French</name> call <soCalled><foreign>Mouche
-                 a caffe</foreign></soCalled>; as well as by the white grub, which they name <soCalled><foreign>Puceron</foreign></soCalled>. Its medical and
+                 foot high. It is very apt to be destroyed by a large fly, which the <name>French</name> call <distinct type="dialect" xml:lang="fr">Mouche
+                 a caffe</distinct>; as well as by the white grub, which they name <distinct type="dialect" xml:lang="fr">Puceron</distinct>. Its medical and
                  alimentary qualities are as generally known as those of tea.
               </p>
            </note>
@@ -839,7 +839,7 @@
                  bear once a year. An excellent vinegar may be made from the fruit; but the <name>Creoles</name>
                  chiefly preserve it with sugar, and the <name>Spaniards</name> with salt. A pleasant syrup may
                  be made from it. The name is, in <name>Arabic</name>, <soCalled><foreign>Tamara</foreign></soCalled>. The <name>Antients</name> were not
-                 acquanted therewith; for the Arabians first introduced tamarinds into physic;
+                 acquanted therewith; for the <name>Arabians</name> first introduced tamarinds into physic;
                  it is a native of the East as well as of the <placeName>West-Indies</placeName> and <placeName>South-America</placeName>,
                  where different provinces call it by different names. Its cathartic qualities are well
                  known. It is good in sea-sickness. The botanical name is <soCalled>Tamarindus</soCalled>.
@@ -858,7 +858,7 @@
            <note xml:id="n049" target="#a049">
               <p>
                  <label>Ver. 644.</label> <ref>Ere fire-flies]</ref> This surprising insect is frequent in <placeName>Guadaloupe</placeName>, &amp;c.
-                 and all the warmper parts of <placeName>America</placeName>. There are none of them in the <placeName><rs type="properAdjective">English</rs>
+                 and all the warmer parts of <placeName>America</placeName>. There are none of them in the <placeName><rs type="properAdjective">English</rs>
                  Caribbee</placeName>, or <placeName>Virgin-Islands</placeName>.
               </p>
            </note>
@@ -886,7 +886,7 @@
                  shipping from <placeName>Europe</placeName>. They breed in the ground, under loose rocks and bushes.
                  <persName>Durante</persName>, a Roman, who was a physician to <persName ref="#pope_sixtus_v_1521">Pope Sixtus Quintus</persName>, and who wrote a
                  <rs type="properAdjective">Latin</rs> poem on the preservation of health, enumerates domestic rats among animals
-                 that may be eaten with savety. But if these are wholesome, cane-rats must be much
+                 that may be eaten with safety. But if these are wholesome, cane-rats must be much
                  more delicate, as well as nourishing. Accordingly we find most field <name>Negroes</name>
                  fond of them, and I have heard that straps of cane-rats are publicly sold in the 
                  markets of <placeName>Jamaica</placeName>.
@@ -896,7 +896,7 @@
               <p>
                  <label>Ver. 69</label> <ref>mangrove-banks]</ref> This tree, which botanists call <soCalled>Rizophra</soCalled>, grows in
                  marshy soils, and on the sides of rivers; and, as the brances take root, they frequently
-                 render narrow strams impassible to boats. Oysters often adhere to their roots,
+                 render narrow strams impassible to boats. <ecda:fauna ana="#food">Oysters</ecda:fauna> often adhere to their roots,
                  &amp;c. The <rs type="properAdjective">French</rs> name of this strange water shrub is <ecda:flora>Paltuvier</ecda:flora>. The species
                  meant here is the red mangrove.
               </p>
@@ -905,14 +905,14 @@
               <p>
                  <label>Ver. 74</label> <ref>Dread alligators]</ref> This dreadful animal is amphibious, and seldom lays
                  fewer than 100 eggs. These she carefully covers with sand. But, notwithstanding
-                 this precaution, the gallinazo (a large species of carrion crow) conceals itself among
+                 this precaution, the <ecda:fauna>gallinazo</ecda:fauna> (a large species of carrion crow) conceals itself among
                  the thick boughs of the nieghbouring trees, and thus often discovers the hoard of the
-                 alligator which she no sooner leaves, than the gallinazo souses down upon it, and
-                 greedily scraping off the sand, regales on its contents. Nor is the male alligator less
+                 alligator which she no sooner leaves, than the <ecda:fauna>gallinazo</ecda:fauna> souses down upon it, and
+                 greedily scraping off the sand, regales on its contents. Nor is the male <ecda:fauna>alligator</ecda:fauna> less
                  an enemy to the increase of his own horrid brood, than these useful birds; for, when
                  instinct prompts the female to let her young fry out by breaking the eggs. he never 
                  fails to accompany her and to devour as many of them as he can: So that the mother
-                 scarece ever escapes into the river with more than five out of all her hundred. Thus
+                 scarce ever escapes into the river with more than five out of all her hundred. Thus
                  providence doubly prevents the otherwise immense propacation of that voracious animal,
                  on the banks of the river <placeName>Guayaquil</placeName>; for the gallinazo is not always found,
                  where alligators are. <bibl rend="ital"><author><persName ref="#francisco_de_ulloa_0001">Ulloa</persName></author>.</bibl>
@@ -927,7 +927,7 @@
                  <!-- insert pb info here -->
                  
                  foul feeders, many of them greedily devouring the raw guts of fouls: They
-                 also feed on dead mules and horses; whose carcasses, therefore, should be buried
+                 also feed on dead <ecda:fauna>mules</ecda:fauna> and <ecda:fauna>horses</ecda:fauna>; whose carcasses, therefore, should be buried
                  deep, that the <name>Negroes</name> may not come at them. But the surest way is to
                  burn them; otherwise they will be apt, privily, to kill those useful animals, in order
                  to feast on them.
@@ -935,7 +935,7 @@
            </note>
            <note xml:id="n056" target="#a056">
               <p>
-                 <label>Ver. 76</label> <ref>Nor thou their wayward]</ref> <persName ref="#jeanbaptiste_labat_1663">Pere Labat</persName> says that Cane-rats give those
+                 <label>Ver. 76</label> <ref>Nor thou their wayward]</ref> <persName ref="#jeanbaptiste_labat_1663">Pere Labat</persName> says that <ecda:fauna>Cane-rats</ecda:fauna> give those
                  <name>Negroes</name> who eath them pulmonic disorders, but the good <name>Jesuit</name> was no physician. I
                  have been told by those who have eat them, that they are a very delicate food.
               </p>
@@ -944,7 +944,7 @@
               <p>
                  <label>Ver. 95</label> <ref>Tis safer then to mingle nightshade's juice]</ref> See the article <title rend="italic">Solanum</title> in
                  <bibl><author><persName>Newman's</persName></author> Chemistry published by <publisher><persName>Dr. Lewis</persName></publisher>.</bibl> There is a species of <rs type="properAdjective">East-India</rs> animal
-                 called a <ecda:fauna>Mungoes</ecda:fauna>, which bears a natural antipathy to rats. Its introduction into
+                 called a <!-- Mungoes -->, which bears a natural antipathy to <ecda:fauna>rats</ecda:fauna>. Its introduction into
                  the <placeName>Sugar-Islands</placeName> would, probably, effectuate the extirpation of this destructive vermin.
               </p>
            </note>
@@ -977,7 +977,7 @@
               <p>
                  <label>Ver. 128</label> <ref>Planter, thou may'st the humble chickweed]</ref> There are two kinds of
                  chickweed, which grow spontaneously in the <placeName>Caribbees</placeName>, and both possess very considerable
-                 virtues, particularly that which potanists call <distinct type="scientific">Cajacia</distinct>, and which the
+                 virtues, particularly that which botanists call <distinct type="scientific">Cajacia</distinct>, and which the
                  <name>Spaniards</name> emphatically name <distinct xml:lang="es" type="dialect">Erudos Cobres</distinct>, or <distinct>Snakeweed</distinct>, on account of its remarkable
                  qualities against poisonous bites. It is really of use against fish-poison; as is also the
                  sensitive plant, whic the <name>Spaniards</name> prettily call the <distinct xml:lang="es">Vergonzoza</distinct>, the Bashful, and
@@ -1031,7 +1031,7 @@
            </note>
            <note xml:id="n066" target="#a066">
               <p>
-                 <label>Ver. 205.</label> <ref>Tho' seasons]</ref> Without a rainy season, the Sugar-cane could not be
+                 <label>Ver. 205.</label> <ref>Tho' seasons]</ref> Without a rainy season, the <ecda:flora ana="#commodity">Sugar-cane</ecda:flora> could not be
                  cultivated to any advantage: for what <persName ref="#pliny_0023">Pliny the Elder</persName> writes of another plant may
                  be applied to this, <quote xml:lang="la" rend="italics">Gaudet irriguis, et toto anno bibere amat.</quote>
               </p>
@@ -1047,7 +1047,7 @@
                  <label>Ver. 218.</label> <ref>the plumb-tree sheds,]</ref> This is the <ecda:flora><rs type="properAdjective">Jamaica</rs> plumb tree</ecda:flora>. When covered
                  with fruit, it has no leaves upon it. The fruit is wholesome. In like manner,
                  the panspan is destitute of foliage when covered with flowers. The latter is
-                 a species of jessamine, and grows as large as an apple-tree.
+                 a species of <ecda:flora>jessamine</ecda:flora>, and grows as large as an apple-tree.
               </p>
            </note>
            <note xml:id="n069" target="#a069">
@@ -1060,7 +1060,7 @@
            </note>
            <note xml:id="n070" target="#a070">
               <p>
-                 <label>Ver. 265.</label> <ref>Cathäy]</ref> An old name for <placeName>China.</placeName>
+                 <label>Ver. 265.</label> <ref>Cathäy]</ref> An old name for <placeName>China</placeName>.
               </p>
            </note>
            <note xml:id="n071" target="#a071">
@@ -1089,11 +1089,11 @@
            </note>
            <note xml:id="n074" target="#a074">
               <p>
-                 <label>Ver. 438.</label> <ref>the bending coco's]</ref> The coco-nut tree is of the palm genus; there are
+                 <label>Ver. 438.</label> <ref>the bending coco's]</ref> The <ecda:flora>coco-nut tree</ecda:flora> is of the palm genus; there are
                  several species of them, which grow naturally in the Torrid Zone. The coco-nut tree
                  is, by no means, so useful as travellers have represented it. The wood is of little
                  or no service, being spungy, and the brown covering of the nuts is of too rough a
-                 texture to serve as apparel. The shell of the nut receives a good polishl and having
+                 texture to serve as apparel. The shell of the nut receives a good polish and having
                  a hantle to put to it, is commonly used to drink water out of. The milk or water 
                  of the nut, is cooling and pleasant; but, if drunk too freely, will frequently occasion
                  a pain in the stomach. A salutary oil may be extracted from the kernel; which, if
@@ -1138,9 +1138,9 @@
            </note>
            <note xml:id="n077" target="#a077">
               <p><label>Ver. 504.</label> <ref>The boneta]</ref> This fish, which is equal in size to the largest salmon,
-                 is only to be found in the warm latitudes. It is not a delicate food, but thoe who
+                 is only to be found in the warm latitudes. It is not a delicate food, but those who
                  have lived for any length of time on salt meats at sea, do not dislike it. <persName ref="#hans_sloane_1660">Sir
-                 Hans Sloane</persName>, in his voyage to Jamaica, describes the method of striking them.
+                 Hans Sloane</persName>, in his voyage to <placeName>Jamaica</placeName>, describes the method of striking them.
               </p>
            </note>
            <note xml:id="n078" target="#a078">
@@ -1189,11 +1189,11 @@
                  that the Negroes commonly use them to cover the water, which they bring in pails
                  from the mountain, where it chiefly grows. The roots of this tree were introduced
                  into <rs type="properAdjective">European</rs> practice, soon after the venereal disease; but unless they are
-                 fresh, it must be confessed they possess fewer virtues than either sarsaparilla or lignum
+                 fresh, it must be confessed they possess fewer virtues than either <ecda:flora>sarsaparilla</ecda:flora> or <ecda:flora>lignum
                  
                  <!-- insert pb info here -->
                  
-                 vitæ. It also grows in <placeName>China</placeName> and many parts of the <placeName>East-Indies</placeName>, where it is
+                 vitæ.</ecda:flora> It also grows in <placeName>China</placeName> and many parts of the <placeName>East-Indies</placeName>, where it is
                  greatly recommended in the gout palsy, sciatica, obstructions, and obstinate headachs:
                  but it can surely not effect the removal of these terrible disorders; since, in <placeName>China</placeName>,
                  the people eat the fresh root, boiled with their meat, as we do turnips; and the better
@@ -1218,7 +1218,7 @@
               
               <p><persName ref="#jeanbaptiste_labat_1663">Pere Labat</persName> says, he was informed the <name>English</name> were wont, as a punishment, thus
                  to grind their negroes to death. But one may venture to affirm this punishment
-                 never had the sanction of law; and if any Englishman ever did grind his negroes
+                 never had the sanction of law; and if any <name>Englishman</name> ever did grind his negroes
                  to death, I will take upon me to aver, he was universally detested by his countrymen.
               </p>
               <p>Indeed the bare suspicion of such a piece of barbarity leaves a stain: and therefore
@@ -1235,7 +1235,7 @@
            </note>
            <note xml:id="n087" target="#a087">
               <p><label>Ver. 192.</label> <ref>Amphitryte]</ref> A mixture of sea water, is a real improvement in the
-                 distillation of rum.
+                 distillation of <ecda:commodity ana="#food">rum</ecda:commodity>.
               </p>
            </note>
            <note xml:id="n088" target="#a088">
@@ -1256,14 +1256,14 @@
                  regular form of government took place. Then was tobacco planted, and negroes
                  imported into <placeName>Virginia</placeName>. Since that time it has gradually improved, and does not
                  now contain fewer than 100,000 white people of better condition, besides twice as 
-                 many servants and slaves. The best shingles come from <placeName>Egg-Harbour</placeName>.
+                 many servants and slaves. The best shingles come from <placeName>Egg-Harbour</placeName>. <!-- ?? -->
               </p>
            </note>
            <note xml:id="n089" target="#a089">
               <p><label>Ver. 282.</label> <ref>Karakura]</ref> The Indian name of <placeName>Guadaloupe</placeName>.</p>
            </note>
            <note xml:id="n090" target="#a090">
-              <p><label>Ver. 283.</label> <ref>Matanina]</ref> The Caribbean name of Martinico. The Havannah had
+              <p><label>Ver. 283.</label> <ref>Matanina]</ref> The Caribbean name of <placeName>Martinico</placeName>. The <placeName>Havannah</placeName> had
                  not then been taken.
               </p>
            </note>
@@ -1281,12 +1281,12 @@
            </note>
            <note xml:id="n092" target="#a092">
               <p><label>Ver. 339.</label> <ref>Open, and pervious]</ref> This also assists the christallization of the
-                 Sugar.
+                 <ecda:commodity ana="#refinement #food">Sugar</ecda:commodity>.
               </p>
            </note>
            <note xml:id="n093" target="#a093">
               <p><label>Ver. 350.</label> <ref>For taste, for colour, and for various use:]</ref> It were impossible, in the
-                 short limits of a note, to enumerate the various uses of Sugar; and, indeed, as these 
+                 short limits of a note, to enumerate the various uses of <ecda:commodity ana="#food">Sugar</ecda:commodity>; and, indeed, as these 
                  are in general so well known, it is needless. A few properties of it, however, wherewith
                  the learned are not commonly acquainted, I shall mention. In some places of 
                  the <placeName>East-Indies</placeName>, an excellent arrack is made from the Sugar-cane: And, in <placeName>South-
@@ -1318,7 +1318,7 @@
                  which is known by the Sugar's sticking to the ladle, and roping like a syrup, but
                  breaking off from its edges; it is poured into a cooler, where, its surface being
                  smoothed, the christallization is soon completed. This is called <distinct type="agricultural">striking</distinct>. The general
-                 precept is to temper high, and strike low. When the Muscovado is of a proper
+                 precept is to temper high, and strike low. When the <ecda:commodity>Muscovado</ecda:commodity> is of a proper
                  consistence, it is dug out of the cooler, and put into hogsheads; this is called
                  <distinct type="agricultural">potting</distinct>. The casks being placed upon staunchions, the melasses drips from them into 
                  a cistern, made on purpose, below them, to receive it. The Sugar is sufficiently 
@@ -1329,7 +1329,7 @@
            </note>
            <note xml:id="n096" target="#a096">
               <p><label>Ver. 501.</label> <ref>Marne's flowery banks, nor Tille's]</ref> Two rivers in <persName>France</persName>, along whose
-                 banks the best Burgundy and Champagne-grapes grow.
+                 banks the best <ecda:commodity ana="#food #production">Burgundy</ecda:commodity> and <ecda:commodity ana="#food #production">Champagne-grapes</ecda:commodity> grow.
               </p>
            </note>
            <note xml:id="n097" target="#a097">
@@ -1341,7 +1341,7 @@
                  This is a fine shady tree, especially when young; and its leaves are efficaciously
                  applied in headachs to the temples, which they sweat. It grows fast; but loses much
                  of its beauty by age. Its wood is brittle, and when cut emits a milky juice, which
-                 is not caustic. The sand-box thrives best in warm shady places. the sun often
+                 is not caustic. The <ecda:flora>sand-box</ecda:flora> thrives best in warm shady places. the sun often
                  splits the pericarpium, which then cracks like a pistol. It is round, flatted both above
                  and below, and divided into a great number of regular compartments, each of which
                  contains one seed flatted ovularly. The botanical name is <distinct type="scientific">Hura</distinct>.
@@ -1382,16 +1382,16 @@
               <p><label>Ver. 613.</label> <ref>Barbuda,]</ref> This is a low, and not large stock-island, belonging to
                  the Codrington family. Part of this island, as also two plantations in <placeName>Barbadoes</placeName>,
                  were left by <persName ref="#christopher_codrington_1668">Colonel Christopher Codrington</persName>, for building a college in <placeName>Barbadoes</placeName>,
-                 and converting Negroes to the Christian religion.
+                 and converting Negroes to the <seg ana="#religion">Christian religion</seg>.
               </p>
            </note>
            <note xml:id="n104" target="#a104">
               <p><label>Ver. 614.</label> <ref>Anguilla,</ref> This island is about thirty miles long and ten broad.
                  Though not mountainous, it is rocky, and abounds with strong passes; so that a few 
                  of its inhabitants, who are indeed expert in the use of fire-arms, repulsed, with great
-                 slaughter, a considerable detachment of French, who made a descent thereon in the
-                 war preceding the last. Cotton and cattle are its chief commodities. Many of the
-                 inhabitants are rich; the captain-general of the Leeward-Islands nominates the governor
+                 slaughter, a considerable detachment of <name>French</name>, who made a descent thereon in the
+                 war preceding the last. <ecda:commodity>Cotton</ecda:commodity> and <ecda:commodity>cattle</ecda:commodity> are its chief commodities. Many of the
+                 inhabitants are rich; the captain-general of the <placeName>Leeward-Islands</placeName> nominates the governor
                  and council. They have no assembly.
               </p>
            </note>
@@ -1413,7 +1413,7 @@
                  Gum-Arabic; and its bark is an approved astringent. The juice of the cherry stains
                  exceedingly. The long citron, or amber-coloured, is the best. The cashew-nuts,
                  when unripe, are of a green colour. But, ripe, they assume that of a pale olive.
-                 This tree bears fruit but onc a year.
+                 This tree bears fruit but once a year.
               </p>
            </note>
            <note xml:id="n106" target="#a106">
@@ -1559,7 +1559,7 @@
               </p>
            </note>
            <note xml:id="n123" target="#a123">
-              <p><label>Ver. 466.</label> <ref>the shapely tree]</ref> The orange tree.</p>
+              <p><label>Ver. 466.</label> <ref>the shapely tree]</ref> The <ecda:flora ana="#food">orange tree</ecda:flora>.</p>
            </note>
            <note xml:id="n124" target="#a124">
               <p><label>Ver. 478.</label> <ref>thy mother nam'd</ref> See Book I. p. 43.</p>
@@ -1606,7 +1606,7 @@
               </p>
            </note>
            <note xml:id="n129" target="#a129">
-              <p><label>Ver. 534.</label> <ref>anata,]</ref> Or <distinct>Annotto</distinct>, or <distinct>Arnotta</distinct>; thence corruptly called <distinct type="dialect" xml:lang="en"> Indian Otter</distinct>,
+              <p><label>Ver. 534.</label> <ref>anata,]</ref> Or <distinct>Annotto</distinct>, or <distinct>Arnotta</distinct>; thence corruptly called <distinct type="dialect" xml:lang="en">Indian Otter</distinct>,
                  by the <name>Enlgish</name>. The tree is about the size of an ordinary apple tree. The <name>French</name>
                  call it <distinct type="dialect" xml:lang="fr">Rocou</distinct>; and send the farina home as a paint, &amp;c. for which purpose the tree is
                  cultivated by them in their islands. The flower is pentapetalous, fo a bluish and
@@ -1620,9 +1620,9 @@
               <p><label>Ver. 543.</label> <ref>granadilla]</ref> This is the <rs type="properAdjective">Spanish</rs> name, and is a species of the <distinct type="scientific">passiflora</distinct>,
                  or passion-flower, called by <persName>Linnæus</persName> <distinct type="scientific">Musa</distinct>. The seeds and pulp, through which
                  the seeds are dispersed, are cooling, and grateful to the palate. This, as well as
-                 the water-lemon, bell-apple, or honeysuckle, as it is named, being parasitical plants,
+                 the water-lemon, bell-apple, or <ecda:flora>honeysuckle</ecda:flora>, as it is named, being parasitical plants,
                  are easily formed tino cooling arbors, that which nothing can be more grateful in
-                 warm climates. Both fruits are wholesome. The granadilla is commonly eat with
+                 warm climates. Both fruits are wholesome. The <ecda:flora>granadilla</ecda:flora> is commonly eat with
                  sugar, on account of its tartness, and yet the pulp is viscid. <persName>Plumier</persName> calls it <distinct type="scientific" xml:lang="la">Granadilla,
                  latefolia, fructu maliformi</distinct>, It grows best in shady places. The unripe fruit makes an 
                  excellent pickle.
@@ -1850,7 +1850,7 @@
                   <l>And not displease <persName ref="#marcus_aurelius_0121">Aurelius</persName>; him to whom,</l>
                   <l>Imperial <persName ref="george_iii_uk_1738">George</persName>, the monarch of the main</l>
                   <l>Hath given wield the scepter of those isles,</l>
-                  <l>Where first the Muse beheld <seg xml:id="a001" corresp="#n001">the spiry Cane,</seg></l>
+                  <l>Where first the Muse beheld <seg xml:id="a001" corresp="#n001">the spiry <ecda:flora>Cane</ecda:flora>,</seg></l>
                   <l>Supreme of plants, rich subject of my song.</l>
                </lg>
                
@@ -1859,13 +1859,13 @@
                <lg type="indeterminate">
                   <l>Where'er the clouds relent in frequent rains,</l>
                   <l>And the Sun fiercly darts his Tropic beam,</l>
-                  <l>The Cane will joint, ungenial tho' the soil.</l>
+                  <l>The <ecda:flora>Cane</ecda:flora> will joint, ungenial tho' the soil.</l>
                   <l>But would'st thou see huge casks, in order due,</l>
                   
                   
                   
                   <l>Roll'd numerous on the Bay, all fully fraught</l>
-                  <l>With strong grain's <seg xml:id="a002" corresp="#n002">muscovado,</seg> silvery-grey,</l>
+                  <l>With strong grain's <seg xml:id="a002" corresp="#n002"><ecda:flora>muscovado</ecda:flora>,</seg> silvery-grey,</l>
                   <l>Joy of the planter; and if happy Fate</l>
                   <l>Permit a choice: avoid the rocky slope,</l>
                   <l>The clay-cold bottom, and the sandy beach.</l>
