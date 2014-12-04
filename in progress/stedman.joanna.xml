@@ -49,11 +49,11 @@
             <docTitle>
                <titlePart type="main">Narrative of Joanna; An Emancipated Slave, of
                   Surinam</titlePart>
-               <titlePart type="alt">from Stedman's Narrative of a Five Year's Expedition against
+               <titlePart type="alt">From Stedman's Narrative of a Five Year's Expedition against
                   the Revolted Negroes of Surinam</titlePart>
             </docTitle>
             <docImprint>
-               <pubPlace>Boston</pubPlace> Published by <persName ref="#isaac_knapp_1804"/>
+               <pubPlace>Boston:</pubPlace> Published by <persName ref="#isaac_knapp_1804"/>
                <address>
                   <postCode>25, Cornhill.</postCode>
                </address>
@@ -66,12 +66,14 @@
          <div type="prefatory">
             <p>[The following story is found scattered here and there through the pages of a large
                and painfully interesting work, called <title>Narrative of a Five Years' Expedition
-                  against the Revoluted Negroes of Surinam</title> by <persName
-                  ref="#john_stedman_1744"/> The author was an Englishman, who partly from a love of
+                  against the Revoluted Negroes of Surinam</title>: By <persName
+                  ref="#john_stedman_1744"> Captain John G. Stedman</persName>.'</p>
+ <p>              The author was an Englishman, who partly from a love of
                seeing new countries, and partly from ambition, entered the Dutch service, and went
                out to protect the Colony of Surinam from the incursions of what he calls <name>REBEL
                   NEGROES</name> ; being in fact an independent republic of colored citizens, daily
-               augmented in numbers by runaway slaves. He is the hero of his own story; and I leave
+               augmented in numbers by runaway slaves.</p>
+            <p>He is the hero of his own story; and I leave
                him to tell it in his own words. Should any fastidious <name>readers</name> be
                alarmed, I beg leave to assure them that the <name>Abolitionists</name> have no wish
                to induce any one to marry a mulatto, even should their lives be saved by such an one
@@ -85,7 +87,7 @@
                lady. Rather taller than the middle size, she had the most elegant shape nature can
                exhibit, and moved her well formed limbs with unusual gracefulness. Her face was full
                of native modesty, and the most distinguished sweetness. Her eyes, as black as ebony,
-               were larger, and full of expression, bespeaking the goodness of her heart. A
+               were large, and full of expression, bespeaking the goodness of her heart. A
                beautiful tinge of vermillion glowed through her dark cheeks, when she was gazed
                upon. Her nose was perfectly well formed, and rather small. Her lips, a little
                prominent, discovered, when she spoke, two regular rows of teeth as white as mountain
@@ -96,14 +98,14 @@
                negligently over her polished shoulders; and a skirt of rich chintz completed her
                apparel. In her delicate hand she carried a beaver hat, ornamented with a band of
                silver. The figure and appearance of this charming creature could not but attract my
-               particular attention ; as they did, indeed, that of all who beheld her. With much
-               surprise, I inquired of <persName ref="#Mrs_Demelly_0001">Mrs. Demelly</persName> who
+               particular attention; as they did, indeed, that of all who beheld her. With much
+               surprise, I inquired of <persName ref="#mrs_demelly_0001">Mrs. Demelly</persName> who
                this girl was, that appeared so much distinguished above others of her color in the
                colony.</p>
-            <p>'The lady replied <said>she is, sir, the daughter of a highly respectable gentleman,
-                  named <persName ref="#Kruythoff_0001">Kruythoff</persName>. He had five children
-                  by a black woman, called <persName ref="#Cery_0001">Cery</persName>, the slave of
-                  a <persName ref="#Mr_DB_0001">Mr. D.B.</persName> on his estate <placeName
+            <p>'The lady replied <said aloud="true">she is, sir, the daughter of a highly respectable gentleman,
+                  named <persName ref="#kruythoff_0001">Kruythoff</persName>. He had five children
+                  by a black woman, called <persName ref="#cery_0001">Cery</persName>, the slave of
+                  a <persName ref="#mr_db_0001">Mr. D.B.</persName> on his estate <placeName
                      ref="#Fauconberg">Fauconberg</placeName>
                </said>
             </p>
@@ -122,7 +124,7 @@
                   before us is the eldest. The gold ornaments which seem to surprise you, are the
                   gift of her faithful mother, who is a most deserving woman, and of some
                   consequence among her caste. She attended <persName ref="#kruythoff_0001">Mr.
-                     Kruythoff</persName> to the last moment, with the most exemplary affection ;
+                     Kruythoff</persName> to the last moment, with the most exemplary affection;
                   and she received the gold ornaments in token of gratitude from him, a short time
                   before he expired. Since that time, <persName ref="#mr_db_0001">Mr.
                      D.B.</persName> has driven all his best negroes to the woods, by his injustice
@@ -163,8 +165,8 @@
                <fw type="pageNum">9</fw> sation of the polite inhabitants of this colony. But my
                spirits were depressed; and in the space of <time>twenty-four hours</time> I was very
                ill indeed; when a cordial, a few perserved
-                  <ecda:commodity>tamarinds</ecda:commodity>, and a basket of fine
-                  <ecda:commodity>oranges</ecda:commodity>, were sent by an unknown person. This
+                  <ecda:food>tamarinds</ecda:food>, and a basket of fine
+                  <ecda:food>oranges</ecda:food>, were sent by an unknown person. This
                first contributed to my relief; and losing about twelve ounces of blood, I recovered
                so far, that on the fifth I was able to accompany <persName ref="#Capt_Macneyl_0001"
                   >Capt. Macneyl</persName> who gave me a pressing invitation to his beautiful
@@ -200,8 +202,8 @@
                <name>Reader</name>, if the story of <persName ref="#Lavinia_0001">Lavinia</persName>
                ever afforded you pleasure, do not reject this account of <persName
                   ref="#Joanna_0001">Joanna</persName> with contempt. It now proved to be she who
-               had privately sent me the <ecda:commodity>oranges</ecda:commodity> and
-                  <ecda:commodity>cordial</ecda:commodity>, in <date>March</date> when I was nearly
+               had privately sent me the <ecda:food>oranges</ecda:food> and
+                  <ecda:food>cordial</ecda:food>, in <date>March</date> when I was nearly
                expiring; and she modestly acknowledged that <said>it was in token of gratitude for
                   the pity I had expressed concerning her sad situation</said> Yet, with singular
                delicacy, she rejected every proposal of becoming mine upon any terms. She said,
@@ -339,9 +341,9 @@
                be relieved from our horrid situation. But what was our surprise and distress, to
                find that we were ordered to remail on this forlorn station! <name>The men</name>
                declared they were sacrificed to no manner of purpose. By the distribution of some
-                  <ecda:commodity>tamarinds</ecda:commodity>,
-                  <ecda:commodity>oranges</ecda:commodity>, <ecda:commodity>lemons</ecda:commodity>,
-               and <ecda:commodity>Madeira wine</ecda:commodity>, sent by <rs type="person">my best
+                  <ecda:food>tamarinds</ecda:food>,
+                  <ecda:food>oranges</ecda:food>, <ecda:food>lemons</ecda:food>,
+               and <ecda:food>Madeira wine</ecda:food>, sent by <rs type="person">my best
                   friend </rs>at <placeName>Paramaribo</placeName>, I was enabled to afford them a
                temporary relief; but the next day we were as much distressed as ever.</p>
             <p>On the ninth, we marched to the port called <name>Devil's Harwar</name>, leaving ten
@@ -493,8 +495,8 @@
                having put on several blisters, finally declared I was dead, and suddenly left the
                plantation.A coffin and grave were prepared for my burial on the seventeeth; but she
                knelt to implore a little delay; and her tears and entreaties prevailed. Having
-               procured some <ecda:commodity>wine-vinegar</ecda:commodity> and a bottle of
-                  <ecda:commodity>old Rhenish</ecda:commodity>, she constantly bathed my temples,
+               procured some <ecda:food>wine-vinegar</ecda:food> and a bottle of
+                  <ecda:food>old Rhenish</ecda:food>, she constantly bathed my temples,
                wrists, and feet with the former, keeping without intermission five wet handkerchiefs
                tied around them; while, with a tea-spoon, she found means, from time to time, to
                make me swallow a few drops of <ecda:food>mulled wine</ecda:food>. She had attended
@@ -671,7 +673,7 @@
                   <persName ref="#Joanna_0001">Joanna</persName> and <persName
                   ref="#johnny_stedman_0001">her boy</persName>. I was determined to save it out of
                my pay, if I lived on merely <ecda:food>bread</ecda:food>, and
-                  <ecda:commodity>salt</ecda:commodity>, and <ecda:commodity>water</ecda:commodity>;
+                  <ecda:food>salt</ecda:food>, and <ecda:food>water</ecda:food>;
                though even then, the debt could not be discharged under two or three years</p>
             <pb n="030"/>
             <fw type="pageNum">37</fw>
@@ -809,9 +811,9 @@
                   type="persGroup">slaves</rs> of <placeName>The Hope</placeName> and
                   <placeName>Fauconberg</placeName> likewise testified their respect for
                   <persName>Joanna</persName>, by bringing in
-               <ecda:commodity>fowls</ecda:commodity>, <ecda:commodity>fruit</ecda:commodity>,
-                  <ecda:commodity>eggs</ecda:commodity>, <ecda:commodity>venison</ecda:commodity>,
-               and <ecda:commodity>fish</ecda:commodity>. Everything seemed to contribute to our
+               <ecda:food>fowls</ecda:food>, <ecda:food>fruit</ecda:food>,
+                  <ecda:food>eggs</ecda:food>, <ecda:food>venison</ecda:food>,
+               and <ecda:food>fish</ecda:food>. Everything seemed to contribute to our
                felicity.</p>
             <p>"<placeName>The Hope</placeName> was now a truly charming habitation; being perfectly
                dry, even in spring-tides, and washed by pleasant canals, that let in the fresh water
@@ -1336,7 +1338,7 @@
                         <lg>
                            <l>For all the <ecda:commodity>gems</ecda:commodity> of Afric's
                               coast,</l>
-                           <l>And <ecda:commodity>fruits</ecda:commodity> her palmy forests
+                           <l>And <ecda:food>fruits</ecda:food> her palmy forests
                               boast,</l>
                            <l>I would not harm that boy of thine,</l>
                            <l>Nor bid him groan and toil for mine.</l>
