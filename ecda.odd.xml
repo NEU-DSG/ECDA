@@ -24,6 +24,7 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
+      <change who="SS" when="2014-12-10">Added <gi>embLore</gi></change>
       <change who="SS" when="2014-09-24">changed some things on <gi>embSN</gi>: added figure description, changed number 
         of elements that it can legally contain. Also changed the number of elements commodity, flora and fauna can contain.
       </change>
@@ -688,6 +689,51 @@
             <rng:zeroOrMore>
               <rng:ref name="macro.paraContent"/>
             </rng:zeroOrMore>
+          </content>
+        </elementSpec>
+        
+        
+        <elementSpec ident="embLore" mode="add" ns="http://dsg.northeastern.edu/ecda/ns/1.0">
+          <gloss>Embedded Afro-Caribbean Lore</gloss>
+          <desc>Encodes Afro-Caribbean Lore (e.g. tales, songs, riddles) embedded in the text</desc>
+          <classes>
+            <memberOf key="att.global"/>
+            <memberOf key="att.typed"/>
+            <memberOf key="model.global"/>
+            <memberOf key="model.divLike"/>
+            <memberOf key="model.qLike"/>
+          </classes>
+          <content>
+            <rng:interleave>
+              <rng:text/>
+              <rng:zeroOrMore>
+                <rng:ref name="fw"/>
+              </rng:zeroOrMore>
+              <rng:zeroOrMore>
+                <rng:ref name="head"/>
+              </rng:zeroOrMore>
+              <rng:zeroOrMore>
+                <rng:ref name="pb"/>
+              </rng:zeroOrMore>
+              <rng:zeroOrMore>
+                <rng:ref name="model.emphLike"/>
+              </rng:zeroOrMore>
+              <rng:zeroOrMore>
+                <rng:ref name="model.qLike"/>
+              </rng:zeroOrMore>
+              <rng:zeroOrMore>
+                <rng:ref name="model.nameLike"/>
+              </rng:zeroOrMore>
+              <rng:zeroOrMore>
+                <rng:ref name="model.divPart"/>
+              </rng:zeroOrMore>
+              <rng:zeroOrMore>
+                <rng:ref name="trailer"/>
+              </rng:zeroOrMore>
+              <rng:zeroOrMore>
+                <rng:ref name="figure"/>
+              </rng:zeroOrMore>
+            </rng:interleave>
           </content>
         </elementSpec>
         
