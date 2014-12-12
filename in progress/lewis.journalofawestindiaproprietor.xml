@@ -927,7 +927,7 @@
    <p>At three o'clock this afternoon we entered the 
    <placeName>tropic of Cancer</placeName>; and if our wind continues tolerably
    favourable, we may expect to see <placeName>Antigua</placeName>
-   on Sunday se'nnight. On crossing the line, it was 
+   on Sunday se'nnight. <ecda:embLore>On crossing the line, it was 
    formerly usual for ships to receive a visit from
    an <persName ref="#cancer_0001">old gentleman</persName> and his <persName ref="#cancer_0002">wife</persName>, <persName ref="#cancer_0001 camcer_0002">Mr. and Mrs. 
    Cancer</persName>:  the <persName ref="#cancer_0001">husband</persName> was, by profession, a barber; 
@@ -950,7 +950,7 @@
   the hands of her husband; however, to-day this
   venerable pair <quote rend="quotes" source="bible" type="allusion">peradventure were sleeping, or 
   on a journey</quote> for we neither saw nor heard any thing 
-  about them.</p>   
+  about them.</ecda:embLore></p>   
    </div> 
             
   <div type="entry">
@@ -2215,7 +2215,7 @@
         Duke's</rs> health. It was not easy to make out what
         she said, but as well as I could understand them,
         the words ran as follows:—
-        <quote rend="quotes"><lg type="song">
+       <ecda:embLore> <quote rend="quotes"><lg type="song">
            <l>Come, rise up, our gentry,</l>
            <l>And hear about <rs type="person" ref="#arthur_wellesley_1769"><placeName>Waterloo</placeName></rs>;</l>
            <l>Ladies, take your spy-glass,</l>
@@ -2232,7 +2232,7 @@
  <fw type="pageNum">58</fw> 
       and going on board of a dashing man of war; but
       what they all had to do with <rs type="person" ref="#arthur_wellesley_1769">the Duke</rs>, or with
-      each other, I could not make even a guess. I was
+      each other, I could not make even a guess.</ecda:embLore> I was
       going to ask for an explanation, but suddenly half
       of them gave a shout loud enough <quote rend="quotes" source="milton_paradise">to fright the
       realms of Chaos and old Night</quote>, and away they 
@@ -7977,7 +7977,7 @@
     found upon the <ecda:anonPers>King</ecda:anonPers>, which the <ecda:anonPers>overseer</ecda:anonPers> had heard
     him sing at the funeral feast, while the other <rs type="persGroup">negroes</rs>
     joined in the chorus:—
-<floatingText>    
+<ecda:embLore><floatingText>    
    <body><quote>
      <lg type="song">
      <lg type="song" subtype="verse"><head>Song of <ecda:anonPers>the King of the <name>Eboes</name></ecda:anonPers></head>  
@@ -7995,7 +7995,7 @@
     </lg>
    </quote>
    </body>
-    </floatingText>
+    </floatingText></ecda:embLore>
  </p> 
  <p>The <ecda:anonPers><name>Eboe</name> King</ecda:anonPers> said, that he certainly had made
     use of this song, and what harm was there in his
@@ -8155,7 +8155,7 @@
   </p> 
     <pb n="241"/>
     <fw type="pageNum">233</fw>  
-  <floatingText type="song">
+ <ecda:embLore><floatingText type="song">
      <body>
         <div type="poem">
            <lg type="song">
@@ -8174,7 +8174,7 @@
            </lg>
         </lg></div>
      </body>
-  </floatingText>  
+  </floatingText> </ecda:embLore> 
   <p>An <ecda:fauna>Alligator</ecda:fauna>, crossing the morass at <placeName>Bellisle</placeName>, an
      estate but a few miles distant from <placeName>Cornwall</placeName>, fell
      into a water-trench, from which he struggled in
@@ -8902,20 +8902,20 @@
    </div> 
    <div type="entry">
       <opener><dateline><date when="1816-05-07">May 7</date>.</dateline></opener>    
-         <p><label>A Negro song</label>.—<quote rend="quotes" ana="#obeah"><distinct type="dialect">Me take my cutacoo, (i.e. a
+         <p><ecda:embLore><head>A Negro song</head>.—<quote rend="quotes" ana="#obeah"><distinct type="dialect">Me take my cutacoo, (i.e. a
          basket made of matting,) and follow him to <placeName>Lucea</placeName>,
          all for love of my bonny man-O—My bonny 
          man come home, come home! Doctor no do you 
          good. When neger fall into neger hands, buckra
          doctor no do him good more. Come home, my
-         gold ring, come home!</distinct></quote> <seg ana="#obeah">This is the song of a
+         gold ring, come home!</distinct></quote></ecda:embLore> <ecda:embLore ana="#obeah">This is the song of a
          wife, whose husband has been Obeahed by another
-         woman, in consequence of his rejecting her advances.</seg>
-         <label>A negro riddle</label>: <quote rend="quotes"><persName ref="#miss_nancy_0001">Pretty Miss Nancy</persName>
+         woman, in consequence of his rejecting her advances.</ecda:embLore>
+         <ecda:embLore><head>A negro riddle</head>: <quote rend="quotes"><persName ref="#miss_nancy_0001">Pretty Miss Nancy</persName>
          was going to market, and she tore her fine yellow
          gown, and there was not a tailor in all the town
          who could mend it again.</quote> This is a ripe <ecda:food ana="#flora">plantain</ecda:food>
-         with a broken skin. The <rs type="persGroup">negroes</rs> are also
+         with a broken skin.</ecda:embLore> <ecda:embLore>The <rs type="persGroup">negroes</rs> are also
          very fond of what they call <title ref="#anansi_stories">Nancy stories</title>, part of 
          which is related and part sung. The heroine of
          one of them is an old woman named <persName ref="#mama_luna_0001">Mamma
@@ -8975,8 +8975,8 @@
             betrayed into telling a lie, not to persist in it,
             otherwise they must expect to perish like their
             companion. Observe, that a moral is always an
-            indispensible part of a <title ref="#anansi_story">Nancy story</title>. Another is
-            as follows: <quote rend="quotes"><rs type="persGroup">Two sisters</rs> had always lived together
+            indispensible part of a <title ref="#anansi_story">Nancy story</title>.</ecda:embLore> Another is
+            as follows: <ecda:embLore><quote rend="quotes"><rs type="persGroup">Two sisters</rs> had always lived together
             on the best terms; but, on the death of <ecda:anonPers>one
             of them</ecda:anonPers>, the <ecda:anonPers>other</ecda:anonPers> treated very harshly a little
             <ecda:anonPers>niece</ecda:anonPers>, who had been left to her care, and made her
@@ -9113,7 +9113,7 @@
                <ecda:anonPers>old woman</ecda:anonPers> then jumped upon the <ecda:fauna>yellow snake</ecda:fauna>,
                galloped away with incredible speed, and never
                showed her <ecda:commodity ana="#textile #use">red docker</ecda:commodity> in that part of the island
-               any more.</quote>
+               any more.</quote></ecda:embLore>
      </p>
    </div> 
     <div type="entry">
@@ -10477,7 +10477,7 @@
          is the part assigned to him in the following <label rend="quotes">Nancy-
          story</label>:—
       </p>
-         <quote rend="quotes"><p><persName ref="#sarah_winyan_0001">Sarah Winyan</persName> was scarcely ten years old, when
+         <ecda:embLore xml:id="l0003" next="l0004"><quote rend="quotes"><p><persName ref="#sarah_winyan_0001">Sarah Winyan</persName> was scarcely ten years old, when
             her <ecda:anonPers>mother</ecda:anonPers> died, and bequeathed to her a considerable
             property. Her <ecda:anonPers>father</ecda:anonPers> was already dead; and
             the guardianship of the child devolved upon his
@@ -10606,8 +10606,8 @@
             body into four parts, laid each one in a quarter of
             the wood.         
             </p>
-         </quote>
-      <p>From that time only were <ecda:fauna>dogs</ecda:fauna> brought into
+         </quote></ecda:embLore>
+      <p><ecda:embLore xml:id="l0004" prev="l0003">From that time only were <ecda:fauna>dogs</ecda:fauna> brought into
          subjection to men; and the <rs type="persGroup">inhabitants of <placeName>Jamaica</placeName></rs>
          would never have been able to subdue 
          those ferocious <ecda:fauna>animals</ecda:fauna>, if <ecda:fauna><name>Tiger</name></ecda:fauna> had not been
@@ -10617,7 +10617,7 @@
          exactly. Probably, the <rs type="persGroup">brothers</rs> killed and quartered
          <emph rend="italic">her</emph> as well as her four-footed ally: or, perhaps,
          she was turned into a <ecda:fauna>wild beast</ecda:fauna>, and supplied
-         the vacancy left by <ecda:fauna><name>Tiger</name></ecda:fauna>, as was the case with the
+         the vacancy left by <ecda:fauna><name>Tiger</name></ecda:fauna></ecda:embLore>, as was the case with the
          celebrated <persName ref="#anna_nzinga_1583">Zingha</persName>, queen of <placeName>Angola</placeName>; who, although
          she embraced <name>Christianity</name> on her death-bed, and
          died according to the most orthodox forms of the
@@ -11019,13 +11019,13 @@
         <p>It seems to be an indispensible requisite for a
            <title ref="#anansi_story">Nancy-story</title>, that it should contain a witch, or a
            <distinct type="dialect">duppy</distinct>, or, in short, some marvellous personage or
-           other. It is a kind of <distinct rend="quotes"><foreign rend="italic">pièce à machines</foreign></distinct>. But the
+           other. It is a kind of <distinct rend="quotes"><foreign rend="italic">pièce à machines</foreign></distinct>. <ecda:embLore xml:id="l0001" next="l0002">But the
            creole slaves are very fond of another species of
            tale, which they call <title rend="quotes">Neger-tricks</title>, and which
            bear the same relation to a <title ref="#anansi_story">Nancy-story</title> which a farce
-           does to a tragedy. The following is a specimen:―
+           does to a tragedy. The following is a specimen:―</ecda:embLore>
         </p>
-       <p><label rend="italic">A Neger-trick</label>—<quote rend="quotes">A <ecda:anonPers>man</ecda:anonPers> who had <rs type="persGroup">two wives</rs>
+      <ecda:embLore xml:id="l0001" prev="l0002"><p><label rend="italic">A Neger-trick</label>—<quote rend="quotes">A <ecda:anonPers>man</ecda:anonPers> who had <rs type="persGroup">two wives</rs>
           divide his provision-grounds into two parts, and
           proposed that each of the <rs type="persGroup">women</rs> should cultivate
           one half. They were ready to do their proper share,
@@ -11065,7 +11065,7 @@
           <emph rend="italic">then</emph>, and obliged him from that time forwards to
           do the whole work himself.          
        </quote>
-       </p> 
+       </p> </ecda:embLore>
       <p>A negro was brought to <placeName>England</placeName>; and the first
          point shown to him being the chalky cliffs of <placeName>Dover</placeName>,
          <said rend="quotes"><distinct type="dialect">O ki</distinct>!</said> he said; <said rend="quotes"><distinct type="dialect">me know now what makes the
@@ -11529,7 +11529,7 @@
         <opener><dateline><date when="1818-01-29">January 29</date>.</dateline></opener>   
       <p>There is a popular negro song, the burden of
          which is,—
-         <quote>
+         <ecda:embLore><quote>
           <lg>
              <l><said rend="prequotes" xml:id="s154" next="s155">Take him to the <placeName>Gulley</placeName>! Take him to the <placeName>Gulley</placeName>!<distinct type="dialect"></distinct></said>—</l>
              <l><said rend="postquotes" xml:id="s155" prev="s154">But bringee back the <ecda:commodity ana="#textile">frock</ecda:commodity> and board.<distinct type="dialect"></distinct></said>—</l>
@@ -11537,7 +11537,7 @@
              <l><said rend="quotes"><distinct type="dialect">Take him to the <placeName>Gulley</placeName>! Take him to the <placeName>Gulley</placeName>!</distinct></said></l>
              <l><said rend="quotes"><distinct type="dialect">Carry him along!</distinct></said></l>  
           </lg> 
-         </quote>
+         </quote></ecda:embLore>
       </p>
    <p>This alludes to a transaction which took place
       some thirty years ago, on an estate in this neighbourhood,
@@ -11951,7 +11951,7 @@
           <opener><dateline><date when="1818-02-06">February 6</date>.</dateline></opener> 
           <p><persName ref="#lutford_0001">Mr. Lutford</persName>, the proprietor of a considerable estate
              in the parish of <placeName>Clarendon</placeName>, had frequently accused
-             a <ecda:anonPers>particular negro</ecda:anonPers> of purloining <ecda:commodity ana="#food #flora #exchange">coffee</ecda:commodity>. About six
+             a <ecda:anonPers>particular negro</ecda:anonPers> of purloining <ecda:commodity ana="#food #flora #circulation">coffee</ecda:commodity>. About six
              months ago, the <ecda:anonPers>slave</ecda:anonPers> was sent for, and charged
              with a fresh offence of the same nature, when he
              confessed the having taken a small quantity; upon
@@ -12002,8 +12002,8 @@
           poured upon me of gardens robbed by <persName ref="#catalina_0001">Catalina</persName>, 
           who had carried off as much as she could, dug up
           and destroyed the rest, and had shown as little
-          conscience in providing herself with <ecda:fauna ana="#commodity #food #exchange">poultry</ecda:fauna> as in
-          helping herself to <ecda:flora ana="#food #commodity #exchange">vegetables</ecda:flora>. I immediately despatched
+          conscience in providing herself with <ecda:fauna ana="#commodity #food #circulation">poultry</ecda:fauna> as in
+          helping herself to <ecda:flora ana="#food #commodity #circulation">vegetables</ecda:flora>. I immediately despatched
           <ecda:anonPers>one of the negro-governors</ecda:anonPers> with a <rs type="persGroup">party</rs> 
           in pursuit of her, who succeeded in lodging her
           once more in the <rs type="place" ana="#medical">hospital</rs>; where she must remain
@@ -12220,9 +12220,9 @@
              <ecda:anonPers>trustee</ecda:anonPers>, the <rs type="persGroup">doctoresses</rs>, the <rs type="persGroup">governors</rs>, &amp;c., and
              received by the whole congregation of <rs type="persGroup">negroes</rs>
              with loud cheering; after which, every man received
-             a <ecda:commodity ana="#textile #exchange">blue jacket lined with flannel</ecda:commodity>, every
-             woman a <ecda:commodity ana="#exchange #textile">flaming red stuff petticoat</ecda:commodity>, and every
-             child a <ecda:commodity ana="#exchange #textile">frock of white cotton</ecda:commodity>. They then fell to
+             a <ecda:commodity ana="#textile #circulation">blue jacket lined with flannel</ecda:commodity>, every
+             woman a <ecda:commodity ana="#circulation #textile">flaming red stuff petticoat</ecda:commodity>, and every
+             child a <ecda:commodity ana="#circulation #textile">frock of white cotton</ecda:commodity>. They then fell to
              dancing and singing, and drinking <ecda:food ana="#commodity #flora">rum and sugar</ecda:food>,
              which they kept up till a much later hour than
              would be at all approved of by the bench of
@@ -12376,8 +12376,8 @@
           with various <ecda:commodity ana="#sale">worthless baubles</ecda:commodity>; others keep miserable
           stalls provided with <ecda:food ana="#commodity #sale">rancid butter</ecda:food>, <ecda:food ana="#fauna #sale @commodity">damaged
           salt-pork</ecda:food>, and other such <ecda:commodity ana="#sale">articles</ecda:commodity>; and these they
-          are always willing to exchange for stolen <ecda:commodity ana="#food #exchange">rum</ecda:commodity>
-          and <ecda:commodity ana="#food #exchange">sugar</ecda:commodity>, which they secretly tempt the <rs type="persGroup">negroes</rs> 
+          are always willing to exchange for stolen <ecda:commodity ana="#food #circulation">rum</ecda:commodity>
+          and <ecda:commodity ana="#food #circulation">sugar</ecda:commodity>, which they secretly tempt the <rs type="persGroup">negroes</rs> 
           to pilfer from their <rs type="persGroup">proprietors</rs>; but few of them
           
           
@@ -12601,18 +12601,223 @@
              summoned, and to-day a sentence of transportation 
              from the <rs type="place">island</rs> was pronounced, after a trial of 
              three hours.</seg> As to the man's guilt, of that the
-             <rs type="persGroup">jury</rs> 
+             <rs type="persGroup">jury</rs> entertained no doubt after the first half hour's
+             evidence; and the only difficulty was to restrain
+             the verdict to transportation. We produced nothing
+             which could possibly affect the man's life;
+             for although perhaps no offender ever better deserved
+             hanging; yet I confess my being weak-
+             minded enough to entertain doubts whether hanging
+             or other capital punishment ought to be
+             inflicted for any offence whatever: I am at least
+             certain, that if offenders waited till they were
+             hanged by me, they would remain unhanged till
+             they were so many old <name>Parrs</name>. However,
+             although Idid my best to prevent <persName ref="#adam_0002">Adam</persName> from
+             being hanged, it was no easy matter to prevent his
+             hanging himself. The <name>Obeah</name> ceremonies always
+             commence with what is called, by the <rs type="persGroup">negroes</rs>
+             <distinct type="ethnographic" rend="quotes">the <rs type="properAdjective">Myal</rs> dance</distinct>. This is intended to remove
+             any doubt of the chief <rs type="properAdjective">Obeah</rs>-man's supernatural
              
+             
+             powers; and in the course of it, he undertakes to
+             show his art by killing one of the persons present,
+             whom he pitches upon for that purpose. He
+             sprinkles various powers over the devoted victim,
+             blows upon him, and dances round him, obliges
+             him to drink a liquor prepared for the occasion,
+             and finally the sorcerer and his assistance seize him
+             and whirl him rapidly round and round till the man
+             loses his sense, and falls on the ground to all
+             appearance and the belief of the spectators a
+             perfect corpse. The chief <rs type="properAdjective">Myal</rs>-man then utters
+             loud shrieks, rushes out of the house with wild
+             and frantic gestures, and conceals himself in some
+             neighbouring wood. At the end of two or three
+             hours he returns with a large bundle of <ecda:flora>herbs</ecda:flora>, 
+             from some of which he squeezes the juice into the
+             mouth of the dead person; with others he anoints
+             his eyes and stains the tips of his fingers, accompanying
+             the ceremony with a great variety of 
+             grotesque actions, and chanting all the while some<unclear reason="flawed-reproduction">-</unclear>
+             thing between a song and a howl, while the assistants
+             hand in hand dance slowly round them in
+             a circle, stamping the ground loudly with their feet
+             to keep time with his chant. A considerable time
+             elapses before the desired effect is produced, but
+             at length the corpse gradually recovers animation,
+             rises from the ground perfectly recovered, and the
+             <rs type="properAdjective">Myal</rs> dance concludes. <seg ana="#poison">After this proof of his
+             power, those who wish to be revenged upon their
+             enemies apply to the sorcerer for some of the same
+             
+             
+             
+             powder, which produced apparent death upon their
+             companion, and as they never employ the means
+             used for his recovery, of course the powder once
+             adminstered never fails to be lastingly fatal. It
+             must be superfluous to mention that the <rs type="properAdjective">Myal</rs>-man
+             on this second occasion substitutes a poison for a
+             narcotic.</seg> Now, among other suspicious articles
+             found in <persName ref="#adam_0002">Adam's</persName> hut, there was a string of beads
+             of various sizes, shapes, and colours, arranged in a
+             form peculiar to the performance of the <rs type="properAdjective">Obeah</rs>-
+             man in the <rs type="properAdjective">Myal</rs> dance. Their use was so well
+             known, that <persName ref="#adam_0002">Adam</persName> did not even attempt
+             to deny that they could serve for no purpose but
+             the practice of <name>Obeah</name>; but he endeavoured to
+             refute their being his own property, and with this
+             view he began to narrate the means by which he
+             had become possessed of them. He said that they
+             belonged to <persName ref="#fox_0001">Fox</persName> (a negro who was lately transported),
+             from whom he had taken them at a <rs type="properAdjective">Myal</rs> 
+             dance heald on the estate of <placeName>Dean's Valley</placeName>; but as
+             the assistants at one of these dances are by law
+             condemned to death equally with the principal
+             performer, the court had the humanity to <choice><sic>interrpnt</sic><corr>interrupt</corr></choice>
+             his confession of having been present on such an
+             occasion, and thus saved him from criminating
+             himself so deeply as to render a capital punishment
+             inevitable. I understand that he was quite unabashed
+             and at his ease the whole time; upon
+             hearing his sentence, he only said very coolly,
+             <said rend="quotes"><distinct type="dialect">Well! I ca'n't help it!</distinct></said> turned himself round,
+             
+             
+             and walked out of court. That nothing might be
+             wanting, this fellow even had a decided talent for
+             hypocrisy. When on my arrival he gave me a
+             letter filled with the grossest lies respecting the
+             <ecda:anonPers>trustee</ecda:anonPers>, and <rs type="persGroup">every creditable negro</rs> on the <rs type="place">estate</rs>,
+             he took care to sign it by the name which he had
+             lately received in baptism; and in his defence at
+             the bar to prove his probity of character and
+             purity of manners, he informed the court that for
+             some time past he had been learning to read, for
+             the sole purpose of learning the <title>Lord's Prayer</title>.
+             The nick-name by which he was generally known
+             among the <rs type="persGroup">negroes</rs> in this part of the country, was
+             <persName>Buonaparte</persName>, and he always appeared to exult in
+             the appellation. Once condemned, the marshal
+             is bound under a heavy penalty to see him shipped
+             from off the island before the expiration of six
+             weeks, and probably he will be sent to <placeName>Cuba</placeName>. He
+             is a fine-looking man between thirty and forty,
+             square built, and of great bodily strength, and his
+             countenance equally expresses intelligence and
+             malignity. The sum allowed me for him is <measure ana="#currency">one
+             hundred pounds currency</measure>, which is scarcely a
+             third of his worth as a labourer, but which is the
+             highest value which a jury is permitted to mention.
+    
+          </p>
+       
+       </div>
+       <div>
+          <opener><dateline><date when="1818-03-01">March</date>.<hi rend="mixed">(Sunday.)</hi></dateline></opener>  
+       <p>Last night the negroes of <placeName>Friendship</placeName> took it into
+          their ingenious heads to pay me a compliment of
+          an extremely inconvenient nature. They thought,
+          
+          
+          
+          that it would be highly proper to treat me with a
+          nightly serenade just by way of showing their
+          <emph rend="italic">enjoyment</emph> on my return; and accordingly a large
+          body of them arrived at my doors about midnight,
+          dressed out in their best clothes, and accompanied
+          with drums, rattles, and their whole orchestra of
+          abominable instruments, determined to pass the
+          whole night in singing and dancing under my
+          windows. Luckily, my <rs type="persGroup">negro-governors</rs> heard what
+          was going forwards, and knowing my taste a little
+          better than my visiters, they hastened to assure
+          them of my being in bed and asleep, and with
+          much difficulty persuaded them to remove into my
+          <rs type="place">village</rs>. Here they contented themselves with
+          making a noise for the greatest part of the night;
+          and the next morning, after coming up to see me
+          at breakfast, they went away quietly. One of them
+          only remained to enquire particularly after <persName ref="lady_h_0001">Lady
+          H―</persName>, as her mother had been her nurse, and
+          she was very particular in her enquiries as to her
+          health, her children, their ages and names. When
+          she went away, I gave her plentiful provision of
+          <ecda:commodity ana="#circulation #food">bread</ecda:commodity>, <ecda:commodity ana="#circulation #food">butter</ecda:commodity>, <ecda:commodity ana="#circulation #food #flora">plantains</ecda:commodity>, and <ecda:commodity ana="#circulation #food #fauna">cold ham</ecda:commodity> from the
+          breakfast table; part of which she sat down to eat,
+          intending, as she said, to carry the rest to her
+          <ecda:anonPers><distinct type="dialect">piccaninny</distinct></ecda:anonPers> at home. But in half an hour after she
+          made her appearance again, saying she was come
+          to take leave of me, and hoped I would give her
+          a <emph rend="italic">bit</emph> to buy <ecda:commodity ana="#sale">tobacco</ecda:commodity>. I gave her a <ecda:commodity ana="#currency">maccaroni</ecda:commodity>,
+          which occasioned a great squall of delight. Oh!
+          
+          
+          
+          since I had given her so much, she would not buy
+          <ecda:commodity ana="#sale">tobacco</ecda:commodity> but a <ecda:commodity ana="#fauna">fowl</ecda:commodity>; and then, when I returned
+          she would bring me a <ecda:food ana="#fauna">chicken</ecda:food> from it for my 
+          <ecda:food>dinner</ecda:food>; that is, if she could keep the other <rs type="persGroup">negroes</rs>
+          from stealing it from her, a piece of extraordinary
+          good luck of which she seemed to entertain but
+          slender hopes. At length off she set; but she had
+          scarcely gone above <measure>ten yards</measure> from the house,
+          when she turned back, and soon at my writing-
+          table once more, with a <said rend="quotes"><distinct type="dialect">Well! here me come to
+          massa again</distinct>!</said> So then she said, that she had
+          meant to eat a part of the <ecda:commodity ana="#food #circulation">provisions</ecda:commodity> which I had
+          given her, and carry home the rest to her boy;
+          but that really it was so good, that she could not help
+          going on eating and eating, till she had eaten
+          the whole, and now she wanted another bit of <ecda:commodity ana="#circulation #food #fauna">cold
+          ham</ecda:commodity> to carry home to her child, and then she should
+          go away perfectly contented. I ordered <persName ref="#cubina">Cubina</persName>
+          to give her a great hunch of it, and <persName ref="#phillis_0002">Mrs. Phillis</persName> at 
+          length took her departure for good and all.          
+       </p>  
+       </div>
+       <div type="entry">
+          <opener><dateline><date when="1818-03-04">March</date>.<hi rend="mixed">(Wednesday.)</hi></dateline></opener> 
+          <p>I set out to visit my estate in <placeName>St. Thomas's in
+          the East</placeName>, called <placeName>Hordley</placeName>. It is at the very furthest
+             extremity of the island, and never was there a 
+             journey like unto my journey. Something disagreeable
+             happened at every step; my accidents
+             commenced before I had accomplished <measure>ten miles</measure>
+             from my own house; for in passing along a narrow
+             shelf of rock, which hoverhangs the sea near <placeName>Blue-
+             
+             
+             
+             fields</placeName>, a pair of young <ecda:fauna>blood-horses</ecda:fauna> in my carriage
+             took fright at the roaring of the waves which dashed
+             violently against them, and twice nearly overturned
+             me. On the second occasion one of them actually
+             fell down into the water, while the off-wheel of the
+             curricle flew up into the air, and thus it remained
+             suspended, balancing backwards and forwards, like
+             <persName>Mahomet's</persName> coffin. Luckily, time was allowed the
+             <ecda:fauna>horse</ecda:fauna> to recover his legs, down came the wheel
+             once more on terra firma, and on we went again.
+             We slept at <placeName>Cashew</placeName> (an estate near <placeName>Lacovia</placeName>), and
+             the next morning at daylight proceeded to climb
+             the <placeName>Bogr</placeName>, a mountain so difficult, that every one
+             had pronounced the attempt to be hopeless with
+             <ecda:fauna>horses</ecda:fauna> so young as mine; but those <ecda:fauna>horses</ecda:fauna> were
+             my only ones, and therefore I was obliged to make
+             the trial. The road is bordered by tremendous
+             precipices for about <measure>twelve miles</measure>; the path is so
+             narrow, that a servant must always be sent on before
+             to make any carts which may be descending
+             stop in 
              
              
              
           </p>
           
-          
-          
        </div>
-       
-       
        
        
        
