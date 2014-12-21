@@ -24,6 +24,8 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
+      <change who="EH" when="2014-12-21">Edited <gi>embLore</gi> gloss to
+        account for lore that is not categorized as Afro-Caribbean</change>
       <change who="SS" when="2014-12-10">Added <gi>embLore</gi></change>
       <change who="SS" when="2014-09-24">changed some things on <gi>embSN</gi>: added figure description, changed number 
         of elements that it can legally contain. Also changed the number of elements commodity, flora and fauna can contain.
@@ -694,8 +696,8 @@
         
         
         <elementSpec ident="embLore" mode="add" ns="http://dsg.northeastern.edu/ecda/ns/1.0">
-          <gloss>Embedded Afro-Caribbean Lore</gloss>
-          <desc>Encodes Afro-Caribbean Lore (e.g. tales, songs, riddles) embedded in the text</desc>
+          <gloss>Embedded Lore</gloss>
+          <desc>Encodes lore (e.g. tales, songs, riddles) embedded in the text</desc>
           <classes>
             <memberOf key="att.global"/>
             <memberOf key="att.typed"/>
@@ -736,6 +738,8 @@
             </rng:interleave>
           </content>
         </elementSpec>
+        
+        
         
         
         <!-- ******************************** -->
