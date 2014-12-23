@@ -17,11 +17,11 @@
         <tagsDecl>
            <rendition xml:id="r.ital">italic</rendition>
            <rendition xml:id="r.prequotes">prequotes</rendition>
+           <rendition xml:id="r.smallcaps">smallcaps</rendition>
            <namespace name="dsg.">
               <tagUsage gi="distinct" render="#r.ital"/>
               <tagUsage gi="hi" render="#r.ital"/>
               <tagUsage gi="said" render="#r.prequotes"/>
-              <tagUsage gi="quote" render="#r.quotes"/>
               <tagUsage gi="label" render="#r.smallcaps"/>
            </namespace>
         </tagsDecl>
@@ -63,21 +63,21 @@
            <note xml:id="n001" target="#a001">
               <p>
                  <label rend="case(smallcaps)">Ver.22</label> <ref rend="slant(italic)">the spiry <ecda:flora ana="#harvest">Cane</ecda:flora>,</ref>] The botanical
-                 name of the <ecda:flora>Cane</ecda:flora> is <distinct type="dialect" xml:lang="la" rend="slant(italic)">Saccharum</distinct>. The
+                 name of the <ecda:flora>Cane</ecda:flora> is <distinct type="scientific" xml:lang="la">Saccharum</distinct>. The
                  <name>Greeks</name> and <name>Romans</name> seem to have known very little of this most useful and beautiful
                  plant. <persName ref="#lucan_0039">Lucan</persName> and <persName ref="#pliny_0023">Pliny</persName> are the only authors among the former who mention it; and
                  so far as I can find, <persName ref="#arrian_0086">Arrian</persName> is the only <name>Greek</name>. The first of these Writers, in enumerating
                  <persName ref="#pompey_0106">Pompey's</persName> Eastern auxilaries, describes a nation who made use of the <ecda:food ana="#flora #use">Cane-
                  juice</ecda:food> as a drink:
-                 <quote xml:lang="la" rend="slant(italic)type(block)">Dulces bibebant ex arundine succos</quote>
-                 The industrious Naturalist says, <distinct xml:lang="la">Saccharum et Arabia fort, sed laudatius India</distinct>; and
-                 the <rs type="properAdjective">Greek</rs> Historian, in his <distinct xml:lang="el">περεπλους</distinct> of the <placeName>Red-sea</placeName>, tells us of the neighbouring nation
-                 who drank it also; his words are <distinct xml:lang="el">μελι το xαλαμινον το λεγομενον σαxχαρι</distinct>.
+                 <quote xml:lang="la" rend="block"><hi rend="italic">Dulces bibebant ex arundine succos</hi></quote>
+                 The industrious Naturalist says, <quote xml:lang="la" rend="italic">Saccharum et Arabia fort, sed laudatius India</quote>; and
+                 the <rs type="properAdjective">Greek</rs> Historian, in his <distinct xml:lang="el" rend="upright">περεπλους</distinct> of the <placeName>Red-sea</placeName>, tells us of the neighbouring nation
+                 who drank it also; his words are <distinct xml:lang="el" rend="upright">μελι το xαλαμινον το λεγομενον σαxχαρι</distinct>.
                  The <ecda:flora ana="#cultivation">Cane</ecda:flora>, however, as it was a native of the East, so has it been probably 
                  cultivated there time immemorial. The raw juice was doubtless first made use of;
                  they afterwards boiled it into a syrup; and, in process of time, and inebriating
                  spirit was prepared therefrom by fermentation. This conjecture is confirmed by the 
-                 etymology, for the Arabic word <distinct type="dialect">סבד</distinct> is evidently derived from the Hebrew <distinct type="dialect">שבד</distinct>
+                 etymology, for the Arabic word <distinct type="dialect" rendition="upright">סבד</distinct> is evidently derived from the Hebrew <distinct type="dialect" rend="upright">שבד</distinct>
                  which signifies an <soCalled>intoxicating liquor</soCalled>. When <name>Indians</name> began to make the <ecda:food ana="#refinement">Cane-
                  juice</ecda:food> into <ecda:food ana="#use">sugar</ecda:food>, I cannot discover; probably, it soon found its way into <placeName>Europe</placeName>
                  in that <unclear>form</unclear>, first by the <placeName>Red-sea</placeName>, and afterwards through <placeName>Persia</placeName>, by the <placeName>Black-sea</placeName> and
@@ -104,7 +104,7 @@
                  more lively and enterprizing than the <name>Spaniards</name>. However they had not long the start
                  of the latter; for in <date>1506</date> <persName ref="#ferdinand_ii_aragon_1479">Ferdinand the Catholic</persName> ordered the <ecda:flora ana="#commodity #transport #food">Cane</ecda:flora> to be carried from
                  the <placeName>Canaries</placeName> to <placeName>St. Domingo</placeName>, in which island one <persName>Pedro de Atenca</persName> soon after built an
-                 <distinct type="dialect">Ingenio de açucar</distinct> for so the <name>Spaniards</name> call a Sugar-work. But, though they began thus
+                 <distinct type="dialect" xml:lang="es">Ingenio de açucar</distinct> for so the <name>Spaniards</name> call a Sugar-work. But, though they began thus
                  early to turn their thoughts to sugar, the <name>Portuguese</name> far outstripped them in that trade;
                  for <placeName>Lisbon</placeName> soon supplied most of <placeName>Europe</placeName> with a commodity; and notwithstanding
                  the <name>English</name> then paid the <name>Portuguese</name> at the rate of <measure commodity="sugar">4l per C. wt.</measure> for <ecda:commodity ana="#flora #food">muscovado</ecda:commodity>, yet that
@@ -164,7 +164,7 @@
                 This is also a lofty tree. It is of quick growth and handsome, and
                 produces a not disagreeable fruit in a <unclear cert="low">shut</unclear> pod or legumen, about three inches long. It
                 is a serviceable wood. In botanical books, I find three different names for the locust tree;
-                that meant here is the <distinct type="scientific" xml:lang="la" rend="slant(italic)">Siliqua adulis</distinct>.
+                that meant here is the <distinct type="scientific" xml:lang="la">Siliqua adulis</distinct>.
               </p>
            </note>
            <note xml:id="n005" target="#a005">
@@ -225,7 +225,7 @@
                  This is the <rs type="properAdjective">Indian</rs> name of the avocato, avocado, avigato, or, as
                  the <name>English</name> corruptly call it, alligator-pear. The <name>Spaniards</name> in <placeName>South-America</placeName> name
                  it <distinct type="dialect" xml:lang="es">aguacate</distinct>, and under that name it is described by <persName ref="#francisco_de_ulloa_0001">Ulloa</persName>. However, in <placeName>Peru</placeName> and
-                 <placeName>Mexico</placeName>, it is better known by the appellation of <soCalled>palta</soCalled> or <soCalled>palto</soCalled>. It is a sightly tree, of
+                 <placeName>Mexico</placeName>, it is better known by the appellation of <distinct type="dialect">palta</distinct> or <distinct type="dialect">palto</distinct>. It is a sightly tree, of
                  two species; on bearing a green fruit, which is the most delicate, and the other
                  a red, which is less esteemed, and grows chiefly in <placeName>Mexico</placeName>. When ripe, the skin
                  peels easily off, and discovers a butyraceous, or rather a marrowy like substance, with
@@ -244,7 +244,7 @@
                  <label>Ver. 60.</label> <ref>green St. Christopher,]</ref> This beautiful and fertile island, and which,
                  in <persName ref="#william_shakespeare_1564">Shakespear's</persName> words, may justly be stiled
                  <quote rend="block">A precious stone set in the silver sea,</quote>
-                 lies in the seventeenth degree <choice><abbr>N. L.</abbr><expan><distinct type="geographical" xml:lang="la">Nomen loci<!-- ?? --></distinct></expan></choice>. It was discovered by the great <persName ref="#christopher_columbus_1450">Christopher Columbus</persName>,
+                 lies in the seventeenth degree <choice><abbr>N. L.</abbr><expan><distinct type="geographical" xml:lang="la" rend="upright">Nomen loci</distinct></expan></choice>. It was discovered by the great <persName ref="#christopher_columbus_1450">Christopher Columbus</persName>,
                  in his second voyage, <date>1493</date>, who was so pleased with his appearance, that he honoured
                  it with his <rs type="properAdjective">Christian</rs> name. Though others pretend, that appellation was given it from
                  an imaginary resemblance between a high mountain in its centre, now called <placeName>Mount Misery</placeName>
@@ -349,16 +349,16 @@
                  by <persName ref="#quintus_curtius_rufus_0001">Q. Curtius</persName>, and beautifully by <persName ref="#john_milton_1608">Milton</persName> in the following lines:
                  <quote rend="block">
                     <lg>
-                       <l>The Fig-tree, not that kind renown'd for fruit,</l>
-                       <l>But such as at this day to Indians known,</l>
-                       <l>In Malabar and Decan spreads her arms;</l>
-                       <l>Branching so broad and long, that in the ground,</l>
-                       <l>The bended twigs take root, and daughters grow</l>
-                       <l>About the mother-tree, a pillar'd shade,</l>
-                       <l>High over-arch'd, and echoing walks between.</l>
-                       <l>There oft the Indian herdsman, shunning heat,</l>
-                       <l>Shelters in cool, and tends his pasturing herds</l>
-                       <l>At Loop-holes cut through thickest shade.</l>
+                       <l rend="prequotes">The Fig-tree, not that kind renown'd for fruit,</l>
+                       <l rend="prequotes">But such as at this day to Indians known,</l>
+                       <l rend="prequotes">In Malabar and Decan spreads her arms;</l>
+                       <l rend="prequotes">Branching so broad and long, that in the ground,</l>
+                       <l rend="prequotes">The bended twigs take root, and daughters grow</l>
+                       <l rend="prequotes">About the mother-tree, a pillar'd shade,</l>
+                       <l rend="prequotes">High over-arch'd, and echoing walks between.</l>
+                       <l rend="prequotes">There oft the Indian herdsman, shunning heat,</l>
+                       <l rend="prequotes">Shelters in cool, and tends his pasturing herds</l>
+                       <l rend="quotes">At Loop-holes cut through thickest shade.</l>
                     </lg>
                  </quote>—
               </p>
@@ -437,9 +437,9 @@
               <p>
                  <label>Ver. 179.</label> <ref>And highest temper,]</ref> Shell, or rather marble quick-lime, is so called
                  by the planters: Without this, the juice of the Cane cannot be concreted into sugar,
-                 at least to advantage. <!-- See Book III. --> With quick-lime the <name>French</name> join ashes as a
+                 at least to advantage. See Book III. With quick-lime the <name>French</name> join ashes as a
                  temper, and this mixture they call <distinct type="dialect" xml:lang="fr"><unclear>Enyvrage</unclear></distinct>. It is hoped the Reader will pardon the
-                 introduction of the verb saccharize, as no other so emphatically expressed the Author's 
+                 introduction of the verb <distinct type="agricultural">saccharize</distinct>, as no other so emphatically expressed the Author's 
                  meaning; for some chemists define sugar to be a native salt, and others a soap.
               </p>
            </note>
@@ -572,7 +572,7 @@
                  <label>Ver. 418.</label> <ref>The mail'd anana]</ref> This is the <ecda:flora ana="#food">pine-apple</ecda:flora>, and needs no description;
                  the <unclear>cherimoya</unclear>, a South-American fruit, is by all, who have tasted both, allowed to
                  surpass the pine, and is even said to be more wholesome. The botanical name of
-                 the pineapple is <soCalled>bromelia</soCalled>. Of the wild pine-apple, or annanas <gap extent="4letters"/>, hedges are
+                 the pineapple is <distinct type="scientific">bromelia</distinct>. Of the wild pine-apple, or annanas <gap extent="4letters"/>, hedges are
                  made in <placeName>South-America</placeName>. It produces an inferior sort of fruit.
               </p>
            </note>
@@ -593,8 +593,8 @@
            </note>
            <note xml:id="n031" target="#a031">
               <p>
-                 <label>Ver. 503</label> <ref>the logwood-hedge.]</ref> <persName ref="#carl_linnaeus_1707">Linnæus's</persName> name for this useful tree is <soCalled>Hæmotoxylon</soCalled>,
-                 but it is better known to physicians by that of the <soCalled>Lignum campechense</soCalled>. Its virtues, as a
+                 <label>Ver. 503</label> <ref>the logwood-hedge.]</ref> <persName ref="#carl_linnaeus_1707">Linnæus's</persName> name for this useful tree is <distinct type="scientific">Hæmotoxylon</distinct>,
+                 but it is better known to physicians by that of the <distinct type="scientific">Lignum campechense</distinct>. Its virtues, as a
                  medicine, and properties as an ingredient in dying, need not to be enumerated in
                  this place. It makes a no less strong than beautiful hedge in the West-Indies, where
                  it rises to a considerable height.
@@ -613,17 +613,17 @@
                  which is wholly destroyed, say some people, by taking out a leaf-like substance
                  that is to be found between the lobes. The nut exceeds a walnut, or even an
                  almond, in sweetness, and yet three or four of them will operate briskly both up and 
-                 down. The <name>French</name> call this useful shrub <soCalled><foreign>Medecinier</foreign></soCalled>. That species of it which bears
+                 down. The <name>French</name> call this useful shrub <distinct type="dialect" xml:lang="fr">Medecinier</distinct>. That species of it which bears
                  red coral like flowers is named <distinct type="dialect">Bellyack</distinct> by the <name>Barbadians</name>; and its ripe seeds are supposed
                  to be a specific against melancholy.
               </p>
            </note>
            <note xml:id="n033" target="#a033">
               <p>
-                 <label>Ver. 510</label> <ref>The acassee,]</ref> <soCalled>Acacia.</soCalled> This is a species of thorn; the juice of the
+                 <label>Ver. 510</label> <ref>The acassee,]</ref> <distinct type="dialect">Acacia.</distinct> This is a species of thorn; the juice of the
                  root is supposed to be poisonous. Its seeds are contained in a pod or ligumen. It is
                  of the class of the syngenesia. No astringent juice is extracted from it. Its trivial
-                 name is <soCalled>Cashaw</soCalled>. <persName ref="#joseph_tournefort_1656">Tournefort</persName> describes it in his voyage to the <placeName>Levant</placeName>. Some call it
+                 name is <distinct type="dialect">Cashaw</distinct>. <persName ref="#joseph_tournefort_1656">Tournefort</persName> describes it in his voyage to the <placeName>Levant</placeName>. Some call it
                  the Holy Thorn, and others Sweet Brier. The half-ripe pod affords a strong cement;
                  and the main stem, being wounded, produces a transparent gum, like the <rs type="properAdjective">Arabic</rs>, to
                  which tree this bears a strong resemblance.
@@ -631,7 +631,7 @@
            </note>
            <note xml:id="n034" target="#a034">
               <p>
-                 <label>Ver. 515.</label> <ref>the privet]</ref> <soCalled>Ligustrum.</soCalled> This shrub is sufficiently known. Its leaves
+                 <label>Ver. 515.</label> <ref>the privet]</ref> <distinct type="scientific">Ligustrum.</distinct> This shrub is sufficiently known. Its leaves
                  and flowers make a good gargle in the aphthæ, and ulcured throat.
               </p>
            </note>
@@ -639,7 +639,7 @@
               <p>
                  <label>Ver. 520.</label> <ref>carnation fair.</ref> This is indeed a most beautiful flowering shrub. It is
                  a native of the <placeName>West-Indies</placeName>, and called, from a <rs type="properAdjective">French</rs> governor, named <persName ref="#phillippe_de_poincy_1583">Depoinci</persName>,
-                 <soCalled>Poinciana</soCalled>. If permitted, it will grow twenty feet high; but in order to make it a
+                 <distinct type="dialect">Poinciana</distinct>. If permitted, it will grow twenty feet high; but in order to make it a
                  good fence, it should be kept low. It is always in blossom. Tho' not purgative, it is
                  of the senna kind. Its leaves and flowers are stomachic, carminative, and emmenagogue.
                  Some authors name it <distinct type="scientific">Cauda pavonis</distinct>, on account of its inimitable beauty: the 
