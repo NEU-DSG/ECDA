@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ECDA_github/ecda.odd.xml"
+    xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Obi;or, The history of Threefingered Jack.</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Worcester: Printed by <persName>Isaiah Thomas</persName>, Jun. Sold by him, and
+                    by <name>Thomas&amp;Whipple</name>, <placeName>Newburyport</placeName>.
+                        <date>1804</date>.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>In a Series of Letters from a resident in <placeName>Jamaica</placeName> to his
+                    friend in <placeName>England</placeName></p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <titlePage type="main">
+                <docTitle>
+
+                    <titlePart>Obi;or, The history of Threefingered Jack</titlePart>
+                </docTitle>
+                <div type="prefatory">
+                    <lg>
+                        <l>Oh! ye who at your ease</l>
+                        <l>Sip the blood sweetened beverage! thoughts like these</l>
+                        <l>Haply ye scorn: I thank thee, gracious God!</l>
+                        <l>That I do feel upon my cheek the glow</l>
+                        <l>Of indignation, when beneath the rod</l>
+                        <l>A sable brother writhes in silent
+                            woe.......<persName>Southey</persName>.</l>
+                    </lg>
+                    <lg>
+                        <l>Hear him! ye Senates! hear this truth sublime,</l>
+                        <l>He who allows oppression shares the
+                            crime.....<persName>Darwin</persName></l>
+                    </lg>
+                </div>
+                <div type="notice">
+                    <title>Advertisement.</title>
+                    <p>I have published these letters, which accidentally fell into my hands, with a
+                        view to commemorate the name of <persName>Jack</persName>, and place upon
+                        the list of heroes, one who, had he shone in a higher sphere, would have
+                        proved as bright a luminary as ever graced the Roman annals, or ever boldly
+                        asserted the rights of a Briton. His cause was great and noble, for to
+                        private wrongs he added the liberty of his countrymen, and stood alone a
+                        bold and daring defender of the Rights of Man. To him who shall applaud Jack
+                        through the varied scenes of his life; to him, whose heart shall sympathize
+                        in his misfortunes, who shall smile upon his deeds, at the same time that he
+                        laments their cause, I dedicate the following pages. W.E.J.</p>
+                </div>
+
+            </titlePage>
+        </front>
+
+        <body>
+            <div>
+
+                <p>Some text here.</p>
+            </div>
+
+        </body>
+
+    </text>
+</TEI>
