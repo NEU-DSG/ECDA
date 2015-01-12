@@ -62,7 +62,7 @@
            </note>
            <note xml:id="n001" target="#a001">
               <p>
-                 <label rend="case(smallcaps)">Ver.22</label> <ref rend="slant(italic)">the spiry <ecda:flora ana="#harvest">Cane</ecda:flora>,</ref>] The botanical
+                 <label>Ver.22</label> <ref>the spiry <ecda:flora ana="#harvest">Cane</ecda:flora>,</ref>] The botanical
                  name of the <ecda:flora>Cane</ecda:flora> is <distinct type="scientific" xml:lang="la">Saccharum</distinct>. The
                  <name>Greeks</name> and <name>Romans</name> seem to have known very little of this most useful and beautiful
                  plant. <persName ref="#lucan_0039">Lucan</persName> and <persName ref="#pliny_0023">Pliny</persName> are the only authors among the former who mention it; and
@@ -139,7 +139,7 @@
            </note>
            <note xml:id="n002" target="#a002">
               <p>
-                 <label rend="case(smallcaps)">Ver. 29.</label> <ref rend="slant(italic)">Muscovado,]</ref>
+                 <label>Ver. 29.</label> <ref>Muscovado,]</ref>
                  The <ecda:commodity ana="#refinement #food">Cane-juice</ecda:commodity> being brought to the consistence of syrup,
                  and, by subsequent coction, granulated, is then called <distinct type="dialect" xml:lang="es">muscovado</distinct> (a <rs type="properAdjective">Spanish</rs> word
                  probably, though not to be found in <placeName>Pineda</placeName>) vulgarly brown Sugar; the <name>French</name>
@@ -148,7 +148,7 @@
            </note>
            <note xml:id="n003" target="#a003">
               <p>
-                 <label rend="case(smallcaps)">Ver. 34</label> <ref rend="slant(italic)">wild <ecda:flora>red Cedar</ecda:flora>]</ref>
+                 <label>Ver. 34</label> <ref>wild <ecda:flora>red Cedar</ecda:flora>]</ref>
                  There are two species of Cedar commonly to be met with
                  in the <placeName>West-Indies</placeName>, the white and red, which differ from the cedars cultivated in
                  the <placeName>Bermudas</placeName>: both are lofty, shady, and of quick growth. The white succeeds in
@@ -160,7 +160,7 @@
            </note>
            <note xml:id="n004" target="#a004">
               <p>
-                <label rend="case(smallcaps)">Ver. 34</label> <ref rend="slant(italic)"><ecda:fauna>Locust</ecda:fauna>]</ref>
+                <label>Ver. 34</label> <ref><ecda:fauna>Locust</ecda:fauna>]</ref>
                 This is also a lofty tree. It is of quick growth and handsome, and
                 produces a not disagreeable fruit in a <unclear cert="low">shut</unclear> pod or legumen, about three inches long. It
                 is a serviceable wood. In botanical books, I find three different names for the locust tree;
@@ -169,7 +169,7 @@
            </note>
            <note xml:id="n005" target="#a005">
              <p>
-                 <label rend="case(smallcaps)">Ver. 36</label> <ref rend="slant(italic)">or vast ceiba save.]</ref>
+                 <label>Ver. 36</label> <ref>or vast ceiba save.]</ref>
                  Canoes have been scooped out of this tree, capable
                  of holding upwards of a hundred people; and many hundreds, as authors relate, have
                  been at once sheltered by its shade. Its pods contain a very soft short cotton, like
@@ -184,7 +184,7 @@
            </note>
            <note xml:id="n006" target="#a006">
               <p>
-                 <label rend="case(smallcaps)">Ver. 37</label> <ref rend="slant(italic)">Yet spare the guava,]</ref>
+                 <label>Ver. 37</label> <ref>Yet spare the guava,]</ref>
                  The <name>Spaniards</name> call this tree <distinct type="dialect" xml:lang="es">guayava</distinct>. It bears a
                  fruit as large, and of much the same shape as a golden pippen. This is of three
                  species, the yellow, the amazon, and the white; the last is the most delicate, but
@@ -914,7 +914,7 @@
                  scarce ever escapes into the river with more than five out of all her hundred. Thus
                  providence doubly prevents the otherwise immense propacation of that voracious animal,
                  on the banks of the river <placeName>Guayaquil</placeName>; for the gallinazo is not always found,
-                 where alligators are. <bibl rend="ital"><author><persName ref="#francisco_de_ulloa_0001">Ulloa</persName></author>.</bibl>
+                 where alligators are. <bibl rend="italic"><author><persName ref="#francisco_de_ulloa_0001">Ulloa</persName></author>.</bibl>
               </p>
            </note>
            <note xml:id="n055" target="#a055">
@@ -1032,7 +1032,7 @@
               <p>
                  <label>Ver. 205.</label> <ref>Tho' seasons]</ref> Without a rainy season, the <ecda:flora ana="#commodity">Sugar-cane</ecda:flora> could not be
                  cultivated to any advantage: for what <persName ref="#pliny_0023">Pliny the Elder</persName> writes of another plant may
-                 be applied to this, <quote xml:lang="la" rend="italics">Gaudet irriguis, et toto anno bibere amat.</quote>
+                 be applied to this, <quote xml:lang="la" rend="italic">Gaudet irriguis, et toto anno bibere amat.</quote>
               </p>
            </note>
            <note xml:id="n067" target="#a067">
@@ -1698,7 +1698,7 @@
               <lb/>In Four Books.
               <lb/>With Notes
            </titlePart>
-           <epigraph xml:lang="la">
+           <epigraph xml:lang="la" rend="italic">
               <lg>
                  <l><unclear>Agredior primusque novis Helicona movere</unclear></l>
                  <l><unclear>Cantibus, et viridi nutantes vertice sylves;</unclear></l>
@@ -1708,7 +1708,7 @@
            </epigraph>
            <byline>by <docRole type="author"><persName ref="#james_grainger_1721">James Grainger</persName></docRole>, M. D. &amp;c.</byline>
            <docImprint>
-              <pubPlace><placeName rend="case(allcaps)">London:</placeName></pubPlace>
+              <pubPlace><placeName rend="allcaps">London:</placeName></pubPlace>
               Printed for <persName ref="#robert_dodsley_1704 #james_dodsley_1724">R. and J. Dodsley,</persName> in Pall-mall.
               <docDate><date when="1764">MDCCLXIV.</date></docDate>
            </docImprint>
@@ -1718,7 +1718,7 @@
 <fw type="pageNum">v</fw>
         
         <div type="prefatory">
-           <head rend="case(allcaps)">Preface</head>
+           <head rend="allcaps">Preface</head>
            <p>Soon after my arrival in the <placeName>West-Indies</placeName>, I conceived the de-
               sign of writing a poem on the cultivation of the <ecda:flora ana="#commodity">Sugar-Cane</ecda:flora>.
               My inducements to this arduous undertaking were, not only the 
@@ -1746,7 +1746,7 @@
 <fw type="pageNum">vi</fw>
               
               modes of planting, with such propriety, as those I had seen practised 
-              in that island, where it was been my good fortune chiefly to
+              in <rs type="place" ref="#saint_kitts">that island</rs>, where it was been my good fortune chiefly to
               reside since I came to the <placeName>West-Indies</placeName>.
            </p>
            <p>I have often been astonished, that so little has been published
@@ -1774,7 +1774,7 @@
 <pb/>
 <fw type="pageNum">vii</fw>
            
-           <lg type="poem" xml:lang="la">
+           <lg type="poem" xml:lang="la" rend="italic">
               <l>Vos sequor ô Gracaiæ gentis decus inque vestris nunc</l>
               <l>Fixa pedum pono pressis vestigia signis;</l>
               <l>Non ita certandi cupidus, quam propter amoreum</l>
@@ -1795,9 +1795,9 @@
               them. <ecda:commodity ana="#medical">Medicines</ecda:commodity> of such amazing efficacy, as I have had occasion <!-- is it?? -->
               to make trials of in these islands, deserve to be universally known.
               And wherever, in the following poem, I recommend any such, I
-              beg leave to be understood as a physician, and not a poet
+              beg leave to be understood as a physician, and not a poet.
            </p>
-           <dateline><placeName>Basseterre</placeName>, <date>Jan. 1763.</date></dateline>
+           <dateline rend="italic"><placeName>Basseterre</placeName>, <date when="1763-01">Jan. 1763.</date></dateline>
         </div>
      </front>
      
@@ -1811,7 +1811,7 @@
            
             <div type="prefatory">
                <head>Argument</head>
-               <p>Subject proposed. Invocation and address. What soils the <ecda:commodity ana="#flora">Cane</ecda:commodity> grows
+               <ab rend="italic">Subject proposed. Invocation and address. What soils the <ecda:commodity ana="#flora">Cane</ecda:commodity> grows
                   best in. The grey light earth. Praise of <placeName>St. Christopher</placeName>, The red
                   brick mould. Praise of <placeName>Jamaica</placeName>, and of <persName ref="christopher_columbus_1450">Christopher Columbus</persName>. The
                   black soil mixed with clay and gravel. Praise of <placeName>Barbadoes</placeName>, <placeName>Nevis</placeName>,
@@ -1824,18 +1824,18 @@
                   holed at any time. The ridges should be open to the trade-wind. The
                   beauty of holing regularly by a line. Alternate holing, and the
                   wheel-plought recommended to a trial. When to plant. Wet weather
-                  the best. Rain often falls in the West-Indies, almost without any pre­
+                  the best. Rain often falls in the <placeName>West-Indies</placeName>, almost without any pre­
                   vious signs. The signs of rainy weather. Of fogs round the high
                   mountains. Planting described. Begin to plant mountain-land in July:
                   the low ground in November, and the subsequent months, till May.
                   The advantage of changing tops in planting. Whether the Moon
-                  has any influence over the Cane-plant. What quantity of moun­
+                  has any influence over the <ecda:flora>Cane-plant</ecda:flora>. What quantity of moun­
                   tain and of low Cane-land. may be annually planted. The last Cane-
                   piece should be cut off before the end of July. Of hedges. Of stone
-                  inclosures. Myrtle hedges recommended. Whether trees breed the blast.
+                  inclosures. <ecda:flora>Myrtle</ecda:flora> hedges recommended. Whether trees breed the blast.
                   The character of a good planter. Of weeding. Of moulding. Of
                   stripping.
-               </p>
+               </ab>
             </div>
            
 <pb/>
@@ -1847,13 +1847,13 @@
                      <l>What soil the <ecda:flora>Cane</ecda:flora> affects; what care demands;</l>
                      <l>Beneath what signs to plant; what ills await;</l>
                      <l>How the hot nectar best to cristallize;</l>
-                     <l>And Afric's sable progeny to treat:</l>
+                     <l>And <placeName>Afric</placeName>'s sable progeny to treat:</l>
                      <l>A Muse, that long hath wander'd in the groves</l>
                      <l>Of myrtle-indolence, attempts to sing.</l>
                   </lg>
                   <lg type="indeterminate">
                   <l>Spirit of Inspiration, that did'st lead</l>
-                  <l>Th' <rs>Ascrean Poet</rs> to the sacred Mount,</l>
+                  <l>Th' <rs type="person">Ascrean Poet</rs> to the sacred Mount,</l>
                   <l>And taught'st him all the precepts of the swain</l>
                   <l>Descend from Heaven, and guide my trembling steps</l>
                   <l>To Fame's Eternal Dome, where <persName ref="#virgil_0070" cert="medium">Maro</persName> reigns</l>
@@ -1905,8 +1905,8 @@
                   <l><seg xml:id="a006" corresp="#n006">Yet spare the <ecda:flora>guava</ecda:flora>,</seg> <seg xml:id="a007" corresp="#n007">yet the <ecda:flora>guaiac</ecda:flora> spare;</seg></l>
                   <l>A wholesome food the ripened <ecda:flora ana="#food #commodity">guava</ecda:flora> yields,</l>
                   <l>Boast of the housewife; while the <ecda:flora ana="#food #medical">guaiac</ecda:flora> grows</l>
-                  <l>A sovereign antidote, in wood, bark, gum,</l>
-                  <l>To cause the lame his useless crutch forego,</l>
+                  <l ana="#medical">A sovereign antidote, in wood, bark, gum,</l>
+                  <l ana="#medical">To cause the lame his useless crutch forego,</l>
                   <l>And dry the sources of corrupted love.</l>
                   <l>Nor let thy bright impatient flames destroy</l>
                   
@@ -1952,12 +1952,12 @@
                   
                   <l>Strow'd with each fruit of taste, each flower of smell,</l>
                   <l><rs type="properAdjective">Sicilian</rs> <persName ref="proserpina_0001">Proserpine</persName>, delighted, sought;</l>
-                  <l>Can vie, blest Isle, with thee.— Tho' no soft sound</l>
+                  <l>Can vie, <rs type="person" ref="#st_kitts">blest Isle</rs>, with thee.— Tho' no soft sound</l>
                   <l>Of pastoral stop thine echoes e'er awak'd;</l>
                   <l>Nor raptured poet, lost in holy trance,</l>
                   <l>Thy streams arrested with enchanting song:</l>
                   <l><seg xml:id="a011" corresp="#n011">Yet virgins, far more beautiful</seg> than she</l>
-                  <l>Whom Pluto ravished, and more chaste, are thine:</l>
+                  <l>Whom <persName>Pluto</persName> ravished, and more chaste, are thine:</l>
                   <l>Yet probity, from principle, not fear,</l>
                   <l>Actuates thy sons, bold, hospitable, free:</l>
                   <l>Yet a fertility, unknown of old,</l>
@@ -1981,10 +1981,10 @@
                   
                   <l>Such the glad soil, from whence <placeName>Jamaica's</placeName> sons</l>
                   <l>Derive their opulence: thrice fertile land,</l>
-                  <l><said xml:id="s001" next="#s002" rend="pre(“)">The pride, the glory of the sea-girt isles,</said></l>
-                  <l><said xml:id="s002" next="#s003" prev="#s001">Which, like to rich and various gems, inlay</said></l>
-                  <l><said xml:id="s003" prev="#s002" rend="post(”)">The unadorned bosom of the deep,</said></l>
-                  <l>Which first <persName ref="christopher_columbus_1450">Columbus'</persName> daring keel explor'd</l>
+                  <l><said xml:id="s001" next="#s002" rend="prequotes">The pride, the glory of the sea-girt isles,</said></l>
+                  <l><said xml:id="s002" next="#s003" prev="#s001" rend="prequotes">Which, like to rich and various gems, inlay</said></l>
+                  <l><said xml:id="s003" prev="#s002" rend="quotes">The unadorned bosom of the deep,</said></l>
+                  <l>Which first <persName ref="christopher_columbus_1450">Columbus'</persName> daring keel explor'd.</l>
                </lg>
                <lg>
                   <l>Daughters of Heaven, with reverential awe,</l>
@@ -2011,8 +2011,8 @@
 <fw type="pageNum">13</fw>
                   
                   <l><seg xml:id="a012" corresp="#n012">And where the magnet</seg> first its aid declin'd;</l>
-                  <l>Alone, unterrified, didst thoug not view?</l>
-                  <l>Wife Legislator, had the Iberian King</l>
+                  <l>Alone, unterrified, didst thou not view?</l>
+                  <l><rs type="person">Wife Legislator</rs>, had the <rs type="person">Iberian King</rs></l>
                   <l>Thy plan adopted, murder had not drench'd</l>
                   <l>In blood vast kingdoms; nor had hell-born Zeal,</l>
                   <l>And hell-born Avarice, his arms disgrac'd.</l>
@@ -2022,7 +2022,7 @@
 <pb/>
 <fw type="pageNum">14</fw>
                   
-                  <l>Thine age was spent solliciting the Prince,</l>
+                  <l>Thine age was spent solliciting <rs type="person">the Prince</rs>,</l>
                   <l>To whom thou gav'st the sceptre of that world.</l>
                   <l>Yet, blessed spirit, where inthron'd thou sit'st,</l>
                   <l>Chief 'mid the friends of man, repine not thou:</l>
@@ -2033,10 +2033,10 @@
                </lg>
                <lg>
                   <l>Shall the Muse celebrate the dark deep mould,</l>
-                  <l>With <seg xml:id="er002" corresp="#ec002">clay</seg> or gravel mix'd?—This soil the Cane</l>
+                  <l>With <seg xml:id="er002" corresp="#ec002">clay</seg> or gravel mix'd?—This soil the <ecda:flora>Cane</ecda:flora></l>
                   <l>With partial fondness loves; and oft surveys</l>
                   <l>Its progeny with wonder.—Such rich veins</l>
-                  <l>Are plenteous scatter'd o'er the <!-- Sugar-isles -->:</l>
+                  <l>Are plenteous scatter'd o'er the <rs type="place">Sugar-isles</rs>:</l>
                   <l>But chief that land, to which <seg xml:id="a013" corresp="#n013">the bearded <ecda:flora>fig</ecda:flora></seg>,</l>
                   
 <pb xml:id="pb04" corresp="#pbn04"/>
@@ -2109,12 +2109,12 @@
                   <l><seg xml:id="a017" corresp="#n017">And highest temper,</seg> ere it saccharize;</l>
                   <l>A meagre produce. Such is Virtue's meed,</l>
                   <l>Alas, too oft in these degenerate days.</l>
-                  <l>Thy <ecda:fauna>cattle</ecda:fauna> likewise, as they grag the wain,</l>
+                  <l>Thy <ecda:fauna>cattle</ecda:fauna> likewise, as they drag the wain,</l>
                   <l>Charg'd from the beach; in spite of whips and shouts,</l>
                   <l>Will stop, will pant, will sink beneath the load;</l>
                   <l>A better fate deserving.―</l>
                   <l>Besides, thy land itself is insecure:</l>
-                  <l>For of the glebe, and all its waving load,</l>
+                  <l>For oft the <sic>glebe</sic>, and all its waving load,</l>
                   <l>Will journey, forc'd off by the mining rain;</l>
                   <l>And, with its faithless burden, disarrange</l>
                   <l>Thy neighbour's vale. So <placeName>Markley-hill</placeName> of old,</l>
@@ -2134,7 +2134,7 @@
                <lg>
                   <l>Planter, if thou with wonder wouldst survey</l>
                   <l>Redundant <seg xml:id="er003" corresp="#ec003">harvests,</seg> load thy willing soil;</l>
-                  <l>Let sun and rain mature thy deep=hoed land,</l>
+                  <l>Let sun and rain mature thy deep-hoed land,</l>
                   <l>And old fat dung co-operate with these.</l>
                   <l>Be this great truth still present to thy mind;</l>
                   <l>The half well-cultur'd far exceeds the whole,</l>
@@ -2148,7 +2148,7 @@
                   <l>So cultivation, on the shallowest soil,</l>
                   <l>O'er spread with rocky cliffs, will bid the <ecda:flora ana="#cultivation">Cane</ecda:flora>,</l>
                   <l>With spiry pomp, all bountifully rife.</l>
-                  <l>Thus Britain's flag, should discipline relent,</l>
+                  <l>Thus <placeName>Britain</placeName>'s flag, should discipline relent,</l>
                   <l>'Spite of the native courage of her sons,</l>
                   <l>Would to the lily strike: ah, very far,</l>
                   <l>Far be that woful day: the lily then</l>
@@ -2184,7 +2184,7 @@
                </lg>
                <lg>
                   <l>Some of the skilful teach, and some deny,</l>
-                  <l><seg xml:id="a019" corresp="#n019">That yams improve the soil.</seg> In meagre lands,</l>
+                  <l><seg xml:id="a019" corresp="#n019">That <ecda:flora>yams</ecda:flora> improve the soil.</seg> In meagre lands,</l>
                   
 <pb xml:id="pb06" corresp="#pbn06"/>
 <fw type="pageNum">21</fw>
@@ -2205,7 +2205,7 @@
                   <l>A stinted plant deceitful of thy hopes,</l>
                   <l>Will from those beds slow spring where hot dung lies:</l>
                   <l>But, if 'tis scatter'd generously o'er all,</l>
-                  <l>The Cane will better bear the solar blaze;</l>
+                  <l>The <ecda:flora>Cane</ecda:flora> will better bear the solar blaze;</l>
                   <l>Less rain demand; and, by repeated crops,</l>
                   <l>Thy land improv'd, its gratitude will show.</l>
                </lg>
@@ -2318,7 +2318,7 @@
                   <l>Else good <persName>Amyntor</persName>, him the graces lov'd,</l>
                   <l>Wisdom caress'd, and Themis call'd her own,</l>
                   <l>Had liv'd by all admir'd, had now perus'd</l>
-                  <l><q rend="pre(“)post”)">These lines, will all the malice of a friend.</q></l>
+                  <l><q rend="quotes">These lines, will all the malice of a friend.</q></l>
                </lg>
                <lg>
                   <l>Yet future rains the careful may foretell:</l>
@@ -2734,17 +2734,17 @@
                   <l>And calmly thus his eldest hope addrest.</l>
                </lg>
                <lg>
-                  <l><said xml:id="s004" next="#s005" rend="pre(“)">Be pious, be industrious, be humane;</said></l>
-                  <l><said xml:id="s005" next="#s006" prev="#s004">From proud oppression guard the labouring hind.</said></l>
-                  <l><said xml:id="s006" next="#s007" prev="#s005">Whate'er their creed, God is the Sire of man,</said></l>
-                  <l><said xml:id="s007" next="#s008" prev="#s006">His image they; then dare not thou, my son,</said></l>
-                  <l><said xml:id="s008" next="#s009" prev="#s007">To bar the gates of mercy on mankind.</said></l>
-                  <l><said xml:id="s009" next="#s010" prev="#s008">Your foes forgive, for merit must make foes;</said></l>
-                  <l><said xml:id="s010" next="#s011" prev="#s009">And in each virtue far surpass your sire.</said></l>
-                  <l><said xml:id="s011" next="#s012" prev="#s010">Your means are ample, Heaven a heart bestow!</said></l>
-                  <l><said xml:id="s012" next="#s013" prev="#s011">So health and peace shall be your portion here;</said></l>
-                  <l><said xml:id="s013" next="#s014" prev="#s012">And yon bright sky, to which my soul aspires,</said></l>
-                  <l><said xml:id="s014" prev="#s013" rend="post(”)">Shall bless you with eternity of joy.</said></l>
+                  <l><said xml:id="s004" next="#s005" rend="prequotes">Be pious, be industrious, be humane;</said></l>
+                  <l><said xml:id="s005" next="#s006" prev="#s004" rend="prequotes">From proud oppression guard the labouring hind.</said></l>
+                  <l><said xml:id="s006" next="#s007" prev="#s005" rend="prequotes">Whate'er their creed, God is the Sire of man,</said></l>
+                  <l><said xml:id="s007" next="#s008" prev="#s006" rend="prequotes">His image they; then dare not thou, my son,</said></l>
+                  <l><said xml:id="s008" next="#s009" prev="#s007" rend="prequotes">To bar the gates of mercy on mankind.</said></l>
+                  <l><said xml:id="s009" next="#s010" prev="#s008" rend="prequotes">Your foes forgive, for merit must make foes;</said></l>
+                  <l><said xml:id="s010" next="#s011" prev="#s009" rend="prequotes">And in each virtue far surpass your sire.</said></l>
+                  <l><said xml:id="s011" next="#s012" prev="#s010" rend="prequotes">Your means are ample, Heaven a heart bestow!</said></l>
+                  <l><said xml:id="s012" next="#s013" prev="#s011" rend="prequotes">So health and peace shall be your portion here;</said></l>
+                  <l><said xml:id="s013" next="#s014" prev="#s012" rend="prequotes">And yon bright sky, to which my soul aspires,</said></l>
+                  <l><said xml:id="s014" prev="#s013" rend="quotes">Shall bless you with eternity of joy.</said></l>
                </lg>
                
 <pb/>
@@ -2827,11 +2827,11 @@
            
            <div type="prefatory">
               <head>Argument</head>
-              <p>Subject proposed. Address to <persName ref="#william_shenstone_1714">William Shenstone</persName>, Esq. Of monkeys.
+              <ab rend="italic">Subject proposed. Address to <persName ref="#william_shenstone_1714">William Shenstone</persName>, Esq. Of monkeys.
                  Of rats and other vermin. Of weeds. Of the yellow fly. Of
                  the greasy fly. Of the blast. A hurricane described. Of calms 
                  and earthquakes. A tale.
-              </p>
+              </ab>
            </div>
            
 <pb/>
@@ -3610,7 +3610,7 @@
            
            <div type="prefatory">
               <head>Argument</head>
-              <p>Hymn to the month of January, when <unclear reason="flawed-reproduction">crop</unclear> begins. Address. Planters have
+              <ab rend="italic">Hymn to the month of January, when <unclear reason="flawed-reproduction">crop</unclear> begins. Address. Planters have
                   employment all the year round. Planters should be pious. A ripe Cane piece
                   on fire at midnight. Crop begun. Cane cutting described. Effects of
                   music. Great care requisite in feeding the mill. Humanity towards the 
@@ -3636,7 +3636,7 @@
                  A character. Of skimmings. Their various uses. Of rum. Its
                  praise. A <rs type="properAdjective">West-India</rs> prospect, when crop is finished. An address to the
                  <name>Creoles</name>, to live more upon their estates than they do. The reasons.
-              </p>
+              </ab>
            </div>
            
 <pb/>
@@ -4109,7 +4109,7 @@
                  <l><placeName>Bristol</placeName>, <placeName>Brittania's</placeName> second mart and eye!</l>
               </lg>
               <lg>
-                 <l>Nor <quote>to thy waters only trust for fame,</quote></l>
+                 <l>Nor <quote rend="quotes">to thy waters only trust for fame,</quote></l>
                  <l><placeName>Bristol</placeName>; nor to thy beamy diamonds trust:</l>
                  <l>Tho' these oft deck <placeName>Brittania's</placeName> lovely fair;</l>
                  <l>And those oft save the guardians of her realm.</l>
@@ -4515,7 +4515,7 @@
            
            <div type="prefatory">
               <head>Argument</head>
-              <ab>Invocation to the Genius of <placeName>Africa</placeName>. Negroes when bought should
+              <ab rend="italic">Invocation to the Genius of <placeName>Africa</placeName>. Negroes when bought should
                  be young, and strong. The Congo-negroes are fitter for the house and
                  trades, than for the field. The Gold-Coast, but especially the Papaw-
                  negroes, make the best field negroes: but even these, if advanced in years,
@@ -4977,7 +4977,7 @@
                  <l>Anon the ferment maddens in the veins,</l>
                  <l>And a false vigour animates the frame.</l>
                  <l>Again, the dropsy bloated mask they steal;</l>
-                 <l>Or, <q rend="quotes">melt with minings of the hectic fire.</q></l>
+                 <l>Or, <quote rend="quotes">melt with minings of the hectic fire.</quote></l>
               </lg>
               <lg>
                  <l>Say, to such various mimic forms of death;</l>
