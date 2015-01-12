@@ -24,6 +24,7 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
+      <change who="SS" when="2015-01-12">fixed our <gi>docRole</gi> problems. Please email me if you are having any problems with this element!</change>
       <change who="EH" when="2014-12-21">Edited <gi>embLore</gi> gloss to
         account for lore that is not categorized as Afro-Caribbean</change>
       <change who="SS" when="2014-12-10">Added <gi>embLore</gi></change>
@@ -186,14 +187,28 @@
             </attDef>
           </attList>
         </elementSpec>
-        <!--changed docAuthor to docRole-->
-        <elementSpec module="textstructure" ident="docAuthor" mode="change">
+        <!--docRole-->
+        <elementSpec ident="docRole" mode="add">
 	  <gloss>document role</gloss>
           <altIdent>docRole</altIdent>
           <desc>contains an indication of a person or organization who
             played a significant role in the production of the source
             book, as given on the title page (often but not always
             contained in a byline).</desc>
+          <classes mode="replace">
+            <memberOf key="model.nameLike.agent"/>
+            <memberOf key="model.global"/>
+            <memberOf key="model.titlepagePart"/>
+            <memberOf key="model.pLike.front"/>
+            <memberOf key="att.global"/>
+            <memberOf/>
+          </classes>
+          <content>
+            <rng:zeroOrMore>
+              <rng:ref name="persName"/>
+            </rng:zeroOrMore>
+            <rng:text/>
+          </content>
           <attList>
             <attDef ident="type" mode="add" usage="req">
               <valList type="closed">
@@ -237,6 +252,8 @@
             </attDef>
           </attList>
         </elementSpec>
+        
+        
         
         
         <moduleRef key="analysis" include="interp interpGrp"/>
