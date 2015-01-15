@@ -16,10 +16,11 @@
      <encodingDesc>
         <tagsDecl>
            <rendition xml:id="r.allcaps">allcaps</rendition>
-           <rendition xml:id="r.smallcaps">smcaps</rendition>
+           <rendition xml:id="r.smallcaps">smallcaps</rendition>
             <namespace name="">
             <tagUsage gi="dateline" render="#r.smallcaps"/>
               <tagUsage gi="head" render="#r.allcaps"/>
+               <tagUsage gi="author" rend="r.smallcaps"/>
            </namespace>
         </tagsDecl>
      </encodingDesc>
@@ -67,8 +68,7 @@
      <front>
         
   
-        <pb n="1"/>
-      
+        <pb n="1"/>    
   
      
          <div type="notice">
@@ -76,17 +76,41 @@
             <date when="1834-02-01">Feb. 1. 1834</date></dateline>
             <head> New Publications</head>
             
-            <p><bibl><title>Travels in <placeName>Bokhara</placeName>, <placeName>Cabool</placeName>, <placeName>Tartary</placeName>, and 
-            <placeName>Persia</placeName>, in the Year 1832</title>, by <author><persName ref="#alexander_burns_1805">Lieut. Alexander Burnes</persName></author>,</bibl>
+            <p><bibl><title><hi rend="allcaps">Travels in <placeName>Bokhara</placeName>, <placeName>Cabool</placeName>, <placeName>Tartary</placeName>, <hi rend="mixed">and</hi> 
+            <placeName>Persia</placeName></hi>, in the Year 1832</title>, by <author><persName ref="#alexander_burns_1805">Lieut. Alexander Burnes</persName></author>,</bibl>
             Assistant Political Resident, and late on a Mission to the Court
             of <placeName>Lahore</placeName>. 3 vols. post 8vo.</p>
             
-            <p><bibl><title>Excursions in the North of <placeName>Europe</placeName>, through parts of <placeName>Russia</placeName>, <placeName>Finland</placeName>,
-               <placeName>Sweden</placeName>, <placeName>Denmark</placeName>, and <placeName>Norway</placeName>, in the Years 1830 and 1833</title>. 
-               by <author><persName ref="#john_barrow_1808">John Barrow, junior</persName></author>.</bibl>
-               With a few characteristic Sketches, and Two Maps. Post 8vo</p>
+            <p><bibl><title><hi rend="allcaps">Excursions <hi rend="mixed">in the</hi> North <hi rend="mixed">of</hi> <placeName>Europe</placeName>, <hi rend="mixed">through 
+               Parts of</hi> <placeName>Russia</placeName>, <placeName>Finland</placeName>, <placeName>Sweden</placeName>, <placeName>Denmark</placeName>, and 
+               <placeName>Norway</placeName></hi>, in the Years 1830 and 1833</title>. 
+               by <author><persName ref="#john_barrow_1808">John Barrow, 
+               junior</persName></author>.</bibl> With a few characteristic Sketches, and Two Maps.
+                Post 8vo</p>
+            <p><bibl><title><hi rend="allcaps">Bubbles <hi rend="mixed">from the</hi> Brunnens <hi rend="mixed">of</hi> <placeName>Nassau</placeName></hi>; being a
+            Picture of the Fashionable Watering Places of Germany.</title> By 
+             an <author><ecda:anonPers>Old Man</ecda:anonPers></author>.</bibl> With 10 Prints, Post 8vo.                                
+            </p>
             
-            
+            <p><bibl><title><hi rend="allcaps">The Second Series <hi rend="mixed">of</hi> Gleanings <hi rend="mixed">in</hi> Natural
+            History</hi></title>. By <author><persName>Edward Jesse</persName>, <hi rend="mixed">Esq.</hi></author>; comprising Extracts
+               from the unpublished Journals of <author><persName>White</persName></author> of <placeName>Selborne</placeName>.</bibl> Post
+               8vo, with Wood-cuts.                         
+            </p>
+            <p><bibl><title><hi rend="allcaps">The Life <hi rend="mixed">of</hi> <persName>General Sir John Moore</persName> <hi rend="mixed">including
+            his</hi> Letters <hi rend="mixed">and</hi> Journals</hi></title> </bibl> Edited by his 
+            Brother <persName rend="smallcaps">James Carrick Moore</persName>; with a Portrait, after the 
+            Picture by <persName>Sir Thomas Lawrence</persName> 2 Vols. 8vo.                         
+            </p>
+            <p><bibl><title><hi rend="allcaps"></hi></title> <author><persName></persName></author>                
+            </bibl>               
+            </p>
+            <p><bibl><title></title> <author><persName></persName></author>                
+            </bibl>               
+            </p>
+            <p><bibl><title></title> <author><persName></persName></author>                
+            </bibl>               
+            </p>
             <pb n="2"/>
             
             
@@ -123,7 +147,7 @@
          <placeName>Jamaica</placeName>, in 1815-16, and in 1817, are now
          printed from the MS. of <persName ref="#matthew_lewis_1775">Mr. Lewis</persName>; who
          died at sea, on the voyage homewards from the
-         <placeName>West Indies</placeName>, in the year 1818</p></div>
+         <placeName>West Indies</placeName>, in the year 1818.</p></div>
         
         
         <pb n="8"/>
@@ -134,7 +158,7 @@
          
                <head>Journal of a <rs type="properAdjective">West India</rs> Proprietor</head>
                <epigraph><quote source="virgil_georgics" xml:lang="la">>Nunc alio patriam quæro sub sole jacentem.</quote>
-                  <bibl>—<author><persName ref="#virgil_0070">Virgil</persName></author></bibl>
+                  <bibl>—<author rend="mixed"><persName ref="#virgil_0070">Virgil</persName></author></bibl>
                </epigraph>
             <div type="section">
                <div type="entry">
@@ -207,8 +231,8 @@
                   ship proceeded <measure>three miles</measure>, and then the darkness
                   obliged us to come to an anchor. There are only
                   two other cabin passengers, a <persName ref="#mr_j_0001">Mr. J―</persName> and a
-                  <persName ref="#mr_s_0001">Mr. S―</persName>; the latter is a planter in the <geogName rend="quotes">May-
-                  Day Mountains</geogName>, <placeName>Jamaica</placeName>: he wonders, considering
+                  <persName ref="#mr_s_0001">Mr. S―</persName>; the latter is a planter in the <placeName rend="quotes">May-
+                  Day Mountains</placeName>, <placeName>Jamaica</placeName>: he wonders, considering
                   how much benefit <placeName>Great Britain</placeName> derives from 
                   the <placeName>West Indies</placeName>, that government is not careful to
                   build more churches in them, and is of opinion,
@@ -220,8 +244,8 @@
                   
                <div type="entry">
                 <opener><dateline><date when="1815-11-11">November 11</date>.</dateline></opener>
-                  <p>We sailed at six o'clock, passed through <geogName rend="quotes">Nob's 
-                  Hole</geogName>, the <geogName rend="quotes">Girdler's Hole</geogName>, and then <geogName rend="quotes">the Pan</geogName>
+                  <p>We sailed at six o'clock, passed through <placeName rend="quotes">Nob's 
+                  Hole</placeName>, the <placeName rend="quotes">Girdler's Hole</placeName>, and then <placeName rend="quotes">the Pan</placeName>
                   (all very dangerous sands, and particularly the last,
                   where at times we had only <measure>one foot</measure> water below
                   us), by half past four, and at five came to an anchor
@@ -242,7 +266,7 @@
                <div type="entry">
                   <opener><dateline><date when="1815-11-12">November 12</date>. <hi rend="mixed">(Sunday.)</hi></dateline></opener>
                   <p>The wind was contrary, and we had to beat
-                    up the whole way; we did not reach <geogName>the Downs</geogName>
+                    up the whole way; we did not reach <placeName>the Downs</placeName>
                     till past four o'clock, and, as there were above
                     sixty vessels arrived before us, we had some difficulty
                     in finding a safe berth. At length we anchored 
@@ -313,12 +337,12 @@
                <div type="entry">
               <opener><dateline><date when="1815-11-13">November 13</date>.</dateline></opener>  
               <p>At six this morning, came on a tremendous
-                 gale of wind; the <rs type="person" ref="#boyes_0001">captain</rs> says, that <said direct="false">he never 
+                 gale of wind; the <rs type="person" ref="#boyes_0001">captain</rs> says, that he never 
                   
              <pb n="14"/>     
              <fw type="pageNum">6</fw> 
                  
-                 experienced a heavier.</said> However, we rode it out
+                 experienced a heavier. However, we rode it out
                  with great success, although, at one time, it was
                  bawled out that we were driving; and, at another,
                  a brig which lay near us broke from her moorings,
@@ -360,37 +384,37 @@
             <l>Ne'er were the zephyrs known disclosing</l>
             <l>More sweets, than when in <placeName>Tempe's</placeName> shades</l>
             <l>They waved the <ecda:flora>lilies</ecda:flora>, where, reposing,</l>
-            <l>Sat four and twenty lovely maids.</l>
+            <l>Sat <rs type="persGroup">four and twenty lovely maids</rs>.</l>
          </lg>  
          <lg>
-            <l>Those lovely maids were called <mcr rend="quotes">the Hours</mcr>,</l>
-            <l>The charge of Virtue's flock they kept;</l>
+            <l>Those lovely <rs type="persGroup">maids</rs> were called <name rend="quotes">the Hours</name>,</l>
+            <l>The charge of <name>Virtue's</name> <ecda:fauna>flock</ecda:fauna> they kept;</l>
             <l>And each in turn employ'd her powers</l>
-            <l>To guard it, while her sisters slept.</l>
+            <l>To guard it, while her <rs type="persGroup">sisters</rs> slept.</l>
          </lg>      
          <lg>
-            <l>False Love, how simple souls thou cheatest!</l>
+            <l><name>False Love</name>, how simple souls thou cheatest!</l>
             <l>In <ecda:flora>myrtle</ecda:flora> bower, that traitor near</l>
-            <l>Long watch'd an Hour, the softest, sweetest!</l>
-            <l><seg xml:id= "a001" corresp="#n001">The <emph rend="italic">evening</emph> Hour, to shepherds dear.*</seg></l>
+            <l>Long watch'd an <name>Hour</name>, the softest, sweetest!</l>
+            <l><seg xml:id= "a001" corresp="#n001">The <name><emph rend="italic">evening</emph> Hour,</name> to shepherds dear.*</seg></l>
          
          </lg>      
          <lg>
             <l>In tones so bland he praised her beauty,</l>
             <l>Such melting airs his pipe could play,</l>
-            <l>The thoughtless Hour forgot her duty,</l>
-            <l>And fled in Love's embrace away.</l>
+            <l>The thoughtless <name>Hour</name> forgot her duty,</l>
+            <l>And fled in <name>Love's</name> embrace away.</l>
          </lg> 
          <lg>
             <l>Meanwhile the fold was left unguarded—</l>
             <l>The <ecda:fauna>wolf</ecda:fauna> broke in—the <ecda:fauna>lambs</ecda:fauna> were slain: </l>
-            <l>And now from Virtue's train discarded,</l>
-            <l>With tears her sisters speak their pain.</l>
+            <l>And now from <name>Virtue's</name> train discarded,</l>
+            <l>With tears her <rs type="persGroup">sisters</rs> speak their pain.</l>
          </lg>  
          <lg>
             <l>Time flies, and still they weep; for never</l>
             <l>The fugitive can time restore:</l>
-            <l>An Hour once fled, has fled for ever,</l>
+            <l>An <name>Hour</name> once fled, has fled for ever,</l>
             <l>And all the rest shall smile no more!</l>
          </lg>
          </lg>
@@ -402,8 +426,8 @@
        <div type="entry">
           <opener><dateline><date when="1815-11-15">November 15</date>.</dateline></opener>   
          <p>The wind altered sufficiently to allow us to
-          escape from <geogName>the Downs</geogName>; and at dusk we were off
-          <geogName>Beachy Head</geogName>. This morning, the <ecda:anonPers>steward</ecda:anonPers> left
+          escape from <placeName>the Downs</placeName>; and at dusk we were off
+          <placeName>Beachy Head</placeName>. This morning, the <ecda:anonPers>steward</ecda:anonPers> left
           the trap-door of the store-hole open; of course, I 
           immediately contrived to step into it, and was on 
           the point of being precipitated to the bottom,
@@ -412,8 +436,8 @@
           was the <emph rend="italic">least</emph> that I could expect. Luckily, I fell
           across the corner of the trap, and managed to support 
           myself, till I could effect my escape with a 
-          bruised knee, and the loss of a few inches of skin 
-          from my left arm.     
+          <seg ana="#injury">bruised knee, and the loss of a few inches of skin 
+          from my left arm</seg>.     
        </p>   
        </div>
                
@@ -424,16 +448,16 @@
       
       <div type="entry">
       <opener><dateline><date when="1815-11-17">November 17</date>.</dateline></opener>     
-       <p>Off the <geogName>St. Alban's Head</geogName>. Sick to death! My
+       <p>Off the <placeName>St. Alban's Head</placeName>. <seg ana="#disease">Sick to death! My
           temples throbbing, my head burning, my limbs 
           freezing, my mouth all fever, my stomach all nausea, 
-          my mind all disgust.
+          my mind all disgust.</seg>
        </p>  
       </div>
      
      <div type="entry">
       <opener><dateline><date when="1815-11-18">November 18</date>.</dateline></opener>     
-        <p>Off <geogName>the Lizard</geogName>, the last point of <placeName>England</placeName>.
+        <p>Off <placeName>the Lizard</placeName>, the last point of <placeName>England</placeName>.
         </p>
      </div>
      <div type="entry">
@@ -484,7 +508,7 @@
     As to our <ecda:commodity ana="#transport #fauna">live stock</ecda:commodity>, they seem to have made up
     their minds on the subject, and say with one of 
     <persName ref="#ludovico_ariosto_1474">Ariosto's</persName> <ecda:anonPers>knights</ecda:anonPers> (when he was cloven from the
-    head to the chine), <quote rend="quotesitalic" source="ariosto_orlando" xml:lang="it">or convien morire.</quote> Our <ecda:fauna ana="#commodity #transport">fowls</ecda:fauna>
+    head to the chine), <quote rend="quotes" source="ariosto_orlando"><foreign rend="italic" xml:lang="it">or convien morire</foreign>.</quote> Our <ecda:fauna ana="#commodity #transport">fowls</ecda:fauna>
     and <ecda:fauna ana="#commodity #transport">ducks</ecda:fauna> are screaming and quacking their last 
     by dozens; and by Tuesday morning, it is supposed
     that we shall not have an animal alive in the ship,
@@ -500,7 +524,7 @@
     I shall remember it as long as I live. The
    <quote rend="quotes" source="sheridan_critic"><rs type="person">beef-eater's</rs> front</quote> could never have <quote rend="quotes" source="sheridan_critic">beamed 
     more terrible</quote> upon <persName ref="#ferolo_whiskerandos_0001">Don Ferolo Whiskerandos</persName>,
-   <quote rend="quotes" source="sheridan_critic">in <placeName>Biscay's Bay</placeName>, when he took him prisoner,</quote>
+   <quote rend="quotes" source="sheridan_critic">in <placeName>Biscay's Bay</placeName>, when he took him prisoner</quote>,
    than <placeName>Biscay's Bay</placeName> itself will appear to <emph rend="italic">me</emph> the next
     time that I approach it.</p>      
    </div>  
@@ -553,7 +577,7 @@
         <lg>
       <l><persName ref="#prometheus_0001">Prometheus</persName> once (in <persName ref="#andrew_tooke_1673">Tooke</persName> the tale you'll see)</l>
      <l>In one vast box enclosed all human evils;</l>
-     <l>But curious Woman needs the inside would see,</l>
+     <l>But curious <name>Woman</name> needs the inside would see,</l>
      <l>And out came twenty thousand million devils.</l>
      </lg>
      
@@ -562,20 +586,20 @@
     <lg>
      <l>The story's spoil'd, and <persName ref="#andrew_tooke_1673">Tooke</persName> should well be chid;</l>
      <l>The fact, sir, happen'd thus, and I've no doubt of it:</l>
-     <l>'Twas not that Woman raised the coffer's lid,</l>
-     <l>But when the lid <emph rend="italic">was</emph> raised, Woman popp'd out of it.</l>
+     <l>'Twas not that <name>Woman</name> raised the coffer's lid,</l>
+     <l>But when the lid <emph rend="italic">was</emph> raised, <name>Woman</name> popp'd out of it.</l>
     </lg>
         
     <lg>
-     <l><quote rend="quotes" source="tooke_pantheon">But Hope remain'd</quote>—true, sir, she did; but still</l>
-     <l>All saw of what Miss Hope gave intimation;</l>
+     <l><quote rend="quotes" source="tooke_pantheon">But <name>Hope</name> remain'd</quote>—true, sir, she did; but still</l>
+     <l>All saw of what <name>Miss Hope</name> gave intimation;</l>
      <l>Her right hand grasp'd an undertaker's bill,</l>
      <l>Her left conceal'd a deed of separation.</l>
    </lg>
      </lg>
     </div>
-    <closer><note type="inline"><p>N. B.I was most horribly sea-sick when I took
- this view of the subject. Besides, <ecda:food ana="#transport">grapes</ecda:food> on ship-
+    <closer><note type="inline"><p>N. B. <seg ana="#disease">I was most horribly sea-sick when I took
+ this view of the subject.</seg> Besides, <ecda:food ana="#transport">grapes</ecda:food> on ship-
  board, in general, are remarkably sour.</p></note></closer>
  </div>
  <div type="entry">
@@ -625,7 +649,7 @@
 <p>But if the water gets <emph rend="italic">into</emph> the ship, on the
    other hand, last night the poor old <ecda:anonPers>steward</ecda:anonPers> was
    very near getting out of it. In the thick of the
-   storm he was carrying some grog to the <ecda:anonPers>mate</ecda:anonPers>, when
+   storm he was carrying some <ecda:food>grog</ecda:food> to the <ecda:anonPers>mate</ecda:anonPers>, when
    a gun, which drove against him, threw him off his
    balance, and he was just passing through one of the
    port-holes, when, luckly, he caught hold of a rope,
@@ -782,7 +806,7 @@
  <div type="entry">
   <opener><dateline><date when="1815-12-01">December 1</date>. <hi rend="mixed">(Friday.)</hi></dateline></opener>   
              
-  <p>The captain to-day pointed out to me a <ecda:anonPers>sailor-
+  <p ana="#injury">The captain to-day pointed out to me a <ecda:anonPers>sailor-
    boy</ecda:anonPers>, who, about three years ago, was shaken from
     the mast-head, and fell through the scuttle into the
     hold: the distance was above <measure>eighty feet</measure>, yet the <ecda:anonPers>
@@ -858,8 +882,8 @@
       and fifty feet</measure>! why, the channel is not <measure>two 
       hundred and fifty feet</measure> wide itself! and as to getting
       her off, bumping against this rock, it can only be
-      with a great hole in her side.</said>—<said rend="quotes">Poh! now, bother,
-      my dear! why sure—</said>—<said rend="quotes">Leave the ship, sir; 
+      with a great hole in her side.</said>—<said rend="quotes"><distinct type="dialect">Poh! now, bother,
+      my dear! why sure</distinct>—</said>—<said rend="quotes">Leave the ship, sir; 
       dam'me, sir, get out of my ship this moment!</said> 
       Instead of which, with the most smiling and obliging 
       air in the world, the <ecda:anonPers>Irishman</ecda:anonPers> turned to console
@@ -929,13 +953,13 @@
    favourable, we may expect to see <placeName>Antigua</placeName>
    on Sunday se'nnight. <ecda:embLore>On crossing the line, it was 
    formerly usual for ships to receive a visit from
-   an <persName ref="#cancer_0001">old gentleman</persName> and his <persName ref="#cancer_0002">wife</persName>, <persName ref="#cancer_0001 camcer_0002">Mr. and Mrs. 
-   Cancer</persName>:  the <persName ref="#cancer_0001">husband</persName> was, by profession, a barber; 
+   an old gentleman and his wife, <persName ref="#cancer_0001 camcer_0002">Mr. and Mrs. 
+   Cancer</persName>:  the husband was, by profession, a barber; 
    and, probably, the <ecda:anonPers>scullion</ecda:anonPers>, who insisted so
    peremptorily on shaving <persName ref="#sancho_panza_0001">Sancho</persName>, at the duke's 
    castle, had served an apprenticeship to <persName ref="#cancer_0001">Mr. Cancer</persName>, 
    for their mode of proceeding was much alike, and, 
-   indeed, very peculiar: the <persName ref="#cancer_0001">old gentleman</persName> always 
+   indeed, very peculiar: the old gentleman always 
    made a point of using a rusty iron hoop instead of
    a razor, tar for soap, and an empty beef-barrel was,
    in his opinion, the very best possible substitute for 
@@ -981,7 +1005,7 @@
              <lg>     
                 <l>Of dark sea-blue is the mantle he wears;</l>
                 <l>For a sceptre a <ecda:flora ana="#commodity #food">plantain branch</ecda:flora> he bears;</l>
-                <l>Pears his sable arms surround,</l>
+                <l><ecda:commodity>Pearls</ecda:commodity> his sable arms surround,</l>
                 <l>And his locks of wool with <ecda:fauna>coral</ecda:fauna> are crown'd</l>
              </lg>
              
@@ -1018,13 +1042,13 @@
                 <l>And kindly breathe, with cooling powers,</l>
                 <l>Through my <ecda:commodity ana="#cultivation #flora">coffee walks</ecda:commodity> and <ecda:commodity ana="#cultivation #flora">shaddock bowers</ecda:commodity>.</l>
              </lg>
-             <lg>     
+             <lg ana="#disease">     
                 <l>Let not thy strange diseases prey</l>
                 <l>On my life; but scare from my couch away</l>
                 <l>The yellow Plague's imps; and safe let me rest</l>
                 <l>From that dread black demon, who racks the breast:</l>
              </lg>
-             <lg>     
+             <lg ana="#disease">     
                 <l>Nor force my throbbing temples to know</l>
                 <l>Thy sunbeam's sudden and maddening blow;</l>
                 <l>Nor bid thy day-flood blaze too bright</l>
@@ -1067,7 +1091,7 @@
         last voyage, among the <ecda:commodity ana="#transport #flora">logwood</ecda:commodity>. This is not the
         only species of disagreeable passengers, who are
         in the habit of introducing themselves into homeward
-        bound vessels without leave. While sleeping 
+        bound vessels without leave. <seg ana="#injury">While sleeping 
         on deck last year the <rs type="person" ref="#boyes_0001">Captain</rs> felt something
         run across his face; and, supposing it to be a
         <ecda:fauna>cock-roach</ecda:fauna>, he brushed off a <ecda:fauna>scorpion</ecda:fauna>; but not
@@ -1075,7 +1099,7 @@
         pain for about <measure>four hours</measure> was excessive; but
         although he did no more than wash the wound 
         with <ecda:food>spirits</ecda:food>, he was perfectly well again in a couple 
-        of days.</p>  
+        of days.</seg></p>  
        
     </div>           
                
@@ -1083,7 +1107,7 @@
      
  <div type="entry">
  <opener><dateline><date when="1815-12-12">December 12</date>.</dateline></opener> 
-    <p>Since we entered the tropic, the rains have been
+    <p>Since we entered the <rs type="place">tropic</rs>, the rains have been
        incessant, and most violent; but the wind was 
        brisk and favourable, and we proceeded rapidly.
        Now we have lost the trade-wind and move so
@@ -1189,7 +1213,7 @@
     of <placeName>Jamaica</placeName>. We were promised the sight
       <pb n="36"/>
       <fw type="pageNum">28</fw>  
-   of Antigua on Sunday next, but that is now quite 
+   of <placeName>Antigua</placeName> on Sunday next, but that is now quite 
    out of the question. We made but <measure>eight miles</measure> in
    the whole of yesterday; and as <placeName>Jamaica</placeName> is still at 
    the distance of <measure>eighteen hundred miles</measure>, at this rate 
@@ -1257,7 +1281,7 @@
           <l>Hark! the bell! it sounds midnight!—all hail, thou new heav'n!</l>
           <l>How soft sleep the stars on their bosom of night!</l>
           <l>While o'er the full moon, as they gently are driven,</l>
-          <l>Slowly floating the clouds bathe their fleeces in light</l>
+          <l>Slowly floating the clouds bathe their fleeces in light.</l>
        </lg>
       
       <pb n="38"/>
@@ -1272,7 +1296,7 @@
       <lg>
          <l>That <ecda:anonPers>sailor</ecda:anonPers> I've noted—his cheek, fresh and blooming</l>
          <l>With health, scarcely yet twenty springs can have seen;</l>
-         <l>His looks they are lofty, but never presuming</l>
+         <l>His looks they are lofty, but never presuming,</l>
          <l>His limbs strong, but light, and undaunted his mein.</l>
       </lg>
       <lg>
@@ -1284,7 +1308,7 @@
       <lg>
          <l>His song is not pour'd to beguile the lone hour,</l>
          <l>When mid-watch on deck 'tis his duty to keep;</l>
-         <l>Nor of painful reflection to weaken the power</l>
+         <l>Nor of painful reflection to weaken the power,</l>
          <l>Nor chase from his eyelids the pinions of sleep.</l>
       </lg>
       <lg>
@@ -1303,7 +1327,7 @@
          <l>No, no! 'tis a <ecda:anonPers>sweetheart</ecda:anonPers>, his soul's cherish'd treasure,</l>
          <l>Those full melting notes...hark! he breaths them again!</l>
          <l>So mournful, and yet they're prolong'd with such pleasure......</l>
-         <l>Oh, nothing but love could have prompted the strain</l>
+         <l>Oh, nothing but love could have prompted the strain.</l>
       </lg>
       
       <pb n="39"/>
@@ -1352,7 +1376,7 @@
        <fw type="pageNum">32</fw>  
       or at least the <rs type="place">tropic</rs>, we should have seen whole
        shoals of <ecda:fauna>sharks</ecda:fauna>, <ecda:fauna>whales</ecda:fauna>, and <ecda:fauna>dolphins</ecda:fauna> wandering
-       about  as plenty as <ecda:fauna>sheep</ecda:fauna> upon the <geogName>South Downs</geogName>:
+       about  as plenty as <ecda:fauna>sheep</ecda:fauna> upon the <placeName>South Downs</placeName>:
        instead of which, a brace of <ecda:fauna>dolphins</ecda:fauna>, and a few 
        <ecda:fauna>flying fish</ecda:fauna> and <ecda:fauna>porpoises</ecda:fauna>, are the only inhabitants 
        of the ocean who have as yet taken the
@@ -1393,12 +1417,12 @@
          <said rend="quotes">She was perfectly consistent,</said> he said to himself;
          <said rend="quotes">she was excellent through life, and really she's
          extremely good now she's dead!</said> and then,
-         <quote rend="quotes" source="handel_feast">unable to conceal his pain,</quote>
+         <quote rend="quotes" source="handel_feast">unable to conceal his pain</quote>,
          <quote rend="quotes" source="handel_feast"><lg><l>He sigh'd and swallow'd, and sigh'd and swallow'd,</l>
          <l>And sigh'd and swallow'd again.</l></lg></quote>
        I doubt, whether the annals of <persName ref="#hymen_0001">Hymen</persName> can produce
          a similar instance of post-obitual affection, Certainly
-         <persName ref="#calderon_1600">Calderon's</persName> <title rend="quotesitalic" ref="#calderon_tuzani" xml:lang="es">Amor despues de la Muerte</title>
+         <persName ref="#calderon_1600">Calderon's</persName> <title rend="quotes" ref="#calderon_tuzani"><foreign rend="italic" xml:lang="es">Amor despues de la Muerte</foreign></title>
          has nothing that is worthy to be compared to it;
          nor do I recollect in history any fact at all resembling
          it, except perhaps a circumstance which is
@@ -1469,7 +1493,7 @@
        for instance), or any which might interest them as
        relating to their profession, such as voyages and
        travels; much less any which had the slightest
-       reference to the particular day. however, as most
+       reference to the particular day. However, as most
        of them were reading what they could not possibly
        understand, they might mistake them for books of
        devotion, for any thing they knew to the contrary;
@@ -1484,7 +1508,7 @@
        
        greve's</persName> fine ladies swears <persName ref="#mincing_0001">Mrs. Mincing</persName>, the waiting
        maid, to secrecy, <quote rend="quotes" source="congreve_world">upon an old volume of 
-       <title ref="#messalina_poems"><persName ref="#valeria_messalina_17">Messalina's</persName> Poems</title>.</quote> <persName ref="#dudley_north_1641">Sir Dudley North</persName>, too, informs
+       <title ref="#messalina_poems"><persName ref="#valeria_messalina_17">Messalina's</persName> Poems</title>.</quote> <seg ana="#medical"><persName ref="#dudley_north_1641">Sir Dudley North</persName>, too, informs
        us, (or is it his brother <persName ref="#roger_north_1651">Roger</persName>? but I mean
        the <rs type="person"><rs type="properAdjective">Turkey</rs> merchant</rs>:)—that at <placeName>Constantinople</placeName>
        the respect for printed books is so great, that when
@@ -1499,7 +1523,7 @@
        and in an old receipt-book, we are directed 
        for the cure of double tertial fever, <quote rend="quotes">to
        drink plentifully of <ecda:food ana="#fauna">cock-broth</ecda:food>, and sleep with the
-       <title ref="#homer_iliad">Second Book of the Iliad</title> under the pillow.</quote> If,
+       <title ref="#homer_iliad">Second Book of the Iliad</title> under the pillow.</quote></seg> If,
        instead of sleeping with it under the pillow,
        the doctor had desired us to read the <title ref="#homer_iliad">Second Book of
        the Iliad</title> in order that we <emph rend="italic">might</emph> sleep, I should
@@ -1633,12 +1657,12 @@
         trade wind; nor could any possible efforts of the 
         crew, by tacking, by towing, or otherwise, ever
         enable the vessel to conquer that <measure>one hundred and
-        fifty yards</measure>: there she remained, as completely becalmed
+        fifty yards</measure>: <seg ana="#military">there she remained, as completely becalmed
         as if there were not such a thing as a 
         breath of wind in the universe; and on the one 
         hand she had the mortification to see the rest of the 
         merchantmen, with their convoy (for it was in the 
-        very heat of the war), sail away with all their canvass
+        very heat of the war)</seg>, sail away with all their canvass
         spread and swelling; while, on the other
         hand, the <rs type="persGroup">sailors</rs> had the comfortable possibility of
         being suffocated every moment by the clouds of
@@ -1682,17 +1706,17 @@
    </div> 
   <pb n="50"/>
   <fw type="pageNum">42</fw>              
-    <div type="entry">
+    <div type="entry" ana="#military">
     <opener><dateline><date when="1815-12-22">December 22</date>.</dateline></opener>       
      <p>About three years ago, the <rs type="person" ref="#boyes_0001">Captain</rs> had the ill
         luck to be captured by a <rs type="properAdjective">French</rs> frigate. As she
         had already made prizes of two other merchantmen, 
         it was determined to sink his ship; which, 
-        after removing the crew and every thing in her
+        after removing the <rs type="persGroup">crew</rs> and every thing in her
         that was valuable, was effected by firing her own
         guns down the hatchways. It was near three 
         hours before she filled, then down she went with a 
-        single plunge, head foremost, with all her saisl set
+        single plunge, head foremost, with all her sails set
         and colours flying. This display of the ship's 
         magnificence in her last moments reminded me of
         <persName ref="#mary_stuart_1542">Mary Queen of Scots</persName>, arraying herself in her
@@ -1718,7 +1742,7 @@
            <l>And hath he back those treasures sent,</l>
            <l>His stormy rage devoured?</l>
            <l>All starred with gems the billows bound,</l>
-           <l>And emeralds, jacinths, sapphires round</l>
+           <l>And <ecda:commodity>emeralds</ecda:commodity>, <ecda:commodity>jacinths</ecda:commodity>, <ecda:commodity>sapphires</ecda:commodity> round</l>
            <l>The bark in spray are showered.</l>
         </lg> 
         <lg>
@@ -1798,12 +1822,12 @@
     <div type="entry">
   <opener><dateline><date when="1815-12-25">December 25</date>.</dateline></opener> 
       <p>The sun rose upon <placeName>Montserrat</placeName> and <placeName>Nevis</placeName>, with
-         the <geogName xml:lang="it" rend="italic">Rodono rock</geogName> between them, <quote xml:lang="la" source="virgil_aeneid">apricis natio
+         the <placeName xml:lang="it" rend="italic">Rodono rock</placeName> between them, <quote xml:lang="la" source="virgil_aeneid">apricis natio
          gratissima mergis</quote>,—for it is perpetually covered
          with innumerable flocks of <ecda:fauna>gulls</ecda:fauna>, <ecda:fauna>boobies</ecda:fauna>, <ecda:fauna>pelicans</ecda:fauna>,
          and other <ecda:fauna>sea birds</ecda:fauna>. Then came <placeName>St. Christopher's</placeName>
          and <placeName>St. Eustatia</placeName>; and in the course of
-         the afternoon we passed over the <geogName><foreign xml:lang="es" rend="italic">Aves</foreign> bank</geogName>, a
+         the afternoon we passed over the <placeName><foreign xml:lang="es" rend="italic">Aves</foreign> bank</placeName>, a
          collection of sand, rock, and mud, extending about
          two hundred miles, and terminated at each end by
          a small island: one of them inhabited by a few
@@ -1829,7 +1853,7 @@
          
  <pb n="54"/>
  <fw type="pageNum">46</fw>  
-         did on the <geogName>Thames</geogName>, and had <quote rend="quotes" source="pope_lock">made all the world
+         did on the <placeName>Thames</placeName>, and had <quote rend="quotes" source="pope_lock">made all the world
          look gay</quote>. During the night we passed <placeName>Santa Cruz</placeName>,
          an island which, from the perfection to which its
          cultivation has been carried, is called <quote rend="quotes">the Garden
@@ -1840,9 +1864,9 @@
   <div type="entry">
      <opener><dateline><date when="1815-12-28">December 28</date>.</dateline></opener> 
      <p>Having left <placeName>Porto Rico</placeName> behind us, at noon to-
-        day we passed the insulated rock of <geogName>Ancavella</geogName>,
+        day we passed the insulated rock of <placeName>Ancavella</placeName>,
         lying about six miles from <placeName>St. Domingo</placeName>, which
-        is now in sight. As this part of the <placeName>Caribbean
+        is now in sight. <seg ana="#military">As this part of the <placeName>Caribbean
         Sea</placeName> is much infested by <rs type="persGroup">pirates</rs> from the <placeName>Caraccas</placeName>,
         all our muskets have been put in repair,
         and to-day the guns were loaded, of which we 
@@ -1855,13 +1879,13 @@
         four pounder, which moves upon a swivel, and their
         crew is composed of <rs type="persGroup">negroes</rs> and <rs type="persGroup">outlaws of all
         nations</rs>, their numbers generally running from one
-        hundred to one hundred and fifty men. To-day,
+        hundred to one hundred and fifty men.</seg> To-day,
         for the first time, I saw some <ecda:fauna>flying fish</ecda:fauna>: we have
         also been visited by several <ecda:fauna>men-of-war birds</ecda:fauna> and
         <ecda:fauna>tropic birds</ecda:fauna>; the latter is a species of <ecda:fauna>gull</ecda:fauna>, perfectly
         white, and distinguished by a single very
-        long feather in its tail: its nautical name is <ecda:fauna rend="quotes">the
-        boatswain</ecda:fauna>.</p>
+        long feather in its tail: its nautical name is <ecda:fauna><distinct type="nautical" rend="quotes">the
+        boatswain</distinct></ecda:fauna>.</p>
   <pb n="55"/>
   <fw type="pageNum">47</fw>       
      <p>As we sail along, the air is absolutely loaded with
@@ -1870,7 +1894,7 @@
        </div>
     <div type="entry">
        <opener><dateline><date when="1815-12-30">December 30</date>.</dateline></opener> 
-      <p>At day-break Jamaica was in sight, or rather
+      <p>At day-break <placeName>Jamaica</placeName> was in sight, or rather
          it would have been in sight, only that we could
          not see it. The weather was so gloomy, and the
          wind and rain were so violent, that we might have said
@@ -1887,8 +1911,12 @@
          and lungs of my <rs type="persGroup">agents</rs> and <rs type="persGroup">overseers</rs>, who, for
          the last twenty years, have been reigning in my
          dominions with despotic authority; but now
-         <quote rend="quotes" source="scott_minstrel"><lg><l>Whose groans in roaring winds complain,</l>
-         <l>Whose tears of rage impel the rain;</l></lg></quote>
+         <quote rend="quotes" source="scott_minstrel">
+        <lg>
+         <l>Whose groans in roaring winds complain,</l>
+         <l>Whose tears of rage impel the rain;</l>
+        </lg>
+      </quote>
          because, on the approach of the sovereign himself,
          they must evacuate the palace, and resign the deputed
          sceptre. <quote rend="quotes">Hinc Illæ lachrymæ!</quote> this is
@@ -1919,7 +1947,7 @@
          drop anchor, and are now riding within a couple 
          of miles of the shore, but with as utter an incapability
          of reaching it as if we were still at 
-         <placeName>Gravesend</placeName>. The north side of the island is said to
+         <placeName>Gravesend</placeName>. The north side of the <rs type="place">island</rs> is said to
          be extremely beautiful and romantic; but the south,
          which we coasted to-day, is low, barren, and without
          any recommendation whatever. As yet I can 
@@ -1934,7 +1962,7 @@
      <div type="entry">
         <opener><dateline><date when="1815-12-31">December 31</date>. <hi rend="mixed">(Sunday.)</hi></dateline></opener>    
        <p>We passed the whole of the day in vain endeavours
-          to work ourselves into the bay. At one
+          to work ourselves into the <rs type="place">bay</rs>. At one
           time, indeed, we got very near the shore, but the
           consequence was, that we were within an ace of
           striking upon a rock, and very much obliged to
@@ -1952,7 +1980,7 @@
           <placeName>Savannah la Mar</placeName>, when I should find myself
           within a few miles of <rs type="place">my own house</rs>.  
        </p> 
-        <p>In the course of the afternoon, one of the sailors
+        <p>In the course of the afternoon, <ecda:anonPers>one of the sailors</ecda:anonPers>
            took up a fish of a very singular shape and most
            brilliant colours, as it floated along upon the water.
            It seemed to be gasping, and lay with its belly upwards;
@@ -1981,7 +2009,7 @@
            a <ecda:food ana="#flora">water-melon</ecda:food>. I have never met with a worse article
            in my life; the pulp is of a faint greenish yellow,
            stained here and there with spots of moist red, so
-           that it looks exactly as if the servant in slicing it
+           that it looks exactly as if the <ecda:anonPers>servant</ecda:anonPers> in slicing it
            had cut his finger, and suffered it to bleed over
            the fruit. Then the seeds, being of a dark purple,
            present the happiest imitation of drops of clotted
@@ -1997,7 +2025,7 @@
   <div type="entry">
      <opener><dateline><date when="1816-01-01">1816.—January 1</date>.</dateline></opener>     
     <p>At length the ship has squeezed herself into
-       this champagne bottle of a bay! Perhaps, the 
+       this champagne bottle of a <rs type="place">bay</rs>! Perhaps, the 
        
  <pb n="59"/>
  <fw type="pageNum">51</fw>  
@@ -2009,16 +2037,16 @@
       with their lattices and piazzas completely embowered 
       in <ecda:flora>trees</ecda:flora>, altogether made the scenery of the
       <placeName>Bay</placeName> wear a very picturesque appearance. And,
-      to complete the charm, the sudden sounds of the
+      to complete the charm, <seg ana="#performance">the sudden sounds of the
       drum and banjee, called our attention to a procession 
       of the <ecda:anonPers><name><distinct rend="italic" type="dialect" ana="#performance">John-Canoe</distinct></name></ecda:anonPers>, which was proceeding to
       celebrate the opening of the new year at the town
       of <placeName>Black River</placeName>. The <name><distinct type="dialect" ana="#performance">John-Canoe</distinct></name> is a <name><distinct type="dialect" ana="#performance">Merry-
       Andrew</distinct></name> dressed in a striped doublet, and bearing
       upon his head a kind of pasteboard house-boat,
-      filled with puppets, representing, some sailors, others
-      soldiers, others again slaves at work on a plantation,
-      &amp;c. The <rs type="persGroup">negroes</rs> are allowed three days for
+      filled with puppets, representing, <rs type="persGroup">some sailors, others
+      soldiers, others again slaves at work on a plantation</rs>,
+      &amp;c.</seg> The <rs type="persGroup">negroes</rs> are allowed three days for
       holidays at <name>Christmas</name>, and also <name>New-year's day</name>,
       which being the last is always reckoned by them
       as the festival of the greatest importance. It is 
@@ -2027,7 +2055,7 @@
       and expense to the greatest advantage; and it is
       then that the <name ana="#performance">John-Canoe</name> is considered not merely
       as a person of material consequence, but one whose
-      presence is absolutely indispensable. Nothing could
+      presence is absolutely indispensable. <seg ana="#performance">Nothing could
       look more gay than the procession which we now
       saw with its <rs type="persGroup">train of attendants</rs>, all dressed in white, 
    <pb n="60"/>
@@ -2039,7 +2067,7 @@
       behind a projecting clump of <ecda:flora>mangrove trees</ecda:flora>, and
       then again emerging into an open part of the road,
       as it wound along the shores towards the town of 
-      <placeName>Black River</placeName>.
+      <placeName>Black River</placeName>.</seg>
        —<quote rend="quotes" source="virgil_aeneid" xml:lang="it"><lg><l>Magno telluris amore</l>
        <l>Egressi optatâ <name>Tröes</name> potiuntur arenâ.</l></lg></quote>
       I had determined not to go on shore, till I should
@@ -2064,9 +2092,9 @@
     </p>
   <pb n="61"/>
   <fw type="pageNum">53</fw> 
-  <p>It seems that, many years ago, an <ecda:anonPers>Admiral of the
-     Red</ecda:anonPers> was superseded on the <placeName>Jamaica</placeName> station by an
-     <ecda:anonPers>Admiral of the Blue</ecda:anonPers>; and both of them gave balls
+  <p ana="#performance">It seems that, many years ago, an <ecda:anonPers>Admiral of the
+     <rs type="properAdjective">Red</rs></ecda:anonPers> was superseded on the <placeName>Jamaica</placeName> station by an
+     <ecda:anonPers>Admiral of the <rs type="properAdjective">Blue</rs></ecda:anonPers>; and both of them gave balls
      at <placeName>Kingston</placeName> to the <distinct type="dialect" rend="quotes"><rs type="persGroup" rend="italic">Brown Girls</rs></distinct>; for the fair sex
      elsewhere are called the <distinct type="dialect" rend="quotes"><rs type="persGroup">Brown Girls</rs></distinct> in <placeName>Jamaica</placeName>.
      In consequence of these balls, all <placeName>Kingston</placeName> was divided 
@@ -2089,23 +2117,23 @@
      of deprecation with which the <name>Blues</name> and the <name>Reds</name>
      of <placeName>Black River</placeName> examined the efforts at display of 
      each other. The <name>Blues</name> had the advantage beyond
-     a doubt; this <ecda:anonPers>a Red girl</ecda:anonPers> told us that she could not
+     a doubt; this <ecda:anonPers>a <rs type="properAdjective">Red</rs> girl</ecda:anonPers> told us that she could not
      deny; but still, <said direct="false" rend="quotes">though the <name>Reds</name> were beaten,
-     she would not be a Blue girl for the whole universe!</said>
+     she would not be a <rs type="properAdjective">Blue</rs> girl for the whole universe!</said>
      On the other hand, <persName ref="#edwards_0001">Miss Edwards</persName> (the 
      mistress of the hotel from whose window we saw 
   <pb n="62"/>
   <fw type="pageNum">54</fw> 
-     the show), was rank Blue to the very tips of her
-     finters, and had, indeed, contributed <ecda:anonPers>one of her
+     the show), was rank <rs type="properAdjective">Blue</rs> to the very tips of her
+     fingers, and had, indeed, contributed <ecda:anonPers>one of her
      female slaves</ecda:anonPers> to sustain a very important character
-     in the show; for when the Blue procession was ready
+     in the show; for when the <rs type="properAdjective">Blue</rs> procession was ready
      to set forward, there was evidently a hitch, something
      was wanting; and there seemed to be no
      possibility of getting on without it—when suddenly
      we saw a tall woman dressed in mourning (being
      <persName ref="#edwarts_0001">Miss Edwards</persName> herself) rush out of our hotel, dragging
-     along by the hand <seg ana="#performance"><ecda:anonPers>a strange uncouth kind 
+     along by the hand <ecda:anonPers>a strange uncouth kind 
      of glittering tawdry figure</ecda:anonPers>, all feathers, and pitch-
      fork, and painted pasteboard, who moved most
      reluctantly, and turned out to be no less a personage
@@ -2120,18 +2148,18 @@
      position. The music struck up; <persName ref="#edwards_0001">Miss Edwards</persName>
      gave the <ecda:anonPers>Goddess</ecda:anonPers> a great push forwards; the drum-
      sticks and the elbows of the <rs type="persGroup">fiddlers</rs> attacked her
-     in the rear; and on went <ecda:anonPers><name>Britannia</name></ecda:anonPers> willy-nilly!</seg>
+     in the rear; and on went <ecda:anonPers><name>Britannia</name></ecda:anonPers> willy-nilly!
   </p>  
-    <p><rs type="persGroup">The Blue girls</rs> called themselves <quote rend="quotes"><rs type="persGroup">the Blue girls</rs>
+    <p ana="#performance"><rs type="persGroup">The <rs type="properAdjective">Blue</rs> girls</rs> called themselves <quote rend="quotes"><rs type="persGroup">the <rs type="properAdjective">Blue</rs> girls</rs>
      of <placeName>Waterloo</placeName></quote>. Their motto was the more patriotic;
-     that of the Red was the more gallant:—<quote rend="quotes"><name>Britannia</name>
-     rules the day!</quote> streamed upon the Blue flag;
-     <quote rend="quotes"><rs type="persGroup">Red girls</rs> for ever!</quote> floated upon the Red. But, 
+     that of the <rs type="properAdjective">Red</rs> was the more gallant:—<quote rend="quotes"><name>Britannia</name>
+     rules the day!</quote> streamed upon the <rs type="properAdjective">Blue</rs> flag;
+     <quote rend="quotes"><rs type="persGroup"><rs type="properAdjective">Red</rs> girls</rs> for ever!</quote> floated upon the <rs type="properAdjective">Red</rs>. But, 
  <pb n="63"/>
  <fw type="pageNum">55</fw> 
      in point of taste and invention, the former carried
      it hollow. First marched <ecda:anonPers><name>Britannia</name></ecda:anonPers>; then came a
-       band of music; then the flag; then the <ecda:anonPers>Blue King</ecda:anonPers>
+       band of music; then the flag; then the <ecda:anonPers><rs type="properAdjective">Blue</rs> King</ecda:anonPers>
        and <ecda:anonPers>Queen</ecda:anonPers>—the <ecda:anonPers>Queen</ecda:anonPers> splendidly dressed in
        white and silver (in scorn of the opposite party, her
        train was born by a <ecda:anonPers>little girl</ecda:anonPers> in red); his <ecda:anonPers>Majesty</ecda:anonPers>
@@ -2141,16 +2169,16 @@
        followed by <name rend="quotes"><persName ref="#horatio_nelson_1758">Nelson's</persName> car</name>, being a kind of canoe
        decorated with blue and silver drapery, and with
        <quote rend="quotes">Trafalgar</quote> written on the front of it; and the
-       procession was closed by a long train of <rs type="persGroup">Blue
+       procession was closed by a long train of <rs type="persGroup"><rs type="properAdjective">Blue</rs>
        grandees</rs> (the <rs type="persGroup">women</rs> dressed in uniforms of white,
        with robes of blue muslin), all Princes and Princesses,
        Dukes and Duchesses, every mother's child
        of them.
     </p>
-     <p><rs type="persGroup">The Red girls</rs> were also dressed very gaily
+     <p ana="#performance"><rs type="persGroup">The <rs type="properAdjective">Red</rs> girls</rs> were also dressed very gaily
         and prettily, but they had nothing in point of
         invention that could vie with <name><persName ref="#horatio_nelson_1758">Nelson's</persName> Car</name> and 
-        <ecda:anonPers><name>Britannia</name></ecda:anonPers>; and when the Red throne made its
+        <ecda:anonPers><name>Britannia</name></ecda:anonPers>; and when the <rs type="properAdjective">Red</rs> throne made its
         appearance, language cannot express the contempt
         with which our landlady eyed it. <said rend="quotes">It was neither
         one thing nor t'other</said>, <persName ref="#edwards_0001">Miss Edwards</persName> was of opinion.
@@ -2165,7 +2193,7 @@
        body had just snatched at a medal which <ecda:anonPers><name>Britannia</name></ecda:anonPers>
        wore round her neck, and had endeavoured to force 
        it away. I asked her who had done so? <said rend="quotes">Oh,
-       one of the Red party, <emph rend="italic">of course</emph>!</said> The Red party
+       one of the <rs type="properAdjective">Red</rs> party, <emph rend="italic">of course</emph>!</said> The <rs type="properAdjective">Red</rs> party
        was evidently <persName ref="#edwards_0001">Miss Edwards's</persName> <persName ref="#grundy_0001">Mrs. Grundy</persName>. <ecda:anonPers><name ana="#performance">John-
        Canoe</name></ecda:anonPers> made no part of the procession; but he and 
         his rival <ecda:anonPers><name ana="#performance">John-Crayfish</name></ecda:anonPers> (a personage of whom I
@@ -2174,14 +2202,14 @@
         from house to house, tumbling and playing antics
         to pick up <seg ana="#currency">money</seg> for themselves.
      </p>
-     <p><seg ana="#performance">A play was now proposed to us, and, of course, 
+     <p ana="#performance">A play was now proposed to us, and, of course, 
         accepted. <rs type="persGroup">Three men</rs> and <ecda:anonPers>a girl</ecda:anonPers> accordingly
         made their appearance; the <rs type="persGroup">men</rs> dressed like the
         tumblers at <placeName><persName ref="#philip_astley_1742">Astley's</persName></placeName>, the <ecda:anonPers>lady</ecda:anonPers> very tastefully in
         white and silver, and all with their faces concealed
         by masks of thin blue silk; and they 
         proceeded to perform the quarrel between <persName ref="#douglas_0001">Douglas</persName>
-        and <persName ref="#glenalvo_0001">Glenalvon</persName>, and the fourth act of <title rend="quotes" ref="#rowe_penitent">The
+        and <persName ref="#glenalvon_0001">Glenalvon</persName>, and the fourth act of <title rend="quotes" ref="#rowe_penitent">The
         Fair Penitent</title>. They were all quite perfect, and had
         no need of a prompter. As to <ecda:anonPers><persName ref="#lothario_0001">Lothario</persName></ecda:anonPers>, he was
         by far the most comical dog that I ever saw in 
@@ -2197,10 +2225,10 @@
    <fw type="pageNum">57</fw>         
        <ecda:anonPers>another</ecda:anonPers> dancing to the tune, while she presented
        her <seg ana="#money">money-box</seg> to the <rs type="persGroup">spectators</rs>, and the rest of
-       <rs type="persGroup">the Blue girls</rs> filling up the chorus. I cannot say
+       the <rs type="persGroup"><rs type="properAdjective">Blue</rs> girls</rs> filling up the chorus. I cannot say
         much in praise of the <ecda:anonPers>black <persName ref="#angelica_catalani_1780">Catalani</persName></ecda:anonPers>; but nothing
         could be more light, and playful, and graceful,
-        than the extempore movements of the <ecda:anonPers>dancing girl</ecda:anonPers>.</seg>
+        than the extempore movements of the <ecda:anonPers>dancing girl</ecda:anonPers>.
         Indeed, through the whole day, I had been struck
         with the precision of their march, the ease and
         grace of their action, the elasticity of their step,
@@ -2216,9 +2244,9 @@
         she said, but as well as I could understand them,
         the words ran as follows:—
        <ecda:embLore> <quote rend="quotes"><lg type="song">
-           <l>Come, rise up, our gentry,</l>
+           <l>Come, rise up, our <rs type="persGroup">gentry</rs>,</l>
            <l>And hear about <rs type="person" ref="#arthur_wellesley_1769"><placeName>Waterloo</placeName></rs>;</l>
-           <l>Ladies, take your spy-glass,</l>
+           <l><rs type="persGroup">Ladies</rs>, take your spy-glass,</l>
            <l>And attend to what we do;</l>
            <l>For one and one makes two,</l>
            <l>But one alone must be.</l>
@@ -2227,7 +2255,7 @@
         </lg>
        </quote>
        —and then there came something about <ecda:flora>green and
-       white flowers</ecda:flora>, and a Duchess, and a <ecda:fauna>lily-white Pig</ecda:fauna>,
+       white flowers</ecda:flora>, and a <ecda:anonPers>Duchess</ecda:anonPers>, and a <ecda:fauna>lily-white Pig</ecda:fauna>,
  <pb n="66"/>
  <fw type="pageNum">58</fw> 
       and going on board of a dashing man of war; but
@@ -2266,17 +2294,17 @@
       when some thoughtless fellow crossed the line of
       the procession, and received by the way a good
       box of the ear from the <ecda:anonPers>Queen</ecda:anonPers> or one of her attendant
-      <rs type="persGroup">Duchesses</rs>. Every body made the same remark
+      <rs type="persGroup">Duchesses</rs>. <seg ana="#abolition">Every body made the same remark
       to me; <said rend="quotes">Well, sir, what do you think <persName ref="#william_wilberforce_1759">Mr. Wilberforce</persName>
       would think of the state of the <rs type="persGroup">negroes</rs>, if he
       could see this scene?</said> and certainly, to judge by
       this one specimen, of all beings I have yet 
-      seen, these were the happiest. As we were passing
+      seen, these were the happiest.</seg> As we were passing
       to our boat, through the market-place, suddenly
       we saw <persName ref="#edwards_0001">Miss Edwards</persName> dart out of the crowd, and
       seize the <rs type="person" ref="#boyes_0001">Captain's</rs> arm—<said rend="quotes">Captain! Captain!</said>
       cried she, <said rend="quotes">for the love of Heaven, only look at
-      the <emph rend="italic">Red</emph> lights! Old iron hoops, nothing but old
+      the <emph rend="italic"><rs type="properAdjective">Red</rs></emph> lights! Old iron hoops, nothing but old
       iron hoops, I declare! Well! for my part!</said> and
       then, with a contemptuous toss of her head, away
       frisked <persName ref="#edwards_0001">Miss Edwards</persName> triumphantly.
@@ -2348,9 +2376,9 @@
         see we, Massa; good Massa, come at last</distinct>.</said> As for
         <rs type="persGroup">the old people,</rs> they were all in one and the same
         story: now they had lived to see <distinct type="dialect">Massa</distinct>, they
-        were ready for dying to-morrow, <said rend="quotes"><distinct type="dialect">them no care</distinct>.</said>       
+        were ready for dying to-morrow, <said rend="quotes" direct="false"><distinct type="dialect">them no care</distinct>.</said>       
      </p>
-     <p>The shouts, the gaiety, the wild laughter, their
+     <p><seg ana="#performance">The shouts, the gaiety, the wild laughter, their
         strange and sudden bursts of dancing,
         and several <rs type="persGroup">old women</rs>, wrapped up in large cloaks,
         their heads bound round with different-coloured
@@ -2358,7 +2386,7 @@
         motionless in the middle of the hubbub, with their
         eyes fixed upon the portico which I occupied,
         formed an exact counterpart of the festivity of the
-        <rs type="persGroup">witches</rs> in <title ref="#shakespeare_macbeth"><persName ref="#macbeth_0001">Macbeth</persName></title>. Nothing could be more odd
+        <rs type="persGroup">witches</rs> in <title ref="#shakespeare_macbeth"><persName ref="#macbeth_0001">Macbeth</persName></title>.</seg> Nothing could be more odd
         or more novel than the whole scene; and yet there
         was something in it by which I could not help 
         being affected; perhaps it was the consciousness 
@@ -2367,8 +2395,8 @@
         that <rs type="persGroup">all these human beings</rs> were my <rs type="persGroup"><emph rend="italic">slaves</emph></rs>;—to be
         sure, I never saw people look more happy in my 
         life; and I believe their condition to be much
-        more comfortable than that of the labourors of 
-        <placeName>Great Britain</placeName>; and, after all, slavery, in <emph rend="italic">their</emph> case,
+        more comfortable than that of the <rs type="persGroup">labourors of 
+        <placeName>Great Britain</placeName></rs>; and, after all, slavery, in <emph rend="italic">their</emph> case,
         is but another name for servitude, now that no
         more <rs type="persGroup">negroes</rs> can be forcibly carried away from
         <placeName>Africa</placeName>, and subjected to the horrors of the voyage,
@@ -2415,8 +2443,8 @@
           three hundred <rs type="persGroup">negroes</rs>, and not one of them a
           serious case. Yesterday I had observed a remarkably 
           handsome <rs type="properAdjective">Creole</rs> girl, called <persName ref="#psyche_0001">Psyche</persName>, and she
-          really deserved the name. This morning a little
-          brown girl made her appearance at breakfast, with
+          really deserved the name. This morning a <ecda:anonPers>little
+          brown girl</ecda:anonPers> made her appearance at breakfast, with
           an <ecda:flora>orange bough</ecda:flora>, to flap away the <ecda:fauna>flies</ecda:fauna>, and, on
           enquiry, she proved to be an emanation of the
           aforesaid <persName ref="#psyche_0001">Psyche</persName>. It is evident, therefore, that
@@ -2447,14 +2475,14 @@
           The dreaded <ecda:fauna>mosquitoes</ecda:fauna> are not worse than <ecda:fauna>gnats</ecda:fauna>,
           nor as bad as the <ecda:fauna><rs type="properAdjective">Sussex</rs> harvest-bugs</ecda:fauna>; and, as yet
           I never felt myself in more perfect health. There
-          was a man once, who fell from the top of a steeple;
+          was a <ecda:anonPers>man</ecda:anonPers> once, who fell from the top of a steeple;
           and, perceiving no inconvenience in his passage
           through the air,—<said rend="quotes">Come,</said> said he to himself, while
           in the act of falling, <said rend="quotes">really this is well enough yet
           if it would but last.</said> <persName ref="#cubina_0001">Cubina</persName>, my young <placeName>Savannah
           la Mar</placeName> acquaintance, is appointed my black attendant;
           and as I had desired him to bring me any
-          native flowers of <placeName>Jamaica</placeName>, this evening he brought
+          native <ecda:flora>flowers</ecda:flora> of <placeName>Jamaica</placeName>, this evening he brought
           me a very pretty one; the <rs type="persGroup">negroes</rs>, he said, called 
           it <ecda:flora><distinct rend="quotes" type="dialect">John-to-Heal</distinct></ecda:flora>, but in white language it was
           <ecda:flora><distinct rend="italic" type="dialect">hoccoco-pickang</distinct></ecda:flora>; it proved to be the wild <ecda:flora><distinct type="scientific">Ipecacuanha</distinct></ecda:flora>
@@ -2474,7 +2502,7 @@
             three; walked home from a ball after midnight;
             and that home was a <rs type="place">lodging-house</rs> at <placeName>Montego
             Bay</placeName>; but the <rs type="place">lodging-house</rs> was such a cool clean
-            <rs type="place">lodging-house</rs>, and the <rs type="person" ref="#judy_james_0001">landlady</rs> was such an obliging
+            <rs type="place">lodging-house</rs>, and the landlady was such an obliging
             smiling landlady, with the whitest of all possible
             teeth, and the blackest of all possible eyes,
             that no harm could happen to me from occupying
@@ -2483,7 +2511,7 @@
             ready for me; yet she did every thing with so
             much good-will and cordiality; no quick answers,
             no mutterings: inns would be bowers of Paradise,
-            if they were all rented by mulatto landladies, like
+            if they were all rented by <rs type="persGroup">mulatto landladies</rs>, like
             <persName ref="#judy_james_0001">Judy James</persName>.
          </p>
          <p>I was much pleased with the scenery of <placeName>Montego
@@ -2526,7 +2554,7 @@
             fulfilled.
          </p>
          <p>We travelled these first <measure>ten miles</measure> (<placeName>Montego Bay</placeName>
-            being about thirty miles from my estate of <placeName>Cornwall</placeName>)
+            being about <measure>thirty miles</measure> from my estate of <placeName>Cornwall</placeName>)
             without seeing a human creature, nor, indeed,
             any thing that had life in it, except a <ecda:fauna>black snake</ecda:fauna>
             basking in the sunshine, and a few <ecda:fauna><distinct type="scientific">John Crows</distinct></ecda:fauna>
@@ -2571,7 +2599,7 @@
         <div type="entry">
       <opener><dateline><date when="1816-01-05">1816.—January 5</date>.</dateline></opener>           
            <p>As I was returning this morning from <placeName>Montego
-           Bay</placeName>, about a mile from my own estate, a
+           Bay</placeName>, about <measure>a mile</measure> from my own estate, a
            figure presented itself before me, I really think
            the most picturesque that I ever beheld: it was 
            a <rs type="person" ref="#mary_wiggins_0001">mulatto girl</rs>, born upon <placeName>Cornwall</placeName>, but whom the
@@ -2589,7 +2617,7 @@
            had always thought till now (which is the general
            complaint) that <said direct="false" rend="quotes"><distinct type="dialect"><emph>she had no massa</emph></distinct>;</said> and also to
            obtain a regular invitation to my negro festival tomorrow.
-           By this universal complaint, it appears
+           <seg ana="#abolition">By this universal complaint, it appears
            that, while <persName ref="#william_wilberforce_1759">Mr. Wilberforce</persName> is lamenting their hard 
            fate in being subject to a master, <emph rend="italic">their</emph> greatest fear
            is the not having a master whom they know; and
@@ -2598,7 +2626,7 @@
         <fw type="pageNum">69</fw>   
            that they <said rend="quotes"><distinct type="dialect">they belong to no massa</distinct></said>, is one of the most
            contemptuous reproaches that can be cast upon 
-           them. Poor creatures, when they happened to
+           them.</seg> Poor creatures, when they happened to
            hear on Wednesday evening that my carriage was
            ordered for <placeName>Montego Bay</placeName> the next morning, they
            fancied that I was going away for good and all,
@@ -2647,7 +2675,7 @@
            </p>
            <p>I find that my <rs type="persGroup">negroes</rs> were called away from
                their attention to the works yesterday evening (for 
-               the crop is now making with the greatest acticity),
+               the <ecda:commodity ana="#flora #harvest">crop</ecda:commodity> is now making with the greatest acticity),
                and kept up all night by a fire at a neighbouring
                estate. On these occasions, a fire-shell is blown,
                and all the <rs type="persGroup">negroes</rs> of the adjoining plantations
@@ -2682,15 +2710,15 @@
               <l>And made each pulse responsive beat.</l>
            </lg>
            <lg>
-              <l>No Sheep-bell e'er to Pilgrim's ear,</l>
+              <l>No <ecda:fauna>Sheep</ecda:fauna>-bell e'er to Pilgrim's ear,</l>
               <l>Wandering in woods unknown and drear;</l>
-              <l>No midnight lay to Spanish maid,</l>
+              <l>No midnight lay to <rs type="properAdjective">Spanish</rs> maid,</l>
               <l>Conscious by whom the lute was played;</l>
               <l>Not on the breeze the sounding wings</l>
               <l>Of him who nurture homeward brings</l>
-              <l>To mother-bird, whose callow brood</l>
+              <l>To <ecda:fauna>mother-bird</ecda:fauna>, whose callow brood</l>
               <l>Pain her fond heart with chirps for food,—</l>
-              <l>E'er seem'd mor charming than to me,</l>
+              <l>E'er seem'd more charming than to me,</l>
               <l>(When two long months had past at sea,</l>
               <l>During whose course my thirsty ear</l>
               <l>No softer voice, no strain could hear</l>
@@ -2705,7 +2733,7 @@
               <l>No, <persName ref="#venus_0001">Venus</persName>, no! Small right hast thou</l>
               <l>To claim for this my grateful vow;</l>
               <l>Nor on thine altar now bestows</l>
-              <l>My hand the gift of one poor rose!</l>
+              <l>My hand the gift of one poor <ecda:flora>rose</ecda:flora>!</l>
               <l>No eager glance, no heighten'd dye</l>
               <l>Blush'd on my cheek, nor fired mine eye;</l>
               <l>I heard, nor felt, at each soft note,</l>
@@ -2746,7 +2774,7 @@
          <pb n="81"/>
         <fw type="pageNum">73</fw> 
               <l>And in that space full room is found</l>
-              <l>For flowers to fade, and thorns to wound.</l>
+              <l>For <ecda:flora>flowers</ecda:flora> to fade, and thorns to wound.</l>
               <l>But now, (all fancy's freaks supprest,</l>
               <l>Each thread-bare sneer and wanton jest,)</l>
               <l>With hand on heart in serious tone,</l>
@@ -2768,6 +2796,7 @@
               <l>What kinder juice, what livelier power,</l>
               <l>Than mineral yields, or <ecda:flora>opiate flower</ecda:flora>,</l>
               <l>Can make me e'en in pain rejoice?—</l>
+              <l>A few sweet words in that sweet voice!</l>
            </lg>
        </lg>
         </div>
@@ -2808,7 +2837,7 @@
             factions of <quote rend="quotes">the <name>Blues</name> and the <name>Reds</name></quote>; but on
             <placeName>Cornwall</placeName> they were all friends, and therefore 
             there were only the father and the son—<ecda:anonPers><name ana="#performance">Mr. John-Canoe, 
-            senior</name></ecda:anonPers>, and <ecda:anonPers><name ana="#performance">Mr John-Canoe, Junior</name></ecda:anonPers>.
+            senior</name></ecda:anonPers>, and <ecda:anonPers><name ana="#performance">Mr John-Canoe, junior</name></ecda:anonPers>.
          </p>
          <p>The person who gave me this information was a 
             young mulatto carpenter, called <persName ref="#nicholas_cameron_0001">Nicholas</persName>, whom I
@@ -2834,7 +2863,7 @@
             the moment that he knew of <distinct type="dialect">massa's</distinct> coming to
             <placeName>Jamaica</placeName>. And indeed it was as fine as paint, paste-
             board, gilt paper, and looking-glass could make it!
-            Unluckily, the breeze being very strong blew off
+            <seg ana="#performance">Unluckily, the breeze being very strong blew off
             a fine glittering umbrella, surmounted with a plume
             of <ecda:fauna>John Crow</ecda:fauna> feathers, which crowned the top;
             and a little wag of a <ecda:anonPers>negro boy</ecda:anonPers> whipped it up,
@@ -2850,9 +2879,9 @@
          <pb n="84"/>
          <fw type="pageNum">76</fw> 
             senator himself; and it is usual for the master of
-            the estate to give them a couple of guineas apiece.
+            the estate to give them a <seg ana="#currency">couple of guineas</seg> apiece.</seg>
          </p>
-         <p><ecda:intSN>This <persName ref="#nicholas_cameron_0001">Nicholas</persName>, whom I mentioned, is a very interesting
+         <p><ecda:intSN xml:id="i001" next="i002">This <persName ref="#nicholas_cameron_0001">Nicholas</persName>, whom I mentioned, is a very interesting
             person, both from his good looks and 
             gentle manners, and from his story. He is the
             son of <ecda:anonPers>a white man</ecda:anonPers>, who on his death-bed charged
@@ -2864,7 +2893,7 @@
             broke his neck, and the property went to a <ecda:anonPers>distant
             relation</ecda:anonPers>. Application on behalf of poor <persName ref="#nicholas_cameron_0001">Nicholas</persName>
             has been made to the <ecda:anonPers>heir</ecda:anonPers>, and I heartily hope
-            that he will enable me to release him. I felt
+            that he will enable me to release him.</ecda:intSN> I felt
             strongly tempted to set him at liberty at once;
             but if I were to begin in that way, there would
             be no stopping; and it would be doing a kindness
@@ -2878,7 +2907,7 @@
             born upon the <rs type="place">estate</rs>, and many of them are
             lame, dropsical, and of a great age, would, of all
             misfortunes that could happen to them, be the most
-            cruel. Even when <persName ref="#nicholas_cameron_0001">Nicholas</persName> was speaking to me 
+            cruel. <ecda:intSN xml:id="i002" prev="i001">Even when <persName ref="#nicholas_cameron_0001">Nicholas</persName> was speaking to me 
             about his liberty, he said, <said rend="quotes">It is not that I wish to
           <pb n="85"/>
           <fw type="pageNum">77</fw>     
@@ -2916,16 +2945,16 @@
          <pb n="86"/>
          <fw type="pageNum">78</fw>  
             at my elbow <said rend="quotes"><distinct type="dialect">Massa no give you all that if
-            massa know you so bad girl! she ran away from 
+            massa know you so bad girl! she run away from 
             me, massa</distinct>!</said> <persName ref="#psyche_0001">Psyche</persName> gave him a kind of pouting
             look, half kind, and half reproachful, and turned
             away. <ecda:intSN>And then he told me that <persName ref="#psyche_0001">Psyche</persName> had
             been his wife (<emph rend="italic">one</emph> of his wives he should have 
             said); that he had had <ecda:anonPers>a child</ecda:anonPers> by her, and then
-            she had left him for one of my <distinct rend="quotes" type="ethnographic">white people</distinct>
+            she had left him for <ecda:anonPers>one of my <distinct rend="quotes" type="ethnographic">white people</distinct></ecda:anonPers>
             (as they call the book-keepers), because he had
             a good salary, and could afford to give her more
-            persents than a slave could. <said rend="quotes">Was there not another
+            presents than a slave could. <said rend="quotes">Was there not another
             reason for your quarrelling?</said> said my <ecda:anonPers>agent</ecda:anonPers>.
             <said rend="quotes">Was there not a shade of colour too much?</said>—
             <said rend="quotes"><distinct type="dialect">Oh, Massa</distinct>!</said> answered <persName ref="#nicholas_cameron_0001">Nicholas</persName>, <said rend="quotes"><distinct type="dialect">the child is
@@ -2941,7 +2970,7 @@
             massa; she <persName ref="#polly_0001">Polly's</persName> mother, sir</distinct>.</said></ecda:intSN> <persName ref="#polly_0001">Polly</persName> is a pretty,
             delicate-looking girl, nursing a <ecda:anonPers>young child</ecda:anonPers>; she
             belongs to the mansion-house, and seems to think it a necessary part of her duty to nurse <emph rend="italic">me</emph> as
-            the child. To be sure she has not as yet insisted
+            the <ecda:anonPers>child</ecda:anonPers>. To be sure she has not as yet insisted
             upon suckling me; but if I open a <mcr rend="italic">jalousie</mcr> in the
             evening, <persName ref="#polly_0001">Polly</persName> walks in and shuts it without saying 
           <pb n="87"/>
@@ -2961,11 +2990,11 @@
             no mulatto will pardon; nor can the separation of 
             castes in <placeName>India</placeName> be more rigidly observed, than that
             of complexional shades among the <name>Creoles</name>. My
-            black page, <ecda:intSN><persName ref="#cubina_0001">Cubina</persName>, is married: I told him that <said direct="false">I
+            black page, <persName ref="#cubina_0001">Cubina</persName>, is married: I told him that <said direct="false">I
             hoped he had married a pretty woman; why had 
             he not married <persName ref="#mary_wiggins_0001">Mary Wiggins</persName>?</said> He seemed quite
             shocked at the very idea. <said rend="quotes"><distinct type="dialect">Oh, massa, me black,
-            <persName ref="#mary_wiggins_0001">Mary Wiggins</persName> sambo; that not allowed</distinct>.</said></ecda:intSN>
+            <persName ref="#mary_wiggins_0001">Mary Wiggins</persName> sambo; that not allowed</distinct>.</said>
          </p>
          <p><seg ana="#performance">The dances performed to-night seldom admitted
             more than three persons at a time: to me they appeared
@@ -2992,21 +3021,21 @@
             herself, and being answered by a chorus. To 
             make out either the rhyme of the air, or meaning
             of the words, was out of the question. But one 
-            very long song was about the <persName ref="#arthur_wellesley_1769">Duke of Wellington</persName>,
+            very long song was about the <rs type="person" ref="#arthur_wellesley_1769">Duke of <placeName>Wellington</placeName></rs>,
             every stanza being chorussed with,
             <quote rend="quotes"><lg type="song"><l>Ay! hey-day! <placeName>Waterloo</placeName>!</l>
             <l><placeName>Waterloo</placeName>! ho! ho! ho!</l></lg></quote>
             <emph rend="italic">I</emph> too had a great deal to do in the business, for
             every third word was <quote rend="quotes"><distinct type="dialect">massa</distinct></quote>; though how I
-            came there, I have no more idea than <rs type="properAdjective" ref="#arthur_wellesley_1769">the Duke</rs>.</seg> 
+            came there, I have no more idea than <rs type="person" ref="#arthur_wellesley_1769">the Duke</rs>.</seg> 
          </p>
-         <p>The singing began about six o'clock, and lasted 
+         <p><seg ana="#performance">The singing began about six o'clock, and lasted 
             without a moment's pause till two in the morning;
             and such noise never did I hear till then. The
             whole of the floor which was not taken up by <rs type="persGroup">the
             dancers</rs> was, through every part of the house except
             the bed-rooms, occupied by men, women,
-            and children, fast asleep. But although they were
+            and children, fast asleep.</seg> But although they were
             allowed <ecda:food ana="#commodity">rum</ecda:food> and <ecda:food ana="#commodity">sugar</ecda:food> by whole pailfuls, and
             were most of them <emph rend="italic">merry</emph> in consequence, there 
        <pb n="89"/>
@@ -3039,9 +3068,9 @@
             <rs type="place">their cottages</rs> are always surrounded with <ecda:flora>trees</ecda:flora>
             and <ecda:flora>shrubs</ecda:flora>, their <rs type="place" ana="#food #cultivation">provision grounds</rs> are kept quite
             distinct, and are at a distance among the <rs type="place">mountains</rs>.
-            Of course, I made no difficulty of aceding 
+            Of course, I made no difficulty of acceding 
             to their request, but upon condition, that they 
-            should ask for no more holidays till the crop
+            should ask for no more holidays till the <ecda:commodity ana="#harvest #flora">crop</ecda:commodity>
             should be completed. For the purpose of culti-
       <pb n="90"/>
       <fw type="pageNum">82</fw>   
@@ -3068,8 +3097,8 @@
             for him, if he wished it. <said rend="quotes"><distinct type="dialect">Tank you, kind massa,
             me like it very much: much oblige if massa do 
             that for <emph rend="italic">me</emph>, too</distinct>.</said> So I promised to baptize the
-            father and the baby on the same day, and said that
-            I would be godfather to any children that might be
+            father and the <ecda:anonPers>baby</ecda:anonPers> on the same day, and said that
+            I would be godfather to any <rs type="persGroup">children</rs> that might be
             born on the <rs type="place">estate</rs> during my residence in <placeName>Jamaica</placeName>.
             This was soon spread about, two women are in the 
             straw already, <persName ref="#jug_betty_0001">Jug Betty</persName> and <persName ref="#minerva_0001">Minerva</persName>: the first is
@@ -3080,15 +3109,15 @@
     <fw type="pageNum">83</fw>     
             I think nobody will be able to accuse me of
             neglecting the religious education of my <rs type="persGroup">negroes</rs>:
-            for I have not only promised to baptize all the infants,
+            for I have not only promised to baptize all the <rs type="persGroup">infants</rs>,
             but, meeting a little black boy this morning,
             who said that his name was <persName ref="#moses_0001">Moses</persName>, I gave him a
-            piece of silver, and told him that it was for the
+            piece of <seg ana="#currency">silver</seg>, and told him that it was for the
             sake of <persName ref="#aaron_0001">Aaron</persName>; which, I flatter myself, was planting
             in his young mind the rudiments of <name>Christianity</name>.
             </p>
            <p>In my evening's drive I met the <rs type="persGroup">negroes</rs>, returning
-             from the <rs type="place">mountains</rs>, with baskets of provisions
+             from the <rs type="place">mountains</rs>, with baskets of <ecda:food>provisions</ecda:food>
              sufficient to last them for the week. By 
              law they are only allowed every other Saturday for
              the purpose of cultivating their own <rs type="place">grounds</rs>,
@@ -3104,8 +3133,8 @@
              thoughtless and improvident, that, when they find
              themselves in a possession of a larger supply than is
              requisite for their immediate occasions, they will
-             sell half to the wandering higglers, or at <placeName>Savanna
-             la Mar</placeName>, in exchange for spirits; and then, at the
+             sell half to the wandering <rs type="persGroup">higglers</rs>, or at <placeName>Savanna
+             la Mar</placeName>, in exchange for <ecda:commodity ana="#food #sale">spirits</ecda:commodity>; and then, at the
              end of the week, they find themselves entirely unprovided 
              with food, and come to beg a supply from
              the master's storehouse.  
@@ -3187,8 +3216,8 @@
         another set are carrying away the <ecda:commodity ana="#refining #flora"><distinct type="agricultural" rend="italic">trash</distinct></ecda:commodity>, after the
         <ecda:commodity ana="#refining #flora">juice</ecda:commodity> has been extracted; flocks of <ecda:fauna>turkeys</ecda:fauna> are sheltering
         from the heat under the <ecda:flora>trees</ecda:flora>; the river is
-        filled with <ecda:fauna>ducks</ecda:fauna> and <ecda:fauna>geese</ecda:fauna>; <rs type="persGroup"> the coopers and carpenters</rs>
-        are employed about the <distinct type="agricultural">puncheons</distinct>; carts 
+        filled with <ecda:fauna>ducks</ecda:fauna> and <ecda:fauna>geese</ecda:fauna>; <rs type="persGroup">the coopers and carpenters</rs>
+        are employed about the puncheons; carts 
         drawn some by six, others by eight, <ecda:fauna>oxen</ecda:fauna>, are bringing
         loads of <ecda:flora ana="#food">Indian corn</ecda:flora> from the fields; the <rs type="persGroup">black
         children</rs> are employed in gathering it into the
@@ -3236,7 +3265,7 @@
        that is, to be again ladled out of the coppers and
        spread into the coolers, where it is left to granulate.
        The <ecda:commodity ana="#refining #food">sugar</ecda:commodity> is then formed, and is removed into the
-       <rs type="place"><distinct type="agricultural" rend="italic">curing-house</distinct></rs>, where it is put into hogsheads, and
+       <distinct type="agricultural" rend="italic">curing-house</distinct>, where it is put into hogsheads, and
        left to settle for a certain time, during which those
        parts which are too poor and too liquid to granulate,
        drip from the casks into vessels placed beneath
@@ -3272,7 +3301,7 @@
        totally exhausted, and you are obliged to have recourse
        to fresh <ecda:flora ana="#commodity #cultivation">plants</ecda:flora>.       
       </p>
-      <p>Last night a poor man, named <persName ref="#charles_0001">Charles</persName>, who had
+      <p><seg ana="#injury">Last night a poor man, named <persName ref="#charles_0001">Charles</persName>, who had
          been coachman to <rs type="person">my uncle</rs> ages ago, was brought
          into the <rs type="place" ana="#medical">hospital</rs>, having missed a step in the <rs type="place">boiling-house</rs>,
          and plunged his foot into the siphon:
@@ -3280,7 +3309,7 @@
          though the liquor was hot enough to scald him, it
    <pb n="97"/>
    <fw type="pageNum">89</fw>  
-        was not sufficiently so to do him any material injury. 
+        was not sufficiently so to do him any material injury.</seg> 
         The old man had presented himself to me on
         Saturday's holiday (or <distinct type="dialect" rend="italic">play-day</distinct>, in the negro dialect),
          and had shown me, with great exultation, the
@@ -3293,14 +3322,14 @@
          situation entitled him, I gave him another for him-
          self, as a keepsake: he put it in the pocket of
          <said rend="quotes"><distinct type="dialect">his <rs type="person">old massa's</rs></distinct></said> waistcoat, and assured me that
-         they should never again be separated. On hearing
+         they should never again be separated. <seg ana="#injury">On hearing
          of his accident, I went over to the <rs type="place" ana="#medical">hospital</rs> to
          see that he was well taken care of; and immediately
          the poor fellow began talking to me about
          <rs type="person">my grandfather</rs>, and his <rs type="person">young <distinct type="dialect">massa</distinct></rs>, and the
          <rs type="persGroup">young misses, his sisters</rs>, and while I suffered him to
          chatter away for an hour, he totally forgot the pain
-         of his burnt leg.         
+         of his burnt leg.</seg>         
        </p>
       <p>It was particularly agreeable to me to observe,
          on Saturday, as a proof of the good treatment
@@ -3322,7 +3351,7 @@
          their own former habitations, the <rs type="place">negro huts</rs>; and
          when they went away, they assured me, that nothing 
          should prevent their coming back to bid me fare-
-         well, before I left the island. All this may be
+         well, before I left the <rs type="place">island</rs>. All this may be
          palaver; but certainly they at least play their parts
          with such an air of truth, and warmth, and enthusiasm,
          that, after the cold hearts and repulsive manners
@@ -3335,7 +3364,7 @@
          closed, seems to expand itself again in the sunshine
          of the kind looks and words which meet me
          at every turn, and seem to wait for mine as
-         anxiously as if they were so many diamonds.         
+         anxiously as if they were so many <ecda:commodity>diamonds</ecda:commodity>.         
       </p>
    </div>
    <div type="entry">
@@ -3343,8 +3372,8 @@
     <p>In the year <date when="1880">'80</date>, this parish of <placeName>Westmoreland</placeName>
        was kept in a perpetual state of alarm by a runaway
        negro called <persName rend="italic" ref="#plato_0001">Plato</persName>, who had established him-
-       self among the <geogName>Moreland Mountains</geogName>, and collected 
-       a troop of banditti, of which he was himself the 
+       self among the <placeName>Moreland Mountains</placeName>, and collected 
+       a troop of <rs type="persGroup">banditti</rs>, of which he was himself the 
  <pb n="99"/>
  <fw type="pageNum">91</fw>  
        chief. He robbed very often, and murdered occasionally;
@@ -3361,22 +3390,22 @@
        spared no pains to secure their affections by gratifying
        their vanity. Indeed, no <rs type="properAdjective">Creole</rs> lady could
        venture out on a visit, without running the risk of
-       having her bandbox run away with by <persName ref="#plato_0001">Plato</persName> for
+       having her <ecda:commodity ana="#circulation">bandbox</ecda:commodity> run away with by <persName ref="#plato_0001">Plato</persName> for
        the decoration of <rs type="persGroup">his sultanas</rs>; and if the maid who
        carried the bandbox happened to be well-looking, he 
-       ran away with the maid as well as the bandbox. 
+       ran away with the maid as well as the <ecda:commodity ana="#circulation">bandbox</ecda:commodity>. 
        Every endeavour to seize this desperado was long
        in vain: a large reward was put upon his head, but
        no negro dared to approach him; for, besides his 
-       acknowledged courage, he was a professor of <distinct type="religious">Obi</distinct>,
+       acknowledged courage, <seg ana="#obeah">he was a professor of <name ana="#obeah">Obi</name>,
        and had threatened that whoever dared to lay a 
        finger upon him should suffer spiritual torments,
-       as well as be physically shot through the head.
+       as well as be physically shot through the head.</seg>
        </p>
     <p>Unluckily for <persName ref="#plato_0001">Plato</persName>, <ecda:food>rum</ecda:food> was an article with him
        of the first necessity; the look-out, which was kept 
        for him, was too vigilant to admit of his purchasing
-       spirituous liquors for himself; and once, when for
+       <ecda:food>spirituous liquors</ecda:food> for himself; and once, when for
        that purpose he had ventured into the neighbour-
  <pb n="100"/>
  <fw type="pageNum">92</fw>     
@@ -3455,7 +3484,7 @@
          The <ecda:anonPers>watchman</ecda:anonPers> then summoned the <rs type="persGroup">two
          negroes</rs> from their concealment, who bound his
          arms, and conveyed him to <placeName>Montego Bay</placeName>, where <seg ana="#punishment">he
-         was immediately sentenced to execution</seg>. <seg ana="#obeah">He died
+         was immediately sentenced to execution</seg>. <seg ana="#obeah #punishment">He died
          most heroically; kept up the terrors of his imposture
          to the last moment; he told the <rs type="persGroup">magistrates</rs>, who
          condemned thim, that his death should be revenged
@@ -3464,10 +3493,10 @@
          him to the stake at which he was destined to suffer,
          he assured him that he should not live long to
          triumph in his death, for that he had taken good
-         care to Obeah him before his quitting the prison.
+         care to <name>Obeah</name> him before his quitting the prison.
          It certainly did happen, strangely enough, that, 
          before the year was over, the most violent storm
-         took place ever known in <placeName>Jamaica</placeName>; and as to the
+         took place ever known in <placeName>Jamaica</placeName>; <seg ana="#disease">and as to the
          <ecda:anonPers>gaoler</ecda:anonPers>, his imagination was so forcibly struck by
          the threats of the dying man, that, although every
          care was taken of him, the power of medicine exhausted, 
@@ -3476,7 +3505,7 @@
          change the course of his ideas, still, from the
          moment of <persName ref="#plato_0001">Plato's</persName> death, he gradually pined and
          withered away, and finally expired before the
-         completion of the twelvemonth.</seg>
+         completion of the twelvemonth</seg>.</seg>
       </p>
       <p><seg ana="#obeah">The belief in <name>Obeah</name> is now greatly weakened, 
  <pb n="103"/>
@@ -3488,17 +3517,17 @@
          He found means to have him surprised, and on examination
          there was found upon him a bag containing
          a great variety of strange materials for incantations;
-         such as thunder-stones, <ecda:fauna>cat's</ecda:fauna> ears, the feet
-         of various animals, human hair, <ecda:fauna>fish</ecda:fauna> bones, the teeth
-         of <ecda:fauna>alligators</ecda:fauna>, &amp;c.: he was conveyed to <placeName>Montego
+         such as thunder-stones, <ecda:fauna>cat's</ecda:fauna> ears, <ecda:fauna>the feet
+         of various animals</ecda:fauna>, human hair, <ecda:fauna>fish bones</ecda:fauna>, <ecda:fauna>the teeth
+         of alligators</ecda:fauna>, &amp;c.: he was conveyed to <placeName>Montego
          Bay</placeName>; and no sooner was it understood that this <ecda:anonPers>old
          <rs type="properAdjective">African</rs></ecda:anonPers> was in prison, that depositions were poured 
          in from all quarters from <rs type="persGroup">negroes</rs> who deposed to 
          having seen him exercise his magical arts, and, in 
-         particular, to his having sold such and such <rs type="persGroup">slaves</rs>
+         particular, to <seg ana="#poison">his having sold such and such <rs type="persGroup">slaves</rs>
          medicines and charms to deliver them from their
          enemies; being, in plain <name>English</name>, nothing else than
-         <seg ana="#poison">rank poisons</seg>. He was conviced of <name>Obeah</name> upon
+         rank poisons</seg>. He was conviced of <name>Obeah</name> upon
          the most indubitable evidence. <seg ana="#punishment">The good old
          practice of burning has fallen into disrepute; so
          he was sentenced to be transported</seg>, and was
@@ -3522,14 +3551,14 @@
           off the <rs type="persGroup">negroes</rs> for the purporse of properly cultivating
           the other.
        </p>
-       <p>I have just had an instance strikingly convincing 
-          of the extreme nicety required in rearing negro
-          children. Two have been born since my arrival.
+       <p ana="#medical #disease">I have just had an instance strikingly convincing 
+          of the extreme nicety required in rearing <rs type="persGroup">negro
+          children</rs>. Two have been born since my arrival.
           My <ecda:anonPers>housekeeper</ecda:anonPers> was hardly ever out of the lying-in
           apartment; I always visited it myself once a day,
           and sometimes twice, in order that I might be certain
           of the <rs type="persGroup">women</rs> being well taken care of; not a
-          day passed without the inspection of <rs type="person">a physician</rs>;
+          day passed without the inspection of a <rs type="person">physician</rs>;
           nothing of indulgence, that was proper for them,
           was denied; and, besides their ordinary <ecda:food>food</ecda:food>, the
           mothers received every day the most nourishing and
@@ -3539,7 +3568,7 @@
           <rs type="persGroup">these children</rs>, because I had promised to be their
           godfather myself. Yet, in spite of all this attention
           and indulgence, <ecda:anonPers>one of the mothers</ecda:anonPers>, during
-          the nurse's absence for ten minutes, grew alarmed
+          the <ecda:anonPers>nurse's</ecda:anonPers> absence for ten minutes, grew alarmed
           at her <ecda:anonPers>infant's</ecda:anonPers> apparent sleepiness. To rouse it,
           she began dancing and shaking it till it was in a 
           strong perspiration, and then she stood with it for
@@ -3559,10 +3588,10 @@
           for five minutes had killed the <ecda:anonPers>infant</ecda:anonPers>, and,
           at noon to-day it expired. 
        </p>
-       <p><ecda:anonPers>This woman</ecda:anonPers> was a tender mother, had borne <rs type="persGroup">ten
+       <p ana="#disease"><ecda:anonPers>This woman</ecda:anonPers> was a tender mother, had borne <rs type="persGroup">ten
           children</rs>, and yet has now but one alive: <ecda:anonPers>another</ecda:anonPers>, 
-          at present in the <rs type="place" ana="#medical">hospital</rs>, has borne seven, and
-          but one has lived to puberty; and the instances
+          at present in the <rs type="place" ana="#medical">hospital</rs>, has borne <rs type="persGroup">seven</rs>, and
+          but <ecda:anonPers>one</ecda:anonPers> has lived to puberty; and the instances
           of those who have had four, five, six children,
           without succeeding in bringing up one, in spite
           of the utmost attention and indulgence, are very
@@ -3578,7 +3607,7 @@
           not have been more anxiously well treated than
           was the <ecda:anonPers>poor little negro</ecda:anonPers> who died this morning. 
        </p>
-       <p>The <rs type="persGroup">negroes</rs> are always buried in their own gardens,
+       <p><ecda:embLore>The <rs type="persGroup">negroes</rs> are always buried in their own gardens,
           and many strange and fantastical ceremonies
     <pb n="106"/>
     <fw type="pageNum">98</fw>      
@@ -3589,7 +3618,7 @@
           they can hit upon the right one. Till that is accomplished,
           they stagger under the weight of the 
           coffin, struggle against its force, which draws them
-          in a different direction form that which they had
+          in a different direction from that which they had
           settled to go; and sometimes in the contest the
           corpse and the coffin jump off the shoulders of the
           bearers. But if, as is frequently the case, any person
@@ -3603,16 +3632,16 @@
           <distinct type="dialect" rend="italic">duppy</distinct>), I rather wonder at their choosing to have
           their dead buried in their gardens; but I understand
           their argument to be, that they need only fear
-          the <distinct type="dialect">duppies</distinct> of their enemies, but have nothing to apprehend
+          the duppies of their enemies, but have nothing to apprehend
           from those after death who loved them in
-          their lifetime; but the <distinct type="dialect">duppies</distinct> if their adversaries
+          their lifetime; but the duppies if their adversaries
           are very alarming beings, equally powerful by day as
           by night, and who not only are spiritually terrific, but
           who can give very hard substantial knocks on the 
           pate, whenever they see fit occasion, and can find a
-          good opportunity. 
+          good opportunity.</ecda:embLore> 
           </p>
-         <p>Last Saturday <ecda:anonPers>a negro</ecda:anonPers> was brought into the hos-
+         <p><seg ana="#disease">Last Saturday <ecda:anonPers>a negro</ecda:anonPers> was brought into the hos-
             
    <pb n="107"/>
    <fw type="pageNum">99</fw>    
@@ -3628,7 +3657,7 @@
             food without injury. However, upon enquiry
             among <rs type="persGroup">his shipmates</rs>, it appeared that he had 
             frequently eaten <ecda:food ana="#fauna">beef</ecda:food> without the slightest inconvenience.
-            For my own part, the symptoms of 
+            <seg ana="#poison">For my own part, the symptoms of 
             his complaint were such as to make me suspect
             him of having tasted something poisonous, especially as,
             just before his first fit, he had been observed
@@ -3637,12 +3666,12 @@
             all, that nothing could possibly have induced him
             to eat an <ecda:food ana="#flora">herb</ecda:food> or <ecda:food ana="#flora">fruit</ecda:food> from <rs type="place">that grove</rs>, as it had
             been used as a burying-ground for <said rend="quotes">the white
-            people</said>. But although my idea of the poison was 
+            people</said>.</seg></seg> But although my idea of the poison was 
             scouted, still the mention of the <rs type="place">burying-ground </rs>
             suggested another cause for his illness to the 
             <rs type="persGroup">negroes</rs>, and they had no sort of doubt, that in
             passing through the <rs type="place">burying-ground</rs> he had been
-            struck down by the <distinct type="dialect">duppy</distinct> of a white person not
+            struck down by the duppy of a <ecda:anonPers>white person</ecda:anonPers> not
             long deceased, whom he had formerly offended,
             and that these repeated fainting-fits were the
             consequence of that ghostly blow. The <rs type="persGroup">negroes</rs> 
@@ -3660,7 +3689,7 @@
             the wish for their enemy's damnation more sincerely
             when he utters it.         
          </p>
-         <p>The <name>Africans</name> (as it is well known) generally believe,
+         <p><seg ana="#abolition">The <name>Africans</name> (as it is well known) generally believe,
             that there is a life beyond this world, and
             that they shall enjoy it by returning to their own
             country; and this idea used frequently to induce
@@ -3678,7 +3707,7 @@
             the voyage, and the unavoidable hardships of <distinct type="economic">the
             seasoning</distinct>, those advantages were purchased more
             dearly than any in this life can possibly be worth.
-            God be thanked, all this is now at an end; and 
+            God be thanked, all this is now at an end;</seg> and 
    <pb n="109"/>
    <fw type="pageNum">101</fw>        
             certainly, as far as I can yet judge, if I were
@@ -3757,7 +3786,7 @@
             spark of hospitality, and have had, <quote rend="quotes" xml:lang="la" source="virgil_aeneid"><placeName>Caucasus</placeName>
             horrens</quote> for his great-grandmother, if he can resist
             giving dinners in a country where <name>Nature</name> seems to
-            have set up a superior kind of <name rend="quotes">London Tavern</name> 
+            have set up a superior kind of <placeName rend="quotes">London Tavern</placeName> 
             of her own. They who are possessed by the <quote rend="quotes" xml:lang="la" source="lucan_bello">Ciborum
             ambitiosa fames, et lautæ gloria mensæ</quote>, 
             ought to ship themselves off for <placeName>Jamaica</placeName> out of
@@ -3777,7 +3806,7 @@
             to be <ecda:food ana="#fauna">geese</ecda:food> and <ecda:food ana="#fauna">turkies</ecda:food></quote> in <placeName>England</placeName>, he would
             mistake the <ecda:food ana="#fauna">geese</ecda:food> and <ecda:food ana="#fauna">turkies</ecda:food> for houses and 
             churches here. Then our <ecda:food>tarts</ecda:food> are made of <ecda:food ana="#flora">pine-
-            apples</ecda:food>, and <ecda:food ana="#flora">pine-apples</ecda:food> make the best tarts that I 
+            apples</ecda:food>, and <ecda:food ana="#flora">pine-apples</ecda:food> make the best <ecda:food>tarts</ecda:food> that I 
       <pb n="112"/>
       <fw type="pageNum">104</fw>    
             ever tasted; there is no end of the variety of fruits,
@@ -3793,11 +3822,11 @@
             ever met with; what it most resembles is a <ecda:food xml:lang="fr" rend="italic">mace-
             doine</ecda:food>, as it unites the different tastes of almost all
             other fruits, and has, at the same time, a very
-            strong flavour of wine. 
+            strong flavour of <ecda:food>wine</ecda:food>. 
          </p>
-         <p>As to fish, <placeName>Savannah la Mar</placeName> is reckoned the best
+         <p>As to <ecda:food ana="#fauna">fish</ecda:food>, <placeName>Savannah la Mar</placeName> is reckoned the best
             place in the island, both for variety and for <emph rend="italic">safety</emph>; for,
-            in many parts, the fish feed upon copperas banks,
+            in many parts, the <ecda:food ana="#fauna">fish</ecda:food> feed upon copperas banks,
             and cannot be used without much precaution:
             here, none is necessary, and it is only to be wished
             that their names equalled their flesh in taste; for it
@@ -3810,7 +3839,7 @@
             is generally so excellent, and in such profusion,
             that I never sit down to table without wishing for
             the company of <persName ref="#atargatis_0001">Queen Atygatis</persName> of <placeName>Scythia</placeName>, who
-            was so particularly fond of fish, that she prohibited
+            was so particularly fond of <ecda:food ana="#fauna">fish</ecda:food>, that she prohibited
         <pb n="113"/>
         <fw type="pageNum">105</fw>     
             all her subjects from eating it on pain of death,
@@ -3835,9 +3864,9 @@
             pined after known pleasures, and which he knew
             to be good <emph rend="italic">she</emph> was the dupe of imagination; <emph rend="italic">he</emph>
             fell a victim to established habit? There is a question for
-            the bishops: those clergymen who reside constantly
-            on their livings (as all clergymen ought to do, or
-            they ought not to be clergymen), I shall, in charity,
+            the <rs type="persGroup">bishops</rs>: those <rs type="persGroup">clergymen</rs> who reside constantly
+            on their livings (as all <rs type="persGroup">clergymen</rs> ought to do, or
+            they ought not to be <rs type="persGroup">clergymen</rs>), I shall, in charity,
             believe to have something better to do with their 
             time than to solve it.             
          </p>
@@ -3854,14 +3883,14 @@
             most valuable and regular supply of food arises from
             the <ecda:food ana="#flora">cocoa-finger</ecda:food>, or <ecda:food ana="#flora"><distinct type="agricultural">coccos</distinct></ecda:food>, a species of the <ecda:food ana="#flora">yam</ecda:food>,
             but which lasts all year round. These vegetables
-            form the basis of negro sustenance; but the slaves
-            also receive from their owners a regular weekly
+            form the basis of negro sustenance; but the <rs type="persGroup">slaves</rs>
+            also receive from their <rs type="persGroup">owners</rs> a regular weekly
             allowance of <ecda:food ana="#fauna">red herrings</ecda:food> and <ecda:food ana="#fauna">salt meat</ecda:food>, which
             serves to relish their vegetable diet; and, indeed,
-            they are so passionately fond of salted provisions,
+            they are so passionately fond of <ecda:food>salted provisions</ecda:food>,
             that, instead of giving them <ecda:food ana="#fauna">fresh beef</ecda:food> (as at their 
             festival of Saturday last), I have been advised to
-            provides some <measure>hogsheads</measure> of <ecda:food ana="#fauna">salt fish</ecda:food>, as likely to
+            provides some hogsheads of <ecda:food ana="#fauna">salt fish</ecda:food>, as likely to
             afford them more gratification, at such future additional 
             holidays as I may find it possible to allow
             them in this busy season of crop. 
@@ -3906,15 +3935,15 @@
        <opener><dateline><date when="1816-01-16">January 16</date>.</dateline></opener> 
         <p>I never witnessed on the stage a scene so pituresque
            as a <rs type="place">negro village</rs>. I walked through my 
-           own to-day, and visited the <rs type="place">houses</rs> of the drivers,
-           and other principal persons; and if I were to decide
+           own to-day, and visited the <rs type="place">houses</rs> of the <rs type="persGroup">drivers,
+           and other principal persons</rs>; and if I were to decide
            according to my own taste, I should infinitely
            have preferred their habitation to my own. Each
            house is surrounded by a separate garden, and the
            whole village is intersected by lanes, bordered with
       <pb n="116"/>
       <fw type="pageNum">108</fw>    
-           all kinds of sweet-smelling and flowering plants;
+           all kinds of <ecda:flora>sweet-smelling and flowering plants</ecda:flora>;
            but not such gardens as those belonging to our
            <rs type="properAdjective">English</rs> cottages, where a few <ecda:flora ana="#food">cabbages</ecda:flora> and <ecda:flora ana="#food">carrots</ecda:flora>
            just peep up and grovel on the earth between
@@ -5614,7 +5643,7 @@
    us by seven o'clock to <placeName rend="quotes">the Gutters</placeName>, a house
    belonging to the proprietor of the <ecda:fauna>post-horses</ecda:fauna>, and
    which is situated at the very foot of the tremendous
-   <geogName>May-day Mountains</geogName>. The house is an excellent one,
+   <placeName>May-day Mountains</placeName>. The house is an excellent one,
    and we found good beds, <ecda:food>eatables</ecda:food>, and,
    in short, every thing that travellers could wish.
    The distance from <placeName>Lakovia</placeName> to <placeName rend="quotes">the Gutters</placeName> is
@@ -5633,7 +5662,7 @@
    <fw type="pageNum">159</fw>
   beautiful scenes, from beginning to end. Instantly on
   leaving <placeName rend="quotes">the Gutters</placeName>, we began to ascend the
-  <geogName>May-day Mountains</geogName>, and it was not till after travelling 
+  <placeName>May-day Mountains</placeName>, and it was not till after travelling 
    for <measure>five and twenty miles</measure>, that we found ourselves
    at the foot of them on the other side, at a place
    called <placeName>Williamsfield</placeName>, about <measure>twelve miles</measure> from the
@@ -5904,7 +5933,7 @@
    <pb n="175"/>
    <fw type="pageNum">167</fw>
    tiful than the scenery. Our road lay along the
-   banks of the <geogName>Rio Cobre</geogName>, which runs up to <placeName>Spanish
+   banks of the <placeName>Rio Cobre</placeName>, which runs up to <placeName>Spanish
    Town</placeName>, where its floods frequently commit dreadful
    ravages. Large masses of rock intercept its current
    at small intervals, which, as well as its shallowness,
@@ -5918,7 +5947,7 @@
    to be built over the river, but a storm had demolished
    it before its completion, and nothing was
    now left standing but a single enormous arch. In 
-   like manner <geogName rend="quotes">the Dry River</geogName> sets all bridges
+   like manner <placeName rend="quotes">the Dry River</placeName> sets all bridges
    at defiance: when we crossed it between <placeName>Old Harbour</placeName>
    and <placeName>Spanish Town</placeName>, it was nothing but a
    waste of sand; but its floods frequently pour down
@@ -5936,7 +5965,7 @@
    the mist had dispersed, and I was able to ad-
    <pb n="176"/>
    <fw type="pageNum">168</fw>
-   mire the extraordinary beauty of <geogName>Mount Diavolo</geogName>,
+   mire the extraordinary beauty of <placeName>Mount Diavolo</placeName>,
    which we were then crossing. Though we had
    left the river, the road was still a narrow shelf of
    rock running along the edge of ravines of great
@@ -5957,7 +5986,7 @@
    <ecda:flora>wild ipecacuanha</ecda:flora>. We travelled for <measure>sixteen miles</measure>,
    which brought us to our harbour for the night,—
    a solitary tavern called <placeName>Blackheath</placeName>, situated in the
-   heart of the mountains of <geogName>St. Anne</geogName>.    
+   heart of the mountains of <placeName>St. Anne</placeName>.    
 </p>
 </div>
 <div type="entry">
@@ -5976,7 +6005,7 @@
    <measure>twenty-five</measure>; but from the time which we took to
    travel it,  I can scarcely believe it to be so much. 
    Our road still lay by the sea-side, till we began to
-   ascend the mountain of <geogName>Rio Bueno</geogName>; from which
+   ascend the mountain of <placeName>Rio Bueno</placeName>; from which
    we at length perceived the river itself funning into
    the sea. It was at <placeName>Porto Bueno</placeName> that <persName ref="#christopher_columbus_1450">Columbus</persName>
    is said to have made his first landing on the <rs type="place">island</rs>. 
@@ -6954,7 +6983,7 @@
  <div type="entry">
  <opener><dateline><date when="1816-02-28">February 28</date>.</dateline></opener>   
   <p>Hearing that a <ecda:fauna>manati</ecda:fauna> (the <ecda:fauna>sea-cow</ecda:fauna>) had been
-     taken at the mouth of the <geogName>Cabrita River</geogName>, and was
+     taken at the mouth of the <placeName>Cabrita River</placeName>, and was
      kept alive at <placeName>Hope Wharf</placeName>, I got a sailing-
      boat, and went about <measure>eight miles</measure> to see the animal.
      It was suffered to live in the sea, a rope being
@@ -8592,14 +8621,14 @@
   <div type="entry">
      <opener><dateline><date when="1816-04-15">April 15</date>.</dateline></opener>  
      <p>At noon this day we found ourselves once more
-        sailing on the <geogName>Atlantic</geogName>, and bade farewell to the
+        sailing on the <placeName>Atlantic</placeName>, and bade farewell to the
         <placeName>Gulf of Florida</placeName> without having heard any news of
         the dreader <persName ref="#mitchell_0001">Commodore Mitchell</persName>. The narrow
         and dangerous part of this <placeName>Gulf</placeName> is about <measure>two hundred
         miles</measure> in length, and <measure>fifty</measure> in breadth, bordered 
         on one side by the coast of <placeName>Florida</placeName>, and on the other,
         first by <placeName>Cuba</placeName>, and then by the <placeName>Bahama Islands</placeName>, of
-        which the <geogName>Manilla reef</geogName> forms the extremity, and
+        which the <placeName>Manilla reef</placeName> forms the extremity, and
         which reef also terminates the <placeName>Gulf</placeName>. But on both
         sides of these <measure>two hundred miles</measure>, at the distance 
         of about <measure>four or five miles</measure> from the main land,
@@ -11018,7 +11047,7 @@
         </p>
         <p>It seems to be an indispensible requisite for a
            <title ref="#anansi_story">Nancy-story</title>, that it should contain a witch, or a
-           <distinct type="dialect">duppy</distinct>, or, in short, some marvellous personage or
+           duppy, or, in short, some marvellous personage or
            other. It is a kind of <distinct rend="quotes"><foreign rend="italic">pièce à machines</foreign></distinct>. <ecda:embLore xml:id="l0001" next="l0002">But the
            creole slaves are very fond of another species of
            tale, which they call <title rend="quotes">Neger-tricks</title>, and which
@@ -13056,7 +13085,7 @@
              him; and these sources of discontent being removed,
              I read to them my regulations for allowing 
              them new holidays, additional allowances
-             of <ecda:commodity ana="#exchange #food #fauna">salt-fish</ecda:commodity>, <ecda:commodity ana="#exchange #food">rum</ecda:commodity>, and <ecda:commodity ana="#exchange #food">sugar</ecda:commodity>, with a variety of 
+             of <ecda:commodity ana="#circulation #food #fauna">salt-fish</ecda:commodity>, <ecda:commodity ana="#circulation #food">rum</ecda:commodity>, and <ecda:commodity ana="#circulation #food">sugar</ecda:commodity>, with a variety of 
              other indulgences and measures taken for protection,
              &amp;c. All which, assisted by a couple 
              of dances and distribution of <ecda:commodity ana="#currency">money</ecda:commodity> on the
@@ -13520,10 +13549,10 @@
              company to the <rs type="place" ana="#medical">hospital</rs>, where he locked him up
              in a room by himself. All Saturday and Sunday
              the <rs type="place">estate</rs> rang with laughing, dancing, singing,
-             and huzzaing. <ecda:commodity ana="#exchange #food #fauna">Salt-fish</ecda:commodity> was given away in the
+             and huzzaing. <ecda:commodity ana="#circulation #food #fauna">Salt-fish</ecda:commodity> was given away in the
              morning; the <rs type="persGroup">children</rs> played at ninepins for
-             <ecda:commodity ana="#exchange #textile">jackets</ecda:commodity> and <ecda:commodity ana="#textile #exchange">petticoats</ecda:commodity> in the evening; <ecda:commodity ana="#exchange #food">rum</ecda:commodity> and
-             <ecda:commodity ana="#exchange #food">sugar</ecda:commodity> was denied to no one. The gumbys thundered;
+             <ecda:commodity ana="#circulation #textile">jackets</ecda:commodity> and <ecda:commodity ana="#textile #circulation">petticoats</ecda:commodity> in the evening; <ecda:commodity ana="#circulation #food">rum</ecda:commodity> and
+             <ecda:commodity ana="#circulation #food">sugar</ecda:commodity> was denied to no one. The gumbys thundered;
              the kitty-katties clattered; all was noise
              and festivity; and all this while, <quote rend="quotes" xml:lang="la" source="virgil_georgics">qualis mœrens
              <persName ref="#philomela_0001">Philomela</persName></quote>, sat solitary <persName ref="#toby_0001">Toby</persName> gazing at his four
@@ -13614,7 +13643,7 @@
        </div>
        <div type="entry">
           <opener><dateline><date when="1818-04-01">April 1</date>.<hi rend="mixed">(Wednesday.)</hi></dateline></opener>
-          <p><persName ref="#jug_betty_0001">Jug-Betty</persName> having had <ecda:commodity ana="#currency #exchange">two leathern purses full
+          <p><persName ref="#jug_betty_0001">Jug-Betty</persName> having had <ecda:commodity ana="#currency #circulation">two leathern purses full
              of silver coin</ecda:commodity> stolen out of her trunk, her cousin
              <persName ref="#punch_0002">Punch</persName> told her to have patience till Sunday, and
              he thought that by that time he should be able to
@@ -13651,7 +13680,7 @@
              was all that we could extract from him, and we
              were obliged to dismiss him. However, the fright
              of his examination was not without good consequences:
-             one of the <ecda:commodity ana="#currency #exchange">stolen purses</ecda:commodity> had belonged
+             one of the <ecda:commodity ana="#currency #circulation">stolen purses</ecda:commodity> had belonged
              to a <ecda:anonPers>sister of <persName ref="#jug_betty_0001">Jug-Betty's</persName></ecda:anonPers>, not long deceased; and
              on her return home, <emph rend="italic">this</emph> purse (with its contents
              untouched) was found lying on the <ecda:anonPers>sister's</ecda:anonPers> grave
@@ -14278,13 +14307,126 @@
             wrong</distinct></quote>, was of some little assistance to me on this 
             
             
+            occasion. <said rend="quotes"><distinct type="dialect">Oh! quite just, me good, massa! what
+            massa say, quite just! me no say nothing more; me
+            good, massa!</distinct></said> Then they thanked me <said rend="quotes" direct="false"><distinct type="dialect">for massa's 
+            goodness in giving them so long talk</distinct>!</said> and went
+            away to tell all the others <said rend="quotes" direct="false"><distinct type="dialect">how just massa had been
+            in taking away what they wanted to keep, or not
+            giving them what they asked for</distinct>.</said> It must be
+            owned that this is not the usual mode of proceeding
+            after the loss of a chancery suit in <placeName>England</placeName>. But
+            to do the <rs type="persGroup">negroes</rs> mere justice, I must say, that I
+            could not have wished to find a more tractable set
+            of people on almost every occasion. Some lazy and
+            obstinate persons, of course, there must inevitably be
+            in so great a number; but in general I found them
+            excellently disposed, and being once thoroughly
+            convinced of my real good-will towards them, they
+            were willing to take it for granted, that my regulations
+            must be right and beneficial, even in cases
+            where they were in opposition to individual interests
+            and popular prejudices. My <ecda:anonPers>attorney</ecda:anonPers> had
+            mentioned to me several points, which he thought
+            it advisable to have altered, but which he had 
+            vainly endeavoured to accomplish. Thus the <rs type="persGroup">negroes</rs>
+            were in the practices of bequeathing their 
+            houses and grounds, by which means some of them
+            were become owners of several houses and numerous
+            gardens in the <rs type="place">village</rs>, while others with
+            large families were either inadequately provided for,
+            or not provided for at all. I made it public, that
+            from henceforth no negro should possess more than
             
             
             
+            one house, with a sufficient portion of ground for
+            his family, and on the following Sunday, the <ecda:anonPers>overseer</ecda:anonPers>
+            by my order looked over the village, took from
+            those who had too much to give to those who had
+            too little, and made an entire new distribution
+            according to the most strict <rs type="properAdjective">Agrarian</rs> law. Those
+            who lost by this measure, came the next day to 
+            complain to me; when I avowed its having been
+            done by my order, and explained the propriety of
+            the proceeding; after which they declared themselves
+            contented, and I never heard another murmer
+            on the subject. Again, <rs type="persGroup">mothers</rs> being allowed
+            certain indulgences while suckling, persist in it
+            for two years and upwards, to the great detriment
+            both of themselves and their <rs type="persGroup">children</rs>: complaint 
+            of this being made to me, I sent for the
+            <rs type="persGroup">mothers</rs>, and thold them that every child must be
+            sent to the weaning-house on the first day of the
+            fifteenth month, but that their indulgences should
+            be continued to the <rs type="persGroup">mothers</rs> for two months longer,
+            although the <rs type="persGroup">children </rs>would no longer be with them.
+            <rs type="persGroup">All</rs> who had <rs type="persGroup">children</rs> of that age immediately gave
+            them up; the <rs type="persGroup">rest</rs> promised to do so, when they
+            should be old enough; and they all thanked me for
+            the continuance of their indulgences, which they
+            considered as a boon newly granted them. On my
+            return from <placeName>Hordley</placeName>, I was told that the <rs type="persGroup">negroes</rs>
+            suffered their <ecda:fauna>pigs</ecda:fauna> to infest the works and grounds
+            in the immediate vicinity of the house in such
+            numbers, that they were become a perfect nui-
             
+            
+            sance; nor could any remonstrance prevail on
+            them to confine the animals within the <rs type="place">village</rs>.
+            An order was in consequence issued on a Saturday,
+            that the first four <ecda:fauna>pigs</ecda:fauna> found rambling at large
+            after two days should be put to death without
+            mercy; and accordingly on Monday morning, at
+            the negro breakfast hour, the <ecda:anonPers>head governor</ecda:anonPers> made
+            his appearance before the house, armed cap-a-pee,
+            with a lance in his hand, and an enormous cutlass
+            by his side. The news of this tremendous apparition
+            spread through the estate like wildfire. Instantly
+            all was in an uproar; the <rs type="persGroup">negroes</rs> came
+            pouring down from all quarters; in an instant the
+            whole air was rent with noises of all kinds and
+            creatures; <rs type="persGroup">men, women, and children </rs>shouting
+            and bellowing, <ecda:fauna>geese</ecda:fauna> cackling, <ecda:fauna>dogs</ecda:fauna> barking,
+            <ecda:fauna>turkeys</ecda:fauna> gobbling; and, look where you would,
+            there was a negro running along as fast as he
+            could, and dragging a <ecda:fauna>pig</ecda:fauna> along with him by one
+            of the hind legs, while the <ecda:fauna>pigs</ecda:fauna> were all astonishment
+            at this sudden attack, and called upon heaven
+            and earth for commiseration and protection,—
+            <quote rend="quotes">
+               <lg type="poem">
+                  <l>With many a doleful grunt and piteous squeak,</l>
+                  <l>Poor <ecda:fauna>pigs</ecda:fauna>! as if their pretty hearts would break!</l>
+               </lg>
+            </quote>
+           From thenceforth not a <ecda:fauna>pig</ecda:fauna> except my own was to
+            be seen about the place; yet instead of complaining
+            of this restraint, <rs type="persGroup">several of the negroes</rs> came to
+            assure me, that I might depend on the <ecda:fauna>animals</ecda:fauna>
+            not being suffered to stray beyond the <rs type="place">village</rs> for
+            
+            
+            
+            the future, and to thank me for having given them
+            the warning two days before. What other <rs type="persGroup">negroes</rs>
+            may be, I will not pretend to guess: but I am certain
+            that there cannot be more tractable or better
+            disposed persons (take them for all in all) than my
+            <rs type="persGroup">negroes of <placeName>Cornwall</placeName></rs>. I only wish, that in my
+            future dealings with <rs type="persGroup">white persons</rs>, whether <emph rend="italic">in</emph>
+            <placeName>Jamaica</placeName> or out of it, I could but meet with half
+            so much gratitude, affection, and good-will.           
          </p>
-       </div>   
-    </div>              
+       </div>  
+          
+      
+    </div>
+     
+         <trailer rend="allcaps">The End.</trailer>   
+            <trailer><placeName rend="smallcaps">London</placeName>:
+            Printed by <persName>A. Spottiswoode</persName>,
+          <placeName>New-Street-Square</placeName>.</trailer>
      </body>
       
   </text>
