@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="../out/ecda_odd.rnc" type="application/relax-ng-compact-syntax"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="../out/ecda.odd.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ecda="http://dsg.northeastern.edu/ecda/ns/1.0">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -18,23 +18,23 @@
   </teiHeader>
   <text>
      <front>
-        <titlePage>
+        <titleBlock>
            <docTitle>
               <titlePart type="main" rend="case(allcaps)align(center)">A
                  Treatise 
                  on 
-                 <commodity>Sugar</commodity>.
+                 <ecda:anonPers>Sugar</ecda:anonPers>.
               </titlePart>
               <!-- Delimiter/Ornament here. -->
            </docTitle>
            <byline rend="case(allcaps)align(center)">By
-              <docAuthor>Benjamin Moseley, M.D.</docAuthor>
+              <docAuthor><persName>Benjamin Moseley, M.D.</persName></docAuthor>
               Author of
               <title>A Treatise on Tropical Diseases</title>;
               <title>Military Operations</title>;
               <title>and the Climate of the <placeName>West Indies</placeName></title>;
               and
-              <title>A Treatise of <commodity>Coffee</commodity></title>:
+              <title>A Treatise of <ecda:commodity>Coffee</ecda:commodity></title>:
               <!--occupation-->Physician to <orgName><placeName>Chelsea</placeName> Hospital</orgName>,
               Member of the <orgName>College of Physicians of <placeName>London</placeName></orgName>.
               of the <orgName>University of <placeName>Leyden</placeName></orgName>,
@@ -50,7 +50,7 @@
               <!-- Delimiter/Ornament here. -->
               <date when="1799">MDCCXCIX</date>.
            </docImprint>
-        </titlePage>
+        </titleBlock>
      </front>     
      
       <body>
@@ -61,98 +61,97 @@
             Part the First.
             <!-- Delimiter/Ornament here. -->
          </head>
-            <bibl>
             <table rows="24" cols="2">
                <row role="data">
-                  <cell role="data"><foreign xml:lang="la"><commodity>Arundo Saccharifera</commodity></foreign>.</cell>
+                  <cell role="data"><foreign xml:lang="la"><ecda:commodity>Arundo Saccharifera</ecda:commodity></foreign>.</cell>
                   <cell role="data"><bibl><author rend="case(smallcaps)">C. Bauhin</author>, <title rend="slant(italic)">Pin</title>. 18.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><foreign xml:lang="la"><commodity>Arundo Saccharina</commodity></foreign>.</cell>
+                  <cell role="data"><foreign xml:lang="la"><ecda:commodity>Arundo Saccharina</ecda:commodity></foreign>.</cell>
                   <cell role="data"><bibl><author rend="case(smallcaps)">J. Bauhin</author>, 2. 531.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><foreign xml:lang="la"><commodity>Arundo Sacchari</commodity></foreign>.</cell>
+                  <cell role="data"><foreign xml:lang="la"><ecda:commodity>Arundo Sacchari</ecda:commodity></foreign>.</cell>
                   <cell role="data"><bibl><author rend="case(smallcaps)">F. Hernandez</author>, <hi rend="slant(italic)">p</hi>. 109.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><foreign xml:lang="la"><commodity>Calamus Saccharatus</commodity></foreign>.</cell>
+                  <cell role="data"><foreign xml:lang="la"><ecda:commodity>Calamus Saccharatus</ecda:commodity></foreign>.</cell>
                   <cell role="data"><bibl><author rend="case(smallcaps)">Munting</author>, <title rend="slant(italic)">Pl. Cult.</title><hi rend="slant(italic)">p</hi>.
                   284.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><foreign xml:lang="la"><commodity>Cann&#x00E6; Dulces</commodity></foreign>.</cell>
+                  <cell role="data"><foreign xml:lang="la"><ecda:commodity>Cann&#x00E6; Dulces</ecda:commodity></foreign>.</cell>
                   <cell role="data"><bibl><author rend="case(smallcaps)">P. Martyr</author>.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><foreign xml:lang="la"><commodity>Canna Mellea</commodity></foreign>.</cell>
+                  <cell role="data"><foreign xml:lang="la"><ecda:commodity>Canna Mellea</ecda:commodity></foreign>.</cell>
                   <cell role="data"><bibl><author rend="case(smallcaps)">C&#x00C6;salpin</author>, <title rend="slant(italic)">Hi&#x017f;t. Plant</title>.
                   <hi rend="slant(italic)">p</hi>. 182.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><foreign xml:lang="la"><commodity>Canna Saccharifera</commodity></foreign>.</cell>
+                  <cell role="data"><foreign xml:lang="la"><ecda:commodity>Canna Saccharifera</ecda:commodity></foreign>.</cell>
                   <cell role="data"><bibl><author rend="case(smallcaps)">Ogilby</author>, <title rend="slant(italic)">Chin</title>. I. 228.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><foreign xml:lang="la"><commodity>Canna Saccharina</commodity></foreign>.</cell>
+                  <cell role="data"><foreign xml:lang="la"><ecda:commodity>Canna Saccharina</ecda:commodity></foreign>.</cell>
                   <cell role="data"><bibl><author rend="case(smallcaps)">Nieuhof</author>, <hi rend="slant(italic)">p</hi>. 89.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><foreign xml:lang="la"><commodity>Canna Sacchari</commodity></foreign>.</cell>
+                  <cell role="data"><foreign xml:lang="la"><ecda:commodity>Canna Sacchari</ecda:commodity></foreign>.</cell>
                   <cell role="data"><bibl><author rend="case(smallcaps)">Laet</author>, <title rend="slant(italic)">lib</title>. I. <hi rend="slant(italic)">p</hi>. 27.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><foreign xml:lang="la"><commodity>Harundo Saccharifera</commodity></foreign>.</cell>
+                  <cell role="data"><foreign xml:lang="la"><ecda:commodity>Harundo Saccharifera</ecda:commodity></foreign>.</cell>
                   <cell role="data"><bibl><author rend="case(smallcaps)">Parkinson</author>, <title rend="slant(italic)">Theatr</title>.
                   <title rend="slant(italic)">Botan</title>. 1210.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><foreign xml:lang="fr"><commodity>Roseaux, ou Cannes de
-                     Sucre</commodity></foreign>.</cell>
+                  <cell role="data"><foreign xml:lang="fr"><ecda:commodity>Roseaux, ou Cannes de
+                     Sucre</ecda:commodity></foreign>.</cell>
                   <cell role="data"><bibl><author rend="case(smallcaps)">Labat</author>, <hi rend="slant(italic)">vol</hi>. 1. <hi rend="slant(italic)">p</hi>. 228.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><foreign xml:lang="fr"><commodity>Roseaux de Sucre</commodity></foreign>.</cell>
+                  <cell role="data"><foreign xml:lang="fr"><ecda:commodity>Roseaux de Sucre</ecda:commodity></foreign>.</cell>
                   <cell role="data"><bibl><author rend="slant(italic)">Lussan</author>.</bibl></cell>
                </row>
                          
             <pb n="002"/>
                <row role="data">
-                  <cell role="data"><foreign xml:lang="la"><commodity>Saccharum floribus pa-
-                     niculatis</commodity></foreign>.</cell>
+                  <cell role="data"><foreign xml:lang="la"><ecda:commodity>Saccharum floribus pa-
+                     niculatis</ecda:commodity></foreign>.</cell>
                   <cell role="data"><bibl><author rend="case(smallcaps)">Lin</author>. <title rend="slant(italic)">Sp</title>. <title rend="slant(italic)">P.</title>.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><foreign><commodity>Tacomare&#x00E9;, five Arun-
-                  da Saccharifera</commodity></foreign>.</cell>
+                  <cell role="data"><foreign><ecda:commodity>Tacomare&#x00E9;, five Arun-
+                  da Saccharifera</ecda:commodity></foreign>.</cell>
                   <cell role="data"><bibl><author rend="case(smallcaps)">Piso</author>, <title rend="slant(italic)">Lib</title>. IV <hi rend="slant(italic)">Cap</hi>. I.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><commodity><foreign>Viba &amp; Tacomare&#x00E9; &amp;</foreign>
-                  <foreign xml:lang="la">Canna Sacchari</foreign></commodity>.</cell>
+                  <cell role="data"><ecda:commodity><foreign>Viba &amp; Tacomare&#x00E9; &amp;</foreign>
+                  <foreign xml:lang="la">Canna Sacchari</foreign></ecda:commodity>.</cell>
                   <cell role="data"><bibl rend="case(smallcaps)">Ib.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><commodity><foreign>Vub&#xe6; &amp; Tacomare&#x00E9;</foreign>
-                  <foreign xml:lang="la"><rs type="properAdjective">Brasiliensibus</rs></foreign></commodity></cell>
+                  <cell role="data"><ecda:commodity><foreign>Vub&#xe6; &amp; Tacomare&#x00E9;</foreign>
+                  <foreign xml:lang="la"><rs type="properAdjective">Brasiliensibus</rs></foreign></ecda:commodity></cell>
                   <cell role="data"><bibl><author rend="slant(smallcaps)">Marcgrav</author>, 82.</bibl></cell>
                </row>
             </table>
-            </bibl>
+            
          </div>
          
         <pb n="003"/>
          <div type="section">
             <head rend="slant(allcaps)align(center)">History
             of the
-            <commodity>Sugar Cane</commodity></head>
+            <ecda:commodity>Sugar Cane</ecda:commodity></head>
             <!-- Delimiter/Ornament here. -->
             <p><hi rend="case(smallcaps)">I have</hi> undertaken a difficult task, in at-
-               tempting to give an History of <commodity rend="case(smallcaps)">Sugar</commodity>.
+               tempting to give an History of <ecda:commodity rend="case(smallcaps)">Sugar</ecda:commodity>.
             </p>
             <p>Much time has elapsed since the cultivation 
-               of the <commodity>sugar</commodity> cane has been generally known,
-               and <commodity>sugar</commodity> in almost general use. Yet no per-
+               of the <ecda:commodity>sugar</ecda:commodity> cane has been generally known,
+               and <ecda:commodity>sugar</ecda:commodity> in almost general use. Yet no per-
                son hitherto has connected any regular series
                of facts on the subject; a subject of the first 
                importance in commerce: and, more than 
@@ -171,8 +170,8 @@
          </div>
          <div type="subsection">
             <p>The most ancient author, who mentions the
-               <commodity>sugar cane</commodity> is <persName rend="case(smallcaps)">Theophrastus</persName>, who lived 321
-               years before the <religion>Christian</religion> &#xe6;ra. I shall begin
+               <ecda:commodity>sugar cane</ecda:commodity> is <persName rend="case(smallcaps)">Theophrastus</persName>, who lived 321
+               years before the <rs type="properAdjective">Christian</rs> &#xe6;ra. I shall begin
                
         <pb n="004"/>
                with him; and recite a few passages and allu-
@@ -189,29 +188,29 @@
                  <!-- Set up supplied source for clarification. See Sarah Stanley's email. -->
                   <!-- Insert footnote! -->
             </p>
-            <p><quote rend="pre(“) post(”)">The generation of <commodity>honey</commodity> is threefold: the
+            <p><quote rend="pre(“) post(”)">The generation of <ecda:commodity>honey</ecda:commodity> is threefold: the
                first sort is from flowers, or other things in
                which there is sweetness: the second, from the
                air, which, when there are dews, is concocted
                by the heat of the sun, and falls particularly
-               in harvest time: the third sort is from <commodity>canes</commodity>
-               or <commodity>reeds</commodity>.</quote>
+               in harvest time: the third sort is from <ecda:commodity>canes</ecda:commodity>
+               or <ecda:commodity>reeds</ecda:commodity>.</quote>
             </p>
-            <p>He mentions that the second sort of <commodity>honey</commodity>,
+            <p>He mentions that the second sort of <ecda:commodity>honey</ecda:commodity>,
                or that generated from the moisture in the air, 
                falls on the earth, and on plants; and is found
                chiefly on the boughs of the oak, and <hi rend="slant(italic)">Tilia</hi>, or
-               <commodity>lime</commodity> tree.
+               <ecda:commodity>lime</ecda:commodity> tree.
             </p>
-            <p>By the <commodity>cane</commodity>, which yields the third species 
-               of <commodity>honey</commodity>, it is supposed that he implies the 
-               <commodity>sugar cane</commodity>; and the <commodity>honey</commodity>, the juice, perhaps
+            <p>By the <ecda:commodity>cane</ecda:commodity>, which yields the third species 
+               of <ecda:commodity>honey</ecda:commodity>, it is supposed that he implies the 
+               <ecda:commodity>sugar cane</ecda:commodity>; and the <ecda:commodity>honey</ecda:commodity>, the juice, perhaps
                inspissated, of that plant.
             </p>
    
       <pb n="005"/>
             <p><persName rend="case(smallcaps)">Theophrastus</persName> mentions another sort of
-               <commodity>reed</commodity> or <commodity>cane</commodity>, growing in marshy places in
+               <ecda:commodity>reed</ecda:commodity> or <ecda:commodity>cane</ecda:commodity>, growing in marshy places in
                <placeName>Egypt</placeName>, with sweet roots. Speaking of the 
                different properties of the different parts of
                plants, he says,—
@@ -219,7 +218,7 @@
             <p>
                <quote><!-- INSERT GREEK PARAGRAPH, footnotes, source HERE! --></quote>
             </p>
-            <p><quote rend="pre(“) post(”)">As in the <commodity>cane</commodity> which grows in marshy
+            <p><quote rend="pre(“) post(”)">As in the <ecda:commodity>cane</ecda:commodity> which grows in marshy
                places in <placeName>Egypt</placeName>: the extreme parts of which 
                are also sweet, but in a small degree. But that 
                which yields the most nutriment, and is tender
@@ -229,16 +228,16 @@
                proper for food, or grateful.</quote>
             </p>
             <p>Whether <persName rend="case(smallcaps)">Theophrastus</persName>, who was a <name>Lesbian</name>,
-               had ever seen this <commodity>reed</commodity> in <placeName>Egypt</placeName> with sweet
+               had ever seen this <ecda:commodity>reed</ecda:commodity> in <placeName>Egypt</placeName> with sweet
                roots, or whether he had the account of it
-               from others, or whether such a <commodity>reed</commodity> really
+               from others, or whether such a <ecda:commodity>reed</ecda:commodity> really
                
       <pb n="006"/>           
                exists, may be equally a matter of conjecture;
                but I have given his account of it, because
-               other writers have mentioned this <commodity>reed</commodity> with
+               other writers have mentioned this <ecda:commodity>reed</ecda:commodity> with
                sweet roots probably from him; and many
-               have supposed the <commodity rend="slant(italic)">Sugar Cane</commodity> was the <commodity>reed</commodity> al-
+               have supposed the <ecda:commodity rend="slant(italic)">Sugar Cane</ecda:commodity> was the <ecda:commodity>reed</ecda:commodity> al-
                luded to, though erroneously described. But 
                this will be better understood by comparing 
                this passage in <persName rend="case(smallcaps)">Theophrastus</persName>, with what has
@@ -256,15 +255,15 @@
                   <l><foreign xml:lang="la">Dulcia cui nequeant succo contendere mella</foreign>.</l><!-- Insert footnote here! -->
                   </lg>
                </quote>
-               <p><quote rend="pre(“) post(”)">The <rs type="properAdjective"><commodity>Indian</commodity></rs> <commodity>reed</commodity> does not grow to a large
-                  tree: from its viseid roots a <commodity>liquor</commodity> is pressed,
-                  to which <commodity>honey</commodity> cannot be compared for sweetness.</quote>
+               <p><quote rend="pre(“) post(”)">The <rs type="properAdjective"><ecda:commodity>Indian</ecda:commodity></rs> <ecda:commodity>reed</ecda:commodity> does not grow to a large
+                  tree: from its viseid roots a <ecda:commodity>liquor</ecda:commodity> is pressed,
+                  to which <ecda:commodity>honey</ecda:commodity> cannot be compared for sweetness.</quote>
                </p>
          </div>
          <div type="subsection">
             <p><persName rend="case(smallcaps)">Dionysius Afer</persName> <hi rend="slant(italic)">(<foreign xml:lang="la">anno</foreign></hi> 3. Ær. Chr. <hi rend="case(smallcaps)">Sax</hi>.
                <hi rend="slant(italics)"><unclear>Onemast</unclear>.)</hi> mentions that the <name>Indians</name> drink the 
-               juice of the <!-- Insert Greek here! -->, or <commodity>Indian cane</commodity> <!-- Insert footnote here! -->
+               juice of the <!-- Insert Greek here! -->, or <ecda:commodity>Indian cane</ecda:commodity> <!-- Insert footnote here! -->
             </p>
          </div>
          
@@ -279,9 +278,9 @@
             <p>
                <quote><!-- Insert Greek passage here! --></quote><!-- Insert footnote. -->
             </p>
-            <p><quote rend="pre(“) post(”)">He (<persName rend="case(smallcaps)">Nearchus</persName>) relates, that the <commodity>reed</commodity> (in
-               <placeName>India</placeName>) yields <commodity>honey</commodity> without bees; but it is 
-               not a fruit-bearing tree: yet the <commodity>fruit</commodity> intoxi-
+            <p><quote rend="pre(“) post(”)">He (<persName rend="case(smallcaps)">Nearchus</persName>) relates, that the <ecda:commodity>reed</ecda:commodity> (in
+               <placeName>India</placeName>) yields <ecda:commodity>honey</ecda:commodity> without bees; but it is 
+               not a fruit-bearing tree: yet the <ecda:commodity>fruit</ecda:commodity> intoxi-
                cates.</quote>
             </p>
             <p>The latter part of this passage has perplexed
@@ -294,7 +293,7 @@
                <quote><!-- Insert Greek passage here! --></quote>
             </p>
             <p><quote rend="pre(“) post(”)">The roots of plants (in <placeName>India</placeName>), particu-
-               larly of the great <commodity>reeds</commodity>, are sweet by nature,
+               larly of the great <ecda:commodity>reeds</ecda:commodity>, are sweet by nature,
                and by decoction.</quote>
             </p>
             <p>He also mentions the <!-- Insert Greek -->growing
@@ -309,17 +308,17 @@
          <pb n="008"/>
             <p><quote><!-- Insert Latin passage! --></quote>
             </p>
-            <p><quote rend="pre(“) post(”)">They say that, in the <placeName>Indies</placeName>, <commodity>honey</commodity> is
-               found in the leaves of <commodity>canes</commodity>; which is pro-
+            <p><quote rend="pre(“) post(”)">They say that, in the <placeName>Indies</placeName>, <ecda:commodity>honey</ecda:commodity> is
+               found in the leaves of <ecda:commodity>canes</ecda:commodity>; which is pro-
                duced by the dew, or the sweet juice of the
-               <commodity>cane</commodity> itself, concreting. In our <commodity>herbs</commodity> also there
+               <ecda:commodity>cane</ecda:commodity> itself, concreting. In our <ecda:commodity>herbs</ecda:commodity> also there
                is the same quality, but in a less degree; from 
-               which the bees extract <commodity>honey</commodity>.</quote>
+               which the bees extract <ecda:commodity>honey</ecda:commodity>.</quote>
             </p>
             <p>This, being in the time of <persName rend="case(smallcaps)">Nero</persName>, proves that
             the <name>Romans</name>, at that period, knew but little of
-            the <commodity>sugar cane</commodity>, and nothing of the manu-
-            facture of <commodity>sugar</commodity>.
+            the <ecda:commodity>sugar cane</ecda:commodity>, and nothing of the manu-
+            facture of <ecda:commodity>sugar</ecda:commodity>.
             </p>
          </div>
          <div type="subsection">
@@ -330,7 +329,7 @@
             <p><quote rend="slant(italic)"><foreign xml:id="la">Quique bibunt tener á dulces ab arundine succos</foreign></quote>,
             </p>
             <p><quote rend="pre(“) post(”)">They drink the sweet juices of the tender
-               <commodity>reed</commodity></quote>.
+               <ecda:commodity>reed</ecda:commodity></quote>.
             </p>
          </div>
          <div type="subsection">
@@ -355,7 +354,7 @@
          <div type="subsection">
             <p><persName rend="slant(italic)">Salmasius</persName>, <persName rend="slant(italic)">Geoffroy</persName>, and many other au-
             thors, have believed that these trees, mentioned
-            by <persName rend="slant(italic)">Pliny</persName>, were <commodity>sugar canes</commodity>; but certainly
+            by <persName rend="slant(italic)">Pliny</persName>, were <ecda:commodity>sugar canes</ecda:commodity>; but certainly
             without reason.
             </p>
             <p>If we may credit the <rs type="properAdjective">Spanish</rs> historian of
@@ -379,7 +378,7 @@
                with a valley, which is terminated by the steep
                front of a rock. On the top of this rock
                grows a tree, now called <hi rend="slant(italic)">Til</hi>, but, in the lan-
-               guage of the antient inhabitants, <lang>Garse</lang>, i.e.
+               guage of the antient inhabitants, Garse, i.e.
                Sacred, or Holy Tree. Its leaves constantly
                distil such a quantity of water as is sufficient
                to furnish drink to every living creature in 
@@ -390,7 +389,7 @@
                <measure>twenty feet square</measure>, and <measure>sixteen spans in depth</measure>.
                One of these contains water for the drinking
                of the inhabitants, and the other that which
-               they use for their <commodity>cattle</commodity>, washing, and such
+               they use for their <ecda:commodity>cattle</ecda:commodity>, washing, and such
                like purposes. Every morning, near this part
                of the island, a cloud or mist arises from the 
                sea, which the South and Easterly winds force 
@@ -453,18 +452,18 @@
                has a passage, which has been the foundation
                of much dispute among critics and commenta-
                tors; some contending that the reading should
-               be <commodity><foreign xml:lang="la" rend="slant(italic)">cannæ</foreign></commodity>, <commodity>canes</commodity>; others, that it should be
-               <commodity><foreign xml:lang="la" rend="slant(italic)">caunæ</foreign></commodity>, <commodity>figs</commodity>: so called from <placeName rend="slant(italic)">Caunus</placeName>, a town in
-               <placeName>Egypt</placeName>, famous for <commodity>figs</commodity>.
+               be <ecda:commodity><foreign xml:lang="la" rend="slant(italic)">cannæ</foreign></ecda:commodity>, <ecda:commodity>canes</ecda:commodity>; others, that it should be
+               <ecda:commodity><foreign xml:lang="la" rend="slant(italic)">caunæ</foreign></ecda:commodity>, <ecda:commodity>figs</ecda:commodity>: so called from <placeName rend="slant(italic)">Caunus</placeName>, a town in
+               <placeName>Egypt</placeName>, famous for <ecda:commodity>figs</ecda:commodity>.
             </p>
             <p><foreign xml:lang="la" rend="slant(italic)">Et quas percoquit Ebusita cannas</foreign>.</p>
             <p><quote rend="pre(“)post(”)">The island of <placeName rend="slant(italic)">Ebusus</placeName> (or <placeName rend="slant(italic)">Ivica</placeName>, in the <placeName>Me-
                diterranean</placeName>, near <placeName>Valencia</placeName> in <placeName>Spain</placeName>), which
-               yields ripe <commodity>canes</commodity>.</quote></p>
+               yields ripe <ecda:commodity>canes</ecda:commodity>.</quote></p>
             
       <pb n="013"/>     
             <p><foreign xml:lang="la" rend="slant(italic)">Et quas percoquit Ebosea caunas</foreign>.</p>
-            <p><quote rend="pre(“)post(”)">Ebusus which ripens <hi rend="slant(italic)">(<foreign xml:lang="la">caunæ</foreign>)</hi> <commodity>figs</commodity>.</quote></p>
+            <p><quote rend="pre(“)post(”)">Ebusus which ripens <hi rend="slant(italic)">(<foreign xml:lang="la">caunæ</foreign>)</hi> <ecda:commodity>figs</ecda:commodity>.</quote></p>
          </div>
          <div type="subsection">
             <p><persName rend="case(smallcaps)">Solinus</persName> <hi rend="slant(italic)">(<foreign xml:lang="la">anno</foreign></hi> 218), in the <bibl>52d chapter of
@@ -473,28 +472,28 @@
                sam, ut fissis internodiis lembi vice vectitet navi-
                gantes; è radicubus ejus exprimitur humor dulcis ad
                melleam suavitatem</foreign><!-- Insert footnote here! -->.</p>
-            <p><quote rend="pre(“)post(”)">The marshy places produce <commodity>reeds</commodity> so large,
+            <p><quote rend="pre(“)post(”)">The marshy places produce <ecda:commodity>reeds</ecda:commodity> so large,
                that between the joints, when divided in the 
                middle, they are capable of carrying people in
                the manner of boats; from the roots of this
-               <commodity>reed</commodity> a juice is expressed as sweet as <commodity>honey</commodity>.</quote></p>
+               <ecda:commodity>reed</ecda:commodity> a juice is expressed as sweet as <ecda:commodity>honey</ecda:commodity>.</quote></p>
             <p><persName rend="case(allcaps)">Solinus</persName> has taken the first part of this pas-
                sage from <persName rend="case(allcaps)">Pliny</persName>; who, as well as <persName rend="case(allcaps)">Herodotus</persName>,
                says, that the <name>Indians</name> make boats, or ca-
-               noes, from the <commodity>canes</commodity> growing in marshy places:
+               noes, from the <ecda:commodity>canes</ecda:commodity> growing in marshy places:
                but neither <persName rend="case(allcaps)">Herodotus</persName> nor <persName rend="case(allcaps)">Pliny</persName> mention the
-               sweetness of their <commodity>roots</commodity>.</p>
+               sweetness of their <ecda:commodity>roots</ecda:commodity>.</p>
          </div>
          <div type="subsection">
-            <p><persName rend="case(allcaps)">Herodotus</persName>, 444 years before the <religion>Chris-
-               tian</religion> æra, in his <title rend="slant(italic)">Thalia</title>, says the <name>Indians</name>,
+            <p><persName rend="case(allcaps)">Herodotus</persName>, 444 years before the <rs type="properAdjective">Chris-
+               tian</rs> æra, in his <title rend="slant(italic)">Thalia</title>, says the <name>Indians</name>,
                who inhabit the morasses of the river, feed on
-               <commodity>raw fish</commodity>, which they catch in boats made of
-               <commodity>reeds</commodity>; a single joint of which is large enough
+               <ecda:commodity>raw fish</ecda:commodity>, which they catch in boats made of
+               <ecda:commodity>reeds</ecda:commodity>; a single joint of which is large enough
                
        <pb n="014"/>
                for one boat: and <persName rend="case(smallcaps)">Pliny</persName>, in the <bibl>2d chapter 
-               of his 7th book</bibl>, says in <placeName>India</placeName> the <commodity>canes</commodity> grow
+               of his 7th book</bibl>, says in <placeName>India</placeName> the <ecda:commodity>canes</ecda:commodity> grow
                to so great a size, that, from a single joint,
                a boat may be made capable of carrying three
                people.
@@ -502,18 +501,18 @@
             <p>I have now selected every thing, excepting
                the trival common-place matter (which may
                be found in almost every Lexicon), respecting
-               the <commodity rend="slant(italic)">cane</commodity>, or <commodity rend="slant(italic)">reed</commodity>, to which the property of
+               the <ecda:commodity rend="slant(italic)">cane</ecda:commodity>, or <ecda:commodity rend="slant(italic)">reed</ecda:commodity>, to which the property of
                <hi rend="slant(italic)">sweetness</hi> has been attributed, by every writer 
-               preceding the reign of <religion>priestcraft</religion>, igno-
+               preceding the reign of priestcraft, igno-
                rance, and oblivion. I shall pass over that 
                long night of human reason, where nothing is
                to be found,—to the more certain and dete­
-               minate history of the <commodity>sugar cane</commodity>.
+               minate history of the <ecda:commodity>sugar cane</ecda:commodity>.
             </p>
             <p>On the discovery of the Western hemipshere,
-               the <commodity>Sugar Cane</commodity> was found on the continent;
+               the <ecda:commodity>Sugar Cane</ecda:commodity> was found on the continent;
                and also in some of the Atlantic islands; but
-               the art of making <commodity>sugar</commodity>, it is said, never was 
+               the art of making <ecda:commodity>sugar</ecda:commodity>, it is said, never was 
                practiced by the <name>aborigines</name> of the <placeName>West Indian
                islands</placeName>, until they were settled by <name>Euro-
                peans</name>; nor by the <name>Mexicans</name>, or <name>Peruvians</name>, or 
@@ -532,85 +531,85 @@
             of the <placeName>East Indies</placeName>, by the <name>Portuguese</name> naviga-
             tors, in 1497; and before the discovery of the 
             <placeName>Brazils</placeName>, by the same nation, in 1500; abun-
-            dance of <commodity>sugar</commodity> was made in the islands of <placeName>Si-
+            dance of <ecda:commodity>sugar</ecda:commodity> was made in the islands of <placeName>Si-
             cily</placeName>, <placeName>Crete</placeName>, <placeName>Rhodes</placeName>, and <placeName>Cyprus</placeName>.
             </p>
-            <p>The <commodity>sugar cane</commodity> is supposed to have been 
+            <p>The <ecda:commodity>sugar cane</ecda:commodity> is supposed to have been 
                brought to these islands originally, from <placeName>India</placeName>,
                by the <name>Saracens</name>; and from thence transplanted
                into some parts of <placeName>Italy</placeName>; and to <placeName>Spain</placeName>, from
                <placeName>Africa</placeName>, by the <name>Moors</name>.
             </p>
-            <p>In <placeName>Spain</placeName>, the <commodity>sugar cane</commodity> was first planted
+            <p>In <placeName>Spain</placeName>, the <ecda:commodity>sugar cane</ecda:commodity> was first planted
             in <placeName>Valencia</placeName>, and afterwards in <placeName>Granada</placeName>, and 
-            <placeName>Murcia</placeName>. <commodity>Sugar</commodity> was formerly, in these Southern
+            <placeName>Murcia</placeName>. <ecda:commodity>Sugar</ecda:commodity> was formerly, in these Southern
             parts of <placeName>Spain</placeName>, produced in great quantity; and 
             some is still made in the two latter provinces.
             </p>
             <p>The celebrated Mr. <persName rend="case(smallcaps)">Francis Willoughby</persName>, 
             who entered <placeName>Spain</placeName> from <placeName>Roussillon</placeName>, and travelled
             through great part of it in 1664, says, <quote rend="pre(“)">at 
-            <placeName>Cullura</placeName> the <commodity>wine</commodity> first begain to be sweet; and 
+            <placeName>Cullura</placeName> the <ecda:commodity>wine</ecda:commodity> first begain to be sweet; and 
             <measure>three leagues</measure> off, at <placeName>Gandia</placeName>, in <placeName>Valencia</placeName>, the 
-             plantations of <commodity>sugar canes</commodity> began. <foreign xml:lang="la">Quere</foreign>,
+             plantations of <ecda:commodity>sugar canes</ecda:commodity> began. <foreign xml:lang="la">Quere</foreign>,
              whether the nature of the soil, that was fit to
-             nourish the <commodity>sugar canes</commodity>, did not also contri-
-             bute to the nature of the <commodity>grapes</commodity>?</quote>
+             nourish the <ecda:commodity>sugar canes</ecda:commodity>, did not also contri-
+             bute to the nature of the <ecda:commodity>grapes</ecda:commodity>?</quote>
             </p>
-            <p><quote rend="pre(“)">At <placeName>Gandia</placeName> we first found <commodity>raisins of the
-               sun</commodity>, as they are called in <placeName>England</placeName>; in <placeName>Spain</placeName> 
+            <p><quote rend="pre(“)">At <placeName>Gandia</placeName> we first found <ecda:commodity>raisins of the
+               sun</ecda:commodity>, as they are called in <placeName>England</placeName>; in <placeName>Spain</placeName> 
          
       <pb n="016"/>
                they call this kind <foreign rend="slant(italic)">pansas</foreign>, and they seem to be
                the <foreign rend="slant(italic)">duracinæ</foreign> of the antients. They are all
                white, round, and have a tougher skin than
-               other <commodity>grapes</commodity>. They gather them when fully 
+               other <ecda:commodity>grapes</ecda:commodity>. They gather them when fully 
                ripe, and dip them in a boiling lixivium of
                water and ashes, just dipping them in, and ta-
                king them out again; and then dry them upon
                boards in the sun, taking them in by night,
                or in foul weather. The name raisin comes
-               from <foreign xml:lang="la" rend="slant(italic)">racemus</foreign>. <commodity>Figs</commodity> are dried just as they
+               from <foreign xml:lang="la" rend="slant(italic)">racemus</foreign>. <ecda:commodity>Figs</ecda:commodity> are dried just as they
                are gathered, not being dipped in any lixi-
                vium.</quote>
             </p>
             <p><quote rend="pre(“)post(”)">I went to <placeName>Olives</placeName>, in <placeName>Valencia</placeName> also, where,
-               and at <placeName>Gandia</placeName>, are the engines for <commodity>sugar-works</commodity>;
+               and at <placeName>Gandia</placeName>, are the engines for <ecda:commodity>sugar-works</ecda:commodity>;
                the best are at <placeName>Olives</placeName>. By the way we saw the
-               <commodity>sugar canes</commodity> growing in several places. They
+               <ecda:commodity>sugar canes</ecda:commodity> growing in several places. They
                are planted in low wet grounds, well mucked
                and dressed, divided into beds or hillocks, and
-               furrows. They cut the <commodity>canes</commodity> close to the roots
+               furrows. They cut the <ecda:commodity>canes</ecda:commodity> close to the roots
                in November and December, and, cutting off 
                the slender tops, which afford no good juice,
                keep them under ground till March, and then
                prick them into these hillocks or beds; out of
                every <foreign xml:lang="la" rend="slant(italic)">talea</foreign>, or cut, shoot four, five, or six,
-               <commodity>canes</commodity>, which will be ripe next December.
-               The knots, or joints of the <commodity>cane</commodity> at the bot-
+               <ecda:commodity>canes</ecda:commodity>, which will be ripe next December.
+               The knots, or joints of the <ecda:commodity>cane</ecda:commodity> at the bot-
                tom are very close together, scarce an inch
                asunder; but upwards the distance is more, as
              
       <pb n="017"/>
-               the <commodity>cane</commodity> grows slenderer. Within is a white
-               pulp, or pith, full of <commodity>sap</commodity> sweet as <commodity>honey</commodity>.
+               the <ecda:commodity>cane</ecda:commodity> grows slenderer. Within is a white
+               pulp, or pith, full of <ecda:commodity>sap</ecda:commodity> sweet as <ecda:commodity>honey</ecda:commodity>.
                They sell them at <placeName>Gandia</placeName> to eat, and, cutting
                them in pieces just in the middle between two
                knots, suck the pieces at both ends. To make
-               <commodity>sugar</commodity>, after the <commodity>canes</commodity> are cleansed from the 
+               <ecda:commodity>sugar</ecda:commodity>, after the <ecda:commodity>canes</ecda:commodity> are cleansed from the 
                tops and leaves, and cut to pieces, they are
                first bruised, either with a perpendicular stone
-               running round, as <commodity>apples</commodity> to make <commodity>cyder</commodity>, or
-               <commodity>olives</commodity> to make <commodity>oil</commodity>; or between two axes strongly
+               running round, as <ecda:commodity>apples</ecda:commodity> to make <ecda:commodity>cyder</ecda:commodity>, or
+               <ecda:commodity>olives</ecda:commodity> to make <ecda:commodity>oil</ecda:commodity>; or between two axes strongly
                capped with iron, horizontally placed, and
                turned contrary ways; and then pressed as
-               <commodity>grapes</commodity> or <commodity>olives</commodity> are. The juice thus pressed
+               <ecda:commodity>grapes</ecda:commodity> or <ecda:commodity>olives</ecda:commodity> are. The juice thus pressed
                out is boiled in three several cauldrons, one
                after another. In the third cauldron it be-
                comes thick and black, and is then put into
                conical pots, which at the bottom have a lit-
                tle hole stopped only with coarse and foul
-               <commodity>sugar</commodity>. These pots are covered when full
+               <ecda:commodity>sugar</ecda:commodity>. These pots are covered when full
                with a cake of paste, made of a kind of
                earth called the <rs type="properAdjective">Spanish</rs> <foreign xml:lang="sp">gritty</foreign>, and found near
                <placeName>Olives</placeName>, which is good to take spots out of 
@@ -626,15 +625,15 @@
                drunk up by the lute, or run out by the hole
                in the vertex. The juice is boiled again, so
                long as it is good for any thing; but at last it
-               makes only a foul <commodity>red sugar</commodity>, that will never
-               be better. The conical loaves of <commodity>sugar</commodity>, after
+               makes only a foul <ecda:commodity>red sugar</ecda:commodity>, that will never
+               be better. The conical loaves of <ecda:commodity>sugar</ecda:commodity>, after
                they are taken out, are set to drain over the
-               same pots for 14 or 15 days. To make the <commodity>sugar</commodity>
+               same pots for 14 or 15 days. To make the <ecda:commodity>sugar</ecda:commodity>
                more white, they must boil it again, but about
-               one-sixth is lost every time. A pound of <commodity>sugar</commodity>
-               of 12 ounces is sold at Olives for three <currency rend="slant(italic)">sous</currency> and
-               an half; refined for five or six <currency rend="slant(italic)">sous</currency>. The <commodity>su-
-               gar</commodity> juice is strained through strainers of <commodity>linen</commodity>,
+               one-sixth is lost every time. A pound of <ecda:commodity>sugar</ecda:commodity>
+               of 12 ounces is sold at Olives for three <measure rend="slant(italic)">sous</measure> and
+               an half; refined for five or six <measure rend="slant(italic)">sous</measure>. The <ecda:commodity>su-
+               gar</ecda:commodity> juice is strained through strainers of <ecda:commodity>linen</ecda:commodity>,
                and is put out of one cauldron into another.
                They take it out of the first and second caul-
                drons so soon as it begins to boil; but in the
@@ -645,7 +644,7 @@
                nical pots. One scum rises after another in the 
                third cauldron. The scum, when it is taken
                off, is white, but turns to a black liquor in the
-               trough. They never refine the <commodity>sugar</commodity> more
+               trough. They never refine the <ecda:commodity>sugar</ecda:commodity> more
                than three or four times. They use for the re-
                fining of it whites of eggs, putting in two or
                three dozen into a cauldron. They use but one
@@ -657,17 +656,17 @@
                into the cauldron, to dissolve it the better.</quote>
                <bibl><title><persName rend="case(smallcaps)">Ray's</persName> Travels</title>, ed. 1737, vol. I. p. 409.</bibl>
             </p>
-            <p>From <placeName>Valencia</placeName>, the cultivation of the <commodity>su-
-               gar cane</commodity>, and the manufacture of <commodity>sugar</commodity>, were
+            <p>From <placeName>Valencia</placeName>, the cultivation of the <ecda:commodity>su-
+               gar cane</ecda:commodity>, and the manufacture of <ecda:commodity>sugar</ecda:commodity>, were
                carried in the beginning of the 15th century,
                by the <name>Spaniards</name>, to the <placeName>Canary Islands</placeName>, and
-               the commerce arising from the <commodity>sugar</commodity> there pro-
+               the commerce arising from the <ecda:commodity>sugar</ecda:commodity> there pro-
                duced was considerable: but, prior to this
                period, the <name>Portuguese</name>, in 1420, carried the
-               <commodity>cane</commodity>, and the manufacture of <commodity>sugar</commodity>, from the
+               <ecda:commodity>cane</ecda:commodity>, and the manufacture of <ecda:commodity>sugar</ecda:commodity>, from the
                island of <placeName>Sicily</placeName> to <placeName>Madeira</placeName>. From these ori-
-               gins the cultivation of <commodity>sugar cane</commodity>, and
-               the art of making <commodity>sugar</commodity>, were extended by 
+               gins the cultivation of <ecda:commodity>sugar cane</ecda:commodity>, and
+               the art of making <ecda:commodity>sugar</ecda:commodity>, were extended by 
                different nations of <name>Europeans</name> to the <placeName>West In-
                dian islands</placeName>, and the <placeName>Brazils</placeName>.
             </p>
@@ -691,10 +690,116 @@
                <name>natives</name>, they relinquished the enterprize.
             </p>
             <p>The first of these islands that was conquered
-               was 
-               
+               was <placeName rend="italic">Lancerata</placeName> in <date when="1400">1400</date>; <placeName rend="italic">Fuerventura</placeName> was
+               captured in <date when="1405">1405</date>; <placeName rend="italic">Canaria</placeName>, in <date when="1483">1483</date>; <placeName rend="italic">Palma</placeName>, in
+               <date when="1491">1491</date>; <placeName rend="italic">Teneriff</placeName>, in <date when="1495">1495</date>.
             </p>
-            
+            <p>The island of <placeName>Madeira</placeName> is supposed, like the
+               <placeName>Canary islands</placeName>, to have been known to the
+               antients; and, like them. to have been lost in
+               the same interval of darkness, until the year
+               1344; when an <rs type="properAdjective">English</rs> vessel was driven on
+               this island by a storm. But this event was not
+               succeeded by any intercourse with the island,
+               and seems to have been forgotten as no notice
+               was taken of it until <date when="1419">1419</date>, when it was again
+               discrovered by the <name>Portuguese</name>; who, in the
+               following year, <date when="1420">1420</date>, took possession of it. It
+               was then a mere wilderness, as its name imports,
+               and unpeopled. The <name>Portuguese</name>
+               burnt the woods, and made a settlement; and,
+               in the same year, planted the sugar cane there,
+               which they brought from the island of <placeName>Sicily</placeName>.
+            </p>
+            <p>From the incorrect accounts of the first
+               <rs type="properAdjective">West Indian</rs> discoveries, it is impossible to
+               ascertain in which of the islands the cane was
+               found, an in which it was not. We know it
+               was seen in some of them: but, from modern
+               navigators, we have proofs that it grows
+               spontaneously in all the islands in the <placeName>South Sea</placeName>
+            </p>
+            <p>It was found in great abundance in all the 
+               <placeName>Society islands</placeName>, <placeName>Easter island</placeName>, and the
+               <placeName>Sandwich isles</placeName>; where the <rs type="persGroup">Indians</rs> are perfectly
+               acquainted with the use of its expressed juice,
+               but have know the knowledge of making sugar.
+            </p>
+            <p>Some plants of these canes have lately been
+               introduced into the <placeName>West Indies</placeName>; and the
+               astonishing increase of sugar, which those brought
+               from <placeName>Otaheite</placeName> and planted in <placeName>Jamaica</placeName> yield
+               over those of the island, shews, if there be not
+               different species,—that vegetables, as well as
+               animals, may denegrate, and requires the
+               impulse of change to incite or reanimate their
+               vigour.
+            </p>
+            <p>Thus the breed of cattle, and thus also the
+               improved husbandry in <placeName>Europe</placeName> in general, are
+               carried on; grain, seeds, and plants, are removed
+               from place to place, and varied, and cultivated,
+               on physical principles, by philosophers.
+            </p>
+            <p>In <placeName>England</placeName>, the <persName>Duke of <placeName>Bedfort</placeName></persName>, and <persName>Mr.
+               Coke</persName>, have distinguished themselves in this kind
+               of knowledge; and have rendered the most essential
+               services to their country.
+            </p>
+            <p>This should be a lesson to the planter of
+               The sugar cane, not to continue propagating
+               from the same stock; or at least to try the
+               effects, where any degenracy appears, of new
+               plants from another island; or from the remote
+               parts of the same island, where the former 
+               cannot be obtained.
+            </p>
+            <p>Whether there be different species of the
+               sugar cane,or whether the varieties, with
+               which we have been lately made aquainted,
+               are owing to some local causes, has not yet
+               been ascertained.
+            </p>
+            <p>The <name>French</name>, a few years since, introduced
+               into their <rs type="properAdjective">West Indian</rs> islands plants from the
+               <placeName>East Indies</placeName>. From their islands the cultivation
+               of the <rs type="properAdjective">East Indian</rs> cane has been carried into
+               some of the <rs type="properAdjective">English</rs> islands. <persName>Sir John Laforey</persName>
+               planted them in <placeName>Antigua</placeName>, and has proved their
+               present superiority over the old canes of the
+               <placeName>West Indies</placeName>. He gives the following account
+               of these canes:
+            </p>
+            <quote rend="quotes">
+               <p>One sort brought from the island of <placeName>Bourbon</placeName>,
+                  reported by the <name>French</name> to be the growth
+                  of the coast of <placeName>Malabar</placeName>.
+               </p>
+               <p>Another sort from the island of <placeName>Otaheite</placeName>.</p>
+               <p>Another sort from <placeName>Batavia</placeName>.</p>
+               <p>The wo former are much alike, both in
+                  their appearance and growth; but that of
+                  <placeName>Otaheite</placeName> is said to make the finest sugar. They
+                  are much larger than those of our islands, the
+                  joints of some measuring eight or nine inches
+                  long, and six in circumference.
+               </p>
+               <p>Their colour, and that of their leaves, also
+                  differs from ours.
+               </p>
+               <p>They appear to stand the dry weather
+                  better than ours; and are not liable to be
+                  attacked by that destructive insect called the
+                  <ecda:fauna rend="italic">borer</ecda:fauna>.
+               </p>
+               <p>The <rs type="properAdjective">Batavian</rs> canes are a deep purple on the
+                  outside; they grow short- jointed, and small in
+                  circumference: but bunch exceedingly, and
+                  vegetate so quick, that they spring up from
+                  the plant in one third of the time which those
+                  of our island do.
+               </p>
+            </quote>
             
          </div>
          <!-- Don't encode catchwords, but do capture page numbers and signatures. -->
