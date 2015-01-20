@@ -26,10 +26,14 @@
      </front>
      
       <body>
+         <head>HAMEL.</head>
+         <!-- Do we include the lines? -->
          <div type="chapter">
+            <pb/>
             <head>CHAPTER I.</head>
-            <epigraph> Yet hold! for oh! this prologue lets me in
-            To a most fatal tragedy to come. Richard III.</epigraph>
+            <ab type="epigraph"><lg><l>Yet hold! for oh! this prologue lets me in</l>
+            <l>To a most fatal tragedy to come.</l></lg> <persName>Richard III</persName>.</ab>
+            <!-- Is this correct? -->
             
             <p>At the close of a sultry day in the month of
             October, in the year one thousand eight hundred 
@@ -42,12 +46,12 @@
             toil on the northern shores of Jamaica; a person
             who (from some circumstances about to be explained)
             appeared to be a stranger, was seen
-            riding along hte western bank fo the Rio Grande,
+            riding along the western bank of the Rio Grande,
             that clear and beautiful stream which hurrying
             
-            VOL I.
+            <fw>VOL I.</fw>
             <pb/>
-            <fw type="pagNum">2</fw> <head>HAMEL.</head> 
+            <fw type="pageNum">2</fw> HAMEL.
                <!-- double check how to do headers -->
             down from the wildernesses of the island, carries
             the torrents of its highest mountains to the
@@ -81,10 +85,10 @@
             same sombre hue as his other vestments, was fast-
             <pb/>
             
-            <head>HAMEL</head> <fw type="pagNum">3</fw>
+            HAMEL <fw type="pageNum">3</fw>
             ended upon his saddle bow. He was attended by a 
             bare-legged negro boy on foot, dressed in an Osnaburgh
-            frock and drawers, which, with a glzed hat
+            frock and drawers, which, with a glazed hat
             on his head, formed the whole of his costume.
             The boy hung on sometimes to his master's stirrup, 
             that he might keep pace with the horse; and 
@@ -114,7 +118,7 @@
             and relieved that of the spectator from the sym-
             <pb/>
             
-            <fw type="pagNum">4</fw> <head>HAMEL.</head>
+            <fw type="pageNum">4</fw> HAMEL.
             
             pathy of sadness inspired by the looks of the 
             white-faced traveller. Yet the gloom on the 
@@ -132,7 +136,7 @@
             
             <p>The stranger and his footman continued their
             route for some distance beside the river, halting
-            again and again to compare notes as to teh fordability
+            again and again to compare notes as to the fordability
             of several spots, where the latter declared
             he could see the track of mules and horses,
             which he thought had crossed from the other
@@ -147,7 +151,7 @@
             directed his valet to strip and try a ford, which,
             <pb/>
             
-            <head>HAMEL.</head> <fw type="pagNum">5</fw>
+            HAMEL.<fw type="pageNum">5</fw>
             
             as he could distinguish by marks on the opposite
             side, was certainly used at times; when
@@ -169,7 +173,7 @@
             were coming down from their provision grounds 
             with yams, cocos, and various fruits for the 
             next day's market on their heads. There was an 
-            excellent ford jsut above the stepping stones, 
+            excellent ford just above the stepping stones, 
             which the cantancrous horse was compelled to 
             pass, Cuffy still leading the way; and the Negroes 
             furnished them with abundant directions to the 
@@ -177,15 +181,460 @@
             accompanied with a piece of intelligence not 
             altogether so welcome, as they intimated a report 
             that the said settlement had been deserted since 
-            the death of its proprietor, whose wido had 
+            the death of its proprietor, whose widow had 
             gone down to Port Antonio, while his slaves,
             
-            <fw type="pagNum">6</fw> <head>HAMEL.</head>
+            <fw type="pageNum">6</fw> HAMEL.
             
             some eighteen or twenty, had run away into the 
             woods.</p>
+            
+            <p>Notwithstanding this information, the traveller's 
+            countenance brightened very visibly at sight
+            of some young negro girls of the party, to each 
+            of whom he had something agreeable to say - some
+            compliment to their persons, attended with a 
+            cavalier and rather equivocal expression of his 
+            eyes, which raised a smile on the lips of the 
+            sable beauties, and elicited some rather diverting 
+            remarks from them on the discrepancy between 
+            his language and his looks. One of them, who 
+            said she was handmaid to her mistress, observed 
+            that he smelt sweet like her lady's washball; and 
+            most of them remarked on the perfumed state of 
+            his person, to which it must be avowed he was not 
+            inattentive: and whether they were cosmetics, or 
+            preparations for the hair, or essences to gratify 
+            his own olfactory nerves, which he breathed, he 
+            was, in fact, "perfumed like a milliner."</p>
+            
+            <p>Yet in the midst of these odours he asked the 
+            young girls whether they were married; and if 
+            married, whether the ceremony had been performed 
+            by a priest or a missionary, or whether 
+            they were married after the African fashion. He
+            enquired too about their soul's grace, their work, 
+            profits, punishments: - whether they expected to 
+            be free, and how many Mulatto and Quadroon 
+            girls there were on their master's estate, and if 
+            <pb/>
+            
+            HAMEL. <fw type="pageNum">7</fw>
+            
+            his daughter were handsome; and then relapsed 
+            into some rather spiritual advice, mingled with a 
+            few allusions to the worm which dieth not, and 
+            the fire which is not quenched.</p>
+            
+            <p>The girls began to think him an unaccountable 
+            buckra, and rather affected with insanity; more 
+            especially as he persisted in his intention of proceeding 
+            to the settlement of which they had given 
+            him such an unfavourable account, and refused 
+            their assurance, on the part of their master or the 
+            overseer, of good quarters and hospitable entertainment 
+            for the night. Cuffy would fain have 
+            seconded their arguments, but his master silenced 
+            him with a gloomy frown; and after a few more 
+            desultory observations to the women, with some 
+            of whom he chose to shake hands, the head of 
+            the Spanish steed was turned toward the mountains; 
+            and Cuffy again seizing its tail, master and 
+            man resumed their course. The short twilight 
+            expired, and the shadows of night rendered still 
+            more sombre the forlorn and unfrequented path 
+            along which they journeyed.</p>
+            <pb/>
+            </div>
+            <!-- There are pages missing in the PDF -->
+            
+            <div type="chapter"> <!-- Chapter 2 starts on the missing pages -->
+            <fw type="pageNum">10</fw> <ab>HAMEL.</ab>
+            
+            <p>he had left, and lingered onwards most reluctantly, 
+            in spite of sundry kicks bestowed on his 
+            ribs by his fractious master, whose impatience 
+            increased with the storm which already penetrated 
+            through his garments. A tropical wetting is but 
+            too often precursor and cause of those baleful 
+            fevers which are almost the only curse upon the 
+            otherwise blissful climate of the Antilles, - blissful 
+            in the idea of the inhabitants; and our traveller, 
+            already initiated in the miseries of this scourge, 
+            was but too full of apprehensions and forebodings, 
+            as he felt the tempest invade him to the skin.</p>
+            
+            <p>The thoughts of a sick bed, or sickness without 
+            a bed, without medicine, in an abandoned 
+            dwelling in the midst of the jungle, as it was 
+            represented to him, crowded fast on his perturbed 
+            imagination, which now first reproached him for 
+            the expedition he had undertaken, although the 
+            feeling was purely selfish: however, it was of short 
+            duration; the uproar of the elements increased 
+            so rapidly and violently, that all apprehensions 
+            for the past or the future quickly yielded to more 
+            immediate fears for his present personal safety. 
+            They had been for some time ascending, and had 
+            now gained the summit of a steep hill, whence 
+            the road began to descend as abruptly into another 
+            dingle, through which they could discover, by the 
+            occasional flashes of lightning, a river of more 
+            importance than the many petty streams they 
+            <pb/>
+            
+            HAMEL. <fw type="pageNum">11</fw>
+            
+            had already crossed. This was indeed the Rio 
+            Grande again, but little inferior in magnitude to 
+            the volume of water it had presented to them 
+            some miles below; and how were they to pass it? 
+            or how indeed were they to reach it? The road, 
+            scarcely three feet wide, wound along the side of a 
+            precipice, against which the wind raged with such 
+            fury, and the rain beat so spitefully, that the horse 
+            for a long time refused to face either of them, and 
+            was at last driven down into the valley by master 
+            and man on foot, urging him with sticks, and 
+            preventing him from turning round in the narrow 
+            path, so slippery and precipitous that he slid 
+            down the last portion of it on his hind quarters, 
+            and rolled over and over into the narrow plain 
+            below, bursting his girths and scattering abroad 
+            his harness and the portmanteau, umbrella, and 
+            great coat. These were, however, readjusted 
+            with a promptitude inspired by the occasion, and 
+            with a resolution which was little else than the 
+            effect of despair; the river was passed in comparative 
+            safety; Cuffy, who led the horse, only 
+            stumbling occasionally over the loose rocks which 
+            strewed its channel. But scarcely had they 
+            reached the terra firma on the other side, when 
+            the terrified boy cried out that the earth shook 
+            beneath him, and ran up the path which they had 
+            found, as if he expected the river to rise and 
+            arrest him, or hurry him with its waters down its 
+            <pb/>
+            
+            <fw type="pageNum">12</fw> HAMEL.
+            
+            impetuous current. The horse, no less alarmed, 
+            or afraid of losing his negro guide and friend, 
+            hastened after him. Another eminence was gained, 
+            from whence a track of fire was driving apparently at a 
+            great distance before the wind. "Earthquakes 
+            are not uncommon," thought the traveller; "but 
+            fire - this must be produced by human means." 
+            Cuffy thought otherwise; more especially when 
+            he descried other fires in different directions, and 
+            one or two now and then flashing into view at no 
+            very great apparent distance. The earth shook 
+            again; and the wind, as if it had still reserved 
+            some of its power for an effort of desperation, 
+            burst on them with such exasperated fury, that 
+            it seemed impossible to make farther progress 
+            against it. Cuffy clung to the boughs and the 
+            rocks beside him; and his master being fain to 
+            follow his example, the steed, with equipage, 
+            was left to the mercy of the elements, from 
+            which they saw him gradually recede to the 
+            distance of fifty or sixty yards, like a ship 
+            driving at her anchors and going bodily to leeward, 
+            until he was lost in the darkness. Cuffy, 
+            true to his trust, abandoned his hold to keep 
+            sight of his master's baggage; while his master, 
+            encumbered with his spatterdashes, and fearful of 
+            following the fate of his Bucephalus, encouraged 
+            his valet to stand by the horse, and took a firmer
+            <pb/>
+            
+            HAMEL. <fw type="pageNum">13</fw>
+            
+            grasp of the rocks from which he sought protecion. 
+            Often and often was his voice lost in the 
+            tumult of the storm, as he shouted to his boy for 
+            some assurance of his safety. No answer reached 
+            his ears - no sound but that of the elements 
+            raging as if to produce a second chaos, thunder 
+            and wind, the roaring of the augmented waterfalls, 
+            the rumbling of the rocks which they loosed 
+            from their beds, the creaking and crashing of 
+            falling trees. It was in vain that the lightning at 
+            every other instant illuminated the scene with its 
+            partial flashes, now here, now there: it gleamed 
+            only on mountains uncultivated and uninhabited, 
+            (except perhaps by a few outlawed runaways who 
+            lived by a predatory warfare on the wild hogs and 
+            pigeons of the desart,) on naked precipices and 
+            foaming torrents, or on the giant trees of the forest 
+            quivering beneath the blast of the hurricane. Then 
+            came down the rain, not as in the temperate zone 
+            even in its most weeping seasons, when the spectator 
+            would fain imagine a second deluge; but 
+            torrents, sheets of water, seemed to rush from the 
+            clouds, and threaten the annihilation of all life 
+            beneath the sky. The forlorn and dispirited traveller, 
+            still clinging to the rocks which yielded 
+            him a partial and precarious kind of security, had 
+            groped his way along them to a chink, in whose 
+            recesses he flattered himself with an idea of 
+            weathering the storm till daylight, drenched - 
+            <pb/> 
+            <fw type="pageNum">14</fw> HAMEL.
+            
+            nay, almost drowned - as he was by this time; but 
+            even here the elementary war pursued him; a 
+            stream of water began to ripple down the chink, 
+            soon swelling to a torrent, augmented by another 
+            which found its way through the chasms of the 
+            precipice as if it had burst from some subterranean 
+            reservoir. The traveller's situation became 
+            insupportable; he must remove or perish; yet 
+            not daring to quit the crags to which he clung, 
+            and availing himself of the partial lee they afforded, 
+            he essayed to clamber up the face of the precipice, 
+            and with much difficulty and struggling 
+            reached the edge of the chink whence the torrent 
+            fell. Here he found himself comparatively safe in 
+            a long narrow passage or natural alley, in which 
+            he was at least secured from the wind by the 
+            high and inaccessible rocks on either side of it. 
+            Yet as the torrent still flowed over his feet and half 
+            way up his legs, he waded onwards to find a spot 
+            of higher ground, or an insulated piece of rock 
+            that might elevate him above the stream, and 
+            with this hope pursued the course of it for above 
+            a hundred yards, till he came to a chasm that 
+            opened on it from another mass of rocks, between 
+            which and his present station another brawling 
+            cataract, at depth of fifty feet beneath him, 
+            found its way towards the streams which united 
+            in the Rio Grande below. A fallen tree formed a 
+            bridge across this fissure, on the opposite side of 
+            
+               <pb/>
+            
+            HAMEL. <fw type="pageNum">15</fw>
+            
+            which the mouth of a cave might be distinguished 
+            by a glare of the lightning, sufficient in appearance 
+            to ensure our traveller shelter and safety for 
+            the night - shelter from the rain, and security from 
+            the wind. It was a most perilous undertaking to 
+            pass this bridge; but prompted by hope, and urged 
+            by misery and fear, he ventured on its uncertain 
+            surface, keeping his balance by means of a branch 
+            that hung from the opposite side, which, with 
+            much ado, he reached at last without accident. 
+            Here he found what appeared to him steps cut by 
+            human art for some height in the face of the rock: 
+            he ascended them, and walked into the cave.</p>
          </div>
-      
+         <div type="chapter">
+            <fw type="pageNum">16</fw> <!-- Insert HAMEL. here -->
+            <head>CHAPTER III.</head>
+            <ab type="epigraph">Let me wipe off this honorable dew.
+            SHAKESPEARE.</ab>
+            
+            <p>As soon as the traveller found himself safe from 
+            the storm, he sat down on the floor of the cave, 
+            and burst into a flood of tears; and something like 
+            an acknowledgment of heaven's mercy passed 
+            his lips. His next thought was for his boy and 
+            his equipage, the horse and the portmanteau; 
+            nor was he long in adverting to the deplorable 
+            condition in which he yet found himself, drenched 
+            with rain, and exhausted with the fatigue of having 
+            borne up against the passion of the hurricane. 
+            To sit still might be fatal to him in this state, and 
+            he had even thoughts of stripping off his wet garments, 
+            and parading the cave, as far as he could 
+            see into it, till daylight; but was checked by the 
+            idea which he could not dismiss of stepping on 
+            scorpions or centipedes, or becoming an easier 
+            prey to the musquitos which like himself had 
+            here found a refuge from the weather. While he 
+            
+            <pb/>
+            HAMEL. <fw type="pageNum">17</fw>
+            
+            yet mused on the manner in which he was to pass 
+            the hours till morning, his olfactory nerves became 
+            sensible of a smell of fire, - the smoke of burning 
+            wood, which evidently came from the interior of 
+            the cave; and hastily concluding it to be owing to 
+            one of the wandering fires he had seen abroad, he 
+            explored his way through the cavern towards the 
+            smell, expecting to find an outlet on the other 
+            side of the mountain, through which he calculated 
+            the smoke was driven perhaps from a distance. 
+            The odour and its vapour increased as he proceeded; 
+            and he had not made a very long or very painful 
+            march, before he began to perceive a glimmering 
+            of light, by which he attained an inner apartment 
+            as it were of a cave, filled it is true with smoke, 
+            but in some measure illuminated by the fire from 
+            which it exhaled; not one of the wandering fires 
+            of the wilderness, but a fire of burning brands laid 
+            on the floor of the apartment too evidently by 
+            human hands. "This," thought he, "is at least the 
+            abode of man: runaway slave, Maroon, or robber, 
+            I will yet claim his hospitality; my situation 
+            cannot be worse, and what have I to lose? 
+            But where is the tenant of the dwelling? Here 
+            are plantains too, not long roasted, and rum; and 
+            what are these?" he added, taking up some garments 
+            that lay on the floor, a contoo, and an 
+            instrument of music, a bonjaw. "Let us at least 
+            summon the master of the cave. What ho! hilloh!"
+            
+            <fw>VOL I.</fw>
+            <pb/>
+            
+            <fw type="pageNum">18</fw> HAMEL.
+            
+            The voice died away unheeded, and the traveller 
+            listened to its echoes until he felt almost afraid 
+            and ashamed to disturb the silence again. Yet 
+            he mustered courage to exert his voice a second 
+            and a third time, though as at first ineffectually. 
+            Sufficiently removed from the storm without, to 
+            hear no more of it than an occasional murmur 
+            which stole along the vault he had penetrated, 
+            too faint to cause him any farther concern, his 
+            own voice was reverberated on his ears with a
+            force from which he shrank within himself, so 
+            painful was it to his oppressed and agitated 
+            nerves. He called no more; but conforming himself 
+            with a philosophical moderation to the hour 
+            and the scene in which he found himself, he trimmed 
+            the fire; took off his wet clothes, which he 
+            wrung and disposed around it; attired himself in 
+            the contoo of his invisible host; and wrapping his 
+            feet in a blanket which lay beside it, helped himself
+            from the calabash of rum, and put some of the 
+            plantains on the fire again to warm. He had 
+            seated himself on a bundle of sticks, and as he 
+            took a second taste of the rum calabash, surveyed 
+            at his leisure, by the cheerful blaze he had made, 
+            the extent and furniture of his apartment.</p>
+            
+            <p>It was a lofty cavern hewn by the hand of nature 
+            in the otherwise solid lime-stone rock, from 
+            the roof of which hung many stalactites, whose 
+            points were blackened by the smoke from the fire 
+            
+            <pb/>
+            HAMEL. <fw type="pageNum">19</fw>
+            
+            beneath. Besides the opening by which the traveller 
+            had entered, there were four other apertures, 
+            each leading, as it seemed from the glimpse 
+            he had taken of them, to the other recesses in the 
+            rock, and so much resembling each other that he 
+            could not now distinctly ascertain that which had 
+            admitted him. Alarmed for a moment as this discovery, 
+            he arose from his seat, and taking a firebrand 
+            from the blazing pile, would fain have explored 
+            these vomitories, into each of which he 
+            walked a few paces, without however deriving the 
+            information he required, or gaining any but a conviction 
+            that they extended farther than he was 
+            disposed at present to penetrate. He next surveyed 
+            the precincts of the cave itself, and its rather 
+            curious contents. In a recess stood a couple of 
+            spears, one solely of hard wood, whose point was 
+            rendered still harder by fire; the other was shod 
+            with iron and rusted apparently with blood; a 
+            bamboo rod, ten feet in length and about an inch 
+            in thickness, leaned against the rock beside them, 
+            carved or tattoed from end to end. In another 
+            angle of the vault was a calabash filled with various 
+            sorts of hair, among which it was easy to discriminate 
+            that of white men, horses, and dogs. 
+            These were huddled together, and crowded with 
+            feathers of various birds, especially those of 
+            domestic poultry and wild parrots, with one or 
+            two of the spoils of a macaw. A human skull 
+            
+            <pb/>
+            <fw type="pageNum">20</fw> HAMEL. 
+            
+            was placed beside this calabash, from which the 
+            teeth were missing; but on turning it up, the traveller 
+            found them with a quantity of broken glass 
+            crammed into the cerebellum, and covered up with 
+            a wad of silk cotton, to prevent them from falling 
+            out. There were several other skulls in a second 
+            recess, some perfect, some which had been broken 
+            apparently with a sharp pointed instrument, and 
+            many of them serving as calabashes or boxes to 
+            hold the strange property of the master of the 
+            cave; one was a receptacle for gunpowder, which 
+            the inquisitive traveller narrowly escaped inflaming; 
+            a second contained bullets and shot of various 
+            sizes, mixed with old nails and pieces of rag; 
+            and from a third he saw with no little horror a 
+            black snake uncoil itself the moment he touched 
+            it. There were three muskets, all old and out of 
+            order; a pistol and two cutlasses, disposed on different 
+            ledges of the rock; a large conch-shell 
+            fitted with a belt of mahoe bark, to be worn over 
+            the shoulder, hung from a projection, with several 
+            other pieces of rope made of similar materials, to 
+            which were attached rings of wood and hollowed 
+            stones, perhaps intended for amulets or charms. 
+            A lamp of clay at last arrested his attention; it 
+            had carved on it some rude figures and was filled 
+            with oil of the Palma Christi, having a wick 
+            formed of the fibres of the plantain stalk. This 
+            the intruder took the liberty of illuming, to assist 
+            
+            <pb/>
+            HAMEL. <fw type="pageNum">21</fw>
+            
+            him more conveniently than did his flickering 
+            firebrand in the farther search he seemed disposed 
+            to prosecute. By the help of this he espied a 
+            pair of shoepatters, a sort of coarse sandal, and a 
+            red cloak resembling the South-American poncho. 
+            Some salted fish was suspended from a part of the 
+            roof, with a large calabash of sugar, and another of 
+            coarse salt; and an earthen jar contained no 
+            small store of salted pork. There were several 
+            pieces of jerked hog hanging from a stick 
+            placed across this recess, to one of which he 
+            helped himself without ceremony; and thinking 
+            he had made sufficient search for the present, 
+            returned to the fire, on which he heaped fresh fuel, 
+            raking forward the embers to cook his meat: 
+            placed his lamp on a shelf of the rock full in his 
+            view; and taking a gombah for his stool, sat down 
+            very deliberately to his supper. He ate with no 
+            sparing appetite; and the rum which he quaffed 
+            as his thirst prompted him, refreshed his body 
+            and composed his mind so happily and so gradually, 
+            that what with that and his fatigue, the 
+            solace of the fire and the fumes of his digestion, 
+            he at last slipt gently from his gombah, which 
+            now served him for a pillow, rolled himself up in 
+            his blanket, and fell into a profound sleep.</p>
+         </div>
+         
+         
+         <pb/>
+         <div type="chapter">
+             <fw type="pageNum">22</fw> <!-- Insert HAMEL. here -->
+             <head>CHAPTER IV.</head>
+            <ab>
+               <hi rend="italics">Pye.</hi>  And you a figure-caster, a conjurer!
+               <hi rend="italics">Skir.</hi> A conjurer?
+               <hi rend="italics">Pye.</hi>  Let me alone, I'll instruct you, and teach you to
+               deceive all eyes but the devil's.
+               The Puritan
+            </ab>
+             <p>DEEP</p>
+         </div>
       </body>
       
   </text>
