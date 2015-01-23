@@ -54,7 +54,8 @@
      </front>     
      
       <body>
-      <pb n="001"/>
+      <pb/>
+      <fw type="pageNum">1</fw>
          <div>
          <head rend="case(allcaps)align(center)">Sugar Cane.
             <!-- Delimiter/Ornament here. -->
@@ -115,7 +116,9 @@
                   <cell role="data"><bibl><author rend="slant(italic)">Lussan</author>.</bibl></cell>
                </row>
                          
-            <pb n="002"/>
+            <pb/>
+            <fw type="pageNum">2</fw>
+               
                <row role="data">
                   <cell role="data"><foreign xml:lang="la"><ecda:commodity>Saccharum floribus pa-
                      niculatis</ecda:commodity></foreign>.</cell>
@@ -140,7 +143,9 @@
             
          </div>
          
-        <pb n="003"/>
+        <pb/>
+        <fw type="pageNum">3</fw>
+         
          <div type="section">
             <head rend="slant(allcaps)align(center)">History
             of the
@@ -173,7 +178,9 @@
                <ecda:commodity>sugar cane</ecda:commodity> is <persName rend="case(smallcaps)">Theophrastus</persName>, who lived 321
                years before the <rs type="properAdjective">Christian</rs> &#xe6;ra. I shall begin
                
-        <pb n="004"/>
+        <pb/>
+        <fw type="pageNum">4</fw>       
+               
                with him; and recite a few passages and allu-
                sions from other authors, as they descend in
                point of time, which have been supposed re-
@@ -208,7 +215,9 @@
                inspissated, of that plant.
             </p>
    
-      <pb n="005"/>
+      <pb/>
+      <fw type="pageNum">5</fw>      
+            
             <p><persName rend="case(smallcaps)">Theophrastus</persName> mentions another sort of
                <ecda:commodity>reed</ecda:commodity> or <ecda:commodity>cane</ecda:commodity>, growing in marshy places in
                <placeName>Egypt</placeName>, with sweet roots. Speaking of the 
@@ -232,7 +241,9 @@
                roots, or whether he had the account of it
                from others, or whether such a <ecda:commodity>reed</ecda:commodity> really
                
-      <pb n="006"/>           
+      <pb/> 
+      <fw type="pageNum">6</fw>
+               
                exists, may be equally a matter of conjecture;
                but I have given his account of it, because
                other writers have mentioned this <ecda:commodity>reed</ecda:commodity> with
@@ -267,7 +278,9 @@
             </p>
          </div>
          
-      <pb n="007"/>
+      <pb/>
+      <fw type="pageNum">7</fw>
+         
          <div type="subsection">
             <p><persName rend="case(smallcaps)">Strabo</persName> <hi rend="slant(italic)">(<foreign xml:lang="la">anno</foreign></hi> 19), in his 15th book of
                Geography, in the description of <placeName>India</placeName>, says, on
@@ -305,7 +318,9 @@
                the following passage:—
             </p>
  
-         <pb n="008"/>
+         <pb/>
+         <fw type="pageNum">8</fw>
+            
             <p><quote><!-- Insert Latin passage! --></quote>
             </p>
             <p><quote rend="pre(“) post(”)">They say that, in the <placeName>Indies</placeName>, <ecda:commodity>honey</ecda:commodity> is
@@ -336,7 +351,9 @@
             <p><persName rend="case(smallcaps)">Pliny</persName> <hi rend="slant(italic)">(<foreign xml:lang="la">anno</foreign></hi> 78) in the 32d chapter of the
             6th book, speaking of the <placeName rend="slant(italic)"><foreign xml:lang="la">Insulæ Fortunatæ</foreign></placeName>,
             
-        <pb n="009"/>    
+        <pb/>  
+        <fw type="pageNum">9</fw>
+               
                or what are now called the <placeName>Canary Islands</placeName>,
                asserts, on the authority of <persName rend="slant(italic)">Juba</persName>, that, in the
                island called <placeName rend="slant(italic)">Ombrios</placeName>,—
@@ -368,7 +385,9 @@
                which is described as follows.
             </p>
             
-      <pb n="010"/> 
+      <pb/>
+      <fw type="pageNum">10</fw>
+            
             <p><quote rend="pre(“)">The district in which this tree stands is
                called <placeName rend="slant(italic)">Tigulabe</placeName>, near to which, and in the cliff
                or steep rocky ascent that surrounds the whole
@@ -398,7 +417,9 @@
                gradually ascends it, and from thence advances
                slowly to the extremity of the valley, where
   
-      <pb n="011"/> 
+      <pb/> 
+      <fw type="pageNum">11</fw>
+               
                it is stopped and checked by the front of the
                rock which terminates the valley, and then 
                rests upon the thick leaves and wide spreading
@@ -429,7 +450,9 @@
             quantity of water imbibed from the roots, is
             certainly possible; and such trees are related
   
-      <pb n="012"/>
+      <pb/>
+      <fw type="pageNum">12</fw>
+               
                by travellers to exist in <placeName>Africa</placeName> and <placeName>South Ame-
                rica</placeName>. But the history of the Garse is scarcely
                within the compass of credibility. There may
@@ -461,7 +484,9 @@
                diterranean</placeName>, near <placeName>Valencia</placeName> in <placeName>Spain</placeName>), which
                yields ripe <ecda:commodity>canes</ecda:commodity>.</quote></p>
             
-      <pb n="013"/>     
+      <pb/> 
+      <fw type="pageNum">13</fw>
+            
             <p><foreign xml:lang="la" rend="slant(italic)">Et quas percoquit Ebosea caunas</foreign>.</p>
             <p><quote rend="pre(“)post(”)">Ebusus which ripens <hi rend="slant(italic)">(<foreign xml:lang="la">caunæ</foreign>)</hi> <ecda:commodity>figs</ecda:commodity>.</quote></p>
          </div>
@@ -491,7 +516,9 @@
                <ecda:commodity>raw fish</ecda:commodity>, which they catch in boats made of
                <ecda:commodity>reeds</ecda:commodity>; a single joint of which is large enough
                
-       <pb n="014"/>
+       <pb/>
+       <fw type="pageNum">14</fw>        
+               
                for one boat: and <persName rend="case(smallcaps)">Pliny</persName>, in the <bibl>2d chapter 
                of his 7th book</bibl>, says in <placeName>India</placeName> the <ecda:commodity>canes</ecda:commodity> grow
                to so great a size, that, from a single joint,
@@ -525,7 +552,9 @@
                of the continent, or any of the islands.
             </p>
             
-        <pb n="015"/>
+        <pb/>
+        <fw type="pageNum">15</fw>    
+            
             <p>Before the discovery of the <placeName>West Indies</placeName>, by
             the <name>Spaniards</name>, in 1492; before the discovery
             of the <placeName>East Indies</placeName>, by the <name>Portuguese</name> naviga-
@@ -559,7 +588,9 @@
             <p><quote rend="pre(“)">At <placeName>Gandia</placeName> we first found <ecda:commodity>raisins of the
                sun</ecda:commodity>, as they are called in <placeName>England</placeName>; in <placeName>Spain</placeName> 
          
-      <pb n="016"/>
+      <pb/>
+      <fw type="pageNum">16</fw>         
+               
                they call this kind <foreign rend="slant(italic)">pansas</foreign>, and they seem to be
                the <foreign rend="slant(italic)">duracinæ</foreign> of the antients. They are all
                white, round, and have a tougher skin than
@@ -590,7 +621,9 @@
                tom are very close together, scarce an inch
                asunder; but upwards the distance is more, as
              
-      <pb n="017"/>
+      <pb/>
+      <fw type="pageNum">17</fw>         
+               
                the <ecda:commodity>cane</ecda:commodity> grows slenderer. Within is a white
                pulp, or pith, full of <ecda:commodity>sap</ecda:commodity> sweet as <ecda:commodity>honey</ecda:commodity>.
                They sell them at <placeName>Gandia</placeName> to eat, and, cutting
@@ -620,7 +653,9 @@
                the bottom. It drains for five or six months,
                in which time the <placeName>sugar</placeName> in the conical pots
        
-        <pb n="018"/>
+        <pb/>
+        <fw type="pageNum">18</fw>       
+               
                grows hard, and white, all the juice being
                drunk up by the lute, or run out by the hole
                in the vertex. The juice is boiled again, so
@@ -650,7 +685,9 @@
                three dozen into a cauldron. They use but one
                cauldron for refining. When it is refined, it
           
-     <pb n="019"/>
+     <pb/>
+     <fw type="pageNum">19</fw>          
+               
                grows hard and white in nine or ten days.
                When they refine it, they put a little water
                into the cauldron, to dissolve it the better.</quote>
@@ -682,7 +719,9 @@
                became known again in <placeName>Europe</placeName>.
             </p>
             
-            <pb n="020"/>
+            <pb/>
+            <fw type="pageNum">20</fw>
+            
             <p>The conquest of these islands was underta-
                ken by the <name>Spaniards</name> in 1393. The <name>Portu-
                guese</name>indeed had made some slight attempts in 
@@ -711,6 +750,10 @@
                in the same year, planted the sugar cane there,
                which they brought from the island of <placeName>Sicily</placeName>.
             </p>
+            
+            <pb/>
+            <fw type="pageNum">21</fw>
+            
             <p>From the incorrect accounts of the first
                <rs type="properAdjective">West Indian</rs> discoveries, it is impossible to
                ascertain in which of the islands the cane was
@@ -746,6 +789,10 @@
                of knowledge; and have rendered the most essential
                services to their country.
             </p>
+            
+            <pb/>
+            <fw type="pageNum">22</fw>
+            
             <p>This should be a lesson to the planter of
                The sugar cane, not to continue propagating
                from the same stock; or at least to try the
@@ -777,8 +824,12 @@
                </p>
                <p>Another sort from the island of <placeName>Otaheite</placeName>.</p>
                <p>Another sort from <placeName>Batavia</placeName>.</p>
-               <p>The wo former are much alike, both in
+               <p>The two former are much alike, both in
                   their appearance and growth; but that of
+                  
+                  <pb/>
+                  <fw type="pageNum">23</fw>
+                  
                   <placeName>Otaheite</placeName> is said to make the finest sugar. They
                   are much larger than those of our islands, the
                   joints of some measuring eight or nine inches
@@ -800,9 +851,574 @@
                   of our island do.
                </p>
             </quote>
+            <p>The method of propagating the sugar cane
+               is by cuttings from the top of it, and we know 
+               of no other method; though <persName>Mr. Bruce</persName> says,
+               In <placeName>Abyssinia</placeName> it is raised from the seed. Of this
+               fact we have no example; and it is thought
+               that <persName>Mr. Bruce</persName> is mistaken in this matter.
+            </p>
             
+            <pb/>
+            <fw type="pageNum">24</fw>
+            
+            <p>The progress of cultivating the cane for the
+               purposes of making sugar, has given rise to the 
+               erroneous supposition, that the migration of
+               the sugar cane, under the <name>Europeans</name>, was
+               from <placeName>Sicily</placeName> and <placeName>Spain</placeName>, to the <placeName>Madeira</placeName> and
+               <placeName>Canary islands</placeName>; and afterwards to the <placeName>West
+               Indian islands</placeName>, <placeName>Mexico</placeName>, <placeName>Peru</placeName>, and Brazil: and
+               that it was not an original plant of those
+               islands and countries.
+            </p>
+            <p>There is, besides, great difficulty in distinguishing,
+               in the journals of voyagers, between
+               the history of the plant and its produce. For,
+               often when some particular period is mentioned,
+               when the sugar cane was first carried to
+               countries, the fact is, that such period was the
+               time when the cultivation of the plant, for
+               the purposes of making sugar, was introduced;
+               which before was either entirely neglected, or
+               the use of simple juice only known: and
+               frequently mention is made when sugar was
+               first produced in some countries, which in
+               reality was the period when the <rs type="properAdjective">European</rs> art
+               of refining it, or some improvements in its 
+               manufacture, was carried thither.
+            </p>
+            <p>It is certain, that the sugar cane was found
+               growing in the low, rich lands near the mouth
+               of the <placeName>Mississippi</placeName>, when <name>Europeans</name> first went to
+               that part of <placeName>America</placeName>.
+            </p>
+            
+            <pb/>
+            <fw type="pageNum">25</fw>
+            
+            <p><persName>Father Hennepin</persName> says, <quote rend="quotes">from thirty leauges
+               below <placeName>Maroa</placeName>, down to the sea, the banks of
+               the <placeName>Missisippi</placeName> are full of canes.</quote> This was in
+               <date when="1680">1680</date>, when he was there. He was the first
+               <name>European</name> who explored the country adjacent
+               to the lower parts of that river.
+            </p>
+            <p><persName>Francis Ximenes</persName>, in his treatise on the
+               plants of <placeName>America</placeName>, says the sugar cane grows
+               spontaneously near the <placeName>Rio della Plata</placeName>; this is
+               also asserted by <persName>Hernandes</persName> and <persName>Piso</persName>. This
+               river was discovered in <date when="1515">1515</date> by <persName>John Dias de
+               Solis</persName>,a <name>Spaniard</name>; and the country about it
+               conquered by <persName>Pedro de Mendoza</persName>, in <date when="1535">1535</date>.
+            </p>
+            <p><persName>Jean de Lery</persName>, who ent in <date when="1556">1556</date> to the
+               <placeName>Rio Janeiro</placeName>, in <placeName>Brazil</placeName>, says, he found every 
+               where near that river a great quantity of sugar
+               canes; and it is certain that they could not
+               have been planted by the <name>Portuguese</name>, as they
+               were not settled in those parts until long afterwards.
+            </p>
+            <p><persName>John de Laet</persName>, says the island of <placeName>St.
+               Vincent</placeName> produced sugar cane spontaneously.
+               <bibl>Lib. I. pag. 27.</bibl>
+            </p>
+            <p><persName>Labat</persName> says, the first <rs type="properAdjective">French</rs> settlers in
+               <placeName>St. Christopher</placeName>, <placeName>Martinique</placeName>, and <placeName>Guadaloupe</placeName>,
+               found sugar canes in different parts of those
+               islands; which growing there naturally, were
+               afterwards properly cultivated, and have since
+               
+               <pb/>
+               <fw type="pageNum">26</fw>
+               
+               produced all the Sugar of those islands. <bibl>Vol. II.
+               p. 226.</bibl>
+            </p>
+            <p>The island of <placeName>St. Christopher</placeName> was first taken
+               possession of by the <name>French</name> and <name>English</name>, on
+               the same day, in the year <date when="1625">1625</date>. The <name>English</name>
+               made sugar there in <date when="1643">1643</date>, and the <name>French</name> soon
+               after. From this island the <name>French</name> sent a
+               colony to take possession of Martinique; and
+               they settled there in <date when="1635">1635</date>.
+            </p>
+            <p>In <date when="1627">1627</date>, the <name>English</name> settled at <placeName>Barbadoes</placeName>;
+               and, in <date when="1643">1643</date> made Sugar there. in <date when="1676">1676</date> it
+               was in its most flourishing state, and employed
+               four hundred sail of vessels, which were on an average of 150 tons.
+            </p>
+            <p>In <date when="1627">1627</date>, the <name>English</name> settled at <placeName>Nevis</placeName>.</p>
+            <p>In <date when="1632">1632</date>, the <name>English</name> settled at <placeName>Montserrat</placeName>;
+               and, in the same year, the <name>Dutch</name> settled at <placeName>St.
+               Eustasia</placeName>.
+            </p>
+            <p>In <date when="1635">1635</date>, the <name>French</name> settled at <placeName>Guadaloupe</placeName>;
+               and, in <date when="1648">1648</date>, made sugar there.
+            </p>
+            <p>In <date when="1650">1650</date>, the <name>French</name> settled at <placeName>Granada</placeName>.</p>
+            <p><placeName>Jamaica</placeName> was discovered by <persName>Columbus</persName> in <date when="1494">1494</date>,
+               in his second voyage; and bestowed on him
+               by <persName>Ferdinand</persName> and <persName>Isabella</persName>, as some compensation
+               for the acqusitions he had given to
+               <placeName>Spain</placeName> in the <persName>West Indies</persName>.
+            </p>
+            
+            <pb/>
+            <fw type="pageNum">27</fw>
+            
+            <p>His son <persName>James</persName> settled, and planted it in
+               <date when="1509">1509</date>. What improvements it received by the
+               <name>Spaniards</name>, during the time they were in possession 
+               of it, are but little known. They continued
+               there however undisturbed until <date when="1596">1596</date>;
+               when <persName>Sir Anthony Shirley</persName>, with a single
+               man of war, took and plundered <placeName>St. Jago de
+               la Vega</placeName>; which then consisted of 2000 houses.
+               In the year 1635, this town was again plundered
+               by 500 <name>English</name> from the <placeName>Leeward islands</placeName>.
+               In <date when="1656-05-10">1656, on the 10th of May</date>, the whole island
+               was reduced, and taken possession of by the
+               forces sent against it by <persName>Oliver Cromwell</persName>; and 
+               has since that time belonged to the <name>English</name>.
+            </p>
+            <p>The sugar cane was first planted there, by
+               the <name>English</name> in <date when="1660">1660</date>; and sugar first made in
+               <date when="1664">1664</date>. But some plantations were made there
+               while it was in possession of the <name>Spaniards</name>, by
+               <persName>Esquirnel</persName>, a <rs type="properAdjective">Spanish</rs> governor, under <persName>Diego
+               Columbus</persName>, son of the renowned <persName>Columbus</persName>;
+               who brought the plants from <placeName>St. Domingue</placeName>.
+               There were in <placeName>Jamaica</placeName>, on the arrival of the
+               <name>English</name>, only three small plantations in the
+               island; the chif of which was at the <placeName>Angels</placeName>.
+            </p>
+            <p><persName>Sir Thomas Modyford</persName>, a rich and eminent
+               planter of <placeName>Barbadoes</placeName>, was the person who first
+               planted and cultivated the sugar cane, for the
+               purpose of making sugar, in <placeName>Jamaica</placeName>. This
+               
+               <pb/>
+               <fw type="pageNum">28</fw>
+               
+               was in <date when="1660">1660</date>. He removed from <placeName>Barbadoes</placeName> to
+               <placeName>Jamaica</placeName>, and carried with him much
+               agricultural knowledge, to the great advantage of the
+               island; which he contributed to improve and
+               benefit, in a very extensive manner. <persName>Charles
+               the second</persName> appointed him governor of the 
+               island in <date when="1664">1664</date>: in which situation he continued
+               until 1669.
+            </p>
+            <p>The island of <placeName>St. Thomas</placeName>, under the line,
+               on the coast of Africa, which was discovered
+               by the <name>Portuguese</name> in <date when="1405">1405</date>, sugar was made
+               much earlier than in the <placeName>West Indies.</placeName>
+            </p>
+            <p><persName>Dapper</persName> says <bibl>(page 491)</bibl> that the <name>Portuguese</name>
+               had sixty-one sugar works in this island, before
+               the <name>Dutch</name> destroyed them in the year <date when="1610">1610</date>.
+            </p>
+            <p><persName>Heylin</persName>, who published the first edition of
+               his <title>Cosmography</title> in <date when="1624">1624</date>, says <quote rend="quotes">this island is
+               so abundant in sugar canes, and well stored
+               with sugars, that forty ships are hence loaded 
+               yearly with that one commodity; for making
+               which they have here seventy <distinct type="economic" rend="italic">ingenios</distinct>, or sugar
+               houses, and in each of them two hundred slaves,
+               in some three hundred, which belong to the
+               works. Six days in seven these slaves work
+               for their masters, and the seventh for themselves,
+               which they spend in sewing and planting
+               their seeds, fruits and provisins. They
+               bring the negroes from the <rs type="place">opposite continent</rs>,
+               
+               <pb/>
+               <fw type="pageNum">29</fw>
+                  
+               with hwom the air agrees so well, that they
+               attain generally to 110 years; few of the <name>Portugals</name>
+               unto 50. The air is so vehemently hot
+               that it suiteth not with the constitution of the
+               <name>Europeans</name>.</quote>
+            </p>
+            <p><persName>Labat</persName>, <bibl>Vol. I. pag. 226.</bibl> is decidedly of
+               opinion, that the sugar cane is a native plant
+               of the <placeName>West Indies</placeName>. But he says, that it is to
+               the <name>Portuguese</name> and <name>Spaniards</name> that <name>Europeans</name>
+               are indebted for the art of making sugar; who
+               learned the secret from the inhabitants of the 
+               <placeName>East Indies</placeName>, and returning from thence put it
+               in practice, first at the island of <placeName>Madeira</placeName> and
+               <placeName>the Canaries</placeName>, and afterwards in the <placeName>Brazils</placeName>,
+               and <placeName>New Spain</placeName>, about the end of the year <date when="1580">1580</date>.
+            </p>
+            <p>That the sugar cane is a native plant of the 
+               <placeName>West Indies</placeName>, there can be no doubt; but in the
+               other remakrs, <persName>Labat</persName> is mistaken, as has
+               already appeared: for the <name>Portuguese</name> had not
+               passed <placeName>the Cape of Good Hope</placeName> until <date when="1497">1497</date>;
+               long before which time sugar was made in the
+               <placeName>Mediterranean Islands</placeName>. Besides, according to
+               <persName>Peter Martyr</persName>, in the year <date when="1518">1518</date>, there were
+               twenty-eight sugar-works in the island of<placeName>Hispaniola</placeName>, 
+               established by the <name>Spaniards</name>. He
+               wasy, <quote rend="quotes">it is a marvellous thing to consider how
+               all things increase and prosper in this island.
+               There are now twenty-eight sugar-presses,
+               
+              <pb/>
+              <fw type="pageNum">30</fw>
+               
+               wherewith great plenty of sugar is made.
+               The canes or reeds wherein the sugar groweth
+               are bigger and higher than in any other place;
+               and are as big as a man's wrist, and higher
+               than the stature of a man by the half. This is
+               more wonderful, that whereas in <placeName>Valencia</placeName>, in
+               <placeName>Spain</placeName>, where a great quantity of Sugar is made
+               yearly, whensoever they apply themselves to
+               the great increase thereof, yet doth every root
+               bring forth not past five, or six, or at the
+               most seven, of those reeds; whereas in <placeName>Hispaniola</placeName>
+               one root beareth twenty, and oftentimes
+               thirty.</quote> <bibl><rs type="properAdjective">English</rs> edit. 1577, page 172.</bibl> The
+               original edition was published in <placeName>Spain</placeName>, in <date when="1530">1530</date>.
+            </p>
+            <p><persName>Columbus</persName>, in his first voyage in <date when="1492">1492</date>,
+               discovered the island of <placeName>Hispaniola</placeName>, or <placeName>Saint
+               Domingue</placeName>; and <persName>Antonio Herrara</persName>, in the
+               second book of his second <title>Decad</title>, speaking of
+               the improvements and cultivation carried to
+               that island by the <rs type="properAdjective">Jeronimite</rs> friers, says, <quote rend="quotes">One
+               <persName>Aquilon</persName>, and inhabitant of the great plain, carried 
+               thither, in the year <date when="1506">1506</date>, some sugar
+               canes from the <placeName>Canaries</placeName>, and planted them;
+               the same answering well, the fathers ordered
+               that every inhabitant, who would erect a sugar
+               mill, should have five hundred pieces of eight
+               
+               <fw type="pageNum">31</fw>
+               <pb/>
+               
+               in gold lent him; and by this contrivance,
+               in a short space of time there came to be forty
+               either Water or Horse sugar mills in the island.
+               It is to be observed. that formerly sugar grew
+               only in <placeName>Valencia</placeName>, whence it was conveyed to
+               <placeName>Grenada</placeName>, thence to the <placeName>Canaries</placeName>, and lastly to
+               the <placeName>Indies</placeName>, which made it more necessary to
+               send over balcks; and that put the <name>Portuguese</name>
+               upon carrying many from <placeName>Guinea</placeName>. <placeName>Hispaniola</placeName>
+               proved so natural to the blacks, as to have it
+               once said that, unless one happened to be 
+               hanged, none ever died.</quote>
+            </p>
+            <p>In <date when="1726">1726</date>, the <name>French</name> made in this island
+               33,000 hogsheads of sugar, of 12 hundred
+               weight each. in <date when="1742">1742</date>, they made 70,666
+               hogsheads; and, in the same year also, they
+               made in <placeName>Martinique</placeName>, <placeName>Guadaloupe</placeName>, and the
+               other lesser isles, 51,875 hogsheads.
+            </p>
+            <p>The whole produce of the <placeName><rs type="properAdjective">British</rs> <rs type="properAdjective">West
+               Indian</rs> Islands</placeName>, imported to <placeName>Great Britain</placeName>
+               that year, was 60,950 hogsheads. In <date when="1770">1770</date>,
+               <placeName>St. Domingue</placeName> yielded of sugar, two-thirds
+               brown, 160,000 hogsheads, of 10 hundred
+               weight each.
+            </p>
+            
+            <pb/>
+            <fw type="pageNum">32</fw>
+            
+            <p><persName>Gonzales Ferdinandus Oviedus</persName>, who lived
+               in <placeName>Hispaniola</placeName> in <date when="1515">1515</date>, and was governor of
+               the city of <placeName>Sancta Maria</placeName> in <placeName>Darien</placeName> in <date when="1522">1522</date>,
+               says, <bibl>p. 225 of <title>the Summary of his General
+               History of the <placeName>West Indies</placeName></title></bibl>, <quote rend="quotes">there is such
+               abundance of sugar in <placeName>Mexico</placeName>, that certain
+               <rs type="properAdjective">Spanish</rs> ships are yearly freighted therewith,
+               and bring the same unto <placeName>Seville</placeName>, in <placeName>Spain</placeName>;
+               from whence it is carried to all parts of
+               Christendom.</quote> <!-- how to mark up -->
+            </p>
+            <p>As <placeName>Mexico</placeName> was not entirely conquered by
+               the <name>Spaniards</name> until <date when="1521">1521</date>, I think it is clear
+               that the sugar cane must have been cultivated,
+               and sugar made in <placeName>Mexico</placeName>, before the
+               <name>Spaniards</name> went thither.
+            </p>
+            <p><persName>Peter Cieza</persName>, who travelled from the year
+               <date from="1533" to="1550">1533 to 1550</date>, in <placeName>Peru</placeName>, and other parts of
+               <placeName>South America</placeName>, says, <bibl>cap. 64, p. 167</bibl>, <quote rend="quotes">In
+               several parts of the vales, near the city of
+               <placeName>St. Michael</placeName>, there are large fields of sugar
+               canes, whereof sugar is made in several towns and preserves.</quote>
+            </p>
+            <p>He mentions this among other articles of
+               the agriculture of the <name>Indians</name>, before the <name>Spaniards</name>
+               went among them; for <persName>Vasco
+               Nunez</persName> and <persName>Balboa</persName> crossed to the <placeName>South Sea</placeName>,
+               and settled <placeName>Panama</placeName> in <date when="1513">1513</date>, yet the 
+               <name>Spaniards</name> were never in any part of <placeName>Peru</placeName>, before
+               
+               <pb/> 
+               <fw type="pageNum">33</fw>
+               
+               the year <date when="1525">1525</date>; and then <persName>Pizarro</persName>, with a few
+               adventurers, only landed, and made some discoveries,
+               but returned to <placeName>Spain</placeName> in <date when="1528">1528</date>, for
+               authority to undertake the conquest of <placeName>Peru</placeName>;
+               which was not begun in <placeName>South America</placeName> until
+               <date from="1530" to="1532">1530, and completed in 1532</date>, by the murder
+               of the last <name>Inca</name>, <persName>Atabalipa</persName>; or as the <name>Spaniards</name>
+               write the name, <distinct type="dialect" rend="italic">Atahuallpa</distinct>: yet <placeName>Spain</placeName> was not
+               in peaceable possession of <placeName>Peru</placeName> before <date when="1554">1554</date>.
+            </p>
+            <p>This immense scene of blood was not closed
+               by the <name>Spaniards</name>, without many tragical events
+               among themselves. <persName>Almagro</persName>, the conqueror
+               of <placeName>Chili</placeName>, was strangled before <persName>Cusco</persName>, by 
+               <persName>Hernand Pizarro</persName> in <date when="1538">1538</date>; and <persName>Francis Pizarro</persName>,
+               the conqueror of <placeName>Peru</placeName>, was assassinated at <placeName>Lima</placeName>
+               in <date when="1541">1541</date>.
+            </p>
+            <p><persName>Cieza</persName> mentions also the manner in which
+               the <name>Indians</name> carry water in trenches, from the
+               rivers descending from the mountains, through
+               the fields in the plains; to supply the defect of
+               rain in those countries.
+            </p>
+            <p>This part of <placeName>Peru</placeName> was then inhabited entirely
+               by <name>Indians</name>; for, though <placeName>St. Michael</placeName> was
+               the first city built by the <name>Spaniards</name> in <placeName>Peru</placeName>, it
+               was not founded until <date when="1541">1541</date> by <persName>Pizarro</persName>, before
+               the capture of <placeName>Atabalipa</placeName>; and, consequently,
+               before the wars were ended, or that the <name>Spaniards</name>
+               had turned their thoughts to agriculture.
+               
+               <pb/>
+               <fw type="pageNum">34</fw>
+               
+               Wherefore, it is probably that the art of making
+               sugar ws known to the <name><rs type="properAdjective">Peruvian</rs> Indians</name>
+               also, before the <name>Spaniards</name> went among them.
+            </p>
+            <p>It is certain that <persName>Garcilasso de la Vega</persName>,
+               who was a native of <placeName>Peru</placeName>, and left that country
+               and went to <placeName>Spain</placeName> in the year 1560, says, in
+               his <bibl><title>Commentaries</title>, lib. IX. cap, 28, part I</bibl>, that
+               <quote rend="quotes" xml:id="q001" next="#q002">antiently there were no sugar canes in <placeName>Peru</placeName>,
+               though now, by the industry of the <name>Spaniards</name>,
+               and the fertility of the soil, they are increased
+               to a loathsome plenty; that, whereas formerly
+               they were highly esteemed, and are now become 
+               of no value or estimation.</quote>
+            </p>
+            <quote xml:id="q002" prev="#q001">
+               <p>The first Sugar works in <placeName>Peru</placeName> were made
+               in <placeName rend="italic">Huanca</placeName>, by the contrivance of a
+               gentleman with whom I was well acquainted. A
+               servant of his, who was a subtile and ingenious
+               person, observing the great quantities of sugar
+               which were imported from <placeName>Mexico</placeName>, by reason
+               of which the sugar of <placeName>Peru</placeName> would not sell to
+               any account, advised his master to send one
+               ship's lading of his sugar to <placeName>Mexico</placeName>; that
+               they, seeing thereby the plenty of that commodity 
+               in <placeName>Peru</placeName> might forbear to send any
+               more thither. The project succeeded according
+               to expectation; and now sugar works
+               are erected in many places in that country.</p>
+            </quote>
+            
+            <pb/>
+            <fw type="pageNum">35</fw>
+            
+            <p><persName>Joseph Acosta</persName>, who was in <placeName>South America</placeName>
+               about the year <date when="1580">1580</date>, says, in his <bibl><title>Natural and
+               Moral History of the Indies</title>, lib. IV/ cap. 32</bibl>, 
+               <quote rend="quotes" xml:id="q003" next="#q004">that they not only use a great deal of sugar
+               in the <placeName>Indies</placeName>, bt also carry much into <placeName>Spain</placeName>;
+               for, the canes grow exceedingly well in many
+               parts of the <placeName>Indies</placeName>. They have built their 
+               engines in the islands, in <placeName>Mexico</placeName> in <placeName>Peru</placeName>, and
+               in other parts; which yieldeth the <name>Spaniards</name> a
+               very great revenue.</quote>
+            </p>
+            <quote xml:id="q004" prev="#q003" rend="quotes">
+               <p>It was told me, that the engine for
+               making sugar in <placeName>Nasca</placeName>, in <placeName>Peru</placeName>, was worth
+               yearly above thirty thousand pieces of revenue.
+               That of Chicama, joining Truxillo, in the                <!-- what is this -->
+               same country, was likewise of great revenue,
+               and those of <placeName>New Spain</placeName>, are no less; and it
+               is strange to see what store they consume at the
+               <placeName>Indies</placeName>. They brought the island of <placeName>Saint
+               Domingue</placeName> in the fleet wherein I came, 898
+               chests of sugar, which being, as I did see,
+               shipped at <placeName>Porto Rico</placeName>, every chest, in my
+               opinion, weighed eight <distinct rend="italic">arobes</distinct>, every <distinct rend="italic">arobes</distinct>
+               weighing five and twenty pounds, which are two
+               hundred weight of sugar. This is the chief
+               revenue of these islands, so much are men
+               given to sweet things</p>
+            </quote>
+            <p><persName>Thomas Gave</persName>, who went to <placeName>New Spain</placeName> in
+               <date when="1625">1625</date>, says <bibl>(p.236)</bibl>, in the voyage the <rs type="properAdjective">Spanish</rs>
+               
+               <pb/>
+               <fw type="pageNum">36</fw>
+               
+               fleet, in which he was, touched the island
+               of <placeName>Guadaloupe</placeName>; <quote rend="quotes">where the <name>Indians</name> with great
+               joy yearly expect the <rs type="properAdjective">Spanish</rs> fleets; and by
+               the moons reckon the months, and thereby
+               guess at their coming; and some prepare sugar
+               canes, others plantains, others turtles,
+               some one provision, some another, to barter
+               with the <name>Spaniards</name> for their small
+               haberdashery, iron, knives, and such things which
+               may help them in their wars, which commonly
+               they make against some other Islands.</quote>
+            </p>
+            <p>This was ten years before any <name>Europeans</name>
+               had settled there; and where no sugar was
+               made until <date when="1648">1648</date>, by the <name>French</name>, who then
+               possessed it. The sugar cane, consequently,
+               was the natural production of that Island.
+            </p>
+            <p><persName>Gage</persName> says, <bibl>cap. 15</bibl>, <quote rend="quotes">two or three leauges
+               from the <rs type="properAdjective">Indian</rs> town of <placeName>Chipapa</placeName> there are (in
+               <date when="1626">1626</date>) two Igenios or Farms of sugar, one
+               belonging to the cloister of the <name>Dominicans</name> of
+               the <rs type="properAdjective">Spanish</rs> city of <placeName>Chiapa</placeName>, which is twelve
+               leauges from this town, the other to the cloister
+               of this town, which contain near two hundred
+               Black-Moors, beside many Indians, who are
+               employed in that constant work of making
+               sugar for all the country.</quote> He also remakrs,
+               in the same chapter, that sugar was an article
+               of commerce, and sent from <placeName>Chiapa</placeName> down the
+               
+               <pb/>
+               <fw type="pageNum">37</fw>
+               
+               <placeName>river Tabasco</placeName>, to be transported to the <placeName>Havannah</placeName>.
+               The towns of <placeName>Chiapa</placeName> are in the province
+               of <placeName>Chiapa</placeName>, which joins to <placeName>Guatimala</placeName>.
+            </p>
+            <p>The <name>Portuguese</name> first established Sugar Works
+               in the <placeName>Brazils</placeName>, in 1850. They had no settlement
+               of consequence before <date when="1549">1549</date>. The
+               <name>Dutch</name>, after the truce between <placeName>Spain</placeName> and
+               <placeName>Holland</placeName> in <date when="1652">1652</date>, began their expeditions to the
+               <placeName>Brazils</placeName>; and in <date when="1637">1637</date> they sent <persName>Count Maurice</persName>
+               thither. In <date when="1641">1641</date>, when the treaty of peace 
+               was concluded between the <name>Dutch</name> and the <name>Portuguese</name>,
+               the Former were in number 20,000, and
+               had acquired seven of the fourteen captainships
+               of <placeName>Brazil</placeName>. They had 60,000 negroes
+               there, and made 25,000 chests of sugar. But,
+               in <date when="1655">1655</date>, they wer dispossessed of their territories,
+               and ceded them by treaty, in <date when="1661">1661</date>, to
+               the <name>Portuguese</name>; being reduced in number, by
+               wars and other disasters, to only six or seven
+               hundred persons. It was these <rs type="properAdjective">Dutch</rs> fugitives,
+               driven from the <placeName>Brazils</placeName> in <date when="1655">1655</date>, that
+               carried the art of planting the cane, and
+               making sugar in a proper manner, to the <placeName>West
+               Indian Islands</placeName>.
+            </p>
+            <p>I have before observed, that the island of
+               <placeName>Barbadoes</placeName> was first settled by the <name>English</name>
+               in <date when="1627">1627</date>, and sugar made there in <date when="1643">1643</date>. I
+               
+               <pb/>
+               <fw type="pageNum">38</fw>
+               
+               shall now add some particulars from <persName>Ligon</persName>,
+               which will illustrate the subject in a very
+               satisfactory manner.
+            </p>
+            <p>He says, in his <bibl><title>History of <placeName>Barbadoes</placeName></title>, p 85</bibl>,
+               <quote rend="quotes">At the time we landed on this island, which
+               was in the beginning of <date when="1647-09">September, 1647</date>, we
+               were informed, partly by those planters we
+               found there, ad partly by our own observations,
+               that the great work of sugar-making
+               was but newly practised by the inhabitatns
+               there. Some of the most industrious men,
+               having gotten plants from <placeName>Ferambrock</placeName>, a place
+               in <placeName>Brazil</placeName>, and made trial of them at the
+               <placeName>Varvadoes</placeName>, and finding them to grow, they
+               planted more and more, as they grew and
+               multiplied on the place, till they had such a 
+               considerable number as they were worth the 
+               while to set up a very small Ingenio, and so
+               make a trial what sugar could be made on that
+               soil. But the secrets of the work being not
+               well understood, the sugards they were made were
+               very inconsiderable, and little worth, for two
+               or three years. But they, finding their errors
+               by their daily practice, began a little to mend;
+               and, by new directions from <placeName>Brazil</placeName>, sometimes
+               by strangers, and now and then by their own
+               people, who were content sometimes to make
+               a voyage thither, to improve their knowledge
+               
+               <pb/>
+               <fw type="pageNum">39</fw>
+               
+               in a thing they so much desired. Being now
+               much better able to make their queries, of the 
+               secrets of that mystery, by how much their
+               often-failings had put them to often-stops and
+               nonplusses inthe work. And-so returning
+               with more plants, and better knowlege, they
+               went on upon fresh hopes, but still short of
+               what they should be more skilful in; for, at
+               our first arrival, we found them ignorant in
+               three main points that much conduced to the
+               work; <abbr rend="italics">viz.</abbr> the manner of planting; the time
+               of gathering; and the right placing their coppers
+               in their furnaces; as also the true way of
+               covering their rollers with plates or bars of
+               iron. At the time of our arrival there we
+               found many sugar works set up, and at work:
+               but yet the sugars they made were but bare
+               Muscovadoes; and few of them merchantable
+               commodities; so moist, and full of molasses,
+               and so ill cured, as they were hardly worth
+               bringing home to <placeName>England</placeName>. But about the
+               time I left the Island, which was in <date when="1650">1650</date>, they
+               were much bettered; for when they had skill
+               to know when the canes were ripe, which was
+               not till they were fifteen months old; and
+               before they gathered them at twelve, which
+               was a main disadvantage to the making good
+               sugar; for, the liquor wanting of the sweetness
+               
+               <pb/>
+               <fw type="pageNum">40</fw>
+               
+               it ought to have caused the sugars to be
+               lean,and unfit to keep. Besides, they had
+               grown greater proficients both in boiling and
+               curing them, and had learnt the knowledge of
+               making them white, such as you call lump-
+               sugars here in <placeName>England</placeName>; but not so excellent
+               as those they make in <placeName>Brazil</placeName>; nor is there any
+               likelihood they can ever make such; the land
+               there being better, and lying in a continent,
+               must needs have constanter and steadier weather,
+               and the air much drier and purer than
+               it can be in so small an island as that of
+               <placeName>Barbadoes</placeName>.</quote>
+            </p>
+            <trailer rend="allcaps">End of Part the First</trailer>
          </div>
-         <!-- Don't encode catchwords, but do capture page numbers and signatures. -->
       </body>
   </text>
 </TEI>
