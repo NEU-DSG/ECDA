@@ -24,6 +24,9 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
+      <change who="SS" when="2015-01-26">Validated document (some required attributes missing), and re-added milestone element for marking up @ana that
+        occurs over large, overlapping structures. Use @spanTo and @xml:id to show how far analysis goes.
+      </change>
       <change who="EH" when="2014-12-21">Edited <gi>embLore</gi> gloss to
         account for lore that is not categorized as Afro-Caribbean</change>
       <change who="SS" when="2014-12-10">Added <gi>embLore</gi></change>
@@ -95,7 +98,7 @@
         
         -->
         <moduleRef key="core" except="binaryObject cb divGen editor email gb
-          media meeting milestone"/>
+          media meeting"/>
           <elementSpec module="core" ident="distinct" mode="change">
             <attList>
               <attDef ident="type" mode="replace">
@@ -638,7 +641,7 @@
         <elementSpec ident="embSN" mode="add" ns="http://dsg.northeastern.edu/ecda/ns/1.0">
           <gloss>Embedded Slave Narrative</gloss>
           <desc>Encodes slave narratives embedded within text (as opposed to interpellated slave narratives)</desc>
-          <classes>
+          <classes mode="replace">
             <memberOf key="att.global"/>
             <memberOf key="model.global"/>
             <memberOf key="model.divLike"/> <!-- Add schematron specs so that this is only allowed *within* front/body/back -->
@@ -681,7 +684,7 @@
         <elementSpec ident="intSN" mode="add" ns="http://dsg.northeastern.edu/ecda/ns/1.0">
           <gloss>Interpellated Slave Narrative</gloss>
           <desc>Encodes interpellated slave narratives within the text (as opposed to embedded slave narratives)</desc>
-          <classes>
+          <classes mode="replace">
             <memberOf key="model.global"/>
             <memberOf key="att.global"/>
             <memberOf key="model.qLike"/>
@@ -698,7 +701,7 @@
         <elementSpec ident="embLore" mode="add" ns="http://dsg.northeastern.edu/ecda/ns/1.0">
           <gloss>Embedded Lore</gloss>
           <desc>Encodes lore (e.g. tales, songs, riddles) embedded in the text</desc>
-          <classes>
+          <classes mode="replace">
             <memberOf key="att.global"/>
             <memberOf key="att.typed"/>
             <memberOf key="model.global"/>
