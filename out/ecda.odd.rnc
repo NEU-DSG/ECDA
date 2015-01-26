@@ -7,10 +7,12 @@ namespace s = "http://www.ascc.net/xml/schematron"
 namespace sch = "http://purl.oclc.org/dsdl/schematron"
 namespace xlink = "http://www.w3.org/1999/xlink"
 
+
 # Schema generated from ODD source 2015-01-26T15:20:47Z. .
 # TEI Edition: Version 2.7.0. Last updated on
 #	16th September 2014, revision 13036
 # TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 2.7.0/
+
 #
 
 # [Statement of availability]
@@ -958,15 +960,17 @@ att.citing.attribute.to =
   
   ## specifies the end-point of the range of units indicated by the unit attribute.
   attribute to { data.word }?
-model.nameLike.agent = name | orgName | persName | anonPers
-model.nameLike.agent_alternation = name | orgName | persName | anonPers
-model.nameLike.agent_sequence = name, orgName, persName, anonPers
+model.nameLike.agent = name | orgName | persName | docRole | anonPers
+model.nameLike.agent_alternation =
+  name | orgName | persName | docRole | anonPers
+model.nameLike.agent_sequence =
+  name, orgName, persName, docRole, anonPers
 model.nameLike.agent_sequenceOptional =
-  name?, orgName?, persName?, anonPers?
+  name?, orgName?, persName?, docRole?, anonPers?
 model.nameLike.agent_sequenceOptionalRepeatable =
-  name*, orgName*, persName*, anonPers*
+  name*, orgName*, persName*, docRole*, anonPers*
 model.nameLike.agent_sequenceRepeatable =
-  name+, orgName+, persName+, anonPers+
+  name+, orgName+, persName+, docRole+, anonPers+
 model.segLike = seg
 model.hiLike = hi | mcr
 model.hiLike_alternation = hi | mcr
@@ -1377,6 +1381,7 @@ model.pLike.front =
   | docEdition
   | docImprint
   | docDate
+  | docRole
 model.divBottomPart = trailer | closer | signed | postscript
 model.divBottom = model.divWrapper | model.divBottomPart
 model.titlepagePart =
@@ -1390,6 +1395,7 @@ model.titlepagePart =
   | docEdition
   | docImprint
   | docDate
+  | docRole
 model.choicePart =
   sic | corr | reg | orig | unclear | abbr | expan | seg
 model.imprintPart = publisher | biblScope | pubPlace | distributor
@@ -1480,6 +1486,7 @@ model.global =
   | model.global.edit
   | notatedMusic
   | figure
+  | docRole
   | commodity
   | flora
   | fauna
@@ -3870,42 +3877,11 @@ titlePart =
   }
 docAuthor =
   
-  ## (document role) contains an indication of a person or organization who played a significant role in the production of the source book, as given on the title page (often but not always contained in a byline). [4.6. ]
-  element ns1:docRole {
+  ## (document author) contains the name of the author of the document, as given on the title page (often but not always contained in a byline). [4.6. ]
+  element ns1:docAuthor {
     macro.phraseSeq,
     att.global.attributes,
     att.canonical.attributes,
-    
-    ##
-    attribute type {
-      
-      ## A person who has written some or all of the main content of the text 
-      "author"
-      | 
-        ## A person who has edited the text without contributing to its main content (adding annotations or providing other editorial oversight)
-        "editor"
-      | 
-        ## A person who has translated the main content of the text from one language into another
-        "translator"
-      | 
-        ## A person or entity responsible for the publication (i.e. the sponsorship of the production and dissemination) of the work; in some cases this may be the author
-        "publisher"
-      | 
-        ## A person or entity responsible for the physical printing process
-        "printer"
-      | 
-        ## A person or entity responsible for the sale and distribution of the work
-        "bookseller"
-      | 
-        ##  
-        "licensee"
-      | 
-        ##  
-        "disseminator"
-      | 
-        ##  
-        "uncertain"
-    },
     empty
   }
 imprimatur =
@@ -6307,6 +6283,46 @@ supplied =
     attribute reason {
       list { data.word+ }
     }?,
+    empty
+  }
+docRole =
+  
+  ## (document role) contains an indication of a person or organization who played a significant role in the production of the source book, as given on the title page (often but not always contained in a byline).
+  element ns1:docRole {
+    persName*,
+    text,
+    att.global.attributes,
+    
+    ##
+    attribute type {
+      
+      ## A person who has written some or all of the main content of the text 
+      "author"
+      | 
+        ## A person who has edited the text without contributing to its main content (adding annotations or providing other editorial oversight)
+        "editor"
+      | 
+        ## A person who has translated the main content of the text from one language into another
+        "translator"
+      | 
+        ## A person or entity responsible for the publication (i.e. the sponsorship of the production and dissemination) of the work; in some cases this may be the author
+        "publisher"
+      | 
+        ## A person or entity responsible for the physical printing process
+        "printer"
+      | 
+        ## A person or entity responsible for the sale and distribution of the work
+        "bookseller"
+      | 
+        ##  
+        "licensee"
+      | 
+        ##  
+        "disseminator"
+      | 
+        ##  
+        "uncertain"
+    },
     empty
   }
 mcr =

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../out/ecda.odd.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ecda="http://dsg.northeastern.edu/ecda/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Belinda</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Hunter, R.</publisher>
+                <date when="1821">1821</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Obtainted from DLOC. Digitized by Hathitrust</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <ecda:hyperDiv>
+            <ecda:notes>
+                <note xml:id="n001" target="#a001">Author of <title>Caroline de Lichtfeld</title>.</note>
+            </ecda:notes>
+        </ecda:hyperDiv>
+        <front>
+            <titleBlock type="main" rend="allcaps">
+                <titlePart>Belinda</titlePart>
+                <byline>by
+                    <docRole type="author"><persName>Maria Edgeworth</persName></docRole>
+                </byline>
+                <titlePart type="desc">In Three Volumes.</titlePart>
+                <titlePart type="vol">Vol. I.</titlePart>
+                <titlePart type="ed" rend="italic">Fourth Edition</titlePart>
+                <titlePart type="desc">Corrected and Improved.</titlePart>
+                <epigraph rend="mixed">
+                    <quote>
+                        <lg>
+                            <l rend="prequotes">A prudence undeceiving, undeceived,</l>
+                            <l rend="prequotes">That nor too little, nor too much believed;</l>
+                            <l rend="prequotes">That scorn'd unjust Suspicion's coward fear,</l>
+                            <l rend="quotes">And without weakness knew to be sincere.</l>
+                        </lg>
+                    </quote>
+                    <bibl><author><persName>Lord Lyttelton's</persName></author> <title rend="italic">Monody on his Wife</title>.</bibl>
+                </epigraph>
+                <docImprint>
+                    <pubPlace><placeName>London</placeName></pubPlace>: Printed for <docRole type="publisher"><persName>R. Hunter</persName></docRole>,
+                    successor to <docRole type="publisher"><persName>J. Johnson</persName></docRole>, <placeName>St. Paul's Churchyard</placeName>;
+                    and <docRole type="publisher"><persName>Baldwin</persName></docRole>, <docRole type="publisher"><persName>Cradock</persName></docRole>, and <docRole type="publisher"><persName>Joy</persName></docRole>,
+                    <placeName>Paternoster-row</placeName>.
+                    <docDate><date when="1821">1821</date></docDate>.
+                </docImprint>
+            </titleBlock>
+            <div type="prefatory">
+                <head rend="allcaps">Advertisement.</head>
+                <p>Every author has a right to give what appellation he may think proper 
+                    to his works. The public have also a right to accept or refuse the 
+                    classification that is presented.</p>
+                <p>The following work is offered to the public as a Moral Tale—the author
+                    not wishing to acknowledge a Novel. Were all novels like those of
+                    <persName ref="#de_crousaz" xml:id="a001" corresp="#n001">Madame de Crousaz</persName>*, <persName>Mrs.
+                    Inchbald</persName>, <persName>Miss Burney</persName>, or <persName>Dr. Moore</persName>,
+                    
+                    <pb/>
+                    
+                    she would adopt the name of novel with delight: But so much folly,
+                    error, and vice are disseminated in books classed under this denomination,
+                    that it is hoped the wish to assume another title will be attributed
+                    to feelings that are laudable, and not fastidious.
+                </p>
+                <dateline>April 20, 1801.</dateline>
+            </div>
+        </front>
+        <body>
+            <div>
+                
+                <p>Some text here.</p>
+            </div>
+            
+        </body>
+        
+    </text>
+</TEI>

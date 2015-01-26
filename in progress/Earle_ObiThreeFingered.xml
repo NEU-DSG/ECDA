@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ECDA_github/ecda.odd.xml"
-    xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="../out/ecda.odd.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -22,48 +21,150 @@
     </teiHeader>
     <text>
         <front>
-            <titlePage type="main">
+            <titleBlock>
                 <docTitle>
-
-                    <titlePart>Obi;or, The history of Threefingered Jack</titlePart>
+                    <titlePart type="main">Obi;or, The history of Threefingered Jack</titlePart>
                 </docTitle>
-                <div type="prefatory">
-                    <lg>
-                        <l>Oh! ye who at your ease</l>
-                        <l>Sip the blood sweetened beverage! thoughts like these</l>
-                        <l>Haply ye scorn: I thank thee, gracious God!</l>
-                        <l>That I do feel upon my cheek the glow</l>
-                        <l>Of indignation, when beneath the rod</l>
-                        <l>A sable brother writhes in silent
-                            woe.......<persName>Southey</persName>.</l>
-                    </lg>
-                    <lg>
-                        <l>Hear him! ye Senates! hear this truth sublime,</l>
-                        <l>He who allows oppression shares the
-                            crime.....<persName>Darwin</persName></l>
-                    </lg>
-                </div>
-                <div type="notice">
-                    <title>Advertisement.</title>
-                    <p>I have published these letters, which accidentally fell into my hands, with a
-                        view to commemorate the name of <persName>Jack</persName>, and place upon
-                        the list of heroes, one who, had he shone in a higher sphere, would have
-                        proved as bright a luminary as ever graced the Roman annals, or ever boldly
-                        asserted the rights of a Briton. His cause was great and noble, for to
-                        private wrongs he added the liberty of his countrymen, and stood alone a
-                        bold and daring defender of the Rights of Man. To him who shall applaud Jack
-                        through the varied scenes of his life; to him, whose heart shall sympathize
-                        in his misfortunes, who shall smile upon his deeds, at the same time that he
-                        laments their cause, I dedicate the following pages. W.E.J.</p>
-                </div>
-
-            </titlePage>
+            </titleBlock>
+            <div type="prefatory">
+                <lg>
+                    <l>Oh! ye who at your ease</l>
+                    <l>Sip the blood sweetened beverage! thoughts like these</l>
+                    <l>Haply ye scorn: I thank thee, gracious God!</l>
+                    <l>That I do feel upon my cheek the glow</l>
+                    <l>Of indignation, when beneath the rod</l>
+                    <l>A sable brother writhes in silent woe.......<persName>Southey</persName>.</l>
+                </lg>
+                <lg>
+                    <l>Hear him! ye Senates! hear this truth sublime,</l>
+                    <l>He who allows oppression shares the crime.....<persName>Darwin</persName></l>
+                </lg>
+            </div>
+            <div type="prefatory">
+                <head>Advertisement.</head>
+                <p>I have published these letters, which accidentally fell into my hands, with a
+                    view to commemorate the name of <persName>Jack</persName>, and place upon the
+                    list of heroes, one who, had he shone in a higher sphere, would have proved as
+                    bright a luminary as ever graced the Roman annals, or ever boldly asserted the
+                    rights of a Briton. His cause was great and noble, for to private wrongs he
+                    added the liberty of his countrymen, and stood alone a bold and daring defender
+                    of the Rights of Man. To him who shall applaud Jack through the varied scenes of
+                    his life; to him, whose heart shall sympathize in his misfortunes, who shall
+                    smile upon his deeds, at the same time that he laments their cause, I dedicate
+                    the following pages. <persName>W.E.J</persName>.</p>
+            </div>
         </front>
 
         <body>
-            <div>
-
-                <p>Some text here.</p>
+            <pb/>
+            <head>Obi, Or, The History of Threefingered Jack</head>
+            <div type="letter">
+                <head>
+                    <emph rend="caps">Letter I.</emph>
+                </head>
+                <opener><salute>Dear <persName>Charles</persName></salute>,
+                            <dateline><placeName>Jamaica</placeName></dateline>.</opener>
+                <p>A whole week has your letter been lying open on my desk, ready for me to answer—a
+                    whole week have the above two words been written, as you may perceive by the
+                    difference in the shade of the ink and the cutting of my pen; for, three times
+                    has the dried standish been replenished, and twenty times, at least, have I
+                    dipped into it, sometimes with a new pen, sometimes with a mended one—and still
+                    at this moment am I at a loss what to say to you in reply to your queries.</p>
+                <p>Now, you will think that, because I have written the above long sentence, my mind
+                    is wholly and exclusively engrossed by your business, and that I shall be able
+                    to go on in a regular steady way; but I tell you, Charles, it is no such thing;
+                    for at the end of that very sentence, I stopped a full hour, unable to
+                    proceed—and now again do I stop short.</p>
+                <pb/>
+                <p>Try what I may, it will not do—but what is the matter? you will say.
+                        <persName>Jack</persName>!!! and his cursed three fingers!!!</p>
+                <p>I'll tell you what, <persName>Charles</persName>—I have just read your letter for
+                    the hundred and first time, and upoin my soul, cannot see that the business it
+                    is about is of such great importance; so, with or without your leave, I shall
+                    put off answering it, until I have eased myself of my insufferable burthen, by
+                    dispatching <persName>Jack</persName>, his three fingers, and his
+                        <name>Obi</name>, and all that belongs to him; for, positively, I can think
+                    of nothing else.</p>
+                <p>And so it is with every body in the Island; go wherever I will the name of
+                        <persName>Jack</persName> is perpetually buzzed in my ears. If I meet a
+                    friend in the street, it is no longer "<said>How d'ye do</said>?" but
+                        "<said>Well, what news of <persName>Jack</persName></said>?" if any of my
+                    neighbors, calling his servant, says,; "<said><persName>Jack</persName>, come
+                        here</said>," I start and stare about, in expectation of seeing the
+                    threefingered one make his appearance. Nay, there is not a thing called
+                        <persName>Jack</persName>, whether a smokejack, a boot jack, or any other
+                    jack, but acts as a spell upon my senses and sets me on the fret at the bare
+                    mention of it. By heavens! it is too much, and I wish...</p>
+                <p>Nay, I do not—I cannot find in my heart to form the same wish that most of the
+                    inhab—</p>
+                <pb/>
+                <p>itants here express every day. Jck is a noble fellow, and in spite of every cruel
+                    hard hearted planter, I shall repeat the same to the last hour of my life.
+                            "<said><persName>Jack</persName> is a Negro</said>," say they.
+                            "<said><persName>Jack</persName> is a Man</said>," say I.</p>
+                <lg>
+                    <l>—"<said>He is a slave</said>."</l>
+                    <l>—"<said>Man cannot be a slave to Man</said>."</l>
+                    <l>—"<said>He is my property</said>."</l>
+                    <l>—"<said>How did you acquire that property</said>?"</l>
+                    <l>—"<said>By paying for it</said>."</l>
+                    <l>—"<said>Paying! Paying whom</said>?"</l>
+                    <l>—"<said>Him who brought him from Africa</said>."</l>
+                    <l>—"<said>How did he get possession of him</said>?"</l>
+                    <l>—"<said>He caught him there</said>."</l>
+                    <l>—"<said>Caught! what? Like a wild beast</said>?"</l>
+                    <l>—"<said>No, but he contrived means to convey him into his ship</said>?"</l>
+                    <l>—"<said>Contrived! Then he brought him without his consent</said>?"</l>
+                    <l>—"<said>Very likely</said>."</l>
+                    <l>—"<said>And what has become of that robber</said>?"</l>
+                    <l>—"<said>Robber! He is a very respectable man, who has left off trade, has
+                            married the daughter of a rich planter, and now lives very comfortably,
+                            after the fatigues of an industrious life</said>."</l>
+                    <l>—"<said>What! Do they hang a poor hard-laboring man, who, driven by despair
+                            at the sight of his numerous family ready to starve</said></l>
+                </lg>
+                <pb/>
+                <lg>
+                    <l><said>for want of a bit of bread, takes advantage of a dark night, goes on
+                            the highway and frightens teh traveller out of a few pieces of gold and
+                            shall a daring ruffian, who is openly guilty of a crime more heinous in
+                            its nature and baneful in its effects, get respected by every body and
+                            pass his days in the peaceable enjoyment of riches acquired by such
+                            infamous means</said>?"</l>
+                    <l>—"<said>I don't understand you. I never heard that the traffic was infamous.
+                            Is it not authorised by all the nations of Europe, Asia and America?
+                            Have not regulations been made concerning it by all
+                        governments</said>?"</l>
+                    <l>—"<said>Very true, but that does not make it more honorable. Prostitution is
+                            authorised, yes, for it is more than tolerated, by governments, many of
+                            which have also made regulations concerning it, but that does make it
+                            less infamous</said>."</l>
+                    <l>—"<said>Nay, you are going too far, and this is widely different</said>.</l>
+                    <l>—"<said>Different !—By heavens ! you will drive me mad</said>."</l>
+                </lg>
+                <p>And such, my dear <persName>Charles</persName>, is the daily altercation I have
+                    with the greatest part of the planters here, and what you have just read is a
+                    specimen of the various arguments brought on both sides of the question. As I
+                    know your sentiments upon the subject, I shall close</p>
+                <pb/>
+                <p>it here and proceed to my narrative about <persName>threefingered
+                    Jack</persName>, and as I have made it my business to collect every particular
+                    relative to him, I believe I shall have it in my power to give you a
+                    circumstantial account of all his actions. In fact, what I am now going to write
+                    is nothing more than a copy of what I had sometime ago begun to put into a
+                    regular story, out of several memoranda collected at different times. So without
+                    lengthening this preamble, I thus begin:</p>
+                <p><persName>Amri</persName> was a beautiful slave, the property of <persName>Mr.
+                        Mornton</persName>, of <placeName>Maroons Town</placeName>. She was
+                    sanguinary in her temper; for, misfortunre, or rather cruelty, had perverted a
+                    heart naturally inclined to virtue. She was torn from the arms of her husband,
+                    her family and friends, while in the mayday of her life, from her native
+                        <placeName>Africa</placeName></p>
+                <p>She had vowed to curse the European race for ever; and had a son, in whose breast
+                    she never failed to nurture the baneful passion of revenge</p>
+                <p>She taught him to despise his groaning companions, complaining under their labor,
+                    meanly submitting to the christian whip, and then pusillanimously venting their
+                    griefs in half suprressed sighs</p>
             </div>
 
         </body>
