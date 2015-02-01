@@ -2062,7 +2062,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
          which we coasted to-day, is low, barren, and without
          any recommendation whatever. As yet I can 
          only look at <placeName>Jamaica</placeName> as one does on a man who
-         comes to pay <seg ana="#currency">money</seg>, and whom we are extremely 
+         comes to pay <ecda:commodity ana="#currency">money</ecda:commodity>, and whom we are extremely 
          well pleased to see, however little the fellow's appearance
          may be in his favour.         
       </p>
@@ -2310,7 +2310,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
         heard, but could not obtain a sight), seemed to act
         upon quite an independent interest, and go about
         from house to house, tumbling and playing antics
-        to pick up <seg ana="#currency">money</seg> for themselves.
+        to pick up <ecda:commodity ana="#currency">money</ecda:commodity> for themselves.
      </p>
      <p ana="#performance">A play was now proposed to us, and, of course, 
         accepted. <rs type="persGroup">Three men</rs> and <ecda:anonPers>a girl</ecda:anonPers> accordingly
@@ -2329,7 +2329,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
         dead, and <ecda:anonPers><persName ref="#calista_0001">Calista</persName></ecda:anonPers> had made her exit in distraction,
         they all began dancing reels like so many mad
         people, till they were obliged to make way for the
-        <placeName>Waterloo</placeName> procession, who came to collect <seg ana="#currency">money</seg>
+        <placeName>Waterloo</placeName> procession, who came to collect <ecda:commodity ana="#currency #exchange">money</ecda:commodity>
         for next year's festival; <ecda:anonPers>one of them</ecda:anonPers> singing, 
    <pb n="65"/>
    <fw type="pageNum">57</fw>         
@@ -2548,10 +2548,10 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           seeing my property in a favourable point of view;
           it is crop time, when all the laborious work is
           over, and the <rs type="persGroup">negroes</rs> are the most healthy and 
-          merry. This morning I went to visit the <rs type="place" ana="#medical">hospital</rs>,
+          merry. <seg ana="#medical">This morning I went to visit the <rs type="place">hospital</rs>,
           and found there only eight <rs type="persGroup">patients</rs> out of 
           three hundred <rs type="persGroup">negroes</rs>, and not one of them a
-          serious case. Yesterday I had observed a remarkably 
+          serious case.</seg> Yesterday I had observed a remarkably 
           handsome <rs type="properAdjective">Creole</rs> girl, called <persName ref="#psyche_0001">Psyche</persName>, and she
           really deserved the name. This morning a <ecda:anonPers>little
           brown girl</ecda:anonPers> made her appearance at breakfast, with
@@ -2981,15 +2981,15 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
             of an impromptu <name ana="#performance">Mr. John-Canoe</name> with so much
             fun and grotesqueness, that he fairly beat the original
             performers out of the pit, and carried off all
-            the applause of the <rs type="persGroup">spectators</rs>, and a <seg ana="#currency">couple of my
-            dollars</seg>. The <name ana="#performance">John-Canoes</name> are fitted out at the 
+            the applause of the <rs type="persGroup">spectators</rs>, and a <ecda:commodity ana="#currency #exchange">couple of my
+            dollars</ecda:commodity>. The <name ana="#performance">John-Canoes</name> are fitted out at the 
             expense of rich <rs type="persGroup">negroes</rs>, who afterwards share
             the <seg ana="money">money</seg> collected from the spectators during
             their performance, alloting one share to the repre- 
          <pb n="84"/>
          <fw type="pageNum">76</fw> 
             senator himself; and it is usual for the master of
-            the estate to give them a <seg ana="#currency">couple of guineas</seg> apiece.</seg>
+            the estate to give them a <ecda:commodity ana="#currency #exchange">couple of guineas</ecda:commodity> apiece.</seg>
          </p>
          <p><ecda:intSN xml:id="i001" next="i002">This <persName ref="#nicholas_cameron_0001">Nicholas</persName>, whom I mentioned, is a very interesting
             person, both from his good looks and 
@@ -3050,7 +3050,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
             who was said—<quote xml:lang="la" rend="quotes" source="sallust_cataline">Saltare elegantius, quam necesse
             est probæ, et cui cariora semper omnia, quam decus
             et pudicitia fuit</quote>. When her dance was over, I
-            called her to me and gave her <seg ana="#currency">a handful of silver</seg>.</seg> 
+            called her to me and gave her <ecda:commodity ana="#currency #exchange">a handful of silver</ecda:commodity>.</seg> 
             <said rend="quotes">Ah, <persName ref="#psyche_0001">Psyche</persName>,</said> said <persName ref="#nicholas_cameron_0001">Nicholas</persName>, who was standing
          <pb n="86"/>
          <fw type="pageNum">78</fw>  
@@ -3222,7 +3222,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
             for I have not only promised to baptize all the <rs type="persGroup">infants</rs>,
             but, meeting a little black boy this morning,
             who said that his name was <persName ref="#moses_0001">Moses</persName>, I gave him a
-            piece of <seg ana="#currency">silver</seg>, and told him that it was for the
+            piece of <ecda:commodity ana="#currency #exchange">silver</ecda:commodity>, and told him that it was for the
             sake of <persName ref="#aaron_0001">Aaron</persName>; which, I flatter myself, was planting
             in his young mind the rudiments of <name>Christianity</name>.
             </p>
@@ -4493,7 +4493,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
         <lg>
            <l><distinct type="dialect"><persName ref="#peter_0001">Peter</persName> him Massa thief—Oh! fye</distinct>!</l> 
            <l><distinct type="dialect"><persName ref="#sally_0001">Missy Sally</persName>, him say him do so</distinct>.</l> 
-           <l><distinct type="dialect">Him <seg ana="#currency">money</seg> spent, <persName ref="#sally_0001">Sally</persName> bid him bye</distinct>,</l> 
+           <l><distinct type="dialect">Him <ecda:commodity ana="#currency">money</ecda:commodity> spent, <persName ref="#sally_0001">Sally</persName> bid him bye</distinct>,</l> 
            <l><distinct type="dialect">And from <persName ref="#peter_0001">Peter</persName> away him go</distinct>;</l> 
            <l><distinct type="dialect">Fye, <persName ref="#sally_0001">Missy Sally</persName>, fye on you</distinct>!</l> 
            <l><distinct type="dialect">Poor Blacky <persName ref="#peter_0001">Peter</persName> what him do</distinct>?</l> 
@@ -4593,10 +4593,10 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
          Lewis</persName>, after his friend and myself; so <persName ref="john_lewis_1815">John Lewis</persName>
          he was. 
       </p>
-      <p>There ought to have been <ecda:anonPers>a third child</ecda:anonPers>, born
+      <p><seg ana="#medical">There ought to have been <ecda:anonPers>a third child</ecda:anonPers>, born
          at seven months, whom the <ecda:anonPers><distinct type="dialect" rend="italic">graundee</distinct></ecda:anonPers> had reared
          with great difficulty, and dismissed, quite strong,
-         from the <rs type="place" ana="#medical">hospital</rs>; the <ecda:anonPers>mother</ecda:anonPers> had taken great
+         from the <rs type="place">hospital</rs></seg>; the <ecda:anonPers>mother</ecda:anonPers> had taken great
          care of it till the tenth day, when she was entitled
          to an <ecda:commodity ana="#textile #circulation #food">allowance of clothes, provisions &amp;c.</ecda:commodity>;
          but no sooner had she received her reward, than on 
@@ -4604,10 +4604,10 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
       <pb n="132"/>
       <fw type="pageNum">124</fw>     
          long without food, while she went herself to dance
-         on a neighbouring estate, that it was brought, in
-         an exhausted state, back to the <rs type="place" ana="#medical">hospital</rs>; and, in
+         on a neighbouring estate, that <seg ana="#medical">it was brought, in
+         an exhausted state, back to the <rs type="place">hospital</rs>; and, in
          spite of every care, it expired withing four and 
-         twenty hours after its return. 
+         twenty hours after its return.</seg> 
       </p>
       <p>The ceremony was performed with perfect gravity
          and propriety by all parties; I thought it was
@@ -4760,7 +4760,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
            a time, and whom I had distinguished from the
            cleverness of his countenancy and buffonery of his
            manners, came to beg my permission to go and
-           purchase food with some <seg ana="#currency">money</seg> which I had just
+           purchase food with some <ecda:commodity ana="#currency">money</ecda:commodity> which I had just
            given him, <said rend="quotes" direct="false">because he was almost starving; his
            parents were dead, he had no provision-grounds, no 
            allowance, and nobody ever gave him anything.</said>
@@ -4780,9 +4780,9 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
            he always lies—in order to keep his tongue in
            practice.            
         </p>
-        <p>One species of flattery (or of <distinct type="dialect" rend="italic"><rs type="properAdjective">Congo</rs>-saw</distinct>, as we
+        <p ana="#medical">One species of flattery (or of <distinct type="dialect" rend="italic"><rs type="properAdjective">Congo</rs>-saw</distinct>, as we
            call it here) amused me very much this morning: an
-           <rs type="person" ref="#philippa_0001">old woman</rs> who is in the <rs type="place" ana="#medical">hospital</rs> wanted to express 
+           <rs type="person" ref="#philippa_0001">old woman</rs> who is in the <rs type="place">hospital</rs> wanted to express 
            her gratitude for some <ecda:food ana="#fauna">stewed fish</ecda:food> which I
            had sent her for supper, and, instead of calling me
            <distinct type="dialect" rend="quotes">massa</distinct>, she always said—<said rend="quote"><distinct type="dialect">Tank him, <emph>my husband</emph></distinct></said>
@@ -4805,7 +4805,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      <fw type="pageNum">130</fw>
           me to inform their <ecda:anonPers>trustee</ecda:anonPers> how ill they had been
           used, and to see their injuries redressed. They said,
-          that <seg ana="#disease">having been ill in the <rs type="place" ana="#medical">hospital</rs>, and ordered to
+          that <seg ana="#disease #medical">having been ill in the <rs type="place">hospital</rs>, and ordered to
           the field while they were still too weak to work</seg>, they
           had been flogged with much severity (though not
           beyond the limits of the law);</ecda:intSN> and <ecda:anonPers>my head driver</ecda:anonPers>,
@@ -5528,7 +5528,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     <seg ana="#medical">I have eaten several other good <rs type="properAdjective">Jamaica</rs>
     dishes, but none so excellent as this, a large portion
     of which was transferred to the most infirm <rs type="persGroup">patients</rs>
-    in the <rs type="place" ana="#medical">hospital</rs>. Perhaps an <rs type="properAdjective">English</rs> physician would
+    in the <rs type="place">hospital</rs>. Perhaps an <rs type="properAdjective">English</rs> physician would
     have felt every hair of his wig bristle upon his head
     with astonishment, at hearing me ask, this morning,
     a <ecda:anonPers>woman</ecda:anonPers> in a fever, how her <ecda:flora ana="#medical">bark</ecda:flora> and her <ecda:food ana="#fauna #medical">barbe-
@@ -6195,7 +6195,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
   <p>On our return from dinner at <persName ref="dewer_0001">Mr Dewer's</persName>, we 
      discovered a ball of <rs type="persGroup">brown ladies and gentlemen</rs>
      opposite to the inn. No <rs type="persGroup">whites nor blacks</rs> were
-     permitted to attend this assembley; but as our landlady
+     permitted to attend this assembley; but as our <rs type="person" ref="#judy_james_0001">landlady</rs>
      had <rs type="persGroup">two nieces</rs> there, under her auspices we
      were allowed to be spectators. The <rs type="persGroup">females</rs> chiefly
      consisted of the <rs type="persGroup">natural daughters of <rs type="persGroup">attorneys</rs> and 
@@ -6211,13 +6211,13 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
  <pb n="180"/>
  <fw type="pageNum">172</fw>
      the assertion was a mistake, arising from such a
-     connection being very rarely formed; the females
-     generally preferring to live with white men, and
-     the brown men having thus no other resource
-     than the black women. As to the above <rs type="persGroup">girls</rs>, the
+     connection being very rarely formed; the <rs type="persGroup">females</rs>
+     generally preferring to live with <rs type="persGroup">white men</rs>, and
+     the <rs type="persGroup">brown men</rs> having thus no other resource
+     than the <rs type="persGroup">black women</rs>. As to the above <rs type="persGroup">girls</rs>, the
      fact is certain; and the different shades of colour
      are distinguished by too plain a line to allow any
-     suspicion of infidelity on the part of their parents.
+     suspicion of infidelity on the part of their <rs type="persGroup">parents</rs>.
   </p> 
   </div>
   <div type="entry">
@@ -6333,7 +6333,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     <opener><dateline><date when="1816-02-12"><sic>February 12</sic></date>.</dateline></opener>  
  <p ana="#medical #disease">Poor <persName ref="#philippa_0001">Philippa</persName>, the woman who used always to
     call me her <quote rend="quotes">husband</quote>, and whom I left sick in
-    the <rs type="place" ana="#medical">hospital</rs>, during my absence has gone out of
+    the <rs type="place">hospital</rs>, during my absence has gone out of
     her senses; and there cannot well happen any thing
     more distressing, as there is no separate place for
     her confinement, and her ravings disturb the <rs type="persGroup">other
@@ -6362,7 +6362,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
  </div>   
  <div type="entry">
     <opener><dateline><date when="1816-02-13">February 13</date>.</dateline></opener>
- <p>Two <ecda:fauna><placeName>Jamaica</placeName> nightingales</ecda:fauna> have established themselves
+ <p>Two <ecda:fauna><rs type="properAdjective">Jamaica</rs> nightingales</ecda:fauna> have established themselves
     on the <ecda:flora ana="#food">orange tree</ecda:flora> which grows against my
     window, and their song is most beautiful. This bird
     is also called <distinct type="scientific" rend="quotes"><ecda:fauna>the mocking-bird</ecda:fauna></distinct>, from its facility
@@ -6441,7 +6441,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
  </div>
  <div type="entry">
     <opener><dateline><date when="1816-02-20">February 20</date>.</dateline></opener>  
- <p>I attended the <orgName>Slave Court</orgName>, where <ecda:anonPers>a negro</ecda:anonPers> was
+ <p>I attended the <orgName>Slave Court</orgName>, where a <ecda:anonPers>negro</ecda:anonPers> was
     tried for <ecda:fauna ana="#commodity #circulation">sheep</ecda:fauna>-stealing, <seg ana="#poison">and a black servant girl
     for attempting to poison <rs type="person" ref="#forbes_0001">her master</rs>. <seg ana="#punishment">The former
     was sentenced to be transported.</seg> The latter was a 
@@ -6469,12 +6469,12 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     <said direct="false" rend="quotes">they could do nothing to her, for she had turned
     king's evidence against <ecda:anonPers>her grandmother</ecda:anonPers>.</said> <seg ana="#punishment">She
     was condemned to die on Thursday next, the day
-    after tomorrow</seg>: she heard the sentence pronounced
+    after tomorrow: she heard the sentence pronounced
     without the least emotion; and I am told,
     that when she went down the steps of the courthouse,
-    she was seen to laugh.     
+    she was seen to laugh.</seg>     
  </p>
- <p>The trial appeared to be conducted with all possible
+ <p ana="#punishment">The trial appeared to be conducted with all possible
     justice and prpriety; the jury consisted of
     <rs type="persGroup">nine respectable persons</rs>; the bench of <rs type="persGroup">three magistrates</rs>,
     and a <ecda:anonPers>senior one</ecda:anonPers> to preside. There were 
@@ -6486,20 +6486,20 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     examinings, and no brow-beating of witnesses; and
     I cannot say that the tiral appeared to me to go on
     at all the worse. Nobody appeared to be either for
-    or against the prisoner; the only object of all present
+    or against the <rs type="person" ref="#minetta_0001">prisoner</rs>; the only object of all present
     was evidently to come at the truth, and I sincerely
     believe that they obtained their object. The 
     only part of the trial of which I disapproved was the
     ordering the culprit to such immediate execution,
     that sufficient time was not allowed for the exercise
-    of the toyal prerogative, should the <rs type="person" ref="#william_montagu_1771">governor</rs>
+    of the royal prerogative, should the <rs type="person" ref="#william_montagu_1771">governor</rs>
     have been disposed to commute the punishment
     for that of transportation. 
  </p>
  </div>
  <div type="entry">
  <opener><dateline><date when="1816-02-21">February 21</date>.</dateline></opener>    
-  <p>During my excursion to <placeName>Spanish Town</placeName>, the
+  <p ana="#punishment">During my excursion to <placeName>Spanish Town</placeName>, the
    <rs type="persGroup">complaining negroes</rs> of <placeName>Friendship</placeName>, who had applied
      to me for relief, were summoned to <placeName>Savannah
      la Mar</placeName>, before the <orgName>Council of Protection</orgName>, and the
@@ -6527,16 +6527,16 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      answer. 
   </p>  
   <p>There are so many pleasing and amusing parts
-     of the character of negroes, that it seems to me
+     of the character of <rs type="persGroup">negroes</rs>, that it seems to me
      scarcely possible not to like them. But when they
      are once disposed to evil, they seem to set no
-     bounds to the indulgence of their bad passions. <rs type="person" ref="#jenny_0001">A 
-        poor girl</rs> came into the <rs type="place" ana="#medical">hospital</rs> to-day, who had had
+     bounds to the indulgence of their bad passions. <seg ana="#injury">A
+     <rs type="person" ref="#jenny_0001">poor girl</rs> came into the <rs type="place">hospital</rs> to-day, who had had
      some trifling dispute with <rs type="persGroup">two of her companions</rs>;
      on which the <rs type="persGroup">two friends</rs> seized her together, and
      each fixing her teeth on one of the girl's hands,
      bit her so severely, that we greatly fear her losing
-     the use of both of them. I happened also to ask,
+     the use of both of them.</seg> I happened also to ask,
      this morning, to whom a skull had belonged,
      which I had observed fixed on a pole by the roadside,
      when returning last from <placeName>Montego Bay</placeName>. I was
@@ -6548,38 +6548,38 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      <pb n="190"/>
      <fw type="pageNum">182</fw>
      been brought up in his own house from infancy, to
-     form a plot among the slaves to assassinate him;
+     form a plot among the <rs type="persGroup">slaves</rs> to assassinate him;
      and he was assisted in this laudable design by <rs type="persGroup">two
      young men</rs> from a neighbouring property, who
      barely knew <persName ref="#dunbar_0001">Mr. Dunbar</persName> by sight, had no enmity
      against him whatever, and only joined in the conspiracy
-     in compliment to their worthy friend <ecda:anonPers>the
-     driver</ecda:anonPers>. During several months a variety of attempts 
+     in compliment to their worthy friend 
+     <ecda:anonPers>driver</ecda:anonPers>. During several months a variety of attempts 
      were made for effecting their purpose; but
      accident defeated them; till at length they were
      made certain of his intention to dine out at some
      distance, and of his being absolutely obliged to
      return in the evening. An ambuscade was therefore
      laid to intercept him; and on his passing a clump
-     of <ecda:flora>trees</ecda:flora>, the <rs type="persGroup">assassins</rs> sprang upon him, <ecda:anonPers>the
-     driver</ecda:anonPers> knocked him from his horse, and in a few
+     of <ecda:flora>trees</ecda:flora>, the <rs type="persGroup">assassins</rs> sprang upon him, 
+     <ecda:anonPers>driver</ecda:anonPers> knocked him from his <ecda:fauna>horse</ecda:fauna>, and in a few
      moments their clubs despatched him. No one
      suspected the <ecda:anonPers>driver</ecda:anonPers>; but in the course of enquiry,
      his house as well as the other was searched, and
-     not only <persName ref="#dunbar_0001">Mr. Dunbar's</persName> watch was found concealed
+     not only <persName ref="#dunbar_0001">Mr. Dunbar's</persName> <ecda:commodity ana="#exchange">watch</ecda:commodity> was found concealed
      there, but with it one of his ears, which the villain
      had carried away, from a negro belief that, as long
      as the murderer possesses one of the ears of his
      victim, he will never be haunted by his spectre.
-     The <rs type="persGroup">stranger-youths</rs>, two of <persName ref="#dunbar_0001">Dunbar's</persName> negroes,
+     <seg ana="#punishment">The <rs type="persGroup">stranger-youths</rs>, <rs type="persGroup">two of <persName ref="#dunbar_0001">Dunbar's</persName> negroes</rs>,
      and the <ecda:anonPers>driver</ecda:anonPers>, were tried, confessed the crime, and
      were all executed; the head of the latter being
      fixed upon a pole <foreign rend="italic" xml:lang="la">in terrorem</foreign>. But while the
-     offenders were still in prison, the <ecda:anonPers>overseer</ecda:anonPers> upon a 
+     <rs type="persGroup">offenders</rs> were still in prison, the <ecda:anonPers>overseer</ecda:anonPers> upon a 
      neighbouring property had occasion to find fault
      <pb n="191"/>
      <fw type="pageNum">183</fw>
-     in the field with <ecda:anonPers>a woman</ecda:anonPers> belonging to a gang
+     in the field with a <ecda:anonPers>woman</ecda:anonPers> belonging to a gang
      hired to perform some particular work; upon
      which she flew upon him with the greatest fury, 
      grasped him by the throat, cried to <rs type="persGroup">her fellows</rs>
@@ -6587,15 +6587,15 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      and through her strength and the suddenness of
      her attack had nearly accomplished her purpose, before
      his <rs type="persGroup">own slaves</rs> could come to his assistance.
-     <ecda:anonPers>This woman</ecda:anonPers> was also executed.      
+     <ecda:anonPers>This woman</ecda:anonPers> was also executed.</seg>      
   </p>
-  <p>This happened about five years ago, when <rs type="place">the
+  <p ana="#injury">This happened about five years ago, when <rs type="place">the
   mountains</rs> were in a very rebellious state. Every
   thing there is at present quiet. But only last year a
-  book-keeper belonging to the next estate to me was
+  <ecda:anonPers>book-keeper</ecda:anonPers> belonging to the next estate to me was
   found with his skull fractured in one of my own
   cane-pieces; nor have any enquiries been able to
-  discover the murderer.
+  discover the <ecda:anonPers>murderer</ecda:anonPers>.
   </p>  
  </div>           
  <div type="entry">
@@ -6609,8 +6609,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      in this quarter, and this morning I went over to
      see <ecda:anonPers>one of the teachers</ecda:anonPers>. He told me, that he
      and <ecda:anonPers>his wife</ecda:anonPers> had jointly used their best efforts to
-     produce a sense of religion in the minds of <rs type="persGroup">the
-     slaves</rs>; that they were all permitted to attend his 
+     produce a sense of religion in the minds of the
+     <rs type="persGroup">slaves</rs>; that they were all permitted to attend his 
      morning and evening lectures, if they chose it;
      <pb n="192"/>
      <fw type="pageNum">184</fw>
@@ -6623,10 +6623,10 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      were not more than <rs type="persGroup">forty baptised persons</rs>: he has
      been here upwards of five years, and still the
      number of persons <said rend="quotes" direct="false">belonging to his church</said>
-     (as he expressed it) does not exceed fifty. Of these,
+     (as he expressed it) does not exceed <rs type="persGroup">fifty</rs>. Of these,
      seldom more than ten or a dozen attend his lectures
-     at a time. As to the remaining two hundred 
-     and fifty, they take no more notice of his lectures
+     at a time. As to the remaining <rs type="persGroup">two hundred 
+     and fifty</rs>, they take no more notice of his lectures
      or his exhortations, than if there were no such person
      on the property, are only very civil to him when
      they see him, and go on their own old way,
@@ -6641,7 +6641,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      of their intended periodical visitations; which
      would not be the case, if the <rs type="persGroup">negroes</rs> were to be
      interfered with by the professors of any other
-     communtion: otherwise I am myself ready to give
+     communion: otherwise I am myself ready to give
      free ingress and egress upon my several estates
      to the teachers of any <rs type="properAdjective">Christian</rs> sect whatever,
      <pb n="193"/>
@@ -6673,7 +6673,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
  <p>A long red nose supplied the place of my own
     snub; an enormous pair of whiskers stretched themselves
     to the very corner of my mouth; and in place
-    of three hairs and a half, the painter, in the super-
+    of three hairs and a half, the <rs type="person" ref="#apelles_0001">painter</rs>, in the super-
     abundance of his generosity, bestowed upon me a
     pair of eye-brows more bushy than <persName ref="#samuel_johnson_1709">Dr. Johnson's</persName>, 
     and which, being formed in an exact semicircle,
@@ -6688,8 +6688,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     and an eye-glass so big and blue, that it
     looks as if I had hung a pewter plate about my 
     neck; and a bunch of watch-seals larger than those
-    with which <persName ref="#alexander_pope_1688">Pope</persName> has decorated <persName ref="#belinda_0001">Belinda's</persName> great
-    great grandsire. <persName ref="#john_fuller_0001">John Fuller</persName> (to whom, jointly
+    with which <persName ref="#alexander_pope_1688">Pope</persName> has decorated <ecda:anonPers><persName ref="#belinda_0001">Belinda's</persName> great
+    great grandsire</ecda:anonPers>. <persName ref="#john_fuller_0001">John Fuller</persName> (to whom, jointly
     with <persName ref="#nicholas_cameron_0001">Nicholas</persName>, the charge of this inestimable treasure
     is to be entrusted) could not find words to
     express his satisfaction at the performance. <said rend="quotes"><distinct type="dialect">Dere
@@ -6705,8 +6705,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     and he carried it off, assuring me, <said direct="false" rend="quotes"><distinct type="dialect">that when
     massa gone, he should talk to it every morning,
     all one as if massa still here</distinct>.</said> Indeed, this <quote rend="quotes">talking to
-    <distinct type="dialect">massa</distinct></quote> is a favorite amusement among <rs type="persGroup">the
-    negroes</rs>, and extremely inconvenient: they come
+    <distinct type="dialect">massa</distinct></quote> is a favorite amusement among the
+    <rs type="persGroup">negroes</rs>, and extremely inconvenient: they come
     to me perpetually with complaints so frivolous,
     and requests so unreasonable, that I am persuaded
     they invent them only to have an excuse for
@@ -6717,9 +6717,9 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     and <said direct="inapplicable" rend="quotes"><distinct type="dialect">tank massa for dis here great indulgence of
     talk</distinct>.</said> 
  </p>
- <p>There is an <name>Eboe</name> carpenter named <persName ref="#strap_0001">Strap</persName>, who
+ <p><seg ana="#disease #medical">There is an <rs type="properAdjective">Eboe</rs> carpenter named <persName ref="#strap_0001">Strap</persName>, who
     was lately sick and in great danger, and whom I
-    nursed with particular care. The poor fellow
+    nursed with particular care.</seg> The poor fellow
     thinks that he never can express his gratitude sufficiently;
     and whenever he meets me in the public
     road, or in the streets of <placeName>Savannah la Mar</placeName>, he
@@ -6727,7 +6727,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     to stop, and if the <ecda:anonPers>boy</ecda:anonPers> does not obey instantly, he
     abuses him with all his power; <said rend="quotes"><distinct type="dialect">for why him no stop
     when him want talk to massa</distinct>?</said>—<said rend="quotes">But look, <persName ref="#strap_0001">Strap</persName>,
-    your best is getting away!</said>—<said rend="quotes"><distinct>Oh! damn best,
+    your beast is getting away!</said>—<said rend="quotes"><distinct>Oh! damn beast,
     massa</distinct>.</said>—<said rend="quotes">But you should go to <rs type="place">your mountain</rs>,
     or you will get no vittle.</said>—<said rend="quotes"><distinct type="dialect">Oh, damn vittle, and
     damn <rs type="place">mountain</rs>! me no want vittle, me want talk
@@ -6742,7 +6742,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
  <div type="entry">
  <opener><dateline><date when="1816-02-24">February 24</date>.</dateline></opener>  
  <p>On the Sunday after my first arrival, the <rs type="persGroup">whole
-    body of <name>Eboe</name> negroes</rs> came to me to complain of
+    body of <rs type="properAdjective">Eboe</rs> negroes</rs> came to me to complain of
     the <ecda:anonPers>attorney</ecda:anonPers>, and more particularly of <ecda:anonPers>one of the 
     book-keepers </ecda:anonPers>. I listened to them, if not with unwearied
     patience, at least with unsubdued fortitude,
@@ -6778,17 +6778,17 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     to a magistrate, had then stopped them from putting
     their plan into execution, and that the whole
     was a plot of <persName ref="#edward_0001">Edward's</persName>, in order to make a merit
-    with me for himself at the expense of his country-
+    with me for himself at the expense of <rs type="persGroup">his country-
     <pb n="197"/>
     <fw type="pageNum">189</fw>
-    men. However, as they confessed their having
+    men</rs>. However, as they confessed their having
     had the intention of applying to <persName ref="#hill_0001">Mr. Hill</persName> as a
     magistrate, I insisted upon their executing their
     intention. I told them, that as <persName ref="#hill_0001">Mr. Hill</persName> was the 
     person whom they had selected for their protector,
     to <persName ref="#hill_0001">Mr. Hill</persName> they should go; that they should either
     make their complaint to him against me, or confess
-    that they had been telling lines, and had no complaint
+    that they had been telling lies, and had no complaint
     to make; and that, as the next day was to
     be a play-day given them by me, instead of passing
     it at home in singing and dancing, they should
@@ -6828,15 +6828,15 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     greater pleasure than the mortification of the
     <name>Eboes</name>; for the two bodies hate each other as
     cordially as the <name>Guelphs</name> and <name>Ghibellines</name>; and
-    after their departure for the <placeName>Bay</placeName>, I heard the
-    head cook haranguing a <rs type="persGroup">largue audience</rs>, and declaring
+    after their departure for <placeName>the Bay</placeName>, I heard the
+    head cook haranguing a <rs type="persGroup">large audience</rs>, and declaring
     it to be her fixed opinion, <said rend="quotes" direct="false">that <distinct type="dialect">massa</distinct>
     ought to sell all the <name>Eboes</name>, and buy <name>Creoles</name> instead.</said>
     Probably, <persName ref="#cook_0001">Mrs. Cook</persName> was not the less
     loud in her exclamations against the ingratitude
     of the <name>Eboes</name>, from her own loyalty having lately
     been questioned. She had found fault one day 
-    in the <rs type="place" ana="#medical">hospital</rs> with <rs type="persGroup">some women</rs> who feigned  sickness
+    in the <rs type="place">hospital</rs> with <rs type="persGroup">some women</rs> who feigned sickness
     in order to remain idle. <said rend="quotes"><distinct type="dialect">You no work
     willing for massa</distinct>,</said> said <persName ref="#cook_0001">Mrs. Cook</persName>, <said rend="quotes"><distinct type="dialect">and him so
     vex, him say him go to <placeName>Kingston</placeName> to-morrow, and
@@ -6865,15 +6865,15 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     <distinct type="ethnographic" rend="italic">pickaninny-mothers</distinct>; that is, for the women who
     had children living. I had taken care, when this
     play-day was announced by the <ecda:anonPers>head driver</ecda:anonPers>, to
-    make him inform the negroes that they were indebted 
-    for it entirely to these mothers; and to
+    make him inform the <rs type="persGroup">negroes</rs> that they were indebted 
+    for it entirely to these <rs type="persGroup">mothers</rs>; and to
     show them more respect, I went to them after
     dinner myself, and drank their healths. The most
     respectable blacks on the estate were also assembled
-    in the room; and I told them that <seg ana="#textile">clothes</seg>
-    would wear out, and <seg ana="#currency">money</seg> would be spent,
+    in the room; and I told them that <ecda:commodity ana="#textile #exchange">clothes</ecda:commodity>
+    would wear out, and <ecda:commodity ana="#currency">money</ecda:commodity> would be spent,
     and that I wished to give them something more
-    lasting than <seg ana="#textile">clothes</seg> or <seg ana="#currency">money</seg>. The law only allows
+    lasting than <ecda:commodity ana="#textile #exchange">clothes</ecda:commodity> or <ecda:commodity ana="#currency">money</ecda:commodity>. The law only allows
     them, as a matter of right, every alternate Saturday
     for themselves, and holidays for three days at
     <name>Christmas</name>, which, with all Sundays, forms their
@@ -6895,7 +6895,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     cheers upon the <ecda:anonPers>head driver's</ecda:anonPers> announcing <said rend="quotes">The
     health of our good lady, H.R.H the <persName ref="#frederica_charlotte_1767">Duchess 
     of <placeName>York</placeName></persName></said> And I told them, that before my
-    leaving the island, I should hear them drink this 
+    leaving the <rs type="place">island</rs>, I should hear them drink this 
     health, and should not fail to let Her Royal Highness 
     know, that the <rs type="persGroup">negroes of <placeName>Cornwall</placeName></rs> drank her
     health every year. This evidently touched the
@@ -6904,10 +6904,10 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     that would do them much high honour. The
     ninth being my own birthday, the July play-day
     is to be called <name rend="quotes">the <distinct type="dialect">massa's</distinct></name>; and that in October
-    is to be in honour of the <distinct type="ethnographic">piccaninny-mothers</distinct>, from
+    is to be in honour of the <rs type="persGroup"><distinct type="ethnographic">piccaninny-mothers</distinct></rs>, from
     whom it is to take its name.     
  </p>
- <p>The poor creatures overflowed with gratitude;
+ <p><seg ana="#performance">The <rs type="persGroup">poor creatures</rs> overflowed with gratitude;
     and the prospective indulgences which had just
     been announced, gave them such an increase of
     spirits, that on returning to my own residence, they
@@ -6916,7 +6916,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     fell to singing and dancing again with as much 
     violence as if they had been a pack of <rs type="properAdjective">French</rs> furies
     at the Opera. The favorite song of the night was,
-    <quote rend="quotes"><distinct>Since massa come, we very well off</distinct>;</quote>
+    <title rend="quotes"><distinct>Since massa come, we very well off</distinct></title>;
     which words they repeated in chorus, without
     intermission (dancing all the time), for hours together;
     till, at half-past three, neither my eyes nor
@@ -6940,11 +6940,11 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     clear of <rs type="persGroup">my black guests</rs> about four in the morning.
     Another of their popular songs this evening 
     was—
-    <quote rend="quotes"><distinct type="dialect">All the stories them telling you are lies, oh</distinct>!</quote>
+    <title rend="quotes"><distinct type="dialect">All the stories them telling you are lies, oh</distinct>!</title>
     <pb n="202"/>
     <fw type="pageNum">194</fw>
-    which is meant as a satire upon the <name>Eboes</name>. My 
-    friend <persName ref="#strap_0001">Strap</persName> being an Eboe, and one who had
+    which is meant as a satire upon the <name>Eboes</name>.</seg> My 
+    friend <persName ref="#strap_0001">Strap</persName> being an <name>Eboe</name>, and one who had
     hitherto generally taken a leading part in all the
     discontents and squabbles of his countrymen, I
     was not without apprehension of his having been
@@ -6969,7 +6969,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
   <div type="entry">
   <opener><dateline><date when="1816-02-25">February 25</date>.</dateline></opener> 
   <p>Yesterday it was observed at <placeName>George's Plain</placeName>, an
-     estate about four miles off, that the water-mill did
+     estate about <measure>four miles</measure> off, that the water-mill did
      not work properly, and it was concluded that the
      grating was clogged up with rubbish. To clear it
      away, <ecda:anonPers>a negro</ecda:anonPers> immediately jumped down into the
@@ -6999,10 +6999,10 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      eating the <ecda:food ana="#fauna">alligator</ecda:food>, for it was poisonous. However,
      I was obstinate, and found the taste of the flesh,
      when broiled with <ecda:food>pepper and salt</ecda:food>, and assisted by
-     an <ecda:food ana="#fauna">onion sauce</ecda:food>, by no means to be despised; but
+     an <ecda:food ana="#flora">onion sauce</ecda:food>, by no means to be despised; but
      the consistence of the meat was disagreeable, being
      as tough as a piece of <ecda:food ana="#fauna">eel-skin</ecda:food>. Perhaps any body
-     who wishes to eat alligator stakes in perfection,
+     who wishes to eat <ecda:food ana="#fauna">alligator steaks</ecda:food> in perfection,
      ought to keep them for two or three days before
      dressing them; or the animal's age might be in fault,
      for the fellow was so old that he had scarcely a tooth
@@ -7025,20 +7025,20 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
             
   <div type="entry">
  <opener><dateline><date when="1816-02-26">February 26</date>.</dateline></opener>  
-  <p>
+  <p ana="#punishment">
      I had given the most positive orders that no
      person whatever should presume to strike a negro,
      or give him abusive language, or, however great
      the offence might be, should inflict any punishment,
      except by the sole direction of the <ecda:anonPers>trustee</ecda:anonPers> himself.
      Yet, although I had already discharged one <ecda:anonPers>book-
-     keeper</ecda:anonPers> on this account, this evening another of 
+     keeper</ecda:anonPers> on this account, this evening <rs type="person" ref="#barker_0001">another</rs> of 
      them had a dispute in the <rs type="place">boiling-house</rs> with an
      <rs type="properAdjective">African</rs> named <persName ref="#frank_0001">Frank</persName>, because a pool of water was
      not removed fast enough; upon which he called him
      a rascal, sluiced him with the dirty water, and
      finally knocked him down with the broom. The
-     <rs type="properAdjective">African</rs> came to me instantly; <rs type="persGroup">four eye-witnesses</rs>,
+     <rs type="person" ref="#frank_0001">African</rs> came to me instantly; <rs type="persGroup">four eye-witnesses</rs>,
      who were examined separately, proved the truth of
      his ill-usage; and I immediately discharged the
      book-keeper, who had contented himself with
@@ -7047,7 +7047,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      <pb n="205"/>
      <fw type="pageNum">197</fw>
      his single unsupported denial to outweigh five concordant
-     witnesses to the assertion; and that, if he
+     <rs type="persGroup">witnesses</rs> to the assertion; and that, if he
      grounded his claim to being believed merely upon
      his having a white skin, he would find that, on
      <placeName>Cornwall</placeName> estate at least, that claim would not be 
@@ -7063,7 +7063,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      of his companions asked <persName ref="#frank_0001">Frank</persName> whether, if <persName ref="#barker_0001">Mr.
      Barker</persName> would make him a present, he had not
      better take it, and beg <distinct type="dialect">massa</distinct> leave to let him stay, he
-     exclaimed, in the true spirit of a <persName ref="#zanga_0001">Zanga</persName>,—<said rend="quotes"><distinct type="dialect">No,
+     exclaimed, in the true spirit of a <name ref="#zanga_0001">Zanga</name>,—<said rend="quotes"><distinct type="dialect">No,
      no, no! me no want present! me want noting!
      Me no beg for <persName ref="#barker_0001">Mr. Barker</persName>! him go away</distinct>!</said>—I
      was kept awake for the greatest part of the night by
@@ -7116,7 +7116,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      <pb n="207"/>
      <fw type="pageNum">199</fw>
      dinner, and, except that its consistence was rather
-     firmer, I should not have known it from veal.      
+     firmer, I should not have known it from <ecda:food ana="#fauna">veal</ecda:food>.      
   </p>  
  </div>
  <div type="entry">
@@ -7125,11 +7125,11 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
        estate of <placeName>Anchovy</placeName> had lately forsaken him for a
        <ecda:anonPers>younger lover</ecda:anonPers>. One night, when she happened to 
        be alone, the <ecda:anonPers>incensed husband</ecda:anonPers> entered <rs type="place">her hut</rs>
-       unexpectedly, and demanded the clothes to be restored,
+       unexpectedly, and demanded the <ecda:commodity ana="#textile #exchange">clothes</ecda:commodity> to be restored,
        which he had formerly given her. On her refusal
        he drew a knife, and threatened to cut them off her
        back; nor could she persuade him to depart, till
-       she had received a severe beating. He had but
+       she had received a severe beating. <seg ana="#punishment #injury">He had but
        just left the hut, when he encountered his successful
        <ecda:anonPers>rival</ecda:anonPers>, who was returning home: a quarrel instantly
        ensued; and the <ecda:anonPers>husband</ecda:anonPers>, having the knife
@@ -7137,7 +7137,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
        neck of his <ecda:anonPers>antagonist</ecda:anonPers>. It pierced the jugular
        vein; of course the <ecda:anonPers>man</ecda:anonPers> fell dead on the spot; and
        the <ecda:anonPers>murderer</ecda:anonPers> has been sent to <placeName>Montego Bay</placeName>, to
-       take his trial.       
+       take his trial.</seg>       
     </p>    
  </div>
  <div type="entry">
@@ -7154,7 +7154,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
       that I would send his son to learn some
       other trade (a tailor's, for instance) at <placeName>Savannah la
       Mar</placeName>, as had frequently been done in former times;
-      but this, also, I was obliged to refuse. I told him,
+      but this, also, I was obliged to refuse. <seg ana="#abolition">I told him,
       that formerly a master could pay for the apprenticeship
       of a clever negro boy, and, instead of employing 
       him afterwards on the estate, could content
@@ -7169,7 +7169,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
       hundred; and, therefore, I could allow <rs type="persGroup">my negroes</rs>
       to apply themselves to no trades but such as related
       to tbe business of the property, such as carpenters,
-      coopers, smiths &amp;c. <said rend="quotes">All true, <distinct type="dialect">massa</distinct>,</said>
+      coopers, smiths &amp;c.</seg> <said rend="quotes">All true, <distinct type="dialect">massa</distinct>,</said>
       said <persName ref="#duke_of_sully_0001">Sully</persName>; <said rend="quotes">all fair and just; and, to be sure a
       tailor or a saddler would be of no great use towards
       your planting and getting in your crop; nor—</said>
@@ -7189,7 +7189,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
       and substitute the labour of oxen for that of
       negroes, wherever it can possibly be done), <persName ref="#prince_0001">Prince</persName>
       should be instructed in farming business, and in
-      the mean while should afficiate as a pen-keeper to
+      the mean while should officiate as a pen-keeper to
       look after the cattle.       
    </p> 
     <p>Just now <persName ref="#prince_0001">Prince</persName> came to me with a request of
@@ -7239,7 +7239,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
  </div>
  <div type="entry">
  <opener><dateline><date when="1816-03-03">March 3</date>. <hi rend="mixed">(Sunday.)</hi></dateline></opener>  
-      <p>In this country it may be truly said that <quote rend="quotes">it never
+      <p>In this <rs type="place">country</rs> it may be truly said that <quote rend="quotes">it never
       rains but it pours</quote>. After a drought of three
       months, it began to rain on Thursday morning, and
       has never stopped raining since, with thunder all
@@ -7254,7 +7254,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
       <ecda:fauna>centipes</ecda:fauna> was found squeezed to death under the
       door of my bed-room this morning. As to the
       <ecda:fauna>cock-roaches</ecda:fauna>, they are absolutely in legions; every
-      evening my<rs type="persGroup">negro boys</rs> are set to hunt them, and
+      evening my <rs type="persGroup">negro boys</rs> are set to hunt them, and
       they kill them by dozens on the chairs and sofas, in
       the covers of my books, and among the leaves in
       my <ecda:food ana="#flora">fruit</ecda:food>-baskets. Yesterday I wanted to send
@@ -7267,23 +7267,23 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
  </div>  
  <div type="entry">
  <opener><dateline><date when="1816-03-04">March 4</date>. <hi rend="mixed">(Monday.)</hi></dateline></opener>    
- <p>Since my arrival in <placeName>Jamaica</placeName>, I am not conscous
+ <p>Since my arrival in <placeName>Jamaica</placeName>, I am not consicous
     of having omitted any means of satisfying <rs type="persGroup">my
     negroes</rs>, and rendering them happy and secure
-    from oppression. I have suffered no person to be
+    from oppression. <seg ana="#punishment">I have suffered no person to be
     punished, except the <rs type="persGroup">two female demons</rs> who 
     almost bit a <rs type="person" ref="#jenny_0001">girl's</rs> hands off (for which they received
     a slight switching), and the most worthless 
     <ecda:anonPers>rascal</ecda:anonPers> on the <rs type="place">estate</rs>, who for manifold offences I
     was compelled, for the sake of discipline, to allow
-    to pass two days in the bilboes. I have never refused 
+    to pass two days in the bilboes.</seg> I have never refused 
     a favour that I could possibly grant. I have
     listened patiently to all complaints. I have increased
     the number of negro holidays, and have
-    given away <seg ana="#currency">money</seg> and presents of all kinds incessantly. 
-    Now for my reward. On Saturday morning
+    given away <ecda:commodity ana="#currency">money</ecda:commodity> and presents of all kinds incessantly. 
+    Now for my reward. <seg ana="#medical">On Saturday morning
     there were no fewer than <rs type="persGroup">forty-five persons</rs> (not
-    including children) in the <rs type="place" ana="#medical">hospital</rs>; which makes
+    including children) in the <rs type="place">hospital</rs>; which makes
     <pb n="212"/>
     <fw type="pageNum">204</fw>
     nearly a fifth of <rs type="persGroup">my whole gang</rs>. Of these, the
@@ -7291,27 +7291,27 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     any thing whatever the matter with them; the rest
     were only feigning sickness out of mere idleness, and
     in order to sit doing nothing, while their companions
-    were forced to perform their part of th estate-
-    duty. And sure enough, on Sunday morning they 
-    all walked away from the <rs type="place" ana="#medical">hospital</rs> to amuse themselves,
+    were forced to perform their part of the estate-
+    duty.</seg> And sure enough, on Sunday morning they 
+    all walked away from the <rs type="place">hospital</rs> to amuse themselves,
     except about seven or eight: they will, 
     perhaps, go to the field for a couple of days; and
     on Wednesday we may expect to have them all
     back again, complaining of pains, which (not 
-    existing) it is not possible to remove. <persName ref="#jenny_0001">Jenny</persName> (the
+    existing) it is not possible to remove. <seg ana="#injury #medical"><persName ref="#jenny_0001">Jenny</persName> (the
     girl whose hands were bitten) was told by the
-     <ecda:anonPers>doctoress</ecda:anonPers>, that having been in the <rs type="place" ana="#medical">hospital</rs> all the
+     <ecda:anonPers>doctoress</ecda:anonPers>, that having been in the <rs type="place">hospital</rs> all the
     week, she ought not, for very shame, to go out
     on Sunday. She answered <said rend="quotes" direct="false">She wanted to go to
     the <rs type="place">mountains</rs>, and go she would</said> <said rend="quotes">Then,</said> said
     the <ecda:anonPers>doctoress</ecda:anonPers>, <said rend="quotes">you must not come back again
     on Monday at least.</said> <said rend="quotes">Yes,</said> <persName ref="#jenny_0001">Jenny</persName> said, <said rend="quotes" direct="false">She
     <emph rend="italic">should</emph> come back;</said> and back this morning <persName ref="#jenny_0001">Jenny</persName>
-    came. But as her would were almost completely
+    came. But as her wounds were almost completely
     well, she had tied packthread round them so as to
     cut deep into the flesh, had rubbed dirt into them,
     and, in short, had played such tricks as nearly to
-    produce a mortification in one of her fingers.     
+    produce a mortification in one of her fingers.</seg>     
  </p>
  <p>The most worthless fellow on the whole property
     is one <persName ref="#nato_0001">Nato</persName>,—a thief, a liar, a runaway, and one
@@ -7323,15 +7323,15 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     negroes</rs> abused him for his laziness, and leaving
     them to do his work for him, he told them plainly
     that he did not mean to work, and that nobody
-    should make him. The only real illness which
-    brought him to the <rs type="place" ana="#medical">hospital</rs>, within my knowledge,
+    should make him. <seg ana="#injury #disease #punishment #medical">The only real illness which
+    brought him to the <rs type="place">hospital</rs>, within my knowledge,
     was the consequence of a beating received from
     <ecda:anonPers>his own father</ecda:anonPers>, who had caught him in the act of 
     robbing his house by the help of a false key. In 
-    the <rs type="place" ana="#medical">hospital</rs> he found his wife, <persName ref="#philippa_0001">Philippa</persName>, the mad
+    the <rs type="place">hospital</rs> he found his wife, <persName ref="#philippa_0001">Philippa</persName>, the mad
     woman, with whom he instantly quarrelled, and
     she cut his head open with a plate; and as she
-    might have served one of the children in the same
+    might have served one of the <rs type="persGroup">children</rs> in the same
     way, we were obliged to confine her. Her husband
     was thought to be the fittest person to guard 
     her; and accordingly they were locked up together
@@ -7342,13 +7342,13 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     he disappeared the whole of the next day; and on his
     return on the following morning, he had the impudence
     to assert that he had never been out of the
-    <rs type="place" ana="#medical">hospital</rs> for an hour. For this runaway offence, and
+    <rs type="place">hospital</rs> for an hour. For this runaway offence, and
     for endeavouring to exasperate his wife's phrensy,
     he was put in the bilboes for two days: on
     the third he was released; when he came to me
     with tears in his eyes, impored me most earnestly
     to forgive what had past, and promised to behave
-    better for the future, <said rend="quotes">to so good a <distinct type="dialect">massa</distinct>.</said> It
+    better for the future, <said rend="quotes">to so good a <distinct type="dialect">massa</distinct>.</said></seg> It
     <pb n="214"/>
     <fw type="pageNum">206</fw>
     appeard afterwards, that he had employed his 
@@ -7357,7 +7357,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     them, although neither he nor his wife had committed a
     any fault, I had punished them both by
     locking them up for several days in a solitary
-    prison, under pretence of his wife's insabity,
+    prison, under pretence of his wife's insanity,
     when, in fact, she was perfectly in her senses.</said>
     Unluckily, <ecda:anonPers>one of my physicians</ecda:anonPers> had told <persName ref="#williams_0001">Mr.
     Williams</persName>, that very morning, how much he had
@@ -7370,17 +7370,17 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     <said rend="quotes">What then,</said> said <persName ref="#williams_0001">Mr. Williams</persName>, <said rend="quotes">you are the
     fellow who alarmed the <ecda:anonPers>doctor</ecda:anonPers> so much two days
     ago?</said> Upon which <persName ref="#nato_0001">Nato</persName> had the impudence to
-    burst into a fit of laughter,—<said rend="quotes"><distinct type="dialect">Oh, ki, massa, doctor
+    burst into a fit of laughter,—<said rend="quotes"><distinct type="dialect">Oh, ki, massa, <ecda:anonPers>doctor</ecda:anonPers>
     no need be fright; we no want to hurt him;
     only make lilly bit fun wid him, massa, that all</distinct>.</said>
     On which he was ordered to get out of <persName ref="#williams_0001">Mr.
     Williams's</persName> house, slunk back into the <placeName>Cornwall</placeName>
-    <rs type="place" ana="#medical">hospital</rs>, and in a few days came to me with such 
+    <rs type="place">hospital</rs>, and in a few days came to me with such 
     a long story of penitence, and <said rend="quotes"><distinct type="dialect">so good massa</distinct>,</said>
     that he induced me to forgive him. 
  </p>
  <p>To sum up the whole, about three this morning
-    an alarm was tiven that the <ecda:anonPers>pen-keeper</ecda:anonPers> had suffered
+    an alarm was given that the <ecda:anonPers>pen-keeper</ecda:anonPers> had suffered
     the <ecda:fauna>cattle</ecda:fauna> to get among the <ecda:flora ana="#commodity #cultivation">canes</ecda:flora>, where they might
     <pb n="215"/>
     <fw type="pageNum">207</fw>
@@ -7405,7 +7405,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     best <ecda:commodity ana="#flora #cultivation">cane-pieces</ecda:commodity> was trampled to pieces, and the
     produce of this year's <ecda:commodity ana="#flora #cultivation">crop</ecda:commodity> considerably diminished.—
     And so much for negro gratitude! However,
-    they still  continue their eternal song of 
+    they still continue their eternal song of 
     <quote><said rend="quotes"><distinct type="dialect">Now massa come, we very well off</distinct>;</said></quote> but their
     satisfaction evidently begins and ends with themselves.
     They rejoice sincerely at being very
@@ -7417,7 +7417,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
  <fw type="pageNum">208</fw>
   <div type="entry">
   <opener><dateline><date when="1816-03-05">March 5</date>.</dateline></opener>  
- <p>The worst of negro disease is <distinct type="scientific" rend="quotes">the cocoa-bag</distinct>:
+ <p ana="#disease #medical">The worst of negro disease is <distinct type="scientific" rend="quotes">the cocoa-bag</distinct>:
     it is both hereditary and contagious, and will lurk
     in the blood of persons apparently the most
     healthy and of regular habits, till a certain age;
@@ -7432,7 +7432,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     ultimately cures itself. This, also, is communicated
     by contact, and that of so slight a nature,
     that a <ecda:fauna>fly</ecda:fauna>, which had touched an ulcer produced
-    by <distinct type="dialect">the yaws</distinct>, has been known to convey
+    by the yaws, has been known to convey
     the infection by merely alighting on the wound of
     a cut finger. It generally shows itself by a slight
     pimple, which is soon converted into a sore; and
@@ -7454,35 +7454,35 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
   <p><persName ref="#nato_0001">Nato</persName> has kept his promise as yet, and has actually
      past a whole week in the field; a thing which
      he has never known to do before within the
-     memory of man. So I sent him a piece of <seg ana="#currency">money</seg>
+     memory of man. So I sent him a piece of <ecda:commodity ana="#currency">money</ecda:commodity>
      to encourage him; and told him, that I sent him a
      <distinct rend="italic" type="dialect" ana="#currency">maccarony</distinct> for behaving well, and wished to know
      whether any one had ever given him a <distinct type="dialect" ana="#currency">maccarony</distinct>
      for behaving ill. I hear that he was highly delighted
      at my thinking him worthy to receive a 
      present from me, and sent me in return the most
-     positivr assurances of perseverance in good conduct. 
+     positive assurances of perseverance in good conduct. 
      On the other hand, <persName ref="#mackaroo_0001">Mackaroo</persName> has not only
-     run away himself, but has carried his wife away
+     run away himself, but has carried his <ecda:anonPers>wife</ecda:anonPers> away
      with him. This is improving upon the profligacy
      of <rs type="properAdjective">British</rs> manners with a vengeance. In <placeName>England</placeName>,
      a man only runs away with another person's wife:
      but to run away with his own—what depravity!—
-     As to my ungrateful demigod of a <ecda:fauna ana="#commodity #circulation">sheep</ecda:fauna>-stealer,
+     <seg ana="#disease #medical">As to my ungrateful demigod of a <ecda:fauna ana="#commodity #circulation">sheep</ecda:fauna>-stealer,
      <persName ref="#hercules_0002">Hercules</persName>, the poor wretch has brought down upon
      himself a full punishment for all his misdeeds. By
      running away, and sleeping in the woods, exposed
      to all the fury of the late heavy rains, he has been
-     struck by the palsy. Yesterday some of my negroes
+     struck by the palsy. Yesterday <rs type="persGroup">some of my negroes</rs>
      found him in the <rs type="place">mountains</rs>, unable to raise himself
      from the ground, and brought him in a cart
-     to the <rs type="place" ana="#medical">hospital</rs>; where he now lies, having quite
+     to the <rs type="place">hospital</rs>; where he now lies, having quite
      lost the use of one side, and without any hopes of
      recovery. He is still a young man, and in every 
      <pb n="218"/>
      <fw type="pageNum">210</fw>
      other respect strong and healthy; so that he may
-     look forward to a long and miserable existence.      
+     look forward to a long and miserable existence.</seg>      
   </p>       
   </div>
   <div type="entry">
@@ -7494,11 +7494,11 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           <l>Deck'd with all that youth and beauty</l>
           <l>E'er bestow'd on sable maid,</l>
           <l>Gathering blooms her fragrant duty,</l>
-          <l>Down the <ecda:flora ana="#food">lime</ecda:flora>-walk <persName ref="#zoe_0001">Zoè</persName> stray'd</l>
+          <l>Down the <ecda:flora ana="#food">lime</ecda:flora>-walk <persName ref="#zoe_0001">Zoè</persName> stray'd.</l>
        </lg>
        <lg>
           <l>Many a <ecda:flora>logwood</ecda:flora> brake was ringing</l>
-          <l>With the <ecda:fauna>chicka-chinky's</ecda:fauna></l>
+          <l>With the <ecda:fauna>chicka-chinky's</ecda:fauna> cry;</l>
           <l>Many a <ecda:fauna>mock-bird</ecda:fauna> loudly singing</l>
           <l>Bless'd the groves with melody.</l>
        </lg>
@@ -7544,7 +7544,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           <l>See his bill the <ecda:flora>blossoms</ecda:flora> rending;</l>
           <l>Drain'd of all their sweets the bells;</l>
           <l>Then, once more his wings extending,</l>
-          <l>Flies to woo the opening <ecda:flora>rose</ecda:flora></l>
+          <l>Flies to woo the opening <ecda:flora>rose</ecda:flora>.</l>
        </lg>
        <lg>
           <l><said rend="quotes">Mark, my <persName ref="#zoe_0001">Zoè</persName>,</said> said <ecda:anonPers>her mother</ecda:anonPers>,</l>
@@ -7700,7 +7700,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     a cure; and sometimes the consequence is lameness
     for life. 
  </p>
- <p>There is another disease which commits great
+ <p ana="#disease">There is another disease which commits great
     ragages among them; for although in this climate
     its quality is far from virulent, and it is easy to be
     cured in its beginning, the negro will most carefully 
@@ -7718,11 +7718,11 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     they act thus it is difficult to imagine; for certainly
     it does not arise from shame.  
  </p>   
- <p>Indeed, it is one of their singular obstinacies,
+ <p ana="#disease #medical">Indeed, it is one of their singular obstinacies,
     that, however ill they may be, they scarcely ever
     will confess to the physician what is really the
     matter with them on their first coming into the
-    <rs type="place" ana="#medical">hospital</rs>, but will rather assign some other cause
+    <rs type="place">hospital</rs>, but will rather assign some other cause
     for their being unwell than the true one; and it is
     only by cross-questioning, that their superintendents
     are able to understand the true nature of their
@@ -7824,19 +7824,19 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
  </div>
  <div type="entry">
 <opener><dateline><date when="1816-03-14">March 14</date>.</dateline></opener>   
-<p>Poor <persName ref="nato_0001">Nato's</persName> stock of goodness is quite exhausted;
+<p ana="#medical #disease #punishment">Poor <persName ref="nato_0001">Nato's</persName> stock of goodness is quite exhausted;
    and the day before yesterday he returned to the
-   <rs type="place" ana="#medical">hospital</rs> with most piteous complaints of pains and
+   <rs type="place">hospital</rs> with most piteous complaints of pains and
    aches, whose existence he could persuade no person
    to credit. His pulse was regular, his skin 
    cool, his tongue red and moist, and the <ecda:anonPers>doctor</ecda:anonPers>
    declared nothing whatever to be the matter with
    him. However, on my arrival, he began to moan,
    and groan, and grunt, and all so lamentably, that
-   every soul in the <rs type="place" ana="#medical">hospital</rs>, sick or well, burst into
+   every soul in the <rs type="place">hospital</rs>, sick or well, burst into
    a fit of laughter. For my part, I told him that I
    really believed him to be very bad; and that, as he 
-   met with no sympathy in the <rs type="place" ana="#medical">hospital</rs>, I should
+   met with no sympathy in the <rs type="place">hospital</rs>, I should
    remove him from such unfeeling companions. Accordingly
    I had a comfortable bed made for him 
    in a separate house. Here he was plentifully supplied
@@ -7968,9 +7968,9 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
  </div> 
  <div type="entry">
  <opener><dateline><date when="1816-03-16">March 16</date>.</dateline></opener>   
- <p><persName ref="#hercules_0001">Hercules</persName>, the poor paralytic runaway, has neither
+ <p ana="#disease #medical"><persName ref="#hercules_0001">Hercules</persName>, the poor paralytic runaway, has neither
     moved nor spoken since his being brought into the
-    <rs type="place" ana="#medical">hospital</rs>. For the last two days he refused all sustenance;
+    <rs type="place">hospital</rs>. For the last two days he refused all sustenance;
     blisters, rubbing with <ecda:flora ana="#medical">mustard</ecda:flora>, &amp;c. were
     tried without producing the least sensation; and
     <pb n="232"/>
@@ -7988,9 +7988,9 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     Finding her story disbelieved, she hid <persName ref="#pickle_0001">Pickle</persName> behind
     the bed, when he had an opportunity of hearing
     the solicitations of his perfidious <rs ref="#charles_fox_0001" type="person"><persName ref="pylades_0001">Pylades</persName></rs>; and,
-    rushing from his concealment, he gave <persName ref="#charles_fox_0001">Fox</persName> so
+    rushing from his concealment, <seg ana="#injury #medical">he gave <persName ref="#charles_fox_0001">Fox</persName> so
     complete a thrashing, that he was obliged to come
-    to the <rs type="place" ana="#medical">hospital</rs>. Here is another proof that negroes,
+    to the hospital.</seg> Here is another proof that negroes,
     <quote rend="quotes" source="african_report">our unfortunate fellow-creatures</quote>, are not without
     some of the luxuries of civilised life; old men of
     sixty keeping mistresses, and young ones seducing 
@@ -8483,7 +8483,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      <rs type="persGroup">every man and woman</rs> <measure ana="#currency">half a dollar</measure> each, and <rs type="persGroup">every
      child</rs> a <ecda:commodity ana="#currency">maccarony</ecda:commodity> (<measure ana="#currency">fifteen pence</measure>) as a parting present,
      to show them that I parted with them in good 
-     humour. While the <seg ana="#currency">money</seg> was distributing, <persName ref="#hill_0002">young
+     humour. While the <ecda:commodity ana="#currency #exchange">money</ecda:commodity> was distributing, <persName ref="#hill_0002">young
      Hill</persName> arrived, and finding the house completely
      crowded, he enquired what was the matter. <said rend="quotes">Oh, 
     <distinct type="dialect">massa</distinct>,</said> said an <ecda:anonPers>old woman</ecda:anonPers>, <said rend="quotes">it is only <emph rend="italic">my son</emph>,
@@ -10950,7 +10950,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
            of breathing at first, and the subsequent
            <pb/> 
            <fw type="pageNum">301</fw>  
-           pain in his chest) that his lunchs must actually have
+           pain in his chest) that his lungs must actually have
            been wounded, however slightly. We are now
            nearly abreast of <placeName>Scilly</placeName>; we fell in with several
            <rs type="properAdjective">Scilly</rs> boats to-day, from whom we obtained a very
@@ -11800,10 +11800,10 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
        </div>
        <div type="entry">
           <opener><dateline><date when="1818-01-31">January 31</date>.</dateline></opener>   
-          <p>Some days ago, a <ecda:anonPers>negro woman</ecda:anonPers>, who had lost
+          <p ana="#medical #injury">Some days ago, a <ecda:anonPers>negro woman</ecda:anonPers>, who had lost
              <rs type="persGroup">four children</rs>, and has always been a most affectionate 
              mother, brought the fifth, a remarkably fine
-             <ecda:anonPers>infant</ecda:anonPers>, into the <rs type="place" ana="#medical">hospital</rs>. She complained of its
+             <ecda:anonPers>infant</ecda:anonPers>, into the <rs type="place">hospital</rs>. She complained of its
              having caught cold, a fever, and so on; but
              nothing adminstered was of use, and its manner of
              breathing made the <ecda:anonPers>doctor</ecda:anonPers> enquire, whether the
@@ -11846,7 +11846,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
              and remarkably fond of <rs type="persGroup">his children</rs>, danced and
              drank to such an excess, that I found him on the
              following morning in a <seg ana="#disease">raging fever</seg>, and worse
-             than he was when he first entered the <rs type="place" ana="#medical">hospital</rs>.
+             than he was when he first entered the <rs type="place">hospital</rs>.
              I had warned him against the consequences of
              the funeral, reminded him of the dangerous malady
              from which he was but just recovering, and he had
@@ -11947,28 +11947,28 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
        
      <div type="entry">
         <opener><dateline><date when="1818-02-03">February 3</date>.</dateline></opener> 
-        <p>On Friday I was made to observe, in the <rs type="place" ana="#medical">hospital</rs>,
+        <p><seg ana="#disease #medical">On Friday I was made to observe, in the <rs type="place">hospital</rs>,
            a remarkably fine <ecda:anonPers>young negro</ecda:anonPers>, about twenty-
            two years of age, stout and strong, and whom
            every one praised for his numerous good qualities,
            and particularly for his affection for his <ecda:anonPers>mother</ecda:anonPers>,
-           and the services which he rendered her. <seg ana="#disease">He complained
+           and the services which he rendered her. He complained
            of a little fever, and a slight pain in his 
-           side. On Saturday he left the <rs type="place" ana="#medical">hospital</rs>, and in-
+           side. On Saturday he left the <rs type="place">hospital</rs>, and in-
               <pb/> 
               <fw type="pageNum">331</fw>  
            tended to go to his <rs type="place">provision grounds</rs>, among the
            mountains, on Sunday morning; but, as he complained
            of a pain in his head, his <ecda:anonPers>mother</ecda:anonPers> prevented
-           his going, and obliged him to return to the <rs type="place" ana="#medical">hospital</rs>
+           his going, and obliged him to return to the <rs type="place">hospital</rs>
            in the evening. On Monday he was seized with
            fainting fits, lost his speech and power of motion,
            and this morning I was awakened by the shrieks and
            lamentations of the poor <ecda:anonPers>mother</ecda:anonPers>, who, on coming
-           to the <rs type="place" ana="#medical">hospital</rs> to enquire for her <ecda:anonPers>son</ecda:anonPers>, found, that
+           to the <rs type="place">hospital</rs> to enquire for her <ecda:anonPers>son</ecda:anonPers>, found, that
            in spite of all possible care and exertions on the
-           part of his <rs type="persGroup" ana="#medical">medical attendants</rs>, he had just expired.</seg>
-           <seg ana="#disease">Whether it be the climate not agreeing with their
+           part of his <rs type="persGroup">medical attendants</rs>, he had just expired.
+           Whether it be the climate not agreeing with their
            <rs type="properAdjective">African</rs> blood (genuine or inherited), or whether
            it be from some defect in their general formation,
            certainly <rs type="persGroup">negroes</rs> seem to hold their lives upon a
@@ -12119,7 +12119,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
        </div>
        <div>
           <opener><dateline><date when="1818-02-08">February 8</date>. <hi rend="mixed">(Sunday.)</hi></dateline></opener> 
-       <p>My <rs type="place">estate</rs> is greatly plagued by a negress named
+       <p ana="#medical">My <rs type="place">estate</rs> is greatly plagued by a negress named
           <persName ref="#catalina_0001">Catalina</persName>; she is either mad, or has long pretended
           to be so, never works, and always steals. About a
           <pb/> 
@@ -12132,13 +12132,13 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           on all sides by <ecda:commodity ana="#harvest #flora">dry canes</ecda:commodity>, inflammable as tinder.
           This vagary was of too dangerous a nature to allow
           of her being longer left at liberty, and she was put
-          into the <rs type="place" ana="#medical">hospital</rs>. But her <ecda:anonPers>husband</ecda:anonPers> was by no
+          into the <rs type="place">hospital</rs>. But her <ecda:anonPers>husband</ecda:anonPers> was by no
           means pleased with her detention, as he never
           failed to appropriate to himself a share of her
           plunder, and when discovered, the blame of the
           robbery was laid upon his wife, in a fit of insanity.
           So, while the general joy at my first arrival drew
-          the <rs type="persGroup" ana="#medical">hospital attendants</rs> from their post, he took the
+          the <rs type="persGroup">hospital attendants</rs> from their post, he took the
           opportunity to carry off his wife, and conceal her. 
           The consequence was, that this morning complaints
           poured upon me of gardens robbed by <persName ref="#catalina_0001">Catalina</persName>, 
@@ -12148,8 +12148,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           helping herself to <ecda:flora ana="#food #commodity #circulation">vegetables</ecda:flora>. I immediately despatched
           <ecda:anonPers>one of the negro-governors</ecda:anonPers> with a <rs type="persGroup">party</rs> 
           in pursuit of her, who succeeded in lodging her
-          once more in the <rs type="place" ana="#medical">hospital</rs>; where she must remain
-          till I can get her sent to the <rs type="place" ana="#medical">asylum</rs> at <placeName>Kingston</placeName>,
+          once more in the <rs type="place">hospital</rs>; where she must remain
+          till I can get her sent to the <rs type="place">asylum</rs> at <placeName>Kingston</placeName>,
           the only hospital for lunatics in the whole <rs type="place">island</rs>.   
        </p>
        </div>
@@ -12270,14 +12270,14 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
              if I had remained upon the estate. <rs type="persGroup">Many of
              them</rs> have come to tell me instances of kindness
              which they have received from one or the other of
-             their superintendents; <rs type="persGroup">others</rs>, to describe some
+             their superintendents; <seg ana="#medical #disease"><rs type="persGroup">others</rs>, to describe some
              severe fit of illness, in which they must have died
-             but for the care taken of them in the <rs type="place" ana="#medical">hospital</rs>;
+             but for the care taken of them in the <rs type="place">hospital</rs>;
              <rs type="persGroup">some</rs>, who were weakly and low-spirited on my
              former visit, to show me how much they are improved
              in health, and tell me, <said rend="quotes"><distinct type="dialect">how they keep up 
              heart now, because since massa come upon the
-             <rs type="place">property</rs> nobody put upon them, and all go well</distinct>;</said> 
+             <rs type="place">property</rs> nobody put upon them, and all go well</distinct>;</said> </seg>
              and <rs type="persGroup">some</rs>, who had formerly complained of one
              trifle or other, to take back their complaints, and
              say, that they wanted no change, and were willing
@@ -12335,29 +12335,29 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
              they one and all attributed to their joy at seeing
              me again), I thought it time to distribute the presents
              which I had brought with me for them from
-             <placeName>England</placeName>. During my absence I had ordered a
-             new and additional <rs type="place" ana="#medical">hospital</rs> to be built, intended
+             <placeName>England</placeName>. <seg ana="#medical">During my absence I had ordered a
+             new and additional <rs type="place">hospital</rs> to be built, intended
              entirely for the use of lying-in women, nursing
              mothers, and cases of a serious nature, for which
              purpose it is to be provided with every possible
-             comfort; while the old <rs type="place" ana="#medical">hospital</rs> is to be reserved
+             comfort; while the old <rs type="place">hospital</rs> is to be reserved
              for those who have little or nothing the matter
              with them, but who obstinately insist upon their
              being too ill to work, in defiance of the opinion of
-             all their medical attendants. The new <rs type="place" ana="#medical">hospital</rs> is not 
+             all their medical attendants. The new <rs type="place">hospital</rs> is not 
              quite finished; but wishing to connect it as much
              as possible with pleasurable associations, I took
              occasion of the distribution of presents to open it
              for the first time. Accordingly, the <rs type="persGroup">negroes</rs> were
-             summoned to the new <rs type="place" ana="#medical">hospital</rs> this morning; the 
+             summoned to the new <rs type="place">hospital</rs> this morning; the 
              rooms were sprinkled with <ecda:commodity ana="#food">Madeira</ecda:commodity> for good luck;
              <pb/> 
              <fw type="pageNum">343</fw>
-             and the toast of <said rend="quotes">Health to the new <rs type="place" ana="#medical">hospital</rs>, and
+             and the toast of <said rend="quotes">Health to the new <rs type="place">hospital</rs>, and
              shame to the old lazy house!</said> was drunk by the
              <ecda:anonPers>trustee</ecda:anonPers>, the <rs type="persGroup">doctoresses</rs>, the <rs type="persGroup">governors</rs>, &amp;c., and
              received by the whole congregation of <rs type="persGroup">negroes</rs>
-             with loud cheering; after which, every man received
+             with loud cheering;</seg> after which, every man received
              a <ecda:commodity ana="#textile #circulation">blue jacket lined with flannel</ecda:commodity>, every
              woman a <ecda:commodity ana="#circulation #textile">flaming red stuff petticoat</ecda:commodity>, and every
              child a <ecda:commodity ana="#circulation #textile">frock of white cotton</ecda:commodity>. They then fell to
@@ -12454,13 +12454,13 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
        <fw type="pageNum">346</fw>
        <div type="entry">
           <opener><dateline><date when="1818-02-16">February 16</date>.</dateline></opener> 
-       <p>On my arrival I found that idle rogue <persName ref="#nato_0001">Nato</persName>,
-          as usual, an inmate of the <rs type="place" ana="#medical">hospital</rs>, where he regularly
+       <p><seg ana="#medical #punishment">On my arrival I found that idle rogue <persName ref="#nato_0001">Nato</persName>,
+          as usual, an inmate of the <rs type="place">hospital</rs>, where he regularly
           passes at least nine months out of the twelve.
           He was with infinite difficulty persuaded, at the
           end of a fortnight, to employ himself about the
           <ecda:fauna>carriage-horses</ecda:fauna> for a couple of days; but on the
-          third he returned to the <rs type="place" ana="#medical">hospital</rs>, although the
+          third he returned to the <rs type="place">hospital</rs>, although the
           <rs type="persGroup">medical attendants</rs>, one and all, declared nothing
           to be the matter with him, and the <rs type="persGroup">doctors</rs> even
           refused to insert his name on the sick list. Still
@@ -12481,7 +12481,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           he quitted the <rs type="place" ana="#medical">hospital</rs>, saluted on all sides by loud
           huzzas in congratulation of his amended health,
           and which followed him during his whole progress
-          to the <ecda:flora ana="#commodity #harvest">cane-piece</ecda:flora>, I was informed that a lad,
+          to the <ecda:flora ana="#commodity #harvest">cane-piece</ecda:flora></seg>, I was informed that a lad,
           <pb/> 
           <fw type="pageNum">347</fw>
           named <persName ref="#epsom_0001">Epsom</persName>, who used to be perpetually running
@@ -13282,14 +13282,14 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
              of my indulging the <rs type="persGroup">negroes</rs> so much. Indeed! 
              and where were the <rs type="persGroup">people</rs> who ought to come to
              their night-work? in the <rs type="place">negro village</rs>? No; they
-             were in the <rs type="place" ana="#medical">hospital</rs>, and refused to come out to
+             were in the <rs type="place">hospital</rs>, and refused to come out to
              work. Upon which I blazed up like a barrel of
              gunpowder, and volleying out in a breath all the
-             curses that I ever heard in my life, I asked him,
+             curses that I ever heard in my life, <seg ana="#medical">I asked him,
              whether any person really had been insolent enough
              to select a whole night party from the <rs type="persGroup">sick people</rs>
-             in the <rs type="place" ana="#medical">hospital</rs>, not one of whom ought to stir out
-             of it till well? There stood the fellow, trembling
+             in the <rs type="place">hospital</rs>, not one of whom ought to stir out
+             of it till well?</seg> There stood the fellow, trembling
              and stammering, and unable to get out an answer,
              while I stamped up and down the piazza, storming
              and swearing, banging all the doors till the house
@@ -13636,7 +13636,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
              that day, as soon as the <ecda:anonPers>head governor</ecda:anonPers> had blown
              the shell, and dismissed the <rs type="persGroup">negroes</rs> till Monday
              morning, he requested the pleasure of <persName ref="#toby_0001">Mr. Toby's</persName>
-             company to the <rs type="place" ana="#medical">hospital</rs>, where he locked him up
+             company to the <rs type="place">hospital</rs>, where he locked him up
              in a room by himself. All Saturday and Sunday
              the <rs type="place">estate</rs> rang with laughing, dancing, singing,
              and huzzaing. <ecda:commodity ana="#circulation #food #fauna">Salt-fish</ecda:commodity> was given away in the
@@ -13680,8 +13680,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
              they cannot bear it, and the memory of it
              seems to make a lasting impression upon their
              minds; while the lash makes none but upon their 
-             skins, and lasts no longer than the mark.</seg> The
-             order at my <rs type="place" ana="#medical">hospital</rs> is, that no negro should be
+             skins, and lasts no longer than the mark.</seg> <seg ana="#medical">The
+             order at my <rs type="place">hospital</rs> is, that no negro should be
              denied admittance; even if no symptoms of illness 
              appear, he is allowed one day to rest, and take
              physic if he choose it. On the second morning,
@@ -13695,7 +13695,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
              physic, &amp;c., and no restraint is imposed except
              that of not going out. Here is suffered to remain
              unmolested as long as he pleases, and he is
-             only allowed to leave the <rs type="place" ana="#medical">hospital</rs> upon his own
+             only allowed to leave the <rs type="place">hospital</rs> upon his own
              declaration that he is well enough to go to work;
              when the door is opened, and he walks away unreproached
              and unpunished, however evident his 
@@ -13710,14 +13710,14 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
              but their patience never fails to be wearied out by
              the fourth morning, and I have not yet met with
              an instance of a patient who had been locked
-             up with a fictitious illness, returning to the <rs ana="#medical" type="place">hospital</rs>
+             up with a fictitious illness, returning to the <rs type="place">hospital</rs>
              except with a real one. In general, they offer to 
              take a day's rest and physic, promising to go out
              to work the next day, and on these occasions they
-             have uniformly kept their word. Indeed, my <rs ana="#medical" type="place">hospital</rs>
+             have uniformly kept their word. Indeed, my <rs type="place">hospital</rs>
              is now in such good order, that the <ecda:anonPers>physician</ecda:anonPers>
              told the trustee the other day that <said rend="quotes" direct="false">mine gave
-             him less trouble than any <rs ana="#medical" type="place">hospital</rs> in the <rs type="place">parish</rs>.</said>
+             him less trouble than any <rs type="place">hospital</rs> in the <rs type="place">parish</rs>.</said></seg>
              <pb/> 
              <fw type="pageNum">385</fw>
              My boilers, too, who used to make <ecda:commodity ana="#food #refining">sugar</ecda:commodity> the 
@@ -13815,12 +13815,12 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
        </div>
        <div type="entry">
           <opener><dateline><date when="1818-04-03">April 8</date>.</dateline></opener> 
-          <p>This morning I was awaked by a violent coughing
+          <p ana="#disease #medical">This morning I was awaked by a violent coughing
              in the hospital; and as soon as I heard any of
              the <rs type="persGroup">servants</rs> moving, I despatched a <ecda:anonPers>negro</ecda:anonPers> to ask,
              <pb/> 
              <fw type="pageNum">388</fw>
-             <said rend="quotes" direct="false">whether any body was bad in the <rs type="place" ana="#medical">hospital</rs>?</said> He
+             <said rend="quotes" direct="false">whether any body was bad in the <rs type="place">hospital</rs>?</said> He
              returned and told me, <said rend="quotes"><distinct type="dialect">No, massa; nobody bad
              there; for <persName ref="#alick_0001">Alick</persName> is better, and <persName ref="#nelson_0001">Nelson</persName> is dead</distinct>.</said>
              <seg ana="#disease"><persName ref="#nelson_0001">Nelson</persName> was one of my best labourers, and had
@@ -13867,7 +13867,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
        </div>
        <div type="entry">
           <opener><dateline><date when="1818-04-15">April 15</date>.<hi rend="mixed">(Wednesday.)</hi></dateline></opener>   
-          <p>About noon to-day a <ecda:anonPers>well-disposed healthy lad</ecda:anonPers>
+          <p ana="#medical #injury">About noon to-day a <ecda:anonPers>well-disposed healthy lad</ecda:anonPers>
              of seventeen years of age was employed in unhaltering
              the first pair of <ecda:fauna>oxen</ecda:fauna> of one of the waggons,
              in doing which he entangled his right leg in the 
@@ -13877,7 +13877,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
              succeed in stopping them. However, when the
              prisoner was extricated, although his flesh appeared
              to have been terribly lacerated, no bones were
-             broken, and he was even able to walk to the <rs type="place" ana="#medical">hospital</rs> 
+             broken, and he was even able to walk to the <rs type="place">hospital</rs> 
              without support. He was blooded instantly,
              and <rs type="persGroup">two physicians</rs> were sent for by express. At
              two o'clock he was still in perfect possession of his
@@ -14009,10 +14009,10 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
              the <ecda:anonPers>cook</ecda:anonPers> having succeeded in dressing a dish well
              is desired to dress just such another, she is certain
              of doing something which makes it quite different. 
-             One day I desired, that there might be always a 
+             <seg ana="#medical">One day I desired, that there might be always a 
              piece of <ecda:food ana="#fauna">salt meat</ecda:food> at dinner, in order that I might 
              be certain of always having enough to send to the
-             sick in the <rs type="place" ana="#medical">hospital</rs>. In consequence, there was
+             sick in the <rs type="place">hospital</rs>.</seg> In consequence, there was
              nothing at dinner but <ecda:food ana="#fauna">salt meat</ecda:food>. I complained
              that there was not a single <ecda:food>fresh dish,</ecda:food> and the next
              day, there was nothing but fresh. Sometimes there
