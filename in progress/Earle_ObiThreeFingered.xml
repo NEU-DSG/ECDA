@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="../out/ecda.odd.rnc" type="application/relax-ng-compact-syntax"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ecda="http://dsg.northeastern.edu/ecda/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -20,6 +20,17 @@
         </fileDesc>
     </teiHeader>
     <text>
+        <ecda:hyperDiv>
+            <ecda:notes>
+                <note xml:id="n001" target="#a001">For your information I shall subjoin notes,
+                    explanatory of such African words as may occur.—Mansa a King</note>
+                <note xml:id="n002" target="#a002">A watering place where shepherds kept their
+                    cattle</note>
+                <note xml:id="n003" target="#a003">An unconverted native, one who drinks strong
+                    liquors, a drunkard</note>
+                <note xml:id="n004" target="#a004">A dish prepared from boiled corn</note>
+            </ecda:notes>
+        </ecda:hyperDiv>
         <front>
             <titleBlock>
                 <docTitle>
@@ -102,46 +113,42 @@
                     hard hearted planter, I shall repeat the same to the last hour of my life.
                             "<said><persName>Jack</persName> is a Negro</said>," say they.
                             "<said><persName>Jack</persName> is a Man</said>," say I.</p>
-                <lg>
-                    <l>—"<said>He is a slave</said>."</l>
-                    <l>—"<said>Man cannot be a slave to Man</said>."</l>
-                    <l>—"<said>He is my property</said>."</l>
-                    <l>—"<said>How did you acquire that property</said>?"</l>
-                    <l>—"<said>By paying for it</said>."</l>
-                    <l>—"<said>Paying! Paying whom</said>?"</l>
-                    <l>—"<said>Him who brought him from Africa</said>."</l>
-                    <l>—"<said>How did he get possession of him</said>?"</l>
-                    <l>—"<said>He caught him there</said>."</l>
-                    <l>—"<said>Caught! what? Like a wild beast</said>?"</l>
-                    <l>—"<said>No, but he contrived means to convey him into his ship</said>?"</l>
-                    <l>—"<said>Contrived! Then he brought him without his consent</said>?"</l>
-                    <l>—"<said>Very likely</said>."</l>
-                    <l>—"<said>And what has become of that robber</said>?"</l>
-                    <l>—"<said>Robber! He is a very respectable man, who has left off trade, has
-                            married the daughter of a rich planter, and now lives very comfortably,
-                            after the fatigues of an industrious life</said>."</l>
-                    <l>—"<said>What! Do they hang a poor hard-laboring man, who, driven by despair
-                            at the sight of his numerous family ready to starve</said></l>
-                </lg>
+                <p>—"<said>He is a slave</said>."</p>
+                <p>—"<said>Man cannot be a slave to Man</said>."</p>
+                <p>—"<said>He is my property</said>."</p>
+                <p>—"<said>How did you acquire that property</said>?"</p>
+                <p>—"<said>By paying for it</said>."</p>
+                <p>—"<said>Paying! Paying whom</said>?"</p>
+                <p>—"<said>Him who brought him from Africa</said>."</p>
+                <p>—"<said>How did he get possession of him</said>?"</p>
+                <p>—"<said>He caught him there</said>."</p>
+                <p>—"<said>Caught! what? Like a wild beast</said>?"</p>
+                <p>—"<said>No, but he contrived means to convey him into his ship</said>?"</p>
+                <p>—"<said>Contrived! Then he brought him without his consent</said>?"</p>
+                <p>—"<said>Very likely</said>."</p>
+                <p>—"<said>And what has become of that robber</said>?"</p>
+                <p>—"<said>Robber! He is a very respectable man, who has left off trade, has married
+                        the daughter of a rich planter, and now lives very comfortably, after the
+                        fatigues of an industrious life</said>."</p>
+                <p>—"<said>What! Do they hang a poor hard-laboring man, who, driven by despair at
+                        the sight of his numerous family ready to starve</said></p>
                 <pb/>
-                <lg>
-                    <l><said>for want of a bit of bread, takes advantage of a dark night, goes on
-                            the highway and frightens teh traveller out of a few pieces of gold and
-                            shall a daring ruffian, who is openly guilty of a crime more heinous in
-                            its nature and baneful in its effects, get respected by every body and
-                            pass his days in the peaceable enjoyment of riches acquired by such
-                            infamous means</said>?"</l>
-                    <l>—"<said>I don't understand you. I never heard that the traffic was infamous.
-                            Is it not authorised by all the nations of Europe, Asia and America?
-                            Have not regulations been made concerning it by all
-                        governments</said>?"</l>
-                    <l>—"<said>Very true, but that does not make it more honorable. Prostitution is
-                            authorised, yes, for it is more than tolerated, by governments, many of
-                            which have also made regulations concerning it, but that does make it
-                            less infamous</said>."</l>
-                    <l>—"<said>Nay, you are going too far, and this is widely different</said>.</l>
-                    <l>—"<said>Different !—By heavens ! you will drive me mad</said>."</l>
-                </lg>
+                <p><said>for want of a bit of bread, takes advantage of a dark night, goes on the
+                        highway and frightens teh traveller out of a few pieces of gold and shall a
+                        daring ruffian, who is openly guilty of a crime more heinous in its nature
+                        and baneful in its effects, get respected by every body and pass his days in
+                        the peaceable enjoyment of riches acquired by such infamous
+                    means</said>?"</p>
+                <p>—"<said>I don't understand you. I never heard that the traffic was infamous. Is
+                        it not authorised by all the nations of Europe, Asia and America? Have not
+                        regulations been made concerning it by all governments</said>?"</p>
+                <p>—"<said>Very true, but that does not make it more honorable. Prostitution is
+                        authorised, yes, for it is more than tolerated, by governments, many of
+                        which have also made regulations concerning it, but that does make it less
+                        infamous</said>."</p>
+                <p>—"<said>Nay, you are going too far, and this is widely different</said>.</p>
+                <p>—"<said>Different !—By heavens ! you will drive me mad</said>."</p>
+
                 <p>And such, my dear <persName>Charles</persName>, is the daily altercation I have
                     with the greatest part of the planters here, and what you have just read is a
                     specimen of the various arguments brought on both sides of the question. As I
@@ -154,53 +161,55 @@
                     is nothing more than a copy of what I had sometime ago begun to put into a
                     regular story, out of several memoranda collected at different times. So without
                     lengthening this preamble, I thus begin:</p>
-                <p><persName>Amri</persName> was a beautiful slave, the property of <persName>Mr.
-                        Mornton</persName>, of <placeName>Maroons Town</placeName>. She was
-                    sanguinary in her temper; for, misfortunre, or rather cruelty, had perverted a
-                    heart naturally inclined to virtue. She was torn from the arms of her husband,
-                    her family and friends, while in the mayday of her life, from her native
-                        <placeName>Africa</placeName></p>
-                <p>She had vowed to curse <rs type="persGroup">the European race</rs> for ever; and
-                    had a son, in whose breast she never failed to nurture the baneful passion of
-                    revenge</p>
-                <p>She taught him to despise his groaning companions, complaining under their labor,
-                    meanly submitting to the christian whip, and then pusillanimously venting their
-                    griefs in half suprressed sighs</p>
-                <pb/>
-                <p><persName>Jack</persName> had a soul, even in infancy, superior to such whining;
-                    he complained not of the daily labor heaped upon him, but of the tardiness of
-                    time.</p>
-                <p>Each night, when the grand luminator of the world hid his rays within the deep,
-                    he threw himself on his knees, and prayed the great God of his country to ripen
-                    him to manhood, that he might shake off the yoke that pressed heavy upon him,
-                    and revenge the cause of his country and his parents. His youthful fiery soul
-                    led him to imagine himself the destroyer of all <placeName>Europe</placeName>;
-                    he saw in the warlike picture his fancy drew, the course he was to fllow, and
-                    the transport of his heart was often visible by the uncommon hauteur of his
-                    manners. When assured of revenge, he would grin with a smile of malice,
-                    transparent on his cheek, at the overseer, while the merciless whip was
-                    lacerating his back.</p>
-                <p>He was of the most manly growth, nearly seven feet in height, and amazingly
-                    robust; bread up to hardihood, his limbs were well shapen and athletic; he could
-                    endure the most laborious, toil and would with ease perform the office of any
-                    two negores within the planation. His face was rather long; his eyes black and
-                    fierce; his nose was not like the generality of blacks, squat and flat, but
-                    rather aquiline, and</p>
-                <pb/>
-                <p>his skin remarkably clear. He discovered a great deal of expression in his
-                    countenance, and a very look of reproach from him would strike terror to <rs
-                        type="persGroup">his fellow slaves</rs>. He was now two and twenty years of
-                    age, and every thing <rs type="person">his fond but revengeful mother</rs> could
-                    wish him.</p>
-                <p>Returning from his labor to the small hovel, where he and <rs type="person">his
-                        mother</rs> dwelt, after a heavy day of toil, he threw himself weary on the
-                    pallet of straw where he resposed. <persName>Amri</persName> arose and claspt
-                    him in her arms.</p>
-                <p>"<said><rs type="person">My son</rs></said>," cried she, "<said>Now is the time
-                        arrived when you should contend for the rights of yourself and <rs
-                            type="person">mother</rs>. Now is the time when you should revenge my
-                        cause. You are arrived to maturity, and, to inspire you to revenge my
-                        injuries, I will relate the misfortunes of my life</said>."</p>
+                <ecda:embSN>
+                    <p><persName>Amri</persName> was a beautiful slave, the property of
+                            <persName>Mr. Mornton</persName>, of <placeName>Maroons
+                        Town</placeName>. She was sanguinary in her temper; for, misfortunre, or
+                        rather cruelty, had perverted a heart naturally inclined to virtue. She was
+                        torn from the arms of her husband, her family and friends, while in the
+                        mayday of her life, from her native <placeName>Africa</placeName></p>
+                    <p>She had vowed to curse <rs type="persGroup">the European race</rs> for ever;
+                        and had a son, in whose breast she never failed to nurture the baneful
+                        passion of revenge</p>
+                    <p>She taught him to despise his groaning companions, complaining under their
+                        labor, meanly submitting to the christian whip, and then pusillanimously
+                        venting their griefs in half suprressed sighs</p>
+                    <pb/>
+                    <p><persName>Jack</persName> had a soul, even in infancy, superior to such
+                        whining; he complained not of the daily labor heaped upon him, but of the
+                        tardiness of time.</p>
+                    <p>Each night, when the grand luminator of the world hid his rays within the
+                        deep, he threw himself on his knees, and prayed the great God of his country
+                        to ripen him to manhood, that he might shake off the yoke that pressed heavy
+                        upon him, and revenge the cause of his country and his parents. His youthful
+                        fiery soul led him to imagine himself the destroyer of all
+                            <placeName>Europe</placeName>; he saw in the warlike picture his fancy
+                        drew, the course he was to fllow, and the transport of his heart was often
+                        visible by the uncommon hauteur of his manners. When assured of revenge, he
+                        would grin with a smile of malice, transparent on his cheek, at the
+                        overseer, while the merciless whip was lacerating his back.</p>
+                    <p>He was of the most manly growth, nearly seven feet in height, and amazingly
+                        robust; bread up to hardihood, his limbs were well shapen and athletic; he
+                        could endure the most laborious, toil and would with ease perform the office
+                        of any two negores within the planation. His face was rather long; his eyes
+                        black and fierce; his nose was not like the generality of blacks, squat and
+                        flat, but rather aquiline, and</p>
+                    <pb/>
+                    <p>his skin remarkably clear. He discovered a great deal of expression in his
+                        countenance, and a very look of reproach from him would strike terror to <rs
+                            type="persGroup">his fellow slaves</rs>. He was now two and twenty years
+                        of age, and every thing <rs type="person">his fond but revengeful
+                            mother</rs> could wish him.</p>
+                    <p>Returning from his labor to the small hovel, where he and <rs type="person"
+                            >his mother</rs> dwelt, after a heavy day of toil, he threw himself
+                        weary on the pallet of straw where he resposed. <persName>Amri</persName>
+                        arose and claspt him in her arms.</p>
+                    <p>"<said><rs type="person">My son</rs></said>," cried she, "<said>Now is the
+                            time arrived when you should contend for the rights of yourself and <rs
+                                type="person">mother</rs>. Now is the time when you should revenge
+                            my cause. You are arrived to maturity, and, to inspire you to revenge my
+                            injuries, I will relate the misfortunes of my
+                    life</said>."</p></ecda:embSN>
                 <p>Dear Charles, so much of the narrative was imparted to me by a negro, well
                     acquainted with Amri, and I can assure you, for I have seen this threefingered
                     Jack, that he was every thing in soul and person requisite for the hero. Give me
@@ -212,11 +221,90 @@
 
             </div>
             <div type="letter">
+                <head><hi rend="all caps">Letter II</hi>.</head>
                 <head><hi rend="italics">The same to the same</hi>.</head>
                 <opener><salute>Dear <persName>Charles</persName></salute>, .</opener>
                 <p>I resume my pen, and commence with the narrative of <persName>Amri</persName>.
                     All impatience myself, I suspect you to feel as much. I set down her own words
-                    as near as memory can trace—mind that.</p></div>
+                    as near as memory can trace—mind that.</p>
+                <floatingText>
+                    <body>
+                        <head><hi rend="all caps">Makro and Amri, An African Tale</hi></head>
+                        <quote rend="block">I am innocent of this blood, see ye to it</quote>
+                    </body>
+                </floatingText>
+                <ecda:embSN><p>"My son, your country borders on the <placeName>Gambia</placeName>,
+                        and its inhabitants are distinguished from all others by the name of <rs
+                            type="properAdjective">Feloops</rs>. Remember that the spirit of our
+                        nation is, Never to forget an injury, but to ripen in our</p><pb/>
+                    <p>breasts the seeds of hate for those who betray us. We are to transmit our
+                        quarrels to our posterity, and it is incumbent on a son, from a sense of
+                        filial obligation, to resent the injuries done to his parents.</p>
+                    <p>"You are the only son of my womb, the only offspring of the loins of Makro,
+                        and you shall be his avenger.</p>
+                    <p>"<persName>Feruarue</persName>, the beloved of his country, lived in a hut,
+                        at whose base murmured the waters of <placeName>Gambia</placeName>. I was
+                        his only daughter, and his sole delight. Makro's parents were deceased, and
+                        his hut adjoined ours.—He was but two years my elder; I loved him, and he
+                        was the great friend of my father, so that our nuptials were soon
+                        solemnized, and I removed from my father's home to live with my dear
+                            <persName>Makro</persName>.</p>
+                    <p>"How blest were we, my son! The God of our country smiled upon our stores;
+                        our herbage grew beneath our eye, and our lawful traffic with the vile
+                        Europeans, sanctioned by our virtuous <seg xml:id="#a001" corresp="n001"
+                            >Mansa</seg>, answered our most sanguine expectations. Makro constantly
+                        attended the <seg xml:id="#a002" corresp="n002">Korree</seg>, and our
+                            <ecda:fauna>cattle</ecda:fauna> were as fine as any our nation
+                        boasted</p>
+                    <p>"One terrible day, my son, our God, we thought, seemed angry with us. He
+                        withheld his beams; the thunder roared above, and the tremendous lightning
+                        blighted the fruits of the earth. You were then but two months old within my
+                        womb. All nature at that moment seemed at variance, and the storm of rain
+                        drenched the Europeans' big ship; their sails were torn by the storm, and we
+                        heard them fire their terrifying guns, which we afterwards understood were
+                        signals of distress. Oh! what an hour was that! I stood at our cabin door
+                        and saw one great swelling wave devour their ship, and they were forever
+                        hurried from my sight. At that moment, with agonizing pity, I caspt my hands
+                        together, and wept their fate.</p>
+                    <p>"Yes, indeed, I did weep the fate of those, whom with thee I am born to
+                        curse, such was <emph>then</emph> my generous unsuspecting nature. Well, the
+                        storm abated in its fury, till, at last, the waters gained their original
+                        calm, and the clouds above wore a more pleasing aspect.</p>
+                    <p>"<persName>Makro</persName>, as was customary, was at the Koree, and, wishing
+                        to know if he was well, I paced the banks of Gambia. As I looked upon the
+                        waters, I beheld floating to our shore a part of the ship rent in thousand
+                        twain by the merciless tempest. Lying,</p><pb/>
+                    <p>"to all appearance dead, on this fragment of the wreck, were two <rs
+                            type="persGroup">Europeans</rs>, locked in each other's embrace. They
+                        were both young—one was scarely fourteen. Imagine, my son, the emotions of a
+                        heart, ever ready to assist the distrest, on beholding such a scene.—They
+                        were <rs type="persGroup">Europeans</rs>, and all <rs type="place"
+                            >Africa</rs> trembled at their name; they were my country's foes, but
+                        they were fallen; they claimed my pity, and I assisted them as though they
+                        had been my country's firmest friends—my heart could not view them in their
+                        real light.</p>
+                    <p>"I hastened to the water's brink, and fast the fragment proceeded towards me;
+                        at length it struck upon the shore, and I gave them all my aid. <rs
+                            type="person">The captain</rs> of the seadevoured vessel was soon
+                        recovered, and we both assisted to lead his nearly drowned <rs type="person"
+                            >boy</rs> to our cabin.</p>
+                    <p>"I had got a small European bottle, with some brandy, which my Makro took
+                        from the despised of our nation, a <seg xml:id="#a003" corresp="n003"
+                            >Sonakee</seg>. <persName>Captain Harrop</persName>, for so was he
+                        called, smiled upon the bottle, and giving some to his servant, he was soon
+                        recovered.</p>
+                    <p>"My husband soon returned from the Koree, and entered our hut, while I was in
+                        the</p><pb/>
+                    <p>office of renovating the drooping <rs type="persGroup">Europeans</rs>; he
+                        started back on beholding them, but I related the disastrous circumstance
+                        that called my mercy to their aid, and he also pitied them.</p>
+                    <p>"By that time, when the glorious sun witholds his beams which are canopied
+                        over by the veil of night, they were both perfectly recovered.
+                            <persName>Makro</persName> invited them to take some <seg xml:id="#a004"
+                            corresp="n004">kous kous</seg>, of which they ate most hartily, and much
+                        admired our <seg xml:id="#a005" corresp="n005">Shea Toulou</seg>, which Makro placed plentifully before them.</p>
+                </ecda:embSN>
+            </div>
 
         </body>
 
