@@ -14,6 +14,19 @@
                 <p>Obtainted from DLOC. Digitized by Hathitrust</p>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <tagsDecl>
+                <rendition xml:id="r.allcaps">allcaps</rendition>
+                <rendition xml:id="r.smallcaps">smallcaps</rendition>
+                <rendition xml:id="r.italics">italics</rendition>
+            <rendition xml:id="r.quotes">quotes</rendition>
+                <namespace name="">
+                    <tagUsage gi="head" render="#r.allcaps"/>      
+                    <tagUsage gi="emph" render="#r.italics"/>
+                    <tagUsage gi="said" render="#r.quotes"/>
+                </namespace>
+            </tagsDecl>
+        </encodingDesc>
     </teiHeader>
     <text>
         <ecda:hyperDiv>
@@ -69,11 +82,1005 @@
                 </p>
                 <dateline>April 20, 1801.</dateline>
             </div>
+            <pb/>
+            <!-- Table of Contents -->
+            <pb/>
+            <!-- Add'l Table of Contents -->
+            <pb/>
         </front>
+        <pb/>
         <body>
-            <div>
+            <head><persName ref="#belinda_portman_0001">Belinda</persName></head>
+            <div type="volume">
+                <div type="chapter">
+                   <head><label>Chapter I</label>.
+                   Characters.</head>
+                   <p><persName ref="#selina_stanhope_0001"><hi rend="smallcaps">Mrs.</hi> Stanhope</persName>, a well-bred woman, accomplished
+                       in that branch of knowledge,
+                       which is called the art of rising in the
+                       world, had, with but a small fortune, contrived
+                       to live in the highest company. She
+                       prided herself upon having established <rs type="persGroup">half
+                       a dozen nieces</rs> most happily, that is to 
+                       say, upon having married them to <rs type="persGroup">men</rs> of
+                       fortunes far superior to their own. Once
+                       niece still remained unmarried—<persName ref="#belinda_portman_0001">Belinda
+                       Portman</persName>, of whom she was determined
+                       to get rid with all convenient expedition.
+                       <persName ref="#belinda_portman_0001">Belinda</persName> was handsome, graceful, sprightly,
+                       and highly accomplished; her aunt had
+                       endeavoured to teach her, that a young
+                       <pb/>
+                       <fw type="pageNum">2</fw>
+                       lady's chief business is to please in society,
+                       that all her charms and accomplishments
+                       should be invariably subservient to one
+                       grand object—the establishing herself in 
+                       the world.
+                       <lg rend="quotes">                           
+                               <l>For this, hands, lips, and eyes were put to school,</l>
+                               <l>And each instructed feature had it's rule.</l>                           
+                       </lg>                       
+                   </p>
+                    <p><persName ref="#selina_stanhope_0001">Mrs. Stanhope</persName> did not find <persName ref="#belinda_portman_0001">Belinda</persName> such
+                        a docile pupil as her other <rs type="persGroup">nieces</rs>, for she
+                        had been educated chiefly in the country;
+                        she had early been inspired with a taste 
+                        for domestic pleasures; she was fond of
+                        reading, and disposed to conduct herself
+                        with prudence and integrity. Her character,
+                        however, was yet to be developed
+                        by circumstances.                        
+                   </p> 
+                   <p><persName ref="#selina_stanhope_0001">Mrs. Stanhope</persName> lived at <placeName>Bath</placeName>, where she
+                       had opportunities of showing her niece
+                       off, as she thought, to advantage; but as
+                       her health began to decline, she could not
+                       go out with her as much as she wished.
+                       After manœuvring with more than her
+                       usual art, she succeeded in fastening <persName ref="#belinda_portman_0001">Belinda</persName>
+                       upon the fashionable lady <persName ref="#delacour_0001">Delacour</persName>
+                       for the season. Her ladyship was so
+                       much pleased by <persName ref="#belinda_portman_0001">miss Portman's</persName>accom-
+                       
+                       
+                       plishments and vivacity, as to invite her
+                       to spend the winter with her in <placeName>London</placeName>.
+                       Soon after her arrival in town, <persName ref="#belinda_portman_0001">Belinda</persName>
+                       received the following letter from her <persName ref="#selina_stanhope_0001">aunt
+                       Stanhope</persName>.</p>
+                       <floatingText type="letter">
+                           <body>
+                               <opener><dateline rend="prequotes"><placeName>Crescent</placeName>, <placeName>Bath</placeName>.</dateline></opener>
+                                    <p rend="prequotes"><hi rend="allcaps">After</hi> searching every place I could
+                                    think of, <persName ref="#anne_0001">Anne</persName> found your bracelet in your 
+                                    dressing table, amongst a heap of odd things,
+                                    which you left behind you to be thrown
+                                    away—I have sent it to you by a young
+                                    gentleman, who came to <placeName>Bath</placeName> (unluckily)
+                                    the very day you left me—<persName ref="#clarence_hervey_0001">Mr. Clarence
+                                    Hervey</persName>—an acquaintance, and great admirer
+                                    of my lady <persName ref="#delacour_0001">Delacour's</persName>. He is really
+                                    an uncommonly pleasant young man, is
+                                    highly connected, and has a fine independent
+                                    fortune. Besides, he is a man of wit
+                                    and gallantry, quite a conoisseur in female
+                                    grace and beauty—just the man to bring
+                                    a new face into fashion—So my dear <persName ref="#belinda_portman_0001">Belinda</persName>,
+                                    I make you a point—look well when
+                                    he is introduced to you, and remember
+                                    what I have so often told you, that nobody
+                                    <emph rend="italic">can</emph> look well without taking some pains
+                                    to please.
+                               </p>
+                               <p rend="prequotes">I see—,or at least when I went 
+                                   out more than my health will at present
+                                   
+                                   
+                                   permit—I used to see multitudes of silly
+                                   <rs type="persGroup">girls</rs>, seemingly all cut upon the same
+                                   pattern, who frequented public places
+                                   day after day, and year after year, without
+                                   any idea further than that of diverting
+                                   themselves, or of obtaining transient admiration—
+                                   How I have pitied and despised
+                                   the giddy creatures, whiles I have observed
+                                   them playing off their unmeaning airs, vying
+                                   with one another in the most <emph>obvious</emph>,
+                                   and consequently the most ridiculous manner,
+                                   so as to expose themselves before the
+                                   very men they would attract; chattering,
+                                   tittering, and flirting; full of the present
+                                   moment, never reflecting upon the future;
+                                   quite satisfied if theyg ot a partner at a
+                                   ball, without ever thinking of a partner
+                                   for life. I have often asked myself, what
+                                   is to become of such <rs type="persGroup">girls</rs>, when they
+                                   grow old or ugly, or when the public eye
+                                   grows tired of them? If they have large 
+                                   fortunes, it is all very well; they can afford
+                                   to divert themselves for a season or two
+                                   without doubt; they are sure to be sought
+                                   after and followed, not by mere danglers,
+                                   but by <rs type="persGroup">men</rs>  of suitable views and pretensions—
+                                   But nothing to my mind can be
+                                   more miserable than the situation of a
+                                   
+                                   
+                                   poor girl, who after spending not only
+                                   the interest, but the solid capital of her
+                                   small fortune in dress, and frivolous extravagance,
+                                   failes in her matrimonial expectations,
+                                   (as many do merely from not beginning
+                                   to speculate in time). She findes 
+                                   herself at five or six and thirty a burden
+                                   to her friends, destitute of the means of
+                                   rendering herself independent (for the 
+                                   <rs type="persGroup">girls</rs> I speak of never think of <emph>learning</emph> to
+                                   play cards), <foreign xml:lang="fr" rend="italics">de trop</foreign> in society, yet obliged
+                                   to hang upon all her acquaintance, who
+                                   wish her in Heaven, because she is unqualified
+                                   to make the <emph>expected</emph> return for
+                                   civilities, having no home, I mean no
+                                   establishment, no house &amp;c. fit for the
+                                   reception of company of a certain rank.—
+                                   My dearest <persName ref="#belinda_portman_0001">Belinda</persName>, may this never be your
+                                   case!—You have every possible advantage,
+                                   my love: no pains have been spared 
+                                   in your education, and (which is the essential
+                                   point) I have taken care that this 
+                                   should be known—So that you have <emph>the
+                                   name</emph> of being perfectly accomplished—
+                                   You will always have the name of being very
+                                   fashionable, if you go much into public,
+                                   as doubtless you will with <persName ref="#delacour_0001">lady Delacour</persName>.
+                                   —Your own good sense must make you
+                                   
+                                   
+                                   aware, my dear, that from her ladyship's
+                                   situation and knowledge of the world, it
+                                   will always be proper, upon all subjects of
+                                   conversation, for her to lead and you to
+                                   follow—it would be very unfit for a young
+                                   girl like you, to suffer yourself to stand in
+                                   competition with <persName ref="#delacour_0001">lady Delacour</persName>, whose
+                                   high pretensions to wit and beauty are
+                                   <emph>indisputable</emph>. I need say no more to you
+                                   upon this subject, my dear. Even with
+                                   your limited experience, you must have
+                                   observed how foolish young people offend
+                                   those who are the most necessary to their
+                                   interests, by an imprudent indulgence of
+                                   their vanity.                                   
+                               </p>
+                               <p rend="prequotes"><persName ref="#delacour_0001">Lady Delacour</persName> has an incomparable
+                                   taste in dress—Consult her, my dear, and 
+                                   do not, by an ill-judged economy, counteract
+                                   my views—Apropos—I have no objection
+                                   to your being presented at court.
+                                   You will, of course, have credit with all
+                                   her ladyship's trades-people, if you manage
+                                   properly. To know how and when to lay 
+                                   out <ecda:commodity ana="#currency">money</ecda:commodity>, is highly commendable, for in
+                                   some situations, people judge of what one
+                                   can afford by what one actually spends.—
+                                   I know of no law, which compels a young
+                                   lady, to tell what her age or her fortune
+                                   
+                                   
+                                   may be.—You have no occasions for caution
+                                   yet one one of these points.                                  
+                               </p>
+                               <p rend="prequotes">I have covered my old carpet with a
+                                   handsome green baize, and every stranger,
+                                   who comes to see me, I observe, takes it
+                                   for granted, that I have a rich carpet
+                                   under it. Say every thing, that is proper,
+                                   in your best manner for me to <persName ref="#delacour_0001">lady Delacour</persName>.—
+                                 </p>
+                               <closer>
+                                   <salute rend="prequotes">Adieu, my dear <persName ref="#belinda_portman_0001">Belinda</persName>,
+                                   <hi rend="prequotes">Yours very sincerely,</hi></salute>
+                                   <signed rend="quotes"><persName rend="smallcaps" ref="#selina_stanhope_0001">Selina Stanhope</persName>.</signed>
+                               </closer>
+                           </body>
+                       </floatingText>                       
+                 <p>It is sometimes fortunate, that the means,
+                     which are taken to produce cerrtain effects
+                     upon the mind, have a tendency directly
+                     opposite to what is expected. <persName ref="#selina_stanhope_0001">Mrs. Stanhope's</persName>
+                     perpetual anxiety about her niece's
+                     appearance, manners, and establishment,
+                     had completely worn out <persName ref="#belinda_portman_0001">Belinda's</persName> patience;
+                     she had become more insensible to
+                     the praises of her personal charms and accomplishments,
+                     than young women of her
+                     age usually are, because she had been so
+                     much flattered and <distinct type="mentioned" rend="italic">shown off</distinct>, as it is called,
+                     by her match-making aunt. Yet <persName ref="#belinda_portman_0001">Belinda</persName>
+                     was fond of amusement, and had 
+                     imbibed some of <persName ref="#selina_stanhope_0001">Mrs. Stanhope's</persName> preju-
+                     
+                     
+                     dices in favour of rank and fashion. Her
+                     taste for literature declined in proportion
+                     to her intercourse with the fashionable
+                     world, as she did not in this society, perceive
+                     the least use in the knowledge that 
+                     she had acquired. Her mind had never 
+                     been roused to much reflection; she had
+                     in general acted but as a puppet in the
+                     hands of others. To her <persName ref="#selina_stanhope_00001">aunt Stanhope</persName>
+                     she had hitherto paid unlimited, habitual,
+                     blind obedience; but she was more free from affectation
+                     and coquetry, than could have been expected,
+                     after the course of documenting,
+                     which she had gone through. She was 
+                     charmed with the idea of her visit to <persName ref="#delacour_0001">lady
+                     Delacour</persName>, whom she thought the most
+                     agreeable—no, that is too feeble an expression—
+                     the most fascinating person she
+                     had ever beheld. Such was the light in 
+                     which her ladyship appeared, not only to
+                     <persName ref="#belinda_portman_0001">Belinda</persName>, but to all the world—that is to
+                     say, all the world of fashion, and she knew
+                     of no other.—The newspapers were full 
+                     of <persName ref="#delacour_0001">lady Delacour's</persName> parties, and <persName ref="#delacour_0001">lady Delacour's</persName>
+                     dresses, and <persName ref="#delacour_0001">lady Delacour's</persName> bon
+                     mots: every thing, that her ladyship said,
+                     was repeated as witty: every thing, that
+                     
+                     
+                     
+                     her ladyship wore, was imitated as fashionable.
+                     Female wit sometimes depends on
+                     the beauty of it's possessor, for it's reputation;
+                     and the reign of beauty is proverbially
+                     short, and fashion often capriciously
+                     deserts her favourites, even before nature
+                     withers their charms. <persName ref="#delacour_0001">Lady Delacour</persName>
+                     seemed to be the fortunate exception to
+                     these general rules: long after she had
+                     lost the bloom of youth, she continued to
+                     be admired as a fashionable <foreign rend="italic" xml:lang="fr">bel esprit</foreign>; and
+                     long after she had ceased to be a novelty
+                     in society, her company was courted by 
+                     all the gay, the witty, and the gallant.
+                     To be seen in public with <persName ref="#delacour_0001">lady Delacour</persName>,
+                     to be a visitor at her house, were privileges,
+                     of which numbers were vehemently
+                     ambitious; and <persName ref="#belinda_portman_0001">Belinda Portman</persName> was congratulated
+                     and envied by all her acquaintance, for being admitted as an inmate.
+                     Howe could she avoid thinking herself singularly 
+                     fortunate?
+                 </p>
+                 <p>A short time after her arrival at <persName ref="#delacour_0001">lady
+                     Delacour's</persName>, <persName ref="#belinda_portman_0001">Belinda</persName> began to see through
+                     the thin veil, with which politeness covers
+                     domestic misery.—Abroad, and at home,
+                     <persName ref="#delacour_0001">lady Delacour</persName> was two different persons.
+                     Abroad she appeared all life, spirit, and 
+                     
+                     
+                     good humour—at home, listless, fretful,
+                     and melancholy; she seemed like a spoiled
+                     actress off the stage, over stiumlated
+                     by applause, and exhausted by the exertions
+                     of supporting a fictitious character.
+                     —When her house was filled with well-
+                     dressed crowds, when it blazed with lights,
+                     and resounded with music and dancing,
+                     <persName ref="#delacour_0001">lady Delacour</persName>, in the character of the
+                     mistres of the revels, shone the soul and
+                     spirit of pleasure and frolic—But the moment
+                     the company retired, when the
+                     music ceased, and the lights were extinguishing,
+                     the spell was dissolved.                     
+                 </p>
+                 <p>She would sometimes walk up and down 
+                     the empty magnificent saloon, absorbed in
+                     thoughts seemingly of the most painful 
+                     nature.                     
+                 </p> 
+                    <p>For some days after <persName ref="#belinda_portman_0001">Belinda's</persName> arrival in
+                        town she heard nothing of <persName ref="#delacour_0002">lord Delacour</persName>;
+                        his lady never mentioned his name, except
+                        once accidentally, as she was showing
+                        <persName ref="#belinda_portman_0001">miss Portman</persName> the house, she said—
+                        <said rend="quotes">Don't open that door—those are only
+                        <persName ref="#delacour_0002">lord Delacour's</persName> apartments.</said>—The first
+                        time <persName ref="#belinda_portman_0001">Belinda</persName> ever saw his lordship, he was
+                        dead drunk in the arms of <rs type="persGroup">two footmen</rs>,
+                        who were carrying him up stairs to his
+                        
+                        
+                        bedchamber; his l<rs type="person" ref="#delacour_0001">ady</rs>, who was just returned
+                        from <placeName>Ranelagh</placeName>, passed by him on
+                        the landing place with a look of sovereign
+                        contempt.
+                        <said rend="quotes">What is the matter?–Who is this?</said>
+                        said <persName ref="#belinda_portman_0001">Belinda</persName>.
+                        <said>Only the body of my <persName ref="#delacour_0002">lord Delacour</persName>,</said>
+                        said <rs ref="#delacour_0001" type="person">her ladyship</rs>—<said><rs type="persGroup">his bearers</rs> have
+                        brought it up the wrong staircase—take
+                        it down again, my good friends—let his
+                        lordship go his <emph>own way</emph>—don't look
+                        so shocked and amazed, <persName ref="#belinda_portman_0001">Belinda</persName>, don't look
+                        so <emph>new</emph>, child—this funeral of my lord's
+                        intellects is to me a nightly, or,</said> added
+                        her ladyship, looking at her watch and
+                        yawning—<said>I believe I should say a <emph>daily</emph>
+                        ceremony.—Six o'clock, I protest!</said>
+                 </p>
+                  <p>The next morning as <rs type="person" ref="#delacour_0001">her ladyship</rs> and
+                      <persName ref="#belinda_portman_0001">miss Portman</persName> were sitting at the breakfast
+                      table, after a very late breakfast, <persName ref="#delacour_0002">lord
+                      Delacour</persName> entered the room.                     
+                  </p>
+                   <p><said><persName ref="#delacour_0002">Lord Delacour</persName>—sober, my dear,</said>—
+                       said <rs type="person" ref="#delacour_0001">her ladyship</rs> to <persName ref="#belinda_portman_0001">miss Portman</persName>, by
+                       way of introducing him. Prejudiced by
+                       her ladyship, <persName ref="#belinda_portman_0001">Belinda</persName> was inclined to
+                       thin, that <persName ref="#delacour_0002">lord Delacour</persName> sober would not
+                       be more agreeable or more rational than
+                       <persName ref="#delacour_0002">lord Delacour</persName> drunk. <said>How old do you
+                       
+                       
+                       
+                       take my lord to be?</said> whispered her 
+                       ladyship, as she saw <persName ref="#belinda_portman_0001">Belinda's</persName> eye fixed
+                       upon his trembling hand, which carried
+                       his <ecda:food>tea</ecda:food>-cup to his lips—<said>I'll lay you a
+                       wager,</said> continued she, aloud—<said>I'll lay
+                       your birth-night dress, gold, fringe, and
+                       <ecda:flora>laurel wreaths</ecda:flora> into the bargain, that you
+                       don't guess right.</said>–
+                   </p>
+                       <p><said>I hope you don't think of going to
+                       this birthnight, <persName ref="#delacour_0001">lady Delacour</persName>?</said> said <rs ref="#delacour_0002" type="person">his 
+                       lordship.</rs>                     
+                   </p>
+                  <p><said>I'll give you six guesses, and I'll bet
+                      you don't come within sixteen years,</said>—
+                      pursued <rs type="person" ref="#delacour_0001">her ladyship</rs>, still looking at
+                      <persName ref="#belinda_portman_0001">Belinda</persName>.                      
+                  </p>
+                  <p><said>You cannot have the new carriage you
+                  have bespoke,</said>—said <rs ref="#delacour_0002" type="person">his lordship</rs>. <said>Will 
+                  you do the honour to attend to me,
+                  <persName ref="#delacour_0001">lady Delacour</persName>?</said>                      
+                  </p>
+                  <p><said>Then you won't venture to guess,
+                  <persName ref="#belinda_portman_0001">Belinda</persName>,</said> said <rs type="person" ref="#delacour_0001">her ladyship</rs> (without honouring
+                      <rs ref="#delacour_0002" type="person">her lord</rs> with the smallest portion
+                      of her attention)—<said>Well, I believe you
+                      are right—for certainly you would guess
+                      him to be six and sixty, instead of six and
+                      thirty—but then he can drink more than
+                      any <ecda:fauna>two-legged animal</ecda:fauna> in <rs type="person" ref="george_III_england_1738">his majesty's</rs> 
+                      dominions; and you know that is an ad-
+                      
+                      
+                      
+                      vantage, which is well worth twenty or
+                      thirty years of a man's life—especially to
+                      persons who have no other chance of distinguishing
+                      themsevles.</said>                      
+                  </p>  
+                   <p><said>If some people had distinguished
+                   themsleves a little less in the world,</said>—retorted
+                   <rs type="person" ref="#delacour_0002">his lordship</rs>,—<said>it would have been
+                   as well!</said>                       
+                   </p> 
+                   <p><said>As well!—how flat!</said>—                       
+                   </p> 
+                    <p><said>Flatly then I have to inform you, <persName ref="#delacour_0001">lady
+                    Delacour</persName>, that I will neither be contradicted,
+                    nor laughed at—You understand
+                    me,—It would be as well, flat or not flat,
+                    <persName ref="#delacour_0001">my lady Delacour</persName>, if your ladyship would
+                    attend more to your own conduct, and
+                    less to others!</said>                       
+                    </p>
+                   <p><said>To <emph>that</emph> of others—<rs type="person" ref="#delacour_0002">his lordship</rs> means,
+                   if he means any thing—Apropos—<persName ref="#belinda_portman_0001">Belinda</persName>
+                   —did not you tell me <persName ref="#clarence_hervey_0002">Clarence Hervey</persName> is
+                   coming to town?—You have never seen 
+                   him.—Well, I'll describe him to you by
+                   negatives. He is <emph>not</emph> a man, who ever says
+                   any thing <emph>flat</emph>—He is <emph>not</emph> a man who must
+                   be wound up with half a dozen bottles of
+                   <ecda:food>champaign</ecda:food>, before he can <emph>go</emph>—He is <emph>not</emph>
+                    a man who, when he does go, goes
+                    wrong, and won't be set right—He is 
+                    <emph>not</emph> a man, whose whole consequence, if
+                       
+                       
+                    he were married, would depend on his
+                    wife—He is <emph>not</emph> a man, who , if he
+                    were married, would be so desperately
+                    afraid of being governed by his wife,
+                    that he would turn gambler, jockey, or
+                    sot; merely to show, that he could govern
+                    himself.</said>—                       
+                   </p> 
+                    <p><said>Go on, <persName ref="#delacour_0001">lady Delacour</persName>,</said> said <rs type="person" ref="#delacour_0002">his lordship</rs>,
+                        who had been in vain attempting to
+                        balance a spoon on the edge of his <ecda:food>tea</ecda:food>-
+                        cup during the whole of this speech,
+                        which was delivered with the most animated 
+                        desire to provoke—<said>Go on, <persName ref="#delacour_0001">lady 
+                        Delacour</persName>—all I desire is, that you should
+                        go on—<persName ref="#clarence_hervey_0001">Clarence Hervey</persName> will be much
+                        obliged to you, and I am sure so shall I
+                        —go on, <persName ref="#delacour_0001">my lady Delacour</persName>—go on, and
+                        you'll oblige me.</said>                        
+                    </p>
+                    <p><said>I will never oblige you, <rs type="person" ref="#delacour_0002">my lord</rs>, that
+                    you may depend upon,</said> cried <rs type="person" ref="#delacour_0002">her ladyship</rs>,
+                     with a look of indignant contempt.                        
+                    </p>
+                    <p><rs ref="#delacour_0002">His lordship</rs> whistled, rang for his
+                        <ecda:fauna>horses</ecda:fauna>, and looked at his nails with a
+                        smile. <persName ref="#belinda_portman_0001">Belinda</persName> shocked, and in a great
+                        confusion rose to leave the room, dreading
+                        the gross continuation of this matrimonial
+                        dialogue.                        
+                    </p>
+                    <p><said><persName ref="#clarence_hervey_0001">Mr. Hervey</persName>, my lady,</said> said <ecda:anonPers>a foot-
+                    
+                    
+                    
+                        man</ecda:anonPers>, opening the door; and he was scarcely 
+                        announced, when <rs type="person" ref="#delacour_0001">her ladyship</rs> went forward
+                        to receive him with an air of easy
+                        familiarity—<said>Where have you buried
+                        yourself, <persName ref="#clarence_hervey_0001">Hervey</persName>, this age past?</said> cried
+                        she, shaking hands with him—<said>There's
+                        absolutely no living in this most stupid of
+                        all worlds, without you.—<persName ref="#clarence_hervey_0001">Mr. Hervey</persName>—
+                        <persName ref="#belinda_portman_0001">miss Portman</persName>—but don't look as if you
+                        were half asleep, man—What are you
+                        dreaming of, <persName ref="#clarence_hervey_0001">Clarence</persName>? Why looks your
+                        grace so heavily today?</said>                        
+                    </p>
+                   <p><said><quote source="#shakespeare_richard_iii">Oh I have passed a miserable night</quote>,</said>
+                       replied <persName ref="#clarence_hervey_0001">Clarence</persName>, throwing himself into
+                       an actor's attitude, and speaking in a fine
+                       tone of stage declamation.                       
+                   </p>
+                    <p><said><quote source="#shakespeare_richard_iii"><l>What was your dream, my lord, I pray you tell
+                    me?</l></quote></said>
+                       said <rs type="person" ref="#ld">her ladyship</rs> in a similar tone—<persName ref="#ch">Clarence</persName>
+                        went on—
+                        <said>
+                            <quote source="#shakespeare_richard_iii">
+                                <lg>
+                                    <l><said rendition="prequotes" xml:id="s001" next="#s002">Oh lord, methought what pain it was to dance!</said></l>
+                                    <l><said rendition="prequotes" xml:id="s002" next="#s003" prev="#s001">What dreadful noise of fiddles in my ears!</said></l>
+                                    <l><said rendition="prequotes" xml:id="s003" next="s#004" prev="#s002">What sight of of ugly <soCalled rend="italic">belles</soCalled> within my eyes!</said></l>
+                                    <l>—<said rendition="prequotes" xml:id="s004" next="s#005" prev="#s003">Then came wandering by,</said></l>
+                                    <l><said rendition="prequotes" xml:id="s005" next="s#006" prev="#s004">A shadow like a devil, with red hair,</said></l>
+                                    <l><said rendition="prequotes" xml:id="s006" next="s#007" prev="#s005">Dizen'd with flowers; and she bawl'd out aloud,</said></l>
+                                    <l><said rendition="quotes" xml:id="s007" prev="#s006"><persName ref="#ch">Clarence</persName> is come, false, fleeing, perjur'd <persName ref="#ch">Clarence</persName>!</said></l>
+                                </lg>   
+                            </quote>                            
+                        </said>
+                    </p>
+                    
+                    
+                    
+                    <p><said>O, <persName ref="#luttridge_0001">Mrs. Luttridge</persName> to the life!</said> cried
+                        <persName ref="#ld">lady Delacour</persName>, <said>I know where you have
+                        been now, and I pity you—But sit down,</said>
+                        said she, making room for him between 
+                        <persName ref="#belinda_portman_0001">Belinda</persName> and herself upon the sofa–<said>sit
+                        down here, and tell me what could take
+                        you to that odious <persName ref="#luttridge_0001">Mrs. Luttridge's</persName>.</said>
+                    </p>
+                    <p><persName ref="#ch">Mr. Hervey</persName> threw himself on the 
+                        sofa, <persName ref="#md">lord Delacour</persName> whistled as before,
+                        and left the room without uttering a syllable.                        
+                    </p>
+                    <p><said>But my dream has made me forget 
+                         myself strangely,</said> said <persName ref="#ch">Mr. Hervey</persName>, turning
+                         to <persName ref="#belinda_portman_0001">Belinda</persName>, and producing her bracelet,
+                        <said><persName ref="#ss">Mrs. Stanhope</persName> promised me, that if I
+                        delivered it safely, I should be rewarded 
+                        by the honour of putting it on the owner's 
+                        fair arm.</said> A conversation now took place
+                        on the nature of ladies' promises—on fashionable
+                        bracelets–on the size of the arm
+                        of the <name>Venus de Medicis</name>–on <persName ref="#ld">lady Delacour's</persName>
+                        and <persName ref="#belinda_portman_0001">miss Portman's</persName>—on the thick
+                        legs of ancient statues—and on the various
+                        defects and absurdities of <persName ref="#luttridge_0001">Mrs. Luttridge</persName>
+                        and her wig.—On all these topics <persName ref="#ch">Mr.
+                        Hervey</persName> displayed much wit, gallantry,
+                        and satire, with so happy an effect that
+                        <persName ref="#belinda_portman_0001">Belinda</persName>, when he took leave, was precisely
+                        
+                        
+                        of <rs type="person" ref="#ss">her aunt's</rs> opinion, that he was a most
+                        uncommonly pleasant young man.
+                    </p>
+                    <p><persName ref="#ch">Clarence Hervey</persName> might have been more
+                        than a pleasant young man, if he had not
+                        been smitten with the desire of being
+                        thought superior in every thing, and of
+                        beiing the most admired person in all companies.
+                        He had been early flattered with
+                        the idea that he was a man of genius; and
+                        he imagined, that, as such, he was entitled
+                        to be imprudent, wild, and eccentric. He
+                        affected singularity, in order to establish
+                        his claim to genius. He had considerable 
+                        literary talents, by which he weas distinguished
+                        at <placeName>Oxford</placeName>; but he was so
+                        dreadfully afraid of passing for a pedant,
+                        that when he came into the company of
+                        the idle and the ignorant, he pretended to
+                        disdain every species of knowledge. His
+                        <ecda:fauna>cameleon</ecda:fauna> character seemed to vary in different
+                        lights, and according to the different 
+                        situations, in which he happened to
+                        be placed. He could be all things to all
+                        men—and to all women—He was supposed
+                        to be a favourite with the fair sex;
+                        and of all his various excellences and defects,
+                        there were none, on which he valued
+                        himself so much as his gallantry. he
+                        was not profligate; he had a strong sense
+                        
+                        
+                        of honour, and quick feelings of humanity;
+                        but he was so easily led, or rather
+                        so easily excited by his companions, and
+                        his companions were now of such a sort,
+                        that it was probable he would soon become
+                        vicious. As to his connexion with <persName ref="#ld">lady
+                        Delacour</persName>, he would have started with
+                        horror at the idea of disturbing the peace
+                        of a family; but in her family, he said,
+                        there was not peace to disturb: he was
+                        vain of having it seen by the world, that
+                        he was distinguished by a lady of her wit
+                        and fashion, and he did not think it incumbent 
+                        on him to be more scrupulous or
+                        more attentive to appearance, than her
+                        ladyship. By <persName ref="#md">lord Delacour's</persName> jealousy
+                        he was sometimes provoked, sometimes 
+                        amused, and sometimes flattered. He was
+                        constantly of all her ladyship's parties, in
+                        public and private; consequently he saw
+                        <persName ref="#belinda_portman_0001">Belinda</persName> almost every day, and every day
+                        he saw her with increasing admiration of
+                        her beauty, and with increasing dread of
+                        being taken in, to marry a niece of <quote rend="quotes">the 
+                        <hi rend="italic">catch-match-maker</hi>;</quote> the name by which
+                        <persName ref="#ss">Mrs. Stanhope</persName> was known among the
+                        <rs type="persGroup">men</rs> of his acquaintance. Young ladies,
+                        who have the misfortune to be <emph>conducted</emph>
+                        by these artful dames, are always supposed
+                        
+                        
+                        
+                        to be partners in all the speculations,
+                        though their names may not appear in the
+                        firm. If he had not been prejudiced by
+                        the character of her aunt, <persName ref="#ch">Mr. Hervey</persName>
+                        would have thought <persName ref="#belinda_portman_0001">Belinda</persName> an undesigning
+                        unaffected girl; but now he suspected
+                        her of artifice in every word, look, and
+                        motion; and even when he felt himself
+                        most charmed by her powers of pleasing,
+                        he was most inclined to despise her, 
+                        for what he thought such premature
+                        proficiency in scientific coquetry. He
+                        had not sufficient resolution to keep beyond
+                        the sphere of her attraction; but
+                        frequently, when he found himself within
+                        it, he cursed his folly, and drew back
+                        with sudden terrour. His manner towards
+                        her was so variable and inconsistent, that
+                        she knew not how to interpret it's language.
+                        Sometimes she fancied, that with
+                        all the eloquence of eyes he said, <said><emph>I
+                       adore you</emph>, <persName ref="#belinda_portman_0001">Belinda</persName>;</said> at other times she
+                        imagined, that his guarded silence meant
+                        to warn her, that he was so entangled by
+                        <persName ref="#ld">lady Delacour</persName>, that he could not extricate
+                        himself from her snares. Whenever
+                        this last idea struck her, it excited, in the
+                        most edifying manner, her indignation 
+                        against coquetry in general, and against
+                        
+                        
+                        
+                        
+                        her ladyship's in particular: she became
+                        wonderfully clear-sighted to all the improprieties
+                        of her ladyship's conduct. <persName ref="#belinda_portman_0001">Belinda</persName>
+                        newly acquired moral sense was so 
+                        much shocked, that she actually wrote
+                        a full statement of her observations, and 
+                        her scruples to her<persName ref="#ss">aunt Stanhope</persName>, concluding 
+                        by a request, that she might not
+                        remain under the protection of a lady,
+                        whose character she could not approve,
+                        and whose intimacy might prehaps be
+                        injurious to her reputation, if not to her 
+                        principles.                        
+                    </p>
+                    <p><persName ref="#ss">Mrs. Stanhope</persName> answered <persName ref="#belinda_portman_0001">Belinda's</persName> letter
+                        in a very guarded style; she rebuked
+                        her niece very seveely for her imprudence in
+                        mentioning <emph>names</emph> in such a manner, in a
+                        letter sent by the common post; assured
+                        her that her reputation was in no danger;
+                        that she hoped no niece of hers would set
+                        up for a prude; a character more suspected
+                        by men of the world, than even
+                        that of a coquette; that the <rs type="person" ref="#ld">person</rs> alluded 
+                        to was a perfectly fit chaperon for
+                        any young lady to appear with in public,
+                        as long as she was visited by the first
+                        people in town; that as to any thing in
+                        the <emph>private</emph> conduct of that person, and
+                        as to any <emph>private</emph> <foreign xml:lang="fr">brouillieries</foreign> between her
+                        
+                        
+                        and her lord, <persName ref="#belinda_portman_0001">Belinda</persName> should observe,
+                        on these dangerous topics, a profound silence,
+                        both in her letters and her conversation;
+                        tht as long as the lady continued under
+                        the protection of <rs type="person" ref="#md">her husband</rs>, the world
+                        might whisper, but would not speak out;
+                        that as to <persName ref="#belinda_portman_0001">Belinda's</persName> own principles,
+                        she would be utterly inexcusable, if, after 
+                        the education she had received, they
+                        could be hurt by any bad examples; that
+                        she could not be too cautious in her management 
+                        of a man of <rs ref="#ch" type="person">―'s</rs> character;
+                        that she could have no <emph>serious</emph> cause
+                        for jealousy in the quarter she apprehended,
+                        as marriage there could not be 
+                        the object; and there was such a difference
+                        of age, that no permanent influence
+                        could probably be oobtained by the lady;
+                        that the most certain method for <persName ref="#belinda_portman_0001">miss
+                        Portman</persName> to expose herself to the ridicule 
+                        of one of the parties, and to the total
+                        neglect of the other, would be to betray
+                        anxiety or jealousy: that, in short, if she
+                        were fool enough to lose her own heart,
+                        there would be little chance of her being
+                        wise enough to win that of <rs ref="#ch" type="person">―</rs>, who
+                        was evidently a man of gallantry rather 
+                        than that of sentiment, and who was known to
+                        
+                        
+                        
+                        play his cards well, and to have good
+                        luck, whenever <emph>hearts</emph> were trumps.                        
+                    </p>
+                    <p><persName ref="#belinda_portman_0001">Belinda's</persName> fears of <persName ref="#ld">lady Delacour</persName>, as a
+                        dangerous rival, were much quieted by
+                        the artful insinuations of <persName ref="#ss">Mrs. Stanhope</persName>,
+                        with respect to her age, &amp;c. and in proportion
+                        as her fears subsided, she blamed
+                        herself for having written too harshly
+                        of her ladyship's conduct. The idea that
+                        whilst she appeared as <persName ref="#ld">lady Delacour's</persName> 
+                        friend, she ought not to propogate any
+                        stories to her disadvantage, operated powerfully
+                        upon <persName ref="#belinda_portman_0001">Belinda's</persName> mind, and she reproached
+                        herself for having told, even her 
+                        aunt, what she had seen in private. She
+                        thought that she had been guilty of treachery,
+                        and she wrote again immediately to
+                        <persName ref="#ss">Mrs. Stanhope</persName>, to conjure her to burn her
+                        last letter, to forget, if possible, it's contents,
+                        and to believe, that not a syllable of
+                        a similar nature should ever more be heard 
+                        from her; she was just concluding with
+                        the words—<quote rend="quotes">I hope my dear aunt will
+                        consider all this as an errour of my judgement,
+                        and not of my heart,</quote>—when <persName ref="#ld">lady
+                        Delacour</persName> burst into the room, exclaiming,
+                        in a tone of gayety—<said>Tragedy or comedy,
+                        <persName ref="#belinda_portman_0001">Belinda</persName>? The masquerade dresses are
+                        
+                        
+                        
+                        come. But how's this?</said> added she, looking
+                        full in <persName ref="#belinda_portman_0001">Belinda's</persName> face—<said>tears in the
+                        eyes! blushes in the cheeks! tremors in 
+                        the joints! and letters shuffling away!
+                        But you novice of novices, how awkwardly 
+                        shuffled!—A niece of <persName ref="#ss">Mrs. Stanhope's</persName>,
+                        and so unpractised a shuffler!—And is it
+                        credible she should tremble in this ridiculous 
+                        way about a love letter or two?</said>                        
+                    </p>
+                    <p><said>No love letters, indeed, <persName ref="#ld">lady Delacour,</persName></said>
+                        said <persName ref="#belinda_portman_0001">Belinda</persName>, holding the paper
+                        fast, as her ladyship, half in play half in 
+                        earnest attempted to snatch it from her.                       
+                    </p>
+                    <p><said>No love letters! then it must be treason,
+                    and I see it must, by all that's good,
+                    or by all that's bad—I see the name of
+                    <name>Delacour</name>!</said>—and <rs ref="#ld" type="person">her ladyship</rs> absolutely
+                    seized the letters by force, in spite of all 
+                    <persName ref="#belinda_portman_0001">Belinda's</persName> struggles and entreaties.                        
+                    </p>
+                   <p><said>I beg, I request, I conjure you not 
+                   to read it!</said> cried <persName ref="#belinda_portman_0001">miss Portman</persName>, clasping
+                   her hands. <said>Read mine, read mine, if 
+                   you <emph>must</emph>, but don't read my <persName ref="#ss">aunt Stanhope's</persName>—
+                   Oh! I beg, I intreat, I conjure
+                   you!</said> and she threw herself upon her
+                   knees.                       
+                   </p> 
+                  <p><said>You beg! you intreat! you conjure!
+                      Why, this is like the <persName ref="#madame_de_brinvilliers_1630">duchess de Brinvil-
+                  
+                  
+                  liers</persName>, who wrote on her paper of poisons,
+                  <quote>Whoever finds this, I entreat, I conjure
+                  them, in the name of more saints than
+                  I can remember, not to open the paper
+                  any farther.</quote>—What a simpleton, to know
+                  so little of the nature of curiosity!</said>                      
+                  </p>  
+             <p>As she spoke, <persName ref="#ld">lady Delacour</persName> opened
+             <persName ref="#ss">Mrs. Stanhope's</persName> letter, read it from beginning
+              to end, folded it up cooly when
+              she had finished it, and simply said <said>the
+              <quote rend="italic">person alluded to</quote> is almost as bad as <sic>her</sic>
+              name at full length: does <persName ref="#ss">Mrs. Stanhope</persName>
+              think no one can make out an inuendo in
+              a libel, or fill up a blank, but an attorney
+              general?</said> pointing to a blank in <persName ref="#ss">Mrs. Stanhope's</persName>
+              letter, left for the name of <persName ref="#ch">Clarence 
+              Hervey</persName>.           
+            </p> 
+           <p><persName ref="#belinda_portman_0001">Belinda</persName> was in too much confusion,
+               either to speak or think.                
+            </p>
+           <p><said>You were right to swear they were
+           not love-letters,</said> pursued <rs type="person" ref="#ld">her ladyship</rs>,
+           laying down the papers. <said>I protest I
+           snatched them by way of frolick—I beg
+           pardon. All I can do now is not to read 
+           the rest.</said>               
+         </p>
+         <p><said>Nay—I beg—I wish—I insist upon
+         your reading mine,</said> said <persName ref="#belinda_portman_0001">Belinda</persName>             
+         </p>           
+        <p>When <persName ref="#ld">lady Delacour</persName> had read it, her
+            
+         countenance suddenly changed—<said>Worth
+         a hundred of your <rs type="person" ref="#ss">aunt's</rs>, I delcare,</said> said
+         she, patting <persName ref="#belinda_portman_0001">Belinda's</persName> cheek. <said>What a
+         treasure, to meet with any thing like a <emph>new</emph> 
+         heart—all hearts, nowadays, are second-
+         hand at best.</said>           
+        </p>
+        <p><persName ref="#ld">Lady Delacour</persName> spoke with a tone of
+           feeling which <persName ref="#belinda_portman_0001">Belinda</persName> had never heard
+            from her before, and which at this moment
+            touched her so much, that she took
+            her ladyship's hand and kissed it.             
+        </p>           
+        </div>
                 
-                <p>Some text here.</p>
+                
+                
+                
+         <div type="chapter"><head><label>Chapter II</label>.
+         Masks.</head>
+           <p><said><hi rend="smallcaps">Where</hi> were we when all this began?</said>
+            cried <persName ref="#ld">Lady Delacour</persName>, forcing herself
+            to resume an air of gayety—<said>Oh,
+            masquerade was the order of the day—
+            tragedy or comedy? which suits your genius 
+            best, my dear?</said>
+           </p>  
+           <p><said>Whichever suits your ladyship's taste
+           least.</said>               
+           </p>  
+            <p><said>Why, my woman, <persName ref="#marriott_0001">Marriott</persName>, says, I
+            ought to be tragedy; and, upon the notion
+            that people always succeed best when they
+            take characters diametrically opposite to
+            their own—<persName ref="#ch">Clarence Hervey's</persName> principle—
+            Perhaps you don't think that he has any 
+            principles; but there you are wrong; I do
+            assure you, he has sound principles—of
+            taste.</said>
+           </p> 
+          <p><said>Of that,</said> said <persName ref="#belinda_portman_0001">Belinda</persName>, with a constrained
+           smile, <said>he gives the most con-
+           
+           
+           
+           vincing proof, by his admiring your ladyship
+           so much.</said>               
+           </p>
+           <p><said>And by his admiring <persName ref="#bp">miss Portman</persName> 
+           so much more. But whilst we are making 
+           speeches to one another, poor <persName ref="#marriott">Marriott</persName> is
+           standing in distress like <persName ref="#david_garrick_1717">Garrick</persName>, between
+           tragedy and comedy.</said>               
+           </p>  
+          <p><persName ref="#ld">Lady Delacour</persName> opened her dressing-
+              room door, and pointed to her as she stood
+              with the dress of the comic muse on one
+              arm, and the tragic muse on the other.              
+          </p> 
+          <p><said>I am afraid I have not spirits enough 
+          to undertake the comic muse,</said> said <persName ref="#bp">miss
+          Portman</persName>.              
+          </p>
+         <p><persName ref="#marriott_0001">Marriott</persName>, who was a personage of prodigious 
+           consequence, and the judge in the
+           last resort at her <rs type="person" ref="#ld">mistress's</rs> toilette, looked
+           extremely out of humour at having been 
+           kept waiting so long; and yet more so at
+           the idea that her apellant jurisdiction
+           could be disputed.             
+         </p> 
+        <p><said>Your ladyship's taller than <persName ref="#bp">miss Portman</persName>
+        by half a head,</said> said <persName ref="#marriott_0001"></persName>, <said>and
+        to be sure it will best become tragedy, with
+        this long train; besides, I'd settled all the 
+        rest of your ladyship's dress. Tragedy,
+        they say, is always tall, and, no offence,
+        
+        
+        your ladyship's taller than <persName ref="#bp">miss Portman</persName>
+        by half a head.</said>            
+        </p> 
+       <p><said>For head read inch,</said> said <persName ref="#ld">lady Delacour</persName>,
+          <said>if you please.</said>           
+       </p> 
+       <p><said>When things are settled, one can't
+       bear to have them unsettled—but your 
+       ladyship must have your own way, to be
+       sure—I'll say no more,</said> cried she, throwing
+       down the dresses.           
+       </p>
+       <p><said>Stay, <persName ref="#m">Marriott</persName>,</said> said <persName ref="#ld">lady Delacour</persName>,
+           and she placed herslef between the angry
+           waiting-maid and the door.           
+       </p>
+       <p><said>Why will you, who are the best creature
+       in the world, put yourself into these
+       <emph>furies</emph> about nothing—have patience with
+       us, and you shall be satisfied.</said>           
+       </p>   
+       <p><said>That's another affair,</said> said <persName ref="#m">Marriott</persName>.           
+       </p> 
+       <p><said><persName ref="bp">Miss Portman</persName>,</said> continued <rs type="person" ref="#ld">her ladyship</rs>, 
+           <said>don't talk of not having spirits—
+           you that are all life!—What say you,
+           <persName ref="#bp">Belinda</persName>?—O yes, you must be the comic
+           muse; and I, it seems, must be tragedy,
+           because <persName ref="#m">Marriott</persName> has a passion for seeing
+           me <quote source="#milton_penseroso">come sweeping by.</quote> And because
+           <persName ref="#m">Marriott</persName> must have her own way in every
+           thing—she rules me with a rod of iron,
+           
+           
+           my dear—so tragedy I needs must be—
+           <emph><persName ref="#m">Marriott</persName> knows her power</emph>.</said>           
+       </p>
+       <p>There was an air of extreme vexation
+           in <persName ref="#ld">lady Delacour's</persName> countenance, as she
+           pronounced these last words, in which evidently
+           more was meant than meat the ear.
+           Upon many occasions <persName ref="#bp">miss Portman</persName> had
+           observed, that <persName ref="#m">Marriott</persName> exercised despotic
+           authority over her mistress; and she had
+           seen, with surprise, that a lady, who would
+           not yield an iota of power to her <rs ref="#md" type="person">her husband</rs>,
+           submitted herself to every caprice of the
+           most insolent of waiting-women. For some
+           time <persName ref="#bp">Belinda</persName> imagined that this submission
+           was merely an air, as she had seen
+           <rs type="persGroup">some other fine ladies</rs> proud of appearing
+           to be goverened by a favourite maid; but 
+           she was soon convinced that <persName ref="#m">Marriott</persName>
+           was in possession of some secret, which
+           should for ever remain unknown. This
+           idea had occurred to <persName ref="#bp">miss Portman</persName> more
+           than once; but never so forcibly as upon
+           
+           
+           
+           the present occasion. There had always
+           been some mystery about her ladyship's
+           toilette; at certain hours doors were bolted,
+           and it was impossible for any body but
+           <persName ref="#m">Marriott</persName> to obtain admission. <persName ref="#bp">Miss Portman</persName>
+           at first imagined that <persName ref="#ld">lady Delacour</persName>
+           dreaded the discovery of her cosmetic secrets,
+           but her ladyship's rogue was so glaring,
+           and her pearl powder was so obvious,
+           that <persName ref="#bp">Belinda</persName> was convinced there must be
+           some other cause for this toilette secresy.
+           There was a little cabinet beyond her bedchamber,
+           which <persName ref="#ld">lady Delacour</persName> called her
+           boudoir, to which there was an entrance by
+           a back stair-case; but no one ever entered
+           there but <persName ref="#m">Marriott</persName>. One night, <persName ref="#ld">lady Delacour</persName>, 
+           after dancing with great spirit at a
+           ball, at her own house, fainted suddenly:
+           <persName ref="#bp">miss Portman</persName> attended her to her bed-
+           chamber, but <persName ref="#m">Marriott</persName> begged that her lady
+           might be left alone with <emph>her</emph>, and she would
+           by no means <persName ref="#bp">Belinda</persName> to follow her
+           into the boudoir.—All these things <persName ref="#bp">Belinda</persName>
+           recollected in the space of a few seconds
+           as she stood contemplating <persName ref="#m">Marriott</persName> and
+           the dresses. The hurry of getting ready
+           for the masquerade, however, dispelled
+           these thoughts, and by the time she was
+           
+           
+           dressed, the idea of what <persName ref="#ch">Clarence Hervey</persName>
+           would think of her appearance was uppermost
+           in her mind. She was anxious to
+           know, whether he would discover her in
+           the character of the comic muse. <persName ref="#ld">Lady
+           Delacour</persName> was discontented with her tragic
+           attire, and she grew still moure out of humour
+           with herself, when she saw <persName ref="#bp">Belinda</persName>.           
+       </p> 
+       <p><said>I protest <persName ref="#m">Marriott</persName> has made a perfect
+       fight of me,</said> said <rs type="person" ref="#ld">her ladyship</rs>, as she
+       got into her carriage, <said>and I'm positive
+       my dress would become you a million of
+       times better than your own.</said>           
+       </p>
+       <p><persName ref="#bp">Miss Portman</persName> regretted that it was too
+       late to change.</p>
+        <p><said>Not at all too late, my dear,</said> said
+         <persName ref="#ld">lady Delacour</persName>; <said>never too late for women
+         to change their minds, their dress, or their
+         lovers. Seriously, you know, we are to
+         call at my friend <persName ref="#singleton_0001">lady Singleton's</persName>—she sees
+         masks too night—I'm quite intimate there;
+         I'll make her let me ste up to her own 
+         room, where no soul can interrupt us, and
+         there we can change our dresses, and <persName ref="#m">Marriott</persName>
+         will know nothing of the matter.
+         <persName ref="#m">Marriott's</persName> a faithful creature; and very
+         fond of me; fond of power too—but who
+         is not?—we must all hae our faults—one
+         
+         
+         would not quarrel with such a good creature
+         as <persName ref="#m">Marriott</persName> for a trifle.</said> Then suddenly
+         changing her tone, she said <said>not a
+         human being will find us out at the masquerade;
+         for no one but <persName ref="#harriot_freke_0001">Mrs Freke</persName> knows 
+         that we are two muses. <persName ref="#ch">Clarence Hervey</persName> 
+         swears he should know me in any disguise
+         —but I defy him—I shall take special delight
+         in puzzling him. <persName ref="#harriot_freke_0001">Harriot Freke</persName> has
+         told him, in confidence, that I'm to be the
+         <persName ref="#widow_brady_0001">widow Brady</persName>, in man's clothes; now that's 
+         to be <persName ref="#harriot_freke_0001">Harriot's</persName> own character, so <persName ref="#ch">Hervey</persName>
+         will make fine confusion.</said>
+            
+        </p>   
+           
+         </div>
+            
+                
             </div>
             
         </body>
