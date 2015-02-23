@@ -2588,7 +2588,7 @@
              you think I've been?</said> said <persName ref="#harriot_freke_0001">Harriot</persName>, <said>in 
              the gallery of the <orgName>House of Commons</orgName>;
              almost squeezed to death these four hours;
-             but I swore I'd hear <persName>Sheridan's</persName> speech
+             but I swore I'd hear <persName ref="#richard_sheridan_1751">Sheridan's</persName> speech
              to-night, and I did—Betted fifty guineas
              I would, with <persName ref="#luttridge_0001">Mrs. Luttridge</persName>, and ahve
              wone.—Fun and <name>Freke</name> for ever, huzza!</said>
@@ -2644,12 +2644,14 @@
          not come yet to the tragical part of my
          story, and as long as I can laugh, I will.
          —As the <ecda:anonPers>old woman</ecda:anonPers> and her miserable
-         light went on before us, I could almost have thought of <persName>sir Bertrand</persName>, or of
+         light went on before us, I could almost have thought of <persName ref="#bertrand_0001">sir Bertrand</persName>, or of
          some German <emph>horrifications</emph>, but I heard
          <persName ref="#lawless_0001">Lawless</persName>, who never could help laughing
          at the wrong time, bursting behind me,
          with a sense of his own superiority.</said>
-         <said xml:id="s004" prev="#s003"><p><said>Now you will learn your destiny,</said>
+         </p>     
+         <said xml:id="s004" prev="#s003" next="#s005">
+         <p><said>Now you will learn your destiny,</said>
           <persName ref="#ld">lady Delacour</persName> said <persName ref="#hf">Harriot</persName>, in a solemn
           tone.              
          </p>
@@ -2742,30 +2744,434 @@
          —There was a tone of contempt in the
          last words, which piqued me to the quick;
          and, however strange it may seem, I was
-         now anxious to convince <persName ref="#hf">Harriot</persName>
+         now anxious to convince <persName ref="#hf">Harriot</persName> that
+         I was not afraid of myself—False shame
+         made me act, as if I had no shame—You
+         would not suspect me of knowing any
+         thing of false shame, but depend upon it,
+         my dear, many, who appear to have as
+         much assurance as I have, are secretly it's
+         slaves.—I moralize, because I am come to
+         a part of my story, which I should almost
+         be glad to omit—but I promised you, that
+         there should be no sinse of omission. It
+         was light, but not broad daylight, when
+         we got to <placeName>Knightsbridge</placeName>. <persName ref="#lawless_0001">Lawless</persName> encouraged,
+         for I cannot deny it, by the 
+         levity of my manner, was in higher and more familiar
+         spirits than I ever saw him.—<persName ref="#hf">Mrs. Freke</persName>
+         desired me to set her down at her <ecda:anonPers>sister's</ecda:anonPers>   
+         who lived in <placeName>Grosvenor Place</placeName>.—I did so,
+         and I beg you to believe, that I was in an
+         agony to get rid of my colonel at the 
+         same time; but you know, I could not,
+         before <persName ref="#hf">Harriot Freke</persName>, absolutely say to
+         him—<said>Get out!</said>—Indeed, to tell things
              
+             
+         as they were, it was scarcely possible to
+         guess by my manner, that I was under
+         any anxiety—I acted my part so well, or
+         so ill.—As <persName ref="#hf">Harriot Freke</persName> jumped out of
+         the coach, a <ecda:fauna>cock</ecda:fauna> crowed in the area of
+         her <ecda:anonPers>sister's</ecda:anonPers> house, <said>There!</said> cried <persName ref="#hf">Harriot</persName>,
+         <said>do you hear the <ecda:fauna>cock</ecda:fauna> crow, <persName ref="#ld">lady Delacour?</persName>—</said>
+         <said>Now it's to be hoped your fear
+         of goblins is over—else I would not be
+         so cruel, as to leave the pretty dear all
+         alone.</said>—<said>All alone,</said> answered I—<said>your
+         friend the colonel is much obliged to you
+         for making nobody of him.</said>—<said>My friend
+         the cololnel,</said> whispered <persName ref="#hf">Harriot</persName>, leaning
+         with her bold masculine arms folded upon
+         the coach door—<said>My friend the colonel is
+         much obliged to me, I'm sure, for remembering  
+         what the cunning, or the knowing
+         woman told us just now, that you and he are
+         —or are to be—one and the same person.
+         So when I said I left you alone, I
+         was not guilty of a bull, was I?</said>—I had
+         the grace to be heartily ashamed of this
+         speech, and called out in utter confusion
+         —<said>to <placeName>Berkeley Square</placeName>.―But where shall 
+         I set you down, colonel<sic>!</sic>—<persName ref="#hf">Harriot</persName>, good
+         morning—don't forget you are in man's 
+         clothes.</said>—I did not dare to repeat the 
+             
+             
+         question of <said>where shall I set you down,
+         colonel?</said> at this instant, because <persName ref="#hf">Harriot</persName>
+         gave me such an arch sneering look, as
+         much as to say—still afraid of yourself!—
+         We drove on—I'm persuaded that the 
+         confusion which, in spite of all my efforts,
+         broke through my affected levity, encourated 
+         <persName ref="#lawless_0001">Lawless</persName>, who was natrually a coxcomb
+         and a fool, to believe that I was
+         actually his—else he never could have
+         been so insolent.—In short, my dearh, before
+         we had got through the turnpike gate,
+         I was downright obliged to say to him—
+         <said>Get out!</said>—which I did with a degree 
+         of indignation, that quite astonished him.
+         —He muttered something about ladies
+         knowing their minds—and I own, though
+         I went off with flying colours, I secretly
+         blamed myself as much as I did him, and 
+         I blamed <persName ref="#hf">Harriot</persName> more than I did either.
+         —I sent for her the next day as soon as I 
+         could, to consult her. She expressed such
+         astonishment, and so much concern, at 
+         this catastrophe of our night's frolic, and
+         blamed herself with so many oaths, and
+         execrated <persName ref="#lawless_0001">Lawless</persName> for a coxcomb so much
+         to the ease and satisfaction of my conscience,
+         that I was confirmed in my good
+         
+         
+         opinion of her, and indeed felt for her the
+         most lively affection and esteem—for observe,
+         with me esteem ever followed affection,
+         instead of affection following esteem.
+         —Wo be to all, who in morals preposterously
+         put the cart before the <ecda:fauna>horse</ecda:fauna>!—But
+         to proceed with my history—all fashionable
+         historians stop to make reflections,
+         supposing that no one else can have the 
+         sense to make any. My <emph>esteemed</emph> friend
+         agreed with me, that it would be best for 
+         all parties concerned to hush up this business;
+         that as <persName ref="#lawless_0001">Lawless</persName> was going out of
+         town in a few days, to be elected for a
+         borough, we should get rid of im in the
+         best way possible, without <quote>more last
+         words</quote>—that he had been punished sufficiently
+         on the spot, and that to punish
+         twice for the same offence, once in private
+         and once in public, would be contrary to
+         the laws of <name>Englishmen</name> and <name>Englishwomen</name>,
+         and in my case would be contrary to
+         the evident dictates of prudence—because
+         I could not complain, without calling up
+         <persName ref="#md">lord Delacour</persName> to call <persName ref="#lawless_0001">Lawless</persName> out—This
+         I could not do without acknowledging
+         that his lordship had been in the right,
+         in warning me about his <quote rend="italic">honour and my
+         
+         
+         
+         own</quote>, which old phrase I dreaded to hear
+         for the ninety-ninth time; besides, <persName ref="#md">lord
+         Delacour</persName> was the last man in the world
+         I should have chosen for my knight—
+         though unluckily he was my lord—Besides,
+         all things considered, I thought the
+         whole story might not tell so well in the 
+         world for me, tell it which way I would
+         —We therefore agreed, that it would be
+         most expedient to hold our tongues. We 
+         took it for granted, that <persName ref="#lawless_0001">Lawless</persName> would
+         hold his, and as for my people, they knew
+         nothing, I thought, or if they did, I was
+         sure of them. How the thing got abroad,
+         I could not at the time conceive, though
+         now I am well acquainted with the baseness
+         and treachery of the woman I called
+         my friend.—The letter was known and
+         talked of every where the next day, and
+         the story was told especially at the odious
+         <persName ref="#luttridge_0001">Mrs. Luttridge's</persName>, with such exaggerations
+         as drove me almost mad.—I was
+         enraged, inconceivably enraged with <persName ref="#lawless_0001">Lawless</persName>,
+         from whom I imagined the reports originated.
          </p>
+         </said>        
+         <p><said xml:id="s005" prev="#s004">I was venting my indignation against
+          him in a room full of company, where I 
+          had must made my story good, when a
+          
+          
+          
+          <ecda:anonPers>gentleman</ecda:anonPers>, to whom I was a stranger,
+           came in breathless, with the news that
+           <persName ref="#lawless_0001">colonel Lawless</persName> was killed in a duel by
+           <persName ref="#md">lord Delacour</persName>—that they were carrying
+           him home to his <rs type="person" ref="#lawless_0002">mother's</rs>, and that the
+           body was just going by the door.—The
+           <rs type="persGroup">company</rs> all crowded to the windows
+           immediately, and I was left standing
+           alone, till I could stand no longer.—What 
+           was said or done after this, I do not remember
+           —I only know, that when I came
+           to myself, the most dreadful sensation I
+           ever experienced was, the  certainty that 
+           I had the blood of a fellow creature to
+           answer for—I wonder,</said> said <persName ref="#ld">lady Delacour</persName>,
+           breaking off at this part of her history, 
+           and rising suddenly,—<seg ana="#medical"><said>I wonder
+           what is become of <sic><persName ref="#m">Marriot</persName></sic>?—surely it is
+           time for me to have my drops.—<persName ref="#bp">Miss
+           Portman</persName>, have the goodness to ring, for I
+           <emph>must</emph> have something immediately.</said>—<persName ref="#bp">Belinda</persName>
+            was terrified at the wildness of her
+           manner.—<persName ref="#ld">Lady Delacour</persName> became more
+           composed, or put more constraint upon
+           herself, at the sight of <persName ref="#m">Marriott</persName>—<persName ref="#m">Marriott</persName>
+           brought from the closet in her lady's room
+           the drops, which <persName ref="#ld">lady Delacour</persName> swallowed 
+           with precipitation.</seg>—Then she ordered
+           
+           
+           <ecda:food>coffee</ecda:food>, and afterward <ecda:food>chasse-café</ecda:food>, and at
+           last, turning to <persName ref="#bp">Belinda</persName>, with a forced
+           smile, she said—
+          </p>   
+           <p><said>Now shall the <persName ref="#scheherazade_0001">princess Scheherazade</persName>
+           go on with her story?</said>     
+           </p>     
+         </div>  
+              
+              
+              
+       <div type="chapter">
+           <head><label>Chapter IV</label>.
+               <persName ref="#ld">Lady Delacour's</persName> History
+               Continued.</head>    
+          <said><p>I left off with the true skill of a
+           good story-teller, at the most interesting
+           part—a duel—and yet, duels are so common
+           now, that they are really vulgar incidents.              
+          </p>
+          <p>But we think that a duel concerning
+           ourselves must be more extraordinary 
+           than any other. We hear of men being
+           shot in duels about nothing every day,
+           so it is really a weakness in me to think
+           so much about poor <persName ref="#lawless_0001">Lawless's</persName> death, as
+           <persName ref="#hf">Harriot Freke</persName> said to me at the time.—
+           She expected to see me show sorrow in
+           <emph>public</emph>—but very fortunately for me, she
+           roused my pride—which was always 
+           stronger than my reason; and I behaved
+           myself upon the occasion as became a fine
+           lady.—There were some things, however,
+           
+           
+           I could hardly stand.—You must know
+           that <persName ref="#lawless_0001">Lawless</persName>, fool and coxcomb as he
+           was, had some magnanimity, and showed
+           it—as some people do from whom it is
+           least expected—on his deathbed. The
+           last words he said, were <said><persName ref="#ld">lady Delacour</persName>
+           is innocent—I charge you don't prosecute
+           <persName ref="#md">lord Delacour</persName>.</said>—This he said to his mother
+            —who—to complete my misery—is
+            one of the most respectable women in
+            <placeName>England</placeName>, and was most desperately fond
+            of <persName ref="#lawless_0001">Lawless</persName>, who was an only son.—She
+            never has recovered his loss.—Do you
+            remember asking me who a tall elderly
+            lady in mourning was, that you saw getting 
+            into her carriage one day, at <placeName><placeName>South-
+            Audley-street</placeName> chapel</placeName>, as we passed by in
+            our way to the park?—That was <persName ref="#lawless_0002">lady
+            Lawless</persName>—I believe I didn't answer you
+            at the time.—I meet her every now and
+            then—to me a spectre of dismay.—But
+            as <persName ref="#hf">Harriot Freke</persName> said, certainly such a
+            man as poor <persName ref="#lawless_0001">Lawless</persName> was a useless being
+            in society, however he may be regretted
+            by a doating mother.—We should see
+            things in a philosophical light if we can.—
+            I should not have suffered half as much as
+            I did, if he had been a man of a stronger
+            
+            
+            
+            understanding; but he was a poor, vain,
+            weak creature, that I actually drew on
+            and duped with my own coquetry, whilst
+            all the time I was endeavouring only to
+            plague <persName ref="#md">lord Delacour</persName>.—I was punished
+            enough by the airs his lordship doubly 
+            gave himself, upon the strength of his
+            valour and his judgment—they roused me
+            completely—and I blamed him with all
+            my might, and got an enormous party of
+            <rs type="persGroup">my friends</rs>, I mean my acquaintance,
+            to run him down full cry, for having
+            fought for me—It was absurd—It was
+            rash—It was want of proper confidence
+            in his wife; <mcr rend="italic">thus we</mcr> said:—<persName ref="#md">lord
+            Delacour</persName> had his partizans, it was true,
+            amongst whom the loudest was the odious
+            <persName ref="#luttridge_0001">Mrs. Luttridge</persName>. I embraced the first opportunity
+            I met with of retaliation.—You
+            must know that <persName ref="#luttridge_0001">Mrs. Luttridge</persName>, beside
+            being a great faro-player, was a great
+            dabbler in politics; for she was almost as
+            fond of power as of money: she talked
+            loud and fluently, and ahd, somehow or
+            other, partly by intriguing, partly by relationship,
+            connected herself with <rs type="persGroup">some of
+            the leading men in <orgName>parliament</orgName></rs>.—There 
+            was to be a contested election in our our 
+            
+            
+            county; <persName ref="#luttridge_0002">Mr. Luttridge</persName> had a good estate
+            there next to <placeName ref="#md">lord Delacour's</placeName>, and being
+            of an ancient family, and keeping a good
+            table, the <name>Luttridges</name> were popular enough.
+            —At the first news of an election, out
+            comes a flaming advertisement from <persName ref="#luttridge_0002">Mr.
+            Luttridge</persName>; away posted <persName ref="#luttridge_0001">Mrs. Luttridge</persName>
+            to begin her canvas, and away posted
+            <persName ref="#ld">lady Delacour</persName> after her, to canvas for a
+            <ecda:anonPers>cousin of <persName ref="#hf">Harriot Freke's</persName></ecda:anonPers>—This was a
+            new scene for me; but I piqued myself
+            on the versatility of my talents, and I laid
+            myself out to please all the squires, and, 
+            what was more difficult, all the squires'
+            ladies in <placeName>*****shire</placeName>. I was ambitious to
+            have it said of me, <said>that I was the finest
+            figure that ever appeared upon a canvass.</said>
+            —O ye <name>*****shireians</name>, how hard did I
+            work to obtrain your praise!—All that the
+            combined force of vanity and hatred could
+            inspire, I performed, and with success.
+            You have but little curiosity, I presume,
+            to know how many <measure>hogsheads</measure> of <ecda:food ana="#commodity">port</ecda:food>
+            went down the throat of <persName ref="#john_bull_1712">John Bull</persName>, or
+            how many <ecda:food ana="#fauna">hacatombs</ecda:food> were offered up to
+            the genius of <rs type="properAdjective">English</rs> liberty. My hatred
+            to <persName ref="#luttridge_0001">Mrs. Luttridge</persName> was, of course, 
+            called love of my country, <persName ref="#ld">Lady Dela-
+            
+            
+            
+            cour</persName> was deified by all <emph>true</emph> patriots—and,
+            luckily, a handsome legacy left me for my
+            spirit, by an <ecda:anonPers>uncle</ecda:anonPers> who died six weeks
+            before the election, enabled us to sustain
+            the expence of my apotheosis.—The day
+            of election came—<persName ref="#hf">Harriot Freke</persName> and I
+            made our appearance on the hustings,
+            dressed in splendid party uniforms; and
+            before us, our knights and squires held
+            <ecda:commodity ana="#textile">two enormous panniers full of ribands and
+            cockades</ecda:commodity>; which we distributed with a
+            grace that won all hearts, if not all votes.
+            —<persName ref="#luttridge_0001">Mrs. Luttridge</persName> thought the panniers
+            would carry the election; and forthwith
+            she sent off an express for a pair of pannier
+            twice as large as ours. I took out
+            my pencil, and drew a caricature of <quote>the <ecda:fauna>ass</ecda:fauna> 
+            and her panniers</quote>: wrote an epigram at
+            the bottom of it; and the epigram and
+            the caricature were soon in the hands of
+            half <placeName>*****shire</placeName>. The verses were as bad
+            as impromptus usually are, and the drawing
+            was not much better than the writing,
+            but the <emph>good will</emph> of the critics supplied
+            all my deficiencies; and never was more
+            praise bestowed upon the pen of <persName ref="#edmund_burke_1729">Burke</persName>,
+            or the pencil of <persName ref="#joshua_reynolds_1723">Reynolds</persName>, than was lavished
+            upon me by my honest friends. 
+            
+            
+            
+            
+            —My dear <persName ref="#bp">Belinda</persName>, if you will not
+             quarrel with the quality, you may have
+             what quantity of praise you please.—
+             <persName ref="#luttridge_0001">Mrs. Luttridge</persName>, as I hoped and expected,
+             was beyond measure enraged at the
+             sight of the caricature and epigram.—
+             She was, besides being a gamester and
+             a politician—what do you think?—an
+             excellent shot!—She wished, she said, to
+             be a man, that she might be qualified to
+             take proper notice of my conduct.—The
+             same kind friends who shewed her my 
+             epigram, repeated to me her observation
+             upon it. <persName ref="#hf">Harriot Freke</persName> was at my elbow,
+             and offered to take any <emph>message</emph> I might
+             think proper to <persName ref="#luttridge_0001">Mrs. Luttridge</persName>. I scarcely
+             thought her in earnest, till she added,
+             that the only way left, now-a-days, for a
+             woman to distinguish herself, was by
+             spirit; as every thing else was grown
+             <said>cheap and vulgar in the eyes of men</said>—
+             That she knew <ecda:anonPers>one of the cleverest young
+             men</ecda:anonPers> in <placeName>England</placeName>, and a man of fashion
+             into the bargin, who was just going to
+             publish a treatise <title>upon the Propriety
+             and Necessity of Female Duelling</title>; and
+             that he had demonstrated beyond a possibility
+             of doubt, that civilized society could
              
              
-         </said>    
+             
+             not exist half a century longer without
+             this necessary improvement. I had prodigious 
+             deference for the masculine superiority,
+             as I thought it, of <persName ref="#hf">Harriot's</persName> understanding.
+             She was a philosopher, and
+             a fine lady—I was only a fine lady—I had
+             never fired a pistol in my life; and I was
+             a little inclined to cowardice; but <persName ref="#hf">Harriot</persName> 
+             offered to bet any wager upon the
+             steadiness of my hand, and assured me
+             that I should charm all beholder in male
+             attire—In short, as my second, if I would
+             furnish her with proper credentials, she
+             swore she would undertake to furnish me
+             with clothes, and pistols, and courage, and
+             every thing I wanted.—I sat down to pen
+             my challenge. When I was writing it,
+             my hand did not tremble <emph>much</emph>—not more
+             than my <persName ref="#md">lord Delacour's</persName> always does.
+             The challenge was very prettily worded—
+             I believe I can repeat it.           
+          </p>    
+          <p><quote rend="quotes"><persName ref="#ld">Lady Delacour</persName> presents her compliments
+             to <persName ref="#luttridge_0001">Mrs. Luttridge</persName>—she is informed
+             that <persName ref="#luttridge_0001">Mrs. L―</persName> wishes she were a man,
+             that she might be qualified to take <emph>proper</emph>
+             notice of <persName ref="#ld">lady D―'s</persName> conduct. <persName ref="#ld">Lady
+             Delacour</persName> begs leave to assure <persName ref="#luttridge_0001">Mrs. Luttridge</persName>,
+             that though she has the misfortune
              
              
-             
-             
-             
-         </p>    
-             
-             
-             
-             
-         
-         
-         
-             
-             
-             
-             
-         </div>       
+             to be a woman, she is willing to account 
+             for her conduct in any manner <persName ref="#luttridge_0001">Mrs. 
+             L―</persName> may think proper—and at any hour and place she may appoint. <persName ref="#ld">lady 
+             D―</persName> leaves the choice of the weapons
+             to <persName ref="#luttridge_0001">Mrs. L―</persName>. Mrs. <persName ref="#hf">H. Freke</persName>, who has
+             the honour of presenting this note, is <persName ref="#ld">lady 
+             Delacour's</persName> <emph>friend</emph> upon this occasaion.              
+          </quote>              
+          </p>    
+          <p>I cannot repeat 
+              
+          </p>    
+              
+              
+          </said> 
+           
+           
+           
+           
+           
+           
+       </div>         
+                
+                
+                
+                
+                
+                
+                
             
                 
             </div>
