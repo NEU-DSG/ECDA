@@ -3597,7 +3597,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
          was immediately sentenced to execution</seg>. <seg ana="#obeah #punishment">He died
          most heroically; kept up the terrors of his imposture
          to the last moment; he told the <rs type="persGroup">magistrates</rs>, who
-         condemned thim, that his death should be revenged
+         condemned him, that his death should be revenged
          by a storm, which would lay waste to the whole <rs type="place">island</rs>,
          that year; and, when his <ecda:anonPers>negro gaoler</ecda:anonPers> was binding
          him to the stake at which he was destined to suffer,
@@ -3617,17 +3617,17 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
          withered away, and finally expired before the
          completion of the twelvemonth</seg>.</seg>
       </p>
-      <p><seg ana="#obeah">The belief in <name>Obeah</name> is now greatly weakened, 
+      <p ana="#obeah">The belief in <name ana="#obeah">Obeah</name> is now greatly weakened, 
  <pb n="103"/>
  <fw type="pageNum">95</fw>  
          but still exists in some degree. Not above ten
          months ago, my <ecda:anonPers>agent</ecda:anonPers> was informed that a <ecda:anonPers>negro</ecda:anonPers> of
          very suspicious manners and appearance was harboured
-         by some of my people on the <rs type="place">mountain lands</rs>.
+         by <rs type="persGroup">some of my people</rs> on the <rs type="place">mountain lands</rs>.
          He found means to have him surprised, and on examination
          there was found upon him a bag containing
          a great variety of strange materials for incantations;
-         such as thunder-stones, <ecda:fauna>cat's</ecda:fauna> ears, <ecda:fauna>the feet
+         such as thunder-stones, <ecda:fauna>cat's ears</ecda:fauna>, <ecda:fauna>the feet
          of various animals</ecda:fauna>, human hair, <ecda:fauna>fish bones</ecda:fauna>, <ecda:fauna>the teeth
          of alligators</ecda:fauna>, &amp;c.: he was conveyed to <placeName>Montego
          Bay</placeName>; and no sooner was it understood that this <ecda:anonPers>old
@@ -3637,12 +3637,12 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
          particular, to <seg ana="#poison">his having sold such and such <rs type="persGroup">slaves</rs>
          medicines and charms to deliver them from their
          enemies; being, in plain <name>English</name>, nothing else than
-         rank poisons</seg>. He was conviced of <name>Obeah</name> upon
+         rank poisons</seg>. He was convicted of <name ana="#obeah">Obeah</name> upon
          the most indubitable evidence. <seg ana="#punishment">The good old
          practice of burning has fallen into disrepute; so
-         he was sentenced to be transported</seg>, and was
-         shipped off the island, to the great satisfaction of
-         <rs type="persGroup">persons of all colours—white, black, and yellow</rs>.</seg>         
+         he was sentenced to be transported, and was
+         shipped off the <rs type="place">island</rs></seg>, to the great satisfaction of
+         <rs type="persGroup">persons of all colours—white, black, and yellow</rs>.         
       </p>
    </div>   
       <div type="entry">
@@ -12388,10 +12388,10 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
              a more meagre congregation. It was literally
              <quote rend="quotes" source="bible">two or three gathered together</quote>, and it seemed
              as if five or six would be too may, and forfeit the 
-             promise. I cannot discover that the <rs type="persGroup">negroes</rs> have
+             promise. <seg ana="#obeah">I cannot discover that the <rs type="persGroup">negroes</rs> have
              any external forms of worship, nor any priests in 
-             <placeName>Jamaica</placeName>, unless their <seg ana="#obeah"><rs type="properAdjective">Obeah</rs> men</seg> should be considered
-             as such; but still I cannot think that they 
+             <placeName>Jamaica</placeName>, unless their <rs type="properAdjective">Obeah</rs> men should be considered
+             as such;</seg> but still I cannot think that they 
              ought to be considered as totally devoid of all
              natural religion. There is no phrase so common on
              their lips as <said rend="quotes">God bless you!</said> and <said rend="quotes">God preserve
