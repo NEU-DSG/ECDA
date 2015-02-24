@@ -25,7 +25,7 @@
                  on 
                  <ecda:anonPers>Sugar</ecda:anonPers>.
               </titlePart>
-              <!-- Delimiter/Ornament here. -->
+              
            </docTitle>
            <byline rend="case(allcaps)align(center)">By
               <docAuthor><persName>Benjamin Moseley, M.D.</persName></docAuthor>
@@ -40,14 +40,12 @@
               of the <orgName>University of <placeName>Leyden</placeName></orgName>,
               of the <orgName>American Philosophical Society</orgName>
               at <placeName>Philadelphia</placeName>, &amp;c. &amp;c.
-              <!-- <name> is serving as a catch all. add institution as an element -->
            </byline>
-              <!-- Delimiter/Ornament here. -->
+              
            <docImprint><placeName rend="slant(italic)case(allcaps)align(center)">London</placeName>:
-              Printed for <persName>G. C. and J. Robinson</persName>,
-              <!-- Should these be separated into two persNames? -->
+              Printed for <persName>G. C.</persName> and <persName>J. Robinson</persName>,
               <placeName>Paternoster-Row</placeName>
-              <!-- Delimiter/Ornament here. -->
+              
               <date when="1799">MDCCXCIX</date>.
            </docImprint>
         </titleBlock>
@@ -58,10 +56,8 @@
       <fw type="pageNum">1</fw>
          <div>
          <head rend="case(allcaps)align(center)">Sugar Cane.
-            <!-- Delimiter/Ornament here. -->
             Part the First.
-            <!-- Delimiter/Ornament here. -->
-         </head>
+            </head>
             <table rows="24" cols="2">
                <row role="data">
                   <cell role="data"><foreign xml:lang="la"><ecda:commodity>Arundo Saccharifera</ecda:commodity></foreign>.</cell>
@@ -150,7 +146,7 @@
             <head rend="slant(allcaps)align(center)">History
             of the
             <ecda:commodity>Sugar Cane</ecda:commodity></head>
-            <!-- Delimiter/Ornament here. -->
+            
             <p><hi rend="case(smallcaps)">I have</hi> undertaken a difficult task, in at-
                tempting to give an History of <ecda:commodity rend="case(smallcaps)">Sugar</ecda:commodity>.
             </p>
@@ -193,7 +189,7 @@
                ηλιοʋ σʋνεψηθεν ϖεση, <supplied>γινεταί</supplied> δε τοʋτο μα-
                λιστα ʋπο ϖʋραμητον αλλη δε εν τοις χαλαμοι</quote>ς✴.
                  <!-- Set up supplied source for clarification. See Sarah Stanley's email. -->
-                  <!-- Insert footnote! -->
+                  
             </p>
             <p><quote rend="pre(“) post(”)">The generation of <ecda:commodity>honey</ecda:commodity> is threefold: the
                first sort is from flowers, or other things in
@@ -225,7 +221,15 @@
                plants, he says,—
             </p>
             <p>
-               <quote><!-- INSERT GREEK PARAGRAPH, footnotes, source HERE! --></quote>
+               <quote>
+                  Καθαπε<!-- char --> εν Αιγυπτ<!-- char --> του καλαμου του εν τοις
+                  ελεσιν· εχει μεν γα<!-- char --> τινα γλυxυ<!-- char -->η<!-- char -->α <!-- char -->αι αλλως
+                  επι των α<!-- 2char -->ων, αλλ' επι <!-- 2char -->αχυ ϖαν<!-- char -->ων
+                  δε δια την ευ<!-- 2char -->ο<!-- char -->ιαν απαλος γε επι ϖλειον εσ<!-- char -->ι <!-- char -->αι
+                  γλυ<!-- char -->υς. Εχουσι δε <!-- char -->αι αι <!-- char -->ι<!-- char -->αι την γλυ<!-- char -->υ<!-- char -->η<!-- char -->α
+                  μεχ<!-- char -->ις ου αν ξη<!-- char -->ανθωεσιν.Αναξη<!-- char -->ανθεισαι δε ου<!-- char -->ε<!-- char -->ι,
+                  το γα<!-- char --> ξη<!-- char -->ον, ουτ' εδωδιμον, ουτ' εΓχυλον.
+               </quote>
             </p>
             <p><quote rend="pre(“) post(”)">As in the <ecda:commodity>cane</ecda:commodity> which grows in marshy
                places in <placeName>Egypt</placeName>: the extreme parts of which 
@@ -274,7 +278,7 @@
          <div type="subsection">
             <p><persName rend="case(smallcaps)">Dionysius Afer</persName> <hi rend="slant(italic)">(<foreign xml:lang="la">anno</foreign></hi> 3. Ær. Chr. <hi rend="case(smallcaps)">Sax</hi>.
                <hi rend="slant(italics)"><unclear>Onemast</unclear>.)</hi> mentions that the <name>Indians</name> drink the 
-               juice of the <!-- Insert Greek here! -->, or <ecda:commodity>Indian cane</ecda:commodity> <!-- Insert footnote here! -->
+               juice of the <unclear><!--Ερ[]θραιος καλαμος--></unclear>, or <ecda:commodity>Indian cane</ecda:commodity> <!-- Insert footnote here! -->
             </p>
          </div>
          
@@ -289,7 +293,10 @@
                æra,—
             </p>
             <p>
-               <quote><!-- Insert Greek passage here! --></quote><!-- Insert footnote. -->
+               <quote>Ει<!-- char -->η<!-- char -->ε δε ϖε<!-- char -->ι <!-- char -->αλαμων ο<!-- char -->ι ϖοιουσι
+                  μελι μελισσων μη ουοων· ου γα<!-- char --> δενδ<!-- char -->ον ειναι 
+                  <!-- char -->α<!-- char -->ποΦο<!-- char -->ον ε<!-- char --> του <!-- char -->α<!-- char -->που μεθυιν
+               </quote>
             </p>
             <p><quote rend="pre(“) post(”)">He (<persName rend="case(smallcaps)">Nearchus</persName>) relates, that the <ecda:commodity>reed</ecda:commodity> (in
                <placeName>India</placeName>) yields <ecda:commodity>honey</ecda:commodity> without bees; but it is 
@@ -303,13 +310,15 @@
                tority of <persName rend="case(smallcaps)">Eratosthenes</persName>,—
             </p>
             <p>
-               <quote><!-- Insert Greek passage here! --></quote>
+               <quote>Τας <!-- char -->ιζας των Φυ<!-- char -->ων και μαλιστα των μεγαλων
+                  καλαμων, γλυκειας και Φυσειας και Φυσει και εψησει.
+               </quote>
             </p>
             <p><quote rend="pre(“) post(”)">The roots of plants (in <placeName>India</placeName>), particu-
                larly of the great <ecda:commodity>reeds</ecda:commodity>, are sweet by nature,
                and by decoction.</quote>
             </p>
-            <p>He also mentions the <!-- Insert Greek -->growing
+            <p>He also mentions the <distinct xml:lang="el">καλαμος Ινδικος</distinct> growing
                abundantly in <placeName>Æthiopia</placeName>.
             </p>
          </div>
@@ -375,8 +384,8 @@
             without reason.
             </p>
             <p>If we may credit the <rs type="properAdjective">Spanish</rs> historian of
-               these islands, there was in his time <!-- Insert footnote here -->, in the
-               same islands, now called <placeName rend="slant(italic)">Ferro</placeName> <!-- Insert footnote here -->, or <placeName rend="slant(italic)">Hierro</placeName>, a
+               these islands, there was in his time, in the
+               same islands, now called <placeName rend="slant(italic)">Ferro</placeName>, or <placeName rend="slant(italic)">Hierro</placeName>, a
                marvellous tree, which made up for the de-
                ficiency of Springs, and contributed largely
                towards supplying the inhabitants of the island
@@ -442,7 +451,7 @@
                to take care of it and its water. <persName ref="Moseley_Treatise on Sugar_Anon1">He</persName> every day
                distributes to each family of the district seven
                pots or vessels full of water, besides what he
-               gives to the principal people of the island <!-- Insert footnote here! -->.</quote>
+               gives to the principal people of the island.</quote>
             </p>
             <p>That some trees and shrubs may, on hydrau-
             lic principles, become syphons to the earth,
@@ -496,7 +505,7 @@
             <p><foreign xml:lang="la">Quæ palustria sunt, arundinem creant ita cras-
                sam, ut fissis internodiis lembi vice vectitet navi-
                gantes; è radicubus ejus exprimitur humor dulcis ad
-               melleam suavitatem</foreign><!-- Insert footnote here! -->.</p>
+               melleam suavitatem</foreign>.</p>
             <p><quote rend="pre(“)post(”)">The marshy places produce <ecda:commodity>reeds</ecda:commodity> so large,
                that between the joints, when divided in the 
                middle, they are capable of carrying people in
@@ -1445,7 +1454,7 @@
                   (<persName>Saumaise</persName>, his proper name), who went to
                   reside at <placeName>Leyden</placeName> in <date when="1632">1632</date>, asserts, that what
                   authors denominate the <distinct type="dialect" xml:lang="la">sacar mambu</distinct> of the
-                  <name>Indians</name>, was the <!-- greek -->, or sugar, of the
+                  <name>Indians</name>, was the <distinct>σακχαρον</distinct>, or sugar, of the
                   ancients.
                </p>
                <p>By the word ancients, in this treatise, the 
@@ -1456,7 +1465,7 @@
                   <fw type="pageNum">44</fw>
                   
                <p>He says,—<quote xml:lang="la" rend="italic">Exercitationes nostræ docent illud
-                  <!-- greek --> esse quod hoc tempore vocatur apud Indos
+                  <distinct xml:lang="el">σακχαρον</distinct> esse quod hoc tempore vocatur apud Indos
                   Sacar-Mambu; qhod in arundine Indica arboreæ
                   ac vastæ proceritatis sponte crescit.</quote> <bibl><title>De
                   Sacharo Commentarius.</title></bibl>
@@ -1465,7 +1474,7 @@
                   was the <distinct type="dialect">tabaxir</distinct> of the <name>Arabians</name>; but
                   that the <name>Arabians</name> were ignorant how it was
                   produced, as were the ancient <name>Greeks</name> of the <distinct type="dialect">generatio
-                  Mellis Calamini, sive <!-- greek --></distinct>; who thought 
+                  Mellis Calamini, sive <distinct xml:lang="el">σακχαρον</distinct></distinct>; who thought 
                   it was the dew, which, falling on the <rs type="properAdjective">Indian</rs> 
                   canes, concreted: and that it was a kind of 
                   manna.
@@ -1487,7 +1496,7 @@
                   
                   <fw type="pageNum">45</fw>
                   
-                  of the <name>Indians</name> and the real <!-- greek --> of
+                  of the <name>Indians</name> and the real <distinct>μελι σακχαρον</distinct> of
                   the <name>Greeks</name>. He says the antients gave it the
                   appellation of sugar, which the <name>Arabians</name> did
                   not; because they believed it to be the ashes,
@@ -1507,7 +1516,7 @@
                   corroboration of his opinion, to shew, that
                   the virtues attributed by the <name>Arabians</name> to the
                   <distinct type="dialect">tabaxir</distinct> coincide with those which the <name>Greeks</name>
-                  ascribed to their <!-- greek -->
+                  ascribed to their σακχαρον
                </p>
                <p>In these conjunctures, I believe, ut wukk aooear
                   that the most learned <persName>Salmasius</persName> is mistaken;
@@ -1516,7 +1525,7 @@
                   <distinct type="dialect">tabasis</distinct>, <distinct type="dialect">tabasir</distinct>, and <distinct type="dialect">sabascir</distinct>, of <persName>Rhasis</persName>,
                   <persName>Avicenna</persName>, <persName>Serapion</persName>, and <persName>Averroes</persName>, was
                   neither the <distinct type="dialect">sacar-mambu</distinct> of the <name>Indians</name>, nor
-                  the <!-- greek --> of the antients.
+                  the σακχαρον of the antients.
                </p>
                
                <fw type="pageNum">46</fw>
@@ -1549,12 +1558,12 @@
                   ashes of the <rs type="properAdjective">Indian</rs> canes; or of their joints,
                   or roots: and being of a greyish colour, like
                   <!-- spodium, (pompholix, tutty, putty) --> rendered the
-                  word <distinct type="dialect">tabaxir</distinct>, by that appellation, from <!-- greek -->,
+                  word <distinct type="dialect">tabaxir</distinct>, by that appellation, from <distinct>σποδος</distinct>,
                   ashes. But as it was given internally, it certainly
                   
                   <fw type="pageNum">49</fw>
                   
-                  could not be the <!-- greek --> of the <name>Greeks</name>;
+                  could not be the σποδος of the <name>Greeks</name>;
                   which was the fordes, or recrement of melting
                   brass: and never employed by them but for 
                   external purposes.
@@ -1863,8 +1872,8 @@
                </p>
                <p><persName>Salmasius</persName>, believing in this error, that
                   sugar was actually found ready made, asserts,—
-                  <quote rend="block">De hoc ipso priscorum saccharo, sive tabaxir,
-                  accepi debet; cui nomen etiam propterea <!-- greek -->
+                  <quote rend="block">De hoc ipso priscorum saccharo, <distinct xml:lang="el">sive tabaxir</distinct>,
+                  accepi debet; cui nomen etiam propterea αλος Ινδικου
                   veteres imposuerunt.</quote> <bibl><title>De Canteo</title>, cap. 79.</bibl>
                   <quote rend="quotes">This is the sugar of the ancients, to which
                   they also gave the name of <distinct type="dialect">Indian Salt</distinct>; it is also
@@ -1882,7 +1891,7 @@
                   ancients does not correspond with any species
                   of sugar now in use. His own words are,—
                   <quote rend="block">Fallitur itaque mirum in modum si quies <!-- greek -->
-                  aut <!-- greek -->, aut <!-- greek -->, antiquum
+                  aut <distinct>αλας Ινδικου</distinct>, aut <distinct>σακχαρον</distinct>, antiquum
                   idem putat cum nostro saccharo.</quote> <bibl><title>De Saccharo
                   Comment.</title></bibl>
                </p>
@@ -1902,8 +1911,8 @@
                <fw type="pageNum">59</fw>
                
                <p><persName>Dioscorides</persName> (anno <date when="0064">64</date>), who is the first writer
-                  which mentions the word <!-- greek -->, or sugar,
-                  in his chater <!-- greek -->, demonstrates
+                  which mentions the word <distinct>σακχαρον</distinct>, or sugar,
+                  in his chapter <!-- greek -->, demonstrates
                   clearly that he was acquainted with
                   some species of sugar, made from the sugar
                   cane; though it plainly appears that he was
