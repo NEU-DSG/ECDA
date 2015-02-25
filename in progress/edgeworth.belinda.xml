@@ -1955,7 +1955,7 @@
              of her life and opinions in the following 
              manner.             
          </p>    
-         <said xml:id="s001" prev="#s002"><p>I do nothing by halves, my dear—I
+         <said xml:id="s008" next="#s009"><p>I do nothing by halves, my dear—I
              shall not tell you my adventures, as <persName ref="#gil_blas_0001">Gil
              Blas</persName> told his to the <ecda:anonPers>archbishop of <placeName>Grenada</placeName></ecda:anonPers>
              —skipping over the <emph>useful</emph> passages—because
@@ -2639,8 +2639,8 @@
          with her.             
          </p>
          </said>
-         <p><said xml:id="s002" prev="#s001">Alas! my dear <persName ref="#bp">Belinda</persName>,</said> said <persName ref="#ld">lady
-         Delacour</persName>, pausing; <said next="#s004" xml:id="s003">I little foresaw where or how it was to end: but I am
+         <p><said xml:id="s009" prev="#s008">Alas! my dear <persName ref="#bp">Belinda</persName>,</said> said <persName ref="#ld">lady
+         Delacour</persName>, pausing; <said next="#s011" xml:id="s010">I little foresaw where or how it was to end: but I am
          not come yet to the tragical part of my
          story, and as long as I can laugh, I will.
          —As the <ecda:anonPers>old woman</ecda:anonPers> and her miserable
@@ -2650,7 +2650,7 @@
          at the wrong time, bursting behind me,
          with a sense of his own superiority.</said>
          </p>     
-         <said xml:id="s004" prev="#s003" next="#s005">
+         <said xml:id="s011" prev="#s010" next="#s012">
          <p><said>Now you will learn your destiny,</said>
           <persName ref="#ld">lady Delacour</persName> said <persName ref="#hf">Harriot</persName>, in a solemn
           tone.              
@@ -2886,7 +2886,7 @@
          from whom I imagined the reports originated.
          </p>
          </said>        
-         <p><said xml:id="s005" prev="#s004">I was venting my indignation against
+         <p><said xml:id="s012" prev="#s011">I was venting my indignation against
           him in a room full of company, where I 
           had must made my story good, when a
           
@@ -3319,12 +3319,160 @@
              to something I have not told you yet.
              —This comic duel ended tragically
              for me—<said>How?</said>—you say—Why 'tis clear
-              that I was not shot
+             that I was not shot through the head;
+             but it would have been better, a hundred 
+             times better for me, if I had; I
+             should have been spared, in this life at
+             
+             
+             
+             least, the torments of the damned—<seg ana="#injury">I was 
+             not used to priming and loading—my
+             pistol was overcharged—when I fired, it
+             recoiled, and I received a blow on my
+             breast, the consequences of which you
+             have seen.</seg>              
+          </p> 
+          <p>The pain was nothing at the moment
+              compared with what I have since experienced
+              —But I will not complain till I
+              cannot avoid it—I ahd not, at hte time I
+              received the blow, much leisure for lamentation!
+              for I had scarcely discharged my
+              pistol, when we heard a loud shout on
+              the other side of the barn, and a <rs type="persGroup">crowd
+              of town's people, country people, and
+              haymakers</rs>, came pouring down the lane
+              towards us with rakes and pitchforks in
+              their hands.—An <rs type="properAdjective">English</rs> <rs type="persGroup">mob</rs> is really a
+              formidable thing.—<persName ref="#m">Marriot</persName> had mismanaged
+              her business most strangely—she
+              had, indeed, spread report of a duel—a
+              female duel—but the untutored sense of 
+              propriety amongst these rusticks was so
+              shocked at the idea of a duel fought by
+              women in <emph>men's clothes</emph>, that I verily believe
+              they would have thrown us into the
+              river with all their hearts—Stupid blockheads!
+              I am convinced that they would 
               
-          </p>    
               
+              not have been half so scandalized if
+              we had boxed in petticoats—The want of
+              these petticoats had nearly proved our destruction,
+              or at least our disgrace—a 
+              peeress, after being ducked, could never
+              have held her head above water again
+              with any grace.—The <rs type="persGroup">mob</rs> had just closed
+              round us, crying <said>shame! shame! shame!
+              —duck 'em,—duck 'em—gentle or simple
+              —duck 'em—duck 'em</said>—when their attention
+              was suddenly turned towards a
+              person, who was driving up the lane a
+              large herd of <ecda:fauna>squeaking, grunting pigs</ecda:fauna>.—
+              The person was clad in splendind regimentals,
+              and he was armed with a long
+              pole, to the end of which hung a bladder,
+              and his <ecda:fauna>pigs</ecda:fauna> were frightened, and they ran
+              squeaking from one side of the road to the
+              other; and the <ecda:fauna>pig</ecda:fauna>-driver in regimentals
+              in the midst of the noise, could not without
+              difficulty make his voice heard; but at 
+              last he was understood to say, that a bet
+              of a <measure ana="#commodity #currency">hundred guineas</measure> depended upon his
+              being able to keep these <ecda:fauna>pigs</ecda:fauna> a head of a
+              flock of <ecda:fauna>turkies</ecda:fauna> that were following them,
+              and he begged the <rs type="persGroup">mob</rs> to give him and 
+              his <ecda:fauna>pigs</ecda:fauna> fair play.—At the news of this 
+              wager, and at the sight of the gentleman
+              
+              
+              turned <ecda:fauna>pig</ecda:fauna>-driver, the <rs type="persGroup">mob</rs> were in raptures,
+              and, at the sound of his voice, <persName ref="#hf">Harriot 
+              Freke</persName> immediately exclaimed—<said><persName ref="#ch">Clarence
+              Hervey</persName>!—By all that's lucky!</said>              
+          </p>              
           </said> 
-           
+           <p><said><persName ref="#ch">Clarence Hervey</persName>!</said> interrupted <persName ref="#bp">Belinda</persName>
+             <said><persName ref="#ch">Clarence Hervey</persName>, my dear,</said>
+              said <persName ref="#ld">lady Delacour</persName> coolly—<said xml:id="s013" next="#s014">he can do
+              every thing you know! even drive <ecda:fauna>pigs</ecda:fauna>,
+              better than any body else—but let me
+              go on.</said>               
+           </p>
+          <said xml:id="s014" prev="#s013"><p><persName ref="#hf">Harriot Freke</persName> shouted in a stentorean
+              voice, which actually made your <ecda:fauna>pig</ecda:fauna>-driver
+              start: she explained to him in <name>Frenc</name>
+              our distress, and the cause of it. <persName ref="#ch">Clarence</persName>
+              was, as I suppose you have discovered 
+              long ago, <quote><said>that cleverest young man in
+              <placeName>England</placeName>, who had written on the propriety
+              and necessity of female duelling</said></quote>.—
+              He answered <persName ref="#hf">Harriot</persName> in <name>French</name>—<said>To
+              attempt your rescue by force would be
+              vain—but I will do better, I will make a 
+              diversion in your favour.</said>—Immediately
+              our hero, addressing himself to the sturdy
+              fellow who held me in custody, exclaimed
+              —<said>Huzza, my boys! <placeName>Old England</placeName> for
+              ever! Yonder comes a <ecda:anonPers><name>Frenchman</name></ecda:anonPers> with a 
+              flock of <ecda:fauna>turkies</ecda:fauna>. My <ecda:fauna>pigs</ecda:fauna> will beat htem
+              
+              
+              
+              for a <measure ana="#currency #commodity">hundred guineas</measure>. <placeName>Old England</placeName> for
+              ever, huzza!</said>
+          </p>
+          <p>As he spoke, the <ecda:anonPers><rs type="properAdjective">French</rs> officer</ecda:anonPers>, with
+              whom <persName ref="#ch">Clarence Hervey</persName> had laid the
+              wager, appeared at the turn of the lane—
+              his <ecda:fauna>turkies</ecda:fauna> half flying—half hobbling up
+              the road before him.—The <ecda:anonPers><name>Frenchman</name></ecda:anonPers>
+              waved a red streamer over the heads of
+              his flock—<persName ref="#ch">Clarence</persName> shook a pole, from the 
+              top of which hung a bladder full of <ecda:flora>beans</ecda:flora>.
+              The <ecda:fauna>pigs</ecda:fauna> grunted—the <ecda:fauna>turkies</ecda:fauna> gobbled,
+              and the <rs type="persGroup">mob</rs> shoulted—eager for the fame
+              of <placeName>Old England</placeName>, the crowd followed <persName ref="#ch">Clarence</persName>
+              with loud acclamations.—The
+              <ecda:anonPers><rs type="properAdjective">French</rs> officer</ecda:anonPers> was followed with groans
+              and hisses.—So great was the confusion,
+              and so great the zeal of the patriots, that
+              even the pleasure of ducking the female
+              duellists was forgotten in the general enthusiasm.
+              —All eyes and hearts were intent
+              upon the race—and now the <ecda:fauna>turkies</ecda:fauna>
+              got foremost—and now the <ecda:fauna>pigs</ecda:fauna>.—But
+              when we came within sight of the <ecda:fauna>horse</ecda:fauna>-
+              pond, I heard <ecda:anonPers>one man</ecda:anonPers> cry—<said>don't forget
+              the ducking.</said>—How I trembled! but our
+              knight shouted to his <rs type="persGroup">followers</rs>—<said>For the 
+              love of old <placeName>England</placeName>, my brave boys, keep
+              
+              
+              between my <ecda:fauna>fauna</ecda:fauna> and the pond—if our <ecda:fauna>pigs</ecda:fauna>
+              see the water, they'll run to it, and <placeName>England's</placeName> undone.</said>             
+          </p> 
+            <p>The whole fury of the <rs type="persGroup">mob</rs> was by 
+               this speech conducted away from us.—
+               <said>On, on, mu boys, into town, to the market-
+               place; whoever gains the market-
+               place first, wins the day.</said>—Our general
+               shook the rattling bladder in triumph, over
+               the heads of <quote>the swinish multitude</quote>, as 
+               we followed in perfect security in his train
+               into the town.             
+          </p>
+          <p><rs type="persGroup">Men, women, and children</rs>, crowded
+             to the windows and doors.—<said>Retreat
+             into the first place you can,</said> whispered
+             <persName ref="#ch">Clarence</persName>
+               
+               
+           </p>
+              
+          </said>
+              
            
            
            

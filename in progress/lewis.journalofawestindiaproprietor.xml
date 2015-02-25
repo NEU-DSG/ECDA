@@ -78,7 +78,7 @@
             <head>New Publications</head>
             
             <p><bibl><title ref="#burnes_bokhara"><hi rend="allcaps">Travels in <placeName>Bokhara</placeName>, <placeName>Cabool</placeName>, <placeName>Tartary</placeName>, <hi rend="mixed">and</hi> 
-            <placeName>Persia</placeName></hi>, in the Year 1832</title>, by <author><persName ref="#alexander_burns_1805">Lieut. Alexander Burnes</persName></author>,</bibl>
+            <placeName>Persia</placeName></hi>, in the Year 1832</title>, by <author><persName ref="#alexander_burns_1805">Lieut. Alexander Burnes</persName></author>,<biblScope></biblScope></bibl>
             Assistant Political Resident, and late on a Mission to the Court
             of <placeName>Lahore</placeName>. 3 vols. post <choice><abbr><choice><abbr>8vo.</abbr><expan>octavo</expan></choice></abbr><expan>octavo</expan></choice></p>
             
@@ -148,16 +148,16 @@
               and most famous places in <rs type="properAdjective">Mogul</rs> History, such as <placeName>Delhi</placeName> and <placeName>Agra</placeName>. Few
               countries possess such attractions to the traveller.</p>
               <p><persName ref="#godfrey_mundy_1804">Captain Mundy</persName> is a great hunter, and his reports of his encounters, in
-                 this grand field of sports, are striking and amusing.</p></quote>—<bibl><title rend="italic" ref="#athenaeum">Athenæum</title>, <biblScope type="pp">236</biblScope>.</bibl>
+                 this grand field of sports, are striking and amusing.</p></quote>—<bibl><title rend="italic" ref="#athenaeum">Athenæum</title>, <biblScope unit="page">236</biblScope>.</bibl>
             
 <quote rend="quotes"><p><persName ref="#godfrey_mundy_1804">Captain Munday</persName> is a great hunter, and his reports of his encounters, in
-this grand field of sports, are striking and amusing.</p></quote>—<bibl><title rend="italic" ref="#spectator">Spectator</title>, <biblScope type="pp">203</biblScope>.</bibl>
+this grand field of sports, are striking and amusing.</p></quote>—<bibl><title rend="italic" ref="#spectator">Spectator</title>, <biblScope unit="page">203</biblScope>.</bibl>
          <quote rend="quotes"><p>Many valuable contributions have lately been made to our stock of knowledge
          on <placeName>India</placeName> and <rs type="properAdjective">Indian</rs> life; but a work like this, full of light, pleasant,
          graphic sketches of scenes, such as pass under the eye of an intelligent traveller,
          was still wanting; and we shall be somewhat surprised if it be not universally
          successful. There is a freshness and off-hand vigour in the <rs type="person" ref="#godfrey_mundy_1804">Captain's</rs> descriptions,
-            that bring every thing vividly before the reader.</p></quote>—<bibl><title rend="italic" ref="#athenaeum">Athenæum</title>, <biblScope type="pp">236</biblScope>.</bibl>      
+            that bring every thing vividly before the reader.</p></quote>—<bibl><title rend="italic" ref="#athenaeum">Athenæum</title>, <biblScope unit="page">236</biblScope>.</bibl>      
             <quote rend="quotes"><p>We shall now resume our extracts, after commending the work itself to
                all who wish to pass a few hours delightfully.</p></quote>—<bibl><title rend="italic" ref="#athenaeum">Athenæum</title>.</bibl>            
             </p>                          
@@ -208,7 +208,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
                by this publication done singular honour to the <rs type="properAdjective">English</rs> press. The tact and
                talent that could discover such a vein and so work it, will not, we hope, be
                long in detecting another equally profitable and honourable to the public and
-               himself.</quote>—<bibl><title rend="italic" ref="#morning_chronicle">Morn. Chron.</title>, <biblScope type="issue"><hi rend="italic">June</hi> 10</biblScope>.</bibl></p>
+               himself.</quote>—<bibl><title rend="italic" ref="#morning_chronicle">Morn. Chron.</title>, <biblScope unit="issue"><hi rend="italic">June</hi> 10</biblScope>.</bibl></p>
             <closer><note>⁂ Any volume may be had separately.</note></closer>
             <pb n="2"/>
             
@@ -5856,7 +5856,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     went home with the <ecda:anonPers>Rector</ecda:anonPers>, who is one of the ecclesiastical
     commissaries, and had a long conversation
     with him respecting a plan which is in agitation for
-    giving the <rs>negroes</rs> something of a religious education.
+    giving the <rs type="persGroup">negroes</rs> something of a religious education.
     We afterwards dined with the <ecda:anonPers>the member for
     <placeName>Westmoreland</placeName></ecda:anonPers>; and as every body in <placeName>Jamaica</placeName> is
     on foot by six in the morning, at ten in the evening
@@ -7386,7 +7386,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     <fw type="pageNum">207</fw>
     do infinite mischief; the <ecda:anonPers>trustee</ecda:anonPers> was roused out of
     his bed; the <rs type="persGroup">drivers</rs> blew their shells to summon
-    the <rs>negroes</rs> to their assistance; when it appeared,
+    the <rs type="persGroup">negroes</rs> to their assistance; when it appeared,
     that there was not a single watchman at his post;
     the watch-fires had all been suffered to expire;
     not a single domestic was to be found, nor a <ecda:fauna>horse</ecda:fauna>
@@ -9313,7 +9313,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           <l>Many; nay, almost any!</l>
         </lg>
     </quote>
-        <bibl>—<title rend="italic" ref="#shakespeare_tempest">Tempest</title>, <biblScope>Act 3.</biblScope></bibl>
+        <bibl>—<title rend="italic" ref="#shakespeare_tempest">Tempest</title>, <biblScope unit="act">Act 3.</biblScope></bibl>
      </epigraph> 
   
        <lg type="poem">
@@ -9786,7 +9786,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
            <l>Her soul to fresh alarms. Her head she reared,</l>
            <l>And near her face a hideous face appeared;</l>
            <l>But straight 'twas gone!—In trembling haste she rose,</l>
-           <l>And saw a ring of <rs>monstrous dwarfs</rs> inclose</l>
+           <l>And saw a ring of monstrous dwarfs inclose</l>
             <l>Her rugged couch. Not <persName ref="#tenier_david_1610">Teniers'</persName> hand could paint</l>
            <l>Forms more grotesque to scare the tempted saint,</l>
            <l>Than here, as on they pressed in circling throng,</l>
@@ -9821,7 +9821,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           <l>On <emph rend="italic">her</emph> he gazed, and floods of sable fires</l>
           <l>Rolled his huge eyes, and spoke his fierce desires,</l>
           <l>As on his club, a torn-up <ecda:flora ana="#food">lime</ecda:flora> he leaned.—</l>
-          <l><said rend="quotes">Help, heaven!</said> thought <persName ref="irza_0001">Irza</persName>, <said rend="quotes">'tis the <ecda:anonPers ana="#demon">master-fiend</ecda:anonPers>!</said></l>
+          <l><said rend="quotes">Help, heaven!</said> thought <persName ref="irza_0001">Irza</persName>, <said rend="quotes">'tis the <ecda:anonPers>master-fiend</ecda:anonPers>!</said></l>
          </lg> 
           <lg>
           <l>Not long he paused: he now with one quick bound</l>
@@ -9844,7 +9844,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           <lg>  
           <l>She is alone; she breaths again!—Fly, fly!—</l>
           <l>Ah! wretched girl! too late! with frenzied eye,</l>
-          <l>(Scarce gone the <ecda:anonPers ana="#demon">master-fiend</ecda:anonPers>) his <rs>imps</rs> she sees,</l>
+          <l>(Scarce gone the <ecda:anonPers>master-fiend</ecda:anonPers>) his imps she sees,</l>
           <l>Pour from the rocks, and drop from all the trees</l>
           <l>With yell, and squeak, and many a horrid sound,</l>
           <l>And form a living fence to hedge her round:</l>
@@ -9859,13 +9859,13 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           <l ana="#injury">With his sharp teeth its snow. The pure blood stream'd</l>
           <l ana="#injury">Fast from the wound, and loud the <rs type="person" ref="irza_0001">virgin</rs> scream'd;</l>
           <l>And strait again was heard that sad strange moan,</l>
-          <l>And instant all the <rs>dwarfs</rs> again were flown.</l>
+          <l>And instant all the dwarfs again were flown.</l>
      
           </lg> 
           <l>Scarce conscious that she lived, scarce knowing why,</l>
           <l>Half grieved, half grateful, <persName ref="irza_0001">Irza</persName> raised her eye:</l>
           <l>Still on the rock (not dared he down to spring)</l>
-          <l>Dark and majestic stood the <ecda:anonPers ana="#demon">demon-king</ecda:anonPers>;</l>
+          <l>Dark and majestic stood the <ecda:anonPers>demon-king</ecda:anonPers>;</l>
           <l>Then lowly knelt, and raised his arm to wave</l>
           <l>An <ecda:flora ana="#food">orange bough</ecda:flora>, and court her to his cave.</l>
           <l>Lost are her friends; no help, no hope is nigh;</l>
@@ -9873,14 +9873,14 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           <l>To <emph rend="italic">him</emph> already twice her life she owes,</l>
           <l>And but his presence now restrains her foes.</l>
           <l>On wings of flame the sun had left the main;</l>
-          <l>And peeping from the trees, the <rs>imps</rs> too plain</l>
+          <l>And peeping from the trees, the imps too plain</l>
           <pb/>  
       <fw type="pageNum">274</fw> 
           <l>Shot darts of rage from their green orbs of sight:</l>
           <l>She heard their gibberings, and she mark'd their spite;</l>
           <l>And, while they eyed her form, the care she saw</l>
           <l>To grind their teeth, and whet each cruel claw.</l>
-          <l>Demons alike, the <ecda:anonPers ana="#demon">monarch-demon's</ecda:anonPers> breast</l>
+          <l>Demons alike, the <ecda:anonPers>monarch-demon's</ecda:anonPers> breast</l>
           <l>Appear'd less fierce; of ills she chose the best,</l>
           <l>Sought, where profan'd her coral rosary lay,</l>
           <l>Then slowly mounted where he show'd the way.</l>
@@ -9922,7 +9922,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
            <l>Only one object chill'd her blood with <supplied reason="flawedReproduction">f</supplied>ear:</l>
            <l>Far off removed (but still, alas! too near),</l>
            <l>Scarce breathing, lest a breath her sleep might break,</l>
-           <l>There stood the <ecda:anonPers ana="#demon">fiend</ecda:anonPers>, and watched to see her wake.</l>
+           <l>There stood the <ecda:anonPers>fiend</ecda:anonPers>, and watched to see her wake.</l>
           </lg>  
     
              <lg>
@@ -9958,7 +9958,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
               <l>More fit for angel than for mortal maid,</l>
               <l>At length had won her, with more grateful mind</l>
               <l>To view his gifts, and pay respect so kind;</l>
-              <l>But, as her <ecda:anonPers ana="#demon">giant-gaoler</ecda:anonPers> she esteem'd</l>
+              <l>But, as her <ecda:anonPers>giant-gaoler</ecda:anonPers> she esteem'd</l>
               <l>Some prince of subterraneous fire, she deem'd</l>
                 <pb/>        
     <fw type="pageNum">276</fw> 
@@ -9993,7 +9993,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
               <l>Still must thou live, and only live to weep!</l>
               <l>Oh, lift thine aching head, thy languid eyes,</l>
               <l>And mark what hideous stranger near thee lies.</l>
-              <l><said rend="quotes">Guard me, all blessed saints!</said>—A <ecda:anonPers ana="#demon">monster child</ecda:anonPers></l>
+              <l><said rend="quotes">Guard me, all blessed saints!</said>—A <ecda:anonPers>monster child</ecda:anonPers></l>
               <l>Press'd her green couch; and, as it grimly smiled,</l>
               <l>Its shaggy limbs, and eyes of sable fire,</l>
               <l>Betray'd the crime, and claim'd its hellish sire!</l>
@@ -10016,7 +10016,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
                <l>Deprived of sense—betray'd by place and time—</l>
                <l>Then was she doom'd to share the unconscious crime?</l>
                <l>Debased, deflower'd, and stamp'd a wretch for life,</l>
-               <l>A <ecda:anonPers ana="#demon">monster's</ecda:anonPers> mother, and a <ecda:anonPers ana="#demon">demon's</ecda:anonPers> wife?</l>
+               <l>A <ecda:anonPers>monster's</ecda:anonPers> mother, and a <ecda:anonPers>demon's</ecda:anonPers> wife?</l>
             </lg>
                <lg>
                <l>Oh! at that thought her soul what passions tear!</l>
@@ -10033,7 +10033,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
                <l>What lifts her burning head? why opes her eye?</l>
                <l>What makes her blood run back? A faint shrill cry!</l>
                <l>Too well, alas! that cry was understood:</l>
-               <l>The <ecda:anonPers ana="#demon">monster</ecda:anonPers> pined for want, and claim'd its food.</l>
+               <l>The <ecda:anonPers>monster</ecda:anonPers> pined for want, and claim'd its food.</l>
                <l>Then in her heart what rival passions strove!</l>
                <l>How shrinks disgust, how yearns maternal love!</l>
                <l>Now to its life her feelings she prefers;</l>
@@ -10042,7 +10042,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
                <l>And, while she yields the breast, averts her eyes.</l>
              </lg>
                <lg>
-               <l>Not so the <ecda:anonPers ana="#demon">demon-sire</ecda:anonPers>: the <ecda:anonPers ana="#demon">child</ecda:anonPers> he raised,</l>
+               <l>Not so the <ecda:anonPers>demon-sire</ecda:anonPers>: the <ecda:anonPers>child</ecda:anonPers> he raised,</l>
                <l>He kiss'd it—danced it—nursed it—knelt, and gazed,</l>
                <l>Till joyful tears gush'd forth, and dimm'd his sight:</l>
                <l>Scarce <persName ref="#irza_0001">Irza's</persName> self was view'd with more delight.</l>
@@ -10059,7 +10059,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           <lg>
              <head>VIII.</head>
                <lg>
-                <l>Three months had pass'd; still lived the <ecda:anonPers ana="#demon">monster-brat</ecda:anonPers>:</l>
+                <l>Three months had pass'd; still lived the <ecda:anonPers>monster-brat</ecda:anonPers>:</l>
                <l>Its sire had sought the wood; alone she sat:</l>
                <l>She sheds no tears—no tears are left to shed;</l>
                <l>Unmoisten'd burn her eyes—her heart seems dead—</l>
@@ -10138,13 +10138,13 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
                 <pb/>     
      <fw type="pageNum">280</fw>  
              <l>Footsteps!—more near they drew:—slow rolled the stone—</l>
-             <l>The <ecda:anonPers ana="#demon">infernal gaoler</ecda:anonPers> came, but came alone.</l>
+             <l>The <ecda:anonPers>infernal gaoler</ecda:anonPers> came, but came alone.</l>
              <l>With anxious glance his eye explored the cell;</l>
              <l>But when it fix'd on her, abash'd it fell.</l>
              <l>He knelt, and seem'd to fear her frown. He bore</l>
              <l>His club. 'Twas splash'd with brains! 'twas wet with gore!</l>
              <l>She fear'd—she guess'd—she rush'd—she ran—she flew,—</l>
-             <l>Nor dared the <ecda:anonPers ana="#demon">fiend</ecda:anonPers> her frantic course pursue.</l>
+             <l>Nor dared the <ecda:anonPers>fiend</ecda:anonPers> her frantic course pursue.</l>
              <l><said rend="quotes">Rosalvo! speak! Rosalvo!</said> Shrill, yet sweet,</l>
              <l>She wakes the echoes. What obstructs her feet?</l>
              <l xml:id="a003" corresp="#n003">As some frail <ecda:flora>lily</ecda:flora>, which the passing share*</l>
@@ -10194,7 +10194,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           <l>And fenced with roses, <said rend="prequotes" xml:id="s114" next="s115">Oh! whose pious care</said></l>
           <l><said next="s116" prev="114" xml:id="s115">Hath deck'd this grave? Hear, gracious Heaven, his prayer,</said></l>
           <l><said rend="postquotes" xml:id="s116" prev="s115">When most he needs!</said> While thus in doubt she stands,</l>
-          <l>She marks the <ecda:anonPers ana="#demon">fiend's</ecda:anonPers> approach. His ebon hands</l>
+          <l>She marks the <ecda:anonPers>fiend's</ecda:anonPers> approach. His ebon hands</l>
           <l>Sustain'd a <ecda:flora>gourd of flowers</ecda:flora> of various hue;</l>
           <l>He pour'd them, kiss'd the turf, and straight withdrew.</l>
          </lg>
@@ -10216,26 +10216,26 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           <l>Mysterious pangs, nor doubts her cause of pain.</l>
           <l>Too sure, while lost in manic state she lay,</l>
           <l>Her sense, her wits, her feeling all away,</l>
-          <l>The <ecda:anonPers ana="#demon">fiend</ecda:anonPers> once more had seized the unguarded hour</l>
+          <l>The <ecda:anonPers>fiend</ecda:anonPers> once more had seized the unguarded hour</l>
           <l>To force her weakness, and abuse his <supplied reason="flawedReproduction">p</supplied>ower.</l>
             <pb/>  
      <fw type="pageNum">282</fw>   
           <l>Again <persName ref="lucina_0001">Lucina</persName> came. That new-born cry,</l>
           <l>Shuddering, again she heard; her fearful eye</l>
           <l>Wander'd around awhile, nor dared to stay.</l>
-          <l><said rend="quotes">There, there he lies! my <ecda:anonPers ana="#demon">child</ecda:anonPers>!</said> With fresh essay</l>
+          <l><said rend="quotes">There, there he lies! my <ecda:anonPers>child</ecda:anonPers>!</said> With fresh essay</l>
           <l>Once more she turn'd. But when at length her sight</l>
           <l>Dwelt on its face, her wonder—her delight—</l>
           <l>Can ne'er by tongue be told, by fancy guess'd!</l>
           <l>Frantic she caught, she kiss'd, and lull'd him on her breast.</l>
       </lg>
-          <lg><l>Oh! who can paint how <persName ref="#irza_0001">Irza</persName> loved that <ecda:anonPers ana="#demon">child</ecda:anonPers>!</l>
+          <lg><l>Oh! who can paint how <persName ref="#irza_0001">Irza</persName> loved that <ecda:anonPers>child</ecda:anonPers>!</l>
           <l>Grieved when he moan'd, and smiled whene'er he smiled!</l>
           <l>His dimpled arm soft on <ecda:flora>rushes</ecda:flora> lay;</l>
           <l>Through his fine skin the blood was seen to play;</l>
           <l>That skin than down of <ecda:fauna>swans</ecda:fauna> more smooth and white;</l>
           <l>Nor e'er shone summer sky so blue and bright,</l>
-          <l>As shone the eye of that same <ecda:anonPers ana="#demon">cherub elf</ecda:anonPers>;</l>
+          <l>As shone the eye of that same <ecda:anonPers>cherub elf</ecda:anonPers>;</l>
           <l>In small the model of her beauteous self.</l>
           <l>The scant gold locks which gilt his ivory brow,</l>
           <l>Were sun-beams gleaming on a globe of snow;</l>
@@ -10247,7 +10247,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           <l>At length a mother's fears and throes repaid:</l>
           <l>Not when <persName ref="#lucina_0001">Lucina</persName> first in <ecda:flora>myrtle</ecda:flora> grove,</l>
           <l>To <name>Beauty's</name> kiss presented new-born <name>Love</name>;</l>
-          <l>And while, with wondr'ing eyes, the immortal <ecda:anonPers ana="#demon">boy</ecda:anonPers></l>
+          <l>And while, with wondr'ing eyes, the immortal <ecda:anonPers>boy</ecda:anonPers></l>
           <l>Imbibed new light, and pour'd ecstatic joy:</l>
           <l>He kiss'd and drain'd by turns her fragrant breast,</l>
           <l>Till amorous <ecda:fauna>ring-doves</ecda:fauna> coo'd the god to rest.</l>
@@ -10255,17 +10255,17 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           <lg>
           <l>Mothers may love as much, but never more,</l>
           <l>Nor e'er did mother love so well before,</l>
-          <l>As <persName ref="#irza_0001">Irza</persName> loved that <ecda:anonPers ana="#demon">child</ecda:anonPers>! Her <ecda:anonPers ana="#demon">sable lord</ecda:anonPers></l>
+          <l>As <persName ref="#irza_0001">Irza</persName> loved that <ecda:anonPers>child</ecda:anonPers>! Her <ecda:anonPers>sable lord</ecda:anonPers></l>
           <l>Mark'd well that love; and now, to health restored,</l>
-          <l>He felt her <ecda:anonPers ana="#demon">child</ecda:anonPers> to home would chain her feet,</l>
+          <l>He felt her <ecda:anonPers>child</ecda:anonPers> to home would chain her feet,</l>
           <l>Nor roll'd the stone to close her lone retreat.</l>
              <pb/> 
        <fw type="pageNum">283</fw>       
           <l>Still, when he went, he with him bore away</l>
-          <l>That fav'rite <ecda:anonPers ana="#demon">babe</ecda:anonPers>, nor fear'd she far would stray.</l>
+          <l>That fav'rite <ecda:anonPers>babe</ecda:anonPers>, nor fear'd she far would stray.</l>
           <l>Arm'd with his club, she now might safely rove</l>
           <l>Through verdant vale, or weep in shadowy grove;</l>
-          <l>For soon the <rs>dwarfs</rs> were used to bear her sight,</l>
+          <l>For soon the dwarfs were used to bear her sight,</l>
           <l>Knew that dread club, nor dared indulge their spite.</l>
           <l>Still from afar off looks of rage they cast,</l>
           <l>And shrilly squeal'd and clamour'd as she pass'd;</l>
@@ -10278,7 +10278,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           <lg>
              <l>One morn her savage lord, in quest of <ecda:food>food</ecda:food>,</l>
              <l>Forsook the cave, and sought th' adjacent wood;</l>
-             <l>And as her darling <ecda:anonPers ana="#demon">boy</ecda:anonPers> he with him bore,</l>
+             <l>And as her darling <ecda:anonPers>boy</ecda:anonPers> he with him bore,</l>
              <l><persName ref="#irza_0001">Irza</persName>, unwatch'd, might pace the sounding shore.</l>
              <l>Listless and slow she moved, and climb'd with pain</l>
              <l>A tow'ring cliff, which beetled o'er the main.</l>
@@ -10331,7 +10331,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
              <l>Nor ask, how chance it that he reach'd the shore:</l>
              <l>'Twas through a miracle and nothing more.</l>
              <l>Whether on monkish frock as safe rode he,</l>
-             <l>As <rs>night-hags</rs> skim in sieves o'er <placeName>Norway's</placeName> sea;</l>
+             <l>As night-hags skim in sieves o'er <placeName>Norway's</placeName> sea;</l>
              <l>Or like <persName ref="#arion_0001">Arion</persName> plough'd the wat'ry plain,</l>
              <l>Horsed on some monster of the astonish'd main,</l>
              <l>Some <ecda:fauna>shark</ecda:fauna>, some <ecda:fauna>whale</ecda:fauna>, some <ecda:fauna>kraken</ecda:fauna>, some <ecda:fauna>sea-cow</ecda:fauna>—</l>
@@ -10358,14 +10358,14 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
              <l>And while her tale he heard, oft dropp'd a tear,</l>
              <l>And sigh'd his beard-swept breast in awe and fear:</l>
              <l>Then bade her speed the friendly bark to gain,</l>
-             <l>And fly the <ecda:anonPers ana="#demon">infernal monarch's</ecda:anonPers> green domain;</l>
+             <l>And fly the <ecda:anonPers>infernal monarch's</ecda:anonPers> green domain;</l>
              <l>Nor yield her tyrant time to cast a spell,</l>
              <l>And rouse to cross her flight the powers of hell.</l>
           </lg>
           <lg>
              <l>Then first from <persName ref="#irza_0001">Irza's</persName> cheek the glow of red,</l>
              <l>By hope of rescue raised, grew faint, and fled;</l>
-             <l>Trembling she nam'd her <ecda:anonPers ana="#demon">cherub-boy</ecda:anonPers>, confess'd</l>
+             <l>Trembling she nam'd her <ecda:anonPers>cherub-boy</ecda:anonPers>, confess'd</l>
              <l>A mother's fondness fill'd his mother's breast;</l>
              <l>Described how fair he look'd, how sweet he smiled,</l>
              <l>And fear'd her flight might quite destroy her child.</l>
@@ -10392,25 +10392,25 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
              <l>The <rs type="persGroup">monks</rs> obeyed. Then, in <persName ref="#irza_0001">Irza's</persName> soul</l>
              <l>What various passions raged, and mock'd control!</l>
              <l>Now how she mourn'd, now how she wept for joy,</l>
-             <l>How loathed the <ecda:anonPers ana="#demon">sire</ecda:anonPers>, and how adored the <ecda:anonPers ana="#demon">boy</ecda:anonPers>!</l>
+             <l>How loathed the <ecda:anonPers>sire</ecda:anonPers>, and how adored the <ecda:anonPers>boy</ecda:anonPers>!</l>
              <l>The barge is gain'd; they row. When, lo! from high</l>
              <l>Her ear again receives that well-known cry,</l>
              <l>That sad, strange moan! she starts, and lifts her eye.</l>
              <l>There, on a rock which faced the strand, once more</l>
-             <l>She saw her <ecda:anonPers ana="#demon">demon-husband</ecda:anonPers> stand: he bore</l>
-             <l>Her beauteous <ecda:anonPers ana="#demon">babe</ecda:anonPers>; and, while he view'd the barge,</l>
+             <l>She saw her <ecda:anonPers>demon-husband</ecda:anonPers> stand: he bore</l>
+             <l>Her beauteous <ecda:anonPers>babe</ecda:anonPers>; and, while he view'd the barge,</l>
              <l>Keen anguish seem'd each feature to enlarge,</l>
              <l>And shake each giant limb. With piteous air</l>
              <l>His arms he spread, his hands he clasp'd in prayer;</l>
              <l>Knelt, wept, and while his eye-balls seem'd to burn,</l>
-             <l>Oft show'd the <ecda:anonPers ana="#demon">child</ecda:anonPers>, and woo'd her to return.</l>
+             <l>Oft show'd the <ecda:anonPers>child</ecda:anonPers>, and woo'd her to return.</l>
              <l>His suit the <rs type="persGroup">monks</rs> disdain; the barge recedes;</l>
              <l>More humbly now he kneels, more earnest pleads.</l>
              <l>But when he found no tears their course delay,</l>
              <l>And still the boat pursued its watery way;</l>
              <l>Then, 'gainst his grief and rage no longer proof,</l>
              <l>He gnash'd his teeth, he stamp'd his iron hoof,</l>
-             <l>Whirl'd the <ecda:anonPers ana="#demon">boy</ecda:anonPers> wildly round and round his head</l>
+             <l>Whirl'd the <ecda:anonPers>boy</ecda:anonPers> wildly round and round his head</l>
             <l>Dash'd it against the rocks, and howling fled.</l>
             </lg>
              <lg>
@@ -10419,9 +10419,9 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
              <l>Then, sinking down, stretch'd on the deck she lies,</l>
              <l>Hid her pale face, and closed her aching eyes.</l>
              <l>But hark! why should the <rs type="persGroup">monks</rs>? <said rend="quotes">Again,</said> they said,</l>
-             <l><said rend="quotes">Again the <ecda:anonPers ana="#demon">demon</ecda:anonPers> comes!</said> with desperate dread</l>
+             <l><said rend="quotes">Again the <ecda:anonPers>demon</ecda:anonPers> comes!</said> with desperate dread</l>
              <l>Starts the poor wretch, and lifts her anguish'd head.</l>
-             <l>Yes! there the <ecda:anonPers ana="#demon">infant-murderer</ecda:anonPers> stood once more,</l>
+             <l>Yes! there the <ecda:anonPers>infant-murderer</ecda:anonPers> stood once more,</l>
              <l>But now far different were the looks he wore.</l>
              <l>No bending knee, no suppliant grance was seen,</l>
              <l>Proud was his port, and stern and fierce his mein.</l>
@@ -10430,27 +10430,27 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
                 <pb/> 
                 <fw type="pageNum">287</fw> 
              <l>Swiftly from crag to crag he following sprung,</l>
-             <l>While round his neck his shaggy <ecda:anonPers ana="#demon">offspring</ecda:anonPers> clung;</l>
+             <l>While round his neck his shaggy <ecda:anonPers>offspring</ecda:anonPers> clung;</l>
              <l>And now, like some dark tow'r, erect he stood,</l>
              <l>Where the last rock hung frowning o'er the flood:—</l>
              </lg>
              <lg>
              <l><said rend="quotes">Look! look!</said> he seem'd to say, with action wild,</l>
-             <l><said rend="prequotes" xml:id="s131" next="s132">Look, <rs type="person" ref="#irza_0001">mother</rs>, look! this <ecda:anonPers ana="#demon">babe</ecda:anonPers> is still your child!</said></l>
+             <l><said rend="prequotes" xml:id="s131" next="s132">Look, <rs type="person" ref="#irza_0001">mother</rs>, look! this <ecda:anonPers>babe</ecda:anonPers> is still your child!</said></l>
              <l><said xml:id="s132" prev="s131" next="s133">With him as me all social bonds you break,</said></l>
-             <l><said xml:id="s133" prev="s132" next="s134">Scorn'd and detested for his <ecda:anonPers ana="#demon">father's</ecda:anonPers> sake:</said></l>
+             <l><said xml:id="s133" prev="s132" next="s134">Scorn'd and detested for his <ecda:anonPers>father's</ecda:anonPers> sake:</said></l>
              <l><said xml:id="s134" prev="s133" next="s135">My love, my service only wrought disdain,</said></l>
              <l><said xml:id="s135" prev="s134" next="s136">And nature fed his heart from yours in vain!</said></l>
              <l><said xml:id="s136" prev="s135" next="s137">Then go, Ingrate, far o'er the ocean go,</said></l>
-             <l><said xml:id="s137" prev="s136" next="s138">Consign your <ecda:anonPers ana="#demon">friend</ecda:anonPers>, your <ecda:anonPers ana="#demon">child</ecda:anonPers> to endless woe!</said></l>
+             <l><said xml:id="s137" prev="s136" next="s138">Consign your <ecda:anonPers>friend</ecda:anonPers>, your <ecda:anonPers>child</ecda:anonPers> to endless woe!</said></l>
              <l><said xml:id="s138" prev="s137" next="s138">Renounce us! hate us! pleased, your course pursue,</said></l>
              <l><said xml:id="s139" prev="s138" rend="postquotes">And break their hearts who lived alone for you!</said></l>
              <l>His eyes, which flash'd red fire—his arms spread wide,</l>
-             <l>Her <ecda:anonPers ana="#demon">child</ecda:anonPers> raised high to heaven—too plain implied,</l>
+             <l>Her <ecda:anonPers>child</ecda:anonPers> raised high to heaven—too plain implied,</l>
              <l>Such were his thoughts, thoughts nature speech denied.</l>
              <l>And now with eager glance the deep he view'd,</l>
              <l>And now the barge with savage howl pursued;</l>
-             <l>Then too his lips the his <ecda:anonPers ana="#demon">infant</ecda:anonPers> wildly press'd,</l>
+             <l>Then too his lips the his <ecda:anonPers>infant</ecda:anonPers> wildly press'd,</l>
              <l>And fondly, fiercely, clasp'd it to his breast:</l>
              <l>Three piteous moans, three hideous yells he gave,</l>
              <l>Plunged headlong from the rock, and made the sea his grave.</l>
@@ -10482,7 +10482,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
              <l>No thanks she takes, no praise from man receives,</l>
              <l>Her duty done, the rest to God she leaves;</l>
              <l>But only when her care redeems a life,</l>
-             <l>Parting she says—<said rend="quotes">Pray for a <ecda:anonPers ana="#demon">demon's</ecda:anonPers> wife!</said></l>
+             <l>Parting she says—<said rend="quotes">Pray for a <ecda:anonPers>demon's</ecda:anonPers> wife!</said></l>
              <l>With blessings still, whene'er that nun they view,</l>
              <l>The young, the aged her sainted steps pursue,</l>
              <l>And cry, with bended knee, and suppliant air,</l>
@@ -13411,7 +13411,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
              sands render the passage in such a state extremely
              dangerous. However, a <ecda:anonPers>negro</ecda:anonPers> having been sent early
              to explore it, and having returned with a favourable
-             report, we proceeded to encounter it. A <ecda:anonPers><rs>Hordley</rs> 
+             report, we proceeded to encounter it. A <ecda:anonPers><rs type="properAdjective">Hordley</rs> 
              negro</ecda:anonPers>, well acquainted with these perilous rivers, had
              accompanied me for the express purpose of pointing
              out the most practicable fords; but for some time his
