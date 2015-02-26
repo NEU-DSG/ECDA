@@ -222,13 +222,13 @@
             </p>
             <p>
                <quote>
-                  Καθαπε<!-- char --> εν Αιγυπτ<!-- char --> του καλαμου του εν τοις
-                  ελεσιν· εχει μεν γα<!-- char --> τινα γλυxυ<!-- char -->η<!-- char -->α <!-- char -->αι αλλως
-                  επι των α<!-- 2char -->ων, αλλ' επι <!-- 2char -->αχυ ϖαν<!-- char -->ων
-                  δε δια την ευ<!-- 2char -->ο<!-- char -->ιαν απαλος γε επι ϖλειον εσ<!-- char -->ι <!-- char -->αι
-                  γλυ<!-- char -->υς. Εχουσι δε <!-- char -->αι αι <!-- char -->ι<!-- char -->αι την γλυ<!-- char -->υ<!-- char -->η<!-- char -->α
-                  μεχ<!-- char -->ις ου αν ξη<!-- char -->ανθωεσιν.Αναξη<!-- char -->ανθεισαι δε ου<!-- char -->ε<!-- char -->ι,
-                  το γα<!-- char --> ξη<!-- char -->ον, ουτ' εδωδιμον, ουτ' εΓχυλον.
+                  Καθαπερ εν Αιγυπτω του καλαμου του εν τοις
+                  ελεσιν· εχει μεν γαρ τινα γλυxυτητα και αλλως
+                  επι των ακρων, αλλ' επι ζραχυ ϖαντων
+                  δε δια την ευτροΦιαν απαλος γε επι ϖλειον εστι και
+                  γλυκυς. Εχουσι δε και αι ριζαι την γλυκυτητα
+                  μεχρις ου αν ξηρανθωεσιν.Αναξηρανθεισαι δε ουκετι,
+                  το γαρ ξηρον, ουτ' εδωδιμον, ουτ' εΓχυλον.
                </quote>
             </p>
             <p><quote rend="pre(“) post(”)">As in the <ecda:commodity>cane</ecda:commodity> which grows in marshy
@@ -293,9 +293,9 @@
                æra,—
             </p>
             <p>
-               <quote>Ει<!-- char -->η<!-- char -->ε δε ϖε<!-- char -->ι <!-- char -->αλαμων ο<!-- char -->ι ϖοιουσι
-                  μελι μελισσων μη ουοων· ου γα<!-- char --> δενδ<!-- char -->ον ειναι 
-                  <!-- char -->α<!-- char -->ποΦο<!-- char -->ον ε<!-- char --> του <!-- char -->α<!-- char -->που μεθυιν
+               <quote>Ειρηκε δε ϖερι καλαμων οτι ϖοιουσι
+                  μελι μελισσων μη ουοων· ου γαρ δενδρον ειναι 
+                  καρποΦορον εκ του καρπου μεθυιν.
                </quote>
             </p>
             <p><quote rend="pre(“) post(”)">He (<persName rend="case(smallcaps)">Nearchus</persName>) relates, that the <ecda:commodity>reed</ecda:commodity> (in
@@ -310,7 +310,7 @@
                tority of <persName rend="case(smallcaps)">Eratosthenes</persName>,—
             </p>
             <p>
-               <quote>Τας <!-- char -->ιζας των Φυ<!-- char -->ων και μαλιστα των μεγαλων
+               <quote>Τας ριζας των Φυτων και μαλιστα των μεγαλων
                   καλαμων, γλυκειας και Φυσειας και Φυσει και εψησει.
                </quote>
             </p>
@@ -1890,7 +1890,7 @@
                   in this error is, that the sugar described by the
                   ancients does not correspond with any species
                   of sugar now in use. His own words are,—
-                  <quote rend="block">Fallitur itaque mirum in modum si quies <!-- greek -->
+                  <quote rend="block">Fallitur itaque mirum in modum si quies <distinct>μελι καλαμωον</distinct>,
                   aut <distinct>αλας Ινδικου</distinct>, aut <distinct>σακχαρον</distinct>, antiquum
                   idem putat cum nostro saccharo.</quote> <bibl><title>De Saccharo
                   Comment.</title></bibl>
@@ -1912,12 +1912,17 @@
                
                <p><persName>Dioscorides</persName> (anno <date when="0064">64</date>), who is the first writer
                   which mentions the word <distinct>σακχαρον</distinct>, or sugar,
-                  in his chapter <!-- greek -->, demonstrates
+                  in his chapter <distinct>ϖερι Σακχαρου Μελιτος</distinct>, demonstrates
                   clearly that he was acquainted with
                   some species of sugar, made from the sugar
                   cane; though it plainly appears that he was
                   ignorant of the nature of its preparation.—
-                  <quote rend="block"><!-- greek --></quote>
+                  <quote rend="block">Καλειται δε και σακχαρον ειδος ον μελιτος,
+                     εν Ινδια ϖεπηγοτος και τη ευδαιμονι Αραζικ
+                     ευρισκομενον επι των καλαμων, ομοιον τη συστασει
+                     αλισι, και ϑραυομενον υπο τοις οδουσι καθαπερ
+                     οι αλες.
+                  </quote>
                   <quote rend="quotes">There is a sort of concreted honey, which
                   is called sugar, found upon canes, in <placeName>India</placeName> and
                   <placeName>Arabia Felix</placeName>: it is in consistence like salt, and
@@ -1941,14 +1946,19 @@
                </p>
                <p><persName>Arrian</persName> (anno <date when="0123">123</date>), <distinct type="dialect">in Periplo maris
                   Erythræi</distinct>, says, there is a nation bordering on the
-                  <placeName>Red Sea</placeName>, who drink <!-- greek -->
-                  <!-- greek -->;—<quote rend="quotes">honey of the reed, called
+                  <placeName>Red Sea</placeName>, who drink μελι το καλαμινον, το 
+                  λεγομενον σακχαρι;—<quote rend="quotes">honey of the reed, called
                   sugar.</quote>
                </p>
                <p><persName>Galen</persName> (anno <date when="0164">164</date>), in his 7th book of the
                   temperaments and faculties of simple medicines,
-                  <!-- greek -->, says,—
-                  <quote rend="block"><!-- greek --></quote>
+                  ϖερι Mελιτος, says,—
+                  <quote rend="block">Και το σακχαρ δε καλουμενον οπερ εξ Iνδιας
+                     τε και τμς ευδαιμονος Αρα<!-- char -->ιας καμιζεται <!-- char -->ερι
+                     <!-- 3char -->νυται μεν, <!-- char -->ς Φασι, καλαμοις, εστι δε τι
+                     και αυτο μελιτος ειδος ηττον μεν εστιν η το
+                     <!-- char -->αρ ημιν γλυκυ.
+                  </quote>
                   <quote rend="quotes">Sugar, as they call it, which is brought
                   from <placeName>India</placeName> and <placeName>Arabia Felix</placeName>, concretes, as
                   they say, about the canes, and is a species of
@@ -1958,7 +1968,13 @@
                   the <rs type="properAdjective">Greek</rs> writers on medicine, lib. II. cap.
                   54. says, from <persName>Archigenes</persName>, who lived anno
                   <date when="0117">117</date>,—
-                  <quote rend="block"><!-- greek --></quote>
+                  
+                  <pb/>
+                  <fw type="pageNum">61</fw>
+                  
+                  <quote rend="block">Αλς ο Ινδικος, χροια μεν και συστασει, ομοιος
+                     τω κοινω αλι γευσει δε μελιτωδης.
+                  </quote>
                   <quote rend="quotes">The <distinct type="dialect">Indian salt</distinct>, in colour form like
                   common salt, but in taste and sweetness like
                   honey.</quote>
@@ -1992,8 +2008,8 @@
                </p>
                <p>This can be no other preparation than that
                   we now call the white <distinct type="dialect">Sugar-Candy</distinct>; which I
-                  consider as the real <!-- greek -->: <!-- greek -->:
-                  —<!-- greek --> antiquorum.
+                  consider as the real μελι καλαμινον: αλς Ινδικος:
+                  —σακχαρον antiquorum.
                </p>
                <p>It is evident <persName>Avicenna</persName>Erroneously supposed
                   this saccharine preparation as a natrual, and not
@@ -2199,10 +2215,10 @@
                <p><persName>Salmasius</persName> derives it from a corrupt <rs type="properAdjective">Greek</rs>
                   word of the middle ages. He says,—
                   <quote xml:lang="la" rend="block">Saccharum candum, non à candore dictum,
-                  nec à canna; sed <!-- greek -->, vel <!-- greek --> &amp; <!-- greek -->,
+                  nec à canna; sed καντι, vel καντον &amp; καντιον,
                   Græci recentiores vocárunt, quod angulosum
                   sit; &amp; quum frangitur, in partes semper dissiliat
-                  angulatas. Id Græci vulgares <!-- greek --> appellant.</quote>
+                  angulatas. Id Græci vulgares καντον appellant.</quote>
                   <bibl><persName>Plin.</persName> Excert. p. 718.</bibl>
                </p>
                <p>But this is by no means satisfactory; for, if 
@@ -2210,7 +2226,7 @@
                   figure, entire, or broken, the word
                   should be written cantum, or candium, in the
                   <name>Latin</name>; or rather <distinct type="dialect">canthum</distinct>, or <distinct type="dialect">canthium</distinct>; as
-                  <distinct type="dialect"><!-- greek --></distinct> is <distinct type="dialect">angulus</distinct>, an angle or corner.
+                  <distinct type="dialect">κανθος</distinct> is <distinct type="dialect">angulus</distinct>, an angle or corner.
                </p>
                <p><persName>Salmasius</persName> has taken the barbarous word
                   from <persName>Nicholas Myrepsus</persName>, who wrote his collection
@@ -2221,7 +2237,7 @@
                   
                   authors, about the year <date when="1280">1280</date>: he is one of the
                   latest writers in the <rs type="properAdjective">Greek</rs> language. His
-                  writings are full fo barbarisms, and <!-- greek --> is found
+                  writings are full fo barbarisms, and καντιον is found
                   used by him, <title>De Antidotis</title>, cap. 35,94, and
                   96, to express what the translators have rendered
                   <quote rend="quotes">saccharum appellatum candum;</quote>—the
@@ -2229,16 +2245,16 @@
                </p>
                <p><persName>Fuchsius</persName>, one of his translators, observes,
                   in the notes to cap. 35, and 94, that though
-                  the word is <!-- greek --> in the manuscript copy, and
+                  the word is καντιον in the manuscript copy, and
                   implies what we now call <distinct type="dialect">saccharum candi, vel
                   candidum,</distinct> yet it seems to have been written
-                  originally <!-- greek -->;—and that <distinct type="dialect">candi</distinct> is only an
+                  originally κανδιον;—and that <distinct type="dialect">candi</distinct> is only an
                   abbreviation of <distinct type="dialect">candidum</distinct>.
                </p>
-               <p>Now <!-- greek -->, I believe, stands on no better
-                  authority in the <rs type="properAdjective">Greek</rs> language than <!-- greek -->;
+               <p>Now κανδιον, I believe, stands on no better
+                  authority in the <rs type="properAdjective">Greek</rs> language than καντιον;
                   and I think it is difficult to ascertain whether
-                  the word be a corruption of the <rs type="properAdjective">Greek</rs> <!-- greek -->,
+                  the word be a corruption of the <rs type="properAdjective">Greek</rs> κανθος,
                   or the <rs type="properAdjective">Latin</rs> <distinct type="dialect">candidum</distinct>, considering the period
                   when <persName>Myrepsus</persName>wrote.
                </p>
@@ -2433,11 +2449,16 @@
                   to <persName>Myrepsus</persName>.
                </p>
                <p><persName>Dioscorides</persName>, who is the first that mentions
-                  sugar by name, <!-- greek -->, from which the Latin
+                  sugar by name, σακχαρον, from which the Latin
                   <distinct type="dialect">saccharum</distinct> is derived, is also the first who speaks
                   of the medicinal qualities of sugar. In his 
-                  chapter, <!-- greek -->, he says:—
-                  <quote rend="block" xml:lang="el"><!-- greek --></quote>
+                  chapter, <!-- char -->ερι Σακχαρου Μελιτος, he says:—
+                  <quote rend="block" xml:lang="el">
+                     Εστι δε ευκοιλιον, ευστομαχον, διεθεν υδατι
+                     και <!-- char -->οθεν ωΦελουν κυοτιν κεκακωμενην καιμεΦρους
+                     καθαιρει δε και τα τας κορας επισκο τουντα 
+                     επιχριομενον.
+                  </quote>
                   <quote rend="quotes">It opens the bowels, and is good for the
                   stomach, when drunk dissolved in water: it
                   relieves pains in the bladder and kidnies: and
@@ -2453,12 +2474,16 @@
                   originated with <persName>Dioscorides</persName>.
                </p>
                <p><persName>Galen</persName>, in his 7th book of the temperaments
-                  and faculties of medicines, <!-- greek -->, says,—
+                  and faculties of medicines, <!-- char -->ερι Μελιτος, says,—
                   
                   <pb/>
                   <fw type="pageNum">78</fw>
                   
-                  <quote rend="block"><!-- greek --></quote>
+                  <quote rend="block">Την δυ<gap/>κμον <!-- char -->αραπλησιον αυτω, καθ' οσον
+                     απορρυπτει, και <!-- char -->ηραινει, και διαΦορει καθ οσον
+                     ουτε κακοστομαχον εστιν ως το <!-- char -->αρ ημιν,
+                     ουτε διψωδες, αποκεχωρηκε της ουσιας αυτον,
+                  </quote>
                   <quote rend="quotes">It possesses similar virtues (to honey), as far
                   as relates to absterging, drying, and digesting;
                   however, it is not hurtful to the stomach
@@ -4002,7 +4027,7 @@
                   <quote>Kaneh besem, and kinemon besem.</quote>
                </p>
                <p>This is rendered in the Septuagint version,
-                  <quote><!-- greek --></quote>
+                  <quote>Κινναμωμον ευωες και καλαμος ευωδες και καλαμος ευωδης.</quote>
                </p>
                <p>The <rs type="properAdjective">Latin</rs> versions in the Polyglott have it,
                   <quote xml:lang="la">Cinnamomum odoriferum, et calamus odoriferus.</quote>
@@ -4017,7 +4042,7 @@
                <p>Again, in the <title>Canticles</title>, both <distinct type="dialect">kaneh</distinct> and
                   cinnamon are mentioned, as distinct articles
                   <quote><!-- hebrew --></quote>
-                  <quote><!-- greek --></quote>
+                  <quote>Καλαμος και κινναμωμον</quote>
                </p>
                <p>The <rs type="properAdjective">Latin</rs> versions have this, <distinct type="dialect">calamus 
                   aromaticus et cinnamomum</distinct>; and <distinct type="dialect">fistula et
@@ -4064,7 +4089,7 @@
                <fw type="pageNum">130</fw>
                
                <p>The Septuagint has the part of the vers I
-                  have quited from the <name>Hebrew</name>, <!-- greek -->
+                  have quited from the <name>Hebrew</name>, κινναμωμον
                   <quote>Cinnamon from a far country</quote>. In
                   the <rs type="properAdjective">Latin</rs> verions it is rendered <quote>calamus
                   suaveolens de terra longinqua</quote>; and <quote>cinnamomum de
@@ -4072,7 +4097,7 @@
                   longinqua.</quote>
                </p>
                <p>It is necessary to observe here, that, in the 
-                  Septuagint, <!-- hebrew --> is converted into <!-- greek -->,
+                  Septuagint, <!-- hebrew --> is converted into κινναμωμον,
                   <distinct type="dialect">cinnamon</distinct>; which word is not the original
                   text; and the epithet <!-- hebrew --> <distinct type="dialect">tub</distinct>, good, perfect,
                   best, is entirely omitted.
@@ -4243,8 +4268,8 @@
                   only instance where they were not so correct
                   as they should have been.
                </p>
-               <p>We find among the <rs type="properAdjective">Greek</rs> writers <!-- greek -->
-                  and <!-- greek -->; and among the <rs type="properAdjective">Roman</rs>
+               <p>We find among the <rs type="properAdjective">Greek</rs> writers καννα
+                  δονα<!-- char --> and καλαμος; and among the <rs type="properAdjective">Roman</rs>
                   writers canna, arundo, and calamus;—but these
                   names are used indiscriminately for a cane, or
                   a reed.
@@ -4254,7 +4279,7 @@
                   context has been inadequate to settle a precise and
                   determinate meaning.
                </p>
-               <p>The <!-- greek -->, in later times, of <persName>Nicholas
+               <p>The γλυκοκαλμος, in later times, of <persName>Nicholas
                   Myrepsus</persName>, which is translators have rendered
                   
                   <pb/>
@@ -4281,7 +4306,7 @@
                   Bible every where denominates it, <quote>strong
                   drink.</quote>
                </p>
-               <p>The Septuagint renders it <!-- greek -->
+               <p>The Septuagint renders it σικορα, σικερα,
                   the <rs type="properAdjective">Latin</rs> versions sechar, sicera.
                </p>
                <p><persName>Moses</persName> says, God ordered him to proclaim
