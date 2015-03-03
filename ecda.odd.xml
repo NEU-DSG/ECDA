@@ -24,7 +24,9 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-
+      <change who="ss" when="2015-03-03">Began creating/customizing the att.persData class, which will be used to encode data for <gi>ecda:persGroup</gi>,
+        <gi>ecda:anonPers</gi>, etc.
+      </change>
       <change who="SS" when="2015-01-26">Validated document (some required attributes missing), and re-added milestone element for marking up @ana that
         occurs over large, overlapping structures. Use @spanTo and @xml:id to show how far analysis goes.
       </change>
@@ -760,7 +762,39 @@
           </content>
         </elementSpec>
         
+        <!-- ******************************** -->
+        <!-- class and att addition section   -->
+        <!-- ******************************** -->
         
+        <classSpec ident="att.personal" type="atts" mode="change">
+          <altIdent>att.persData</altIdent>
+          <desc>These attributes are meant to encode data of persons, especially
+            anonymous persons and groups of unnamed people.
+          </desc>
+          <classes mode="change">
+            <memberOf key="model.nameLike.agent"/>
+          </classes>
+          <attList>
+            <attDef ident="gender">
+              <datatype>
+                <rng:ref name="data.enumerated"/>
+              </datatype>
+              <valList type="open"/>
+            </attDef>
+            <attDef ident="religion">
+              <datatype>
+                <rng:ref name="data.enumerated"/>
+              </datatype>
+              <valList type="open"/>
+            </attDef>
+            <attDef ident="race">
+              <datatype>
+                <rng:ref name="data.enumerated"/>
+              </datatype>
+              <valList type="open"/>
+            </attDef>
+          </attList>
+        </classSpec>
         
         
         <!-- ******************************** -->

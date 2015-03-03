@@ -7,12 +7,10 @@ namespace s = "http://www.ascc.net/xml/schematron"
 namespace sch = "http://purl.oclc.org/dsdl/schematron"
 namespace xlink = "http://www.w3.org/1999/xlink"
 
-
-# Schema generated from ODD source 2015-01-26T15:20:47Z. .
+# Schema generated from ODD source 2015-03-03T08:02:39Z. .
 # TEI Edition: Version 2.7.0. Last updated on
 #	16th September 2014, revision 13036
 # TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 2.7.0/
-
 #
 
 # [Statement of availability]
@@ -1582,8 +1580,26 @@ att.source.attribute.source =
 model.resourceLike = notAllowed
 att.personal.attributes =
   att.naming.attributes,
+  att.personal.attribute.gender,
+  att.personal.attribute.religion,
+  att.personal.attribute.race,
   att.personal.attribute.full,
   att.personal.attribute.sort
+att.personal.attribute.gender =
+  
+  ## 
+  ## Sample values include: 
+  attribute gender { data.enumerated }?
+att.personal.attribute.religion =
+  
+  ## 
+  ## Sample values include: 
+  attribute religion { data.enumerated }?
+att.personal.attribute.race =
+  
+  ## 
+  ## Sample values include: 
+  attribute race { data.enumerated }?
 att.personal.attribute.full =
   
   ## indicates whether the name component is given in full, as an abbreviation or simply as an initial.
