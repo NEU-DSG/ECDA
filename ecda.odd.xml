@@ -24,7 +24,12 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change who="ss" when="2015-03-03">Began creating/customizing the att.persData class, which will be used to encode data for <gi>ecda:persGroup</gi>,
+      <change who="SS" when="2015-03-05">Changed the class list on <gi>ecda:anonPers</gi> to subscribe element to
+        att.personal. Unsubscribed from att.canonical, as it is a subset of att.personal. This should allow our persData 
+        attributes to show up for anonPers. Please note that we need to duplicate class subscription when we create 
+        <gi>ecda:persGroup</gi>.
+      </change>
+      <change who="SS" when="2015-03-03">Began creating/customizing the att.persData class, which will be used to encode data for <gi>ecda:persGroup</gi>,
         <gi>ecda:anonPers</gi>, etc.
       </change>
       <change who="SS" when="2015-01-26">Validated document (some required attributes missing), and re-added milestone element for marking up @ana that
@@ -134,7 +139,7 @@
                   <valItem ident="person"/>
                   <valItem ident="place"/>
                   <valItem ident="properAdjective"/>
-                  <valItem ident="persGroup"/>
+                  <valItem ident="persGroup"/> <!-- when changing to <gi>ecda:persGrp</gi>, make sure to subscribe to att.personal, and *not* att.canonical -SS -->
                 </valList>
               </attDef>
             </attList>
@@ -344,8 +349,8 @@
             <memberOf key="att.global"/>
             <memberOf key="model.nameLike.agent"/>
             <memberOf key="model.persStateLike"/>
-            <memberOf key="att.canonical"/>
             <memberOf key="att.responsibility"/>
+            <memberOf key="att.personal"/>
           </classes>
           <content>
             <rng:interleave>
