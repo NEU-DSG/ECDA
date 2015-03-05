@@ -347,7 +347,71 @@
            <note xml:id="n071" target="#a071">
               <bibl>Quarto ed. <date when="1677">1677</date>. chap. 87.</bibl>
            </note>
-           <note xml:id="n072" target="#a072"><quote xml:lang="la" rend="italic">Crede quod habes, et habes</quote>—<persName>Erasme</persName>!</note>
+           <note xml:id="n072" target="#a072">
+              <quote xml:lang="la" rend="italic">Crede quod habes, et habes</quote>—<persName>Erasme</persName>!
+           </note>
+           <note xml:id="n073" target="#a073">
+              <bibl><title xml:lang="fr" rend="italic">Maladies de <placeName>St. Domingue</placeName></title>, <date when="1752">1752</date></bibl>
+           </note>
+           <note xml:id="n074" target="#a074">
+              <bibl><title>Diseases of <placeName rend="italic">Barbadoes</placeName></title>, <date when="1759">1759</date>.</bibl>
+           </note>
+           <note xml:id="n075" target="#a075">
+              <bibl><title rend="italic">Syphilis</title>, p. 5</bibl>
+           </note>
+           <note xml:id="n076" target="#a076">
+              <bibl><title rend="italic">Opera Universa</title>, p. 327, ed. <persName rend="italic">Lugd. Batav.</persName>, <date when="1741">1741</date>. N.B. written
+              anno <date when="1679">1679</date>.</bibl>
+           </note>
+           <note xml:id="n077" target="#a077">
+              <bibl><title rend="italic">Treatise of Tropical Diseases</title>, ed. 3, p. 519.</bibl>
+           </note>
+           <note xml:id="n078" target="#a078">
+              <p>This <name>Obi</name>, or, as it is pronounced in the <placeName>English West Indies</placeName>,
+              <distinct>Obeah</distinct>, had its origin, like many customs among the <name>Africans</name>,
+              from the ancient <name>Egyptians</name>.</p>
+              <p><!-- hebrew --> <distinct>OB</distinct> is a demon, a spirit of divination, and magic. When
+              <persName>Saul</persName> wanted to raise up <persName>Samuel</persName> from the dead, he said to his
+              servants, <quote>Seek me a woman (<!-- hebrew --> eminent for <distinct>Ob</distinct>) that
+              hath a familiar spirit</quote></p>
+              
+              <pb xml:id="pbn001" corresp="#pb001"/>
+              
+              <p>His servants replied to him, <quote>There is (<!-- hebrew -->
+              a woman mistress in the art of <distinct>Ob</distinct>) that hath a familiar spirit, at
+              <placeName>Endor</placeName>.</quote></p>
+              <p>When the witch of <placeName>Endor</placeName> came to <persName>Saul</persName>, he said to her, 
+                 <quote>Divine unto me (<!-- hebrew --> by thy witchcraft <distinct>Ob</distinct>) by the familiar spirit,
+                 and bring me him up whom I shall name unto thee.</quote> <bibl><title>1 Samuel</title>,
+                 chap. xxviii. v. 7 and 8.</bibl></p>
+           </note>
+           <note xml:id="n079" target="#a079">
+              <floatingText>
+                 <body>
+                    <head>House of Assembly, <date when="1780-12-29">29th December, 1780</date>.</head>
+                    <p>Resolved, that, over and above the reward of one hundred 
+                    pounds offered by his Majesty's proclamation for taking or killing
+                    the rebellious negro called <persName>Three fingered Jack</persName>, the further reward
+                    of <distinct>Freedom</distinct> shall be given to any slave that shall take or kill the
+                    said <persName>Three fingered Jack</persName> and that the House will make good the
+                    value of such slave to the proprietor thereof. And if any one of
+                    his accomplices will kill the said <persName>Three fingered Jack</persName>, and bring in
+                    
+                    <pb xml:id="pbn001" corresp="#pb001"/>
+                       
+                    his head, and hand wanting three fingers, such accomplice shall be
+                    entitled to his <emph>free</emph> <distinct>Pardon</distinct>, and his <distinct>Freedom</distinct>, as above, upon
+                    due proof being made of their being the head and hand of the said
+                    <persName>Three fingered Jack</persName>.</p>
+                    <closer>By the House,
+                    <signed><persName>Samuel Howell</persName>, Cl. Assem.</signed>
+                    </closer>
+                 </body>
+              </floatingText>
+           </note>
+           <note xml:id="n080" target="#a080">
+              <bibl><author><persName>Plin.</persName></author> lib. XXVI. c. 1.</bibl>
+           </note>
         </ecda:notes>
      </ecda:hyperDiv>
      <front>
@@ -554,7 +618,7 @@
                plants, he says,—
             </p>
             <p>
-               <quote>
+               <quote xml:id="a002" corresp="#n002">
                   Καθαπερ εν Αιγυπτω του καλαμου του εν τοις
                   ελεσιν· εχει μεν γαρ τινα γλυxυτητα και αλλως
                   επι των ακρων, αλλ' επι ζραχυ ϖαντων
@@ -597,10 +661,10 @@
                in the following verses, observes,—
             </p>
                <quote>
-                  <lg type="poem" rend="slant(italic)">
+                  <lg type="poem" rend="slant(italic)" xml:id="a003" corresp="#n003">
                   <l><foreign xml:lang="la">Indica non magná nimis arbore crescit arundo</foreign></l>
                   <l><foreign xml:lang="la">Illius è lentis premitur radicibus humor</foreign>,</l>
-                  <l><foreign xml:lang="la">Dulcia cui nequeant succo contendere mella</foreign>.</l><!-- Insert footnote here! -->
+                  <l><foreign xml:lang="la">Dulcia cui nequeant succo contendere mella</foreign>.</l>
                   </lg>
                </quote>
                <p><quote rend="pre(“) post(”)">The <rs type="properAdjective"><ecda:commodity>Indian</ecda:commodity></rs> <ecda:commodity>reed</ecda:commodity> does not grow to a large
@@ -611,7 +675,7 @@
          <div type="subsection">
             <p><persName rend="case(smallcaps)">Dionysius Afer</persName> <hi rend="slant(italic)">(<foreign xml:lang="la">anno</foreign></hi> 3. Ær. Chr. <hi rend="case(smallcaps)">Sax</hi>.
                <hi rend="slant(italics)"><unclear>Onemast</unclear>.)</hi> mentions that the <name>Indians</name> drink the 
-               juice of the <unclear><!--Ερ[]θραιος καλαμος--></unclear>, or <ecda:commodity>Indian cane</ecda:commodity> <!-- Insert footnote here! -->
+               juice of the <unclear><!--Ερ[]θραιος καλαμος--></unclear>, or <ecda:commodity>Indian cane</ecda:commodity><anchor xml:id="a004" corresp="#n004"/> 
             </p>
          </div>
          
@@ -626,7 +690,7 @@
                æra,—
             </p>
             <p>
-               <quote>Ειρηκε δε ϖερι καλαμων οτι ϖοιουσι
+               <quote xml:id="a005" corresp="#n005">Ειρηκε δε ϖερι καλαμων οτι ϖοιουσι
                   μελι μελισσων μη ουοων· ου γαρ δενδρον ειναι 
                   καρποΦορον εκ του καρπου μεθυιν.
                </quote>
@@ -663,7 +727,13 @@
          <pb/>
          <fw type="pageNum">8</fw>
             
-            <p><quote><!-- Insert Latin passage! --></quote>
+            <p><quote xml:lang="la" rend="italic">Aiunt inveniri apud Indos mel in harundinum
+               foliis; quod aut ros illius cœli, aut ipsius harundinis
+               humor dulcis, et pinguior gignat. In nostris
+               quoque herbis vim eandem, sed minus manifestam,
+               &amp; notabilem poni; quam prosquatur et contrabat
+               animal huic rei genitum.
+            </quote>
             </p>
             <p><quote rend="pre(“) post(”)">They say that, in the <placeName>Indies</placeName>, <ecda:commodity>honey</ecda:commodity> is
                found in the leaves of <ecda:commodity>canes</ecda:commodity>; which is pro-
@@ -717,8 +787,8 @@
             without reason.
             </p>
             <p>If we may credit the <rs type="properAdjective">Spanish</rs> historian of
-               these islands, there was in his time, in the
-               same islands, now called <placeName rend="slant(italic)">Ferro</placeName>, or <placeName rend="slant(italic)">Hierro</placeName>, a
+               these islands, there was in his time<anchor xml:id="a006" corresp="#n006"/>, in the
+               same islands, now called <placeName xml:id="a007" corresp="#n007" rend="slant(italic)">Ferro</placeName>, or <placeName rend="slant(italic)">Hierro</placeName>, a
                marvellous tree, which made up for the de-
                ficiency of Springs, and contributed largely
                towards supplying the inhabitants of the island
@@ -784,7 +854,7 @@
                to take care of it and its water. <persName ref="Moseley_Treatise on Sugar_Anon1">He</persName> every day
                distributes to each family of the district seven
                pots or vessels full of water, besides what he
-               gives to the principal people of the island.</quote>
+               gives to the principal people of the island<anchor xml:id="a008" corresp="#n008"/>.</quote>
             </p>
             <p>That some trees and shrubs may, on hydrau-
             lic principles, become syphons to the earth,
@@ -835,10 +905,10 @@
          <div type="subsection">
             <p><persName rend="case(smallcaps)">Solinus</persName> <hi rend="slant(italic)">(<foreign xml:lang="la">anno</foreign></hi> 218), in the <bibl>52d chapter of
                his <title>Polyhistoria</title></bibl>, in describing <placeName>India</placeName>, says,—</p>
-            <p><foreign xml:lang="la">Quæ palustria sunt, arundinem creant ita cras-
+            <p><quote xml:id="a009" corresp="#n009" xml:lang="la">Quæ palustria sunt, arundinem creant ita cras-
                sam, ut fissis internodiis lembi vice vectitet navi-
                gantes; è radicubus ejus exprimitur humor dulcis ad
-               melleam suavitatem</foreign>.</p>
+               melleam suavitatem</quote>.</p>
             <p><quote rend="pre(“)post(”)">The marshy places produce <ecda:commodity>reeds</ecda:commodity> so large,
                that between the joints, when divided in the 
                middle, they are capable of carrying people in
@@ -1086,7 +1156,7 @@
                was taken of it until <date when="1419">1419</date>, when it was again
                discrovered by the <name>Portuguese</name>; who, in the
                following year, <date when="1420">1420</date>, took possession of it. It
-               was then a mere wilderness, as its name imports,
+               was then a mere wilderness, as its name imports<anchor xml:id="a010" corresp="#n010"/>,
                and unpeopled. The <name>Portuguese</name>
                burnt the woods, and made a settlement; and,
                in the same year, planted the sugar cane there,
@@ -1190,7 +1260,7 @@
                   circumference: but bunch exceedingly, and
                   vegetate so quick, that they spring up from
                   the plant in one third of the time which those
-                  of our island do.
+                  of our island do<anchor xml:id="a011" corresp="#n011"/>.
                </p>
             </quote>
             <p>The method of propagating the sugar cane
@@ -1288,7 +1358,7 @@
             <p>In <date when="1627">1627</date>, the <name>English</name> settled at <placeName>Barbadoes</placeName>;
                and, in <date when="1643">1643</date> made Sugar there. in <date when="1676">1676</date> it
                was in its most flourishing state, and employed
-               four hundred sail of vessels, which were on an average of 150 tons.
+               four hundred sail of vessels, which were on an average of 150 tons<anchor xml:id="a012" corresp="#n012"/>.
             </p>
             <p>In <date when="1627">1627</date>, the <name>English</name> settled at <placeName>Nevis</placeName>.</p>
             <p>In <date when="1632">1632</date>, the <name>English</name> settled at <placeName>Montserrat</placeName>;
@@ -1424,7 +1494,7 @@
                bring forth not past five, or six, or at the
                most seven, of those reeds; whereas in <placeName>Hispaniola</placeName>
                one root beareth twenty, and oftentimes
-               thirty.</quote> <bibl><rs type="properAdjective">English</rs> edit. 1577, page 172.</bibl> The
+               thirty<anchor xml:id="a013" corresp="#n013"/>.</quote> <bibl><rs type="properAdjective">English</rs> edit. 1577, page 172.</bibl> The
                original edition was published in <placeName>Spain</placeName>, in <date when="1530">1530</date>.
             </p>
             <p><persName>Columbus</persName>, in his first voyage in <date when="1492">1492</date>,
@@ -1449,12 +1519,12 @@
                It is to be observed. that formerly sugar grew
                only in <placeName>Valencia</placeName>, whence it was conveyed to
                <placeName>Grenada</placeName>, thence to the <placeName>Canaries</placeName>, and lastly to
-               the <placeName>Indies</placeName>, which made it more necessary to
+               the <placeName>Indies</placeName><anchor xml:id="a014" corresp="#n014"/>, which made it more necessary to
                send over balcks; and that put the <name>Portuguese</name>
                upon carrying many from <placeName>Guinea</placeName>. <placeName>Hispaniola</placeName>
                proved so natural to the blacks, as to have it
                once said that, unless one happened to be 
-               hanged, none ever died.</quote>
+               hanged, none ever died<anchor xml:id="a015" corresp="#n015"/>.</quote>
             </p>
             <p>In <date when="1726">1726</date>, the <name>French</name> made in this island
                33,000 hogsheads of sugar, of 12 hundred
@@ -1821,7 +1891,7 @@
                   that their sugar was brittle between the teeth;
                   therefore many of them call it <distinct type="dialect">Indian salt</distinct>;
                   whereas our sugar, he says, melts in the mouth,
-                  and is not brittle.
+                  and is not brittle<anchor xml:id="a016" corresp="#n016"/>.
                </p>
                <p>He contends that the <name>Arabians</name> were in an
                   error respecting their <distinct type="dialect">tabaxir</distinct>; and that it was
@@ -1877,7 +1947,35 @@
                   <bibl><title>De Simplicibus</title>, cap. 36.</bibl>
                </p>
                
-               <!-- finish latin quotes later -->
+               <p><persName>Avicenna</persName> (anno <date when="1040">1040</date>) says, <quote>Thabasir (the
+                  translator calls it Spodium) quid est? Cannarum
+                  adjustæ; dicitur enim quod ipsæ aduruntur propter
+                  fricationem suarum extremitatem, quum ventus eas
+                  perflat. Frigidum est in secundo &amp; siccum in
+                  tertio. In ipso est scipticitas, &amp; præpatario &amp;
+                  parum resolutionis, &amp; ejus infrigidatio est plumira,
+                  &amp; ejus resolutio est propter amaritudinem
+                  paucam in ipso. Ex resolutione igitur ejus, &amp; 
+                  stipticitate, fit exsiccatio fortis, &amp; est comporsitarum
+                  virtutum sicat rosa. Confert apthis, &amp; melancholiæ
+                  provenienti solitudine. Spodium (Tabaxir)
+                  confert apostematibus oculi calidis, confortat cor, et
+                  confert tremori ejus calido, &amp; syncopi factæ ex
+                  effustione choleræ ad stomachum, &amp; bibitum, &amp;
+                  linitum, &amp; confert melancholiæ ex solicitudine, &amp;
+               
+               <pb/>
+               <fw type="pageNum">47</fw>
+               
+                  timori de præteritis, &amp; terrori de futuris. Confert
+                  tussi (siti) &amp; inflammationi stomachi, &amp; debilitati
+                  ejus, &amp; prohibet effusionem choleræ ad ipsum, &amp;
+                  confert conturbationi. Prohibet solutionem colericam.
+                  Confert febricus acutis.</quote> <bibl>Lib. II. Tract.
+                  2. Cap. 617. Ed. Venetiis, 1564.</bibl>
+               </p>
+               
+               <!-- latin -->
                
                <p>Now it is evident, from the testimony of the
                   preceding authors, that the <name>Arabians</name>ascribed
@@ -2540,7 +2638,7 @@
                <p>Some suppose it had its origin from the island
                   of <placeName>Candia</placeName> (<placeName>Crete</placeName>);—others, from <placeName>Gandia</placeName>, a
                   town in <placeName>Valencia</placeName>, in which province sugar
-                  was first made in <placeName>Spain</placeName>;—others, from the
+                  was first made in <placeName>Spain</placeName><anchor xml:id="a017" corresp="#n017"/>;—others, from the
                   <rs type="properAdjective">Arabic</rs> <distinct type="dialect">elkende—elkendit</distinct>, which simply signify
                   sugar;—and others, from the <rs type="properAdjective">Latin</rs> <distinct type="dialect">candidum</distinct>
                   (<distinct type="dialect">à candore</distinct>), bright, shining, white.
@@ -2645,7 +2743,7 @@
                   island, and the sugar imported from <placeName>India</placeName> and
                   <placeName>Egypt</placeName>, the <name>Venetians</name> carried on a great traffic,
                   and supplied all the markets of <placeName>Europe</placeName> with
-                  this commodity.
+                  this commodity<anchor xml:id="a018" corresp="#n018"/>.
                </p>
                <p>Indeed, the <rs type="properAdjective">Venetian</rs> history informs us, that
                   even prior to <date when="0991">991</date>, when <persName>Orseolo</persName> was Doge
@@ -2653,13 +2751,13 @@
                   commerce with the <name>Saracens</name> into <placeName>Syria</placeName> and
                   <placeName>Egypt</placeName>, brought back from thence in return,
                   not only rice, dates, sena, cassia, flax, &amp;c. but
-                  also sugar.
+                  also sugar<anchor xml:id="a019" corresp="#n019"/>.
                </p>
                <p>This shews how much <persName>Wotton</persName> was
                   mistaken, when he asserted that <quote rend="quotes">all the arts
                   and methods of preparing sugar, which ahve made 
                   it so very useful to human life, are owing to
-                  the modern <name>Portuguese</name> and <name>English</name>.</quote>
+                  the modern <name>Portuguese</name> and <name>English</name><anchor xml:id="a020" corresp="#n020"/>.</quote>
                </p>
                <p><persName>Doctor William Douglas</persName>, of <placeName>Boston</placeName> in
                   <placeName>America</placeName>, was also mistaken, when, remarking
@@ -2667,7 +2765,7 @@
                   honey only for sweetening, and that sugar was
                   not known amongst them,</quote> he asserts that
                   <quote rend="quotes"><persName>Paulus Ægineta</persName> is the first who expressly
-                  mentions sugar.</quote>
+                  mentions sugar<anchor xml:id="a021" corresp="#n021"/>.</quote>
                </p>
                
                <pb/>
@@ -2680,7 +2778,7 @@
                   the sweet juice of the sugar-cane into that
                   form was the invention of the <name>Arabians</name>, who
                   bestowed upon it the name it bears, calling
-                  it in their own language <distinct type="dialect">succar</distinct>.</quote>
+                  it in their own language <distinct type="dialect">succar</distinct><anchor xml:id="a022" corresp="#n022"/>.</quote>
                </p>
                <p>The art of refining sugar was first practised 
                   in <placeName>England</placeName> in <date when="1544">1544</date>. The first adventurers in
@@ -2750,7 +2848,7 @@
                
                <p><persName>Actuarius</persName> was the first physician who 
                   substituted sugar for honey in medicinal
-                  compositions.
+                  compositions<anchor xml:id="a023" corresp="#n023"/>.
                </p>
                <p>It is not to be supposed, however, that such
                   a delicious and innocent article could longer be
@@ -2860,7 +2958,7 @@
                   the <distinct type="dialect">tabazet</distinct> (a white sort of honey) does not.</quote>
                </p>
                <p>In his chapter expressly on sugar, he says,—
-                  <quote rend="block"><!-- latin -->
+                  <quote rend="block"><!-- latin --><anchor xml:id="a024" corresp="#n024"/>
                   
                   <pb/>
                   <fw type="pageNum">80</fw>
@@ -3188,7 +3286,7 @@
                   <pb/>
                   <fw type="pageNum">92</fw>
                   
-                  <!-- latin that I'm not typing right now --></quote>
+                  <!-- latin that I'm not typing right now --><anchor xml:id="a025" corresp="#n025"/></quote>
                </p>
                <p><quote rend="prequotes" xml:id="q029" next="#q030">I so much condemn all things that are
                   preserved with sugar, or have much sugar 
@@ -3219,7 +3317,7 @@
                   blood and humours salt and acrid; and consequently
                   scorbutic.</quote>
                </p>
-               <p><quote rend="quotes" xml:id="q033">A certain eminent author attributes the
+               <p><quote rend="quotes" xml:id="q033">A certain eminent author<anchor xml:id="a026" corresp="#n026"/> attributes the
                   cause of the frequency of consumptions of the 
                   lungs, in <placeName>England</placeName>, to the immoderate use of
                   sugar. I am not certain wheter also the fomes
@@ -3227,7 +3325,7 @@
                   derived from thence.</quote>
                </p>
                <p><persName>Ray</persName> says,—
-                  <quote><!-- latin that I'm not typing right now -->
+                  <quote><!-- latin that I'm not typing right now --><anchor xml:id="a027" corresp="#n027"/>
                   
                   <pb/>
                   <fw type="pageNum">94</fw>
@@ -3422,7 +3520,7 @@
                   things from corruptions; sprinkled upon
                   wounds it keeps them from mortifying. I
                   have seen very large wounds cured only with
-                  sugar. Therefore sugar should be constantly
+                  sugar<anchor xml:id="a028" corresp="#n028"/>. Therefore sugar should be constantly
                
                <pb/>
                <fw type="pageNum">101</fw>
@@ -3585,7 +3683,7 @@
                   famous physicians that this nation or the world
                   ever bred, was wont to say,—
                   <quote rend="block">If sugar can preserve both pears and plumbs,
-                  Why can it not preserve as well our lungs?</quote></quote>
+                  Why can it not preserve as well our lungs<anchor xml:id="a029" corresp="#n029"/>?</quote></quote>
                </p>
                <p><quote rend="quotes" xml:id="q058">And, that it might work the same effect on
                   himself, he always drank in his claret wine
@@ -3745,7 +3843,7 @@
                   the most phlogisticated part of the nitrous
                   acid has flown off, let a receiver be luted on,
                   and the solution gently boiled. In this process
-                  and immense quantity of nitrous air is discharged.
+                  and immense quantity of nitrous air is discharged<anchor xml:id="a030" corresp="#n030"/>.
                </p>
                <p><label>C</label>When the liquor acquires a dark-
                   brown colour, let three ounces more of nitrous
@@ -3877,7 +3975,7 @@
                <quote>
                <floatingText>
                   <body>
-                     <head>Saccharated Lime</head>
+                     <head>Saccharated Lime</head><anchor xml:id="a031" corresp="#n031"/>
                      <p>Eighty-two parts of saccharine acid take
                         up 100 of pellucid calcareous spar, but not
                         immediately; because the surface, when saturated
@@ -3943,7 +4041,7 @@
                      <pb/>
                      <fw type="pageNum">116</fw>
                      
-                     <p>The vegetable alkali does indeed absorb
+                     <p><anchor xml:id="a031" corresp="#n032"/>The vegetable alkali does indeed absorb
                         the acid of sugar, but forms with it a salt not
                         very difficult of solution; and, besides, a caustic
                         lixivion, if used in too great a quantity, will
@@ -4047,7 +4145,7 @@
                         <fw type="pageNum">119</fw>
                         
                         these acids as distinct and separate
-                        substances.
+                        substances<anchor xml:id="a033" corresp="#n033"/>.
                      </p>
                   </body>
                </floatingText>
@@ -4097,7 +4195,7 @@
                   </p>
                   <p>Though, at the time of the first discovery
                      of this acid, it was though that the saccharine 
-                     principle was necessary for its formation,
+                     principle was necessary for its formation<anchor xml:id="a034" corresp="#n034"/>,
                      it is at present known, that a great number of
                      vegetables, which are not saccharine, afford it
                      in greater abundance: such are gums, starch,
@@ -4253,7 +4351,7 @@
                      
                      of the subject in rectified spirits of wine;
                      which, when saturated by heat, will deposit the
-                     sugar upon standing in the cold.
+                     sugar upon standing in the cold<anchor xml:id="a035" corresp="#n035"/>.
                   </p>
                </quote>
                <p>We have now some rational data concerning
@@ -4306,7 +4404,7 @@
                   the sugar-cane, and less of sugar; notwithstanding
                   sugar had been a commercial article
                   for centuries prior to that memorable epoch of
-                  insanity.
+                  insanity<anchor xml:id="a036" corresp="#n036"/>.
                </p>
                <p>In the writings of <persName>Moses</persName>, and in many parts
                   of the Bible written by others, we find the word
@@ -4325,9 +4423,9 @@
                <p>As a veerb in the <name>Hebrew</name>, <!-- hebrew --> <distinct type="dialect">kanah</distinct> is, to
                   buy, procure, possess. <!-- hebrew --> as a noun, property
                   which is purchased, or possessed. It is 
-                  likewise a spear, a staff, a reed, or rush;
-                  a balance; bone of the arm; branches of
-                  the candlestick in the temple.
+                  likewise a spear<anchor xml:id="a037" corresp="#n037"/>, a staff<anchor xml:id="a038" corresp="#n038"/>, a reed, or rush<anchor xml:id="a039" corresp="#n039"/>;
+                  a balance<anchor xml:id="a040" corresp="#n040"/>; bone of the arm<anchor xml:id="a041" corresp="#n041"/>; branches of
+                  the candlestick in the temple<anchor xml:id="a042" corresp="#n042"/>.
                </p>
                <p>It is said by several writers, that by <!-- hebrew -->, in 
                   some places in the Bible, the <distinct type="dialect">sugar cane</distinct> is
@@ -4462,7 +4560,7 @@
                   shekels; and of olive oil as <distinct type="dialect">hin</distinct>. And thou
                   shalt make it an oil of Holy Ointment, to be
                   made an ointment compound, after the art of
-                  the apothecary.</quote>
+                  the apothecary<anchor xml:id="a043" corresp="#n043"/>.</quote>
                </p>
                <p>With this <distinct type="religious">Holy Anointing Oil</distinct>, <persName>Moses</persName> says,
                   he was directed by God to anoint the tabernacle,
@@ -4508,7 +4606,7 @@
                <p>They used them even in their beds:—
                   <quote><!-- hebrew --></quote>
                   <quote>I have perfumed my bed with myrrh,
-                  aloes, and cinnamon.</quote>
+                  aloes, and cinnamon<anchor xml:id="a044" corresp="#n044"/>.</quote>
                </p>
                <p>The ingredients they used were indeed
                   coarse, but wholesome. By fumigation and
@@ -4544,7 +4642,7 @@
                <p>In <placeName>England</placeName> the Christians are much cleaner
                   than they used to be. They would now call
                   a man,—
-                  <quote rend="block">Misbeliever, cut-throat dog, and sipit upon his gaberdine,</quote>
+                  <quote rend="block">Misbeliever, cut-throat dog, and sipit upon his gaberdine<anchor xml:id="a045" corresp="#n045"/>,</quote>
                   
                   <pb/>
                   <fw type="pageNum">134</fw>
@@ -4586,7 +4684,7 @@
                   <fw type="pageNum">135</fw>
                   
                   could not be preserved from rotting in a passage
-                  <quote>from a far country.</quote>
+                  <quote>from a far country<anchor xml:id="a046" corresp="#n046"/>.</quote>
                </p>
                <p>How <!-- hebrew --> should have been rendered <distinct type="dialect">calamus</distinct>,
                   so universally as it has been, I cannot 
@@ -4594,7 +4692,7 @@
                </p>
                <p>The authors of the Septuagint translation of
                   the Bible must have understood, from the
-                  time and countries in which they lived, the
+                  time and countries in which they lived<anchor xml:id="a047" corresp="#n047"/>, the
                   <rs type="properAdjective">Hebrew</rs> language better than any people at
                   this day. But here they have misguided their
                   implicit followers; and, indeed, this is not the
@@ -4619,7 +4717,7 @@
                   <fw type="pageNum">136</fw>
                   
                   <distinct type="dialect">dulcis calamus repurgatus</distinct>, is the pulp of the
-                  cassia fistula.
+                  cassia fistula<anchor xml:id="a048" corresp="#n048"/>.
                </p>
                <p>It has been said, by some writers, that the
                   word <!-- hebrew --> in the Bible has an allusion to
@@ -4639,7 +4737,7 @@
                   Bible every where denominates it, <quote>strong
                   drink.</quote>
                </p>
-               <p>The Septuagint renders it σικορα, σικερα,
+               <p>The Septuagint renders it σικορα<anchor xml:id="a049" corresp="#n049"/>, σικερα<anchor xml:id="a050" corresp="#n050"/>,
                   the <rs type="properAdjective">Latin</rs> versions sechar, sicera.
                </p>
                <p><persName>Moses</persName> says, God ordered him to proclaim
@@ -4654,18 +4752,18 @@
                   <fw type="pageNum">137</fw>
                   
                   shall he drink any liquor of grapes, nor eat
-                  moist grapes, or dried.</quote>
+                  moist grapes, or dried<anchor xml:id="a051" corresp="#n051"/>.</quote>
                </p>
                <p>The inspired prophet <persName>Jeremiah</persName> says, God
                   gave him <quote>the cup of his fury;</quote> and that he
                   <quote>made all nations drink of it, to whom the
                   Lord had sent him;</quote> and he said unto them,
                   <quote>drink ye, and be <!-- hebrew --> (veshikru) drunken,
-                  and spue, and fall</quote>
+                     and spue, and fall<anchor xml:id="a052" corresp="#n052"/></quote>
                </p>
                <p>These passages are here given, the original
                   <rs type="properAdjective">Hebrew</rs> words excepted, from the <rs type="properAdjective">English</rs>
-                  Bible; which, though not an elegant, is a
+                  Bible<anchor xml:id="a053" corresp="#n053"/>; which, though not an elegant, is a
                   faithful translation of the <name>Hebrew</name>.
                </p>
                <p>What sottish liquor <!-- hebrew --> shekar was, no
@@ -4700,7 +4798,7 @@
                   heat and light.
                </p>
                <p>The proportion of sugar to the cane juice 
-                  depends on the quality of the cane. We
+                  depends on the quality of the cane<anchor xml:id="a054" corresp="#n054"/>. We
                   consider a pound of sugar from a gallon of cane
                   juice, as good yielding; and that an acre of
                   land, as good yielding; and that an acre of
@@ -4801,7 +4899,7 @@
                <p>No modern physicians have noticed this;
                   but the ancients were well acquainted with the
                   injurious effects of milk, on the teeth and 
-                  gums.
+                  gums<anchor xml:id="a055" corresp="#n055"/>.
                </p>
                <p>In regard to sugar being prejudicial to the
                   teeth, this has long been known as a prudent
@@ -4841,7 +4939,7 @@
                <p>Sugar does not create worms in children,
                   as has been often said: on the contrary, it
                   destroys worms. Some writers have mentioned
-                  this; but my authority is my own observation.
+                  this<anchor xml:id="a056" corresp="#n056"/>; but my authority is my own observation.
                </p>
                <p>In the <placeName>West Indies</placeName>, the negro children, from
                   crudes vegetable diet, are much afflicted with
@@ -4902,14 +5000,14 @@
                   and mixtures. It promotes their maceration
                   and digestion in the stomach; and qualifies
                   the effects of digestion, to the powers of the
-                  lacteals.
+                  lacteals<anchor xml:id="a057" corresp="#n057"/>.
                </p>
                <p>For this reason, sugar is much used in foreign
                   cookery, and so much introduced at the tables
                   of the luxurious in <placeName>France</placeName>, and also in
                   <placeName>Italy</placeName>, <placeName>Portugal</placeName>, <placeName>Spain</placeName>,—and indeed in every
                   country, excepting <placeName>England</placeName>, in confections,
-                  preserves, sweetmeats, and liqueurs.
+                  preserves, sweetmeats, and liqueurs<anchor xml:id="a058" corresp="#n058"/>.
                </p>
                <p>Sugar, in the form of syrup is an admirable
                   vehicle, to comminute and convey to the
@@ -4948,7 +5046,7 @@
                </p>
                <p>In his <title>History of the West Indies</title>, he has
                   drawn a faithful representation of a plantation,
-                  in the season of making sugar.
+                  in the season of making sugar<anchor xml:id="a059" corresp="#n059"/>.
                </p>
                
                <pb/>
@@ -4966,7 +5064,7 @@
                   yet being indulged with plenty of the green
                   tops of this noble plant, and some of the
                   scummings from the boiling house, improve
-                  more than at any other period of the year.</quote>
+                  more than at any other period of the year<anchor xml:id="a060" corresp="#n060"/>.</quote>
                </p>
                <p>It must be observed, that muscovado, or
                   what is called mosit sugar, is laxative; and
@@ -5068,7 +5166,7 @@
                </p>
                <p>They honey of some countries is poisonous to
                   everyone who makes use of it. <persName>Pompey</persName> lost
-                  three regiments in <placeName>Pontus</placeName>, to poisoned honey;
+                  three regiments in <placeName>Pontus</placeName>, poisoned by honey<anchor xml:id="a061" corresp="#n061"/>;
                   and <persName>Pliny</persName> says, there is a district in that
                   country, which yields honey that makes people
                   mad who eat it.
@@ -5127,6 +5225,10 @@
                   themselves; and frequently in the most
                   irresistible, and distressing manner.
                </p>
+               
+               <pb/>
+               <fw type="pageNum">50</fw>
+               
                <p>Rhubarb, among several articles which
                   might be mentioned, violently disorders some
                   people, of all characters of habit, and periods
@@ -5146,9 +5248,9 @@
                   constituting our daily food.
                </p>
                <p><persName>Bacon</persName> says, <quote>all life hath a sympathy with
-                  salt.</quote> This is true, and the same may be
+                  salt<anchor xml:id="a062" corresp="#n062"/>.</quote> This is true, and the same may be
                   said of sugar. I have one instance of antipathy
-                  on record however, against salt; I know
+                  on record however, against salt<anchor xml:id="a063" corresp="#n063"/>; I know
                   of none against sugar. But doubtless there are
                   instances, where individuals dislike sugar: but
                   I never knew an instance of sugar disagreeing
@@ -5242,11 +5344,11 @@
                   supper.
                </p>
                <p>Animal food is not necessary for the pleasurable
-                  existence, and bodily health of man;
+                  existence, and bodily health of man<anchor xml:id="a064" corresp="#n064"/>;
                   for the mental pleasure and health, perhaps quite
                   <!-- the contrary. -->
                </p>
-               <p>In the time of <persName>Pythagoras</persName>, sugar was
+               <p>In the time of <persName>Pythagoras</persName><anchor xml:id="a065" corresp="#n065"/>, sugar was
                   unknown; even to this great traveller. Otherwise
                   his philosophy would have had more converts.
                   His diet was impracticable in most
@@ -5259,7 +5361,7 @@
                <fw type="pageNum">154</fw>
                
                <p>If the pure, divine <persName>Pythagoras</persName>, 
-                  undergoing the changes he suggested, be now in
+                  undergoing the changes he suggested<anchor xml:id="a066" corresp="#n066"/>, be now in
                   this our planet, and conscious of his former
                   being, how must his holy spirit be depressed
                   at the disappointment of the flattering hope
@@ -5310,7 +5412,7 @@
                </p>
                <p><persName>Chaucer</persName>, in his <title>Troilus and Cressida</title>,
                   written in <date when="1380">1380</date>, mentions, allegorically, the
-                  sweetness of sugar.
+                  sweetness of sugar<anchor xml:id="a067" corresp="#n067"/>.
                </p>
                <p>The importation of sugar into <placeName>England</placeName> in
                   <date when="1700">1700</date> amounted to 481,425 hundred weight;
@@ -5332,7 +5434,7 @@
                   which leaves the annual consumption in <placeName>England</placeName>
                   and <placeName>Scotland</placeName> 1,655,266 hundred weight;
                   or 118,233 hogsheads, of 14 hundred
-                  weight each.
+                  weight each<anchor xml:id="a068" corresp="#n068"/>.
                </p>
                <p>Thus we find 185,389,792 pounds of sugar
                   are annually consumed in <placeName>England</placeName> and
@@ -5384,7 +5486,7 @@
                   in <placeName>England</placeName>, but in <placeName>Europe</placeName>, not confined to the
                   present generation, that that would descend to
                   the child unborn. Of such importance has
-                  the agriculture of half a million of <name>Africans</name>,
+                  the agriculture of half a million of <name>Africans</name><anchor xml:id="a069" corresp="#n069"/>,
                   become to <name>Europeans</name>.
                </p>
                
@@ -5437,7 +5539,7 @@
                   the inclination of the mind than is generally
                   imagined, depend on the nature and quality
                   of our food. This I had occasion formerly to
-                  remark.
+                  remark<anchor xml:id="a070" corresp="#n070"/>.
                </p>
                <p>Without resorting to the metamorphosis of
                   <persName>Nebuchadnezzer</persName>, <persName>Montesquieu</persName> was so
@@ -5576,7 +5678,7 @@
                   land of <placeName>Cathay</placeName>, seen in <date when="1333">1333</date>, by the rare and
                   inimitable <persName>Sir John Mandevile</persName>,—who, he
                   says, were <quote>wild, with horns on their heads,
-                  very hideous and speak not; but rout as swine.</quote>
+                     very hideous and speak not; but rout as swine<anchor xml:id="a071" corresp="#n071"/>.</quote>
                </p>
                <p>Wonderful things to certainly apear in all
                   ages; the great <persName>Erasmus</persName> mentions a man, one
@@ -5586,7 +5688,7 @@
                   fluently. When his physician cured him of
                   the disorder, he could not speak a word of that
                   language. The <rs type="properAdjective">Dutch</rs> worms and the <rs type="properAdjective">Dutch</rs>
-                  language, left Philario together!
+                  language, left Philario together<anchor xml:id="a072" corresp="#a072"/>!
                </p>
                <p>In this <!-- Cowmania --> it is not enough for reason
                   to concede, that the Cow-pox may lessen, <emph>for
@@ -5688,15 +5790,15 @@
                </p>
                <p><persName>Chevalier</persName> and <persName>Hillary</persName> speak of the <distinct>yaws</distinct>;
                   but their accounts are erroneous. <persName>Chevalier</persName>
-                  perhaps never saw it. <persName>Hillary</persName> often saw
+                  perhaps never saw it<anchor xml:id="a073" corresp="#n073"/>. <persName>Hillary</persName> often saw
                   it; but he misunderstands <persName>Hali Abras</persName>, whom
                   he has quoted; endeavoring to prove it is
-                  common in <placeName>Arabia</placeName> as well as in <placeName>Africa</placeName>.
+                  common in <placeName>Arabia</placeName> as well as in <placeName>Africa</placeName><anchor xml:id="a074" corresp="#n074"/>.
                </p>
-               <p><persName>Turner</persName> never saw it, and is absurd; and
+               <p><persName>Turner</persName> never saw it, and is absurd<anchor xml:id="a075" corresp="#n075"/>; and
                   our great <persName>Sydenham</persName>, who was a total stranger 
                   to it, never committed an error, scarcely, but
-                  in this instance.
+                  in this instance<anchor xml:id="a076" corresp="#n076"/>.
                </p>
                
                <pb/>
@@ -5762,7 +5864,7 @@
                   with success. Care soon removes the principal
                   mischief of the distemper; and the <distinct>crab yaws</distinct>
                   are easily cured in the manner which I have
-                  related in another publication.
+                  related in another publication<anchor xml:id="a077" corresp="#n077"/>.
                </p>
                <p>Formerly there was no regular method of 
                   treating the <distinct>yaws</distinct> in the <placeName>West Indies</placeName>. It was
@@ -5831,7 +5933,7 @@
                   they usually taught their landlord the
                   mysteries of sigils, spells, and sorcery; and
                   <emph>illuminated</emph> him in all the occult science of
-                  <distinct ana="#obeah #religious">Obi</distinct>.
+                  <distinct ana="#obeah #religious">Obi</distinct><anchor xml:id="a078" corresp="#n078"/>.
                </p>
                
                <pb/>
@@ -5994,7 +6096,7 @@
                <p>Allured by the rewards offered by <persName>Governor
                   Dalling</persName>, in a proclamation, dated the <date when="1780-12-12">12th
                   of December, 1780</date>, and by a resolution which 
-                  followed it, of the <orgName>House of Assembly</orgName>, to
+                  followed it, of the <orgName>House of Assembly</orgName><anchor xml:id="a079" corresp="#n079"/>, to
                   
                   <pb/>
                   <fw type="pageNum">176</fw>
@@ -6285,7 +6387,7 @@
                   Bronchocele in <rs type="properAdjective">Alpine</rs> countries?
                </p>
                <p>What did <persName>Pliny</persName> know of the <distinct>Germusa</distinct>or
-                  what do we know of the <distinct>Mentagra?</distinct>
+                  what do we know of the <distinct>Mentagra<anchor xml:id="a080" corresp="#n080"/>?</distinct>
                </p>
                
                <pb/>
