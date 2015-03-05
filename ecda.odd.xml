@@ -24,6 +24,7 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
+      <change who="SS" when="2015-03-05">Added <gi>ecda:persGroup</gi></change>
       <change who="SS" when="2015-03-05">Changed the class list on <gi>ecda:anonPers</gi> to subscribe element to
         att.personal. Unsubscribed from att.canonical, as it is a subset of att.personal. This should allow our persData 
         attributes to show up for anonPers. Please note that we need to duplicate class subscription when we create 
@@ -373,6 +374,42 @@
             </rng:interleave>
           </content>
         </elementSpec>
+        
+              <!-- element persGroup added 
+        Used to replace <rs type="persGroup"> -->
+        
+        <elementSpec ident="persGroup" mode="add" ns="http://dsg.northeastern.edu/ecda/ns/1.0">
+          <desc>Used to encode references to groups of persons in the text</desc>
+          <classes mode="replace">
+            <memberOf key="att.global"/>
+            <memberOf key="model.nameLike.agent"/>
+            <memberOf key="model.persStateLike"/>
+            <memberOf key="att.responsibility"/>
+            <memberOf key="att.personal"/>
+          </classes>
+          <content>
+            <rng:interleave>
+              <rng:text/>
+              <rng:zeroOrMore>
+                <rng:ref name="model.gLike"/>
+              </rng:zeroOrMore>
+              <rng:zeroOrMore>
+                <rng:ref name="model.nameLike"/>
+              </rng:zeroOrMore>
+              <rng:zeroOrMore>
+                <rng:ref name="model.emphLike"/>
+              </rng:zeroOrMore>
+              <rng:zeroOrMore>
+                <rng:ref name="pb"/>
+              </rng:zeroOrMore>
+              <rng:zeroOrMore>
+                <rng:ref name="fw"/>
+              </rng:zeroOrMore>
+            </rng:interleave>
+          </content>
+        </elementSpec>
+        
+        
         
         <classSpec ident="model.hyperDivPart" type="model" mode="add" generate="sequenceOptional">
           <desc>groups together elements that may appear inside the
