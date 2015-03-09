@@ -192,7 +192,7 @@
               <bibl><title xml:lang="fr">Histoire du Commerce de <placeName>Venise</placeName></title>, p. 71. 100.</bibl>
            </note>
            <note xml:id="n037" target="#a037">
-              <bibl><title>Psalms</title>, lxviii. v. 30. <!-- hebrew --> <distinct>hastæ</distinct>. <title>2 Samuel</title>, c. xiv. v. 16.</bibl>
+              <bibl><title>Psalms</title>, lxviii. v. 30. קיגו <distinct>hastæ</distinct>. <title>2 Samuel</title>, c. xiv. v. 16.</bibl>
            </note>
            <note xml:id="n038" target="#a038">
               <bibl><title>Ezekiel</title>, c. xxix. v. 6.</bibl>
@@ -212,7 +212,7 @@
               <bibl><title>Exodus</title>, c.xxv. v.32.</bibl>
            </note>
            <note xml:id="n043" target="#a043">
-              <p><distinct><!-- hebrew --></distinct> an apothecary, or compounder of sweet ointments.</p>
+              <p><distinct>ךוקה</distinct> an apothecary, or compounder of sweet ointments.</p>
            </note>
            <note xml:id="n044" target="#a044">
               <bibl><title>Proverbs</title>, c. vii. v. 17. English Bible</bibl>
@@ -370,18 +370,18 @@
               <p>This <name>Obi</name>, or, as it is pronounced in the <placeName>English West Indies</placeName>,
               <distinct>Obeah</distinct>, had its origin, like many customs among the <name>Africans</name>,
               from the ancient <name>Egyptians</name>.</p>
-              <p><!-- hebrew --> <distinct>OB</distinct> is a demon, a spirit of divination, and magic. When
+              <p> אוב<distinct>OB</distinct> is a demon, a spirit of divination, and magic. When
               <persName>Saul</persName> wanted to raise up <persName>Samuel</persName> from the dead, he said to his
-              servants, <quote>Seek me a woman (<!-- hebrew --> eminent for <distinct>Ob</distinct>) that
+              servants, <quote>Seek me a woman (בעלה אוב eminent for <distinct>Ob</distinct>) that
               hath a familiar spirit</quote></p>
               
               <pb xml:id="pbn001" corresp="#pb001"/>
               
-              <p>His servants replied to him, <quote>There is (<!-- hebrew -->
+              <p>His servants replied to him, <quote>There is (אשה בעלה אוב
               a woman mistress in the art of <distinct>Ob</distinct>) that hath a familiar spirit, at
               <placeName>Endor</placeName>.</quote></p>
               <p>When the witch of <placeName>Endor</placeName> came to <persName>Saul</persName>, he said to her, 
-                 <quote>Divine unto me (<!-- hebrew --> by thy witchcraft <distinct>Ob</distinct>) by the familiar spirit,
+                 <quote>Divine unto me (באוב by thy witchcraft <distinct>Ob</distinct>) by the familiar spirit,
                  and bring me him up whom I shall name unto thee.</quote> <bibl><title>1 Samuel</title>,
                  chap. xxviii. v. 7 and 8.</bibl></p>
            </note>
@@ -432,7 +432,7 @@
               <title>and the Climate of the <placeName>West Indies</placeName></title>;
               and
               <title>A Treatise of <ecda:commodity>Coffee</ecda:commodity></title>:
-              <!--occupation-->Physician to <orgName><placeName>Chelsea</placeName> Hospital</orgName>,
+              Physician to <orgName><placeName>Chelsea</placeName> Hospital</orgName>,
               Member of the <orgName>College of Physicians of <placeName>London</placeName></orgName>.
               of the <orgName>University of <placeName>Leyden</placeName></orgName>,
               of the <orgName>American Philosophical Society</orgName>
@@ -1974,9 +1974,52 @@
                   Confert febricus acutis.</quote> <bibl>Lib. II. Tract.
                   2. Cap. 617. Ed. Venetiis, 1564.</bibl>
                </p>
+               <p>Serapion (anno <date when="1070">1070</date>) says, adducing his
+                  authorities,—
+                  <quote rend="block" xml:lang="la">Sataiscir, vel Rescius, id est Spodium.</quote>
+               </p>
+               <p><persName>Bedigores</persName>,—<quote rend="italic" xml:lang="la">Proprietatis spodii est, quod
+                  confert caliditati choleræ.</quote>
+               </p>
+               <p><persName>Rhases</persName> <distinct xml:lang="la">ex verbo</distinct> <persName>Galeni</persName>,—<quote rend="italic">In spodio est
+                  resolutio, &amp; prohibitio, &amp; repercussio, &amp; infrigidatio,
+                  sed infrigidatio ejus est fortior, &amp; in sapore ejus
+                  est amaritudo, &amp; stipicitas, &amp; propter hoc deficcat.
+                  Et jam est declaratum, quod in spodio est
+                  virtus composita, sicut rosa, &amp; non est in spodio
+                  tantum scipticitas, quantum in rosa.</quote>
+               </p>
+               <p><persName>Diosocorides</persName>,—<quote xml:lang="la" rend="italic">Spodium confert apostematibus
+                  calidis oculorum.</quote>
+               </p>
+               <p><persName>Meseah</persName>,—<quote xml:lang="la" rend="italic">Spodium est frigidum in tertio gradu,
+                  siccum in secundo, confert inflationi choleræ,
+                  &amp; fortificat stomachum, &amp; confert ulceribus oris.</quote>
+               </p>
+               <p><persName>Mesarugie</persName>,—<quote xml:lang="la" rend="italic">est bonum choleræ, &amp; syncopi,
+                  et bother (pustulis) factis in ore puerorum.</quote>
+               </p>
                
-               <!-- latin -->
+               <pb/>
+               <fw type="pageNum">48</fw>
                
+               <p><persName>Rhases</persName>,—<quote xml:lang="la" rend="italic">Spodium est frigidum et siccum in
+                  tertio gradu, stringit ventrem, et confert ulceribus
+                  oris, et inflationi choleræ, et fortificat stomachum,
+                  et confert syncopi, et cardiacæ, et fortiicat stomachum, 
+                  et confert syncopi, et cardiacæ calidæ quando
+                  datur in potu ex eo, et confert bother (pustulis)
+                  frigidis in ore infantium.</quote> <bibl><title>De Temperamentis
+                  Simplicium</title>, Cap. 332.</bibl>
+               </p>
+               <p><persName>Averroes</persName>, (anno <date when="1198">1198</date>) says,
+                  <quote rend="block" xml:lang="la">Tabaisis, id est spodium, carbo est nodorum arundinum
+                  adjustarum Indiæ: frigidum est &amp; siccum in
+                  tertio gradu, et ejus proprietas est removere caliditatem
+                  et inflammationen choleræ, et confortat
+                  stomachum, et confert cardiacæ calidæ.</quote> <bibl><title>De
+                  Simplicibus</title>, Cap. 56.</bibl>
+               </p>
                <p>Now it is evident, from the testimony of the
                   preceding authors, that the <name>Arabians</name>ascribed
                   no property whatever to their <distinct type="dialect">tabaxir</distinct>, that is
@@ -2958,13 +3001,35 @@
                   the <distinct type="dialect">tabazet</distinct> (a white sort of honey) does not.</quote>
                </p>
                <p>In his chapter expressly on sugar, he says,—
-                  <quote rend="block"><!-- latin --><anchor xml:id="a024" corresp="#n024"/>
+                  <quote rend="block" xml:lang="la">Zuccarum quid est? Arundo zuccari in natura
+                     zuccari existit, et est vehementioris lenificationis
+                     quàm ipsum. Frigidius est album et est subilius.
+                     Et universaliter est calidum in fine primi. Et
+                     antiquum declinat ad siccitatem in primo, et est
+                     humidum in ipso; et quanto magis antiquatur,
+                     tanto plus exsiccatur. Est lenificativum, abstersivum,
+                     lavativum. Et sulimenum est magis lenitivum,
+                     et proprie Alfenid<anchor xml:id="a024" corresp="#n024"/>; imò mel arundinis et
+                     zuccarum non sunt inferiora melle in abstergendo,
+                     et minidficando; et quanto plus antiquatur zuccarum,
+                     tanto sit subtilius, Assumptum sicut gumma
+                     ab arunidne, abstergit oculum. Lenit pectus,
                   
                   <pb/>
                   <fw type="pageNum">80</fw>
                   
                   
-                  <!-- latin --></quote>
+                     et removet ipsius asperitatem. Est bonum stomacho,
+                     in quo non generatur cholera: ipsum enim
+                     lædit, propterea quia ad choleram convertitur, et
+                     est aperitivum oppilationum, et in ipso est virtus 
+                     faciens sitim, minorem tamen sitim, quàm facit
+                     mel propriè illud quod super arundinem
+                     invenitur, sicut sal, et sulimenum quidem,
+                     et rubrum vehementioris sunt lenificationis, et 
+                     quandoque inflat, et quandoque sedat inflationem,
+                     et ipsum quidem cum oleo amydalino confert 
+                     cholicae.</quote> <bibl>Lib. II. tract. 2. cap. 755.</bibl>
                </p>
                <p><persName>Avicenna</persName>, in his chapter <title>de Asperitate
                   Linguæ</title>, copying <persName>P. Ægineta</persName>, says, the tongue,
@@ -3166,17 +3231,84 @@
                   authors have been disseminated in every part
                   of <placeName>Europe</placeName>.
                </p>
-               <!-- latin that I'm not typing right now -->
+               <p><persName>Garencieres</persName> says,<quote xml:lang="la" rend="quotes">Saccharum et saccharata
+                  omnia toto genere huic morbo (Tabes Anglica) 
+                  insensissima, &amp; in eo progignendo multa esse censeo
+                  quorum quum usus si tam frequens, mirum videri non
+                  debet si tanta tabidorum seges hic pullutat,</quote> &amp;c.
+               </p>
+               <p>
+                  <quote xml:lang="la" rend="quotes">Cum de saccharo prædominante qualitate sit
+                  sermo, illam esse calidetatem contendo, qamvis satis
+                  obscuram; indicio est quod sitim gignit,</quote> &amp;c.
+               </p>
+               <p>
+                  <quote xml:lang="la" rend="quotes">Qua qualitate calida non parum pulmoni obesse
+                  postest, cum pulmo sit maximè calidus et moderatè
+                  frigidis potius detectetur, calidiorum vero usu facile
+                  inflammationem excipiat,</quote> &amp;c.
+               </p>
+               <p>
+                  <quote xml:lang="la" rend="quotes">Sed quod cardo totius rei est, saccharum non
+                  solum temeramento et materia, verum etiam tota
+                  substatia pulmoni est inimicum id qhod neminem
+                  non ignarum mihi negaturum essa puto; cume enim
+                  non solum aulce, sed etiam sit dulcissimum, &amp;
+                  propterea amaro è diametro oppositum numquid sequi debet,
+                  si amaru <gap extent="1char"/> ex omnium recepta sententia super vacuos
                
                <pb/>
                <fw type="pageNum">87</fw>
                
-               <!-- latin that I'm not typing right now -->
+                  humores siccando absorbet aut detergit, ac propterea
+                  optima ratione putredinem arcet, et corpora diu integra
+                  conservat, quod dulce propter oppositas facultates,
+                  fœcundus putredinis parens esse debet, id quod etiam
+                  longe citius accidet si in partem quæ nulla coctrice
+                  facultate prædita sid incidat, à quâ postea non possit
+                  edomari?</quote> &amp;c.
+               </p>
+               <p>
+                  <quote xml:lang="la" rend="italic">Certum est nullam, vel minimam, fieri fermentationem
+                  inter ea quæ qualitatibus inter se conveniunt,
+                  ut saccharum et caro, illud enim propter dulcedinem et balsamicam qualitatem, hæc vero ob
+                  humorem dulcem, ita ad invicem accedant, ut si
+                  caro quæpiam saccharo condiatur, festinam
+                  corruptionem patietur, nisi saccharum ad amaritudinem
+                  excoctum sit, cum tamen sale condita in multum
+                  tempus perseveret, eo quod inter salem qui
+                  acris est, et carnis balsamum quod dulce est, quædam
+                  sit fermentatio propter dissidium qualitatum,
+                  post quam fermentationem novum quoddam 
+                  temperamentum procedit; idem etiam apparet in saccharo,
+                  quod, cum ita cito carnes corrumpat, fructus tamen
+                  acidos longiuscule à putredine incolumes tutatur,
+                  quia ipsius dulcedo cum aciditate seu acerbitate
+                  fermentatur, et novum inde temperamentum perfectè
+                  mixtum producit. In spuradictorum confirmationem
+                  non omittendum est, quod in insula Sancti Thomæ
+                  sub Æquatore molunt cannas, et quod superat, expresso
+                  succo, objiciunt porcis qui inde dicuntur in tam
+                  miram teneritundinem pinguescere, ut de bonitate
                
                <pb/>
                <fw type="pageNum">88</fw>
-               
-               <!-- latin that I'm not typing right now -->
+                     
+                  cum capris Hispanicis certent, denturque vulgo
+                  ventriculis invaidis ad facilem concocturam. Unde
+                  colligere est, quod, si saccharum ea vi et facultate
+                  pollet, ut suillam omnium fere carnium tenacissimam
+                  ad tantam teneritudinem adducat, eadem prorsus
+                  ratione corruptelam et sphacelum in pulmonibus 
+                  accelerabit, cum ipsi sint molles et spongiosæ
+                  substantiæ, et stypticis astringentibus conserventur. Luce
+                  igitur clarius est saccharum non alimentum sed
+                  nocumentum, non alexiterium sed deleterium, esse ad
+                  Indias rursus ab egandum, ante quas detectas verisimile
+                  est effectum hunc planè latuisse, et cum iis
+                  mercibus ad nos esse advectum.</quote> <bibl><title>Angliæ Flagellum,
+                  seu Tabes Anglica</title>. Anno <date when="1647">1647</date>. p. 92. &amp; seq.</bibl>
+               </p>
                <p>The substance of which is,—
                   <quote rend="prequotes" xml:id="q020" next="#q021">Sugar and all kinds of sweetmeats are
                   very hurtful in consumption of the lungs, and 
@@ -3281,12 +3413,32 @@
                   fruits of our enterprize.</quote>
                </p>
                <p><persName>Willis</persName> says,—
-                  <quote rend="block"><!-- latin that I'm not typing right now -->
+                  <quote rend="block">Saccharo condita, aut plurimum imbuta, in
+                  tantum vitupero, ut illius inventionem, ac usum
+                  immodicum, scorbuti in nupero hoc seculo immani
+                  augmento, plurimum contribuisse, existimenl enim
+                  vero concretum istud sale satis acri &amp; corrosivo,
+                  cum sulphure tamen delinito, constat, prout ex analysi
+                  ejus spagyrice facta liquido patet Quippe
+                  saccharum, prout supra innuimus, per se distillatum,
+                  exhibet liquorem aqua stygia vix inferiorem;
+                  quod si ipsum in vesica plurima aqua fontana
+                  perfusum, distillaveris, quamvis sal fixus non adeo 
+                  ascendit, prodibit tamen liquor instar aquæ vitæ
+                  acerrimæ, urens, ac summe pungitivus; cum
                   
                   <pb/>
                   <fw type="pageNum">92</fw>
                   
-                  <!-- latin that I'm not typing right now --><anchor xml:id="a025" corresp="#n025"/></quote>
+                  itaque saccharum, quibusvis fere alimentis commixtum,
+                  ita copiosce a nobis assumitur, quam verisimile
+                  est, ab ejus usu quotidiano, sanguinem &amp;
+                  humores, salsos et acres, proindeque scorbuticos,
+                  reddi? Author quidam insignis<anchor xml:id="a025" corresp="#n025"/> <distinct>Tabis
+                  Angliæ</distinct> causam in immoderatum sacchari apud
+                  nostrates usum retulit: nescio au non poitus etiam
+                  hinc scorbuti ingrebrescentis fomes derivetur.</quote> <bibl><title>De
+                  Scorbuto</title>, cap. 10. Anno <date when="1674">1674</date>.</bibl>
                </p>
                <p><quote rend="prequotes" xml:id="q029" next="#q030">I so much condemn all things that are
                   preserved with sugar, or have much sugar 
@@ -3325,12 +3477,39 @@
                   derived from thence.</quote>
                </p>
                <p><persName>Ray</persName> says,—
-                  <quote><!-- latin that I'm not typing right now --><anchor xml:id="a027" corresp="#n027"/>
+                  <quote>Antiquiores medici, qui superiore seculo vixerunt,
+                  unanimi fere consensu saccharum ad pectoris &amp;
+                  pulmonum vitia, rancedinem, tussium gutturis asperitatem,
+                  lateris &amp; thoracis ulcera, commendant.
+                  Cæterum apud nos in Anglia non ita pridem in
+                  crimen adduci, &amp; magna infamia laborare cœpit,
+                  medicis tum nostratibus, tum extraneis, scorbuti &amp;
+                  tabis popularium morborum præter solitum 
+                  grassantium nuperas furias, immoderato in cibis &amp;
+                  potu sacchari usui imputantibus<anchor xml:id="a027" corresp="#n027"/>, et ne quis 
+                  humidiori potius æris consitutioni eas pestes suspicetur;
+                  in Lusitania (aiunt) regione calida ob
+                  eandam rationem tabes epidemica facta est.
                   
                   <pb/>
                   <fw type="pageNum">94</fw>
                   
-                  <!-- latin that I'm not typing right now --></quote>
+                  sitani enim plus sacchari consumunt quam quævis
+                  alia gens præter Anglos</quote>
+               </p>
+               <p>
+                  <quote xml:lang="la" rend="italic">De scorbuto iidem antiquiores, quos diximus, 
+                  medici cum recentioribus consentiunt, eum à sacchari
+                  nimio usu produci, com dentibus valde nocuum,
+                  nec eos nigros duntaxat reddere, sed &amp; potrescere
+                  &amp; vacillare &amp; exidere facere saccharum scribant,
+                  quæ certa scorbuti signa &amp; symptomata sunt. Saccharum
+                  enim salem acidum &amp; maxime corrosivum
+                  continere ex distilliatione patet. Scorbutus autem
+                  sali fixo in sanguine reduntati debetur, proinde
+                  iis quæ sale volatili abundant sanatur.</quote> <bibl><title>Historia
+                  Plantarum</title>, lib. XXII. cap. 3. p. 1279, 1280,
+                  anno <date when="1688">1688</date>.</bibl>
                </p>
                <p><quote rend="prequotes" xml:id="q034" next="#q035">The physicians who lived in the last
                   century, with unanimous consent, recommend sugar
@@ -3459,7 +3638,28 @@
                   ample justice to the wholesome properties of
                   sugar.
                </p>
-               <p><quote><!-- latin I'm not typing right now --></quote></p>
+               <p><quote>Sacchari virtutes ac operationes, secundum rationem
+                  &amp; modum usurpati, sunt sequentes:—Corpus
+                  nutrit, santunem probum generat, spiritus vitales
+                  recreat, semen auget, fœtum in utero firmat; quod
+                  nemo miretur, siquidem hoc subjectum, æmulam
+                  cini dulcissimi virtutem, ut porro docebo, in se
+                  complectitur, cujus proprietam, in refectione longo
+                  morbo emaciatorum, senum melancholicorum, 
+                  moderatus usus comprobat; conducit affectbus facium,
+                  pulmonum, raucedini, respirandi difficultati, ex
+                  defluxione acri obortis. exulcerationi item pulmonum,
+                  laterum, renum vesicæ, purisque ex iisdem expurgationi;
+                  intestinorum asperitatem lenit, eorumque
+                  excrementa emollit, &amp; expulsioni apparat; vulnera
+                  in corpus penetrantia &amp; puncturas, ut etiam oculorum
+                  maculas, extergit; dolores ulcerum &amp; tumorum,
+                  humores influxos coquendo, aut si ad suppurationem
+                  inhabiles sunt digerendo, dissipat; pluresque
+                  alios in medicina usus habet, brevitas gratia
+                  prætermittendos.</quote> <bibl><title>Saccharologiæ</title>, part I.
+                  cap. 6. anno <date when="1637">1637</date>.</bibl>
+               </p>
                <p><quote rend="prequotes" xml:id="q039" next="#q040">Sugar, used in a proper manner, nourishes
                   the body, generates good blood, cherishes the
                   spirits, makes people prolific, strengthens 
@@ -3513,7 +3713,15 @@
                   to any contemporary writer in the northern
                   parts of <placeName>Europe</placeName>; where it has then scarcely
                   entered into dietic use. He says,—
-                  <quote rend="block" xml:lang="la"><!-- latin I'm not typing right now  --></quote>
+                  <quote rend="block" xml:lang="la">Ex harundinibus saccharum extrahimus, non
+                     solum id incorruptibilie, sed aliis præstat ne 
+                     corrumptantur; vulneribus injectum à putrafactione
+                     liberat; ex eo solo ingentia vulnera sanari vidimus.
+                     Sit igitur familiare saccharum vitam prolongare
+                     cupientibus, quia nec humores, nec cibum in ventre
+                     putrefierii, permittit. <bibl><title>Phytognomica</title>, lib. V.
+                     cap. I. p. 201. anno <date when="1560">1560</date>.</bibl>
+                  </quote>
                </p>
                <p><quote rend="quotes">Sugar, extracted from canes, is not only 
                   incorruptible in itself, but preserves all other
@@ -4408,26 +4616,26 @@
                </p>
                <p>In the writings of <persName>Moses</persName>, and in many parts
                   of the Bible written by others, we find the word
-                  <distinct type="dialect"><!-- hebrew --></distinct> <distinct type="dialect">Kaneh</distinct>.
+                  <distinct type="dialect">קגה</distinct> <distinct type="dialect">Kaneh</distinct>.
                </p>
                <p>This word, passing into the <rs type="properAdjective">Arabic</rs> language,
                   became the origin of <distinct type="dialect">canna</distinct>, a cane.
                </p>
-               <p>But this <!-- hebrew --> in the Bible has many 
+               <p>But this קגה in the Bible has many 
                   significations.
                </p>
                
                <pb/>
                <fw type="pageNum">127</fw>
                
-               <p>As a veerb in the <name>Hebrew</name>, <!-- hebrew --> <distinct type="dialect">kanah</distinct> is, to
-                  buy, procure, possess. <!-- hebrew --> as a noun, property
+               <p>As a veerb in the <name>Hebrew</name> ,קגה <distinct type="dialect">kanah</distinct> is, to
+                  buy, procure, possess. קגה as a noun, property
                   which is purchased, or possessed. It is 
                   likewise a spear<anchor xml:id="a037" corresp="#n037"/>, a staff<anchor xml:id="a038" corresp="#n038"/>, a reed, or rush<anchor xml:id="a039" corresp="#n039"/>;
                   a balance<anchor xml:id="a040" corresp="#n040"/>; bone of the arm<anchor xml:id="a041" corresp="#n041"/>; branches of
                   the candlestick in the temple<anchor xml:id="a042" corresp="#n042"/>.
                </p>
-               <p>It is said by several writers, that by <!-- hebrew -->, in 
+               <p>It is said by several writers, that by קגה, in 
                   some places in the Bible, the <distinct type="dialect">sugar cane</distinct> is
                   meant; and consequently that this plant was
                   known to the ancient <name>Hebrews</name>. This is to
@@ -4443,7 +4651,7 @@
                   <bibl>Jeremiah, c. vi. v. 20.</bibl> and <bibl>Ezekiel, c. xxcii. vi. 19.</bibl>
                </p>
                <p>If we examine the passages here referred to,
-                  we shall find that <!-- hebrew --> has been doubtfully
+                  we shall find that קגה has been doubtfully
                   
                   <pb/>
                   <fw type="pageNum">128</fw>
@@ -4454,7 +4662,7 @@
                </p>
                <p>In the preceding chaper in <title>Exodus</title> we
                   find,—
-                  <quote><!-- hebrew --></quote>
+                  <quote>קגה בשם וקגטן בשם</quote>
                   <quote>Kaneh besem, and kinemon besem.</quote>
                </p>
                <p>This is rendered in the Septuagint version,
@@ -4466,18 +4674,18 @@
                <p>In our <rs type="properAdjective">English</rs> Bible it is, <quote>sweet cinnamon
                   and <distinct>sweet calamus</distinct>.</quote>
                </p>
-               <p>In some of the <rs type="properAdjective">Latin</rs> the <!-- hebrew -->
+               <p>In some of the <rs type="properAdjective">Latin</rs> the קגה בשם
                   is rendered <distinct type="dialect">calamus beneolens</distinct>, and <distinct type="dialect">
                   aromaticus.</distinct>
                </p>
                <p>Again, in the <title>Canticles</title>, both <distinct type="dialect">kaneh</distinct> and
                   cinnamon are mentioned, as distinct articles
-                  <quote><!-- hebrew --></quote>
+                  <quote>קגה וקגמון</quote>
                   <quote>Καλαμος και κινναμωμον</quote>
                </p>
                <p>The <rs type="properAdjective">Latin</rs> versions have this, <distinct type="dialect">calamus 
                   aromaticus et cinnamomum</distinct>; and <distinct type="dialect">fistula et
-                  cinnamomum</distinct>: <!-- hebrew --> is also rendered <distinct type="dialect">canna</distinct> in one version
+                  cinnamomum:</distinct> קוה <distinct type="dialect">canna</distinct> in one version
                   of the Polyglott, as it is by Montanus, Our
                   
                   <pb/>
@@ -4490,7 +4698,7 @@
                   grateful to God, who is represented by him as
                   being angry with the <name>Israelites</name>, for neglecting
                   their burnt offerings and sacrifices.
-                  <quote><!-- hebrew --></quote>
+                  <quote>לא קגיה לי בבםת קגה</quote>
                </p>
                <p>In our <rs type="properAdjective">English</rs> Bible this passage is,—
                   <quote rend="quotes">Thou hast bought me no <distinct type="dialect">sweet cane</distinct> with
@@ -4505,7 +4713,7 @@
                   burnt offerings, and sacrifices. Here also the
                   <distinct type="dialect">kaneh</distinct> is mentioned by God, as an article of
                   the first consideration.
-                  <quote><!-- hebrew --></quote>
+                  <quote>זקגה הטוב טאדץ טדהק</quote>
                </p>
                <p>The whole verse is thus rendered in the
                   <rs type="properAdjective">English</rs> Bible.
@@ -4528,9 +4736,9 @@
                   longinqua.</quote>
                </p>
                <p>It is necessary to observe here, that, in the 
-                  Septuagint, <!-- hebrew --> is converted into κινναμωμον,
+                  Septuagint, קגה is converted into κινναμωμον,
                   <distinct type="dialect">cinnamon</distinct>; which word is not the original
-                  text; and the epithet <!-- hebrew --> <distinct type="dialect">tub</distinct>, good, perfect,
+                  text; and the epithet טוב <distinct type="dialect">tub</distinct>, good, perfect,
                   best, is entirely omitted.
                </p>
                <p>These are errors in the labours of those great
@@ -4539,7 +4747,7 @@
                   known of it to posterity.
                </p>
                <p>But these errors have led some writers, who
-                  knew no more of <!-- hebrew --> than what they obtained
+                  knew no more of קגה than what they obtained
                   from this passage in the Bible, to suppose it
                   was a synonyme for cinnamon.
                </p>
@@ -4547,7 +4755,7 @@
                   by God, among the boasted commodities of
                   merchandize at <placeName>Tyre</placeName>, in her most flourishing
                   state of commerce.
-                  <quote><!-- hebrew --></quote>
+                  <quote>קדה וקגה בטעדבך היה׃</quote>
                   <quote>Cassia and calamus were in thy market.</quote>
                </p>
                <p>In <title>Exodus</title>, <distinct type="dialect">kaneh</distinct> is mentioned by <persName>Moses</persName> as
@@ -4604,7 +4812,7 @@
                   aromatic drugs, part of their religion.
                </p>
                <p>They used them even in their beds:—
-                  <quote><!-- hebrew --></quote>
+                  <quote>גמהי טשבבי טד אהלים וקגטון׃</quote>
                   <quote>I have perfumed my bed with myrrh,
                   aloes, and cinnamon<anchor xml:id="a044" corresp="#n044"/>.</quote>
                </p>
@@ -4654,13 +4862,13 @@
                <p>But I must finish my observations on
                   <distinct type="dialect">kaneh</distinct>.
                </p>
-               <p>What this <!-- hebrew --> was, I know not. It could 
+               <p>What this קוה was, I know not. It could 
                   not be the acorus, or the calamus aromaticus; that
                   was to plentiful to be so valued; and grew in 
                   <placeName>Syria</placeName>, <placeName>Arabia</placeName>, and the islands of the Gentiles,
                   and in all the swamps and marshes in the adjacent
                   countries to the land of <placeName>Israel</placeName>; and
-                  was not brought <!-- hebrew --> <quote>from a far
+                  was not brought טאדץ טדהק <quote>from a far
                   country.</quote>
                </p>
                <p>That the <distinct type="dialect">kaneh</distinct> was some spicey produce of
@@ -4671,7 +4879,7 @@
                   the chosen people, and the estimation in which
                   it ws said to be holden by God.
                </p>
-               <p>The epithet <!-- hebrew --> imports spicey, sweet scented,
+               <p>The epithet בשם imports spicey, sweet scented,
                   not sweet tasted; therefore the sugar cane is
                   entirely out of the question.
                </p>
@@ -4686,7 +4894,7 @@
                   could not be preserved from rotting in a passage
                   <quote>from a far country<anchor xml:id="a046" corresp="#n046"/>.</quote>
                </p>
-               <p>How <!-- hebrew --> should have been rendered <distinct type="dialect">calamus</distinct>,
+               <p>How קוה should have been rendered <distinct type="dialect">calamus</distinct>,
                   so universally as it has been, I cannot 
                   conceive.
                </p>
@@ -4720,7 +4928,7 @@
                   cassia fistula<anchor xml:id="a048" corresp="#n048"/>.
                </p>
                <p>It has been said, by some writers, that the
-                  word <!-- hebrew --> in the Bible has an allusion to
+                  word שבד in the Bible has an allusion to
                   sugar.
                </p>
                <p>This word, like <distinct type="dialect">kaneh</distinct>, according to the
@@ -4728,7 +4936,7 @@
                   several significations; but none whatever that
                   has any relation to sugar.
                </p>
-               <p>As a verb <!-- hebrew --> shakar or shacar, imports to
+               <p>As a verb שבד shakar or shacar, imports to
                   drink to excess, to be drunk; to hire for wages.
                </p>
                <p>As a noun, it forms various derivatives;
@@ -4744,9 +4952,9 @@
                   to the children of <placeName>Israel</placeName>, that <quote>when
                   either man or woman shall separate themselves
                   to a vow, a vow of a <name>Nazarite</name> he shall
-                  separate himself from wine, and <!-- hebrew --> (shecar) stron
+                  separate himself from wine, and שבד (shecar) strong
                   drink; and shall drink no vinegar of wine, or
-                  vinegar of <!-- hebrew --> (shecar) strong drink; neither
+                  vinegar of שבד (shecar) strong drink; neither
                   
                   <pb/>
                   <fw type="pageNum">137</fw>
@@ -4758,7 +4966,7 @@
                   gave him <quote>the cup of his fury;</quote> and that he
                   <quote>made all nations drink of it, to whom the
                   Lord had sent him;</quote> and he said unto them,
-                  <quote>drink ye, and be <!-- hebrew --> (veshikru) drunken,
+                  <quote>drink ye, and be וְש֧בְדו (veshikru) drunken,
                      and spue, and fall<anchor xml:id="a052" corresp="#n052"/></quote>
                </p>
                <p>These passages are here given, the original
@@ -4766,7 +4974,7 @@
                   Bible<anchor xml:id="a053" corresp="#n053"/>; which, though not an elegant, is a
                   faithful translation of the <name>Hebrew</name>.
                </p>
-               <p>What sottish liquor <!-- hebrew --> shekar was, no
+               <p>What sottish liquor ׁשֵבׇד shekar was, no
                   person knows. It was probably made from grain.
                </p>
                <p>The most wild and barbarous nations have
@@ -6691,14 +6899,414 @@
               Sugars Exported from <placeName>Great Britain</placeName> in the above periods; with the amount of Drawbacks and Bounties paid thereon,
               distinguishing each year, and the Raw from the Refined; distinguishing also the quantities exported to <placeName>Ireland</placeName>.
            </head>
-           <table>
+           <table cols="4" rows="1"> 
               <row>
-                 <cell><supplied>Year.</supplied></cell>
-                 <cell>Quantity.</cell>
-                 <cell>Duty.</cell>
+                 <cell>
+                    <table cols="1" rows="29">
+                       <row xml:id="head1">
+                          <cell>Year.</cell>
+                       </row>
+                       <row xml:id="head2">
+                          <cell/>
+                       </row>
+                       <row xml:id="d1764">
+                          <cell><date when="1764">1764</date></cell>
+                       </row>
+                       <row xml:id="d1765">
+                          <cell><date when="1765">5</date></cell>
+                       </row>
+                       <row xml:id="d1766">
+                          <cell><date when="1766">6</date></cell>
+                       </row>
+                       <row xml:id="d1767">
+                          <cell><date when="1767">7</date></cell>
+                       </row>
+                       <row xml:id="d1768">
+                          <cell><date when="1768">8</date></cell>
+                       </row>
+                       <row xml:id="d1769">
+                          <cell><date when="1769">9</date></cell>
+                       </row>
+                       <row xml:id="d1770">
+                          <cell><date when="1770">1770</date></cell>
+                       </row>
+                       <row xml:id="d1771">
+                          <cell><date when="1771">1</date></cell>
+                       </row>
+                       <row xml:id="d1772">
+                          <cell><date when="1772">2</date></cell>
+                       </row>
+                       <row xml:id="d1773">
+                          <cell><date when="1773">3</date></cell>
+                       </row>
+                       <row xml:id="d1774">
+                          <cell><date when="1774">4</date></cell>
+                       </row>
+                       <row xml:id="d1775">
+                          <cell><date when="1775">5</date></cell>
+                       </row>
+                       <row xml:id="d1776">
+                          <cell><date when="1776">6</date></cell>
+                       </row>
+                       <row xml:id="d1777">
+                          <cell><date when="1777">7</date></cell>
+                       </row>
+                       <row xml:id="d1778">
+                          <cell><date when="1778">8</date></cell>
+                       </row>
+                       <row xml:id="d1779">
+                          <cell><date when="1779">9</date></cell>
+                       </row>
+                       <row xml:id="d1780">
+                          <cell><date when="1780">1780</date></cell>
+                       </row>
+                       <row xml:id="d1781">
+                          <cell><date when="1781">1</date></cell>
+                       </row>
+                       <row xml:id="d1782">
+                          <cell><date when="1782">2</date></cell>
+                       </row>
+                       <row xml:id="d1783">
+                          <cell><date when="1783">3</date></cell>
+                       </row>
+                       <row xml:id="d1784">
+                          <cell><date when="1784">4</date></cell>
+                       </row>
+                       <row xml:id="d1785">
+                          <cell><date when="1785">5</date></cell>
+                       </row>
+                       <row xml:id="d1786">
+                          <cell><date when="1786">6</date></cell>
+                       </row>
+                       <row xml:id="d1787">
+                          <cell><date when="1787">7</date></cell>
+                       </row>
+                       <row xml:id="d1788">
+                          <cell><date when="1788">8</date></cell>
+                       </row>
+                       <row xml:id="d1789">
+                          <cell><date when="1789">9</date></cell>
+                       </row>
+                       <row xml:id="d1790">
+                          <cell><date when="1790">1790</date></cell>
+                       </row>
+                       <row xml:id="d1791">
+                          <cell><date when="1791">1</date></cell>
+                       </row>
+                    </table>
+                 </cell>
+                 <cell>
+                    <table cols="2" rows="1">
+                       <head>British Plantation Sugar imported.</head>
+                       <row>
+                          <cell>
+                             <table cols="3" rows="29">
+                                <head corresp="#head1">Quantity</head>
+                                <row corresp="#head2">
+                                   <cell>Cwt.</cell>
+                                   <cell>q.</cell>
+                                   <cell>lb.</cell>
+                                </row>
+                                <row corresp="#d1764">
+                                   <cell><unclear><gap/>97</unclear></cell>
+                                   <cell>—</cell>
+                                   <cell>15</cell>
+                                </row>
+                                <row corresp="#d1765">
+                                   <cell><gap/>7,159</cell>
+                                   <cell>3</cell>
+                                   <cell>18</cell>
+                                </row>
+                                <row corresp="#d1766">
+                                   <cell><gap/>32</cell>
+                                   <cell>2</cell>
+                                   <cell>19</cell>
+                                </row>
+                                <row corresp="#d1767">
+                                   <cell><gap/>,834</cell>
+                                   <cell>1</cell>
+                                   <cell>8</cell>
+                                </row>
+                                <row corresp="#d1768">
+                                   <cell><gap/>12</cell>
+                                   <cell>2</cell>
+                                   <cell>14</cell>
+                                </row>
+                                <row corresp="#d1769">
+                                   <cell><gap/>,070</cell>
+                                   <cell>—</cell>
+                                   <cell>5</cell>
+                                </row>
+                                <row corresp="#d1770">
+                                   <cell><gap/>,229</cell>
+                                   <cell>1</cell>
+                                   <cell>23</cell>
+                                </row>
+                                <row corresp="#d1771">
+                                   <cell><gap/>2,096</cell>
+                                   <cell>2</cell>
+                                   <cell>24</cell>
+                                </row>
+                                <row corresp="#d1772">
+                                   <cell><gap/>0,721</cell>
+                                   <cell>—</cell>
+                                   <cell>8</cell>
+                                </row>
+                                <row corresp="#d1773">
+                                   <cell><gap/>4,080</cell>
+                                   <cell>2</cell>
+                                   <cell>26</cell>
+                                </row>
+                                <row corresp="#d1774">
+                                   <cell>1,229,725</cell>
+                                   <cell>1</cell>
+                                   <cell>25</cell>
+                                </row>
+                                <row corresp="#d1775">
+                                   <cell>1,022,059</cell>
+                                   <cell>3</cell>
+                                   <cell>23</cell>
+                                </row>
+                                <row corresp="#d1776">
+                                   <cell>1,726,507</cell>
+                                   <cell>1</cell>
+                                   <cell>16</cell>
+                                </row>
+                                <row corresp="#1777">
+                                   <cell>1,416,191</cell>
+                                   <cell>1</cell>
+                                   <cell>5</cell>
+                                </row>
+                                <row corresp="#1778">
+                                   <cell>1,521,157</cell>
+                                   <cell>1</cell>
+                                   <cell>24</cell>
+                                </row>
+                                <row corresp="#1779">
+                                   <cell>1525,833</cell>
+                                   <cell>—</cell>
+                                   <cell>―</cell>
+                                </row>
+                                <row corresp="#d1780">
+                                   <cell>1,394,559</cell>
+                                   <cell>1</cell>
+                                   <cell>23</cell>
+                                </row>
+                                <row corresp="#d1781">
+                                   <cell><gap/>,080,848</cell>
+                                   <cell>2</cell>
+                                   <cell>9</cell>
+                                </row>
+                                <row corresp="#d1782">
+                                   <cell><unclear>1</unclear>,374,269</cell>
+                                   <cell>3</cell>
+                                   <cell>24</cell>
+                                </row>
+                                <row corresp="#d1783">
+                                   <cell><gap/>584,275</cell>
+                                   <cell>—</cell>
+                                   <cell>18</cell>
+                                </row>
+                                <row corresp="#d1784">
+                                   <cell>1,782,386</cell>
+                                   <cell>—</cell>
+                                   <cell>3</cell>
+                                </row>
+                                <row corresp="#d1785">
+                                   <cell>2,075,909</cell>
+                                   <cell>3</cell>
+                                   <cell>24</cell>
+                                </row>
+                                <row corresp="#d1786">
+                                   <cell>1,613,965</cell>
+                                   <cell>1</cell>
+                                   <cell>14</cell>
+                                </row>
+                                <row corresp="#d1787">
+                                   <cell>1,936,440</cell>
+                                   <cell>—</cell>
+                                   <cell>26</cell>
+                                </row>
+                                <row corresp="#d1788">
+                                   <cell>2,065,817</cell>
+                                   <cell>1</cell>
+                                   <cell>23</cell>
+                                </row>
+                                <row corresp="#d1789">
+                                   <cell>1,936,440</cell>
+                                   <cell>—</cell>
+                                   <cell>2</cell>
+                                </row>
+                                <row corresp="#d1790">
+                                   <cell>1,882,106</cell>
+                                   <cell>—</cell>
+                                   <cell>4</cell>
+                                </row>
+                                <row corresp="#d1791">
+                                   <cell>1,808,950</cell>
+                                   <cell>—</cell>
+                                   <cell>9</cell>
+                                </row>
+                             </table>
+                          </cell>
+                          <cell>
+                             <table cols="3" rows="29">
+                                <head corresp="#head1">Duty</head>
+                                <row corresp="#head2">
+                                   <cell>L.</cell>
+                                   <cell>s.</cell>
+                                   <cell>d.</cell>
+                                </row>
+                                <row corresp="#d1764">
+                                   <cell>467,814</cell>
+                                   <cell>7</cell>
+                                   <cell>—</cell>
+                                </row>
+                                <row corresp="#d1765">
+                                   <cell>385,788</cell>
+                                   <cell>7</cell>
+                                   <cell>—</cell>
+                                </row>
+                                <row corresp="#d1766">
+                                   <cell>478,709</cell>
+                                   <cell>1</cell>
+                                   <cell>—</cell>
+                                </row>
+                                <row corresp="#d1767">
+                                   <cell>480,895</cell>
+                                   <cell>19</cell>
+                                   <cell>9</cell>
+                                </row>
+                                <row corresp="#d1768">
+                                   <cell>519,194</cell>
+                                   <cell>5</cell>
+                                   <cell>6</cell>
+                                </row>
+                                <row corresp="#d1769">
+                                   <cell>479,443</cell>
+                                   <cell>17</cell>
+                                   <cell>—</cell>
+                                </row>
+                                <row corresp="#d1770">
+                                   <cell>571,605</cell>
+                                   <cell>17</cell>
+                                   <cell>5</cell>
+                                </row>
+                                <row corresp="#d1771">
+                                   <cell>469,077</cell>
+                                   <cell>17</cell>
+                                   <cell>10</cell>
+                                </row>
+                                <row corresp="#d1772">
+                                   <cell>575,218</cell>
+                                   <cell>10</cell>
+                                   <cell>4</cell>
+                                </row>
+                                <row corresp="#d1773">
+                                   <cell>565,157</cell>
+                                   <cell>17</cell>
+                                   <cell>6</cell>
+                                </row>
+                                <row corresp="#d1774">
+                                   <cell>638,104</cell>
+                                   <cell>18</cell>
+                                   <cell>8</cell>
+                                </row>
+                                <row corresp="#d1775">
+                                   <cell>635,370</cell>
+                                   <cell>14</cell>
+                                   <cell>1</cell>
+                                </row>
+                                <row corresp="#d1776">
+                                   <cell>542,770</cell>
+                                   <cell>15</cell>
+                                   <cell>—</cell>
+                                </row>
+                                <row corresp="#1777">
+                                   <cell>445,246</cell>
+                                   <cell>11</cell>
+                                   <cell>4</cell>
+                                </row>
+                                <row corresp="#1778">
+                                   <cell>478,304</cell>
+                                   <cell>13</cell>
+                                   <cell>7</cell>
+                                </row>
+                                <row corresp="#1779">
+                                   <cell>506,671</cell>
+                                   <cell>18</cell>
+                                   <cell>5</cell>
+                                </row>
+                                <row corresp="#d1780">
+                                   <cell>463,080</cell>
+                                   <cell>19</cell>
+                                   <cell>—</cell>
+                                </row>
+                                <row corresp="#d1781">
+                                   <cell>633,647</cell>
+                                   <cell>2</cell>
+                                   <cell>—</cell>
+                                </row>
+                                <row corresp="#d1782">
+                                   <cell>844,030</cell>
+                                   <cell>15</cell>
+                                   <cell>10</cell>
+                                </row>
+                                <row corresp="#d1783">
+                                   <cell>973,909</cell>
+                                   <cell>—</cell>
+                                   <cell>―</cell>
+                                </row>
+                                <row corresp="#d1784">
+                                   <cell>1,094,682</cell>
+                                   <cell>1</cell>
+                                   <cell>7</cell>
+                                </row>
+                                <row corresp="#d1785">
+                                   <cell>1,274,954</cell>
+                                   <cell>14</cell>
+                                   <cell>2</cell>
+                                </row>
+                                <row corresp="#d1786">
+                                   <cell>902,301</cell>
+                                   <cell>—</cell>
+                                   <cell>―</cell>
+                                </row>
+                                <row corresp="#d1787">
+                                   <cell>1,188,083</cell>
+                                   <cell>1</cell>
+                                   <cell>10</cell>
+                                </row>
+                                <row corresp="#d1788">
+                                   <cell>1,273,920</cell>
+                                   <cell>15</cell>
+                                   <cell>—</cell>
+                                </row>
+                                <row corresp="#d1789">
+                                   <cell>1,194,915</cell>
+                                   <cell>2</cell>
+                                   <cell>6</cell>
+                                </row>
+                                <row corresp="#d1790">
+                                   <cell>1,160,645</cell>
+                                   <cell>12</cell>
+                                   <cell>4</cell>
+                                </row>
+                                <row corresp="#d1791">
+                                   <cell>1,350,893</cell>
+                                   <cell>10</cell>
+                                   <cell>9</cell>
+                                </row>
+                             </table>
+                          </cell>
+                       </row>
+                    </table>
+                 </cell>
+                 <cell></cell>
+                 <cell></cell>
               </row>
-              <!-- we need to discuss how this is going to work. -->
            </table>
+           
         </div>
         
         <pb/>
