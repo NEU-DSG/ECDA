@@ -39,17 +39,18 @@
             the sun (whose fiery ardour had not been moderated
             in any part of his course by the least zephyr
             of the sea breeze) had just sunk behind the emerald
-            summits of the Blue Mountain, and relieved 
+            summits of <placeName ref="#blue_mountains">the Blue Mountain</placeName>, and relieved 
             from his scorching rays those <rs type="persGroup">Europeans</rs> who
-            toil on the northern shores of <placeName>Jamaica</placeName>; <rs ref="#roland_0001" type="person">a person</rs>
+            toil on the northern shores of <placeName ref="#jamaica">Jamaica</placeName>; <rs ref="#roland_0001" type="person">a person</rs>
             who (from some circumstances about to be explained)
-            appeared to be a stranger, was seen
+            appeared to be <rs ref="#roland_0001" type="person">a stranger</rs>, was seen
             riding along the western bank of the <placeName ref="#rio_grande">Rio Grande</placeName>,
             that clear and beautiful stream which hurrying
             
             <fw>VOL I.</fw>
             <pb/>
             <fw type="pageNum">2</fw>
+            
             down from the wildernesses of the island, carries
             the torrents of its highest mountains to the
             <placeName ref="#atlantic_ocean">Atlantic</placeName>. <rs ref="roland_0001" type="person">The stranger</rs> seemed to be seeking a 
@@ -80,9 +81,10 @@
             straps of a portmanteau mounted behind him on
             his <ecda:fauna>horse</ecda:fauna>'s crupper; and his great-coat, of the 
             same sombre hue as his other vestments, was fast-
-            <pb/>
             
+            <pb/>
             <fw type="pageNum">3</fw>
+            
             ended upon his saddle bow. He was attended by a 
             bare-legged <rs ref="#cuffy_0001" type="person">negro boy</rs> on foot, dressed in an Osnaburgh
             frock and drawers, which, with a glazed hat
@@ -97,7 +99,7 @@
             he did not at present) as well understood by
             young <persName ref="#cuffy_0001">Cuffy</persName> as expressed by the <ecda:fauna>horse</ecda:fauna>.</p>
             
-            <p>This youngster's features scarcely harmonized 
+            <p>This <rs ref="#cuffy_0001" type="person">youngster</rs>'s features scarcely harmonized 
             with those of his very demure and melancholy looking
             <rs ref="roland_0001" type="person">master</rs>, whose pale and cadaverous countenance 
             indicated something more than bodily 
@@ -181,6 +183,7 @@
             the death of its <ecda:anonPers>proprietor</ecda:anonPers>, whose <ecda:anonPers>widow</ecda:anonPers> had 
             gone down to <placeName ref="#port_antonio">Port Antonio</placeName>, while his <rs type="persGroup">slaves</rs>,
             
+            <pb/>
             <fw type="pageNum">6</fw> 
             
             some eighteen or twenty, had run away into the 
@@ -214,8 +217,8 @@
             profits, punishments:—whether they expected to 
             be free, and how many Mulatto and Quadroon 
             girls there were on their master's estate, and if 
-            <pb/>
             
+            <pb/>
             <fw type="pageNum">7</fw>
             
             his daughter were handsome; and then relapsed 
@@ -241,6 +244,7 @@
             expired, and the shadows of night rendered still 
             more sombre the forlorn and unfrequented path 
             along which they journeyed.</p>
+            
             <pb/>
             </div>
             <!-- There are pages missing in the PDF -->
@@ -278,8 +282,8 @@
             dingle, through which they could discover, by the 
             occasional flashes of lightning, a river of more 
             importance than the many petty streams they 
+           
             <pb/>
-            
             <fw type="pageNum">11</fw>
             
             had already crossed. This was indeed the <placeName ref="#rio_grande">Rio 
@@ -387,7 +391,7 @@
             soon swelling to a torrent, augmented by another 
             which found its way through the chasms of the 
             precipice as if it had burst from some subterranean 
-            reservoir. The traveller's situation became 
+            reservoir. <rs ref="#roland_0001" type="person">The traveller</rs>'s situation became 
             insupportable; he must remove or perish; yet 
             not daring to quit the crags to which he clung, 
             and availing himself of the partial lee they afforded, 
@@ -416,7 +420,7 @@
             
             which the mouth of a cave might be distinguished 
             by a glare of the lightning, sufficient in appearance 
-            to ensure our traveller shelter and safety for 
+            to ensure our <rs ref="#roland_0001" type="person">traveller</rs> shelter and safety for 
             the night—shelter from the rain, and security from 
             the wind. It was a most perilous undertaking to 
             pass this bridge; but prompted by hope, and urged 
@@ -608,14 +612,14 @@
             returned to the fire, on which he heaped fresh fuel, 
             raking forward the embers to cook his meat: 
             placed his lamp on a shelf of the rock full in his 
-            view; and taking a gombah for his stool, sat down 
+            view; and taking a <distinct>gombah</distinct> for his stool, sat down 
             very deliberately to his supper. He ate with no 
             sparing appetite; and the <ecda:food>rum</ecda:food> which he quaffed 
             as his thirst prompted him, refreshed his body 
             and composed his mind so happily and so gradually, 
             that what with that and his fatigue, the 
             solace of the fire and the fumes of his digestion, 
-            he at last slipt gently from his gombah, which 
+            he at last slipt gently from his <distinct>gombah</distinct>, which 
             now served him for a pillow, rolled himself up in 
             his blanket, and fell into a profound sleep.</p>
          </div>
@@ -1425,7 +1429,7 @@
             with the concessions of the others; and he 
             continued to denounce <rs ref="#hamel_0001" type="person">the wizard</rs> as an agent of 
             hell, while he blundered along one of the galleries, 
-            until he was scared back again by the bats flying 
+            until he was scared back again by the <ecda:fauna>bats</ecda:fauna> flying 
             about him as they returned from the light of the 
             sun to pass their holidays here. Ashamed of his 
             fears, and amazed at the tranquillity he observed 
@@ -1434,8 +1438,8 @@
             opening, along which <rs type="persGroup">the tenants</rs> of the 
             cave could hear him groping and stumbling, now 
             shouting, then grumbling again; hacking the 
-            rock as he cut at the bats, and cursing these as 
-            fiends who inhabited this den of his evil genius, 
+            rock as he cut at the <ecda:fauna>bats</ecda:fauna>, and cursing these as 
+            fiends who inhabited this den of his <rs ref="hamel_0001" type="person">evil genius</rs>, 
             if such a being could exist. His mental and 
             secret determination was to denounce <rs ref="#hamel_0001" type="person">the Obeah 
             man</rs>, whom he was resolved to bring to justice; 
@@ -1444,6 +1448,7 @@
             last the daylight, and beheld the chasm which 
             he had entered the previous night.</p>
          </div>
+            
             <pb/>
             <fw type="pageNum">46</fw>
             <div type="chapter">
@@ -1452,7 +1457,7 @@
                And dizzy 'tis to cast one's eyes so low!
                SHAKESPEARE.</ab>
             <p>THE way was long enough and close enough, with 
-            the exercise of slashing at the bats, to cover the 
+            the exercise of slashing at the <ecda:fauna>bats</ecda:fauna>, to cover the 
             person of <rs ref="#roland_0001" type="person">the Missionary</rs> with a good tropical 
             perspiration, by the time he arrived at the exit 
             from this cave of abomination, as he had sirnamed 
@@ -1500,7 +1505,7 @@
             It was here that he could trace the progress of the 
             fires which had alarmed him the previous night. 
             The had raged through a great extent of long 
-            grass, withered by the dry season, and kindled by 
+            <ecda:flora>grass</ecda:flora>, withered by the dry season, and kindled by 
             the negligence of <rs type="persGroup">runaway Negroes</rs>; and although
             
             <pb/>
@@ -1525,7 +1530,7 @@
             and the <placeName ref="#rio_grande">Rio Grande</placeName> rolled among a mass of foam 
             which marked its course high above its usual and 
             natural banks; while fragments of rock and 
-            broken trees, to the euthusiast's imagination, rose 
+            broken <ecda:flora>trees</ecda:flora>, to the euthusiast's imagination, rose 
             and fell as the waves hurled and tossed them 
             about, like condemned spirits tossing on the restless 
             billows of Hades. He felt a sort of pride in 
@@ -1544,10 +1549,10 @@
             tree hung over that frightful chasm called the 
             Devil's Gully; a chasm not more than fifteen feet 
             across, but apparently of an immense profundity; 
-            for, owing to his present position, the Missionary 
+            for, owing to his present position, <rs ref="roland_0001" type="person">the Missionary</rs> 
             could not see down to the current of water which had 
             perhaps formed and now occupied it as its channel 
-            to the <placeName ref="#rio_grande">Rio Grande</placeName>. Another tree lay across the 
+            to the <placeName ref="#rio_grande">Rio Grande</placeName>. Another <ecda:flora>tree</ecda:flora> lay across the 
             gully; but though he had passed this bridge in the 
             dark, it was too awful to be encountered in the light, 
             which served only to make manifest the danger he 
@@ -1563,7 +1568,7 @@
             to spy out some hope for effecting his escape, 
             some human being who might come to his assistance; 
             in vain he searched with his eyes every 
-            bush beneath him for his boy <persName ref="#cuffy_0001">Cuffy</persName>, and his 
+            <ecda:flora>bush</ecda:flora> beneath him for his boy <persName ref="#cuffy_0001">Cuffy</persName>, and his 
             <ecda:fauna>Spanish horse</ecda:fauna>, and all his moveables. The 
             mountain path was not visible from his eyrie, 
             and the jungle concealed everything that could 
@@ -1682,20 +1687,21 @@
             The very thought made him shudder. <said rend="quotes" aloud="false">If argument 
             fail, cunning, manoeuvering, may do it; at 
             any rate I must get out of this infernal abode, cost 
-            what it will; inquire for my servant and my horse; 
+            what it will; inquire for <rs ref="#cuffy_0001" type="person">my servant</rs> and my <ecda:fauna>horse</ecda:fauna>; 
             and if the rivers admit of it, pursue my course to 
             that plantation of misery where <rs type="persGroup">the revolted 
             Negroes</rs> await me.</said></p>
                
             <p>With this idea he recomposed his features, and 
-            recommenced his battle with the bats, returning 
+            recommenced his battle with the <ecda:fauna>bats</ecda:fauna>, returning 
             with much deliberation and more confidence to 
             the interior of the cave. Here let us for the present 
             leave him, and adjourn to a different scene 
             and subject, of no less importance, to the reader 
             at least, than <rs type="persGroup">the trio of persons</rs> whom we quit 
             for the purpose of introducing the young and 
-            beautiful, the amiable and innocent <persName>Joanna</persName>.</p>
+            beautiful, the amiable and innocent <persName ref="#joanna_0001">Joanna</persName>.</p>
+            <!-- PUT JOANNA IN PERSONOGRAPHY SHEET -->
             </div>
             
             <pb/>
@@ -1712,12 +1718,12 @@
             <p>THE storm of the preceding night, whose violence 
             we have commemorated, had wrecked, no doubt, 
             many a gallant vessel and many a wayworn bark, 
-            whose crews, sinking into the waves which ingulphed 
+            whose <rs type="persGroup">crews</rs>, sinking into the waves which ingulphed 
             them, sank likewise into oblivion, as far 
             at least as all knowledge or certainty of their fate 
             has been rendered evident. others, dead in 
             nature, may yet live in history for a year or two; 
-            and vice versâ, the survivors in nature are all dead <!-- symbol above a on versa = use circumflex -->
+            and vice versâ, the <rs type="persGroup">survivors</rs> in nature are all dead <!-- symbol above a on versa = use circumflex -->
             in history, with the exception of a few miserables 
             whom fortune rescued from the deep to be recorded 
             in these pages.</p>
@@ -1730,15 +1736,15 @@
             <pb/>
             <fw type="pageNum">55</fw>
             
-            ten in number, knocked at the house of a gentleman 
+            ten in number, knocked at the house of <rs type="person">a gentleman</rs> 
             in the parish of St Mary, and demanded the 
             rights of hospitality. This house was situated 
             within half a mile of the sea, at <!-- long dash --> Bay, and 
             the strangers said they had been wrecked in a 
             large canoe, with which they had crossed from 
             <placeName ref="cuba">Cuba</placeName>; where, as they farther stated, they had 
-            been detained as prisoners by a party of pirates. 
-            The inhabitants of the house were more surprised 
+            been detained as prisoners by a party of <rs type="persGroup">pirates</rs>. 
+            <rs type="persGroup">The inhabitants</rs> of the house were more surprised 
             at their being able to reach it, although to leeward 
             of the spot where they had been cast on 
             shore, than at their request to be received and entertained 
@@ -1747,8 +1753,8 @@
             fancied themselves entitled under any circumstances; 
             I should say all <hi rend="italics">white</hi> persons. A window 
             of the piazza was opened, and the party 
-            reconnoitred, with the help of a lanthorn, by an 
-            old gentleman from within; for being strangers 
+            reconnoitred, with the help of a lanthorn, by <ecda:anonPers>an 
+            old gentleman</ecda:anonPers> from within; for being strangers 
             and from another island, they were liable to a 
             little suspicion; and the mention of the word pirates 
             perhaps gave birth to an idea of the possibility 
