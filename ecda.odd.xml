@@ -24,6 +24,7 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
+       <change who="EH" when="2015-03-23">Added attribute classes for <gi>persGroup</gi></change>
       <change who="SS" when="2015-03-05">Added <gi>ecda:persGroup</gi></change>
       <change who="SS" when="2015-03-05">Changed the class list on <gi>ecda:anonPers</gi> to subscribe element to
         att.personal. Unsubscribed from att.canonical, as it is a subset of att.personal. This should allow our persData 
@@ -835,6 +836,30 @@
               </datatype>
               <valList type="open"/>
             </attDef>
+             <attDef ident="occupation">
+                <datatype>
+                   <rng:ref name="data.enumerated"/>
+                </datatype>
+                <valList type="open"/>
+             </attDef>
+             <attDef ident="ethnicity">
+                <datatype>
+                   <rng:ref name="data.enumerated"/>
+                </datatype>
+                <valList type="open"/>
+             </attDef>
+             <attDef ident="politicalAff">
+                <datatype>
+                   <rng:ref name="data.enumerated"/>
+                </datatype>
+                <valList type="open"/>
+             </attDef>
+             <attDef ident="nationality">
+                <datatype>
+                   <rng:ref name="data.enumerated"/>
+                </datatype>
+                <valList type="open"/>
+             </attDef>
           </attList>
         </classSpec>
         
