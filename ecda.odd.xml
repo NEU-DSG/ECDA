@@ -24,6 +24,7 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
+      <change who="ED EH SC SS" when="2015-03-23">Changed some attribute values for persData class</change>
        <change who="EH" when="2015-03-23">Added attribute classes for <gi>persGroup</gi></change>
       <change who="SS" when="2015-03-05">Added <gi>ecda:persGroup</gi></change>
       <change who="SS" when="2015-03-05">Changed the class list on <gi>ecda:anonPers</gi> to subscribe element to
@@ -818,48 +819,63 @@
             <memberOf key="model.nameLike.agent"/>
           </classes>
           <attList>
-            <attDef ident="gender">
+            <attDef ident="a-gender">
+              <datatype>
+                <rng:ref name="data.enumerated"/>
+              </datatype>
+              <valList type="semi">
+                <valItem ident="male"/>
+                <valItem ident="female"/>
+                <valItem ident="mixed"/>
+              </valList>
+            </attDef>
+            <attDef ident="a-religion">
               <datatype>
                 <rng:ref name="data.enumerated"/>
               </datatype>
               <valList type="open"/>
             </attDef>
-            <attDef ident="religion">
+            <attDef ident="a-arc">
               <datatype>
                 <rng:ref name="data.enumerated"/>
               </datatype>
               <valList type="open"/>
             </attDef>
-            <attDef ident="race">
+             <attDef ident="a-occupation">
+                <datatype>
+                   <rng:ref name="data.enumerated"/>
+                </datatype>
+                <valList type="open"/>
+             </attDef>
+             <attDef ident="a-ethnicity">
+                <datatype>
+                   <rng:ref name="data.enumerated"/>
+                </datatype>
+                <valList type="open"/>
+             </attDef>
+             <attDef ident="a-politicalAff">
+                <datatype>
+                   <rng:ref name="data.enumerated"/>
+                </datatype>
+                <valList type="open"/>
+             </attDef>
+             <attDef ident="a-nationality">
+                <datatype>
+                   <rng:ref name="data.enumerated"/>
+                </datatype>
+                <valList type="open"/>
+             </attDef>
+            <attDef ident="a-status">
               <datatype>
-                <rng:ref name="data.enumerated"/>
+                <rng:ref name="status"/>
               </datatype>
-              <valList type="open"/>
+              <valList type="semi">
+                <valItem ident="enslaved"/>
+                <valItem ident="indentured"/>
+                <valItem ident="free"/>
+                <valItem ident="maroon"/>
+              </valList>
             </attDef>
-             <attDef ident="occupation">
-                <datatype>
-                   <rng:ref name="data.enumerated"/>
-                </datatype>
-                <valList type="open"/>
-             </attDef>
-             <attDef ident="ethnicity">
-                <datatype>
-                   <rng:ref name="data.enumerated"/>
-                </datatype>
-                <valList type="open"/>
-             </attDef>
-             <attDef ident="politicalAff">
-                <datatype>
-                   <rng:ref name="data.enumerated"/>
-                </datatype>
-                <valList type="open"/>
-             </attDef>
-             <attDef ident="nationality">
-                <datatype>
-                   <rng:ref name="data.enumerated"/>
-                </datatype>
-                <valList type="open"/>
-             </attDef>
           </attList>
         </classSpec>
         
