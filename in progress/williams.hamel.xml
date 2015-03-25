@@ -16,6 +16,40 @@
       </fileDesc>
   </teiHeader>
   <text>
+     <ecda:hyperDiv>
+        <ecda:notes>
+           <note type="ecda">
+              <interpGrp type="commType">
+                 <interp xml:id="flora">plants (flora)</interp>
+                 <interp xml:id="fauna">animals (fauna)</interp>
+                 <interp xml:id="food">food and other consumable items (incl. drinks, seasonings, etc.)</interp>
+                 <interp xml:id="medical">medical or medicinal items (including references to folk medicine)</interp>
+                 <interp xml:id="textile">sartorial and textile references</interp>
+                 <interp xml:id="currency">references to money or currency</interp>
+              </interpGrp>
+              <interpGrp type="productionPhase">
+                 <interp xml:id="plant">planting</interp>
+                 <interp xml:id="cultivation">cultivation</interp>
+                 <interp xml:id="harvest">harvesting</interp>
+                 <interp xml:id="refine">refining</interp>
+                 <interp xml:id="production">production (non plant-based commodities)</interp>
+                 <interp xml:id="transport">transport</interp>
+                 <interp xml:id="sale">sale</interp>
+                 <interp xml:id="circulation">circulation of commodities, such as through gift-giving or theft</interp>
+                 <interp xml:id="use">use of commodities</interp>
+              </interpGrp>
+              <interpGrp>
+                 <interp xml:id="punishment">References to scenes of punishment or the enforcement of colonial rule</interp>
+                 <interp xml:id="military">References to the material conditions, social institutions or actual events of warfare</interp>
+                 <interp xml:id="abolition">References to the abolition of slavery or abolitionist movement</interp>
+                 <interp xml:id="disease">References to ailment and disease, specifically in people</interp>
+                 <interp xml:id="poison">References to poison</interp>
+                 <interp xml:id="obeah">References to Obeah</interp>
+                 <interp xml:id="performance">References to performance (esp. John Canoe)</interp>
+              </interpGrp>
+           </note>
+        </ecda:notes>
+     </ecda:hyperDiv>
      <front>
         <titleBlock>
            <docTitle>
@@ -1709,7 +1743,7 @@
          
          <div type="chapter">
             <head>CHAPTER VII.</head>
-            <ab> —Cytheres, 
+            <ab> —Cytheres, <!-- long dash -->
             How bravely thou becom'st thy bed, fresh lily!
             And whiter than the sheets—that I might touch!
             But kiss; one kiss!
@@ -1721,7 +1755,7 @@
             whose <rs type="persGroup">crews</rs>, sinking into the waves which ingulphed 
             them, sank likewise into oblivion, as far 
             at least as all knowledge or certainty of their fate 
-            has been rendered evident. others, dead in 
+            has been rendered evident. Others, dead in 
             nature, may yet live in history for a year or two; 
             and vice versâ, the <rs type="persGroup">survivors</rs> in nature are all dead <!-- symbol above a on versa = use circumflex -->
             in history, with the exception of a few miserables 
@@ -1736,11 +1770,11 @@
             <pb/>
             <fw type="pageNum">55</fw>
             
-            ten in number, knocked at the house of <rs type="person">a gentleman</rs> 
+            ten in number, knocked at the house of <rs ref="#guthrie_0001" type="person">a gentleman</rs> 
             in the parish of St Mary, and demanded the 
             rights of hospitality. This house was situated 
             within half a mile of the sea, at <!-- long dash --> Bay, and 
-            the strangers said they had been wrecked in a 
+            <rs type="persGroup">the strangers</rs> said they had been wrecked in a 
             large canoe, with which they had crossed from 
             <placeName ref="cuba">Cuba</placeName>; where, as they farther stated, they had 
             been detained as prisoners by a party of <rs type="persGroup">pirates</rs>. 
@@ -1751,7 +1785,7 @@
             in it; an indulgence to which all persons 
             in the island, in case of need at least, would have 
             fancied themselves entitled under any circumstances; 
-            I should say all <hi rend="italics">white</hi> persons. A window 
+            I should say all <ecda:persGroup><hi rend="italics">white</hi> persons</ecda:persGroup>. A window 
             of the piazza was opened, and the party 
             reconnoitred, with the help of a lanthorn, by <ecda:anonPers>an 
             old gentleman</ecda:anonPers> from within; for being strangers 
@@ -1777,23 +1811,20 @@
             the building would inevitably go to pieces, and 
             its inhabitants might be blown away with the rest 
             of its contents; a circumstance that has occurred 
-            more than once in this part of the globe. The 
-            shipwrecked men were therefore admitted, after a 
+            more than once in this part of the globe. <ecda:persGroup>The 
+            shipwrecked men</ecda:persGroup> were therefore admitted, after a 
             mutilated set of interrogatories through the piazza 
             window, which was closed and again barricadoed, 
             for fear the wind might shift; and all hands immediately 
             repaired, as if by instinct, to that portion 
             of the building which was more directly 
-            threatened. Here the owner of the mansion 
-            resumed the labours he had evidently left but a 
-            few minutes before, which was more directly 
-            threatened. Here the owner of the mansion 
+            threatened. Here <rs ref="#guthrie_0001" type="person">the owner</rs> of the mansion 
             resumed the labours he had evidently left but a 
             few minutes before, which consisted in pulling to 
             pieces a bedstead, with the materials of which he 
             was adding to his stauncheons and barricadoes; 
             almost heedless of his guests, whom he had commended 
-            to the care of a Negro butler, desiring he 
+            to the care of <ecda:anonPers>a Negro butler</ecda:anonPers>, desiring he 
             would furnish them from the beaufet with rum or 
             any liqueurs they might like: food was for the 
             present out of the question all the offices of the 
@@ -1806,21 +1837,21 @@
             <fw type="pageNum">57</fw>
             ance, and secured the bed-posts against the 
             shutters and doors, before they attended to any of 
-            the other directions of their host, or adverted to 
+            the other directions of their <rs ref="#guthrie_0001" type="person">host</rs>, or adverted to 
             the rest of the inmates of the dwelling, whose 
             situation seemed yet to require some attention, 
             after all measures of security had been completed. 
             It was then that one of the party, looking into a 
             chamber whose window opened upon the piazza, 
-            beheld a lady pale and almost insensible, supported 
-            in an arm chair by a Quadroon soubrette, 
+            beheld <rs type="person">a lady</rs> pale and almost insensible, supported 
+            in an arm chair by <rs type="person">a <distinct>Quadroon</distinct> soubrette</rs>, 
             who applied a smelling bottle of some essence to 
             her nostrils with one hand, while with the other 
-            she chafed her mistress's templs. It was but a 
-            momentary glance in which the stranger indulged 
+            she chafed her <rs type="person">mistress</rs>'s temples. It was but a 
+            momentary glance in which <rs type="person">the stranger</rs> indulged 
             —a feeling of delicacy prevented him from gazing 
             with too much curiosity; but it sufficed to convince 
-            him that the soubrette was a very beautiful 
+            him that <rs type="person">the soubrette</rs> was a very beautiful 
             girl, and that the lady herself was no ordinary 
             person; she looked but little turned of thirty 
             years of age, for her complexion was smooth, 
@@ -1841,46 +1872,46 @@
             a faint and half-stifled cry as she clung to the 
             arms of the Quadroon.</p>
             
-            <p>"Leave me not, Michal," she said; "leave me 
+            <p><said rend="quotes">Leave me not, <persName ref="#michal_0001">Michal</persName>,</said> she said; <said rend="quotes">leave me 
             not. What man is that? Is the house on fire? 
-            Where is Joanna?"</p>
+            Where is <persName ref="#joanna_0001">Joanna</persName>?</said></p>
             
-            <p>The stranger looked round on hearing this exclamation, 
+            <p><rs type="person">The stranger</rs> looked round on hearing this exclamation, 
             which did not escape the notice of his 
-            comrades, who crowded towards the window; and 
-            at the same moment Joanna herself appeared, in 
+            <ecda:persGroup>comrades</ecda:persGroup>, who crowded towards the window; and 
+            at the same moment <persName ref="#joanna_0001">Joanna</persName> herself appeared, in 
             answer to her mother's interrogatory, from a contiguous 
             apartment; but as she approached the arm 
             chair, she started at the sight of so many black 
             and brown faces starting into the chamber, and 
             would have retired again, in evident alarm, had 
-            not the stranger who had first beheld her mother, 
+            not the stranger who had first beheld her <rs type="person">mother</rs>, 
             called to her in a gentle and assuring voice, that 
-            she had nothing to fear. The lord of the mansion 
+            she had nothing to fear. <rs ref="#guthrie_0001" type="person">The lord of the mansion</rs> 
             had left his barricades for an instant; but the howling 
             of the storm recalled him quickly to his post, 
-            whither the stranger directed his companions to 
+            whither the stranger directed his <ecda:persGroup>companions</ecda:persGroup> to 
             attend him again, while he himself, fixed by the 
-            appearance of the young lady, delayed for a moment 
+            appearance of <rs ref="#joanna_0001" type="person">the young lady</rs>, delayed for a moment 
             or two joining them.</p>
             
-            <p>"Who and what are you?" said Joanna, in a 
+            <p><said rend="quotes">Who and what are you?</said> said <persName ref="#joanna_0001">Joanna</persName>, in a 
             timid voice.</p>
             
-            <p>"We are shipwrecked men," replied the 
-            stranger; "profiting by your hospitality."</p>
+            <p><said rend="quotes">We are shipwrecked men,</said> replied <rs type="person">the 
+            stranger</rs>; <said rend="quotes">profiting by your hospitality.</said></p>
             
-            <p>If the young lady was startled in the first instance, 
+            <p>If <rs ref="#joanna_0001" type="person">the young lady</rs> was startled in the first instance, 
             she was even yet surprised to hear a man 
             with a mulatto skin speak in a dialect so very far 
             
             <pb/>
             <fw type="pageNum">59</fw>
             
-            removed from that of the Negroes; and he appeared 
+            removed from that of <ecda:persGroup>the Negroes</ecda:persGroup>; and he appeared 
             to be a little confounded at the sight of 
-            this beautiful creature. her complexion was 
-            nearly similar to that of her mother, pale and delicate; 
+            this <rs ref="#joanna_0001" type="person">beautiful creature</rs>. her complexion was 
+            nearly similar to that of her <rs type="person">mother</rs>, pale and delicate; 
             but her figure was firm and elastic, not 
             withstanding her alarm; and the scanty portion 
             of clothes in which she was clad, concealed but 
@@ -1894,10 +1925,10 @@
             large blue eyes, from which her terror had but 
             just chased her tears, as was but too evident from 
             the expression of grief still upon her features; and 
-            with her hari partly bound round her head in 
+            with her hair partly bound round her head in 
             braids, partly disordered on her shoulders, and 
             waiving in the current of the wind, she wanted 
-            only the chaplet of flowers which the painter has 
+            only the chaplet of <ecda:flora>flowers</ecda:flora> which the painter has 
             given to Proserpine, to have formed the type, if 
             not the model, for that beautiful production of the 
             pencil of Schiavoni, where Pluto, with the air and 
@@ -1905,7 +1936,9 @@
             from her pastoral diversions to the realms of Tartarus. 
             But the figure of Pluto would not correspond 
             with that of the spectator, who still fixed his 
-            eyes on her as by a kind of fascination; for the 
+            eyes on her as by a kind of fascination; for the
+            
+            <!-- Mark this as reference to outside stories? Mark up the names? -->
             
             <pb/>
             <fw type="pageNum">60</fw>
@@ -1917,16 +1950,16 @@
             with nothing in his appearance indicative 
             of the robber or ravisher. He sighed as he looked 
             at her again, and quickly removed his gaze to his 
-            companions, who were yet labouring for their 
+            <ecda:persGroup>companions</ecda:persGroup>, who were yet labouring for their 
             host to secure the very spars of the roof, lest the 
             hurricane should tear that shelter from their heads. 
-            The young lady turned to her mother with a view 
-            to assist the soubrette in her attentions; and the 
-            old gentleman, working like a Hercules, from time 
-            to time thanked his guests for their assistance, 
+            <rs ref="#joanna_0001" type="person">The young lady</rs> turned to her <rs type="person">mother</rs> with a view 
+            to assist <rs type="person">the soubrette</rs> in her attentions; and <rs ref="#guthrie_0001" type="person">the 
+            old gentleman</rs>, working like a Hercules, from time 
+            to time thanked his <ecda:persGroup>guests</ecda:persGroup> for their assistance, 
             without which his house and household would 
             have been, as he said, in but a very indifferent 
-            plight; for the Negroes belonging to the estate, 
+            plight; for <ecda:persGroup>the Negroes</ecda:persGroup> belonging to the estate, 
             in confirmation of the truth that charity begins at 
             home, had all abandoned their master's abode, to 
             guard each his own dwelling. At any other time, 
@@ -1983,24 +2016,25 @@
             for ornamenting his discourse with quotations from 
             the Latin authors; and though he understood or 
             appeared to understand the application and translation 
-            of these elegancies, his hearers were not 
+            of these elegancies, his <ecda:persGroup>hearers</ecda:persGroup> were not 
             always so fortunate, owing to some peculiarities 
             to which he was attached of now and then altering 
             the cases and genders of adjectives and articles. 
             Things are not expected to be exactly 
-            similar in teh old and new world. Mr Guthrie 
+            similar in the old and new world. <persName ref="#guthrie_0001">Mr Guthrie</persName> <!-- Add Guthrie to Personography Spreadsheet when I decide if he 
+                                                                                                         gets a first name or not -->
             knew nothing but by hear-say of the first, having 
-            never been off the island of Jamaica but once in 
+            never been off the island of <placeName ref="#jamaica">Jamaica</placeName> but once in 
             his life, and that only a few years back, when he 
             was taken by a boat's crew from a log of mahogany 
             of which he was making prize in the 
             ocean (having seen it with a glass from his piazza 
             window.) He had no sooner seen than he desired 
-            to possess it; ordered out his boats and Negroes, 
+            to possess it; ordered out his boats and <ecda:persGroup>Negroes</ecda:persGroup>, 
             came up with and was himself securing it, when 
             a strange sail, which had been skulking under the 
             rocks, sprung out upon him like a lion on his 
-            prey; and before his Negroes could disengage him 
+            prey; and before his <ecda:persGroup>Negroes</ecda:persGroup> could disengage him 
             from the log, he was a prisoner. Indeed he bid 
             them seek their own safety, for (his presence of 
             mind not forsaking him) he calculated on the expense 
@@ -2010,18 +2044,18 @@
             <fw type="pageNum">63</fw>
             
             himself, and had nearly lost his life for his prudence 
-            or parsimony; the pirates threatening to 
+            or parsimony; <ecda:persGroup>the pirates</ecda:persGroup> threatening to 
             fling him into the sea, until he persuaded them 
             that the Negroes had rowed off from their own 
             fears. However, they carried him away; but being 
-            happily taken into Guadaloupe by a French 
+            happily taken into <placeName ref="#guadeloupe">Guadaloupe</placeName> by a French 
             cruizer, they were disposed of according to law; 
             and he, having proved his innocence, was dismissed 
             with great courtesy, and sent home. Upon 
             his arrival however, he found he had cause to regret 
             his absence; some of his buildings had been 
             burnt, it was supposed maliciously; and he had 
-            found his wife in a state of melancholy and ill 
+            found his <rs type="person">wife</rs> in a state of melancholy and ill 
             health, owing, as was said, to her alarm respecting 
             him, in the first place; and in the second, to 
             her terrors occasioned by the fire, from which to 
@@ -2033,8 +2067,8 @@
             unison, had filled her with physical alarm, as well 
             as superstitious apprehensions, to which her state 
             of mind had left her but too subject. It was to 
-            no purpose that her husband argued with her on 
-            the folly of such fancies; in vain that her daughter 
+            no purpose that her <rs ref="#guthrie_0001" type="person">husband</rs> argued with her on 
+            the folly of such fancies; in vain that her <rs ref="#joanna_0001" type="person">daughter</rs> 
             sought and practised every means of consoling 
             her. Though not insensible, she appeared to be 
             indifferent to both, to everything that had hitherto 
@@ -2044,13 +2078,13 @@
             
             given her any sort of consolation or interest. She 
             even preferred, or seemed to prefer, the absence of 
-            her daughter, as if the sight of  this her only child 
+            her <rs ref="#joanna_0001" type="person">daughter</rs>, as if the sight of  this her only child 
             increased her agitations, and as if those attentions 
-            which Joanna too fondly paid her, excited only 
+            which <persName ref="#joanna_0001">Joanna</persName> too fondly paid her, excited only 
             painful recollections. So, in the midst of her present 
             alarms, she had in a manner banished her 
             daughter to her own chamber, and accepted the 
-            services of the soubrette; and hence the tears 
+            services of <rs ref="#michal_0001" type="person">the soubrette</rs>; and hence the tears 
             and distress of the former, for whose presence 
             she had only called at the sight of the strange 
             guests with whom the storm had accommodated 
@@ -2066,25 +2100,25 @@
             <ab>This tempest will not give me leave to ponder
             On things would hurt me more.              SHAKSPEARE</ab>
             
-            <p>WE left Mr Guthrie, and his black and brown 
-            guests, still engaged in the defence of his chateau 
+            <p>WE left <persName ref="#guthrie_0001">Mr Guthrie</persName>, and his <ecda:persGroup>black and brown 
+            guests</ecda:persGroup>, still engaged in the defence of his chateau 
             against the attacks of the hurricane. Their arrival 
             had been extremely apropose, and their services 
             actually saved the dwelling from being blown to 
             pieces; but as they had come with a very different 
             purpose from that which they had executed, 
             it may not be amiss to acquaint the reader with 
-            the actual primary intention of this band of worthies, 
+            the actual primary intention of this <ecda:persGroup>band of worthies</ecda:persGroup>, 
             which was no less than robbery.</p>
             
             <p>It was no less than robbery; but that was to 
             have been the secondary object at which they 
             aimed; the first being to make prize of the fair 
-            Joanna—for her advancement, it is true, as the 
-            royal-minded Combah designed to make her queen 
-            of the island. His majesty had rightly calculated 
+            <persName ref="#joanna_0001">Joanna</persName>—for her advancement, it is true, as the 
+            royal-minded <persName ref="#combah_0001">Combah</persName> designed to make her queen 
+            of the island. <rs ref="#combah_0001" type="person">His majesty</rs> had rightly calculated 
             that it would be too late to make any attempt on 
-            this his bride elect, after the island should have 
+            this his <rs ref="#joanna_0001" type="person">bride</rs> elect, after the island should have 
             been alarmed; as many would take to the ships, 
             and all who did not would crowd into the towns
             
@@ -2095,29 +2129,29 @@
             for security in such an event; and it would be a 
             business of great difficulty to get possession of 
             her under the circumstances that would attend the 
-            latter case; and next to impossible, if her parents 
+            latter case; and next to impossible, if her <ecda:persGroup>parents</ecda:persGroup> 
             should once get her off the island. It were better 
-            to take time by the forelock, can secure the young 
-            lady before a fear or suspicion of a revolt should 
-            affect the minds of the inhabitants. With this 
-            feeling a canoe had been provided, whose crew 
+            to take time by the forelock, can secure <rs ref="#joanna_0001" type="person">the young 
+            lady</rs> before a fear or suspicion of a revolt should 
+            affect the minds of <ecda:persGroup>the inhabitants</ecda:persGroup>. With this 
+            feeling a canoe had been provided, whose <ecda:persGroup>crew</ecda:persGroup> 
             were to hover on the coast, sometimes at sea, 
             sometimes on shore, as occasion might require. 
             They were to watch to windward for a certain 
             signal, at the signt of which they were, if necessary, 
-            to attack the house of Mr Guthrie; at any 
+            to attack the house of <persName ref="#guthrie_0001">Mr Guthrie</persName>; at any 
             rate to seize the young lady, hurry her away to 
             the canoe, and bring her, not to the abandoned 
-            settlement behind Port Antonio, but to the cave 
-            of the Obeah man. This signal was to be the 
+            settlement behind <placeName ref="#port_antonio">Port Antonio</placeName>, but to the cave 
+            of <rs ref="#hamel_0001" type="person">the Obeah man</rs>. This signal was to be the 
             kindling of three fires on one of the ridges of the 
-            Blue Mountain; and we have seen how it 
-            happened that on the night in question Roland 
-            and his boy Cuffy had looked wiht no little terror 
+            <placeName ref="#blue_mountains">Blue Mountain</placeName>; and we have seen how it 
+            happened that on the night in question <persName ref="#roland_0001">Roland</persName> 
+            and his boy <persName ref="#cuffy_0001">Cuffy</persName> had looked with no little terror 
             on as many if not more of these wandering flames; 
             which, although they had been accidentally 
-            kindled by runaway Negroes, had carried a conviction 
-            to the minds of Combah's delegates, that 
+            kindled by <ecda:persGroup>runaway Negroes</ecda:persGroup>, had carried a conviction 
+            to the minds of <persName ref="#combah_0001">Combah</persName>'s delegates, that 
             this was their signal, and that now was the moment 
             for going to work. But the storm had run 
             their canoe on the rocks, damaged it, and, as they 
@@ -2133,51 +2167,51 @@
             such horrible violence. Their plan therefore (at 
             least for the present) was suspended, if not frustrated; 
             for although they might have carried off 
-            Joanna by sea, it would be worse than madness 
+            <persName ref="#joanna_0001">Joanna</persName> by sea, it would be worse than madness 
             to attempt such a scheme by land; nay, it would 
             be impossible, except the whole country were in 
             open revolt; and even then it would be no easy 
-            matter to persuade Mr Guthrie's Negroes to 
+            matter to persuade <ecda:persGroup><persName ref="#guthrie_0001">Mr Guthrie</persName>'s Negroes</ecda:persGroup> to 
             suffer such violence to be done to him on any pretence. 
             These were ideas which had been commmunicated 
-            among the party as they groped their 
+            among <ecda:persGroup>the party</ecda:persGroup> as they groped their 
             way in the storm to the mansion where we have 
             introduced them. Once within it, they had little 
             opportunity of comparing notes or hatching any 
             fresh schemes, or even of mutual converse: they 
-            were occupied with the master of the house in 
+            were occupied with <rs ref="#guthrie_0001" type="person">the master of the house</rs> in 
             counteracting the fury of the wind; and although 
-            they had had a signt of the fair creature who had 
+            they had had a sight of <rs ref="#joanna_0001" type="person">the fair creature</rs> who had 
             been marked for their prey, there was but one of 
             them who had been allowed more than a momentary 
             look at her; and he, strange to say, had 
             turned them aside from the contemplation of a 
             person whom they had in some sort hired him to 
-            steal, or to assist in stealing This stranger they 
+            steal, or to assist in stealing. This stranger they 
             
             <pb/>
             <fw type="pageNum">68</fw>
             
-            had brought from the south side of Cuba, where 
+            had brought from the south side of <placeName ref="#cuba">Cuba</placeName>, where 
             he described himself to have fled from the cruelty 
-            and oppression of a white man who wished to 
+            and oppression of <ecda:anonPers>a white man</ecda:anonPers> who wished to 
             make property of him. His story might be true 
             or false; but at any rate he had ingratiated himself 
             so far in their good opinion, as to have learnt 
-            the purpose for which they were bound to Jamaica; 
-            and on the plea of avenging himself on the 
-            tyrant who had oppressed him, he had been permitted, 
+            the purpose for which they were bound to <placeName ref="#jamaica">Jamaica</placeName>; 
+            and on the plea of avenging himself on <ecda:anonPers>the 
+            tyrant</ecda:anonPers> who had oppressed him, he had been permitted, 
             and finally encouraged, to take part with 
             them in their enterprise; more particularly, as he 
             gave them reason to see that he was acquainted 
             with the part of the island in which the scene of 
             their affair was to be laid, and with the house in 
             question; although he owned no knowledge of its 
-            inmates. <hi rend="italics">He</hi> was to assist in carrying off the 
-            young lady; <hi rend="italics">they</hi> to further his views of 
+            inmates. <hi rend="italics">He</hi> was to assist in carrying off <rs ref="#joanna_0001" type="person">the 
+            young lady</rs>; <hi rend="italics">they</hi> to further his views of 
             vengeance on the unjust and inhuman tyrant 
             who had practised against his liberty and independence. 
-            But let us return to Mr Guthrie.</p>
+            But let us return to <persName ref="#guthrie_0001">Mr Guthrie</persName>.</p>
             
             <p>This unsuspecting gentleman, occupied more 
             with the danger which had threatened his mansion 
