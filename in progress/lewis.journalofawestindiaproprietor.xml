@@ -60,7 +60,7 @@
               </interpGrp>
            </note>
            <note xml:id="n001" target="#a001"><foreign xml:lang="fr">*L'heure du berger</foreign>.</note>
-           <note xml:id="n002" target="#a002">*The <rs type="persGroup">negroes</rs> never distinguish between <distinct rend="quotes" type="dialect">him</distinct> and <distinct rend="quotes">her</distinct> in their conversation.</note>
+           <note xml:id="n002" target="#a002">*The <ecda:persGroup a-arc="negro" a-gender="mixed" a-status="enslaved">negroes</ecda:persGroup> never distinguish between <distinct rend="quotes" type="dialect">him</distinct> and <distinct rend="quotes">her</distinct> in their conversation.</note>
            <note xml:id="n003" target="#a003"><quote xml:lang="la" rend="quotes" source="virgil_aeneid">Purpureus veluti flos,</quote> &amp;c. <bibl><author rend="smallcaps"><persName ref="#virgil_0070">Virgil</persName></author></bibl>.</note>
             <note xml:id="n004" target="#a004"><quote rend="quotes" xml:lang="la" source="virgil_georgics">Qualis populcâ, &amp;c.</quote>–<bibl><author rend="smallcaps"><persName ref="#virgil_0070">Virgil</persName></author></bibl>.</note>
            <note xml:id="n005" target="#a005">*<placeName>The Dezertas.</placeName></note>
@@ -346,7 +346,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
                   how much benefit <placeName>Great Britain</placeName> derives from 
                   the <placeName>West Indies</placeName>, that government is not careful to
                   build more churches in them, and is of opinion,
-                  that <said rend="quotes"><distinct type="dialect">hedicating the <rs type="persGroup">negroes</rs> is the only way
+                  that <said rend="quotes"><distinct type="dialect">hedicating the negroes is the only way
                   to make them appy; indeed, in his umble 
                   hopinion, hedication is hall in hall!</distinct></said>
                </p>
@@ -474,7 +474,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
                  lost their anchors, and injured in various ways. A
                  brig, which was obliged to make for <placeName>Ramsgate</placeName>,
                  missed the pier, and was dashed to pieces completely;
-                 the <rs type="persGroup">crew</rs>, however, were saved, all except
+                 the <ecda:persGroup a-occupation="sailor">crew</ecda:persGroup>, however, were saved, all except
                  the <ecda:anonPers>pilot</ecda:anonPers>; who, although he was brought on shore
                  alive, what between bruises, drowning, and fright,
                  had suffered so much, that he died two hours afterwards.
@@ -494,13 +494,13 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
             <l>Ne'er were the zephyrs known disclosing</l>
             <l>More sweets, than when in <placeName>Tempe's</placeName> shades</l>
             <l>They waved the <ecda:flora>lilies</ecda:flora>, where, reposing,</l>
-            <l>Sat <rs type="persGroup">four and twenty lovely maids</rs>.</l>
+            <l>Sat <ecda:persGroup a-gender="female">four and twenty lovely maids</ecda:persGroup>.</l>
          </lg>  
          <lg>
-            <l>Those lovely <rs type="persGroup">maids</rs> were called <name rend="quotes">the Hours</name>,</l>
+            <l>Those lovely <ecda:persGroup a-gender="female">maids</ecda:persGroup> were called <name rend="quotes">the Hours</name>,</l>
             <l>The charge of <name>Virtue's</name> <ecda:fauna>flock</ecda:fauna> they kept;</l>
             <l>And each in turn employ'd her powers</l>
-            <l>To guard it, while her <rs type="persGroup">sisters</rs> slept.</l>
+            <l>To guard it, while her <ecda:persGroup a-gender="female">sisters</ecda:persGroup> slept.</l>
          </lg>      
          <lg>
             <l><name>False Love</name>, how simple souls thou cheatest!</l>
@@ -519,7 +519,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
             <l>Meanwhile the fold was left unguarded—</l>
             <l>The <ecda:fauna>wolf</ecda:fauna> broke in—the <ecda:fauna>lambs</ecda:fauna> were slain: </l>
             <l>And now from <name>Virtue's</name> train discarded,</l>
-            <l>With tears her <rs type="persGroup">sisters</rs> speak their pain.</l>
+            <l>With tears her <ecda:persGroup a-gender="female">sisters</ecda:persGroup> speak their pain.</l>
          </lg>  
          <lg>
             <l>Time flies, and still they weep; for never</l>
@@ -601,7 +601,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
       elbow; and thus we were all left in the dark.
       Then the intolerable noise! the cracking of bulkheads!
       the sawing of ropes! the screeching of the
-      tiller! the trampling of the <rs type="persGroup">sailors</rs>! the clattering
+      tiller! the trampling of the <ecda:persGroup a-occupation="sailor">sailors</ecda:persGroup>! the clattering
       of the crockery! Every thing above deck and
       below deck, all in motion at once! Chairs, writing-
       desks, books, boxes, bundles, fire-irons and fenders,
@@ -624,7 +624,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     that we shall not have an animal alive in the ship,
     except the <ecda:fauna>black terrier</ecda:fauna>—and my friend the <ecda:fauna ana="#commodity #transport">squeaking
     pig</ecda:fauna>, whose vocal powers are still audible,
-    maugre the storm and the <rs type="persGroup">sailors</rs>, who (I 
+    maugre the storm and the <ecda:persGroup a-occupation="sailor">sailors</ecda:persGroup>, who (I 
     verily believe) only continues to survive out of 
     spite, because he can join in the general chorus 
     and help to increase the number of abominable 
@@ -652,7 +652,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
    from the coast of <placeName>France</placeName>. In five minutes it
    appeared to be quite at home, eat very readily
    whatever was given it, and hopped about the
-   deck without fear of the <rs type="persGroup">sailors</rs>, or the more 
+   deck without fear of the <ecda:persGroup a-occupation="sailor">sailors</ecda:persGroup>, or the more 
    formidable <ecda:fauna>black terrier</ecda:fauna>, with all the ease and assurance
    imaginable.</p> 
    
@@ -997,7 +997,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
       dam'me, sir, get out of my ship this moment!</said> 
       Instead of which, with the most smiling and obliging 
       air in the world, the <ecda:anonPers>Irishman</ecda:anonPers> turned to console
-      the <rs type="persGroup">female passengers</rs>. <said rend="quotes">Make yourselves <distinct  rend="italic" type="dialect">asy</distinct>,
+      the <ecda:persGroup a-gender="female">female passengers</ecda:persGroup>. <said rend="quotes">Make yourselves <distinct  rend="italic" type="dialect">asy</distinct>,
       ladies, pray make yourselves perfectly <distinct rend="italic" type="dialect">asy</distinct>; but,
       upon my soul, I believe <rs ref="#boyes_0001" type="person">your captain's</rs> mad; 
       no danger in life! only make yourselves <distinct rend="italic" type="dialect">asy</distinct>, I
@@ -1010,7 +1010,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
       the tide rose she drifted off, and with but little harm  
       done. The <ecda:anonPers>gentleman-pilot</ecda:anonPers> then thought proper
       to return on shore, took a very polite leave of the 
-      <rs type="persGroup">lady-passengers</rs>, and departed with all the urbanity
+      <ecda:persGroup a-gender="female">lady-passengers</ecda:persGroup>, and departed with all the urbanity
       possible; only thinking the <rs type="person" ref="#boyes_0001">captain</rs> the strangest
       person that he had ever met with; and wondering
       that any man of common sense could be put out of 
@@ -1091,8 +1091,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
   <opener><dateline><date when="1815-12-09">December 9</date>.</dateline></opener>  
      <p>When, after his victory of the 1st of June, <persName ref="#richard_howe_1726">Lord 
          Howe</persName> again put to sea from <placeName>Portsmouth</placeName>, the number
-         of <rs type="persGroup">women</rs> who were turned on shore out of the
-         ships (<rs type="persGroup">wives</rs>, <rs type="persGroup">sisters</rs> &amp;c.) amounted to above   
+         of <ecda:persGroup a-gender="female">women</ecda:persGroup> who were turned on shore out of the
+         ships (<ecda:persGroup a-gender="female">wives</ecda:persGroup>, <ecda:persGroup a-gender="female">sisters</ecda:persGroup> &amp;c.) amounted to above   
          thirty thousand!
      </p> 
   </div>             
@@ -1508,7 +1508,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
        what he did <emph rend="italic">with</emph> her was clear enough; for scarce
        was the breath out of his <persName ref="#eurydice_0001">Eurydice's</persName> body, when
        he stuck his teeth in her, and began to eat her up
-       with all possible expedition. Even the <rs type="persGroup">sailors</rs> felt
+       with all possible expedition. Even the <ecda:persGroup a-occupation="sailor">sailors</ecda:persGroup> felt
        their sensibility excited by so peculiar a mark of
        posthumous attachment; and to enable him to perform
        this melancholy duty the more easily, they
@@ -1774,7 +1774,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
         merchantmen, with their convoy (for it was in the 
         very heat of the war)</seg>, sail away with all their canvass
         spread and swelling; while, on the other
-        hand, the <rs type="persGroup">sailors</rs> had the comfortable possibility of
+        hand, the <ecda:persGroup a-occupation="sailor">sailors</ecda:persGroup> had the comfortable possibility of
         being suffocated every moment by the clouds of
         ashes which continued to fall on their deck every
         moment, from the burning volcano, although they
@@ -1822,7 +1822,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
         luck to be captured by a <rs type="properAdjective">French</rs> frigate. As she
         had already made prizes of two other merchantmen, 
         it was determined to sink his ship; which, 
-        after removing the <rs type="persGroup">crew</rs> and every thing in her
+        after removing the <ecda:persGroup a-occupation="sailor">crew</ecda:persGroup> and every thing in her
         that was valuable, was effected by firing her own
         guns down the hatchways. It was near three 
         hours before she filled, then down she went with a 
@@ -1977,7 +1977,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
         day we passed the insulated rock of <placeName>Ancavella</placeName>,
         lying about six miles from <placeName>St. Domingo</placeName>, which
         is now in sight. <seg ana="#military">As this part of the <placeName>Caribbean
-        Sea</placeName> is much infested by <rs type="persGroup">pirates</rs> from the <placeName>Caraccas</placeName>,
+        Sea</placeName> is much infested by <ecda:persGroup a-occupation="pirate">pirates</ecda:persGroup> from the <placeName>Caraccas</placeName>,
         all our muskets have been put in repair,
         and to-day the guns were loaded, of which we 
         mount eight; but as one of them, during the last 
@@ -1987,8 +1987,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
         fight if it were called upon. These pirate-vessels
         are small schooners, armed with a single twenty-
         four pounder, which moves upon a swivel, and their
-        crew is composed of <rs type="persGroup">negroes</rs> and <rs type="persGroup">outlaws of all
-        nations</rs>, their numbers generally running from one
+        crew is composed of <ecda:persGroup a-occupation="pirate" a-arc="negro">negroes</ecda:persGroup> and <ecda:persGroup a-occupation="pirate">outlaws of all
+        nations</ecda:persGroup>, their numbers generally running from one
         hundred to one hundred and fifty men.</seg> To-day,
         for the first time, I saw some <ecda:fauna>flying fish</ecda:fauna>: we have
         also been visited by several <ecda:fauna>men-of-war birds</ecda:fauna> and
@@ -2016,9 +2016,9 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
          the groans and tears of his heroes and heroines
          swell the blast and increase the river; perhaps
          something of the same kind takes place at the
-         arrival of a <rs type="person">West India proprietor</rs> from <placeName>Europe</placeName>,
+         arrival of a <rs type="properAdjective">West India</rs> proprietor from <placeName>Europe</placeName>,
          and all this rain and win proceed from the eyes
-         and lungs of my <rs type="persGroup">agents</rs> and <rs type="persGroup">overseers</rs>, who, for
+         and lungs of my <ecda:persGroup a-occupation="agent">agents</ecda:persGroup> and <ecda:persGroup a-occupation="overseer">overseers</ecda:persGroup>, who, for
          the last twenty years, have been reigning in my
          dominions with despotic authority; but now
          <quote rend="quotes" source="scott_minstrel">
@@ -2038,7 +2038,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
          that we had reached <quote rend="quotes">the Land of Springs</quote>, without
          having been invited by any <rs type="properAdjective">Piccaroon</rs> vessel to
          <quote rend="quotes"><distinct type="nautical">walk the plank</distinct></quote> instead of the deck; which is
-         a compliment very generally paid by those <rs type="persGroup">gentry</rs>,
+         a compliment very generally paid by those <ecda:persGroup a-occupation="pirate">gentry</ecda:persGroup>,
          after they have taken the trouble of laying a plank
          over the side of a captured ship, in order that the
          passengers and the crew may walk overboard without
@@ -2081,7 +2081,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           night in a much more perilous situation than we
           had occupied the evening before, though even that
           had been by no means secure. At three o'clock,
-          the <rs type="persGroup">other passengers</rs> went on shore in the jolly-
+          the <ecda:persGroup a-gender="male">other passengers</ecda:persGroup> went on shore in the jolly-
           boat, and proceeded to their destination; but as I
           was still more than <measure>thirty miles</measure> distant from my
           estate, I preferred waiting on board till the
@@ -2154,8 +2154,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
       of <placeName>Black River</placeName>. The <name><distinct type="dialect" ana="#performance">John-Canoe</distinct></name> is a <name><distinct type="dialect" ana="#performance">Merry-
       Andrew</distinct></name> dressed in a striped doublet, and bearing
       upon his head a kind of pasteboard house-boat,
-      filled with puppets, representing, <rs type="persGroup">some sailors, others
-      soldiers, others again slaves at work on a plantation</rs>,
+      filled with puppets, representing, some sailors, others
+      soldiers, others again slaves at work on a plantation,
       &amp;c.</seg> The <rs type="persGroup">negroes</rs> are allowed three days for
       holidays at <name>Christmas</name>, and also <name>New-year's day</name>,
       which being the last is always reckoned by them
@@ -2167,7 +2167,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
       as a person of material consequence, but one whose
       presence is absolutely indispensable. <seg ana="#performance">Nothing could
       look more gay than the procession which we now
-      saw with its <rs type="persGroup">train of attendants</rs>, all dressed in white, 
+      saw with its <ecda:persGroup>train of attendants</ecda:persGroup>, all dressed in white, 
    <pb n="60"/>
    <fw type="pageNum">52</fw> 
       and matching two by two (except when the file
@@ -2196,7 +2196,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
       ashes. The few streets—(I believe there were
       not above two, but those were wide and regular,
       and the houses looked very neat)—were now
-      crowded with <rs type="persGroup">people</rs>, and it seemed to be allowed,
+      crowded with <ecda:persGroup>people</ecda:persGroup>, and it seemed to be allowed,
       upon all hands, that <name>New-year's day</name> had never been
       celebrated there with more expense and festivity.   
     </p>
@@ -2205,8 +2205,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
   <p ana="#performance">It seems that, many years ago, an <ecda:anonPers>Admiral of the
      <rs type="properAdjective">Red</rs></ecda:anonPers> was superseded on the <placeName>Jamaica</placeName> station by an
      <ecda:anonPers>Admiral of the <rs type="properAdjective">Blue</rs></ecda:anonPers>; and both of them gave balls
-     at <placeName>Kingston</placeName> to the <distinct type="dialect" rend="quotes"><rs type="persGroup" rend="italic">Brown Girls</rs></distinct>; for the fair sex
-     elsewhere are called the <distinct type="dialect" rend="quotes"><rs type="persGroup">Brown Girls</rs></distinct> in <placeName>Jamaica</placeName>.
+     at <placeName>Kingston</placeName> to the <distinct type="dialect" rend="quotes"><ecda:persGroup a-gender="female" a-arc="brown" rend="italic">Brown Girls</ecda:persGroup></distinct>; for the fair sex
+     elsewhere are called the <distinct type="dialect" rend="quotes"><ecda:persGroup a-arc="brown" a-gender="female">Brown Girls</ecda:persGroup></distinct> in <placeName>Jamaica</placeName>.
      In consequence of these balls, all <placeName>Kingston</placeName> was divided 
      into parties: from thence the division spread
      into other districts: and ever since, the whole
@@ -2215,7 +2215,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      also the <name>English</name>, the <name>Blue</name> the <name>Scotch</name>),
      who contend for setting forth their processions
      with the greatest taste and magnificence. This 
-     year, several <rs type="persGroup">gentlemen</rs> in the neighbourhood of 
+     year, several <ecda:persGroup a-gender="male">gentlemen</ecda:persGroup> in the neighbourhood of 
      <placeName>Black River</placeName> had subscribed very largely towards
      the expense of the show; and certainly it produced
      the gayest and most amusing scene that I ever
@@ -2252,19 +2252,19 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      in her hand, and a helmet made of pale blue silk
      and silver. The <ecda:anonPers>poor girl</ecda:anonPers>, it seems, was 
      bashful at appearing in this conspicuous manner before so
-     many <rs type="persGroup">spectators</rs>, and hung back when it came to
+     many <ecda:persGroup>spectators</ecda:persGroup>, and hung back when it came to
      the point. But her mistress had seized hold of
      her, and placed her by main force in her destined
      position. The music struck up; <persName ref="#edwards_0001">Miss Edwards</persName>
      gave the <ecda:anonPers>Goddess</ecda:anonPers> a great push forwards; the drum-
-     sticks and the elbows of the <rs type="persGroup">fiddlers</rs> attacked her
+     sticks and the elbows of the <ecda:persGroup>fiddlers</ecda:persGroup> attacked her
      in the rear; and on went <ecda:anonPers><name>Britannia</name></ecda:anonPers> willy-nilly!
   </p>  
-    <p ana="#performance"><rs type="persGroup">The <rs type="properAdjective">Blue</rs> girls</rs> called themselves <quote rend="quotes"><rs type="persGroup">the <rs type="properAdjective">Blue</rs> girls</rs>
+    <p ana="#performance">The <ecda:persGroup a-gender="female"><rs type="properAdjective">Blue</rs> girls</ecda:persGroup> called themselves <quote rend="quotes">the <ecda:persGroup a-gender="female"><rs type="properAdjective">Blue</rs> girls</ecda:persGroup>
      of <placeName>Waterloo</placeName></quote>. Their motto was the more patriotic;
      that of the <rs type="properAdjective">Red</rs> was the more gallant:—<quote rend="quotes"><name>Britannia</name>
      rules the day!</quote> streamed upon the <rs type="properAdjective">Blue</rs> flag;
-     <quote rend="quotes"><rs type="persGroup"><rs type="properAdjective">Red</rs> girls</rs> for ever!</quote> floated upon the <rs type="properAdjective">Red</rs>. But, 
+     <quote rend="quotes"><ecda:persGroup a-gender="female"><rs type="properAdjective">Red</rs> girls</ecda:persGroup> for ever!</quote> floated upon the <rs type="properAdjective">Red</rs>. But, 
  <pb n="63"/>
  <fw type="pageNum">55</fw> 
      in point of taste and invention, the former carried
@@ -2279,13 +2279,13 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
        followed by <name rend="quotes"><persName ref="#horatio_nelson_1758">Nelson's</persName> car</name>, being a kind of canoe
        decorated with blue and silver drapery, and with
        <quote rend="quotes">Trafalgar</quote> written on the front of it; and the
-       procession was closed by a long train of <rs type="persGroup"><rs type="properAdjective">Blue</rs>
-       grandees</rs> (the <rs type="persGroup">women</rs> dressed in uniforms of white,
+       procession was closed by a long train of <ecda:persGroup a-gender="female"><rs type="properAdjective">Blue</rs>
+       grandees</ecda:persGroup> (the <ecda:persGroup a-gender="female">women</ecda:persGroup> dressed in uniforms of white,
        with robes of blue muslin), all Princes and Princesses,
        Dukes and Duchesses, every mother's child
        of them.
     </p>
-     <p ana="#performance"><rs type="persGroup">The <rs type="properAdjective">Red</rs> girls</rs> were also dressed very gaily
+     <p ana="#performance">The <ecda:persGroup a-gender="female"><rs type="properAdjective">Red</rs> girls</ecda:persGroup> were also dressed very gaily
         and prettily, but they had nothing in point of
         invention that could vie with <name><persName ref="#horatio_nelson_1758">Nelson's</persName> Car</name> and 
         <ecda:anonPers><name>Britannia</name></ecda:anonPers>; and when the <rs type="properAdjective">Red</rs> throne made its
@@ -2313,8 +2313,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
         to pick up <ecda:commodity ana="#currency">money</ecda:commodity> for themselves.
      </p>
      <p ana="#performance">A play was now proposed to us, and, of course, 
-        accepted. <rs type="persGroup">Three men</rs> and <ecda:anonPers>a girl</ecda:anonPers> accordingly
-        made their appearance; the <rs type="persGroup">men</rs> dressed like the
+        accepted. <ecda:persGroup a-gender="male">Three men</ecda:persGroup> and <ecda:anonPers a-gender="female">a girl</ecda:anonPers> accordingly
+        made their appearance; the <ecda:persGroup a-gender="male">men</ecda:persGroup> dressed like the
         tumblers at <placeName><persName ref="#philip_astley_1742">Astley's</persName></placeName>, the <ecda:anonPers>lady</ecda:anonPers> very tastefully in
         white and silver, and all with their faces concealed
         by masks of thin blue silk; and they 
@@ -2330,13 +2330,13 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
         they all began dancing reels like so many mad
         people, till they were obliged to make way for the
         <placeName>Waterloo</placeName> procession, who came to collect <ecda:commodity ana="#currency #circulation">money</ecda:commodity>
-        for next year's festival; <ecda:anonPers>one of them</ecda:anonPers> singing, 
+        for next year's festival; <ecda:anonPers a-gender="female" a-arc="black">one of them</ecda:anonPers> singing, 
    <pb n="65"/>
    <fw type="pageNum">57</fw>         
        <ecda:anonPers>another</ecda:anonPers> dancing to the tune, while she presented
-       her <seg ana="#money">money-box</seg> to the <rs type="persGroup">spectators</rs>, and the rest of
-       the <rs type="persGroup"><rs type="properAdjective">Blue</rs> girls</rs> filling up the chorus. I cannot say
-        much in praise of the <ecda:anonPers>black <persName ref="#angelica_catalani_1780">Catalani</persName></ecda:anonPers>; but nothing
+       her <seg ana="#money">money-box</seg> to the <ecda:persGroup>spectators</ecda:persGroup>, and the rest of
+       the <ecda:persGroup a-gender="female"><rs type="properAdjective">Blue</rs> girls</ecda:persGroup> filling up the chorus. I cannot say
+        much in praise of the <ecda:anonPers a-arc="black" a-gender="female">black <persName ref="#angelica_catalani_1780">Catalani</persName></ecda:anonPers>; but nothing
         could be more light, and playful, and graceful,
         than the extempore movements of the <ecda:anonPers>dancing girl</ecda:anonPers>.
         Indeed, through the whole day, I had been struck
