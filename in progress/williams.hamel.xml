@@ -1360,7 +1360,7 @@
             <p><said rend="quotes" aloud="true">How!</said> cried <rs ref="#roland_0001" type="person">the Missionary</rs> again; <said rend="quotes" aloud="true">it were 
             well—well to prostrate your souls at the feet 
             of Moloch? But you are nought. <persName ref="#combah_0001">Combah</persName>!</said>
-            (<rs type="person">The tall Negro</rs> made a sign of acknowledgment 
+            (<rs ref="#combah_0001" type="person">The tall Negro</rs> made a sign of acknowledgment 
             as to his name.) <said rend="quotes" aloud="true"><persName ref="#combah_0001">Combah</persName>! you have taken the 
             cross of God; you have sworn to renounce the 
             devil and his works; keep to your oath, so shall 
@@ -1844,14 +1844,14 @@
             It was then that one of the party, looking into a 
             chamber whose window opened upon the piazza, 
             beheld <rs type="person">a lady</rs> pale and almost insensible, supported 
-            in an arm chair by <rs type="person">a <distinct>Quadroon</distinct> soubrette</rs>, 
+            in an arm chair by <rs ref="#michal_0001" type="person">a <distinct>Quadroon</distinct> soubrette</rs>, 
             who applied a smelling bottle of some essence to 
             her nostrils with one hand, while with the other 
             she chafed her <rs type="person">mistress</rs>'s temples. It was but a 
-            momentary glance in which <rs type="person">the stranger</rs> indulged 
+            momentary glance in which <rs ref="#sebastian_0001" type="person">the stranger</rs> indulged 
             —a feeling of delicacy prevented him from gazing 
             with too much curiosity; but it sufficed to convince 
-            him that <rs type="person">the soubrette</rs> was a very beautiful 
+            him that <rs ref="#michal_0001" type="person">the soubrette</rs> was a very beautiful 
             girl, and that the lady herself was no ordinary 
             person; she looked but little turned of thirty 
             years of age, for her complexion was smooth, 
@@ -1870,13 +1870,13 @@
             <fw type="pageNum">58</fw>
             
             a faint and half-stifled cry as she clung to the 
-            arms of the Quadroon.</p>
+            arms of <rs ref="#michal_0001" type="person">the Quadroon</rs>.</p>
             
             <p><said rend="quotes">Leave me not, <persName ref="#michal_0001">Michal</persName>,</said> she said; <said rend="quotes">leave me 
             not. What man is that? Is the house on fire? 
             Where is <persName ref="#joanna_0001">Joanna</persName>?</said></p>
             
-            <p><rs type="person">The stranger</rs> looked round on hearing this exclamation, 
+            <p><rs ref="#sebastian_0001" type="person">The stranger</rs> looked round on hearing this exclamation, 
             which did not escape the notice of his 
             <ecda:persGroup>comrades</ecda:persGroup>, who crowded towards the window; and 
             at the same moment <persName ref="#joanna_0001">Joanna</persName> herself appeared, in 
@@ -1898,7 +1898,7 @@
             <p><said rend="quotes">Who and what are you?</said> said <persName ref="#joanna_0001">Joanna</persName>, in a 
             timid voice.</p>
             
-            <p><said rend="quotes">We are shipwrecked men,</said> replied <rs type="person">the 
+            <p><said rend="quotes">We are shipwrecked men,</said> replied <rs ref="#sebastian_0001" type="person">the 
             stranger</rs>; <said rend="quotes">profiting by your hospitality.</said></p>
             
             <p>If <rs ref="#joanna_0001" type="person">the young lady</rs> was startled in the first instance, 
@@ -1954,7 +1954,7 @@
             host to secure the very spars of the roof, lest the 
             hurricane should tear that shelter from their heads. 
             <rs ref="#joanna_0001" type="person">The young lady</rs> turned to her <rs type="person">mother</rs> with a view 
-            to assist <rs type="person">the soubrette</rs> in her attentions; and <rs ref="#guthrie_0001" type="person">the 
+            to assist <rs ref="#michal_0001" type="person">the soubrette</rs> in her attentions; and <rs ref="#guthrie_0001" type="person">the 
             old gentleman</rs>, working like a Hercules, from time 
             to time thanked his <ecda:persGroup>guests</ecda:persGroup> for their assistance, 
             without which his house and household would 
@@ -2187,7 +2187,7 @@
             look at her; and he, strange to say, had 
             turned them aside from the contemplation of a 
             person whom they had in some sort hired him to 
-            steal, or to assist in stealing. This stranger they 
+            steal, or to assist in stealing. <rs ref="#sebastian_0001" type="person">This stranger</rs> they 
             
             <pb/>
             <fw type="pageNum">68</fw>
@@ -2213,12 +2213,12 @@
             who had practised against his liberty and independence. 
             But let us return to <persName ref="#guthrie_0001">Mr Guthrie</persName>.</p>
             
-            <p>This unsuspecting gentleman, occupied more 
+            <p>This <rs ref="#guthrie_0001" type="person">unsuspecting gentleman</rs>, occupied more 
             with the danger which had threatened his mansion 
             from the fury of the elements, than with the 
             fears and fancies of his wife, to which time had a 
             little hardened him, succeeded eventually, with 
-            the assistance of his guests, in securing his doors 
+            the assistance of his <ecda:persGroup>guests</ecda:persGroup>, in securing his doors 
             and windows, and the spars of his house; and, in 
             short, enabled it to weather the gale, which abated, 
             as we have seen, towards morning, and had 
@@ -2230,73 +2230,73 @@
             defences being withdrawn for the purposes of 
             ingress and egress.</p>
             
-            <p>The old gentleman's gratitude as well as hospitality, 
+            <p><rs ref="#guthrie_0001" type="person">The old gentleman</rs>'s gratitude as well as hospitality, 
             begun now to manifest themselves more 
             visibly in his wishes and offers of rewards and 
             refreshments, for the services he had received 
-            from his strange guests; offers which he, with 
+            from his <ecda:persGroup>strange guests</ecda:persGroup>; offers which he, with 
             apparent difficulty only, could prevail on them to 
             accept—that is, as to the rewards. The refreshments 
             they declined; not thinking it advisable 
             perhaps to continue under the roof of one to 
             whom they had meditated so deep an injury, especailly 
-            as his Negroes began to assemble about 
+            as his <ecda:persGroup>Negroes</ecda:persGroup> began to assemble about 
             the premises, and learnt with some feeling of 
-            shame and surprise, that their master owed the 
-            preservation of his house to a band of strange 
-            people of colour. Nay, Mr Guthrie spared no 
+            shame and surprise, that their <rs ref="#guthrie_0001" type="person">master</rs> owed the 
+            preservation of his house to a band of <ecda:persGroup>strange 
+            people of colour</ecda:persGroup>. Nay, <persName ref="#guthrie_0001">Mr Guthrie</persName> spared no 
             pains to encrease their shame, in vaunting to them 
             the noble and disinterested endeavours of these 
-            good men, as he called them, who had so fortunately 
+            <ecda:persGroup>good men</ecda:persGroup>, as he called them, who had so fortunately 
             come to his assistance, when his own 
-            Negroes had left him to the mercy of the storm.</p>
+            <ecda:persGroup>Negroes</ecda:persGroup> had left him to the mercy of the storm.</p>
             
-            <p>"I tell you," cried he, (feeling for the skirts of 
-            his dressing gown,) "that you have entailed a 
+            <p><said rend="quotes">I tell you,</said> cried he, (feeling for the skirts of 
+            his dressing gown,) <said rend="quotes">that you have entailed a 
             lasting disgrace on yourselves and your posterity; 
-            you are as bad as the white people in England; you 
+            you are as bad as <ecda:persGroup>the white people in England</ecda:persGroup>; you 
             left your master and mistress, and your young mistress—
             your benefactors—your natural lord, my-
             
             <pb/>
             <fw type="pageNum">70</fw>
             
-            self—to perish in the wind: what could the white 
-            varlets in England do worse? You think yourselves 
-            better than they are; Mr Roland tells you 
+            self—to perish in the wind: what could <ecda:persGroup>the white 
+            varlets</ecda:persGroup> in England do worse? You think yourselves 
+            better than they are; <persName ref="#roland_0001">Mr Roland</persName> tells you 
             that you are, and I used to think he was right. 
             I only wonder you did not profit by the occasion 
             to thieve; but I suppose you were too busy with 
-            your own cocks and hens, and your pigs, your 
-            plantains, your furniture, your houses, your find 
+            your own <ecda:fauna>cocks</ecda:fauna> and <ecda:fauna>hens</ecda:fauna>, and your <ecda:fauna>pigs</ecda:fauna>, your 
+            <ecda:flora>plantains</ecda:flora>, your furniture, your houses, your find 
             clothes, your doubloons, and your dollars; and 
             now perhaps you are only come to see whether 
             the storm has not left something for you to plunder, 
             or blown something away from the stores of 
             which you may make prize. Are not you ashamed 
-            that I should owe my safety to strangers? Why, 
-            I suppose it would have een the same if we had 
-            been attacked by pirates or runaway Negroes. 
+            that I should owe my safety to <ecda:persGroup>strangers</ecda:persGroup>? Why, 
+            I suppose it would have been the same if we had 
+            been attacked by <ecda:persGroup>pirates</ecda:persGroup> or <ecda:persGroup>runaway Negroes</ecda:persGroup>. 
             You would have left us to our fate; we might 
             have been robbed, murdered, and flung in the sea, 
-            before you would have come to our help."</p>
+            before you would have come to our help.</said></p>
             
-            <p>This harangue was made from teh steps of the 
-            piazza, where Mr Guthrie, heated, exhausted, 
+            <p>This harangue was made from the steps of the 
+            piazza, where <persName ref="#guthrie_0001">Mr Guthrie</persName>, heated, exhausted, 
             indignant, adn enraged, gave vent to his passion in 
-            thus stigmatizing the feelings of his slaves for attending 
+            thus stigmatizing the feelings of his <ecda:persGroup>slaves</ecda:persGroup> for attending 
             to their own affairs in the late emergency, 
             instead of sacrificing them to their concern for 
             his. If his figure and appearance were ludicrous 
-            by the lamp llight of the preceding night, they 
+            by the lamp light of the preceding night, they 
             were scarcely less than diverting even to his 
-            Negroes by day. In feeling for the skirts of his 
+            <ecda:persGroup>Negroes</ecda:persGroup> by day. In feeling for the skirts of his 
             
             <pb/>
             <fw type="pageNum">71</fw>
             
             dressing gown, which had now been restored to 
-            him by the soubrette, he had discovered a woful 
+            him by <rs ref="#michal_0001" type="person">the soubrette</rs>, he had discovered a woful 
             gash in his silk breeches, over which he hung 
             the fragments he had received, in the manner of 
             a petticoat. His features were disfigured with 
@@ -2304,7 +2304,7 @@
             he displayed in suiting the action to the word, 
             were as black nearly as those of the sable gentry 
             he addressed. So laughable indeed was his appearance 
-            altogether, that the brown stranger in 
+            altogether, that <rs ref="#sebastian_0001" type="person">the brown stranger</rs> in 
             whose praise he was speaking (the person who 
             had appeared to possess an influence over his 
             comrades) could scarcely retain his gravity, in 
@@ -2313,7 +2313,7 @@
             the sinister eye of his host was diverted from him 
             to the multitude he anathematized. As for the 
             rest of the chosen few who had merited the eulogy 
-            of Mr Guthrie, they had begun some time since 
+            of <persName ref="#guthrie_0001">Mr Guthrie</persName>, they had begun some time since 
             to effect a retreat towards the shore, on pretence 
             of examining their boat, and securing what effects 
             the sea might have spared them from it:—not 
@@ -2323,7 +2323,7 @@
             the apprehension of being suspected, recognised 
             by any of the multitude, detected, and secured. 
             Nay, one of them had overheard an old black 
-            woman, surnamed the White Fairy, (because she 
+            woman, surnamed <ecda:anonPers>the White Fairy</ecda:anonPers>, (because she 
             
             <pb/>
             <fw type="pageNum">72</fw>
@@ -2342,16 +2342,16 @@
             it to inspection and scrutiny; and they judged 
             it better to remove to the sea-shore, for the purposes 
             above-mentioned. Thither they proceeded 
-            without delay; leaving their comrade with the 
-            master of the house, to answer all interrogatories, 
+            without delay; leaving their <rs ref="#sebastian_0001" type="person">comrade</rs> with the 
+            <rs ref="#guthrie_0001" type="person">master of the house</rs>, to answer all interrogatories, 
             and make any reconnoissance he should think 
             proper for the furthering of the scheme which was 
             the subject of their expedition.</p>
             
-            <p>Mr Guthrie saw them depart, without making 
+            <p><persName ref="#guthrie_0001">Mr Guthrie</persName> saw them depart, without making 
             any remark, supposing their intention to be such 
             as they represented; but as soon as his passion 
-            thus vented on his slaves had in some meausure 
+            thus vented on his <ecda:persGroup>slaves</ecda:persGroup> had in some meausure 
             abated, he began to pay a little attention to this 
             more important-looking personage; of whom, 
             considering his colour, he felt authorized to ask 
@@ -2362,9 +2362,9 @@
             <pb/>
             <fw type="pageNum">73</fw>
             
-            the Mulatto-man decidedly renounced, as well as 
+            <rs ref="#sebastian_0001" type="person">the Mulatto-man</rs> decidedly renounced, as well as 
             all claim to it; declaring, that he and his comrades 
-            were no less indebted to Mr Guthrie, than 
+            were no less indebted to <persName ref="#guthrie_0001">Mr Guthrie</persName>, than 
             he to them; but if there were to be obligation on 
             either part, it would be of a nature very different 
             from any hiterto thought or spoken of; 
@@ -2373,10 +2373,10 @@
             to render his liberal host some really essential 
             benefit.</p>
             
-            <p>"Hah!" cried the lord of the house, with a 
+            <p><said rend="quotes">Hah!</said> cried <rs ref="#guthrie_0001">the lord of the house</rs>, with a 
             most solemn inclination of his head, at the same 
             time stretching his dirty face, to expand his eyeballs; 
-            "an essential benefit! This is an enigma 
+            <said rend="quotes">an essential benefit! This is an enigma 
             in which you are pleased to indulge, friend. 
             What may be your means of serving one who 
             certainly had as little title as expectation to receive 
@@ -2386,88 +2386,88 @@
             Still are your words the words of mystery; and 
             we know we have much to fear just now from the 
             abominably impudent and shameless opinions 
-            about liberty, forsooth, which our transatlantic 
-            cousins, in the old stupid world, are foisting 
+            about liberty, forsooth, which our <ecda:persGroup>transatlantic 
+            cousins</ecda:persGroup>, in the old stupid world, are foisting 
             upon the better-informed, better-educated, more 
-            liberal and enlightened people of the great Antilles. 
+            liberal and enlightened people of the great <placeName rend="#antilles">Antilles</placeName>. 
             Are we to hae a revolt? Come, you may 
-            be in the secret?"</p>
+            be in the secret?</said></p>
             
             <pb/>
             <fw type="pageNum">74</fw>
             
-            <p>"God forbid," replied the Mulatto, "that you 
+            <p><said rend="quotes">God forbid,</said> replied <rs ref="#sebastian_0001" type="person">the Mulatto</rs>, <said rend="quotes">that you 
             should fear even a revolt. Nor can I detail the 
             ideas which I may entertain of being useful to 
             you; you would not credit <hi rend="italics">me</hi>, a stranger, and a 
-            man of colour."</p>
+            man of colour.</said></p>
             
-            <p>"Why, faith!" rejoined Mr Guthrie, "you are 
+            <p><said rend="quotes">Why, faith!</said> rejoined Mr Guthrie, <said rend="quotes">you are 
             a man of a common colour, but of no common 
             speech; nor can I think that you have African 
             blood in your veins, despite your colour. Let me 
             see, you told us last night that you came from 
             Cuba, where you had been detained by pirates. 
             Are you a free man? Yes," he continued, "I think 
-            I may answer that question myself."</p>
+            I may answer that question myself.</said></p>
             
-            <p>The Mulatto bowed.</p>
+            <p><rs ref="#sebastian_0001" type="person">The Mulatto</rs> bowed.</p>
             
-            <p>"Those who brought me from Cuba," replied 
-            he, "assured me that they were free; that they 
+            <p><said rend="quotes">Those who brought me from Cuba,</said> replied 
+            he, <said rend="quotes">assured me that they were free; that they 
             keep or kept a canoe, with which they carried 
-            passengers, and sometimes goods, from Montego 
-            bay to St. Lucie."</p>
+            passengers, and sometimes goods, from <placeName>Montego 
+            bay</placeName> to <placeName>St. Lucie</placeName>.</said></p>
             
-            <p>And you believe their story," demanded the 
+            <p><said rend="quotes">And you believe their story,</said> demanded the 
             other?</p>
             
-            <p>"I do not."</p>
+            <p><said rend="quotes">I do not.</said></p>
             
-            <p>"But you can see their tale is true, as to the 
-            mischief they have suffered."</p>
+            <p><said rend="quotes">But you can see their tale is true, as to the 
+            mischief they have suffered.</said></p>
             
-            <p>"Yonder is their bark, which they have hauled 
+            <p><said rend="quotes">Yonder is their bark, which they have hauled 
             beyond the reach of the waves and spray; and, as 
             you may distinguish, even without your glass, 
-            they are endeavouring to repair it."</p>
+            they are endeavouring to repair it.</said></p>
             
             <pb/>
             <fw type="pageNum">75</fw>
             
-            <p>"I will at least send them tools and assistance," 
-            observed Mr Guthrie, looking at them 
-            through his telescope; "and a carpenter or two, 
+            <p><said rend="quotes">I will at least send them tools and assistance,</said> 
+            observed <placeName ref="#guthrie_0001">Mr Guthrie</placeName>, looking at them 
+            through his telescope; <said rend="quotes">and a carpenter or two, 
             and anything else you think they may be in need 
-            of."</p>
+            of.</said></p>
             
-            <p>"At your pleasure, sir" replied the Mulatto; 
-            "and it is time that I should also retire to them."</p>
+            <p><said rend="quotes">At your pleasure, sir</said> replied the Mulatto; 
+            <said rend="quotes">and it is time that I should also retire to them.</said></p>
             
-            <p>"No! no!" interrupted Mr Guthrie; "sit you 
+            <p><said rend="quotes">No! no!</said> interrupted <persName ref="#guthrie_0001">Mr Guthrie</persName>; <said rend="quotes">sit you 
             down here; you shall be taken care of, at least. 
-            The Negroes will give your companions wherewithal 
+            <ecda:persGroup>The Negroes</ecda:persGroup> will give your <ecda:persGroup>companions</ecda:persGroup> wherewithal 
             to make a breakfast. You shall be entertained 
             here, while I go to dress myself. Sit 
-            down."</p>
+            down.</said></p>
             
-            <p>It was in vain that the Mulatto protested against 
+            <p>It was in vain that <rs ref="#sebastian_0001" type="person">the Mulatto</rs> protested against 
             such an honour as breakfasting in the piazza of 
-            the white man: his bows either were not sufficiently 
+            <rs ref="#guthrie_0001" type="person">the white man</rs>: his bows either were not sufficiently 
             disqualifying, or there was something in his 
             physiognomy which excited the pertinacity of the 
             buckra. At any rate, he allowed himself to be 
             prevailed on, and took his station, as desired: 
-            while Mr Guthrie, having given the orders he had 
+            while <persName ref="#guthrie_0001">Mr Guthrie</persName>, having given the orders he had 
             proposed, and sent down the assistance and provisions 
-            he designed for his late guests, betook 
+            he designed for his <ecda:persGroup>late guests</ecda:persGroup>, betook 
             himself to his own room, to depurate his person, 
-            as he termed the act of ablution; and left the 
-            Mulatto-man alone in the hall of his mansion.</p>
+            as he termed the act of ablution; and left <rs ref="#sebastian_0001" type="person">the 
+            Mulatto-man</rs> alone in the hall of his mansion.</p>
             
             <p>The hall opened into the piazza, and several 
             bed-chambers communicated with the hall. 
-            The Mulatoo had not been doomed to his own 
+            The Mulatto had not been doomed to his own 
             
             <pb/>
             <fw type="pageNum">76</fw>
@@ -2480,16 +2480,16 @@
             far as he divined, expressed an increasing curiosity; 
             and the face, after a sufficient stare, gradually 
             elongating itself from its concealment, displayed 
-            the pretty features of the soubrette. This 
-            young beauty had not failed to take notice of the 
-            stranger's figure and appearance the previous 
+            the pretty features of <rs ref="#michal_0001" type="person">the soubrette</rs>. This 
+            <rs ref="#michal_0001" type="person">young beauty</rs> had not failed to take notice of <rs ref="#sebastian_0001" type="person">the 
+            stranger</rs>'s figure and appearance the previous 
             night; and if she was pleased, or rather not displeased, 
             with them under the circumstances of 
             that time, and the calamity that attended it, there 
             was no reason why she should not indulge herself 
             with a second, a daylight perusal of them. So,
             having heard the finale of the dialogue in the 
-            piazza, and her young mistress being by this time 
+            piazza, and her <rs ref="#joanna_0001" type="person">young mistress</rs> being by this time 
             attired, and after having made the above-mentioned 
             observaion of the premises, she stepped fearlessly 
             out of the chamber, and shutting the door 
@@ -2501,16 +2501,16 @@
             to her heart's content.</p>
             
             <p>We have before remarked, in mentioning the 
-            picture of Schiavoni, that this Mulatto was a tall, 
+            picture of Schiavoni, that <rs ref="#sebastian_0001" type="person">this Mulatto</rs> was a tall, 
             
             <pb/>
             <fw type="pageNum">77</fw>
             
-            athletic, personable man. Michal the soubrette, 
+            athletic, personable man. <persName ref="#michal_0001">Michal</persName> <rs ref="#michal_0001" type="person">the soubrette</rs>, 
             surveying him from head to foot, was speedily 
             convinced of this; and had his skin been white 
             instead of tawny, she had taken him to be a very 
-            handsome buckra. Quadroon damsels do not 
+            handsome <distinct>buckra</distinct>. <ecda:persGroup><distinct>Quadroon</distinct> damsels</ecda:persGroup> do not 
             look for beauty in the youth of their own colour; 
             their first ideas of admiration or love are devoted 
             to the genuine white breed, either native or imported, 
@@ -2521,18 +2521,18 @@
             however natural the desire she might have to appear 
             to advantage, even before a young Mulatto-
             man, nothing was farther from her thoughts than 
-            to inspire him with anyhting like that confidence 
+            to inspire him with anything like that confidence 
             which prompted him, after he had tenderly squeezed 
             the hand unconsciously held out to him, to imprint 
             a kiss upon her lips. Nothing was more 
             unexpected, and few things had more astonished 
-            her. She snatched away her hand. and tore herself 
+            her. She snatched away her hand, and tore herself 
             from his embrace as if she had been in the 
             folds of such a serpent as that which stopped 
-            the march of the Roman army; and though her tongue 
+            the march of <ecda:persGroup>the Roman army</ecda:persGroup>; and though her tongue 
             refused to express the feelings which this insult 
             had roused, her black eyes flashed with so much 
-            anger and indignation, that the heart of the Mulatto 
+            anger and indignation, that the heart of <rs ref="#sebastian_0001" type="person">the Mulatto</rs> 
             for a moment sunk within him, and he felt 
             the necessity, by looks as well as words of sup-
             
@@ -2541,33 +2541,33 @@
             
             plication, to apologize for the liberty he had 
             taken. There is a natural grace in the manners 
-            of persons colour (nay, even in those of Negroes;)
+            of persons colour (nay, even in those of <ecda:persGroup>Negroes</ecda:persGroup>;)
             so that the apology to which she listened, 
             however elegantly worded and delivered, seemed 
             only what she might have expected; but the tone 
-            of voice was in no wise creole; and Michal, as 
+            of voice was in no wise creole; and <persName ref="#michal_0001">Michal</persName>, as 
             she set him down in her mind for an impudent 
             fellow, concluded he had acquired his gentility 
             with his free and easy manners in other countries, 
             and in pursuit of his business, whatever it might 
             be. However, as her resentment began to abate 
-            with the manifestation of his repetance, she gave 
+            with the manifestation of his repentance, she gave 
             way to the more natural kindness of her disposition, 
             and told him with a smile, that he was no 
-            guest for her master and mistres, but must come 
+            <rs ref="#sebastian_0001" type="person">guest</rs> for her <rs ref="#guthrie_0001" type="person">master</rs> and <rs type="person">mistress</rs>, but must come 
             and breakfast at her house, not twenty yards from 
-            the back piazza; where her mother would give 
-            him plenty of coffee and roasted plantains, which 
+            the back piazza; where her <ecda:anonPers>mother</ecda:anonPers> would give 
+            him plenty of coffee and roasted <ecda:flora>plantains</ecda:flora>, which 
             were now waiting his pleasure. As she spoke 
-            this, she descended the piazza steps; and the 
-            Mulatto, convinced by her expression, and his own 
+            this, she descended the piazza steps; and <rs ref="#sebastian_0001" type="person">the 
+            Mulatto</rs>, convinced by her expression, and his own 
             reflections, that she was in the right, followed her 
             not unwillingly to the abode which she had 
             pointed out, where he was indulged with the seat 
             of honour, and regaled with an excellent breakfast: 
             while at the same time he feasted his eyes 
             with gazing on those, and the many other charms 
-            of the pretty and amiable soubrette.</p>
+            of the pretty and amiable <rs ref="#michal_0001" type="person">soubrette</rs>.</p>
          </div>
          
          <pb/>
@@ -2579,21 +2579,21 @@
             Men are but gilded loom or painted clay.
             SHAKSPEARE.</ab>
             
-            <p>THE mother of Michal, a mulatto woman of some 
-            forty years of age, had no sooner supplied her 
-            daughter's guest with all he desired, than she left
-            him to attend her sick mistress, who was too 
+            <p>THE mother of <persName ref="#michal_0001">Michal</persName>, <ecda:anonPers>a mulatto woman of some 
+            forty years of age</ecda:anonPers>, had no sooner supplied her 
+            daughter's <rs ref="#sebastian_0001" type="person">guest</rs> with all he desired, than she left
+            him to attend her sick <rs type="person">mistress</rs>, who was too 
             unwell to quit her bed; she left him however with 
-            her daughter; and this latter took the first opportunity 
+            her <rs ref="#michal_0001" type="person">daughter</rs>; and this latter took the first opportunity 
             of her mother's absence to ask by what 
             name she was to call him, and why he had not 
-            given Mr Guthrie an answer to his question on 
+            given <persName ref="#guthrie_0001">Mr Guthrie</persName> an answer to his question on 
             the same subject.</p>
             
-            <p><said rend="quotes" aloud="true">Why, my pretty mistress,</said>said he, <said rend="quotes" aloud="true">did <hi rend="italics">you</hi>
+            <p><said rend="quotes" aloud="true">Why, <rs ref="#michal_0001" type="person">my pretty mistress</rs>,</said>said he, <said rend="quotes" aloud="true">did <hi rend="italics">you</hi>
             listen to all we talked of?</said> (A nod admitted the 
             fact.) <said rend="quotes" aloud="true">My name is, at least my companions called
-            me, Sebastian or Sebastiano; but you shall call 
+            me, <persName ref="#sebastian_0001">Sebastian</persName> or <persName ref="#sebastian_0001">Sebastiano</persName>; but you shall call 
             me what you please; I should like that you 
             would find me a name, so it gave me a title to 
             your kind thoughts.</said></p>
