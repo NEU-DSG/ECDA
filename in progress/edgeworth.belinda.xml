@@ -105,9 +105,9 @@
                        which is called the art of rising in the
                        world, had, with but a small fortune, contrived
                        to live in the highest company. She
-                       prided herself upon having established <rs type="persGroup">half
-                       a dozen nieces</rs> most happily, that is to 
-                       say, upon having married them to <rs type="persGroup">men</rs> of
+                       prided herself upon having established <ecda:persGroup a-gender="female">half
+                       a dozen nieces</ecda:persGroup> most happily, that is to 
+                       say, upon having married them to <ecda:persGroup a-gender="male">men</ecda:persGroup> of
                        fortunes far superior to their own. Once
                        niece still remained unmarried—<persName ref="#belinda_portman_0001">Belinda
                        Portman</persName>, of whom she was determined
@@ -128,7 +128,7 @@
                        </lg>                       
                    </p>
                     <p><persName ref="#selina_stanhope_0001">Mrs. Stanhope</persName> did not find <persName ref="#belinda_portman_0001">Belinda</persName> such
-                        a docile pupil as her other <rs type="persGroup">nieces</rs>, for she
+                        a docile pupil as her other <ecda:persGroup a-gender="female">nieces</ecda:persGroup>, for she
                         had been educated chiefly in the country;
                         she had early been inspired with a taste 
                         for domestic pleasures; she was fond of
@@ -183,7 +183,7 @@
                            <pb/>
                            <fw type="pageNum">4</fw>                                      
                                    permit—I used to see multitudes of silly
-                                   <rs type="persGroup">girls</rs>, seemingly all cut upon the same
+                                   <ecda:persGroup a-gender="female">girls</ecda:persGroup>, seemingly all cut upon the same
                                    pattern, who frequented public places
                                    day after day, and year after year, without
                                    any idea further than that of diverting
@@ -200,14 +200,14 @@
                                    quite satisfied if theyg ot a partner at a
                                    ball, without ever thinking of a partner
                                    for life. I have often asked myself, what
-                                   is to become of such <rs type="persGroup">girls</rs>, when they
+                                   is to become of such <ecda:persGroup a-gender="female">girls</ecda:persGroup>, when they
                                    grow old or ugly, or when the public eye
                                    grows tired of them? If they have large 
                                    fortunes, it is all very well; they can afford
                                    to divert themselves for a season or two
                                    without doubt; they are sure to be sought
                                    after and followed, not by mere danglers,
-                                   but by <rs type="persGroup">men</rs>  of suitable views and pretensions—
+                                   but by <ecda:persGroup a-gender="male">men</ecda:persGroup>  of suitable views and pretensions—
                                    But nothing to my mind can be
                                    more miserable than the situation of a
                                    <pb/>
@@ -221,7 +221,7 @@
                                    herself at five or six and thirty a burden
                                    to her friends, destitute of the means of
                                    rendering herself independent (for the 
-                                   <rs type="persGroup">girls</rs> I speak of never think of <emph>learning</emph> to
+                                   <ecda:persGroup a-gender="female">girls</ecda:persGroup> I speak of never think of <emph>learning</emph> to
                                    play cards), <foreign xml:lang="fr" rend="italics">de trop</foreign> in society, yet obliged
                                    to hang upon all her acquaintance, who
                                    wish her in Heaven, because she is unqualified
@@ -394,7 +394,7 @@
                         <said rend="quotes">Don't open that door—those are only
                         <persName ref="#delacour_0002">lord Delacour's</persName> apartments.</said>—The first
                         time <persName ref="#belinda_portman_0001">Belinda</persName> ever saw his lordship, he was
-                        dead drunk in the arms of <rs type="persGroup">two footmen</rs>,
+                        dead drunk in the arms of <ecda:persGroup a-gender="male" a-occupation="footman">two footmen</ecda:persGroup>,
                         who were carrying him up stairs to his
                         <pb/>
                         <fw type="pageNum">11</fw>
@@ -405,7 +405,7 @@
                         <said rend="quotes">What is the matter?–Who is this?</said>
                         said <persName ref="#belinda_portman_0001">Belinda</persName>.
                         <said>Only the body of my <persName ref="#delacour_0002">lord Delacour</persName>,</said>
-                        said <rs ref="#delacour_0001" type="person">her ladyship</rs>—<said><rs type="persGroup">his bearers</rs> have
+                        said <rs ref="#delacour_0001" type="person">her ladyship</rs>—<said><ecda:persGroup a-occupation="footman" a-gender="male">his bearers</ecda:persGroup> have
                         brought it up the wrong staircase—take
                         it down again, my good friends—let his
                         lordship go his <emph>own way</emph>—don't look
@@ -659,7 +659,7 @@
                         being taken in, to marry a niece of <quote rend="quotes">the 
                         <hi rend="italic">catch-match-maker</hi>;</quote> the name by which
                         <persName ref="#ss">Mrs. Stanhope</persName> was known among the
-                        <rs type="persGroup">men</rs> of his acquaintance. Young ladies,
+                        <ecda:persGroup a-gender="male">men</ecda:persGroup> of his acquaintance. Young ladies,
                         who have the misfortune to be <emph>conducted</emph>
                         by these artful dames, are always supposed
                         <pb/>
@@ -983,7 +983,7 @@
            most insolent of waiting-women. For some
            time <persName ref="#bp">Belinda</persName> imagined that this submission
            was merely an air, as she had seen
-           <rs type="persGroup">some other fine ladies</rs> proud of appearing
+           <ecda:persGroup a-gender="female">some other fine ladies</ecda:persGroup> proud of appearing
            to be goverened by a favourite maid; but 
            she was soon convinced that <persName ref="#m">Marriott</persName>
            was in possession of some secret, which
@@ -1142,7 +1142,7 @@
             to manufacture the rays that were to come
             from his eyes. He had contrived a set of
             phosphoric rays, which he was certain 
-            would charm all the fair <rs type="persGroup">daughters of <persName ref="#eve_0001">Eve</persName></rs>.
+            would charm all the fair <ecda:persGroup a-gender="female">daughters of <persName ref="#eve_0001">Eve</persName></ecda:persGroup>.
             He forgot, it seems, that phosphorus could
             not well be seen by candle light. When
             he was just equipped as a <ecda:fauna>serpent</ecda:fauna>, his rays
@@ -1158,21 +1158,21 @@
             but he resolved to be at <persName ref="#singleton_0001">lady Singleton's</persName>,
             that he might meet <persName ref="#ld">lady Delacour</persName> and
             <persName ref="#bp">miss Portman</persName>. The moment that
-            the <rs type="persGroup">tragic and comic muse</rs> appeared, he 
+            the <ecda:persGroup a-gender="female" ref="#belinda_portman_0001 #lady_delacour_0001">tragic and comic muse</ecda:persGroup> appeared, he 
             invoked them with much humour and 
             mock pathos, declaring that he knew not
             which of them could best sing his adventure.
             After a recital of his misfortune
-            had entertained the <rs type="persGroup">company</rs>, and after
-            the <rs type="persGroup">muses</rs> had performed their parts to the
+            had entertained the <ecda:persGroup a-gender="mixed">company</ecda:persGroup>, and after
+            the <ecda:persGroup a-gender="female" ref="#belinda_portman_0001 #lady_delacour_0001">muses</ecda:persGroup> had performed their parts to the
             satisfaction of the audience, and their own,
             the conversation ceased to be supported in
-            masquerade character; <rs type="persGroup">muses and harlequins,
-            gipsies and <name>Cleopatras</name></rs>, began to talk
+            masquerade character; <ecda:persGroup>muses and harlequins,
+            gipsies and <name>Cleopatras</name></ecda:persGroup>, began to talk
             of their private acfairs, and of the news
             and the scandal of the day. 
         </p>
-        <p>A <rs type="persGroup">groupe of gentlemen</rs>, amongst whom 
+        <p>A <ecda:persGroup a-gender="male">group of gentlemen</ecda:persGroup>, amongst whom 
             was <persName ref="#ch">Clarence Hervey</persName>, gathered round the
             tragic muse; as <persName ref="#ch">Mr. Hervey</persName> had hinted
             that he knew she was a person of distinction,
@@ -1215,7 +1215,7 @@
             <pb/>
             <fw type="pageNum">37</fw>
         clever dame, faith,</said> said a <ecda:anonPers>third gentleman</ecda:anonPers>
-         —<said>There's no less than <rs type="persGroup">six of her nieces</rs>, 
+         —<said>There's no less than <ecda:persGroup a-gender="female">six of her nieces</ecda:persGroup>, 
          whom she has <emph>got off</emph> within these four
          winters—Not a one of 'em now, that has
          not made a catch-match—There's the
@@ -1237,7 +1237,7 @@
          music; and <persName ref="#ss">Mrs. Stanhope</persName> flattered him
          that he was one.</said>   
         </p>  
-        <p>The <rs type="persGroup">gentlemen</rs> joined in the general
+        <p>The <ecda:persGroup a-gender="male">gentlemen</ecda:persGroup> joined in the general
             laugh—The <rs type="person" ref="#bp">tragic muse</rs> sighed—
         </p>     
         <p><said>Even were she at the <title ref="#sheridan_school">School for Scandal</title>,
@@ -1349,7 +1349,7 @@
           said she as she went down the staircase.  
         </p>     
         <p><said>Nothing, if I could have air,</said> said
-          <persName ref="#bp">Belinda</persName>. There was a crowd of <rs type="persGroup">servants</rs>
+          <persName ref="#bp">Belinda</persName>. There was a crowd of <ecda:persGroup a-occupation="servant">servants</ecda:persGroup>
             in the hall.            
         </p>     
              <pb/>
@@ -1482,12 +1482,12 @@
            —Little did I know in what a light 
            I appeared—Little did I know what <emph>gentlemen</emph>
            thought of my <persName ref="#ss">aunt Stanhope</persName>—of
-           <rs type="persGroup">my cousins</rs>—of myself.</said>             
+           <ecda:persGroup a-gender="female">my cousins</ecda:persGroup>—of myself.</said>             
         </p>     
         <p><said><emph>Gentlemen</emph>! I presume <persName ref="#ch">Clarence Hervey</persName>
         stands at this instant, in your imagination,
-        as the representative of all the <rs type="persGroup">gentlemen
-        in <placeName>England</placeName></rs>; and he, instead of
+        as the representative of all the <ecda:persGroup a-gender="male">gentlemen
+        in <placeName>England</placeName></ecda:persGroup>; and he, instead of
        <persName ref="#anacharsis_cloots_1755">Anacharsis Cloots</persName> is now to be sure
             <pb/>
             <fw type="pageNum">47</fw>
@@ -1501,11 +1501,11 @@
            she had heard—<said>And is this all?</said> cried
            <persName ref="#ld">lady Delacour</persName>—<said>Lord, my dear, you
            must either give up living in the world, or
-           expect to hear yourself, and your <rs type="persGroup">aunts</rs>, 
-           and your <rs type="persGroup">cousins</rs>, and your <rs type="persGroup">friends</rs>, from
+           expect to hear yourself, and your <ecda:persGroup a-gender="female">aunts</ecda:persGroup>, 
+           and your <ecda:persGroup a-gender="female">cousins</ecda:persGroup>, and your <ecda:persGroup>friends</ecda:persGroup>, from
            generation to generation, abused every 
-           hour in the day, by <rs type="persGroup">their friends, and your
-           friends</rs>—'tis the common course of things.
+           hour in the day, by <ecda:persGroup>their friends, and your
+           friends</ecda:persGroup>—'tis the common course of things.
            Now you know what a multitude of obedient humble servants, dear creatures, and
            very sincere and most affectionate friends,
            I have, in my writing desk, and on my 
@@ -1530,10 +1530,10 @@
            the crowd, if you stop to be civil and
            beg pardon and, <said><quote rend="italic"><distinct type="dialect">hope I did'nt hurt ye</distinct>,</quote></said>
            you will be trod under foot.—Now you'll 
-           meet those <rs type="persGroup">young men</rs> continually, who
+           meet those <ecda:persGroup a-gender="male">young men</ecda:persGroup> continually, who
            took the liberty of laughing at your <rs type="person" ref="#ss">aunt</rs>,
-           and your <rs type="persGroup">cousins</rs>, and yourself, they are
-           <rs type="persGroup">men of fashion</rs>—Show them you've no
+           and your <ecda:persGroup a-gender="female">cousins</ecda:persGroup>, and yourself, they are
+           <ecda:persGroup a-gender="male">men of fashion</ecda:persGroup>—Show them you've no
            feeling, and they'll acknowledge you for 
            a woman of fashion—you'll marry better
            than any of your cousins, <persName ref="#ch">Clarence Hervey</persName>
@@ -1552,10 +1552,10 @@
              <pb/>
              <fw type="pageNum">49</fw>
         <p>To <persName ref="#bp">Belinda</persName> the night appeared long
-            and dull; the common place wit of <rs type="persGroup">chimney-
-            sweepers and gipsies</rs>; the antics of
-            <rs type="persGroup">harlequins</rs>; the graces of <rs type="persGroup">flower-girls</rs> and
-            <name>Cleopatras</name> had not power to amuse her;
+            and dull; the common place wit of <ecda:persGroup>chimney-
+            sweepers and gipsies</ecda:persGroup>; the antics of
+            <ecda:persGroup>harlequins</ecda:persGroup>; the graces of <ecda:persGroup>flower-girls</ecda:persGroup> and
+            <ecda:persGroup><name>Cleopatras</name></ecda:persGroup> had not power to amuse her;
             for her thoughts still recurred to that conversation
             which had given her so much
             pain—a pain which <persName ref="#ld">lady Delacour's</persName> raillery
@@ -1712,11 +1712,11 @@
         <p><said><rs ref="#md" type="person">My husband</rs>,</said> continued she, and
           her voice suddenly altered from the tone
           of grief to that of anger—<said>My husaband
-          hates me—no matter—I despise him—<rs type="persGroup">His
-          relations</rs> hate me—no matter—I despise
+          hates me—no matter—I despise him—<ecda:persGroup>His
+          relations</ecda:persGroup> hate me—no matter—I despise
               <pb/>
               <fw type="pageNum">54</fw>
-          them—<rs type="persGroup">My own relations</rs> hate me—no
+          them—<ecda:persGroup>My own relations</ecda:persGroup> hate me—no
           matter, I never wish to see them more—
           never shall they see my sorrow—never
           shall they hear a complaint, a sigh from
@@ -1814,8 +1814,8 @@
             fice and affectation</quote>,</said> were fixed in her 
             memory. She recollected with the utmost 
             minuteness every look of contempt, which
-            she had seen in the faces of the <rs type="persGroup">young
-            men</rs>, whilst they spoke of <persName ref="#ss">Mrs. Stanhope</persName>
+            she had seen in the faces of the <ecda:persGroup a-gender="male">young
+            men</ecda:persGroup>, whilst they spoke of <persName ref="#ss">Mrs. Stanhope</persName>
             the match-maker. <persName ref="#bp">Belinda's</persName> mind, however,
             was not yet sufficiently calm to reflect:
             she seemed only to live over again
@@ -5902,7 +5902,7 @@ be down stairs in three minutes.</said>
                   study cause and effect—indeed there was
                   no species of knowledge for which he had
                   not taste and talents, though, to please
-                  fools, he too oftn affected <quote rend="quotes">the bliss of
+                  fools, he too oftn affected <quote rend="quotes" source="#gray_eton">the bliss of
                   ignorance</quote>.                  
               </p>  
               <p>The <rs type="persGroup">children</rs> at <persName ref="#ap">lady Anne Percival's</persName> happened
@@ -5934,7 +5934,7 @@ be down stairs in three minutes.</said>
                <p><persName ref="#dr_x_0001">Dr. X―</persName> observed, that this was a
                    very learned dispute, and that the question
                    had been discussed by no less a person
-                   than the <persName>abbé Nollet</persName>; and he related some
+                   than the <persName ref="#jean_antoine_nollet_1700">abbé Nollet</persName>; and he related some
                    of the ingenious experiments tried by that
                    gentleman, to decide, whether <ecda:fauna>fishes</ecda:fauna> can
                    or cannot hear.—Whilst the doctor was 
@@ -6021,14 +6021,14 @@ be down stairs in three minutes.</said>
                    <ecda:fauna>beasts</ecda:fauna>. The <ecda:anonPers>boy</ecda:anonPers>, who sat next to him, had
                    asked some questions about the proboscis
                    of the <ecda:fauna>elephant</ecda:fauna>, and <persName ref="#ch">Mr. Hervey</persName> mentioned
-                   <persName>Ive's</persName> account of the <ecda:fauna>elephants</ecda:fauna> in
+                   <persName ref="#edward_ives_0001">Ive's</persName> account of the <ecda:fauna>elephants</ecda:fauna> in
                    <placeName>India</placeName>, who have been set to watch young
                    children, and who draw them back gently
                    with their trunks, when they go out of
                    bounds. He talked next of the <ecda:fauna>unicorn</ecda:fauna>;
                    and addressing himself to <persName ref="#dr_x_0001">Dr. X―</persName> and
                    <persName ref="#percival_0001">Mr. Percival</persName>, he declared that in his
-                   opinion <persName>Herodotus</persName> did not deserve to be
+                   opinion <persName ref="#herodotus_0001">Herodotus</persName> did not deserve to be
                    called the father of lies; he cited the
                    <ecda:fauna>mammoth</ecda:fauna> to prove, that the apocryphal
                    chapter in the history of <ecda:fauna>beasts</ecda:fauna>
@@ -6379,11 +6379,11 @@ be down stairs in three minutes.</said>
              little boys</rs>, who came running eagerly up
              to his mother, to ask whether he might
              have <said>the sulphurs to show to <persName ref="#hd">Helena
-             Delacour</persName>.—I want to show her <name>Vertum-
+             Delacour</persName>.—I want to show her <persName ref="#vertumnus_0001">Vertum-
              
              
              
-             nus</name> and <name>Pomona</name>, mamma,</said> said he.—
+             nus</persName> and <persName ref="#pomona_0001">Pomona</persName>, mamma,</said> said he.—
              <said>Were not the <ecda:food ana="#flora">cherries</ecda:food> that the <ecda:anonPers>old
              gardener</ecda:anonPers> sent, very good?</said>                
             </p>   
@@ -6395,7 +6395,7 @@ be down stairs in three minutes.</said>
              <p><said>I will, but I should tell it you a
              great deal better another time,</said> said the
              <rs type="person" ref="#charles_percival_0001">boy</rs>, <said>because now <persName ref="#hd">Helena's</persName> waiting for
-             <name>Vertumnus</name> and <name>Pomona</name>.</said>                 
+             <persName ref="#vertumnus_0001">Vertumnus</persName> and <persName ref="#pomona_0001">Pomona</persName>.</said>                 
              </p>  
              <p><said>Go then to <persName ref="#hd">Helena</persName>,</said> said <persName ref="#ap">lady Anne</persName>,
              <said>and I <choice><sic>well</sic><corr>will</corr></choice> tell the story for you.</said>                 
@@ -6608,9 +6608,9 @@ be down stairs in three minutes.</said>
          you must never marry, remember,</said>
          continued <persName ref="#dr_x_0001">Dr. X―</persName>, <said>never—for your
          true poet must always be miserable.—
-         You know, <persName>Petrarch</persName> tells us, he would
+         You know, <persName ref="#francesco_petrarch_1304">Petrarch</persName> tells us, he would
          not have been happy if he could; he
-         would not have married his <rs type="person" ref="#laura">mistress</rs> if it
+         would not have married his <persName ref="#laura_0001">mistress</persName> if it
          had been in his power; because, then
          there would have been an end of his 
          beautiful sonnets.</said>
@@ -6624,7 +6624,7 @@ be down stairs in three minutes.</said>
              
              
              
-             inspired with the poetic genius of <persName>Petrarch</persName>.
+             inspired with the poetic genius of <persName ref="#francesco_petrarch_1304">Petrarch</persName>.
              —I have no wish to pass whole
              nights composing sonnets.—I would (am
              I not right, <persName ref="#percival_0001">Mr. Percival</persName>?) infinitely
