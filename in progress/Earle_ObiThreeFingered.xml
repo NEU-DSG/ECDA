@@ -41,6 +41,14 @@
                     by a Mahomedan Priest, is enclosed in a horn, and sold at a high price to the
                     natives. A Bushreen, (Mussulman, or Kafir) a pagan native, believe in the
                     virtues of the Saphie, though they deny the religion.</note>
+                <note xml:id="n010" target="#a010">A caravan of slaves, from the interior of the
+                    country.</note>
+                <note xml:id="n011" target="#a011">Free black merchants, who trade in slaves, and
+                    with a small troop, well armed, march to the interior, either to purchase
+                    prisoners of war, or, if they fail in this, lay in ambush and take inhabitants
+                    from their houses when asleep. Wars in Africa are much encouraged by the
+                    Europeans, and particularly the Duth and English, and the number of slaves
+                    annually exported, are said to exceed 150,000 of those miserable people.</note>
             </ecda:notes>
         </ecda:hyperDiv>
         <front>
@@ -245,7 +253,7 @@
                         <quote rend="block">I am innocent of this blood, see ye to it</quote>
                     </body>
                 </floatingText>
-                <ecda:embSN><p>"My son, your country borders on the <placeName>Gambia</placeName>,
+                <ecda:embSN><p>"<rs type="person">My son</rs>, your country borders on the <placeName>Gambia</placeName>,
                         and its inhabitants are distinguished from all others by the name of <rs
                             type="properAdjective">Feloops</rs>. Remember that the spirit of our
                         nation is, Never to forget an injury, but to ripen in our</p><pb/>
@@ -261,14 +269,14 @@
                         was the great friend of my father, so that our nuptials were soon
                         solemnized, and I removed from my father's home to live with my dear
                             <persName>Makro</persName>.</p>
-                    <p>"How blest were we, my son! The God of our country smiled upon our stores;
+                    <p>"How blest were we, <rs type="person">my son</rs>! The God of our country smiled upon our stores;
                         our herbage grew beneath our eye, and our lawful traffic with the vile
                         Europeans, sanctioned by our virtuous <seg xml:id="a001" corresp="#n001"
                             >Mansa</seg>, answered our most sanguine expectations. Makro constantly
                         attended the <seg xml:id="a002" corresp="#n002">Korree</seg>, and our
                             <ecda:fauna>cattle</ecda:fauna> were as fine as any our nation
                         boasted</p>
-                    <p>"One terrible day, my son, our God, we thought, seemed angry with us. He
+                    <p>"One terrible day, <rs type="person">my son</rs>, our God, we thought, seemed angry with us. He
                         withheld his beams; the thunder roared above, and the tremendous lightning
                         blighted the fruits of the earth. You were then but two months old within my
                         womb. All nature at that moment seemed at variance, and the storm of rain
@@ -288,7 +296,7 @@
                         twain by the merciless tempest. Lying,</p><pb/>
                     <p>"to all appearance dead, on this fragment of the wreck, were two <rs
                             type="persGroup">Europeans</rs>, locked in each other's embrace. They
-                        were both young—one was scarely fourteen. Imagine, my son, the emotions of a
+                        were both young—one was scarely fourteen. Imagine, <rs type="person">my son</rs>, the emotions of a
                         heart, ever ready to assist the distrest, on beholding such a scene.—They
                         were <rs type="persGroup">Europeans</rs>, and all <rs type="place"
                             >Africa</rs> trembled at their name; they were my country's foes, but
@@ -313,8 +321,8 @@
                     <p>"By that time, when the glorious sun witholds his beams which are canopied
                         over by the veil of night, they were both perfectly recovered.
                             <persName>Makro</persName> invited them to take some <seg xml:id="a004"
-                            corresp="#n004">kous kous</seg>, of which they ate most hartily, and much
-                        admired our <seg xml:id="a005" corresp="#n005">Shea Toulou</seg>, which
+                            corresp="#n004">kous kous</seg>, of which they ate most hartily, and
+                        much admired our <seg xml:id="a005" corresp="#n005">Shea Toulou</seg>, which
                             <persName>Makro</persName> placed plentifully before them. My <rs
                             type="person">son</rs>, noble was the blood that flowed in your father's
                         veins. He was generous and humane (in person thou art his model) of manly
@@ -339,7 +347,7 @@
                         rends my heart in twain. I sang him to his slumbers; I procured him a
                         cooling drink; I added to his pallet, softened it for his weak frame, and
                         cheered him in the hour of affliction. What was my reward? What was my
-                        recompense? Chains! Chains! my son, and lifeclosing slavery. Here it thou
+                        recompense? Chains! Chains! <rs type="person">my son</rs>, and lifeclosing slavery. Here it thou
                         God of Africa, hear it! <seg xml:id="a008" corresp="#n008">revenge</seg>,
                         nerve the arm of the son of <persName>Makro</persName>, and lend him thy
                         invincibly power; echo the groans of his country in his ears, and inspire
@@ -417,7 +425,7 @@
                         him to never leave us.</p>
                     <p>"He smiled; I thought it the smile of satisfaction and conset, and we heaped
                         blessings on him.</p>
-                    <p>"I need not add, my son, that we were happy; we blessed the accident that
+                    <p>"I need not add, <rs type="person">my son</rs>, that we were happy; we blessed the accident that
                         cast him on our shore, and eagerly sought every thing in our power to please
                         him.</p>
                     <p>"Day followed day, and each brought something that endeared him to us the
@@ -447,7 +455,7 @@
                         (then indeed we scarcely knew what it meant) but from the pure motive of
                         learning whether we could understand them with facility</p>
                     <p>"<persName>The captain</persName>'s voice we first distinguished; his words,
-                        my son are forever impressed upon my memory, and I can with ease relate
+                        <rs type="person">my son</rs> are forever impressed upon my memory, and I can with ease relate
                         them.</p>
                     <p>"<said><persName>William</persName>,</said>" said he to <rs type="person">his
                             boy</rs>, "<said>I never can consent to be buried in this wild
@@ -545,6 +553,60 @@
                     little finger wears as fine a polish as an agate. Indeed, when I sat down I did
                     not think of entering so far in the narrative of Amri in this letter.</p>
                 <closer><salute>Adieu!</salute><signed>George Stanford.</signed></closer>
+            </div>
+            <div type="letter">
+                <head><hi rend="all caps">Letter III</hi>.</head>
+                <head><hi rend="italics">The same to the same</hi>.</head>
+                <opener><salute>Dear <persName>Charles</persName></salute>, .</opener>
+                <p>I again resume my pen. Think not that I mean to revile my countrymen; those are
+                    not my countrymen, whose inhumanitiy is the subject of my page. They may be
+                    Britons born, but are not Britons at heart, and I disclaim them. There are
+                    thousands here that have hearts like rocks. Children, from their birth, tutored
+                    to inhumanity, and treat our fellow creatues worse than the dogs that lick the
+                    morsel beneath their table.</p>
+                <p>Oh fie! fie!</p>
+                <p>I shall proceed to delineate the character of an European Westindian, in the
+                    narrative of Amri.</p>
+                <p>"In the morning, Makro would not go, as was customary to the Koree, because he
+                    would witness the departure of his friend, and we took a walk for the last time,
+                    accompanied by <persName>Captain Harrop</persName>, to view the surrounding
+                    plain.</p>
+                <pb/>
+                <p>"<persName>William</persName> waited on the banks of <placeName>the
+                        Gambia</placeName> for the arrival of the boat, and to give <rs
+                        type="person">the Captain</rs> notice</p>
+                <p>"We arrived at the top of a hill, where we always made our observations, and a
+                    withered brance of a tree lay at our feet; he made us examine it.</p>
+                <p>"<said>Look</said>," cried he; "<said>here is another subject to admire; behold
+                        this tree flourishing, while an arm that was lopped from its side now
+                        withers on the ground</said>.</p>
+                <p>"<said>This is a subject worthy of your minute attention. This arm, divested of
+                        nourishment, withers; the falling dew cannot revive it, nor the sun cheer
+                        it. Compare it to a limb torn from you or me; it needs must die, receiving
+                        no succor from the body, to which it once belonged. The blood that flows in
+                        your veins would no longer enliven that limb, and the place from whence it
+                        was torn would soon be covered by a growing skin</said>.</p>
+                <p>"<said>We eat and are eaten by creatures of the earth; thousands inhabit our
+                        mortal frame, and thousands inhabit the body of that tree. That receives a
+                        sustenance from the earth, and the spreading veings convey the sap of life
+                        to the re-</said></p>
+                <pb/>
+                <p><said>motest leaf of the same tree. Thus you see how complete is Nature in all
+                        her various performances</said>."</p>
+                <p>"This observation did but increase our agony at the idea of separation. I could
+                    have loved him, adored him. Ours were not weak minds, <rs type="person">my son</rs>; they were pliant
+                    as the infant's, formed for instruction, gifted with retentive memory, and we
+                    looked upon <rs type="properAdjective">the European</rs> as our great
+                    instructor.</p>
+                <p>"On looking in the plain beneath, we beheld a <seg xml:id="a010" corresp="#n010"
+                        >Caffila</seg>, mastered by seventeen <seg xml:id="a011" corresp="#n011"
+                        >Slatees</seg>, it was the most numerous I ever beheld and came from a great
+                    way up the country.</p>
+                <p>"Oh! <rs type="person">my son</rs>, let pity warm your breast for the unhappy fate of your poor
+                    countrymen, and let a knowledge of their sufferings teach you how to revenge
+                    them!</p>
+                <p>"'Tis I would fan your bosom to a flame; 'tis I would rouse your inactive soul, and heap</p><pb/>
+
             </div>
 
         </body>
