@@ -281,7 +281,7 @@
           nameLink nationality nym occupation org orgName persName person
           personGrp placeName relation relationGrp residence roleName sex
           socecStatus surname trait"/>
-        <moduleRef key="tagdocs"/>
+        <moduleRef key="tagdocs" include="gi att val tag code"/>
         
        <moduleRef key="transcr" include="addSpan damage damageSpan delSpan fw
          handNotes handShift supplied"/>
