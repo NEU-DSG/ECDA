@@ -2926,8 +2926,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
             women</ecda:persGroup>, were chiefly white; only that the <ecda:persGroup a-gender="female" a-status="enslaved">women</ecda:persGroup>
             were decked out with a profusion of beads and
             corals, and gold ornaments of all descriptions; and
-            that while the <ecda:persGroup a-status="enslaved" a-gender="male" a-arc="black">blacks</ecda:persGroup> wore jackets, the <ecda:persGroup a-arc="mulatto" a-status="enslaved" a-gender="male">mulattoes</ecda:persGroup>
-            general wore cloth coats; and inasmuch as they
+            that while the <ecda:persGroup a-status="enslaved" a-gender="male" a-arc="black">blacks</ecda:persGroup> wore jackets, the <ecda:persGroup a-arc="mulatto" a-status="enslaved" a-gender="male">mulattoes</ecda:persGroup> 
+            generally wore cloth coats; and inasmuch as they
             were all plainly clean instead of being shabbily 
             fashionable, and affected to be nothing except
             that which they really were, they looked twenty
@@ -2983,7 +2983,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
             performers out of the pit, and carried off all
             the applause of the <ecda:persGroup a-gender="mixed">spectators</ecda:persGroup>, and a <ecda:commodity ana="#currency #circulation">couple of my
             dollars</ecda:commodity>. The <name ana="#performance">John-Canoes</name> are fitted out at the 
-            expense of rich <rs type="persGroup">negroes</rs>, who afterwards share
+            expense of rich <ecda:persGroup a-arc="negro">negroes</ecda:persGroup>, who afterwards share
             the <seg ana="money">money</seg> collected from the spectators during
             their performance, alloting one share to the repre- 
          <pb n="84"/>
@@ -3632,7 +3632,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
          of alligators</ecda:fauna>, &amp;c.: he was conveyed to <placeName>Montego
          Bay</placeName>; and no sooner was it understood that this <ecda:anonPers>old
          <rs type="properAdjective">African</rs></ecda:anonPers> was in prison, that depositions were poured 
-         in from all quarters from <rs type="persGroup">negroes</rs> who deposed to 
+         in from all quarters from <ecda:persGroup a-arc="negro">negroes</ecda:persGroup> who deposed to 
          having seen him exercise his magical arts, and, in 
          particular, to <seg ana="#poison">his having sold such and such <ecda:persGroup a-status="enslaved">slaves</ecda:persGroup>
          medicines and charms to deliver them from their
@@ -3772,19 +3772,19 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
             him of having tasted something poisonous, especially as,
             just before his first fit, he had been observed
             in the <rs type="place">small grove</rs>of <ecda:flora ana="#food">mangoes</ecda:flora> near <rs type="place">the
-            house</rs>; but I was assured by the <rs type="persGroup">negroes</rs>, one and 
+            house</rs>; but I was assured by the <ecda:persGroup a-arc="negro" a-status="enslaved">negroes</ecda:persGroup>, one and 
             all, that nothing could possibly have induced him
             to eat an <ecda:food ana="#flora">herb</ecda:food> or <ecda:food ana="#flora">fruit</ecda:food> from <rs type="place">that grove</rs>, as it had
             been used as a burying-ground for <said rend="quotes">the white
             people</said>.</seg></seg> But although my idea of the poison was 
             scouted, still the mention of the <rs type="place">burying-ground </rs>
             suggested another cause for his illness to the 
-            <rs type="persGroup">negroes</rs>, and they had no sort of doubt, that in
+            <ecda:persGroup a-status="enslaved" a-arc="negro">negroes</ecda:persGroup>, and they had no sort of doubt, that in
             passing through the <rs type="place">burying-ground</rs> he had been
             struck down by the duppy of a <ecda:anonPers>white person</ecda:anonPers> not
             long deceased, whom he had formerly offended,
             and that these repeated fainting-fits were the
-            consequence of that ghostly blow. The <rs type="persGroup">negroes</rs> 
+            consequence of that ghostly blow. The negroes 
        <pb n="108"/>
        <fw type="pageNum">100</fw>      
             have in various publications been accused of a
@@ -3805,7 +3805,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
             country; and this idea used frequently to induce
             them, soon after their landing in the <rs type="place">colonies</rs>, to
             commit suicide; but this was never known to 
-            take place except among fresh <rs type="persGroup">negroes</rs>, and since
+            take place except among fresh negroes, and since
             the execrable slave-trade has been abolished, such
             an illusion is unheard of. As to those who had 
             once got over the dreadful period of <distinct rend="quotes" type="economic">seasoning</distinct>,
@@ -3849,8 +3849,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
             this does not occupy above a month (I believe) at
             the utmost, at two periods of the year; and on
             my estate this service is chiefly performed by extra
-            <rs type="persGroup">negroes</rs>, hired for the purpose; which, although
-            equally hard on the hired <rs type="persGroup">negroes</rs> (called a <distinct type="economic">jobbing 
+            <ecda:persGroup a-arc="negro" a-occupation="jobbing">negroes</ecda:persGroup>, hired for the purpose; which, although
+            equally hard on the hired <ecda:persGroup a-arc="negro" a-occupation="jobbing">negroes</ecda:persGroup>(called a <distinct type="economic">jobbing 
             
         <pb n="110"/>
         <fw type="pageNum">102</fw>    
@@ -4188,7 +4188,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      <pb n="120"/>
      <fw type="pageNum">112</fw>   
           <p>Besides the profits arising from their superabundance
-             of <ecda:commodity>provisions</ecda:commodity>, which the better sort of <rs type="persGroup">negroes</rs>
+             of <ecda:commodity>provisions</ecda:commodity>, which the better sort of <ecda:persGroup a-arc="negro" a-status="enslaved">negroes</ecda:persGroup>
              are enabled to sell regularly once a week at <placeName>Savannah
              la Mar</placeName> to a considerable amount, they keep a
              large stock of <ecda:fauna ana="#commodity">poultry</ecda:fauna>, and <ecda:fauna ana="#commodity">pigs</ecda:fauna> without number;
@@ -4310,12 +4310,12 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
          laws already enacted for the protection of the
          slaves, and which every year are still futher 
          ameliorated, and what with the difficulty of procuring
-         more <rs type="persGroup">negroes</rs>—(which can now only be done
+         more negroes—(which can now only be done
          by purchasing them from other estates),—which
          makes it absolutely necessary for the <ecda:persGroup a-occupation="manager">managers</ecda:persGroup> to
          preserve the <ecda:persGroup a-status="enslaved" a-gender="mixed">slaves</ecda:persGroup>, if they mean to preserve their 
          own situations,—I am fully persuaded that instances 
-         of tyranny to <rs type="persGroup">negroes</rs> are now very rare,
+         of tyranny to negroes are now very rare,
          at least in this island. But I must still acknowledge,
          from my own sad experience since my 
          arrival, that unless <rs type="person">a <rs type="properAdjective">West-Indian</rs> proprietor</rs> occa-
@@ -4384,14 +4384,14 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           of rebellion; and at length he committed an act of
           such severity, that the <rs type="persGroup">negroes</rs>, one and all, fled to
           <placeName>Savannah la Mar</placeName>, and threw themselves upon the
-          protection of the <rs type="persGroup">magistrates</rs>, who immediately 
+          protection of the <ecda:persGroup a-occupation="magistrate">magistrates</ecda:persGroup>, who immediately 
       <pb n="126"/>
       <fw type="pageNum">118</fw> 
          came over to <placeName>Cornwall</placeName>, investigated the complaint,
          and <emph rend="italic">now</emph>, at length, the <ecda:anonPers>attorney</ecda:anonPers>, who had known
          frequent instances of the <ecda:anonPers>overseer's</ecda:anonPers> tyranny, had 
          frequently rebuffed him for them, and had redressed
-         the <rs type="persGroup">sufferers</rs>, but who still had dared to abuse my
+         the <ecda:persGroup a-status="enslaved">sufferers</ecda:persGroup>, but who still had dared to abuse my
          confidence so grossly as to continue him in his
          situation, upon this public exposure thought proper
          to dismiss him.</seg> Yet, while all this was going 
@@ -4404,7 +4404,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
          perfect good treatment and satisfaction; nor, if I
          had not come myself to <placeName>Jamaica</placeName>, in all probability
          should I ever have had the most distant idea how
-         abominably the <rs type="persGroup">poor creatures</rs> had been misused.
+         abominably the <ecda:persGroup a-status="enslaved" a-gender="mixed">poor creatures</ecda:persGroup> had been misused.
        </p>
        <p>I have made it my business to mix as much as
           possible among the <rs type="persGroup">negroes</rs>, and have given them
@@ -4428,7 +4428,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           measure that may prevent any misconduct taking
           place without my being apprised of it as soon as
           possible; and I have already exhorted my <rs type="persGroup">negroes</rs>
-          to apply to the <rs type="persGroup">magistrates</rs> on the very first instance
+          to apply to the <ecda:persGroup a-occupation="magistrate">magistrates</ecda:persGroup> on the very first instance
           of ill-usage, should any occur during my 
           absence.          
        </p>
@@ -4436,9 +4436,9 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           that to manage a <rs type="properAdjective">West-Indian</rs> estate without the
           occasional use of the cart-whip, however rarely,
           is impossible; and they insist upon it, that it is
-          absurd in me to call <rs type="persGroup">my slaves</rs> ill-treated, because
+          absurd in me to call <ecda:persGroup a-gender="mixed" a-status="enslaved">my slaves</ecda:persGroup> ill-treated, because
           when they act grossly wrong, they are treated like 
-          <rs type="persGroup"><rs type="properAdjective">English</rs> soldiers and sailors</rs>. All this may be very
+          <rs type="properAdjective">English</rs> soldiers and sailors. All this may be very
           true; but there is something to me so shocking in
           the idea of this execrable cart-whip, that I have
           positively forbidden the use of it on <placeName>Cornwall</placeName>;
@@ -4539,9 +4539,9 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
    <div type="entry">
       <opener><dateline><date when="1816-01-21">January 21</date>. <hi rend="mixed">(Sunday.)</hi></dateline></opener>
       <p ana="#medical #disease">The <rs type="place">hospital</rs> has been crowded, since my arrival,
-         with <rs type="persGroup">patients</rs> who have nothing the matter with 
-         them. On Wednesday there were about <rs type="persGroup">thirty
-         invalids</rs>, of whom only four were cases at all
+         with <ecda:persGroup a-status="enslaved">patients</ecda:persGroup> who have nothing the matter with 
+         them. On Wednesday there were about <ecda:persGroup a-status="enslaved">thirty
+         invalids</ecda:persGroup>, of whom only four were cases at all
          serious; the rest had <said rend="quotes"><distinct type="dialect">a lilly pain here, Massa</distinct>,</said> and
          <said rend="quotes"><distinct type="dialect">a bad pain me know nowhere, Massa</distinct>,</said> and
          evidently only came to the <rs type="place">hospital</rs> in order to sit
@@ -4552,7 +4552,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
          my own hand at curing them; and I directed <ecda:anonPers>the
          head-driver</ecda:anonPers> to announce, that the presents which
          I had brought from <placeName>England</placeName> should be distributed
-         to-day, that the <rs type="persGroup">new-born children</rs> should be
+         to-day, that the <ecda:persGroup a-status="enslaved">new-born children</ecda:persGroup> should be
          christened, and that the <rs type="persGroup">negroes</rs> might take possession
          of <rs type="place">my house</rs>, and amuse themselves till
          twelve at night. The effect of my prescription was
@@ -4571,7 +4571,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
       <pb n="131"/>
      <fw type="pageNum">123</fw>    
          serviceable fellow, and the <ecda:anonPers>mother</ecda:anonPers>, besides having
-         brought up <rs type="persGroup">three children</rs> of her own, had the
+         brought up <ecda:persGroup a-status="enslaved">three children</ecda:persGroup> of her own, had the
          additional merit of having reared <ecda:anonPers>an infant</ecda:anonPers> whose
          own mother had died in child-bed, I broke through
          the rule of only christening those myself who
@@ -4600,7 +4600,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
          care of it till the tenth day, when she was entitled
          to an <ecda:commodity ana="#textile #circulation #food">allowance of clothes, provisions &amp;c.</ecda:commodity>;
          but no sooner had she received her reward, than on 
-         that very night she suffered the <ecda:anonPers>child </ecda:anonPers>to remain so
+         that very night she suffered the <ecda:anonPers>child</ecda:anonPers> to remain so
       <pb n="132"/>
       <fw type="pageNum">124</fw>     
          long without food, while she went herself to dance
@@ -4613,9 +4613,9 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
          and propriety by all parties; I thought it was
          well to cut the reading part of it very short; but
          I read a couple of prayers, marked the foreheads 
-         of the <rs type="persGroup">children</rs> with the sign of the cross, and instead
+         of the <ecda:persGroup a-status="enslaved">children</ecda:persGroup> with the sign of the cross, and instead
          of the concluding prayer, I substituted a wish,
-         <quote rend="quotes">that God would bless the children, and make
+         <quote rend="quotes">that God would bless the <ecda:persGroup a-status="enslaved">children</ecda:persGroup>, and make
          them live to be as good servants to me, as I prayed
          him to make me a kind <distinct type="dialect">massa</distinct> to them</quote>; upon
          which all present very gravely made me their 
@@ -4625,8 +4625,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
          and I made haste to serve out <ecda:food>Madeira</ecda:food>
          to the <rs type="persGroup">parents and assistants</rs>, that they might drink
          the healths of the new <name>Christians</name> and of each other.
-         The <rs type="persGroup">mothers</rs> and the <ecda:anonPers><distinct type="dialect" rend="italic">graundee</distinct></ecda:anonPers> were then called up
-         to the table, and the <rs type="persGroup">ladies in a family way</rs> were
+         The <ecda:persGroup a-status="enslaved" a-gender="female">mothers</ecda:persGroup> and the <ecda:anonPers a-gender="female" a-occupation="garundee"><distinct type="dialect" rend="italic">graundee</distinct></ecda:anonPers> were then called up
+         to the table, and the <ecda:persGroup a-gender="female" a-status="enslaved">ladies in a family way</ecda:persGroup> were
          arranged behind them.                 
       </p>
       <p><emph rend="italic">Their</emph> title in <placeName>Jamaica</placeName> is rather coarse, but very
@@ -4643,7 +4643,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
          <quote rend="quotes" source="shakespeare_errors">The pleasing punishment which women bear</quote>;
          and who, in consequence, were discharged from
          all severe labour. I then gave the <distinct type="dialect" rend="italic">graundee</distinct> and
-         the <rs type="persGroup">mothers</rs> <measure ana="#currency">a dollar</measure> each, and told them, that for
+         the <ecda:persGroup a-status="enslaved" a-gender="female">mothers</ecda:persGroup> <measure ana="#currency">a dollar</measure> each, and told them, that for
          the future they might claim the same sum, in
          addition to their usual allowance of <ecda:commodity ana="#textile #food">clothes and provisions</ecda:commodity>,
          for every infant which should be brought 
@@ -4677,12 +4677,12 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
          drums were produced, and in defiance of Sunday
          the <rs type="persGroup">negroes</rs> had the irreverence to be gay and happy,
          while the presents were getting in order for distribution.
-         All the <rs type="persGroup">men</rs> got <ecda:commodity ana="#textile #circulation">jackets</ecda:commodity>, the <rs type="persGroup">women</rs> <measure>seven
+         All the <ecda:persGroup a-gender="male" a-status="enslaved">men</ecda:persGroup> got <ecda:commodity ana="#textile #circulation">jackets</ecda:commodity>, the <ecda:persGroup a-status="enslaved" a-gender="female">women</ecda:persGroup> <measure>seven
          yards</measure> of <ecda:commodity ana="#textile #circulation">stuff</ecda:commodity> each for <ecda:commodity ana="#textile #use">>petticoats, &amp;c.</ecda:commodity>, and the
          children as much <ecda:commodity ana="#textile #circulation">printed cotton</ecda:commodity> as would make
          <ecda:commodity ana="#textile #use">a couple of frocks</ecda:commodity>. The <name>Creoles</name> were delighted
-         beyond measure when <rs type="persGroup">some of the <rs type="properAdjective">African</rs> male
-         negroes</rs> exclaimed, <said rend="quotes"><distinct type="dialect">Tank, massa</distinct>,</said> and made a
+         beyond measure when <ecda:persGroup a-gender="male" a-arc="negro" a-status="enslaved" a-nationality="african">some of the <rs type="properAdjective">African</rs> male
+         negroes</ecda:persGroup> exclaimed, <said rend="quotes"><distinct type="dialect">Tank, massa</distinct>,</said> and made a
          low courtesy in the confusion of their gratitude.
          As they were all called to receive their presents
          alphabetically in pairs, some of the combinations 
@@ -4825,7 +4825,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           to write to their <ecda:anonPers>trustee</ecda:anonPers>; and, as they were afraid 
           of being punished on their return home for having
           thrown themselves on my protetion, I wrote a
-          note to the <ecda:anonPers>overseer</ecda:anonPers>, requesting that the <rs type="persGroup">women</rs>
+          note to the <ecda:anonPers>overseer</ecda:anonPers>, requesting that the <ecda:persGroup a-status="enslaved" a-gender="female">women</ecda:persGroup>
           might remain quite unmolested till the <ecda:anonPers>trustee's</ecda:anonPers>
           arrival, which was daily expected; and, with this
           note and a present of <ecda:food ana="#flora #circulation">cocoa-fingers</ecda:food> and <ecda:food ana="#fauna #circulation">salt fish</ecda:food>,
@@ -4936,7 +4936,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
       <fw type="pageNum">134</fw>  
         and should never do well.</seg> At length, to-day, he
         got out of his sick bed, came to the house, attended
-        by <rs type="persGroup">the whole body of drivers</rs>, and accused his
+        by <ecda:persGroup a-occupation="driver">the whole body of drivers</ecda:persGroup>, and accused his
         brother-in-law of having been the stealer of his 
         <ecda:commodity ana="#circulation">goods</ecda:commodity>. I asked, <said rend="quotes" direct="false">Had <persName ref="#edward_0001">Edward</persName> been seen near
         <rs type="place">his house</rs>? Had any of his effects been seen in <persName ref="#edward_0001">Edward's</persName>? Did <persName ref="#edward_0001">Edward</persName> refuse to suffer
@@ -4983,7 +4983,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
          agent, who had prosecuted and transported him.
          It was, therefore, improbable in the highest degree,
          that he should be an <rs type="properAdjective">Obeah</rs> man himself; and all
-         the <rs type="persGroup">bystanders</rs>, black and white, joined me in
+         the <ecda:persGroup>bystanders</ecda:persGroup>, black and white, joined me in
          ridiculing <persName ref="#pickle_0001">Pickle</persName> for complaints so improbable and
          childish. But anger, argument, and irony were 
          all ineffectual. I offered to christen him, and expel
@@ -5102,7 +5102,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
          county given to-day at <placeName>Montego Bay</placeName>, to which I
          was invited; but I begged leave to decline this
          and all other invitations, being determined to give
-         up my whole time to <rs type="persGroup">my negroes</rs> during my stay in
+         up my whole time to my <rs type="persGroup">negroes</rs> during my stay in
          <placeName>Jamaica</placeName>
       </p>
       </div>
@@ -5113,7 +5113,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
          plainly, but shakes his head, and evidently gives
          me to understand, that the <rs type="place">estate</rs> cannot be
          governed properly without the <seg ana="#punishment">cart-whip</seg>. It
-         seems that this morning, the <rs type="persGroup">women</rs>, one and all,
+         seems that this morning, the <ecda:persGroup a-gender="female" a-status="enslaved">women</ecda:persGroup>, one and all,
          refused to carry away the <distinct type="agricultural" rend="italic">trash</distinct> (which is one of
          the easiest tasks that can be set), and that without
          the slightest pretence: in consequence, the mill
@@ -5124,7 +5124,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
          the agent was obliged to be called in, and, at
          length, this petticoat rebellion was subdued, and
          every thing went on as usual. <seg ana="#punishment">I have, in consequence,
-         assured the <rs type="persGroup">women</rs>, that since they will 
+         assured the <ecda:persGroup a-status="enslaved" a-gender="female">women</ecda:persGroup>, that since they will 
          not be managed by fair treatment, I must have
          recourse to other measures; and that, if any similar
          instance of misconduct should take place, I
@@ -5148,7 +5148,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
    <p>Another morning, with the mill stopped, no
       <ecda:commodity ana="#food #refining">liquor</ecda:commodity> in the <rs type="place">boiling house</rs>, and no work done.
       <seg ana="#punishment">The <ecda:anonPers>driver</ecda:anonPers> brought the most obstinate and insolent
-      of the <rs type="persGroup">women</rs> to be lectured by me; and I
+      of the <ecda:persGroup a-gender="female" a-status="enslaved">women</ecda:persGroup> to be lectured by me; and I
       bounced and stormed for half an hour with all my
       might and main, especially at <persName ref="#whaunica_0001">Whaunica</persName>, whose
       ingratitude was peculiar; as she is the wife of
@@ -5174,21 +5174,21 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
       delaying the conclusion of the crop, the latter part
       of it may be driven into the rainy season, and
       then the labour is infinitely more severe both for
-      the <rs type="persGroup">slaves</rs> and the <ecda:fauna>cattle</ecda:fauna>, and more detrimental to
+      the <ecda:persGroup a-status="enslaved" a-gender="mixed">slaves</ecda:persGroup> and the <ecda:fauna>cattle</ecda:fauna>, and more detrimental to
       their health. 
    </p>   
    <p>The <rs type="person" ref="#pope_0001">minister</rs> of <placeName>Savannah la Mar</placeName> has shown
       me a plan for the religious instruction of the
-      <rs type="persGroup">negroes</rs>, which was sent to him by the <rs type="persGroup">ecclesiastical
-      comissaries</rs> at <placeName>Kingston</placeName>. It consisted
+      <rs type="persGroup">negroes</rs>, which was sent to him by the <ecda:persGroup a-occupation="ecclesiastical_commisary" a-religion="anglican">ecclesiastical
+      comissaries</ecda:persGroup> at <placeName>Kingston</placeName>. It consisted
       but of two points: against the frst (which recommended
-      the <rs type="persGroup">slaves</rs> being <emph rend="italic">ordered</emph> to go to church
+      the slaves being <emph rend="italic">ordered</emph> to go to church
       on a Sunday) I positively declared myself. Sunday
       is now the absolute property of the <rs type="persGroup">negroes</rs>
       for their relaxation, as Saturday is for the cultivation
       of their grounds; and I will not suffer a 
       single hour of it to be taken from them for any
-      purpose whatever. If <rs type="persGroup">my slaves</rs> choose to go to
+      purpose whatever. If <ecda:persGroup a-gender="mixed" a-status="enslaved">my slaves</ecda:persGroup> choose to go to
       church on Sundays, so much the better; but not
       one of them shall be <emph rend="italic">ordered</emph> to do one earthly 
       thing on Sundays, but that which he chooses himself.
@@ -5209,7 +5209,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
       what they have heard from him; otherwise, he may
       talk for an hour, and they will have understood
       but little—and remember nothing. There is not a
-      single negro among <rs type="persGroup">my whole three hundred</rs> who
+      single negro among <ecda:persGroup a-status="enslaved" a-gender="mixed">my whole three hundred</ecda:persGroup> who
       can read a line; and what I suppose to be wanted 
       on <rs type="properAdjective">West-Indian</rs> estates is not an importation of
       missionaries, but of schoolmasters on <persName ref="#andrew_bell_1753">Dr. Bell's</persName>
@@ -5236,7 +5236,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
       his children will not belong to me. <persName ref="#phillis_0001">Phillis</persName>, too,
       who formerly lived with <persName ref="#john_fuller_0001">John</persName>, says, that she parted
       with him, because he threw away all his money upon 
-      <rs type="persGroup">the <rs type="properAdjective">Bay</rs> girls</rs>; though <persName ref="#john_fuller_0001">John</persName> asserts that the cause
+      the <ecda:persGroup a-gender="female"><rs type="properAdjective">Bay</rs> girls</ecda:persGroup>; though <persName ref="#john_fuller_0001">John</persName> asserts that the cause
       of separation was his catching the false <persName ref="#phillis_0001">Phillis</persName>
       coming out of <ecda:anonPers>one of the book-keepers'</ecda:anonPers> bedrooms.
    </p>
@@ -5244,7 +5244,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
       are all at the <placeName>Bay</placeName>; and I have assured him, that
       if he does not provide himself with a wife at
       <placeName>Cornwall</placeName>, before my return from <placeName>Kingston</placeName>, I will
-      put him up to auction, and call the <rs type="persGroup">girls</rs> together
+      put him up to auction, and call the <ecda:persGroup a-gender="female" a-status="enslaved">girls</ecda:persGroup> together
       to bid for him, one offering half a dozen <ecda:food ana="#flora">yams</ecda:food>,
       and another a bit of <ecda:food ana="#fauna">salt fish</ecda:food>; and the highest
       bidder shall carry him off as her property. But
@@ -5259,7 +5259,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
       curiosity, and the <ecda:anonPers>book-keeper</ecda:anonPers> read aloud:—
       <said rend="quotes"><lg type="poem">
          <l><persName ref="#john_fuller_0001">John Fuller</persName> is gone to the <placeName>Bay</placeName>, boys,</l>
-         <l>On the <rs type="persGroup">girls</rs> to spend his cash;</l>
+         <l>On the <ecda:persGroup a-gender="female">girls</ecda:persGroup> to spend his cash;</l>
          <l>And when <persName ref="#john_fuller_0001">John Fuller</persName> comes home, boys,</l>
          <l ana="#punishment"><persName ref="#john_fuller_0001">John Fuller</persName> deserves the lash.</l>
       </lg>        
@@ -5271,17 +5271,17 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
       that paper to make him a better <name>Christian</name>. But
       he was certain that the minister had nothing to do
       with that, and that <distinct type="dialect">massa</distinct> had made it all himself
-      about <rs type="persGroup">the <rs type="properAdjective">Bay</rs> girls</rs>.</said>
+      about the <ecda:persGroup a-gender="female"><rs type="properAdjective">Bay</rs> girls</ecda:persGroup>.</said>
    </p>      
  </div>
   <div type="entry">
 <opener><dateline><date when="1816-01-28">January 28</date>. <hi rend="mixed">(Sunday.)</hi></dateline></opener>     
 <p>I shall have enought to do in <placeName>Jamaica</placeName> if I accept
-   all the offices that are pressed upon me. <rs type="persGroup">A large
-   body of negroes</rs>, from a neighbouring estate, came
+   all the offices that are pressed upon me. <ecda:persGroup a-arc="negro" a-status="enslaved">A large
+   body of negroes</ecda:persGroup>, from a neighbouring estate, came
    over to <placeName>Cornwall</placeName> this morning, to complain of
    hard treatment, in various ways, from <ecda:anonPers>their overseer</ecda:anonPers>
-   and <rs type="persGroup">drivers</rs>, and requesting me to represent
+   and <ecda:persGroup a-occupation="driver">drivers</ecda:persGroup>, and requesting me to represent
    their injuries to <ecda:anonPers>their trustee</ecda:anonPers> here, and <ecda:anonPers>their proprietor</ecda:anonPers>
    in <placeName>England</placeName>. Their charges were so strong,
    that I am certain that they must be fictitious;
@@ -5306,7 +5306,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
   the person so afflicted is necessarily shunned by
   society; and this poor woman, who is married to
   <persName ref="#john_fuller_0001">John Fuller</persName>, one of the best young men on the
-   <rs type="place">estate</rs>, and by whom she has had <rs type="persGroup">four children</rs> (although
+   <rs type="place">estate</rs>, and by whom she has had <ecda:persGroup a-status="enslaved">four children</ecda:persGroup> (although
    they are all dead), has for some time been
    obliged to live separated from him, lest he should
    be destroyed by contracting the same complaint. 
@@ -5328,7 +5328,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
    by giving him the punishment proper for such an
    imposter</seg>.</seg> Upon this <seg ana="#obeah"><persName ref="#bessie_0001">Bessie</persName> burst into tears, and
    said <said direct="false" rend="quotes">that <persName ref="#ormond_0001">Ormond</persName> was not an <rs type="properAdjective">Obeah</rs> man, and
-   that she had suffered too much by <rs type="persGroup"><rs type="properAdjective">Obeah</rs> men</rs> to
+   that she had suffered too much by <ecda:persGroup a-occupation="obeah_man" a-gender="male" ana="#obeah"><rs type="properAdjective">Obeah</rs> men</ecda:persGroup> to
    wish to have any more to do with them. She had
    made <persName ref="#adam_0002">Adam</persName> her enemy by betraying him, when <seg ana="#poison">he
    had attempted to poison the <ecda:anonPers>former attorney</ecda:anonPers></seg>; he
@@ -5337,7 +5337,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
    had then cursed her, and wished that she might
    never be hearty again: and from that very time
    her complaint had declared itself; and her poor
-   <rs type="persGroup">pickaninies</rs> had all died away, one after another;
+   <ecda:persGroup a-status="enslaved">pickaninies</ecda:persGroup> had all died away, one after another;
    and she was sure that it was <persName ref="#adam_0002">Adam</persName> who had done
    all this mischief by <name>Obeah</name>.</said></seg> Upon this, I put myself
    in a great rage, and asked her, <said rend="quotes" direct="false">how she could
@@ -5349,12 +5349,12 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
    I told her, that <name>God</name> was a great personage, <said direct="false" rend="quotes">who
    lived up yonder above the blue, in a place full of
    pleasures and free from pains, where <persName ref="#adam_0002">Adam</persName> and
-   wicked people could not come; that her <rs type="persGroup">pickaninies</rs>
+   wicked people could not come; that her <ecda:persGroup a-status="enslaved">pickaninies</ecda:persGroup>
    were not dead for ever, but were only gone 
    up to live with <name>God</name>, who was good, and would
    take care of them for her; and that if she were 
    good, when she died, she too would go up to <name>God</name>
-   above the blue, and see all her <rs type="persGroup">four pickaninies</rs>
+   above the blue, and see all her <ecda:persGroup a-status="enslaved">four pickaninies</ecda:persGroup>
    again.</said> The idea seemed so new and so agreeable
    to the poor creature, that she clapped her hands
    together, and began laughing for joy; so I said to
@@ -5368,7 +5368,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
    <fw type="pageNum">147</fw> 
    he had been Obeahed, he should forfeit his share
    of the next present of <ecda:food ana="#fauna">salt-fish</ecda:food>, which I meant soon
-   to distribute among the <rs type="persGroup">slaves</rs>, and should never
+   to distribute among the <ecda:persGroup a-status="enslaved" a-gender="mixed">slaves</ecda:persGroup>, and should never
    receive any favour from me in future;</seg> so I gave
    <persName ref="#bessie_0001">Bessie</persName> a piece of <ecda:commodity ana="#currency">money</ecda:commodity>, and she seemed to go
    away in better spirits than she came.
@@ -5377,14 +5377,14 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     dangerous fellow, and the terror of all his companions,
     with whom he lives in a constant state of
     warfare. He is a <rs type="properAdjective">creole</rs>, born on my own property,
-    and has <rs type="persGroup">several sisters</rs>, who have obtained
+    and has <ecda:persGroup a-gender="female" a-status="free">several sisters</ecda:persGroup>, who have obtained
     their freedom, and are in every respect creditable
     and praiseworthy; and to <ecda:anonPers>one of whom</ecda:anonPers> I consider
     myself as particularly indebted, as she was
     the means of saving poor <persName ref="#richard_0001">Richard's</persName> life, when the
     tyranny of the <ecda:anonPers>overseer</ecda:anonPers> had brought him almost
     to the brink of the grave. But this brother is in
-    every thing the reverse of <rs type="persGroup">his sisters</rs>: <seg ana="#poison">there
+    every thing the reverse of <ecda:persGroup a-status="free" a-gender="female">his sisters</ecda:persGroup>: <seg ana="#poison">there
     is no doubt of his having (as <persName ref="#bessie_0001">Bessie</persName> stated) infused
     poison into the water-jars through spite against 
     <ecda:anonPers>late superintendent</ecda:anonPers></seg>. It was this same fellow
@@ -5436,21 +5436,21 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      to be, <seg ana="#obeah">this prejudice respecting <name>Obeah</name></seg>, and <seg ana="#poison">the
      facility with which they are frequently induced
      to poison to the right hand and to the left. <seg ana="#punishment">A
-     <ecda:anonPers>neighbouring gentleman</ecda:anonPers>, as I hear, now has <rs type="persGroup">three
-     negroes</rs> in prison</seg>, all domestics, and one of them
+     <ecda:anonPers>neighbouring gentleman</ecda:anonPers>, as I hear, now has <ecda:persGroup a-arc="negro" a-status="enslaved">three
+     negroes</ecda:persGroup> in prison</seg>, all domestics, and one of them
      grown grey in his service, for poisoning him with 
      corrosive sublimate; <ecda:anonPers>his brother</ecda:anonPers> was actually
      killed by similar means; yet I am assured that
      both of them were recokoned men of great humanity. 
      <ecda:anonPers>Another agent</ecda:anonPers>, who appears to be in 
-     high favour with the <rs type="persGroup">negroes</rs> whom he now governs,
+     high favour with the <ecda:persGroup a-status="enslaved" a-arc="negro">negroes</ecda:persGroup> whom he now governs,
      was obliged to quit an estate, from the 
      frequent attempts to poison him; and a person
      against whom there is no sort of charge alleged for
      tyranny, after being brought to the doors of death
      by a <ecda:food ana="#flora">cup of coffee</ecda:food>, only escaped a second time by
      his civility, in giving the beverage, prepared for
-     himself, to <rs type="persGroup">two young book-keepers</rs>, to both of 
+     himself, to <ecda:persGroup a-occupation="bookkeeper">two young book-keepers</ecda:persGroup>, to both of 
      whom it proved fatal. <seg ana="#obeah">It, indeed, came out afterwards,
      that this crime was also effected by the
      abominable belief in <name>Obeah</name>: the <ecda:anonPers>woman</ecda:anonPers>, who mixed
@@ -5478,7 +5478,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      are absolutely transparent; the walls are nothing
      but windows—and all the doors stand wide open.
      No servants are in waiting to announce arrivals:
-     <rs type="persGroup">visitors</rs>, <rs type="persGroup">negroes</rs>, <ecda:fauna>dogs</ecda:fauna>, <ecda:fauna>cats</ecda:fauna>, <ecda:fauna>poultry</ecda:fauna>, all walk in
+     visitors, <rs type="persGroup">negroes</rs>, <ecda:fauna>dogs</ecda:fauna>, <ecda:fauna>cats</ecda:fauna>, <ecda:fauna>poultry</ecda:fauna>, all walk in
      and out, and up and down your living-rooms, without
      the slightest ceremony. 
   </p>
@@ -5502,8 +5502,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
    <pb n="159"/>
    <fw type="pageNum">151</fw>  
    ticular disease; and I have ordered her to be sent
-   to him in the mountains immediately.</seg> <seg ana="#medical #injury"><rs type="persGroup">Several
-   gentlemen</rs> of the county dined with me to-day,
+   to him in the mountains immediately.</seg> <seg ana="#medical #injury"><ecda:persGroup a-status="free" a-gender="male">Several
+   gentlemen</ecda:persGroup> of the county dined with me to-day,
    and when they left me, one of the carriages contrived 
    to get overturned, and the right shoulder of
    <ecda:anonPers>one of the gentlemen</ecda:anonPers> was dislocated. Luckily, it
@@ -5527,7 +5527,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     particle of the juice being thus suffered to evaporate.
     <seg ana="#medical">I have eaten several other good <rs type="properAdjective">Jamaica</rs>
     dishes, but none so excellent as this, a large portion
-    of which was transferred to the most infirm <rs type="persGroup">patients</rs>
+    of which was transferred to the most infirm <ecda:persGroup a-status="enslaved">patients</ecda:persGroup>
     in the <rs type="place">hospital</rs>. Perhaps an <rs type="properAdjective">English</rs> physician would
     have felt every hair of his wig bristle upon his head
     with astonishment, at hearing me ask, this morning,
@@ -5584,10 +5584,10 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
   </div>
  <div type="entry">
  <opener><dateline><date when="1816-01-30">January </date>.</dateline></opener>  
-<p>There were above <rs type="persGroup">twenty ladies</rs> literally at my
+<p>There were above <ecda:persGroup a-status="enslaved" a-gender="female">twenty ladies</ecda:persGroup> literally at my
    feet this morning. I went down to the <rs type="place">negro-
    village</rs> to speak to <persName ref="#bessie_0001">Bessie</persName> about going to her
-   <rs ref="#ormond_0001" type="person">black doctor</rs>; and all the <rs type="persGroup">refractory females</rs> of
+   <rs ref="#ormond_0001" type="person">black doctor</rs>; and all the <ecda:persGroup a-gender="female" a-status="enslaved">refractory females</ecda:persGroup> of
    last week heard of my being there, and came in a
    body to promise better conduct for the future,
    and implore me not to go away. The sight of my
@@ -5609,7 +5609,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
    during my absence, I should return in a few days;—
    <seg ana="#punishment">if, on the contrary, the <rs type="persGroup">negroes</rs> continued to
    refuse to work without compulsion, then, in justice
-   to <rs type="persGroup">the good ones</rs> (who last week were obliged
+   to <ecda:persGroup a-status="enslaved" a-gender="mixed" a-arc="negro">the good ones</ecda:persGroup> (who last week were obliged
    to do more than their share), those punishments,
    which I had stopped, must be resumed;—but that,
    as <placeName>Cornwall</placeName> would be unsupportable to me, if I
@@ -5625,8 +5625,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
    her mouth, but out came two <ecda:fauna>toads</ecda:fauna> and three 
    couple of <ecda:fauna>serpents</ecda:fauna>. However, to sweeten my oration
    a little at the end, I told them, that, <said ana="#punishment" rend="quotes" direct="false">having
-   enquired closely into the characters of the <rs type="persGroup">present
-   book-keepers</rs>, I had found no charge against any
+   enquired closely into the characters of the <ecda:persGroup a-occupation="bookkeeper">present
+   book-keepers</ecda:persGroup>, I had found no charge against any
    of them except <ecda:anonPers>one</ecda:anonPers>, who was accused of having
    occasionally struck a negro, of using bad language
    to them, and of being a hasty passionate man,
@@ -5692,14 +5692,14 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
    matter to ascertain the truth or falsehood of the
    charges brought to me on Sunday last: the books
    positively contradicted them, but the register 
-   might have been falsely kept; and as the <rs type="persGroup">negroes</rs>
+   might have been falsely kept; and as the <ecda:persGroup a-arc="negro" a-status="enslaved">negroes</ecda:persGroup>
    persisted most positively in their complaint against
    the <ecda:anonPers>oveseer</ecda:anonPers> (particularly as to his having curtailed
    them of the legal allowance of time for their
    meals, and the cultivation of their own grounds)
    with the concurrence of the <ecda:anonPers>trustee</ecda:anonPers>, I wrote to
-   the <rs type="persGroup">magistrates</rs> of the county, desiring that they
-   would summon the <rs type="persGroup">negroes</rs> in question before a
+   the <ecda:persGroup a-occupation="magistrate">magistrates</ecda:persGroup> of the county, desiring that they
+   would summon the <ecda:persGroup a-status="enslaved" a-arc="negro">negroes</ecda:persGroup> in question before a
    <pb n="165"/>
    <fw type="pageNum">157</fw>  
    council of protection, and examine into the injuries
@@ -5730,12 +5730,12 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
    of <persName ref="#yarico_0001">Yarico</persName>, <quote rend="quotes" source="colman_inkle">quite brown, but extremely
    genteel, like a <orgName>Wedgewood</orgName> teapot</quote>. She told us
    that she was a <rs type="properAdjective">Spanish creole</rs>, who had fled with
-   her mother from the disputes between the <rs type="persGroup">royalists</rs> 
-   and <rs type="persGroup">independents</rs> in the island of <placeName>Old Providence</placeName>;
+   her <ecda:anonPers>mother</ecda:anonPers> from the disputes between the <ecda:persGroup a-politicalAff="royalist">royalists</ecda:persGroup> 
+   and <ecda:persGroup a-politicalAff="independent">independents</ecda:persGroup> in the island of <placeName>Old Providence</placeName>;
    and the owner of a tavern being a relation of 
    <pb n="166"/>
    <fw type="pageNum">158</fw> 
-   <ecda:anonPers>her mother</ecda:anonPers>, he had permitted the <rs type="persGroup">fugitives</rs> to
+   <ecda:anonPers>her mother</ecda:anonPers>, he had permitted the <ecda:persGroup a-gender="female">fugitives</ecda:persGroup> to
    establish themselves in his garden-cottage, till the
    troubles of their own country should be over.
    She talked perfectly good <name>English</name>, for she said that
@@ -5789,7 +5789,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
    great variety. In particular, I was struck with the 
    picturesque appearance of some wild <ecda:flora ana="#food">fig-trees</ecda:flora> of 
    singular size and beauty. Although there were 
-   only two of us, besides <rs type="persGroup">servants</rs>, we found it necessary
+   only two of us, besides <ecda:persGroup a-occupation="servant">servants</ecda:persGroup>, we found it necessary
    to employ seven <ecda:fauna>horses</ecda:fauna> and a couple of <ecda:fauna>mules</ecda:fauna>;
    and, as our cavalcade wound along through the
    mountains, the <rs type="properAdjective">Spanish</rs> look of our <ecda:fauna>sumpter-mules</ecda:fauna>
@@ -5846,8 +5846,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     the church, which is a very handsome one; the
     walls lined with fine mahogany, and ornamented
     with many monuments of white marble, in memory 
-    of the <rs type="persGroup">former governors and other principal inhabitants</rs>.
-    It seems that <rs type="persGroup">my ancestors</rs>, on both sides,
+    of the <ecda:persGroup>former governors and other principal inhabitants</ecda:persGroup>.
+    It seems that <ecda:persGroup>my ancestors</ecda:persGroup>, on both sides,
     have always had a tasted for being well lodged after
     their decease; for, on admiring one of these tombs,
     it proved to be that of my <rs type="person" ref="#thomas_sewell_1710">maternal grandfather</rs>;
@@ -5856,7 +5856,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     went home with the <ecda:anonPers>Rector</ecda:anonPers>, who is one of the ecclesiastical
     commissaries, and had a long conversation
     with him respecting a plan which is in agitation for
-    giving the <rs type="persGroup">negroes</rs> something of a religious education.
+    giving the <ecda:persGroup a-arc="negro">negroes</ecda:persGroup> something of a religious education.
     We afterwards dined with the <ecda:anonPers>the member for
     <placeName>Westmoreland</placeName></ecda:anonPers>; and as every body in <placeName>Jamaica</placeName> is
     on foot by six in the morning, at ten in the evening
@@ -5888,7 +5888,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     not being employed at all. On the other hand, I am
     told that a gentleman of the <placeName>parish of Vere</placeName>, who
     came over to <placeName>Jamaica</placeName> for the sole purpose of ameliorating 
-    the condition of <rs type="persGroup">his negroes</rs>, after abolishing 
+    the condition of his <rs type="persGroup">negroes</rs>, after abolishing 
     the cart-whip, has at length been constrained
     to resume the occasional use of it, because he
     found it utterly impossible to keep them in any
@@ -5915,14 +5915,14 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
    only from the look of the half-burnt buildings, but
    the dejected countenances of the ruined inhabitants.
    I returned to breakfast at the rectory, with
-   <rs type="persGroup">two other ecclesiastical commissaries</rs>; had more
+   <ecda:persGroup a-occupation="ecclesiastical_commisary" a-religion="anglican">two other ecclesiastical commissaries</ecda:persGroup>; had more
    conversation about their proposed plan; and became
    still more convinced of the difficulty of doing any
    thing effectual without danger to the <rs type="place">island</rs> and to
-   the <rs type="persGroup">negroes</rs> themselves, and of the extreme delicacy
+   the <ecda:persGroup a-arc="negro" a-gender="mixed">negroes</ecda:persGroup> themselves, and of the extreme delicacy
    requisite in whatever may be attempted. 
-   We afterwards visited the school of the <rs type="persGroup">children of
-      the poor</rs>, who are educating upon <persName ref="#andrew_bell_1753">Dr. Bell's</persName> system;
+   We afterwards visited the school of the <ecda:persGroup>children of
+   the poor</ecda:persGroup>, who are educating upon <persName ref="#andrew_bell_1753">Dr. Bell's</persName> system;
    and then saw the church, a very large and
    handsome one on the inside, but mean eanough as
    to its exterior. I was shown the tombstone of
@@ -5937,7 +5937,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
  as the admiral's <ecda:anonPers><persName ref="#homer_0001">Homer</persName></ecda:anonPers> informs us. 
 </p>
 <p>The church is a large one, but it is going to be
-   still further extended; the <rs type="persGroup">negroes</rs> in <placeName>Kingston</placeName> and 
+   still further extended; the <ecda:persGroup a-gender="mixed" a-arc="negro">negroes</ecda:persGroup> in <placeName>Kingston</placeName> and 
    its neighbourhood being (as the <ecda:anonPers>rector</ecda:anonPers> assured me)
    <pb n="172"/>
    <fw type="pageNum">164</fw>
@@ -5953,7 +5953,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
    married; and their burials and christenings are
    performed with great pomp and solemnity.    
 </p>
-<p>One of the most intelligent of the <rs type="persGroup">negroes</rs> with
+<p>One of the most intelligent of the <ecda:persGroup a-arc="negro">negroes</ecda:persGroup> with
    whom I have yet conversed, was the <ecda:anonPers>coxswain</ecda:anonPers> of my
    <placeName>Port Royal</placeName> canoe. I asked him whether he had
    been christened? He answered, no; he did not yet
@@ -6130,7 +6130,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
    she was (it seems) the <foreign rend="italic" xml:lang="fr">soi-disant</foreign> wife of an <rs type="properAdjective">English</rs>
    <ecda:anonPers>merchant</ecda:anonPers> in <placeName>Kingston</placeName>, and had a house on <placeName>Tachy's
    Bridge</placeName>. This kind of establishment is the highest
-   object of the <rs type="persGroup"><distinct type="ethnographic" rend="italic">brown</distinct> females</rs> of <placeName>Jamaica</placeName>; they seldom
+   object of the <ecda:persGroup a-arc="brown" a-gender="female"><distinct type="ethnographic" rend="italic">brown</distinct> females</ecda:persGroup> of <placeName>Jamaica</placeName>; they seldom
    marry men of their own colour, but lay themselves out
    to captivate some white person, who takes
    them for mistresses, under the appellation of housekeepers.   
@@ -6151,13 +6151,13 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     have housekeepers, and <persName ref="#nancy_0001">Nancy</persName> is mine.</said> But he
     was unjust in saying that <persName ref="#nancy_0001">Nancy</persName> is of no use on
     the <rs type="place">estate</rs>; for <seg ana="#medical">she is perpetually in the <rs type="place">hospital</rs>,
-    nurses the <rs type="persGroup">children</rs>, can bleed, and mix up medicine,
+    nurses the <ecda:persGroup a-status="enslaved">children</ecda:persGroup>, can bleed, and mix up medicine,
     and (as I am assured) she is of more service 
-    to the sick than all the <rs type="persGroup">doctors</rs>.</seg> These brown
+    to the sick than all the <ecda:persGroup a-occupation="doctor">doctors</ecda:persGroup>.</seg> These brown
     housekeepers generally attach themselves so sincerely
     to the interests of their protectors, and make
     themselves so useful, that they in common retain
-    their situation; and their <rs type="persGroup">children</rs> (if slaves) are
+    their situation; and their children (if slaves) are
     always honoured by their fellows with the title of
     Miss. My mulatto housemaid is always called
     <persName ref="polly_0001" rend="quotes">Miss Polly</persName> by her fellow-servant <persName ref="phillis_0001">Phillis</persName>. This
@@ -6193,31 +6193,31 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      the protecting roof of <persName ref="judy_james_0001">Miss Judy James</persName>.     
   </p>
   <p>On our return from dinner at <persName ref="dewer_0001">Mr Dewer's</persName>, we 
-     discovered a ball of <rs type="persGroup">brown ladies and gentlemen</rs>
-     opposite to the inn. No <rs type="persGroup">whites nor blacks</rs> were
+     discovered a ball of <ecda:persGroup a-gender="mixed" a-arc="brown">brown ladies and gentlemen</ecda:persGroup>
+     opposite to the inn. No whites nor blacks were
      permitted to attend this assembley; but as our <rs type="person" ref="#judy_james_0001">landlady</rs>
-     had <rs type="persGroup">two nieces</rs> there, under her auspices we
-     were allowed to be spectators. The <rs type="persGroup">females</rs> chiefly
-     consisted of the <rs type="persGroup">natural daughters of <rs type="persGroup">attorneys</rs> and 
-     <rs type="persGroup">overseers</rs></rs>, and the <rs type="persGroup">young men</rs> were mostly clerks
-     and book-keepers. I saw nothing at all to be compared,
+     had <ecda:persGroup a-arc="brown" a-gender="female">two nieces</ecda:persGroup> there, under her auspices we
+     were allowed to be spectators. The <ecda:persGroup a-gender="female" a-arc="brown">females</ecda:persGroup> chiefly
+     consisted of the <ecda:persGroup a-arc="brown" a-gender="female">natural daughters of <ecda:persGroup a-occupation="attorney">attorneys</ecda:persGroup> and 
+     <ecda:persGroup a-occupation="overseer">overseers</ecda:persGroup></ecda:persGroup>, and the <ecda:persGroup a-gender="male" a-arc="brown">young men</ecda:persGroup> were mostly <ecda:persGroup a-occupation="clerk" a-gender="male" a-arc="brown">clerks</ecda:persGroup>
+     and <ecda:persGroup a-occupation="bookkeeper" a-arc="brown" a-gender="male">book-keepers</ecda:persGroup>. I saw nothing at all to be compared,
      either for form or feature, to many of the
      humbler people of colour, much less to the <rs type="person" ref="#antoinetta_0001">beautiful
      Spaniard</rs> at <placeName>Blue-fields</placeName>. <persName ref="#edward_long_1734">Long</persName>, or <persName ref="#bryan_edwards_1743">Bryan Edwards</persName>,
      asserts that mulattos never breed except
      with a separate black or white; but at this ball
-     <rs type="persGroup">two girls</rs> were pointed out to me, the daughters
-     of <rs type="persGroup">mulatto parents</rs>; and I have been assured that 
+     <ecda:persGroup a-arc="mulatto" a-gender="female">two girls</ecda:persGroup> were pointed out to me, the daughters
+     of <ecda:persGroup a-gender="mixed" a-arc="mulatto">mulatto parents</ecda:persGroup>; and I have been assured that 
  <pb n="180"/>
  <fw type="pageNum">172</fw>
      the assertion was a mistake, arising from such a
-     connection being very rarely formed; the <rs type="persGroup">females</rs>
-     generally preferring to live with <rs type="persGroup">white men</rs>, and
-     the <rs type="persGroup">brown men</rs> having thus no other resource
-     than the <rs type="persGroup">black women</rs>. As to the above <rs type="persGroup">girls</rs>, the
+     connection being very rarely formed; the females
+     generally preferring to live with white men, and
+     the brown men having thus no other resource
+     than the black women. As to the above <ecda:persGroup a-arc="mulatto" a-gender="female">girls</ecda:persGroup>, the
      fact is certain; and the different shades of colour
      are distinguished by too plain a line to allow any
-     suspicion of infidelity on the part of their <rs type="persGroup">parents</rs>.
+     suspicion of infidelity on the part of their <ecda:persGroup a-gender="mixed" a-arc="mulatto">parents</ecda:persGroup>.
   </p> 
   </div>
   <div type="entry">
@@ -6229,11 +6229,11 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
        <ecda:commodity ana="#flora #food #cultivation">corn-fields</ecda:commodity>; but, from their extreme wildness, he
        never could make any of them prisoners. He had
        a barn lighted by a large sash window, and into
-       this he laid a train of <ecda:food ana="#flora">corn</ecda:food>, hiding <rs type="persGroup">some servants</rs>
+       this he laid a train of <ecda:food ana="#flora">corn</ecda:food>, hiding <ecda:persGroup a-occupation="servant">some servants</ecda:persGroup>
        with guns behind the large doors, which were folded
        back. The <ecda:fauna>turkeys</ecda:fauna> picked up the <ecda:food ana="#flora">corn</ecda:food>, and gradually
        were enticed to enter the barn. But as 
-       soon as a dozen had passed in the <rs type="persGroup">servants</rs> clapped
+       soon as a dozen had passed in the <ecda:persGroup a-occupation="servant">servants</ecda:persGroup> clapped
        the doors to with all possible expedition. Now they
        recoked themselves utterly secure of their game; but to
        their utter consternation, the <ecda:fauna>turkeys</ecda:fauna> in a body
@@ -6254,7 +6254,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
        little circumspection as if we had been in <placeName>England</placeName>,
       I never felt a headach exept for one half hour.
       On my arrival, I found the satisfactory intelligence
-      usually communicated to <rs type="persGroup"><rs type="properAdjective">West Indian</rs> proprietors</rs>.
+      usually communicated to <rs type="properAdjective">West Indian</rs> proprietors.
       <rs type="place">My estate in the west</rs> is burnt up for want of 
       moisture; and <rs type="place">my estate in the east</rs> has been so
       completely flooded, that I have lost a whole third
@@ -6266,17 +6266,17 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
       <seg ana="#abolition">This alone is wanting to complete the dangerous
       state of the <rs type="place">island</rs>; where the higher classes are
       all in the utmost alarm at rumours of <persName ref="#william_wilberforce_1759">Wilberforce's</persName>
-      intentions to set the <rs type="persGroup">negroes</rs> entirely at freedom;
+      intentions to set the <ecda:persGroup a-arc="negro" a-status="enslaved" a-gender="mixed">negroes</ecda:persGroup> entirely at freedom;
       the next step to which would be, in all probability,
-      a general massacare of the <rs type="persGroup">whites</rs>, and a
+      a general massacare of the <ecda:persGroup a-arc="white">whites</ecda:persGroup>, and a
       second part of the horrors of <placeName>St. Domingo</placeName>: while,
       on the other hand, the <rs type="persGroup">negroes</rs> are impatient at
       the delay; and such disturbances arose in <placeName>St.
       Thomas's in the East</placeName>, last <name>Christmas</name>, as required
-      the interposition of the <rs type="persGroup">magistrates</rs>. They say
+      the interposition of the <ecda:persGroup a-occupation="magistrate">magistrates</ecda:persGroup>. They say
       <pb n="182"/>
       <fw type="pageNum">174</fw>
-      that the <rs type="persGroup">negroes of that parish</rs> had taken it into
+      that the <ecda:persGroup a-status="enslaved" a-arc="negro">negroes of that parish</ecda:persGroup> had taken it into
       their heads that <mcr rend="italic"><rs type="person" ref="#george_IV_england_1762">The Regent</rs> and <persName ref="#william_wilberforce_1759">Wilberforce</persName></mcr> had
       actually determined upon setting them all at liberty
       at once on the first day of the present year, but
@@ -6336,8 +6336,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     the <rs type="place">hospital</rs>, during my absence has gone out of
     her senses; and there cannot well happen any thing
     more distressing, as there is no separate place for
-    her confinement, and her ravings disturb the <rs type="persGroup">other
-    invalids</rs>. There is, indeed, no kind of bedlam in the
+    her confinement, and her ravings disturb the <ecda:persGroup a-status="enslaved">other
+    invalids</ecda:persGroup>. There is, indeed, no kind of bedlam in the
     whole island of <placeName>Jamaica</placeName>: whether this proceeds
     from people being so very sedate and sensible, that
     they never go mad, or from their all being so mad,
@@ -6351,7 +6351,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     <persName ref="#philippa_0001">Philippa</persName>; and since her illness he passes every
     moment of his leisure in her sick-room. On the
     other hand, there is a woman named <persName ref="#christian_0001">Christian</persName>, attending
-    <rs type="persGroup">two fevered children</rs> in the <rs type="place">hospital</rs>; <ecda:anonPers>one
+    <ecda:persGroup a-status="enslaved">two fevered children</ecda:persGroup> in the <rs type="place">hospital</rs>; <ecda:anonPers>one
     her own</ecda:anonPers>, and the other <ecda:anonPers>an adopted infant</ecda:anonPers>, whom she
     reared upon the death of <ecda:anonPers>its mother</ecda:anonPers> in child-birth;
     and there she sits, throwing her eyes from one to
@@ -6476,8 +6476,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
  </p>
  <p ana="#punishment">The trial appeared to be conducted with all possible
     justice and prpriety; the jury consisted of
-    <rs type="persGroup">nine respectable persons</rs>; the bench of <rs type="persGroup">three magistrates</rs>,
-    and a <ecda:anonPers>senior one</ecda:anonPers> to preside. There were 
+    <ecda:persGroup a-occupation="juror">nine respectable persons</ecda:persGroup>; the bench of <ecda:persGroup a-occupation="magistrate">three magistrates</ecda:persGroup>,
+    and a <ecda:anonPers a-occupation="magistrate">senior one</ecda:anonPers> to preside. There were 
     <pb n="188"/>
     <fw type="pageNum">180</fw>
     no lawyers employed on either side; consequently
@@ -6500,13 +6500,13 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
  <div type="entry">
  <opener><dateline><date when="1816-02-21">February 21</date>.</dateline></opener>    
   <p ana="#punishment">During my excursion to <placeName>Spanish Town</placeName>, the
-   <rs type="persGroup">complaining negroes</rs> of <placeName>Friendship</placeName>, who had applied
+   <ecda:persGroup a-status="enslaved" a-arc="negro">complaining negroes</ecda:persGroup> of <placeName>Friendship</placeName>, who had applied
      to me for relief, were summoned to <placeName>Savannah
      la Mar</placeName>, before the <orgName>Council of Protection</orgName>, and the
      business was thoroughly investigated. Their examination
      has been sent to me, and they appear to
      have had a very fair hearing. The journals of <rs type="place">the
-     estate</rs> were produced;—the <rs type="persGroup">book-keepers</rs> examined
+     estate</rs> were produced;—the <ecda:persGroup a-occupation="bookkeeper">book-keepers</ecda:persGroup> examined
      upon oath; and in order to make out a
      case at all, the chief complainant contradicted
      himself so grossly, as left no doubt that the whole
@@ -6532,8 +6532,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      are once disposed to evil, they seem to set no
      bounds to the indulgence of their bad passions. <seg ana="#injury">A
      <rs type="person" ref="#jenny_0001">poor girl</rs> came into the <rs type="place">hospital</rs> to-day, who had had
-     some trifling dispute with <rs type="persGroup">two of her companions</rs>;
-     on which the <rs type="persGroup">two friends</rs> seized her together, and
+     some trifling dispute with <ecda:persGroup a-status="enslaved" a-gender="female">two of her companions</ecda:persGroup>;
+     on which the <ecda:persGroup a-gender="female" a-status="enslaved">two friends</ecda:persGroup> seized her together, and
      each fixing her teeth on one of the girl's hands,
      bit her so severely, that we greatly fear her losing
      the use of both of them.</seg> I happened also to ask,
@@ -6548,12 +6548,12 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      <pb n="190"/>
      <fw type="pageNum">182</fw>
      been brought up in his own house from infancy, to
-     form a plot among the <rs type="persGroup">slaves</rs> to assassinate him;
-     and he was assisted in this laudable design by <rs type="persGroup">two
-     young men</rs> from a neighbouring property, who
+     form a plot among the <ecda:persGroup a-status="enslaved">slaves</ecda:persGroup> to assassinate him;
+     and he was assisted in this laudable design by <ecda:persGroup a-status="enslaved" a-gender="male">two
+     young men</ecda:persGroup> from a neighbouring property, who
      barely knew <persName ref="#dunbar_0001">Mr. Dunbar</persName> by sight, had no enmity
      against him whatever, and only joined in the conspiracy
-     in compliment to their worthy friend 
+     in compliment to their worthy friend the
      <ecda:anonPers>driver</ecda:anonPers>. During several months a variety of attempts 
      were made for effecting their purpose; but
      accident defeated them; till at length they were
@@ -6561,7 +6561,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      distance, and of his being absolutely obliged to
      return in the evening. An ambuscade was therefore
      laid to intercept him; and on his passing a clump
-     of <ecda:flora>trees</ecda:flora>, the <rs type="persGroup">assassins</rs> sprang upon him, 
+     of <ecda:flora>trees</ecda:flora>, the <ecda:persGroup a-status="enslaved">assassins</ecda:persGroup> sprang upon him, 
      <ecda:anonPers>driver</ecda:anonPers> knocked him from his <ecda:fauna>horse</ecda:fauna>, and in a few
      moments their clubs despatched him. No one
      suspected the <ecda:anonPers>driver</ecda:anonPers>; but in the course of enquiry,
@@ -6571,22 +6571,22 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      had carried away, from a negro belief that, as long
      as the murderer possesses one of the ears of his
      victim, he will never be haunted by his spectre.
-     <seg ana="#punishment">The <rs type="persGroup">stranger-youths</rs>, <rs type="persGroup">two of <persName ref="#dunbar_0001">Dunbar's</persName> negroes</rs>,
+     <seg ana="#punishment">The <ecda:persGroup a-status="enslaved" a-gender="male">stranger-youths</ecda:persGroup>, <ecda:persGroup a-status="enslaved">two of <persName ref="#dunbar_0001">Dunbar's</persName> negroes</ecda:persGroup>,
      and the <ecda:anonPers>driver</ecda:anonPers>, were tried, confessed the crime, and
      were all executed; the head of the latter being
      fixed upon a pole <foreign rend="italic" xml:lang="la">in terrorem</foreign>. But while the
-     <rs type="persGroup">offenders</rs> were still in prison, the <ecda:anonPers>overseer</ecda:anonPers> upon a 
+     <ecda:persGroup a-status="enslaved">offenders</ecda:persGroup> were still in prison, the <ecda:anonPers>overseer</ecda:anonPers> upon a 
      neighbouring property had occasion to find fault
      <pb n="191"/>
      <fw type="pageNum">183</fw>
      in the field with a <ecda:anonPers>woman</ecda:anonPers> belonging to a gang
      hired to perform some particular work; upon
      which she flew upon him with the greatest fury, 
-     grasped him by the throat, cried to <rs type="persGroup">her fellows</rs>
+     grasped him by the throat, cried to <ecda:persGroup a-status="enslaved">her fellows</ecda:persGroup>
      —<said rend="quotes">Come here! come here! Let us <persName ref="#dunbar_0001">Dunbar</persName> him!</said>
      and through her strength and the suddenness of
      her attack had nearly accomplished her purpose, before
-     his <rs type="persGroup">own slaves</rs> could come to his assistance.
+     his <ecda:persGroup a-status="enslaved">own slaves</ecda:persGroup> could come to his assistance.
      <ecda:anonPers>This woman</ecda:anonPers> was also executed.</seg>      
   </p>
   <p ana="#injury">This happened about five years ago, when <rs type="place">the
@@ -6602,31 +6602,31 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
  <opener><dateline><date when="1816-02-22">February 22</date>.</dateline></opener>   
   <p>During many years the <name>Moravians</name> have been
      established upon the neighbouring estate of <placeName>Mesopotamia</placeName>.
-     As the <rs type="persGroup">ecclesiastical commissaries</rs> had
+     As the <ecda:persGroup a-occupation="ecclesiastical_commisary" a-religion="anglican">ecclesiastical commissaries</ecda:persGroup> had
      said so much to me respecting the great appetite
-     of the <rs type="persGroup">negroes</rs> for religious instruction, I was
+     of the <ecda:persGroup a-arc="negro">negroes</ecda:persGroup> for religious instruction, I was
      desirous of learning what progress had been made 
      in this quarter, and this morning I went over to
      see <ecda:anonPers>one of the teachers</ecda:anonPers>. He told me, that he
      and <ecda:anonPers>his wife</ecda:anonPers> had jointly used their best efforts to
      produce a sense of religion in the minds of the
-     <rs type="persGroup">slaves</rs>; that they were all permitted to attend his 
+     <ecda:persGroup a-status="enslaved">slaves</ecda:persGroup>; that they were all permitted to attend his 
      morning and evening lectures, if they chose it;
      <pb n="192"/>
      <fw type="pageNum">184</fw>
      but that he could not say that they showed any
      great avidity on the subject. It seems that there
-     are at least <rs type="persGroup">three hundred negroes</rs> on the <rs type="place">estate</rs>;
+     are at least <ecda:persGroup a-status="enslaved" a-arc="negro" a-gender="mixed">three hundred negroes</ecda:persGroup> on the <rs type="place">estate</rs>;
     the number of believers has rather increased than
     diminished, to be sure, but still in a very small
     proportion. When <ecda:anonPers>this gentleman arrived, there</ecda:anonPers>
-     were not more than <rs type="persGroup">forty baptised persons</rs>: he has
+     were not more than <ecda:persGroup a-status="enslaved" a-religion="christian">forty baptised persons</ecda:persGroup>: he has
      been here upwards of five years, and still the
      number of persons <said rend="quotes" direct="false">belonging to his church</said>
-     (as he expressed it) does not exceed <rs type="persGroup">fifty</rs>. Of these,
+     (as he expressed it) does not exceed <ecda:persGroup a-status="enslaved" a-religion="christian">fifty</ecda:persGroup>. Of these,
      seldom more than ten or a dozen attend his lectures
-     at a time. As to the remaining <rs type="persGroup">two hundred 
-     and fifty</rs>, they take no more notice of his lectures
+     at a time. As to the remaining <ecda:persGroup a-status="enslaved" a-gender="mixed">two hundred 
+     and fifty</ecda:persGroup>, they take no more notice of his lectures
      or his exhortations, than if there were no such person
      on the property, are only very civil to him when
      they see him, and go on their own old way,
@@ -6634,10 +6634,10 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      By the <ecda:anonPers>overseer</ecda:anonPers> of <placeName>Greenwich's</placeName> express desire,
      the <ecda:anonPers><name>Moravian</name></ecda:anonPers> has, however, agreed to give up an
      hour every day for the religious instruction of the
-     <rs type="persGroup">negro children</rs> on that property: and I should
+     <ecda:persGroup a-status="enslaved" a-arc="negro">negro children</ecda:persGroup> on that property: and I should
      certainly request him to extend his labours to
      <placeName>Cornwall</placeName>, if I did not think it right to give the
-     <orgName>Church of England</orgName> <rs type="persGroup">clergymen</rs> full room for a trial
+     <orgName>Church of England</orgName> <ecda:persGroup a-occupation="clergyman" a-religion="anglican">clergymen</ecda:persGroup> full room for a trial
      of their intended periodical visitations; which
      would not be the case, if the <rs type="persGroup">negroes</rs> were to be
      interfered with by the professors of any other
@@ -6741,8 +6741,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
  </div>  
  <div type="entry">
  <opener><dateline><date when="1816-02-24">February 24</date>.</dateline></opener>  
- <p>On the Sunday after my first arrival, the <rs type="persGroup">whole
-    body of <rs type="properAdjective">Eboe</rs> negroes</rs> came to me to complain of
+ <p>On the Sunday after my first arrival, the <ecda:persGroup a-status="enslaved" a-ethnicity="eboe" a-arc="negro">whole
+    body of <rs type="properAdjective">Eboe</rs> negroes</ecda:persGroup> came to me to complain of
     the <ecda:anonPers>attorney</ecda:anonPers>, and more particularly of <ecda:anonPers>one of the 
     book-keepers </ecda:anonPers>. I listened to them, if not with unwearied
     patience, at least with unsubdued fortitude,
@@ -6778,10 +6778,10 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     to a magistrate, had then stopped them from putting
     their plan into execution, and that the whole
     was a plot of <persName ref="#edward_0001">Edward's</persName>, in order to make a merit
-    with me for himself at the expense of <rs type="persGroup">his country-
+    with me for himself at the expense of <ecda:persGroup a-arc="negro" a-ethnicity="eboe" a-status="enslaved">his country-
     <pb n="197"/>
     <fw type="pageNum">189</fw>
-    men</rs>. However, as they confessed their having
+    men</ecda:persGroup>. However, as they confessed their having
     had the intention of applying to <persName ref="#hill_0001">Mr. Hill</persName> as a
     magistrate, I insisted upon their executing their
     intention. I told them, that as <persName ref="#hill_0001">Mr. Hill</persName> was the 
@@ -6797,7 +6797,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
  <p>This threw them into terrible confusion; they
     cried out that they wanted to make no complaint
     whatever, and that it was all <persName ref="#edward_0001">Edward's</persName> fault, who
-    had misled them. <rs type="persGroup">Three of them</rs>, one after the other,
+    had misled them. <ecda:persGroup a-status="enslaved" a-ethnicity="eboe" a-arc="negro">Three of them</ecda:persGroup>, one after the other,
     gave him the lie to his face; and each one and all
     (<persName ref="#edward_0001">Edward</persName> as well as the rest) declared that go to <placeName>the
     Bay</placeName> they absolutely would <emph rend="italic">not</emph>. The next morning
@@ -6807,11 +6807,11 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     scraping and bowing to me, and then blackguarding
     <persName ref="#edward_0001">Edward</persName> with all their might and main; and
     when I ordered the <ecda:anonPers>driver</ecda:anonPers> to take charge of them,
-    and carry them to <persName ref="#hill_0001">Mr. Hill</persName>, <rs type="persGroup">some of them</rs> fairly
-    took to their heels, and ran away. However, <rs type="persGroup">the
-    rest</rs> soon brought them back again, for they swore
+    and carry them to <persName ref="#hill_0001">Mr. Hill</persName>, <ecda:persGroup a-arc="negro" a-ethnicity="eboe" a-status="enslaved">some of them</ecda:persGroup> fairly
+    took to their heels, and ran away. However, <ecda:persGroup a-status="enslaved" a-ethnicity="eboe" a-arc="negro">the
+    rest</ecda:persGroup> soon brought them back again, for they swore
     that if one went, all should go; and away they
-    were marched, in <rs type="persGroup">a string of about twenty</rs>, with 
+    were marched, in <ecda:persGroup a-arc="negro" a-ethnicity="eboe" a-status="enslaved">a string of about twenty</ecda:persGroup>, with 
     <pb n="198"/>
     <fw type="pageNum">190</fw>
     the <ecda:anonPers>driver</ecda:anonPers> at their head. When they got to <placeName>the
@@ -6829,14 +6829,14 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     <name>Eboes</name>; for the two bodies hate each other as
     cordially as the <name>Guelphs</name> and <name>Ghibellines</name>; and
     after their departure for <placeName>the Bay</placeName>, I heard the
-    head cook haranguing a <rs type="persGroup">large audience</rs>, and declaring
+    head cook haranguing a <ecda:persGroup a-status="enslaved">large audience</ecda:persGroup>, and declaring
     it to be her fixed opinion, <said rend="quotes" direct="false">that <distinct type="dialect">massa</distinct>
     ought to sell all the <name>Eboes</name>, and buy <name>Creoles</name> instead.</said>
     Probably, <persName ref="#cook_0001">Mrs. Cook</persName> was not the less
     loud in her exclamations against the ingratitude
     of the <name>Eboes</name>, from her own loyalty having lately
     been questioned. She had found fault one day 
-    in the <rs type="place">hospital</rs> with <rs type="persGroup">some women</rs> who feigned sickness
+    in the <rs type="place">hospital</rs> with <ecda:persGroup a-status="enslaved" a-gender="female">some women</ecda:persGroup> who feigned sickness
     in order to remain idle. <said rend="quotes"><distinct type="dialect">You no work
     willing for massa</distinct>,</said> said <persName ref="#cook_0001">Mrs. Cook</persName>, <said rend="quotes"><distinct type="dialect">and him so
     vex, him say him go to <placeName>Kingston</placeName> to-morrow, and
@@ -6866,7 +6866,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     had children living. I had taken care, when this
     play-day was announced by the <ecda:anonPers>head driver</ecda:anonPers>, to
     make him inform the <rs type="persGroup">negroes</rs> that they were indebted 
-    for it entirely to these <rs type="persGroup">mothers</rs>; and to
+    for it entirely to these <ecda:persGroup a-gender="female" a-status="enslaved">mothers</ecda:persGroup>; and to
     show them more respect, I went to them after
     dinner myself, and drank their healths. The most
     respectable blacks on the estate were also assembled
@@ -6904,10 +6904,10 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     that would do them much high honour. The
     ninth being my own birthday, the July play-day
     is to be called <name rend="quotes">the <distinct type="dialect">massa's</distinct></name>; and that in October
-    is to be in honour of the <rs type="persGroup"><distinct type="ethnographic">piccaninny-mothers</distinct></rs>, from
+    is to be in honour of the <ecda:persGroup a-status="enslaved" a-gender="female"><distinct type="ethnographic">piccaninny-mothers</distinct></ecda:persGroup>, from
     whom it is to take its name.     
  </p>
- <p><seg ana="#performance">The <rs type="persGroup">poor creatures</rs> overflowed with gratitude;
+ <p><seg ana="#performance">The <ecda:persGroup a-status="enslaved" a-gender="mixed">poor creatures</ecda:persGroup> overflowed with gratitude;
     and the prospective indulgences which had just
     been announced, gave them such an increase of
     spirits, that on returning to my own residence, they
@@ -6928,8 +6928,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     like <persName ref="#samuel_johnson_1709">Johnson's</persName> definition of wit, <quote rend="quotes" source="johnson_lives">the idea, although
     novel, was immediately acknowledged to be just</quote>.
     So instantly the drums and gumbies left off beating;
-    the <rs type="persGroup">children</rs> left off singing; the <rs type="persGroup">women and
-    men</rs> left off dancing; and they all with one accord
+    the <ecda:persGroup a-status="enslaved">children</ecda:persGroup> left off singing; the <ecda:persGroup a-status="enslaved" a-gender="mixed">women and
+    men</ecda:persGroup> left off dancing; and they all with one accord
     fell to kicking, and pulling, and thumping about
     two dozen of their companions, who were lying
     fast asleep upon the floor. Some were roused,
@@ -6937,7 +6937,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     and lay down again; but at length, by dint of
     their leading some, carrying others, and rolling
     the remainder down the steps, I got my house
-    clear of <rs type="persGroup">my black guests</rs> about four in the morning.
+    clear of <ecda:persGroup a-gender="mixed" a-status="enslaved" a-arc="black">my black guests</ecda:persGroup> about four in the morning.
     Another of their popular songs this evening 
     was—
     <title rend="quotes"><distinct type="dialect">All the stories them telling you are lies, oh</distinct>!</title>
@@ -6954,10 +6954,10 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     been to the full as violent as any of the <name>Creoles</name>
     in reprobating the ingratitude of the <name>Eboes</name>. Today
     he came up to the house dressed in his best
-    clothes, to show me his <rs type="persGroup">seven children</rs>; and he
+    clothes, to show me his <ecda:persGroup a-status="enslaved">seven children</ecda:persGroup>; and he
     marched at their head in all the dignity of paternal
     pride. He begged me particularly to notice
-    <rs type="persGroup">two fine little girls</rs>, who were twins. I told him
+    <ecda:persGroup a-status="enslaved" a-gender="female">two fine little girls</ecda:persGroup>, who were twins. I told him
     that I had seen them already. <said rend="quotes"><distinct type="dialect">Iss! iss</distinct>!</said> he said;
     <said rend="quotes"><distinct type="dialect">massa see um; but massa no <emph rend="italic">admire</emph> um enough
     yet</distinct>.</said> Upon which I fell to admiring them, tooth 
@@ -7038,7 +7038,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      not removed fast enough; upon which he called him
      a rascal, sluiced him with the dirty water, and
      finally knocked him down with the broom. The
-     <rs type="person" ref="#frank_0001">African</rs> came to me instantly; <rs type="persGroup">four eye-witnesses</rs>,
+     <rs type="person" ref="#frank_0001">African</rs> came to me instantly; <ecda:persGroup>four eye-witnesses</ecda:persGroup>,
      who were examined separately, proved the truth of
      his ill-usage; and I immediately discharged the
      book-keeper, who had contented himself with
@@ -7047,7 +7047,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      <pb n="205"/>
      <fw type="pageNum">197</fw>
      his single unsupported denial to outweigh five concordant
-     <rs type="persGroup">witnesses</rs> to the assertion; and that, if he
+     <ecda:persGroup>witnesses</ecda:persGroup> to the assertion; and that, if he
      grounded his claim to being believed merely upon
      his having a white skin, he would find that, on
      <placeName>Cornwall</placeName> estate at least, that claim would not be 
@@ -7166,7 +7166,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
       particular to be withdrawn from service; as in that
       case two hundred and ninety-nine would have to
       do the work, which was now performed by three
-      hundred; and, therefore, I could allow <rs type="persGroup">my negroes</rs>
+      hundred; and, therefore, I could allow <ecda:persGroup a-gender="mixed" a-status="enslaved" a-arc="negro">my negroes</ecda:persGroup>
       to apply themselves to no trades but such as related
       to tbe business of the property, such as carpenters,
       coopers, smiths &amp;c.</seg> <said rend="quotes">All true, <distinct type="dialect">massa</distinct>,</said>
@@ -7213,7 +7213,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
  </div>
  <div type="entry">
   <opener><dateline><date when="1816-03-02">March 2</date>.</dateline></opener>  
- <p>Most of <rs type="persGroup">those negroes</rs> who are tolerably industrious,
+ <p>Most of <ecda:persGroup a-arc="negro" a-status="enslaved" a-gender="mixed">those negroes</ecda:persGroup> who are tolerably industrious,
     breed <ecda:fauna ana="#commodity">cattle</ecda:fauna> on my estate, which are their 
   <pb n="210"/>
   <fw type="pageNum">202</fw>
@@ -7254,7 +7254,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
       <ecda:fauna>centipes</ecda:fauna> was found squeezed to death under the
       door of my bed-room this morning. As to the
       <ecda:fauna>cock-roaches</ecda:fauna>, they are absolutely in legions; every
-      evening my <rs type="persGroup">negro boys</rs> are set to hunt them, and
+      evening my <ecda:persGroup a-gender="male" a-status="enslaved" a-arc="negro">negro boys</ecda:persGroup> are set to hunt them, and
       they kill them by dozens on the chairs and sofas, in
       the covers of my books, and among the leaves in
       my <ecda:food ana="#flora">fruit</ecda:food>-baskets. Yesterday I wanted to send
@@ -7268,10 +7268,10 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
  <div type="entry">
  <opener><dateline><date when="1816-03-04">March 4</date>. <hi rend="mixed">(Monday.)</hi></dateline></opener>    
  <p>Since my arrival in <placeName>Jamaica</placeName>, I am not consicous
-    of having omitted any means of satisfying <rs type="persGroup">my
-    negroes</rs>, and rendering them happy and secure
+    of having omitted any means of satisfying <ecda:persGroup a-arc="negro" a-gender="mixed" a-status="enslaved">my
+    negroes</ecda:persGroup>, and rendering them happy and secure
     from oppression. <seg ana="#punishment">I have suffered no person to be
-    punished, except the <rs type="persGroup">two female demons</rs> who 
+    punished, except the <ecda:persGroup a-status="enslaved" a-gender="female">two female demons</ecda:persGroup> who 
     almost bit a <rs type="person" ref="#jenny_0001">girl's</rs> hands off (for which they received
     a slight switching), and the most worthless 
     <ecda:anonPers>rascal</ecda:anonPers> on the <rs type="place">estate</rs>, who for manifold offences I
@@ -7282,12 +7282,12 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     the number of negro holidays, and have
     given away <ecda:commodity ana="#currency">money</ecda:commodity> and presents of all kinds incessantly. 
     Now for my reward. <seg ana="#medical">On Saturday morning
-    there were no fewer than <rs type="persGroup">forty-five persons</rs> (not
+    there were no fewer than <ecda:persGroup a-status="enslaved">forty-five persons</ecda:persGroup> (not
     including children) in the <rs type="place">hospital</rs>; which makes
     <pb n="212"/>
     <fw type="pageNum">204</fw>
-    nearly a fifth of <rs type="persGroup">my whole gang</rs>. Of these, the
-    medical people assured me that not above <rs type="persGroup">seven</rs> had
+    nearly a fifth of <ecda:persGroup a-status="enslaved">my whole gang</ecda:persGroup>. Of these, the
+    medical people assured me that not above <ecda:persGroup a-status="enslaved">seven</ecda:persGroup> had
     any thing whatever the matter with them; the rest
     were only feigning sickness out of mere idleness, and
     in order to sit doing nothing, while their companions
@@ -7319,8 +7319,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     <rs type="place" ana="#medical">hospital</rs> since my arrival, although he has nothing 
     <pb n="213"/>
     <fw type="pageNum">205</fw>
-    the matter with him; indeed, when the <rs type="persGroup">other
-    negroes</rs> abused him for his laziness, and leaving
+    the matter with him; indeed, when the <ecda:persGroup a-status="enslaved" a-arc="negro">other
+    negroes</ecda:persGroup> abused him for his laziness, and leaving
     them to do his work for him, he told them plainly
     that he did not mean to work, and that nobody
     should make him. <seg ana="#injury #disease #punishment #medical">The only real illness which
@@ -7331,11 +7331,11 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     the <rs type="place">hospital</rs> he found his wife, <persName ref="#philippa_0001">Philippa</persName>, the mad
     woman, with whom he instantly quarrelled, and
     she cut his head open with a plate; and as she
-    might have served one of the <rs type="persGroup">children</rs> in the same
+    might have served one of the <ecda:persGroup a-status="enslaved">children</ecda:persGroup> in the same
     way, we were obliged to confine her. Her husband
     was thought to be the fittest person to guard 
     her; and accordingly they were locked up together
-    in a separate room from the <rs type="persGroup">other invalids</rs>, till a
+    in a separate room from the <ecda:persGroup a-status="enslaved">other invalids</ecda:persGroup>, till a
     straight waistcoat could be made. The husband was
     then restored to freedom, and desired to go to work,
     which he declared to be impossible from illness; yet
@@ -7385,12 +7385,12 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     <pb n="215"/>
     <fw type="pageNum">207</fw>
     do infinite mischief; the <ecda:anonPers>trustee</ecda:anonPers> was roused out of
-    his bed; the <rs type="persGroup">drivers</rs> blew their shells to summon
-    the <rs type="persGroup">negroes</rs> to their assistance; when it appeared,
+    his bed; the <ecda:persGroup a-occupation="driver">drivers</ecda:persGroup> blew their shells to summon
+    the <ecda:persGroup a-status="enslaved" a-arc="negro">negroes</ecda:persGroup> to their assistance; when it appeared,
     that there was not a single watchman at his post;
     the watch-fires had all been suffered to expire;
     not a single domestic was to be found, nor a <ecda:fauna>horse</ecda:fauna>
-    to be procured; even the <rs type="persGroup">little servant boys</rs>, whom
+    to be procured; even the <ecda:persGroup a-status="enslaved" a-gender="male">little servant boys</ecda:persGroup>, whom
     the <ecda:anonPers>trustee</ecda:anonPers> had locked up in his own house, and
     had left fast asleep when he went to bed, had got
     up again, and made their escape to pass the night
@@ -7423,8 +7423,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     healthy and of regular habits, till a certain age;
     when it declears itself in the form of offensive
     sores, attended with extreme debility. No cure
-    for it has yet been discovered: there are <rs type="persGroup">negro
-    doctors</rs>, who understand how to prepare <ecda:food ana="#medical">diet drinks</ecda:food>
+    for it has yet been discovered: there are <ecda:persGroup a-arc="negro" a-occupation="doctor">negro
+    doctors</ecda:persGroup>, who understand how to prepare <ecda:food ana="#medical">diet drinks</ecda:food>
     from <ecda:flora ana="#medical">simples</ecda:flora> of the island, which moderate its
     virulence for a time; but the disease itself is
     never entirely subdued. On the contrary, <distinct type="dialect" rend="quotes">the
@@ -7473,7 +7473,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      himself a full punishment for all his misdeeds. By
      running away, and sleeping in the woods, exposed
      to all the fury of the late heavy rains, he has been
-     struck by the palsy. Yesterday <rs type="persGroup">some of my negroes</rs>
+     struck by the palsy. Yesterday <ecda:persGroup a-status="enslaved" a-arc="negro">some of my negroes</ecda:persGroup>
      found him in the <rs type="place">mountains</rs>, unable to raise himself
      from the ground, and brought him in a cart
      to the <rs type="place">hospital</rs>; where he now lies, having quite
@@ -7689,7 +7689,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     extracted in time, the flesh around it corrupts, and
     a sore ensues not easily to be cured. No vigilance
     can prevent the attacks of the <ecda:fauna>chiga</ecda:fauna>; and not only
-    <rs type="persGroup">soldiers</rs>, but the very <rs type="persGroup">cleanest persons</rs> of the highest
+    <ecda:persGroup a-occupation="soldier">soldiers</ecda:persGroup>, but the very <ecda:persGroup>cleanest persons</ecda:persGroup> of the highest
     rank in society, are obliged to have their feet examined
     regularly. The <rs type="persGroup">negroes</rs> are all provided
     with small knives for the purpose of extracting
@@ -7754,7 +7754,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     that the planters are still indifferent to the preservation
     of their present stock of negroes, from their
     confidence of getting fresh supplies from <placeName>Africa</placeName>. 
-    Certainly the <rs type="persGroup">negroes</rs> in <placeName>Jamaica</placeName> are by no means
+    Certainly the <ecda:persGroup a-arc="negro" a-status="enslaved" a-gender="mixed">negroes</ecda:persGroup> in <placeName>Jamaica</placeName> are by no means
     of this <ecda:anonPers>Reporter's</ecda:anonPers> opinion, but are thoroughly
     sensible of their intrinsic value in the eyes of the
     proprietor.</seg> On my arrival, every woman who had 
@@ -7869,7 +7869,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
 <p>On opening the <orgName>Assize-court</orgName> for the county of
    <placeName>Cornwall</placeName> on <date when="1816-03-04">March 4</date>., <persName ref="#james_stewart_1766">Mr. Stewart</persName>, the Custos of
    <placeName>Trelawny</placeName>, and Presiding Judge, said, in his charge 
-   to the <rs type="persGroup">jury</rs>, he wished to direct their attention
+   to the <ecda:persGroup a-occupation="juror">jury</ecda:persGroup>, he wished to direct their attention
    in a peculiar manner to the infringement of slave-
    laws in the <rs type="place">island</rs>, in consequence of charges having
    been brought forward in <placeName>England</placeName> of slave laws not
@@ -7878,7 +7878,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
    <pb n="229"/>
    <fw type="pageNum">221</fw>
    but it became proper, in consequence, for the bench
-   to call in a strong manner on the <rs type="persGroup">grand jury</rs> to be
+   to call in a strong manner on the <ecda:persGroup a-occupation="juror">grand jury</ecda:persGroup> to be
    particularly vigilant and attentive to the discharge
    of this part of their duty. The bench at the same
    time adverted to another subject connected with
@@ -7886,8 +7886,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
    it</emph>, had thought proper to interfere with our system,
    and by their insidious practices and dangerous 
    doctrines to call the peace of the island into question,
-   and to promoted disorder and confusion. <rs type="persGroup">The
-   jury</rs> were therefore enjoined, in every such case,
+   and to promoted disorder and confusion. The
+   <ecda:persGroup a-occupation="juror">jury</ecda:persGroup> were therefore enjoined, in every such case,
    to investigate it thoroughly, and to bring the parties 
    concerned before the country, and not to suffer
    the systems of the <rs type="place">island</rs>, as established by the laws
@@ -7909,15 +7909,15 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
    practices</quote> is meant (as I am told) my over-
    <pb n="230"/>
    <fw type="pageNum">222</fw>
-   indulgence to <rs type="persGroup">my negroes</rs>; and my endeavouring
+   indulgence to <ecda:persGroup a-gender="mixed" a-status="enslaved" a-arc="negro">my negroes</ecda:persGroup>; and my endeavouring
    to obtain either redress or pardon for those belonging
    to other estates, who occasionally appeal to
    me for protection: while <quote rend="quotes">dangerous doctrines</quote>
    alludes to my being of opinion, that the evidence 
-   of <rs type="persGroup">negroes</rs> ought to be at least <emph rend="italic">heard</emph> against <rs type="persGroup">white
-   persons</rs>; the jury always making proportionable
+   of negroes ought to be at least <emph rend="italic">heard</emph> against white
+   persons; the jury always making proportionable
    abatements of belief, from bearing in mind the bad
-   habits of <rs type="persGroup">most negroes</rs>, their general want of probity
+   habits of most negroes, their general want of probity
    and good faith in every respect, and their
    total ignorance of the nature of religious obligations.
    At the same time, these defects may be
@@ -7945,8 +7945,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
    the most flattering compliemnt that I ever received.
    If my presence in the <rs type="place">island</rs> has made the bench of
    a whole country think it necessary to exact from the
-  <rs type="persGroup">jury</rs> a more severe vigilance than usual in all causes
-   relating to the protection of <rs type="persGroup">negroes</rs>, I cannot but
+  <ecda:persGroup a-occupation="juror">jury</ecda:persGroup> a more severe vigilance than usual in all causes
+   relating to the protection of negroes, I cannot but
    own myself most richly rewarded for all my pains
    and expense in coming hither, for every risk of the
    voyage, and for every possible sacrifice of my pleasures.
@@ -7957,7 +7957,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
    arrival would make the <name>Mufti</name> redress the complaints
    of the lower orders of <name>Turks</name> with more
    scrupulous justice, and the <name>Bashaws</name> relax the fetters
-   of their <rs type="persGroup">slaves</rs> as much as their safety would
+   of their slaves as much as their safety would
    permit. But I cannot flatter myself with having
    done either the one or the other in <placeName>Jamaica</placeName>; and
    if <persName ref="#james_stewart_1766">Mr. Stewart</persName> <emph rend="italic">really</emph> alluded to me in his charge,
@@ -7997,7 +7997,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     their friends' wives; why, what would the Reporter
     of the <orgName>African Institution</orgName> have?</seg>    
  </p>
- <p>It is only to be wished, that the <rs type="persGroup">negroes</rs> would
+ <p>It is only to be wished, that the <ecda:persGroup a-arc="negro" a-status="enslaved">negroes</ecda:persGroup> would
     content themselves with these fashionable peccadilloes;
     but, unluckily, there are some palates among
     them which require higher seasoned vices; and besides
@@ -8005,15 +8005,15 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     stabbing, thieving, &amp;c.,</seg> a plan has just been discovered
     in the adjoining parish of <placeName>St. Elizabeth's</placeName>, 
     for giving themselves a grand fête by murdering all
-    the <rs type="persGroup">whites</rs> in the <rs type="place">island</rs>. The focus of this medi-
+    the <ecda:persGroup a-arc="white">whites</ecda:persGroup> in the <rs type="place">island</rs>. The focus of this medi-
     <pb n="233"/>
     <fw type="pageNum">225</fw>
     tated insurrection was on <placeName>Martin's Penn</placeName>, the property
     of <persName ref="#anthony_lindsay_1752">Lord Balcarras</persName>, where the overseer is an
-    old man of the mildest character, and the <rs type="persGroup">negroes</rs>
+    old man of the mildest character, and the <ecda:persGroup a-arc="negro" a-status="enslaved">negroes</ecda:persGroup>
     had always been treated with peculiar indulgence.
-    Above <rs type="persGroup">a thousand persons</rs> were engaged in the 
-    plot, <rs type="persGroup">three hundred of whom</rs> had been regularly
+    Above <ecda:persGroup a-status="enslaved">a thousand persons</ecda:persGroup> were engaged in the 
+    plot, <ecda:persGroup a-status="enslaved">three hundred of whom</ecda:persGroup> had been regularly
     sworn to assist in it with all the usual accompanying
     ceremonies of drinking <ecda:food>human blood</ecda:food>, eating
     <ecda:food>earth from graves</ecda:food>, &amp;c. <seg ana="#punishment">Luckily, the plot was discovered
@@ -8050,8 +8050,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
    To make the matter better, in the present instance,
    the <ecda:anonPers>man</ecda:anonPers> was a clergyman; and his cause of
    quarrel against the <ecda:anonPers>officer</ecda:anonPers> was the latter's refusal
-   to give him a <measure>puncheon</measure> of <ecda:commodity ana="#food #circulation">rum</ecda:commodity> to christen all <rs type="persGroup">his 
-   negroes</rs> in a lump. 
+   to give him a <measure>puncheon</measure> of <ecda:commodity ana="#food #circulation">rum</ecda:commodity> to christen all <ecda:persGroup a-status="enslaved" a-arc="negro">his 
+   negroes</ecda:persGroup> in a lump. 
 </p>    
  </div>   
  <div type="entry">
@@ -8060,17 +8060,17 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     and told me, that the <quote rend="quotes"><said>insidious practices and dangerous
     doctrines</said></quote> in <persName ref="#james_stewart_1766">Mr. Stewart's</persName> speech were
     intended for the <name>Methodists</name>, and that only the 
-    charge to the <rs type="persGroup">grand jury</rs> respecting <quote rend="quotes"><said>additional
+    charge to the <ecda:persGroup a-occupation="juror">grand jury</ecda:persGroup> respecting <quote rend="quotes"><said>additional
     vigilance</said></quote> was an allusion to myself; but he added
     that <seg ana="#abolition">it was the report at <placeName>Montego Bay</placeName>, that, in consequence
-    of my over-indulgence to <rs type="persGroup">my negroes</rs>, 
+    of my over-indulgence to <ecda:persGroup a-arc="negro" a-status="enslaved" a-gender="mixed">my negroes</ecda:persGroup>, 
     a song had been made at <placeName>Cornwall</placeName>, declaring that
     I was come over to set them all free, and that this
     was now circulating through the neighbouring
     parishes. If there be any such song (which I do 
     not believe), I certainly never heard it. However,
     <ecda:anonPers>my agent</ecda:anonPers> here says, that he has reason to believe
-    that <rs type="persGroup">my negroes</rs> really have spread the report that
+    that <ecda:persGroup a-arc="negro" a-status="enslaved" a-gender="mixed">my negroes</ecda:persGroup> really have spread the report that
     I intend to set <emph rend="italic">them</emph> free in a few years; and this
     merely out of vanity, in order to give themselves
     and <rs type="person" ref="#matthew_lewis_1775">their master</rs> the greater credit upon other
@@ -8079,29 +8079,29 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
  </p>
     <pb n="235"/>
     <fw type="pageNum">227</fw> 
- <p><seg ana="#punishment">The <rs type="persGroup">two ringleaders</rs> of the proposed rebellion
+ <p><seg ana="#punishment">The <ecda:persGroup a-status="enslaved">two ringleaders</ecda:persGroup> of the proposed rebellion
     have been condemned at <placeName>Black River</placeName>, the one to be
     hanged, the other to transportation.</seg> The plot was
     discovered by the <ecda:anonPers>overseer</ecda:anonPers> of <placeName>Lyndhurst Penn</placeName> (a
     <name>Frenchman</name> from <placeName>St. Domingo</placeName>) observing an uncommon
-    concourse of <rs type="persGroup">stranger negroes</rs> to a <ecda:anonPers>child's</ecda:anonPers> 
+    concourse of <ecda:persGroup a-status="enslaved" a-arc="negro">stranger negroes</ecda:persGroup> to a <ecda:anonPers>child's</ecda:anonPers> 
     funeral, on which occasion a <ecda:food ana="#fauna">hog</ecda:food> was roasted by
     the <ecda:anonPers>father</ecda:anonPers>. He stole softly down to the feasting
     hut, and listened behind a hedge to the conversation
-    of the <rs type="persGroup">supposed mourners</rs>; when he heard
+    of the <ecda:persGroup a-arc="negro" a-status="enslaved">supposed mourners</ecda:persGroup>; when he heard
     the whole conspiracy detailed. It appears that
-    <rs type="persGroup">above two hundred and fifty</rs> had been sworn in
+    <ecda:persGroup a-status="enslaved">above two hundred and fifty</ecda:persGroup> had been sworn in
     regularly, all of then <name>Africans</name>; not a <name>Creole</name> was
     among them. But there was a <ecda:anonPers><distinct type="ethnographic" rend="italic">black</distinct></ecda:anonPers> ascertained to
     have stolen over from the island of <placeName>St. Domingo</placeName>, 
     and a <ecda:anonPers><distinct type="ethnographic" rend="italic">brown</distinct> <name>Anabaptist</name> missionary</ecda:anonPers>, both of whom
     had been very active in promoting the plot. They
     had elected a <ecda:anonPers>King of the <name>Eboes</name></ecda:anonPers>, who had two
-    <rs type="persGroup">Captains</rs> under him; and their intention was to
-    effect a complete massacre of all the <rs type="persGroup">whites</rs> on
+    <ecda:persGroup a-status="enslaved">Captains</ecda:persGroup> under him; and their intention was to
+    effect a complete massacre of all the <ecda:persGroup a-arc="white">whites</ecda:persGroup> on
     the <rs type="place">island</rs>; for which laudable design <ecda:anonPers>His Majesty</ecda:anonPers>
     thought <name>Christmas</name> the very fittest season in the
-    year, but his <rs type="persGroup">Captains</rs> were more impatient, and
+    year, but his <ecda:persGroup a-status="enslaved">Captains</ecda:persGroup> were more impatient, and
     were for striking the blow immediately. The next
     morning information was given against them: <ecda:anonPers>one
     of the Captains</ecda:anonPers> escaped to the woods; but <ecda:anonPers>the
@@ -8114,7 +8114,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     Indeed, proofs were too strong to admit of denial;
     among others, a copy of the following song was
     found upon the <ecda:anonPers>King</ecda:anonPers>, which the <ecda:anonPers>overseer</ecda:anonPers> had heard
-    him sing at the funeral feast, while the other <rs type="persGroup">negroes</rs>
+    him sing at the funeral feast, while the other <ecda:persGroup a-status="enslaved" a-arc="negro">negroes</ecda:persGroup>
     joined in the chorus:—
 <ecda:embLore><floatingText>    
    <body><quote>
@@ -8143,19 +8143,19 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     <persName ref="#john_the_baptist_0001">John the Baptist</persName>. <said rend="quotes">And who, then, was <persName ref="#john_the_baptist_0001">John
     the Baptist</persName>?</said> He did not not very well know; only
     he had been told by his <ecda:anonPers>brown priest</ecda:anonPers>, that <persName ref="#john_the_baptist_0001">John
-    the Baptist</persName> was a friend to the <rs type="persGroup">negroes</rs>, and had
+    the Baptist</persName> was a friend to the <ecda:persGroup a-arc="negro" a-status="enslaved">negroes</ecda:persGroup>, and had
     got his head in a pan!      
  </p>  
  <p>As to the <ecda:anonPers>Captain</ecda:anonPers>, he only said in his defence,
     that if the court would forgive him this once, he
-    would not do so again <said rend="quotes" direct="false">as he found the <rs type="persGroup">whites</rs>
+    would not do so again <said rend="quotes" direct="false">as he found the <ecda:persGroup a-arc="white">whites</ecda:persGroup>
     did not like their plans;</said> which, it seems, till that
     moment they had never suspected! They had all
-    along imagined, no doubt, that the <rs type="persGroup">whites</rs> would
+    along imagined, no doubt, that the <ecda:persGroup a-arc="white">whites</ecda:persGroup> would
     <pb n="237"/>
     <fw type="pageNum">229</fw>
     find as much amusement in having their throats cut,
-    as the <rs type="persGroup">blacks</rs> would find in cutting them. I remember
+    as the <ecda:persGroup a-arc="black" a-status="enslaved">blacks</ecda:persGroup> would find in cutting them. I remember
     hearing a <ecda:anonPers>sportsman</ecda:anonPers>, who was defending the
     humanity of hunting, maintain, that it being as
     much the nature of a <ecda:fauna>hare</ecda:fauna> to run away as of a <ecda:fauna>dog</ecda:fauna>
@@ -8166,7 +8166,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
  </div> 
  <div type="entry">
  <opener><dateline><date when="1816-03-23">March 23</date>.</dateline></opener> 
-  <p ana="#injury">Two <rs type="persGroup">negroes</rs> upon <placeName>Amity</placeName> estate quarrelled the
+  <p ana="#injury">Two <ecda:persGroup a-status="enslaved" a-arc="negro">negroes</ecda:persGroup> upon <placeName>Amity</placeName> estate quarrelled the
      other day about some trifle, when the <ecda:anonPers>one</ecda:anonPers> bit the
      other's nose off completely. Soon after his accident,
      the <ecda:anonPers>overseer</ecda:anonPers> meeting the sufferer—<said rend="quotes">Why,
@@ -8178,9 +8178,9 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
  <div type="entry">
  <opener><dateline><date when="1816-03-24">March 24</date>.<hi rend="mixed">(Sunday.)</hi></dateline></opener> 
  <p>Every Sunday since my return from <placeName>Kingston</placeName>, I 
-    have read prayers to such of the <rs type="persGroup">negroes</rs> as chose
+    have read prayers to such of the <ecda:persGroup a-arc="negro" a-status="enslaved">negroes</ecda:persGroup> as chose
     to attend, prepatory to the intended visitations of
-    the minister <persName ref="#pope_0001">Dr. Pope</persName>. About <rs type="persGroup">twenty or thirty</rs> of
+    the minister <persName ref="#pope_0001">Dr. Pope</persName>. About <ecda:persGroup a-status="enslaved">twenty or thirty</ecda:persGroup> of
     the most respectable among them generally attended,
     and behaved with great attention and propriety.
     I read the <title>Litany</title>, and made them repeat
@@ -8197,14 +8197,14 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     part of my service always seemed to interest them
     greatly; but, indeed, they behaved throughout
     with much attention. Unluckily, the <ecda:anonPers>head driver</ecda:anonPers>,
-    who was one of the most zealous of <rs type="persGroup">my disciples</rs>,
+    who was one of the most zealous of <ecda:persGroup a-status="enslaved">my disciples</ecda:persGroup>,
     never could repeat the responses of the <title>Litany</title>
     without an appeal to myself, and always made a
     point of saying—<said rend="quotes">Good Lord, deliver us; yes,
     sir!</said> and made me a low bow: and one day when
     I was describing the wonderful precocity of <name>Christ's</name>
     understanding, as evidenced by his interview with
-    the <rs type="persGroup">doctors</rs> in the <rs type="place">temple</rs>, while but a child, the
+    the <ecda:persGroup a-occupation="doctor">doctors</ecda:persGroup> in the temple, while but a child, the
     <ecda:anonPers>head driver</ecda:anonPers> thought fit to interrupt me with—
     <said rend="quotes"><distinct type="dialect">Beg massa pardon, but want know one ting as
     massa say <mentioned rend="quotes">the child</mentioned>, and me want
@@ -8268,7 +8268,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     to this report, <quote rend="quotes">Good <persName ref="george_III_england_1738">King George</persName> and
     good <persName ref="#william_wilberforce_1759">Mr. Wilberforce</persName></quote> are stated to have <quote rend="quotes">given
     me a paper</quote> to set the <rs type="persGroup">negroes</rs> free (i.e. an order),
-    but that the <rs type="persGroup">white people</rs> of <placeName>Jamaica</placeName> will not suffer
+    but that the <ecda:persGroup a-arc="white">white people</ecda:persGroup> of <placeName>Jamaica</placeName> will not suffer
     me to show the paper, and I am now going home
     to say so, and <quote rend="quotes">to resume my chair, which I have
     left during my absence to be filled by <rs type="person" ref="#george_IV_england_1762">the Regent</rs>.</quote>      
@@ -8349,7 +8349,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      when at length I succeeded in persuading them to
      approach it, upon some one accidentally moving
      the <ecda:fauna>alligator's</ecda:fauna> tail, they all, with one accord, set
-     up a loud scream, and <rs type="persGroup">men, women, and children</rs>
+     up a loud scream, and <ecda:persGroup a-gender="mixed">men, women, and children</ecda:persGroup>
      tumbled out of the room over one another, to
      the irreparable ruin of some of my glasses and 
      decanters, and the extreme trepidation of the
@@ -8359,9 +8359,9 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      fit of jealousy, has been tried at <placeName>Montego Bay</placeName>, and
      acquitted. On the other hand, the <ecda:anonPers>King of the
      <name>Eboes</name></ecda:anonPers> has been hung at <placeName>Black River</placeName>, and died,
-     declaring that he left enough of his <rs type="persGroup">countrymen</rs> to
+     declaring that he left enough of his <ecda:persGroup a-status="enslaved">countrymen</ecda:persGroup> to
      prosecute the design in hand, and revenge his
-     death upon the <rs type="persGroup">whites</rs>. Such threats of rescue
+     death upon the <ecda:persGroup a-arc="white">whites</ecda:persGroup>. Such threats of rescue
      <pb n="243"/>
      <fw type="pageNum">235</fw>
      were held out, that it was judged advisable to put
@@ -8377,10 +8377,10 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      burning down the prison door. It is supposed that
      he has fled towards the fastness in the interior of
      the <rs type="place">mountains</rs>, where I am assured that many
-     <rs type="place">settlements</rs> of <rs type="persGroup">run-away slaves</rs> have been formed,
+     <rs type="place">settlements</rs> of <ecda:persGroup a-status="maroon">run-away slaves</ecda:persGroup> have been formed,
      and with which the inhabited part of the <rs type="place">island</rs> has 
      no communication. However, the chief of the 
-     <name>Accompong Maroons</name>, <persName ref="#roe_0001">Captain Roe</persName>, is gone in pursuit
+     <ecda:persGroup a-status="maroon"><name>Accompong Maroons</name></ecda:persGroup>, <persName ref="#roe_0001">Captain Roe</persName>, is gone in pursuit
      of him, and has promised to bring him in, 
      alive or dead. The latter is the only reasonable
      expectation, as the fugitive is represented as a complete
@@ -8407,8 +8407,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     <opener><dateline><date when="1816-03-28">March 28</date>.</dateline></opener>   
     <p ana="#punishment">I have been positively assured, that an attempt
        was made to persuade the <rs  type="persGroup">grand jury</rs> at <placeName>Montego
-       Bay</placeName>, to present me for over-indulgence to <rs type="persGroup">my own
-       negroes</rs>! It is a great pity that so reasonable an
+       Bay</placeName>, to present me for over-indulgence to <ecda:persGroup a-status="enslaved" a-arc="negro" a-gender="mixed">my own
+       negroes</ecda:persGroup>! It is a great pity that so reasonable an
        attempt should not have succeeded.—The <ecda:anonPers>rebel
        captain</ecda:anonPers> who broke out of prison, has been found
        concealed in the hut of a notorious <ecda:anonPers ana="#obeah"><rs type="properAdjective">Obeah</rs>-man</ecda:anonPers>, and
@@ -8426,7 +8426,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
       the <rs type="place">estate</rs>, and instead of it went about the country
       stealing every thing upon which he could lay his
       hands; and whenever his proceedings were enquired
-      into by the <rs type="persGroup">magistrates</rs>, he stated himself to be on
+      into by the <ecda:persGroup a-occupation="magistrate">magistrates</ecda:persGroup>, he stated himself to be on
       the road to <ecda:anonPers>his trustee</ecda:anonPers>, and produced my letter as a
       proof of it. At length some one had the curiosity
       to open the letter, and found that it had been 
@@ -8438,7 +8438,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
  <div type="entry">
  <opener><dateline><date when="1816-03-30">March 30</date>.</dateline></opener>  
    <p>This was the day appointed for the first <name rend="quotes">Royal
-    play-day</name>, when I bade farewell to <rs type="persGroup">my negroes</rs>.
+    play-day</name>, when I bade farewell to <ecda:persGroup a-arc="negro" a-status="enslaved" a-gender="mixed">my negroes</ecda:persGroup>.
     I expected to be besieged with petitions and 
     complaints, as they must either make them on
     this occasion or not at all. I was, therefore,
@@ -8480,8 +8480,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
  </p>
   <p>After the christening there was a general distribution 
      of <ecda:food ana="#fauna">salt-fish</ecda:food> by the <ecda:anonPers>trustee</ecda:anonPers>; and I also gave
-     <rs type="persGroup">every man and woman</rs> <measure ana="#currency">half a dollar</measure> each, and <rs type="persGroup">every
-     child</rs> a <distinct type="dialect"><ecda:commodity ana="#currency">maccarony</ecda:commodity></distinct> (<measure ana="#currency">fifteen pence</measure>) as a parting present,
+     <ecda:persGroup a-gender="mixed" a-status="enslaved">every man and woman</ecda:persGroup> <measure ana="#currency">half a dollar</measure> each, and <ecda:persGroup a-status="enslaved">every
+     child</ecda:persGroup> a <distinct type="dialect"><ecda:commodity ana="#currency">maccarony</ecda:commodity></distinct> (<measure ana="#currency">fifteen pence</measure>) as a parting present,
      to show them that I parted with them in good 
      humour. While the <ecda:commodity ana="#currency #circulation">money</ecda:commodity> was distributing, <persName ref="#hill_0002">young
      Hill</persName> arrived, and finding the house completely
@@ -8492,11 +8492,11 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
   <p>I also read to them a new code of laws, which I
      had ordered to be put in force at <placeName>Cornwall</placeName>, for
      the better security of the <rs type="persGroup">negroes</rs>. The principal
-     were, that <quote rend="quotes" ana="#medical">a <rs type="place">new hospital</rs> for the <rs type="persGroup">lying-in women</rs>,
+     were, that <quote rend="quotes" ana="#medical">a <rs type="place">new hospital</rs> for the <ecda:persGroup a-status="enslaved" a-gender="female">lying-in women</ecda:persGroup>,
      and for those who might be seriously ill, should be 
      built, and made as comfortable as possible; while
      the present one should be reserved for those whom
-     the <rs type="persGroup">physicans</rs> might declare to be very slightly
+     the <ecda:persGroup a-occupation="physician">physicans</ecda:persGroup> might declare to be very slightly
      indisposed, or not ill at all; the doors being kept
      constantly locked, and the sexes placed in separate
      chambers, to prevent its being made a place of amuse-
@@ -8528,8 +8528,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      as the <ecda:anonPers>trustee</ecda:anonPers> may think most fitting</quote>.—
      <quote rend="quotes">Any white person, who can be proved to have
      had an improper connection with a woman known
-     publicly to be living as the wife of one of <rs type="persGroup">my
-     negroes</rs>, is to be discharged immediately upon
+     publicly to be living as the wife of one of <ecda:persGroup a-gender="male" a-status="enslaved" a-arc="negro">my
+     negroes</ecda:persGroup>, is to be discharged immediately upon
      complaint being made</quote>. I also gave the <ecda:anonPers>head
      driver</ecda:anonPers> a complete list of the allowances of <ecda:commodity ana="#textile #circulation">clothing</ecda:commodity>,
      <pb n="248"/>
@@ -8557,7 +8557,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
         of my departure; but when they saw my
         curricle actually at the door to convey me away,
         then their faces grew very long indeed. In particular,
-        the <rs type="persGroup">women</rs> called me by every endearing
+        the <ecda:persGroup a-gender="female" a-status="enslaved">women</ecda:persGroup> called me by every endearing
         name they could think of. <quote rend="quotes"><said>My son! my love!
         my husband! my father!</said></quote> <said rend="quotes"><distinct type="dialect">You no my massa,
         you my tata</distinct>!</said> said <ecda:anonPers>one old woman</ecda:anonPers> (upon which
@@ -8580,7 +8580,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      <p>To fill up my list of <rs type="properAdjective">Jamaica</rs> delicacies, I must
         not forget to mention, that I did my best to procure
         a <ecda:food ana="#fauna">Cane-piece Cat</ecda:food> roasted in the true <rs type="properAdjective">African</rs>
-        fashion. The <rs type="persGroup"><rs type="properAdjective">Creole</rs> negroes</rs>, however, greatly
+        fashion. The <ecda:persGroup a-status="enslaved" a-arc="negro" a-nationality="creole"><rs type="properAdjective">Creole</rs> negroes</ecda:persGroup>, however, greatly
         disapproved of my venturing upon this dish, which
         they positively denied having tasted themselves;
         and when, at length, the <ecda:food ana="#fauna">Cat</ecda:food> was procured, last
@@ -8701,14 +8701,14 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
         into <placeName>Kingston</placeName>, and the conquering vessel is gone
         in search of <persName ref="#mitchell_0001">Captain Mitchell</persName>. If he does not fall
         in with him, and <emph rend="italic">we</emph> do, I fear that we shall stand
-        but with a bad chance; for he has <rs type="persGroup">one hundred men</rs> on
+        but with a bad chance; for he has <ecda:persGroup a-gender="male" a-occupation="pirate">one hundred men</ecda:persGroup> on
         board according to report, while we have not above
         thirty. However, the <rs ref="#boyes_0001">captain</rs> has harrangued them,
         represented the necessity of their fighting if attacked,
         as <persName ref="#mitchell_0001">Captain Mitchell</persName> is known to spare no
         one, high or low, and has engaged to give every
         man <measure ana="#currency">five guineas</measure> apiece, if a gun should be fired. 
-        The <rs type="persGroup">sailors</rs> promise bravery; whether their promises 
+        The <ecda:persGroup a-occupation="sailor">sailors</ecda:persGroup> promise bravery; whether their promises 
         will prove to be <ecda:food>pie-crust</ecda:food>, we must leave to
         be decided by time and <persName ref="#mitchell_0001">Captain Mitchell</persName>. In the
         mean while, every sail that appears on the horizon
@@ -8747,7 +8747,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
         by large inlets; and the sudden and violent
         squalls of wind to which the <placeName>Gulf</placeName> is subject, so
         frequently drive vessels into these perilous openings,
-        that it is worth the while of many of the <rs type="persGroup">poorer inhabitants</rs> of <placeName>Florida</placeName> to establish their
+        that it is worth the while of many of the <ecda:persGroup>poorer inhabitants</ecda:persGroup> of <placeName>Florida</placeName> to establish their
         habitations within the reef, and devote themselves
         and their small vessels entirely to the occupation
         <pb n="254"/>
@@ -8763,8 +8763,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
         ships under convoy had taken theirs down,) and
         turn completely over, the sails in the water 
         and the keep uppermost. It happened about four
-        o'clock in the afternoon: the <ecda:anonPers>captain</ecda:anonPers> and the <rs type="persGroup">passengers</rs>
-        were at dinner in the cabin; but as she went over very leisurely, they and the <rs type="persGroup">crew</rs> had
+        o'clock in the afternoon: the <ecda:anonPers>captain</ecda:anonPers> and the <ecda:persGroup>passengers</ecda:persGroup>
+        were at dinner in the cabin; but as she went over very leisurely, they and the <ecda:persGroup a-occupation="sailor">crew</ecda:persGroup> had
         time allowed theim to escape out of the windows
         and port-holes, and sustain themselves upon the
         rigging, till boats from the ships near them could
@@ -8826,7 +8826,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
            </lg>
            
            <lg>
-              <l>Oh! list my tale, <rs type="persGroup">fair maids</rs> of <placeName>Britain</placeName>!</l>
+              <l>Oh! list my tale, <ecda:persGroup a-gender="female">fair maids</ecda:persGroup> of <placeName>Britain</placeName>!</l>
               <l>This subject fain I'd try my wit on,</l>
               <l>And show the rock you're apt to split on:</l>
               <l>Then cry not—<said rend="quotes">Pish!</said>—</l>
@@ -8893,7 +8893,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
       <pb n="257"/>
       <fw type="pageNum">249</fw>
            <lg>
-              <l>Oh! mark, dear <rs type="persGroup">girls</rs>, the moral story</l>
+              <l>Oh! mark, dear <ecda:persGroup a-gender="female">girls</ecda:persGroup>, the moral story</l>
               <l>Of one, who breathes but to adore ye!</l>
               <l>Let no rash action mar your glory;</l>
               <l>But when you wish</l>
@@ -8907,7 +8907,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      <opener><dateline><date when="1816-04-20">April 20</date>.</dateline></opener>  
      <p>Two or three years ago, <rs type="person" ref="#boyes_0001">our captain</rs>, while his
         vessel was lying in <placeName>Black River Bay</placeName>, for the purpose
-        of loading, was informed by <rs type="persGroup">his sailors</rs>, that 
+        of loading, was informed by <ecda:persGroup a-occupation="sailor">his sailors</ecda:persGroup>, that 
         their <ecda:food ana="#fauna #transport #commodity">beef</ecda:food> and other <ecda:commodity ana="#food #transport">provisions</ecda:commodity> frequently disappeared
         in a very unaccountable manner. However,
         by setting up a strict watch during the night,
@@ -8938,7 +8938,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
   <div type="entry">
      <opener><dateline><date when="1816-04-23">April 23</date>.</dateline></opener>  
      <p>The <ecda:anonPers>old steward</ecda:anonPers>, this morning, told <ecda:anonPers>one of the
-        <rs type="persGroup">sailors</rs></ecda:anonPers>, who complained of being ill, that he would
+        <ecda:persGroup a-occupation="sailor">sailors</ecda:persGroup></ecda:anonPers>, who complained of being ill, that he would
         get well as soon as he should reach <placeName>England</placeName>, and
         could have plenty of <ecda:food ana="#flora">vegetables</ecda:food>; <said rend="quotes">for,</said> he said,
         <said rend="quotes">the man had only got a <distinct rend="italic" type="dialect">stomachick</distinct> complaint;
@@ -8963,8 +8963,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      <p>Many years ago, a new species of <ecda:fauna>grass</ecda:fauna> was imported 
      into <placeName>Jamaica</placeName>, by a <persName>Mr. Vassal</persName>, (to whom <rs type="place">an
       estate</rs> near <rs type="place">my house</rs> then belonged), as he said <said rend="quotes" direct="false">for
-      the purpose of feeding his <ecda:fauna>pigs</ecda:fauna> and his <rs type="persGroup">book-
-      keepers</rs>.</said> Its seeds being soon scattered about by 
+      the purpose of feeding his <ecda:fauna>pigs</ecda:fauna> and his <ecda:persGroup a-occupation="bookkeeper">book-
+      keepers</ecda:persGroup>.</said> Its seeds being soon scattered about by 
      <pb n="259"/>
      <fw type="pageNum">251</fw>
       the <ecda:fauna>birds</ecda:fauna>, it has taken possession of the <ecda:flora ana="#commodity #cultivation">cane-pieces</ecda:flora>,
@@ -9026,7 +9026,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
          morning the storm abated, and then we relapsed
          into our good old jog-trot pace of a knot an hour.
          Our passengers consist of a <persName ref="#walker_0001">Mrs Walker</persName> with her
-         <rs type="persGroup">two children</rs>, and a sick surgeon of the name of
+         <ecda:persGroup>two children</ecda:persGroup>, and a sick surgeon of the name of
          <persName ref="#ashman_0001">Ashman</persName>.
       </p>
    </div> 
@@ -9035,7 +9035,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
    <div type="entry">
       <opener><dateline><date when="1816-05-05">May 5</date>. <hi rend="mixed">(Sunday.)</hi></dateline></opener> 
     <p>We continue to proceed at such a <ecda:fauna>tortoise</ecda:fauna>-pace,
-       that it has been thought advisable to put the <rs type="persGroup">crew</rs>
+       that it has been thought advisable to put the <ecda:persGroup a-occupation="sailor">crew</ecda:persGroup>
        upon an allowance of <ecda:food>water</ecda:food>.       
     </p>   
    </div> 
@@ -9060,13 +9060,13 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
          one of them is an old woman named <persName ref="#mama_luna_0001">Mamma
          Luna</persName>, who having left a <ecda:food>pot</ecda:food> boiling in her hut,
          found it robbed on her return. Her suspicions
-         were divided between <rs type="persGroup">two children</rs> whom she 
-         found at play near her door, and <rs type="persGroup">some negroes</rs> who
-         had passed that way to market. The <rs type="persGroup">children</rs> denied
+         were divided between <ecda:persGroup>two children</ecda:persGroup> whom she 
+         found at play near her door, and <ecda:persGroup a-arc="negro">some negroes</ecda:persGroup> who
+         had passed that way to market. The <ecda:persGroup>children</ecda:persGroup> denied
          the theft positively. It was necessary for the 
       <pb n="263"/>
       <fw type="pageNum">254</fw>
-         <rs type="persGroup">negroes</rs>, in order to reach their own estate, to wade
+         <ecda:persGroup a-arc="negro">negroes</ecda:persGroup>, in order to reach their own estate, to wade
          through a river at that time almost dry; and on
          their return, <persName ref="#mamma_luna_0001">Mammy Luna</persName> (who it should seem,
             was not without some skill in witchcraft,) warned 
@@ -9108,14 +9108,14 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
             and to advance, till she reached the middle of the
             river's bed, when down came a tremendous flood,
             swept her away, and she never was heard of more;
-            while <persName ref="#mamma_luna_0001">Mammy Luna</persName> warned the <rs type="persGroup">other negroes</rs>
+            while <persName ref="#mamma_luna_0001">Mammy Luna</persName> warned the <ecda:persGroup a-arc="negro">other negroes</ecda:persGroup>
             never to take the property of another; always to
             tell the truth; and, at least, if they should be
             betrayed into telling a lie, not to persist in it,
             otherwise they must expect to perish like their
             companion. Observe, that a moral is always an
             indispensible part of a <title ref="#anansi_story">Nancy story</title>.</ecda:embLore> Another is
-            as follows: <ecda:embLore><quote rend="quotes"><rs type="persGroup">Two sisters</rs> had always lived together
+            as follows: <ecda:embLore><quote rend="quotes"><ecda:persGroup a-gender="female">Two sisters</ecda:persGroup> had always lived together
             on the best terms; but, on the death of <ecda:anonPers>one
             of them</ecda:anonPers>, the <ecda:anonPers>other</ecda:anonPers> treated very harshly a little
             <ecda:anonPers>niece</ecda:anonPers>, who had been left to her care, and made her
@@ -9192,7 +9192,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
                it was rude, because it reminded the <ecda:anonPers>old lady</ecda:anonPers> of
                what might be considered as a personal
                defect; and <seg ana="#obeah">it was dangerous, as, if such a circumstance
-               were to come to the ears of the <rs type="persGroup">buckras</rs>,
+               were to come to the ears of the <ecda:persGroup a-arc="buckra">buckras</ecda:persGroup>,
                it might bring her into trouble, women being
                   <pb/>   
             <fw type="pageNum">258</fw>    
@@ -9473,7 +9473,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
             <l>And her sole care to please the queen of heaven.</l>
             <l>None e'er approached her, save the pure and good:</l>
             <l>Her promised spouse; that <ecda:anonPers>monk</ecda:anonPers> who near them stood;</l>
-            <l>Her <ecda:anonPers>viceroy uncle</ecda:anonPers>, and some <rs type="persGroup">guardian nun</rs></l>
+            <l>Her <ecda:anonPers>viceroy uncle</ecda:anonPers>, and some <ecda:anonPers a-gender="female" a-occupation="nun" a-religion="catholic">guardian nun</ecda:anonPers></l>
             <l>Were all that she e'er had seen by moon or sun.</l>
             <l>No amarous forms, by wanted art designed,</l>
             <l>Had e'er inflamed her blood, or stained her mind:</l>
@@ -9514,7 +9514,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
              <l>To die or conquer by his sovereign's side</l>
              <l>He came; and with him came his destined bride.</l>  
              <l>E'en now in <placeName>Lisbon's</placeName> court for <persName ref="#irza_0001">Irza's</persName> hair</l>
-             <l><rs type="persGroup">Virgins</rs> the <ecda:flora>myrtle's</ecda:flora> nuptial crown prepare,</l>
+             <l><ecda:persGroup>Virgins</ecda:persGroup> the <ecda:flora>myrtle's</ecda:flora> nuptial crown prepare,</l>
              <l>And <persName ref="#hymen_0001">Hymen</persName> waves his torch from <placeName>Cintra's</placeName> towers,</l> 
              <l>Hails the dull bark, and chides the slow-winged hours.</l>
           </lg>
@@ -10204,7 +10204,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           <l>Hither, each morn, came <persName ref="#irza_0001">Irza</persName>; on those <ecda:flora>flowers</ecda:flora></l>
           <l>She wept, she pray'd,  she sang away her hours.</l>
           <l xml:id="a004" corresp="#n004">So mourns the <ecda:fauna>nightingale</ecda:fauna> on <ecda:flora>poplar spray</ecda:flora>*,</l>
-          <l>Her callow brood by <rs type="persGroup">shepherds</rs> borne away,</l>
+          <l>Her callow brood by <ecda:persGroup a-occupation="shepherd">shepherds</ecda:persGroup> borne away,</l>
           <l>Weeps all the night, and from her green retreat</l>
           <l>Fills the wide grove with warblings sad as sweet.</l>
         </lg>
@@ -10304,7 +10304,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
              <l>Echo the sound of fast approaching oars.</l>
             <pb/> 
         <fw type="pageNum">284</fw> 
-             <l>Oh! how she gazed!—a barge (by <rs type="persGroup">friars</rs> 't was mann'd)</l>
+             <l>Oh! how she gazed!—a barge (by <ecda:persGroup a-occupation="monk" a-gender="male" a-religion="catholic">friars</ecda:persGroup> 't was mann'd)</l>
              <l>Cut the smooth waves, and sought the rocky strand.</l>
              <l>Soon (while his wither'd hands a croiser hold,</l>
              <l>All rich with <ecda:commodity>gems</ecda:commodity>, and rough with <ecda:commodity>sculptured gold)</ecda:commodity>,</l>
@@ -10318,7 +10318,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
              <l>Well on the cliff her fair wild form discern'd,</l>
              <l>But deem'd some island-fiend had spread a snare</l>
              <l>To lure them with a form so wild and fair.</l>
-             <l>Yet oft in <placeName>Lisbon</placeName> would those <rs type="persGroup">seamen</rs> tell,</l>
+             <l>Yet oft in <placeName>Lisbon</placeName> would those <ecda:persGroup a-occupation="sailor">seamen</ecda:persGroup> tell,</l>
              <l>How angled for their souls the <rs type="person" ref="#lucifer_0001">prince of hell</rs>;</l>
              <l>And warmly paint, their leisure to beguile,</l>
              <l>The fallen angel of th' enchanted isle.</l>
@@ -10346,7 +10346,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           <lg>
              <l>Far off his ship was anchor'd; on that strand</l>
              <l>Not <placeName>India's</placeName> wealth could make a layman land!</l>
-             <l>Therefore with none but <rs type="persGroup">monks</rs> he mann'd his barge,</l>
+             <l>Therefore with none but <ecda:persGroup a-occupation="monk" a-gender="male" a-religion="catholic">monks</ecda:persGroup> he mann'd his barge,</l>
              <l>Which bore of beads and bells a sacred charge;</l>
              <l>Whole heaps of relics lent by <placeName>Cintra's</placeName> nuns,</l>
              <l>And holy water (blest at <placeName>Rome</placeName>) by tons!</l>
@@ -10389,7 +10389,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           <lg>
            <head>XII.</head>  
             <lg>
-             <l>The <rs type="persGroup">monks</rs> obeyed. Then, in <persName ref="#irza_0001">Irza's</persName> soul</l>
+             <l>The <ecda:persGroup a-religion="catholic" a-gender="male" a-occupation="monk">monks</ecda:persGroup> obeyed. Then, in <persName ref="#irza_0001">Irza's</persName> soul</l>
              <l>What various passions raged, and mock'd control!</l>
              <l>Now how she mourn'd, now how she wept for joy,</l>
              <l>How loathed the <ecda:anonPers>sire</ecda:anonPers>, and how adored the <ecda:anonPers>boy</ecda:anonPers>!</l>
@@ -10404,7 +10404,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
              <l>His arms he spread, his hands he clasp'd in prayer;</l>
              <l>Knelt, wept, and while his eye-balls seem'd to burn,</l>
              <l>Oft show'd the <ecda:anonPers>child</ecda:anonPers>, and woo'd her to return.</l>
-             <l>His suit the <rs type="persGroup">monks</rs> disdain; the barge recedes;</l>
+             <l>His suit the <ecda:persGroup a-occupation="monk" a-gender="male" a-religion="catholic">monks</ecda:persGroup> disdain; the barge recedes;</l>
              <l>More humbly now he kneels, more earnest pleads.</l>
              <l>But when he found no tears their course delay,</l>
              <l>And still the boat pursued its watery way;</l>
@@ -10418,7 +10418,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
              <l>And silent lifts to heav'n her clay-cold hands:</l>
              <l>Then, sinking down, stretch'd on the deck she lies,</l>
              <l>Hid her pale face, and closed her aching eyes.</l>
-             <l>But hark! why should the <rs type="persGroup">monks</rs>? <said rend="quotes">Again,</said> they said,</l>
+             <l>But hark! why should the <ecda:persGroup a-religion="catholic" a-gender="male" a-occupation="monk">monks</ecda:persGroup>? <said rend="quotes">Again,</said> they said,</l>
              <l><said rend="quotes">Again the <ecda:anonPers>demon</ecda:anonPers> comes!</said> with desperate dread</l>
              <l>Starts the poor wretch, and lifts her anguish'd head.</l>
              <l>Yes! there the <ecda:anonPers>infant-murderer</ecda:anonPers> stood once more,</l>
@@ -10620,7 +10620,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
             the guardianship of the child devolved upon his
             <ecda:anonPers>sister</ecda:anonPers>, who had always resided in the same house,
             and who was her only surviving relation. Her
-            mother, indeed, had left <rs type="persGroup">two sons</rs> by a former <ecda:anonPers>husband</ecda:anonPers>,
+            mother, indeed, had left <ecda:persGroup a-gender="male">two sons</ecda:persGroup> by a former <ecda:anonPers>husband</ecda:anonPers>,
             but they lived at some distance in the wood,
             and seldom came to see their <ecda:anonPers>mother</ecda:anonPers>; chiefly from
             a rooted aversion to this <ecda:anonPers>aunt</ecda:anonPers>; who, although from
@@ -10687,7 +10687,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
             master, that she had but faint hopes of its reaching
             any ear but her own. Such was, indeed, the event,
             and <ecda:fauna><name>Tiger</name></ecda:fauna> conveyed her to his den withouth molestation.
-            In the meanwhile, her <rs type="persGroup">two half-brothers</rs>
+            In the meanwhile, her <ecda:persGroup a-gender="male">two half-brothers</ecda:persGroup>
             had heard of their <ecda:anonPers>mother's</ecda:anonPers> death, and soon arrived
             at the house to enquire what was become of 
             <persName ref="#sarah_winyan_0001">Sarah</persName>. The <ecda:anonPers>aunt</ecda:anonPers> received them with every appearance
@@ -10695,7 +10695,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
             of her only surviving <ecda:anonPers>parent</ecda:anonPers> had already carried
             her niece to the grave, which she showed them in
             her garden; and acted her part so well, that the
-            <rs type="persGroup">youths</rs> departed perfectly satisfied of the decease
+            <ecda:persGroup a-gender="male">youths</ecda:persGroup> departed perfectly satisfied of the decease
             of their <ecda:anonPers>sister</ecda:anonPers>. But while passing through the
             wood on their return, they heard some one singing,
             but in so low a tone that it was impossible to
@@ -10724,7 +10724,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
             escape; and when she had taken advantage of his slumber
             to resume her song in as low a tone as her
             fears of waking him would allow. She saw her 
-            <rs type="persGroup">brothers</rs> at the mouth of the cave: the <ecda:anonPers>youngest</ecda:anonPers>
+            <ecda:persGroup a-gender="male">brothers</ecda:persGroup> at the mouth of the cave: the <ecda:anonPers>youngest</ecda:anonPers>
             fortunately had a gun with him, and he made signs
             that <persName ref="#sarah_winyan_0001">Sarah</persName> should disengage herself from <ecda:fauna><name>Tiger</name></ecda:fauna> if
             possible. It was long before she could summon
@@ -10739,19 +10739,19 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
             the <ecda:anonPers>youngest brother</ecda:anonPers> crept as softly into it: the
             monster's head still reposed upon the block of 
             wood; in a moment it was blown into a thousand 
-            pieces; and the <rs type="persGroup">brothers</rs>, afterwards cutting the
+            pieces; and the <ecda:persGroup a-gender="male">brothers</ecda:persGroup>, afterwards cutting the
             body into four parts, laid each one in a quarter of
             the wood.         
             </p>
          </quote></ecda:embLore>
       <p><ecda:embLore xml:id="l0004" prev="l0003">From that time only were <ecda:fauna>dogs</ecda:fauna> brought into
-         subjection to men; and the <rs type="persGroup">inhabitants of <placeName>Jamaica</placeName></rs>
+         subjection to men; and the <ecda:persGroup>inhabitants of <placeName>Jamaica</placeName></ecda:persGroup>
          would never have been able to subdue 
          those ferocious <ecda:fauna>animals</ecda:fauna>, if <ecda:fauna><name>Tiger</name></ecda:fauna> had not been
-         killed and quartered by <persName ref="#sarah_winyan_0001">Sarah Winyan's</persName> <rs type="persGroup">brothers</rs>.
+         killed and quartered by <persName ref="#sarah_winyan_0001">Sarah Winyan's</persName> <ecda:persGroup a-gender="male">brothers</ecda:persGroup>.
          As to the <ecda:anonPers>aunt</ecda:anonPers>, she received the punishment which
          she merited, but I cannot remember what it was
-         exactly. Probably, the <rs type="persGroup">brothers</rs> killed and quartered
+         exactly. Probably, the <ecda:persGroup a-gender="male">brothers</ecda:persGroup> killed and quartered
          <emph rend="italic">her</emph> as well as her four-footed ally: or, perhaps,
          she was turned into a <ecda:fauna>wild beast</ecda:fauna>, and supplied
          the vacancy left by <ecda:fauna><name>Tiger</name></ecda:fauna></ecda:embLore>, as was the case with the
@@ -10766,7 +10766,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
          into the body of the <ecda:fauna>hyena</ecda:fauna>. Yet this was surely
          doing the <ecda:fauna>hyena</ecda:fauna> great inustice; for she, at least,
          had never been in the habit of composing ointments
-         by pounding little <rs type="persGroup">children</rs> in a mortar with
+         by pounding little children in a mortar with
          her own hands; an amusement which <persName ref="#anna_nzinga_1583">Zingha</persName> had 
          <pb/> 
          <fw type="pageNum">296</fw> 
@@ -10860,7 +10860,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
          but <persName ref="#walker_0001">Mrs Walker</persName> was soked through from head to
          foot. We can only cross the cabin by creeping
          along by the sides as if we were so many <ecda:fauna>cats</ecda:fauna>. 
-         Walking the deck, even for the <rs type="persGroup">sailors</rs>, is absolutely
+         Walking the deck, even for the <ecda:persGroup a-occupation="sailor">sailors</ecda:persGroup>, is absolutely
          out of the question; and the little <rs type="person" ref="#jem_parsons_0001">cabin-boy</rs> has
          so fairly given up on the attempt, that he goes crawling
          about upon all fours. Even our <ecda:fauna><rs type="properAdjective">Spanish</rs> mastiff, 
@@ -10991,7 +10991,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
            to you. You are going to court, I know;
            and I know also, that the <ecda:anonPers>headman</ecda:anonPers> will chop off
            your head, unless at first sight you can tell him
-           which of his <rs type="persGroup">three daughters</rs> is the youngest.
+           which of his <ecda:persGroup a-gender="female" a-occupation="princess">three daughters</ecda:persGroup> is the youngest.
            Now I am she; and in order that you may not
            mistake, I will take care to make a sign; and then
            do not you fail to pitch upon me.</said> The <ecda:anonPers>young
@@ -11000,7 +11000,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
            and then set forwards with a lightened heart. The
            <ecda:anonPers>headman</ecda:anonPers> received him very graciously, feasted
            him with magnificence, and told him that he
-           would present him to his <rs type="persGroup">three daughters</rs>, only
+           would present him to his <ecda:persGroup a-gender="female" a-occupation="princess">three daughters</ecda:persGroup>, only
            that there was a slight rule respecting them to
            which he must conform. Whoever could not
            point out which was the youngest, must immediately
@@ -11016,7 +11016,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
            <fw type="pageNum">303</fw>  
            <said rend="quotes">This,</said> cried the youth—<said rend="quotes">this is your <ecda:anonPers>youngest
            daughter</ecda:anonPers>;</said>—and instantly the <ecda:fauna>dogs</ecda:fauna> vanished, and
-           <rs type="persGroup">three young women</rs> apepared in their stead.
+           <ecda:persGroup a-gender="female" a-occupation="princess">three young women</ecda:persGroup> apepared in their stead.
            The <ecda:anonPers>headman</ecda:anonPers> was equally surprised and incensed;
            but concealing his rage, he professed the more 
            pleasure at that discovery; because, in consequence,
@@ -11074,7 +11074,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
            cried he, snatching up the <ecda:fauna>cat</ecda:fauna> with the blue thread.
            The <ecda:anonPers>headman</ecda:anonPers> was utterly at a loss to conceive by 
            what means he had made the discovery; but could
-           not deny the fact, for there stood the <rs type="persGroup">princesses</rs> in 
+           not deny the fact, for there stood the <ecda:persGroup a-gender="female" a-occupation="princess">princesses</ecda:persGroup> in 
            <pb/> 
            <fw type="pageNum">305</fw>    
            their own shape. He therefore affected to be
@@ -11120,7 +11120,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
            a rock as lofty as the <placeName>Andes</placeName>. But the <placeName>Andes</placeName> 
            themselves would have offered no insurmountable
            obstacles to <ecda:fauna><name>Dandy</name></ecda:fauna>, who bounded from precipice
-           to precipice; and the <rs type="persGroup">lovers</rs> and the <ecda:anonPers>headman</ecda:anonPers>
+           to precipice; and the <ecda:persGroup a-gender="mixed">lovers</ecda:persGroup> and the <ecda:anonPers>headman</ecda:anonPers>
            could once moe clearly distinguish each other by
            the first beams of the rising sun. The <ecda:anonPers>headman</ecda:anonPers>
            roared, and threatened, and brandished a monstrous
@@ -11135,22 +11135,22 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
            away among the rest.—<quote rend="quotes" source="#virgil_aeneid"><foreign rend="italic" xml:lang="la">Hic finis <persName ref="#priam_0001">Priami</persName> fatorum</foreign>!</quote>
            There was an end to the <ecda:anonPers>headman</ecda:anonPers> and <ecda:fauna><name>Dandy</name></ecda:fauna>!
            The <ecda:anonPers>princess</ecda:anonPers> then returned to court, where she
-           raised a strong party for herself;seized her <rs type="persGroup">two
-           sisters</rs>, who were no better than their <ecda:anonPers>father</ecda:anonPers>, and
+           raised a strong party for herself;seized her <ecda:persGroup a-gender="female" a-occupation="princess">two
+           sisters</ecda:persGroup>, who were no better than their <ecda:anonPers>father</ecda:anonPers>, and
            had assisted him in his witchcraft; and having put 
-           them and <rs type="persGroup">all their partisans</rs> to death by a summary
+           them and <ecda:persGroup>all their partisans</ecda:persGroup> to death by a summary
            <pb/> 
            <fw type="pageNum">307</fw> 
            mode of proceeding, she established herself and 
            her <ecda:anonPers>husband</ecda:anonPers> on the throne as headman and headwoman.
-           It was from this time that <emph rend="italic">all</emph> the <rs type="persGroup">kings
-           of <placeName>Africa</placeName></rs> have been uniformly mild and benevolent
+           It was from this time that <emph rend="italic">all</emph> the <ecda:persGroup a-occupation="king">kings
+           of <placeName>Africa</placeName></ecda:persGroup> have been uniformly mild and benevolent
            sovereigns. Till then they were all tyrants, and
            tyrants they would still have continued, if this
            <ecda:anonPers>virtuous princess</ecda:anonPers> had not changed the face of
-           things by drowning her <ecda:anonPers>father</ecda:anonPers>, strangling her <rs type="persGroup">two 
-           sisters</rs>, and chopping off the heads of <rs type="persGroup">two or three
-           dozen of her nearst and dearest relations</rs>. 
+           things by drowning her <ecda:anonPers>father</ecda:anonPers>, strangling her <ecda:persGroup a-occupation="princess" a-gender="female">two 
+           sisters</ecda:persGroup>, and chopping off the heads of <ecda:persGroup>two or three
+           dozen of her nearst and dearest relations</ecda:persGroup>. 
         </quote>  
         </ecda:embLore>
         </p>
@@ -11163,9 +11163,9 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
            bear the same relation to a <title ref="#anansi_story">Nancy-story</title> which a farce
            does to a tragedy. The following is a specimen:―</ecda:embLore>
         </p>
-      <ecda:embLore xml:id="l0001" prev="l0002"><p><label rend="italic">A Neger-trick</label>—<quote rend="quotes">A <ecda:anonPers>man</ecda:anonPers> who had <rs type="persGroup">two wives</rs>
+      <ecda:embLore xml:id="l0001" prev="l0002"><p><label rend="italic">A Neger-trick</label>—<quote rend="quotes">A <ecda:anonPers>man</ecda:anonPers> who had <ecda:persGroup a-gender="female">two wives</ecda:persGroup>
           divide his provision-grounds into two parts, and
-          proposed that each of the <rs type="persGroup">women</rs> should cultivate
+          proposed that each of the <ecda:persGroup a-gender="female">women</ecda:persGroup> should cultivate
           one half. They were ready to do their proper share,
           but insisted that the <ecda:anonPers>husband</ecda:anonPers> should at least take
           his third of the work. However, when they were
@@ -11173,7 +11173,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           it impossible to move; he quite roared with pain,
           and complained bitterly of a large lump which had
           formed itself on his cheek during the night. the
-          <rs type="persGroup">wives</rs> did what they could to relieve him, but in
+          <ecda:persGroup a-gender="female">wives</ecda:persGroup> did what they could to relieve him, but in
           vain; they boiled a <ecda:food ana="#medical">negro-pot</ecda:food> for him, but he was 
           <pb/> 
           <fw type="pageNum">308</fw>  
@@ -11183,7 +11183,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           gone, the <ecda:anonPers>husband</ecda:anonPers> became perfectly well, emptied
           the contents of the <ecda:food>pot</ecda:food> with great appetite, and
           enjoyed himself in ease and indolence till evening,
-          when he saw his <rs type="persGroup">wives</rs> returning; and immediately
+          when he saw his <ecda:persGroup a-gender="female">wives</ecda:persGroup> returning; and immediately
           he became worse than ever. <ecda:anonPers>One of the women</ecda:anonPers>
           was quite shocked to see the size to which the
           lump had increased during her absence: she begged
@@ -11196,7 +11196,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           happened to hit him a great knock on the 
           jaw, and, lo and behold! out flew a large <ecda:flora ana="#food">lime</ecda:flora>,
           which he had crammed into it. Upon which both
-          his <rs type="persGroup">wives</rs> fell upon him like two furies; beat him
+          his <ecda:persGroup a-gender="female">wives</ecda:persGroup> fell upon him like two furies; beat him
           out of the house; and whenever afterwards he
           begged them to go to the <rs type="place">provision-grounds</rs>, they
           told him that he had got no <ecda:flora ana="#food">lime</ecda:flora> in his mouth
@@ -11217,7 +11217,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
         <p>We once more saw the <placeName rend="quotes">Lizard</placeName>, the first point
            of <placeName>England</placeName>; and, indeed, it was full time that we
            should. Besides that our provisions were nearly
-           exhausted by the length of the voyage, our <rs type="persGroup">crew</rs>
+           exhausted by the length of the voyage, our <ecda:persGroup a-occupation="sailor">crew</ecda:persGroup>
            was in a great measure composed of fellows of the
            most worthless description; and the <rs type="person" ref="#boyes_0001">captain</rs> lately
            discovered that some of them had contrived to
@@ -11418,10 +11418,10 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
          had never been on board a ship before; and with
          every crack which the vessel gave, he thought that
          to be sure, she was splitting right in half. <seg ana="#disease">The
-         <rs type="persGroup">sailors</rs>, too, appeared to be quite knocked up from
+         <ecda:persGroup a-occupation="sailor">sailors</ecda:persGroup>, too, appeared to be quite knocked up from
          the unremitting fatigue to which they were subjected
          by the perseverence of this dreadful weather.
-         <rs type="persGroup">Several of them</rs> were ill; and <ecda:anonPers>one poor fellow</ecda:anonPers> 
+         <ecda:persGroup a-occupation="sailor">Several of them</ecda:persGroup> were ill; and <ecda:anonPers>one poor fellow</ecda:anonPers> 
          actually died, and was committeed to the ocean.</seg>
          To make matters still worse, during the first week
           the wind was as foul as it could blow; and we
@@ -11509,7 +11509,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
          voyage was only broken by an occasional thunder-
          storm, the catching a stray <ecda:fauna>dolphin</ecda:fauna> now and then,
          watching a shoal of <ecda:fauna>flying fish</ecda:fauna>, or guessing at the 
-         complexion of the <rs type="persGroup">corsairs</rs> on board some vessel in
+         complexion of the <ecda:persGroup a-occupation="pirate">corsairs</ecda:persGroup> on board some vessel in
          the offing: for the <placeName>Caribbean Sea</placeName> is now dabbed
          <pb/> 
          <fw type="pageNum">318</fw>
@@ -11601,10 +11601,10 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
        the general behaviour of my <rs type="persGroup">negroes</rs> is reasonably
        good, and they all express themselves satisfied
        with their situation and their superintendents. Yet,
-       among upwards of <rs type="persGroup">three hundred and thirty 
-       negores</rs>, and with a greater number of females than
+       among upwards of <ecda:persGroup a-gender="mixed" a-arc="negro" a-status="enslaved">three hundred and thirty 
+       negores</ecda:persGroup>, and with a greater number of females than
        men, in spite of all indulgences and inducements,
-       not more than <rs type="persGroup">twelve or thirteen children</rs> have
+       not more than <ecda:persGroup a-status="enslaved">twelve or thirteen children</ecda:persGroup> have
        been added annually to the list of the births. On 
        the other hand, this last season has been generally
        unhealthy all over the island, and more particularly
@@ -11619,16 +11619,16 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
        upon their being born, into a tub of cold
        water, infallibly preserved them from the danger of
        tetanus, that, on leaving <placeName>Jamaica</placeName>, I had ordered this
-       practice to be adopted uniformly. The <rs type="persGroup">negro
-       mothers</rs>, however, took a prejudice against it into
+       practice to be adopted uniformly. The <ecda:persGroup a-status="enslaved" a-arc="negro" a-gender="female">negro
+       mothers</ecda:persGroup>, however, took a prejudice against it into
        their heads, and have been so obstinate in their 
        opposition, that it was thought unadvisable to attempt 
        the enforcing this regulation. From this
-       and other causes I have lost several <rs type="persGroup">infants</rs>; but
+       and other causes I have lost several <ecda:persGroup a-status="enslaved">infants</ecda:persGroup>; but
        I am told, that on other estates in the neighbourhood
        they have been still more unfortuante in
-       regard to their <rs type="persGroup">children;</rs> and one was named to me,
-       on which <rs type="persGroup">sixteen</rs> were carried off in the course of 
+       regard to their <ecda:persGroup a-status="enslaved">children;</ecda:persGroup> and one was named to me,
+       on which <ecda:persGroup a-status="enslaved">sixteen</ecda:persGroup> were carried off in the course of 
        three days.</seg> 
     </p>
     </div>   
@@ -11639,11 +11639,11 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
          for a holiday. They set themselves to singing
          and dancing yesterday, in order to lose no time;
          and to show their gratitude for the indulgence, not
-         one of the <rs type="persGroup">five pen-keepers</rs> chose to go to their
+         one of the <ecda:persGroup a-status="enslaved" a-occupation="penkeeper">five pen-keepers</ecda:persGroup> chose to go to their
          watch last night; the consequence was, that the 
          <ecda:fauna>cattle</ecda:fauna> made their escape, and got into one of my 
          very best <ecda:flora ana="#commodity #cultivation">cane-pieces</ecda:flora>. The alarm was given;
-         my own <rs type="persGroup">servants</rs> and some of the <rs type="persGroup">head people</rs> had
+         my own <ecda:persGroup a-occupation="servant">servants</ecda:persGroup> and some of the <ecda:persGroup>head people</ecda:persGroup> had
          <pb/> 
          <fw type="pageNum">322</fw>
          grace enough to run down to the scene of action;
@@ -11750,17 +11750,17 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           <p>It appears to me that nothing could afford so
              much relief to the <rs type="persGroup">negroes</rs>, under the existing 
              system of <placeName>Jamaica</placeName>, as the substituting the labour
-             of <ecda:fauna>animals</ecda:fauna> for that of <rs type="persGroup">slaves</rs> in agriculture, where-
+             of <ecda:fauna>animals</ecda:fauna> for that of <ecda:persGroup a-status="enslaved">slaves</ecda:persGroup> in agriculture, where-
              <pb/> 
              <fw type="pageNum">325</fw> 
              ever such a measure is practicable. On leaving
              the island, I impressed this wish of mine upon the
-             minds of <rs type="persGroup">my agents</rs> with all my power; but the
+             minds of <ecda:persGroup a-occupation="agent">my agents</ecda:persGroup> with all my power; but the
              only result has been the creating of a very considerable
              additional expense in the purchase of 
              <ecda:commodity ana="#use #sale">ploughs</ecda:commodity>, <ecda:fauna ana="#commodity #sale">oxen</ecda:fauna>, and <ecda:commodity ana="#use #sale">farming implements</ecda:commodity>; the awkwardness,
              and still more the obstinacy, of the few
-             <rs type="persGroup">negroes</rs>, whose services were indispensable, was
+             <ecda:persGroup a-status="enslaved" a-arc="negro">negroes</ecda:persGroup>, whose services were indispensable, was
              not to be overcome: they broke <ecda:commodity ana="#use">plough</ecda:commodity> after 
              <ecda:commodity ana="#use">plough</ecda:commodity>, and ruined <ecda:fauna ana="#commodity">beast</ecda:fauna> after <ecda:fauna ana="#commodity">beast</ecda:fauna>, till the attempt
              was abandoned in despair. However, it was
@@ -11799,7 +11799,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
        <div type="entry">
           <opener><dateline><date when="1818-01-31">January 31</date>.</dateline></opener>   
           <p ana="#medical #injury">Some days ago, a <ecda:anonPers>negro woman</ecda:anonPers>, who had lost
-             <rs type="persGroup">four children</rs>, and has always been a most affectionate 
+             <ecda:persGroup a-status="enslaved">four children</ecda:persGroup>, and has always been a most affectionate 
              mother, brought the fifth, a remarkably fine
              <ecda:anonPers>infant</ecda:anonPers>, into the <rs type="place">hospital</rs>. She complained of its
              having caught cold, a fever, and so on; but
@@ -11841,7 +11841,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
              accompanied with dancing, singing, drinking,
              eating, and riot of all kinds; and the <ecda:anonPers>father</ecda:anonPers>,
              although the kindest-hearted negro on my estate,
-             and remarkably fond of <rs type="persGroup">his children</rs>, danced and
+             and remarkably fond of <ecda:persGroup a-status="enslaved">his children</ecda:persGroup>, danced and
              drank to such an excess, that <seg ana="#disease #medical">I found him on the
              following morning in a raging fever, and worse
              than he was when he first entered the <rs type="place">hospital</rs>.
@@ -11965,14 +11965,14 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
            lamentations of the poor <ecda:anonPers>mother</ecda:anonPers>, who, on coming
            to the <rs type="place">hospital</rs> to enquire for her <ecda:anonPers>son</ecda:anonPers>, found, that
            in spite of all possible care and exertions on the
-           part of his <rs type="persGroup">medical attendants</rs>, he had just expired.
+           part of his <ecda:persGroup a-occupation="medical_attendant">medical attendants</ecda:persGroup>, he had just expired.
            Whether it be the climate not agreeing with their
            <rs type="properAdjective">African</rs> blood (genuine or inherited), or whether
            it be from some defect in their general formation,
            certainly <rs type="persGroup">negroes</rs> seem to hold their lives upon a
            very precarious tenure. <persName ref="#nicholas_cameron_0001">Nicholas</persName>, <persName ref="#john_fuller_0001">John Fuller</persName>, and
-           <rs type="persGroup">others of my best and most favoured workmen, the 
-           very servants, too, in my own house</rs>, are perpetually
+           <ecda:persGroup a-status="enslaved" a-gender="male" a-arc="negro">others of my best and most favoured workmen</ecda:persGroup>, the 
+           very <ecda:persGroup a-occupation="servant" a-arc="negro">servants</ecda:persGroup>, too, in my own house, are perpetually
            falling ill with little fevers, or colds, or pains
            in the head or limbs. However, the season is 
            universally allowed to have been peculiarly unhealthy
@@ -12617,8 +12617,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           <opener><dateline><date when="1818-02-25">February 25</date>.</dateline></opener>  
           <p ana="#obeah #punishment #poison">A negro, named <persName ref="#adam_0002">Adam</persName>, has long been the terror
              of my whole estate. He was accused of being an
-             <rs type="properAdjective">Obeah</rs>-man, and <rs type="persGroup">persons notorious for the practice
-             of <name>Obeah</name></rs> had been found concealed from justice
+             <rs type="properAdjective">Obeah</rs>-man, and <ecda:persGroup>persons notorious for the practice
+             of <name ana="#obeah">Obeah</name></ecda:persGroup> had been found concealed from justice
              in his house, who were afterwards convicted and
              transported. He was strongly suspected of having
             poisoned more than <rs type="persGroup">twelve negroes, men and
@@ -13610,7 +13610,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           <p>During the whole three weeks of my absence, 
              only <rs type="persGroup">two negroes</rs> have been complained of for
              committing fault. The first was a domestic quarrel
-             between two <name>Africans</name>; <persName ref="#hazard_0001">Hazard</persName> stole <persName ref="#frank_0001">Frank's</persName> calabash
+             between <ecda:persGroup a-gender="male" a-nationality="african">two <name>Africans</name></ecda:persGroup>; <persName ref="#hazard_0001">Hazard</persName> stole <persName ref="#frank_0001">Frank's</persName> calabash
              of sugar, which <persName ref="#frank_0001">Frank</persName> had previously stolen
              out of my boiling-house. So <persName ref="#frank_0001">Frank</persName> broke <persName ref="#hazard_0001">Hazard's</persName>
              head, which in my opinion settled the matter so 
