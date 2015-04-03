@@ -31,7 +31,7 @@
     <text>
         <ecda:hyperDiv>
             <ecda:notes>
-                <note xml:id="n001" target="#a001">Author of <title>Caroline de Lichtfeld</title>.</note>
+                <note xml:id="n001" target="#a001">Author of <title ref="#montolieu_caroline">Caroline de Lichtfeld</title>.</note>
                 <note xml:id="n002" target="#a002">*This declaration was taken from the lips of a celebrated character.</note>
             </ecda:notes>
         </ecda:hyperDiv>
@@ -47,7 +47,7 @@
                 <titlePart type="ed" rend="italic">Fourth Edition</titlePart>
                 <titlePart type="desc">Corrected and Improved.</titlePart>
                 <epigraph rend="mixed">
-                    <quote>
+                    <quote source="#lyttleton_monody">
                         <lg>
                             <l rend="prequotes">A prudence undeceiving, undeceived,</l>
                             <l rend="prequotes">That nor too little, nor too much believed;</l>
@@ -55,7 +55,7 @@
                             <l rend="quotes">And without weakness knew to be sincere.</l>
                         </lg>
                     </quote>
-                    <bibl><author><persName>Lord Lyttelton's</persName></author> <title rend="italic">Monody on his Wife</title>.</bibl>
+                    <bibl><author><persName ref="george_lyttleton_1709">Lord Lyttelton's</persName></author> <title rend="italic">Monody on his Wife</title>.</bibl>
                 </epigraph>
                 <docImprint>
                     <pubPlace><placeName>London</placeName></pubPlace>: Printed for <docRole type="publisher"><persName>R. Hunter</persName></docRole>,
@@ -75,8 +75,8 @@
                     classification that is presented.</p>
                 <p>The following work is offered to the public as a Moral Tale—the author
                     not wishing to acknowledge a Novel. Were all novels like those of
-                    <persName ref="#de_crousaz" xml:id="a001" corresp="#n001">Madame de Crousaz</persName>*, <persName>Mrs.
-                    Inchbald</persName>, <persName>Miss Burney</persName>, or <persName>Dr. Moore</persName>,
+                    <persName ref="#isabelle_de_montolieu_1751" xml:id="a001" corresp="#n001">Madame de Crousaz</persName>*, <persName ref="#elizabeth_inchbald_1753">Mrs.
+                    Inchbald</persName>, <persName ref="#frances_burney_1752">Miss Burney</persName>, or <persName>Dr. Moore</persName>,
                     
                     <pb/>
                     
@@ -5439,7 +5439,7 @@ be down stairs in three minutes.</said>
          
          
          
-         <quote>― —
+         <quote source="#shakespeare_caesar">― —
              <lg>
                  <l rend="prequotes">Darest thou, <persName ref="#rochfort_0001">Rochfort</persName>, now</l>
                  <l rend="prequotes">Leap in with me into this <ecda:flora>weedy</ecda:flora> flood.</l>
@@ -5566,7 +5566,7 @@ be down stairs in three minutes.</said>
            geinusses—You're a famous fellow, faith,
            to want to see youreslf in print—I'll publish
            this in <placeName>Bond-street</placeName>—damn it, in point
-           of famousness, I'd sport my <name>Random</name>
+           of famousness, I'd sport my Random
            against all the books that were ever read
            or written, damn me—but what are we
            doing here?</said> <said><persName ref="#ch">Hervey's</persName> in good hands,</said>
@@ -5990,7 +5990,7 @@ be down stairs in three minutes.</said>
                    <ecda:fauna>fishes</ecda:fauna> to <ecda:fauna>birds</ecda:fauna>; he spoke of the <rs type="properAdjective">Roman</rs>
                    aviaries, which were so constructed, as to
                    eep from the sight of the prisoners that
-                   they contained, <quote rend="quotes">the fields, woods, and
+                   they contained, <quote rend="quotes" source="#history_birds">the fields, woods, and
                    every object which might remind them of
                    their former liberty</quote>. From <ecda:fauna>birds</ecda:fauna> he was
                    going on to <ecda:fauna>beasts</ecda:fauna>, when he was nearly 
@@ -6182,7 +6182,7 @@ be down stairs in three minutes.</said>
              </p> 
              <p><said>Such a mother was never heard of,</said>
                continued <persName ref="#margaret_delacour_0001">Mrs. Delacour</persName>, <said>since the
-               days of <persName>Savage</persName> and <persName>lady Macclesfield</persName>.—I
+               days of <persName ref="#richard_savage_1697">Savage</persName> and <persName ref="#anna_macclesfield_1665">lady Macclesfield</persName>.—I
                am convinced that she <emph>hates</emph> her daughter.
                —Why she never speaks of her—she
                never sees her—she never thinks of her!</said>  
@@ -6880,7 +6880,7 @@ be down stairs in three minutes.</said>
             ground, which the slow don would have
             taken some hours to go regularly over,
             our hero traversed in a few minutes.—
-            From <persName>Twiss</persName> to <persName ref="#marco_vida_1485">Vida</persName>, from <persName>Irwin</persName> to <persName>sir
+            From <persName ref="#richard_twiss_1747">Twiss</persName> to <persName ref="#marco_vida_1485">Vida</persName>, from <persName>Irwin</persName> to <persName ref="#william_jones_1747">sir
             William Jones</persName>, from <placeName>Spain</placeName> to <placeName>India</placeName>, he
             passed with admirable celerity, and seized
             all that could adorn his course from <rs type="properAdjective">Indian</rs> 
@@ -6893,7 +6893,7 @@ be down stairs in three minutes.</said>
             Delacour</persName> loudly applauded, and <persName ref="#bp">Belinda</persName>
             silently approved.—<persName ref="#ch">Clarence</persName> was elated.
             —the <ecda:anonPers><rs type="properAdjective">Spanish</rs> gentleman</ecda:anonPers>, to whom he
-            had just quoted a case in point from <persName>Vida's</persName>
+            had just quoted a case in point from <persName ref="#marco_vida_1485">Vida's</persName>
             <title>Sacchia</title>, asked him if he were as perfect
             in the practice as in the theory of the game
             of chess. <persName ref="#ch">Clarence</persName> was too proud of excelling
