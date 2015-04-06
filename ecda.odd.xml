@@ -859,21 +859,24 @@
                 </datatype>
                 <valList type="open"/>
              </attDef>
-             <attDef ident="a-nationality">
+             <attDef ident="a-aig">
                 <datatype>
                    <rng:ref name="data.enumerated"/>
                 </datatype>
-                <valList type="open"/>
+                <valList type="semi">
+                  <valItem ident="maroon"/>
+                  <valItem ident="creole"/>
+                </valList>
              </attDef>
             <attDef ident="a-status">
               <datatype>
-                <rng:ref name="status"/>
+                <rng:ref name="data.enumerated"/>
               </datatype>
               <valList type="semi">
                 <valItem ident="enslaved"/>
                 <valItem ident="indentured"/>
                 <valItem ident="free"/>
-                <valItem ident="maroon"/>
+                <valItem ident="runaway"/>
               </valList>
             </attDef>
           </attList>
