@@ -24,6 +24,7 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
+      <change who="ED EH EP JN SC SS" when="2015-03-06">edited some persData changes</change>
       <change who="ED EH SC SS" when="2015-03-23">Changed some attribute values for persData class</change>
        <change who="EH" when="2015-03-23">Added attribute classes for <gi>persGroup</gi></change>
       <change who="SS" when="2015-03-05">Added <gi>ecda:persGroup</gi></change>
@@ -842,12 +843,6 @@
               <valList type="open"/>
             </attDef>
              <attDef ident="a-occupation">
-                <datatype>
-                   <rng:ref name="data.enumerated"/>
-                </datatype>
-                <valList type="open"/>
-             </attDef>
-             <attDef ident="a-ethnicity">
                 <datatype>
                    <rng:ref name="data.enumerated"/>
                 </datatype>
