@@ -49,6 +49,10 @@
                     from their houses when asleep. Wars in Africa are much encouraged by the
                     Europeans, and particularly the Duth and English, and the number of slaves
                     annually exported, are said to exceed 150,000 of those miserable people.</note>
+                <note xml:id="n012" target="#a012">It was the custom, though now, we believe, it is
+                    altered, for a planter to purchase one or two lots of slaves, and so round
+                    according to the bulk of the vessel and demand for slaves: The lot being made,
+                    the purchaser was obliged to abide by his chance traffic.</note>
             </ecda:notes>
         </ecda:hyperDiv>
         <front>
@@ -602,8 +606,9 @@
                         European</rs> as our great instructor.</p>
                 <p>"On looking in the plain beneath, we beheld a <seg xml:id="a010" corresp="#n010"
                         >Caffila</seg>, mastered by seventeen <seg xml:id="a011" corresp="#n011"
-                        >Slatees</seg>, it was the most numerous I ever beheld and came from a great
-                    way up the country.</p>
+                            ><ecda:persGroup a-occupation="merchant" a-status="free"
+                            >Slatees</ecda:persGroup></seg>, it was the most numerous I ever beheld
+                    and came from a great way up the country.</p>
                 <p>"Oh! <rs type="person">my son</rs>, let pity warm your breast for the unhappy
                     fate of your poor countrymen, and let a knowledge of their sufferings teach you
                     how to revenge them!</p>
@@ -612,14 +617,15 @@
                 <pb/>
                 <p>destruction on <ecda:persGroup>the christian race</ecda:persGroup>.....but I will
                     proceed in my narrative</p>
-                <p>"Each <rs type="person">Slatee</rs> had above fourteen
-                        <ecda:persGroup>slaves</ecda:persGroup> to his portion; some, prisoners of
-                    war; others, dragged from the bosom of their family; all manacled, a rope
+                <p>"Each <rs type="person">Slatee</rs> had above fourteen <ecda:persGroup
+                        a-status="enslaved">slaves</ecda:persGroup> to his portion; some, prisoners
+                    of war; others, dragged from the bosom of their family; all manacled, a rope
                     fastened by each other by the neck, and a log of wood by the ancle. Thus were
-                    they torn from their homes by the infamous
-                        <ecda:persGroup>Slatees</ecda:persGroup>, and obliged to travel, fatigued
-                    and hungry, over sandy deserts, till they came to a proper market, where they
-                    were sold like cattle, and dispersed over the world.</p>
+                    they torn from their homes by the infamous <ecda:persGroup
+                        a-occupation="merchant" a-status="free">Slatees</ecda:persGroup>, and
+                    obliged to travel, fatigued and hungry, over sandy deserts, till they came to a
+                    proper market, where they were sold like cattle, and dispersed over the
+                    world.</p>
                 <p>"Such are the scenes we daily witness in <placeName>Africa</placeName>, such is
                     the christianity of <ecda:persGroup>the Europeans</ecda:persGroup> who profess
                     humanity.</p>
@@ -674,6 +680,108 @@
                     from the side of one of his assailants, and dealt destruction with every
                     blow.</p>
                 <pb/>
+                <p>"He had laid several of <ecda:persGroup>the Europeans</ecda:persGroup> powerless
+                    at his side, when one merciless and well aimed blow deprived him of his senses,
+                    and he fell. The weapon dropped useless from his hand, and buried itself in the
+                    streaming gore, while he, with irons round his ancles, handcuffed and chained in
+                    the boat, was conveyed on board the vessel, which, within an hour set said for
+                        <placeName>Jamaica</placeName>.</p>
+                <p>"On my first return to reason, I found myself with many other miserable wretches,
+                    deprived of liberty, confined within the narrow limits of a loathsome dungeon,
+                    in a vessel bearing me from my native land, from <ecda:anonPers>my
+                        father</ecda:anonPers> and <ecda:persGroup>my friends</ecda:persGroup>. But
+                    where was <persName>Makro</persName>? surely, cried I, they have not deprived me
+                    of the only comfort their cruelty could leave me? or is he dead? I called upon
+                    his name, no answer was returned. Cruel! cruel! I uttered, and fell senseless on
+                    a pallet of straw.</p>
+                <p>"Several days elapsed, and I became more and more debilitated; my strength
+                    visibly declined, and the iron ring, which bound me by a chain to the wall
+                    galled my ancles.</p>
+                <p>"I remember I asked <ecda:anonPers>the keeper</ecda:anonPers>, who brought the
+                    scanty allowance to our hold, to give me a bandage in mercy, for that my leg was
+                    so painful I could not support it much longer.</p>
+                <pb/>
+                <p>"<said>Bandage</said>!" replied he; "<said>ha, ha, ha! I say, bandage indeed! may
+                        hap I may bring you a bit of salt, but it does not much signify, as tomorrow
+                        you will be allowed to stay an hour or two upon deck, for the benefit of the
+                        air</said>."</p>
+                <p>"Indeed, we needed it, for our prison was close to suffocation, and four of our
+                    companions were already dead.</p>
+                <p>"In about an hour after, he brought some salt, with which he rubbed my ancle,
+                    till over-come with excrutiating agony, I fainted.—When I recovered, I found my
+                    fainting had made no alteration in the continuance of his <hi rend="italic"
+                        >job</hi>, for he had bound it round with a piece of brown paper, and
+                    replaced the iron ring.</p>
+                <p>"The next day, we were ordered on deck; my inquiring eye looked around for
+                        <persName>Makro</persName>, alas! he was not there, nor could I see the
+                    perfidious Harrop.</p>
+                <p>"We had scarcely been an hour on deck, in the open air and enjoying the sea
+                    breeze, when I heard a voice cry: Bring him on deck. I remembered the
+                    sound—'twas he—yes, yes, 'twas he whom, when dying upon a raft, I succored.
+                    'Twas he, who confessed he was indebted to me for life, and his gratitude was to
+                    throw chains over me, and draf me in bondage from my native country, to be made
+                    a slave.</p>
+                <pb/>
+                <p>"He came and examined the miserable captives; he stood before me; I could not
+                    speak, but lifted up my manacled hands, and directed my eyes towards him. I saw
+                    the keen reproof cut him to the heart; he turned from me, and
+                        <persName>Makro</persName> was brought upon deck, chained to a broad plank,
+                    with arms and legs extended. His countenance was wan and ematiated; his hoolow
+                    eyes were almost bured in their sockets; they were rivetted on me. I looked at
+                    him, and fast the tear rolled down his deadened cheek.</p>
+                <p>"<said>He has not eye these three days</said>," cried <ecda:anonPers>a
+                        boy</ecda:anonPers>, to <rs type="person">the Captain</rs>, "<said>nor will
+                        the whip compel him</said>." I soon understood it was
+                        <persName>Makro</persName>'s resolve to die, and I ejaculated in heart I
+                    would not survive him.</p>
+                <p>"<ecda:anonPers>The boy</ecda:anonPers>, by <rs type="person">the captain</rs>'s
+                    order, brought a mess for <persName>Makro</persName>; he stedfastly refused, and
+                        <ecda:anonPers>the boy</ecda:anonPers>, from his birth trained to
+                    inhumanity, struck him smartly across the thighs with a whip.
+                        <persName>Makro</persName> smiled contemptuously upon him. Oh! how did I
+                    long to clasp this faithful husband in my arms, to unfold to his heart that
+                        <persName>Amri</persName> would follow his heroic example.</p>
+                <p>"They then proceeded to new extremities with him; they forced his mouth, and
+                    keeping it extended with a gag, poured the loathsome beverage down his feverish
+                    throat; but</p>
+                <pb/>
+                <p>no sooner did they extricate him, that he spit it back, accompanied by blood;
+                    for, in forcing their spoon into his mouth, they tore his throat in a most human
+                    manner.</p>
+                <p>"Still he smiled and laughed to scorn their ineffectual means. This obstinacy got
+                    him another severe beating. I screamed, and was borne from the deck, while the
+                    operation was performing.</p>
+                <p>"The next day, when my allowance was brought, lest hunger should compel me to
+                    eat, I, without hestitation, overturned the bowl.—This was observed by the
+                    keeper, who beat me till blood streamed down my back, and I was deprived of
+                    feeling.</p>
+                <p>"In the evening, my bowl was replenished; my tongue and lips were parched by
+                    fever, and I endured an agony indescribable. I would have sacrificed every
+                    thing, but my love for <persName>Makro</persName>, for something to quench my
+                    immoderate thirst; but I obstinately persisted in my resolve, and again, lest
+                    excess of agony, in a moment of torpitude, should tempt me to taste the
+                    beverage, I overturned the bowl.</p>
+                <p>"The ensuing day, my fever raged more violent; our keeper came and, on observing
+                    my allowance spilt, and me dying, cursed me</p>
+                <pb/>
+                <p>for my obstinancy, and went to give information to <rs type="person">the
+                        Captain</rs>.</p>
+                <p>"This day, we were ordered to pass on the deck; indeed the Captain found us in so
+                    debilitated and deplorable a state, that he feared he should not be able to
+                    carry above half his complement to <seg xml:id="a012" corresp="#n012"
+                        >Jamaica</seg>, and inhumanity gave way to private interest.</p>
+                <p>"<persName>Makro</persName> was on deck, but so weak, that he could not stand. He
+                    was now released from the plank to which he had previously been bound; his legs
+                    were unshackled, and his hands only were cuffed. Alas! he was so much enfeebled,
+                    that they need not fear him. I, myself, was not joined with <ecda:persGroup
+                        a-status="enslaved">the chain of slaves</ecda:persGroup>, but permitted to
+                    walk about, if my lacerated limbs would enable me. On seeing
+                        <persName>Makro</persName>, I tried to approach, but unable to support
+                    myself, I fell down. Stunned from the blow, I lay senseless, till
+                        <persName>Captain Harrop</persName> himself lifted me up, and led me to my
+                    husband. I expressed my gratitude in the best manner I was able, and, to
+                    convince us of his generosity, he unbound us both. We fell into each</p>
+
 
             </div>
 
