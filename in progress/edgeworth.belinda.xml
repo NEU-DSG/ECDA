@@ -529,7 +529,7 @@
                         the gross continuation of this matrimonial
                         dialogue.                        
                     </p>
-                    <p><said><persName ref="#clarence_hervey_0001">Mr. Hervey</persName>, my lady,</said> said <ecda:anonPers>a foot
+                    <p><said><persName ref="#clarence_hervey_0001">Mr. Hervey</persName>, my lady,</said> said <ecda:anonPers a-gender="male" a-occupation="footman">a foot
                         <pb/>
                         <fw type="pageNum">15</fw>
                         man</ecda:anonPers>, opening the door; and he was scarcely 
@@ -1078,7 +1078,7 @@
             the polite energy of <persName ref="#ld">lady Delacour's</persName> 
             vanity. Her ladyship ran as quick as
             lightning into a closet within the dressing-
-            room, saying to <ecda:anonPers><persName ref="#singleton_0001">lady Singleton's</persName> woman</ecda:anonPers>,
+            room, saying to <ecda:anonPers a-gender="female" a-occupation="maid"><persName ref="#singleton_0001">lady Singleton's</persName> woman</ecda:anonPers>,
             who attempted to follow with—<said>Can I do
             any thing for your ladyship?</said>—<said>No, No,
             no—nothing, nothing—thank ye, thank
@@ -1093,7 +1093,7 @@
             quick—and let's see whether comedy or
             tragedy will be ready first.</said>            
         </p> 
-        <p><said>Lord bless and forgive me,</said> said <ecda:anonPers><persName ref="#singleton_0001">lady Singleton's</persName>
+        <p><said>Lord bless and forgive me,</said> said <ecda:anonPers a-gender="female" a-occupation="maid"><persName ref="#singleton_0001">lady Singleton's</persName>
         woman</ecda:anonPers>, when <persName ref="#ld">lady Delacour</persName>
         at last threw open the door, when she was
         completely dressed—<said>but, if your la'ship
@@ -1103,7 +1103,7 @@
         that should have been so proud.</said>            
         </p>
         <p><persName ref="#ld">Lady Delacour</persName> put <ecda:commodity ana="#currency">half a guinea</ecda:commodity> into
-            the <ecda:anonPers>waiting-maid's</ecda:anonPers> hand, laughed affectedly
+            the <ecda:anonPers a-occupation="maid" a-gender="female">waiting-maid's</ecda:anonPers> hand, laughed affectedly
             at her own <emph>whimsicalities</emph>, and declared,
             that she could always dress herself
             better without a glass than with one. All
@@ -1193,7 +1193,7 @@
             in meditation, vouchsafed no reply.            
         </p>
         <p><said>The devil a word can you get for your 
-        pains, <persName ref="#ch">Hervey</persName>,</said> said a <ecda:anonPers>gentleman of his
+        pains, <persName ref="#ch">Hervey</persName>,</said> said a <ecda:anonPers a-gender="male">gentleman of his
         acquaintance</ecda:anonPers>, who joined the party at this
         instant. <said>Why didn't you stick to t'<rs ref="#ld" type="person">other
         muse</rs>, who, to do her justice, is as errant
@@ -1207,14 +1207,14 @@
             all over me.</said>            
         </p>  
         <p><said>Fore-warned is fore-armed,</said> replied
-            <ecda:anonPers>his companion</ecda:anonPers>—<said>a man must be a novice
+            <ecda:anonPers a-gender="male">his companion</ecda:anonPers>—<said>a man must be a novice
             indeed, that could be taken in at this time
             of day by a niece of <persName ref="#ss">Mrs. Stanhope's</persName>.</said>            
         </p>
         <p><said>That <persName ref="#ss">Mrs. Stanhope</persName> must be a good
             <pb/>
             <fw type="pageNum">37</fw>
-        clever dame, faith,</said> said a <ecda:anonPers>third gentleman</ecda:anonPers>
+        clever dame, faith,</said> said a <ecda:anonPers a-gender="male">third gentleman</ecda:anonPers>
          —<said>There's no less than <ecda:persGroup a-gender="female">six of her nieces</ecda:persGroup>, 
          whom she has <emph>got off</emph> within these four
          winters—Not a one of 'em now, that has
@@ -1282,7 +1282,7 @@
          <p><said>As to <persName ref="#jenny_mason_0001">Jenny Mason</persName>, the fifth of <emph>the
              <pb/>
              <fw type="pageNum">39</fw>
-         nieces</emph>,</said> continued the <ecda:anonPers>witty gentleman</ecda:anonPers>,
+         nieces</emph>,</said> continued the <ecda:anonPers a-gender="male">witty gentleman</ecda:anonPers>,
          <said>she was as brown as mahogany, and
          she had neither eyes, nose, mouth, nor legs:
          what <persName ref="#ss">Mrs. Stanhope</persName> could do with her I
@@ -1309,7 +1309,7 @@
          strops</ecda:commodity>.</said>             
          </p>
          <p><said><persName ref="#ss">Mrs. Stanhope overdid the business,</persName>
-            I think,</said> resumed the <ecda:anonPers>gentleman</ecda:anonPers> who  
+            I think,</said> resumed the <ecda:anonPers a-gender="male">gentleman</ecda:anonPers> who  
              began the conversation—<said>Girls brought</said>
              <!-- try and find three missing pages here, or add a <gap> -->
          </p>    
@@ -1323,7 +1323,7 @@
         faith,</said> whispered <ecda:anonPers>one of his companions</ecda:anonPers>
         —<said><rs type="person" ref="#bp"><persName ref="#melpomene">Melpomene</persName></rs>, has thou forgot thyself
         to marble?</said> pursued <persName ref="#ld">lady Delacour</persName>—
-        <said>I am not veyr well,</said> whispered <persName ref="#bp">miss
+        <said>I am not very well,</said> whispered <persName ref="#bp">miss
         Portman</persName> to her ladyship—<said>could we get
         away?</said>            
         </p>
@@ -1444,7 +1444,7 @@
            but the simplicity of the <ecda:fauna>dove</ecda:fauna> left; and I
            expect to hear you cooing presently—
            don't you, <persName ref="#bp">miss Portman</persName>?</said> she ordered
-           the <ecda:anonPers>coachman</ecda:anonPers> to drive to the <placeName>Pantheon</placeName>.
+           the <ecda:anonPers a-gender="male" a-occupation="coachman">coachman</ecda:anonPers> to drive to the <placeName>Pantheon</placeName>.
          </p>    
         <p><said>To the <placeName>Pantheon</placeName>! I was in hopes
         your ladyship would have the goodness 
@@ -1937,7 +1937,7 @@
          </p>    
          <said xml:id="s008" next="#s009"><p>I do nothing by halves, my dear—I
              shall not tell you my adventures, as <persName ref="#gil_blas_0001">Gil
-             Blas</persName> told his to the <ecda:anonPers>archbishop of <placeName>Grenada</placeName></ecda:anonPers>
+             Blas</persName> told his to the <ecda:anonPers a-occupation="archbishop" a-gender="male" a-religion="catholic">archbishop of <placeName>Grenada</placeName></ecda:anonPers>
              —skipping over the <emph>useful</emph> passages—because
              you are not an archbishop, and I
              should not have the grace to put on a
@@ -2133,7 +2133,7 @@
                  <pb/>
                  <fw type="pageNum">70</fw>
              him to reserve all he had to say upon this
-             subject for the noble <ecda:anonPers>lord upon the wool-
+             subject for the noble <ecda:anonPers a-gender="male" a-status="free">lord upon the wool-
              sack</ecda:anonPers>; nay, I very graciously added, that
              upon this condition, I would go to the
              house myself to give his arguments and
@@ -2182,20 +2182,20 @@
               signature was no longer worth a <ecda:commodity ana="#currency">farthing</ecda:commodity>;
               and when I came to inquire into the cause
               of this phenomenon, I could no wise understand
-              what my <ecda:anonPers><persName ref="#ld">lord Delacour's</persName> lawyer</ecda:anonPers>
+              what my <ecda:anonPers a-gender="male" a-occupation="lawyer" a-status="free"><persName ref="#ld">lord Delacour's</persName> lawyer</ecda:anonPers>
               said to me. He was a prig, and I had 
               not patience either to listen to him, or to
-              look at him. I sent for an <ecda:anonPers>old uncle</ecda:anonPers> of
+              look at him. I sent for an <ecda:anonPers a-gender="male">old uncle</ecda:anonPers> of
               mine, who used to manage all my <ecda:commodity ana="#currency">money</ecda:commodity>
               matters before I was married: I put the
-              <ecda:anonPers>uncle</ecda:anonPers> and the <ecda:anonPers>lawyer</ecda:anonPers> into a room together
+              <ecda:anonPers a-gender="male">uncle</ecda:anonPers> and the <ecda:anonPers a-gender="male" a-occupation="lawyer">lawyer</ecda:anonPers> into a room together
               with their parchments, to fight the matter
               <pb/>
               <fw type="pageNum">72</fw>
               out, or to come to a right understanding
               if they could.—The last it seems was quite
               impossible.—In the course of half an hour,
-              out comes my <ecda:anonPers>uncle</ecda:anonPers> in such a rage! I
+              out comes my <ecda:anonPers a-gender="male">uncle</ecda:anonPers> in such a rage! I
               never shall forget his face—all the bile in
               his body had gotten into it—he had literally 
               no whites to his eyes. <said>My dear
@@ -2204,7 +2204,7 @@
               waiting.</said>             
           </p>
           <p><said>No matter what I am, child,</said> said the
-            <ecda:anonPers>uncle</ecda:anonPers>, <said>I'll tell you what you are with all 
+            <ecda:anonPers a-gender="male">uncle</ecda:anonPers>, <said>I'll tell you what you are with all 
             your wit—a dupe—'tis a shame for a woman
             of your sense to be such a fool, and
             to know nothing of business—and if you
@@ -2217,16 +2217,16 @@
          hes. I was made to understand, that if 
          <persName ref="#md">lord Delacour</persName> were to die the next day, I
          should live a beggar.—Upon this I grew
-         serious, as you may imagine. My <ecda:anonPers>uncle</ecda:anonPers>
+         serious, as you may imagine. My <ecda:anonPers a-gender="male">uncle</ecda:anonPers>
          assured me that I had been grossly imposed
-         upon by my lord and his <ecda:anonPers>lawyer</ecda:anonPers> ,
+         upon by my lord and his <ecda:anonPers a-gender="male" a-occupation="lawyer">lawyer</ecda:anonPers> ,
          and that I had been swindled out of my 
          senses, and out of my dower. I repeated
              <pb/>
              <fw type="pageNum">73</fw>
-         all that my <ecda:anonPers>uncle</ecda:anonPers> said, very faithfully, to
+         all that my <ecda:anonPers a-gender="male">uncle</ecda:anonPers> said, very faithfully, to
          <persName ref="md">lord Delacour</persName>: and all that either he or
-         his <ecda:anonPers>lawyer</ecda:anonPers> could furnish out by way of
+         his <ecda:anonPers a-gender="male" a-occupation="lawyer">lawyer</ecda:anonPers> could furnish out by way of
          answer was, that <quote><said direct="false">necessity had no law</said></quote>.
          Necessity, it must be allowed, though it
          might be the mother of law, was never
@@ -2248,7 +2248,7 @@
          say? About <measure ana="#currency #commodity">twenty</measure>, <measure ana="#currency #commodity">ten</measure>, <measure ana="#currency #commodity">five</measure>!—O, my
          dear, I cannot bear the thoughts of it!—
          But I was going on to tell you, that my 
-         good <ecda:anonPers>uncle</ecda:anonPers>, and all <ecda:persGroup a-gender="mixed">my relations</ecda:persGroup>, quarrelled
+         good <ecda:anonPers a-gender="male">uncle</ecda:anonPers>, and all <ecda:persGroup a-gender="mixed">my relations</ecda:persGroup>, quarrelled
          with me for having ruined myself, as 
          they said—but I said, they quarrelled with
          me for fear I should ask them for some of
@@ -2262,7 +2262,7 @@
          </p>
          <p>We were relieved from our money
             embarrassments by the timely death of a
-            <ecda:anonPers>rich nobleman</ecda:anonPers>, to whose large estate my
+            <ecda:anonPers a-gender="male" a-status="free">rich nobleman</ecda:anonPers>, to whose large estate my
             <persName ref="#md">lord Delacour</persName> was heir at law. I was intoxicated
             with the idle compliments of all
             my acquaintance, and I endeavoured to
@@ -2297,14 +2297,14 @@
             see, quite into a beast.—I forgot to tell
             you, that I had <ecda:persGroup a-gender="mixed">three children</ecda:persGroup> during the
             first five years of my marriage. The first
-            was a <ecda:anonPers>boy</ecda:anonPers>; he was born dead; and my 
+            was a <ecda:anonPers a-gender="male">boy</ecda:anonPers>; he was born dead; and my 
             lord, and all his <ecda:persGroup a-gender="mixed">odious relations</ecda:persGroup>, laid the
             blame upon me; because I would not be
-            kept prisoner half a year by an <ecda:anonPers>old mother</ecda:anonPers> 
+            kept prisoner half a year by an <ecda:anonPers a-gender="female">old mother</ecda:anonPers> 
             of his, a vile <name ref="#cassandra_0001">Cassandra</name>, who was always
-            prophesying, that my <ecda:anonPers>child</ecda:anonPers> would
+            prophesying, that my <ecda:anonPers a-gender="female">child</ecda:anonPers> would
             not be born alive.—My second child was a
-            <ecda:anonPers>girl</ecda:anonPers>, but a poor, dimunitive, sickly thing.
+            <ecda:anonPers a-gender="female">girl</ecda:anonPers>, but a poor, dimunitive, sickly thing.
              —It was the fashion at this time for fine
              mothers to suckle their own children—so
              much the worse for the poor brats.—Fine 
@@ -2316,17 +2316,17 @@
              <pb/>
              <fw type="pageNum">76</fw>
              tily sick of the business; and at the end
-             of about three months my poor <ecda:anonPers>child</ecda:anonPers> was
+             of about three months my poor <ecda:anonPers a-gender="female">child</ecda:anonPers> was
              sick too—I don't much like to think of it
              —it died.—If I had put it out to nurse,
              I should have been thought by my <ecda:persGroup>friends</ecda:persGroup>
              an unnatural mother—but I should have
              saved it's life. I should have bewailed
-             the loss of the <ecda:anonPers>infant</ecda:anonPers> more, if <ecda:persGroup a-gender="mixed"><persName ref="#md">lord Delacour's</persName> 
+             the loss of the <ecda:anonPers a-gender="female">infant</ecda:anonPers> more, if <ecda:persGroup a-gender="mixed"><persName ref="#md">lord Delacour's</persName> 
              relations</ecda:persGroup> and <ecda:persGroup a-gender="mixed">my own</ecda:persGroup> had not made
              such lamentations upon the occasion, that
              I was stunned.—I couldn't or wouldn't
-             shed a tear, and I left it to the <ecda:anonPers>old dowager</ecda:anonPers>
+             shed a tear, and I left it to the <ecda:anonPers a-gender="female">old dowager</ecda:anonPers>
              to perform in public, as she wished,
              the part of chief mourner, and to comfort
              herself in private, by lifting up her hands
@@ -2339,7 +2339,7 @@
              barbarity to nurse it myself. Accordingly,
              when my third child, a <rs type="person">girl</rs>, was
              born, I sent it off immediately to the
-             country, to a <ecda:anonPers>stout, healthy, broad-faced
+             country, to a <ecda:anonPers a-gender="female" a-occupation="nurse">stout, healthy, broad-faced
              nurse</ecda:anonPers>, under whose care it grew and flourished;
              so that at three years old, when it
              was brought back to me, I could scarcely
@@ -2352,7 +2352,7 @@
              undertake it's education. <persName ref="#md">Lord Delacour</persName>
              could not bear the child because it was not
              a boy. The girl was put under the care 
-             of a <ecda:anonPers>governess</ecda:anonPers>, who plagued my heart
+             of a <ecda:anonPers a-gender="female" a-occupation="governess">governess</ecda:anonPers>, who plagued my heart
              out with her airs and tracasseries for
              three or four years; at the end of which
              time, as she turned out to be <persName ref="#md">lord Delacour's</persName>
@@ -2575,7 +2575,7 @@
              Not upon the stones, I'm sure;</said> said I;
              and putting my head out of the window, I
              saw we were beyond the turnkpike.—<said>The
-             <ecda:anonPers>coachman's</ecda:anonPers> drunk as well as you, <persName ref="#harriot_freke_0001">Harriot</persName>,</said>
+             <ecda:anonPers a-occupation="coachman" a-gender="male">coachman's</ecda:anonPers> drunk as well as you, <persName ref="#harriot_freke_0001">Harriot</persName>,</said>
              said I; and was going to pull the 
              string to stop him, but <persName ref="#harriot_freke_0001">Harriot</persName> had hold
              of it.—<said>The man is going very right,</said>
@@ -2595,7 +2595,7 @@
              all my efforts I grew rather graver than 
              usual. We went on to the end of <placeName>Sloane-
              street</placeName>, and quite out of town; at last we
-             stopped.—It was dark, the <ecda:anonPers>footman's</ecda:anonPers> flambeau
+             stopped.—It was dark, the <ecda:anonPers a-gender="male" a-occupation="footman">footman's</ecda:anonPers> flambeau
              was out, I could only just see by the
              lamps, that we were at the door of a lone,
              odd looking house.—The house door
