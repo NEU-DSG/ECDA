@@ -71,7 +71,7 @@
                  juice</ecda:food> as a drink:
                  <quote xml:lang="la" rend="block"><hi rend="italic">Dulces bibebant ex arundine succos</hi></quote>
                  The industrious Naturalist says, <quote xml:lang="la" rend="italic">Saccharum et Arabia fort, sed laudatius India</quote>; and
-                 the <rs type="properAdjective">Greek</rs> Historian, in his <distinct xml:lang="el" rend="upright">περεπλους</distinct> of the <placeName>Red-sea</placeName>, tells us of the neighbouring nation
+                 the <rs type="properAdjective">Greek</rs> Historian, in his <distinct xml:lang="el" rend="upright">περεπλους</distinct> of the <placeName>Red-sea</placeName>, tells us of the <rs type="place">neighbouring nation</rs>
                  who drank it also; his words are <distinct xml:lang="el" rend="upright">μελι το xαλαμινον το λεγομενον σαxχαρι</distinct>.
                  The <ecda:flora ana="#cultivation">Cane</ecda:flora>, however, as it was a native of the East, so has it been probably 
                  cultivated there time immemorial. The raw juice was doubtless first made use of;
@@ -98,7 +98,7 @@
                  But whether the <ecda:flora>Cane</ecda:flora> was a production of the <placeName>West-Indies</placeName> or not, it is
                  probably the <name>Spaniards</name> and <name>Portuguese</name> did not begin to cultivate it either there or in
                  <placeName>South America</placeName> (where it certainly was found), till some years after their discovery.
-                 It is also equally uncertain whether Sugar was first made in the Islands or on the Continent,
+                 It is also equally uncertain whether Sugar was first made in <rs type="place">the Islands</rs> or on <rs type="place">the Continent</rs>,
                  and whether the <name>Spaniards</name> or <name>Portuguese</name> were the first planters in the new world:
                  it is indeed most likely that the latter erected the first sugar-works in <placeName>Brazil</placeName>, as they are
                  more lively and enterprizing than the <name>Spaniards</name>. However they had not long the start
@@ -108,7 +108,7 @@
                  early to turn their thoughts to sugar, the <name>Portuguese</name> far outstripped them in that trade;
                  for <placeName>Lisbon</placeName> soon supplied most of <placeName>Europe</placeName> with a commodity; and notwithstanding
                  the <name>English</name> then paid the <name>Portuguese</name> at the rate of <measure commodity="sugar">4l per C. wt.</measure> for <ecda:commodity ana="#flora #food">muscovado</ecda:commodity>, yet that
-                 priece, great as it may now appear, was probably much less than what the Sugar from the
+                 price, great as it may now appear, was probably much less than what the Sugar from the
                  <placeName>East-Indies</placeName> had commonly been sold for. Indeed, so intent was the <orgName>Crown of Portugal</orgName>
                  on extending their <name><placeName>Brazil</placeName>-trade</name>, that that of the <placeName>East-Indies</placeName> began to be neglected, and
                  soon suffered a manifest decay. However, their <ecda:commodity>sugar</ecda:commodity> made them ample amends,
@@ -152,7 +152,7 @@
                  There are two species of Cedar commonly to be met with
                  in the <placeName>West-Indies</placeName>, the white and red, which differ from the cedars cultivated in
                  the <placeName>Bermudas</placeName>: both are lofty, shady, and of quick growth. The white succeeds in
-                 any soil, and produces a flower which, infused like tea, is useful against fish poison.
+                 any soil, and produces a flower which, infused like tea, is useful against <seg ana="#poison">fish poison</seg>.
                  The red requires a better mould, and always emits a disagreeable smell before rain.
                  The wood of both are highly useful for many mechanical purposes, and but too little
                  planted.
@@ -212,7 +212,7 @@
                  <label>Ver. 37.</label> <ref>The golden <ecda:flora ana="#food">shaddoc</ecda:flora>,]</ref>
                  This is the largest and finest kind of orange. It
                  is not a native of <placeName>America</placeName>, but was brought to the islands, from the <placeName>East-Indies</placeName>,
-                 by an <!-- Englishman, whose name it bears -->. It is of three kinds, the sweet, the
+                 by <rs type="person">an <name>Englishman</name></rs>, whose name it bears. It is of three kinds, the sweet, the
                  sour, and the bitter; the juice of all of them is wholesome, and the rind medical.
                  In flavour and wholesomeness, the sweet <ecda:flora>shaddoc</ecda:flora> excels the other two, and
                  indeed every other kind of orange, except the forbidden fruit, which scarce yields to
@@ -248,11 +248,11 @@
                  in his second voyage, <date>1493</date>, who was so pleased with his appearance, that he honoured
                  it with his <rs type="properAdjective">Christian</rs> name. Though others pretend, that appellation was given it from
                  an imaginary resemblance between a high mountain in its centre, now called <placeName>Mount Misery</placeName>
-                 to the fabulous legend of the Devil's carrying <!--<persName>St. Christopher</persName>--> on his shoulders.
+                 to the fabulous legend of the Devil's carrying <persName>St. Christopher</persName> on his shoulders.
                  But, be this as it will, the <name>Spaniards</name> soon after settled it, and lived in tolerable harmony
                  with the natives for many years; and as their fleets commonly called in there to
                  and from <placeName>America</placeName> for provision and water, the settlers, no doubt, reaped some
-                 advantage from their situation. By <!-- Templeman's Survey -->, it contains eighty square miles,
+                 advantage from their situation. By <unknown>Templeman's Survey</unknown>, it contains eighty square miles,
                  and is about seventy miles in circumference. It is of an irregular oblong figure, and
                  has a chain of mountains, that run South and North almost from the one end of it to 
                  the other, formerly covered with wood, but now the <ecda:commodity ana="#flora #cultivation">Cane</ecda:commodity> plantations reach almost to
@@ -275,8 +275,8 @@
                  pasture, water, and wood; and, if the apporaches thereto were fortified, which might
                  be done at a moderate expence, it would be rendered inaccessible. The <name>English</name>,
                  repulsing the few natives and <name>Spaniards</name>, who opposed them, began to plant <ecda:commodity>tobacco</ecda:commodity>
-                 here A.D. 1623. Two years after, the <rs type="properAdjective">English</rs>-settlers received a considerable reinforcement from their
-                 mother-country; and, the chiefs of both nations, being men of sound policy, entered 
+                 here <date when="1623">A.D. 1623</date>. Two years after, the <rs type="properAdjective">English</rs>-settlers received a considerable reinforcement from their
+                 <rs type="place">mother-country</rs>; and, the chiefs of both nations, being men of sound policy, entered 
                  into an agreement to divide the island between them: the <name>French</name> retaining
                  both extremities, and the <name>English</name> possessing themselves of the middle parts of the island.
                  Some time after both nations erected sugar-works, but there were more <ecda:commodity>tobacco</ecda:commodity>, <ecda:commodity>indigo</ecda:commodity>,
@@ -298,7 +298,7 @@
                  Chrisopher</placeName>: but the war of the partition soon after breaking out, they were finally expelled,
                  and the whole island was ceded in Sovereignty to the crown of <placeName>Great Britain</placeName>, by the
                  <name>treaty of <placeName>Utrecht</placeName></name>. Since that time, <placeName>St. Christopher</placeName> has gradually improved, and it
-                 is now at the height of perfection. The Indian name of <placeName>St. Christopher</placeName> is <distinct type="dialect"><rs type="place">Liamuiga</rs></distinct>,
+                 is now at the height of perfection. The Indian name of <placeName>St. Christopher</placeName> is <distinct type="dialect"><placeName>Liamuiga</placeName></distinct>,
                  or the Fertile Island.
               </p>
            </note>
@@ -312,8 +312,8 @@
            <note xml:id="n012" target="#a012">
               <p>
                  <label>Ver. 111.</label> <ref>and where the magnet]</ref>
-                 The declension of the needle was discovered, A. D.
-                 1492, by <persName ref="#christopher_columbus_1450">Columbus</persName>, in his first voyage to <placeName>America</placeName>: and would have been highly
+                 The declension of the needle was discovered, <date when="1492">A. D.
+                 1492</date>, by <persName ref="#christopher_columbus_1450">Columbus</persName>, in his first voyage to <placeName>America</placeName>: and would have been highly
                  alarming to any, but one of his undaunted philosophical turn of mind.
               </p>
               <p>
