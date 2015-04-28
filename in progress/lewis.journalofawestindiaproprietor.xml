@@ -4528,7 +4528,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
            <l><said xml:id="s015" next="#s016" prev="#s014">Though fair without, they're foul within;</said></l> 
            <l><said xml:id="s016" next="#s017" prev="#s015">Their heart is black, though white their skin.</said></l> 
            <l><said xml:id="s017" prev="#s016" next="#s018">Then <persName ref="#peter_0001">Peter</persName>,<persName ref="#peter_0001">Peter</persName> with me stay;</said></l> 
-           <l><said rend="postquotes" xml:id="s017" prev="#s017"><persName ref="#peter_0001">Peter</persName> no more run away!</said>—</l>
+           <l><said rend="postquotes" xml:id="s018" prev="#s017"><persName ref="#peter_0001">Peter</persName> no more run away!</said>—</l>
         </lg>  
      </lg>  
     </div>
@@ -7548,9 +7548,9 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
        </lg>
        <lg>
           <l><said rend="quotes">Mark, my <persName ref="#zoe_0001">Zoè</persName>,</said> said <ecda:anonPers a-gender="female">her mother</ecda:anonPers>,</l>
-          <l><said rend="prequotes" xml:id="s018" next="s019">Mark that bough, so lovely late!</said></l>
-          <l><said xml:id="s019" next="s020" prev="s018">Thou in bloom art such another—</said></l>
-          <l><said xml:id="s020" next="s021" prev="s018">Such, perhaps, may be thy fate.</said></l>
+          <l><said rend="prequotes" xml:id="s018a" next="s019">Mark that bough, so lovely late!</said></l>
+          <l><said xml:id="s019" next="s020" prev="s018a">Thou in bloom art such another—</said></l>
+          <l><said xml:id="s020" next="s021" prev="s019">Such, perhaps, may be thy fate.</said></l>
        </lg>
        <lg>
           <l><said xml:id="s021" next="s022" prev="s020">Some wild youth may charm and cheat thee,</said></l>
@@ -9569,7 +9569,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
             <l><said rend="prequotes" xml:id="s082" next="s083">How bright and beauteous seems the world untried!</said></l>
             <l><said prev="s082" xml:id="s083" next="s084">I too, like you, in youth's romantic bowers</said></l>
             <l><said prev="s083" xml:id="s084" next="s085">Dreamt not of <ecda:fauna>wasps</ecda:fauna> in <ecda:flora ana="#food">fruit</ecda:flora>, nor thorns in <ecda:flora>flowers</ecda:flora>;</said></l>
-            <l><said prev="s084" xml:id="s083" next="s086">And when on banks of sand the sunbeams shone,</said></l>
+            <l><said prev="s084" xml:id="s085" next="s086">And when on banks of sand the sunbeams shone,</said></l>
             <l><said prev="s085" xml:id="s086" next="s087">I deemed each sparkling flint a precious stone.</said></l>
             <l><said prev="s086" xml:id="s087" next="s088">Ah! noble lady, learn, that isle so fair,</said></l>
             <l><said prev="s087" xml:id="s088" next="s089">The fields all <ecda:flora>roses</ecda:flora>, and all balm the air,</said></l>
@@ -10496,9 +10496,9 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           <lg>
              <head>XIV.</head>
            <lg>
-             <l><said rend="prequotes" xml:id="s138" next="s139">Was such her fate? and did her days thus creep</said></l>
-             <l><said xml:id="s139" next="s140" prev="s139">So sad, so slow, till came the long last sleep?</said></l>
-             <l><said xml:id="s141" next="s141" prev="s140">And did for this her hands with <ecda:flora>roses</ecda:flora> twine</said></l>
+             <l><said rend="prequotes" xml:id="s138a" next="s139a">Was such her fate? and did her days thus creep</said></l>
+             <l><said xml:id="s139a" next="s140" prev="s138a">So sad, so slow, till came the long last sleep?</said></l>
+             <l><said xml:id="s140" next="s141" prev="s139">And did for this her hands with <ecda:flora>roses</ecda:flora> twine</said></l>
              <l><said xml:id="s141" next="s142" prev="s141">The <rs type="person">Saviour's</rs> altar and the <rs type="person" ref="#mary_0001">Virgin's</rs> shrine?</said></l>
              <l><said xml:id="s142" next="s143" prev="s142">Pure, beauteous, rich, did all these blessings tend,</said></l>
              <l><said xml:id="s143" next="s144" prev="s143">But from the world in prime of life to send</said></l>
@@ -11163,7 +11163,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
            bear the same relation to a <title ref="#anansi_story">Nancy-story</title> which a farce
            does to a tragedy. The following is a specimen:―</ecda:embLore>
         </p>
-      <ecda:embLore xml:id="l0001" prev="l0002"><p><label rend="italic">A Neger-trick</label>—<quote rend="quotes">A <ecda:anonPers a-gender="male">man</ecda:anonPers> who had <ecda:persGroup a-gender="female">two wives</ecda:persGroup>
+      <ecda:embLore><p><label rend="italic">A Neger-trick</label>—<quote rend="quotes">A <ecda:anonPers a-gender="male">man</ecda:anonPers> who had <ecda:persGroup a-gender="female">two wives</ecda:persGroup>
           divide his provision-grounds into two parts, and
           proposed that each of the <ecda:persGroup a-gender="female">women</ecda:persGroup> should cultivate
           one half. They were ready to do their proper share,
