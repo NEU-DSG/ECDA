@@ -1759,7 +1759,7 @@
            <p>And yet except some scattered hints in <persName ref="#jeanbaptiste_labat_1663">Pere Labat</persName>, and other
               <rs type="properAdjective">French</rs> travellers in <placeName>America</placeName>; an Essay by <persName ref="samuel_martin_1694">Colonel Martyn</persName> of <placeName>Antigua</placeName>, 
               is the only piece on plantership I have seen deserving a perusal. 
-              That gentleman's <ecda:commodity>pamphlet</ecda:commodity> is, indeed, an excellent performance; <!-- should we count books as commodities? -->
+              That gentleman's <ecda:commodity>pamphlet</ecda:commodity> is, indeed, an excellent performance; 
               and to it I own myself indebted.
            </p>
            <p>It must be confessed, that terms of art look awkward in poetry;
@@ -1792,7 +1792,7 @@
            <p>In a <rs type="properAdjective">West-India</rs> georgic, <seg ana="#medical #disease">the mention of many indigenous
               remedies, as well as diseases, was unavoidable.</seg> The truth is,
               I have rather courted opportunities of this nature, than avoided
-              them. <ecda:commodity ana="#medical">Medicines</ecda:commodity> of such amazing efficacy, as I have had occasion <!-- is it?? -->
+              them. <ecda:commodity ana="#medical">Medicines</ecda:commodity> of such amazing efficacy, as I have had occasion 
               to make trials of in these islands, deserve to be universally known.
               And wherever, in the following poem, I recommend any such, I
               beg leave to be understood as a physician, and not a poet.
@@ -1843,21 +1843,21 @@
             <div type="poem">
                <head>The Sugar-Cane Book I.</head>
                <lg type="poem">
-                  <lg type="indeterminate">
-                     <l>What soil the <ecda:flora>Cane</ecda:flora> affects; what care demands;</l>
-                     <l>Beneath what signs to plant; what ills await;</l>
-                     <l>How the hot nectar best to cristallize;</l>
-                     <l>And <placeName>Afric</placeName>'s sable progeny to treat:</l>
-                     <l>A Muse, that long hath wander'd in the groves</l>
-                     <l>Of myrtle-indolence, attempts to sing.</l>
-                  </lg>
-                  <lg type="indeterminate">
+               <lg type="indeterminate">
+                  <l>What soil the <ecda:flora>Cane</ecda:flora> affects; what care demands;</l>
+                  <l>Beneath what signs to plant; what ills await;</l>
+                  <l>How the hot nectar best to cristallize;</l>
+                  <l>And <placeName>Afric's</placeName> sable progeny to treat:</l>
+                  <l>A Muse, that long hath wander'd in the groves</l>
+                  <l>Of myrtle-indolence, attempts to sing.</l>
+               </lg>
+               <lg type="indeterminate">
                   <l>Spirit of Inspiration, that did'st lead</l>
                   <l>Th' <rs type="person">Ascrean Poet</rs> to the sacred Mount,</l>
                   <l>And taught'st him all the precepts of the swain</l>
                   <l>Descend from Heaven, and guide my trembling steps</l>
                   <l>To Fame's Eternal Dome, where <persName ref="#virgil_0070" cert="medium">Maro</persName> reigns</l>
-                  <l>Where pastoral <persName ref="john_dyer_1699">Dyer</persName>, where <!-- Pomona's Bard -->,</l>
+                  <l>Where pastoral <persName ref="john_dyer_1699">Dyer</persName>, where <rs type="person">Pomona's Bard</rs>,</l>
                   <l>And <persName>Smart</persName> and <persName>Sommerville</persName> in varying strains,</l>
                      
 <pb/>
@@ -1952,7 +1952,7 @@
                   
                   <l>Strow'd with each fruit of taste, each flower of smell,</l>
                   <l><rs type="properAdjective">Sicilian</rs> <persName ref="proserpina_0001">Proserpine</persName>, delighted, sought;</l>
-                  <l>Can vie, <rs type="person" ref="#st_kitts">blest Isle</rs>, with thee.— Tho' no soft sound</l>
+                  <l>Can vie, <rs type="person" ref="#st_kitts">blest Isle</rs>, with thee.—Tho' no soft sound</l>
                   <l>Of pastoral stop thine echoes e'er awak'd;</l>
                   <l>Nor raptured poet, lost in holy trance,</l>
                   <l>Thy streams arrested with enchanting song:</l>
@@ -2062,7 +2062,7 @@
                   <l>Sport of each breeze? And how the torpid nymph</l>
                   <l>Of the rank pool so noisome to the smell,</l>
                   <l>May be solicited, by wily ways,</l>
-                  <l>To draw her humid train, and , prattling, run</l>
+                  <l>To draw her humid train, and, prattling, run</l>
                   <l>Down the reviving slopes? or shall she say</l>
                   <l>What glebes ungrateful to each other art,</l>
                   <l>Their genial treasures ope to fire alone?</l>
@@ -2114,7 +2114,7 @@
                   <l>Will stop, will pant, will sink beneath the load;</l>
                   <l>A better fate deserving.―</l>
                   <l>Besides, thy land itself is insecure:</l>
-                  <l>For oft the <sic>glebe</sic>, and all its waving load,</l>
+                  <l>For oft the glebe, and all its waving load,</l>
                   <l>Will journey, forc'd off by the mining rain;</l>
                   <l>And, with its faithless burden, disarrange</l>
                   <l>Thy neighbour's vale. So <placeName>Markley-hill</placeName> of old,</l>
@@ -2283,7 +2283,7 @@
                   <l>Its vast importance to my native land,</l>
                   <l>Whose sweet idea rushes on my mind,</l>
                   <l>And makes me 'mid this paradies repine;</l>
-                  <l>Urge me to pluch, from Fancy's soaring wing,</l>
+                  <l>Urge me to pluck, from Fancy's soaring wing,</l>
                   <l>A plume to deck <sic>Experience'</sic> hoary brow.</l>
                </lg>
                <lg>
@@ -2331,7 +2331,7 @@
                   <l>Nor spare the sporive child; from their retreats</l>
                   <l><seg xml:id="a024" corresp="#n024">Cockroaches crawl</seg> displeasingly abroad:</l>
                   <l>These, without pity, let thy slaves destroy;</l>
-                  <l>(Like Harpies, they defiel whate'er they touch:)</l>
+                  <l>(Like Harpies, they defile whate'er they touch:)</l>
                   <l>While those, the <unclear>smother</unclear> of combustion quells.</l>
                   <l><seg xml:id="a025" corresp="#n025">The speckled lizard</seg> to its hole retreats,</l>
                   
@@ -2348,7 +2348,7 @@
                <lg>
                   <l>Now, while the shower depends, and rattle loud</l>
                   <l>Your doors and windows, haste ye housewives, place</l>
-                  <l>Your spouts and pails; ye Negroes, seek the shade,</l>
+                  <l>Your spouts and pails; ye <name>Negroes</name>, seek the shade,</l>
                   <l>Save those who open with the ready hoe</l>
                   <l>The enriching water-course: for, see, the drops,</l>
                   
@@ -2371,7 +2371,7 @@
                   <l>A grateful freshness every sense pervades;</l>
                   <l>While beats the heart with unaccustom'd joy:</l>
                   <l>Her stores fugacious Memory now recalls;</l>
-                  <l>And Fancy prunes her wings for lofitest flights.</l>
+                  <l>And Fancy prunes her wings for loftiest flights.</l>
                   <l>The mute creation share the enlivening hour;</l>
                   <l>Bouds the brisk kid, and wanton plays the lamb.</l>
                   <l>The drooping plants revive; ten thousand blooms,</l>
@@ -2386,7 +2386,7 @@
                <lg>
                   <l>But chief, let fix'd Attention cast his eye</l>
                   <l>On the capt mountain, whose high rocky verge</l>
-                  <l>The wild fig canopies, (vast woodland king,</l>
+                  <l>The wild <ecda:flora>fig</ecda:flora> canopies, (vast woodland king,</l>
                   <l>Beneath thy branching shade a banner'd host</l>
                   <l>May lie in ambush!) and whose shaggy sides.</l>
                   <l>Trees shade, of endless green, enormous size,</l>
@@ -2408,8 +2408,8 @@
                   
                   <l>To glad the thirsty soil on which, arrang'd,</l>
                   <l> The gemmy summits of the <ecda:flora>Cane</ecda:flora> await</l>
-                  <l>Thy Negroe-train, (in linen lightly wrapt,)</l>
-                  <l>Who now that painted <!-- Iris --> girds the sky,</l>
+                  <l>Thy <name>Negroe</name>-train, (in linen lightly wrapt,)</l>
+                  <l>Who now that painted <persName>Iris</persName> girds the sky,</l>
                   <l>(Aerial arch, which Fancy loves to stride!)</l>
                   <l>Disperse, all-jocund, o'er the long-hoed land.</l>
                </lg>
@@ -2436,7 +2436,7 @@
 <fw type="pageNum">31</fw>
                
                <lg>
-                  <l>While Procyon reigns yet fervid in the sky;</l>
+                  <l>While <persName>Procyon</persName> reigns yet fervid in the sky;</l>
                   <l>While yet the fiery Sun in Leo rides;</l>
                   <l>And the Sun's child, <seg xml:id="a028" corresp="#n028">the mail'd <ecda:flora ana="#food #commodity">anana</ecda:flora></seg>, yields</l>
                   <l>His regal apple to the ravish'd taste;</l>
@@ -2452,7 +2452,7 @@
                   <l>But, till the <ecda:flora>lemon</ecda:flora>, <ecda:flora>orange</ecda:flora>, and the <ecda:flora>lime</ecda:flora>,</l>
                   <l>Amid their verdant umbrage, countless glow</l>
                   <l>With fragrant fruit of vegetable gold;</l>
-                  <l>'Till yellow plantantes bend the unstain'd bough</l>
+                  <l>'Till yellow <ecda:flora>plantantes</ecda:flora> bend the unstain'd bough</l>
                   <l>With crooked clusters, prodigally full;</l>
                   <l>'Till Capricorn command the cloudy sky;</l>
                   <l>And moist Aquarius mold in daily showers<unclear>.</unclear></l>
@@ -2465,7 +2465,7 @@
                   <l>And if kind Heaven, in pity to thy prayers,</l>
                   <l>Shed genial influence; as the earth absolves</l>
                   <l>Her annual circuit, thy rich ripened <ecda:flora>Canes</ecda:flora></l>
-                  <l>Shall load thy waggons, <ecda:fauna>mules</ecda:fauna>, and Negroe-train.</l>
+                  <l>Shall load thy waggons, <ecda:fauna>mules</ecda:fauna>, and <persName>Negroe</persName>-train.</l>
                </lg>
                <lg>
                   <l>But chief thee, Planter, it imports to mark</l>
@@ -2512,7 +2512,7 @@
                   <l>That chief the Planter, if he weath desire,</l>
                   <l>Should note the phases of the fickle moon.</l>
                   <l>On the, sweet empress of the night, depend</l>
-                  <l>The tides; stern Neptune pays his court to thee;</l>
+                  <l>The tides; stern <persName>Neptune</persName> pays his court to thee;</l>
                   <l>The winds, obedient at thy bidding shift,</l>
                   <l>And tempests rise or fall; even lordly man,</l>
                   <l>Thine energy controls.—Not so the Cane;</l>
@@ -2675,7 +2675,7 @@
                   
                   <l>To tropic suns, to fell barbaric hinds,</l>
                   <l>A poor outcast, an alien, he did roam;</l> 
-                  <l>his wife, the partner of his better hours,</l>
+                  <l><ecda:anonPers>his wife</ecda:anonPers>, the partner of his better hours,</l>
                   <l>And one sweet infant, chear'd his dismal way.</l>
                   <l>Unus'd to labour; yet the orient sun,</l>
                   <l>Yet western Phœbus, saw him wield the hoe.</l>
@@ -2702,8 +2702,8 @@
                   <l><seg xml:id="a046" corresp="#n046">His <ecda:flora ana="#commodity">coffee</ecda:flora></seg> bath'd, that glow'd with berries, red</l>
                   <l>As <persName ref="#danae_0001">Danae's</persName> lip, or, <persName>Theodosia</persName>, thine,</l>
                   <l>Yet countelss as the pebbles on the shore;</l>
-                  <l>Oft while drought kill'd his impious neighbour's grove.</l>
-                  <l>In time, a numerous gang of sturdy slaves,</l>
+                  <l>Oft while drought kill'd <ecda:anonPers>his impious neighbour's</ecda:anonPers> grove.</l>
+                  <l>In time, <ecda:persGroup a-status="enslaved">a numerous gang of sturdy slaves</ecda:persGroup>,</l>
                   
 <pb xml:id="pb10" corresp="#pbn10"/>
 <fw type="pageNum">44</fw>
@@ -2712,10 +2712,10 @@
                   <l>Their master's smile, who treated them like men;</l>
                   <l>Blacken'd his Cane-lands: which with vast increase,</l>
                   <l>Beyond the wish of avarice, paid his toil.</l>
-                  <l>No craps, with sudden death, supriz'd his mules;</l>
+                  <l>No cramps, with sudden death, supriz'd his mules;</l>
                   <l>No glander-pest his airy stables thinn'd:</l>
-                  <l>And, if disorder seiz'd his Negroe-train,</l>
-                  <l><persName>Celsus</persName> wass call'd, and pining Illness flew.</l>
+                  <l>And, if disorder seiz'd his <name>Negroe</name>-train,</l>
+                  <l><persName>Celsus</persName> was call'd, and pining Illness flew.</l>
                   <l>His gate stood wide to all; but chief the poor,</l>
                   <l>The unfriended stranger, and the sickly, shar'd</l>
                   <l>His prompt munificence: No surly dog,</l>
@@ -2847,7 +2847,7 @@
                     <l>Hath oft beheld, deep-pierced with generous woe.</l>
                     <l>For she, poor exile! boasts no waving crops;</l>
                     <l>For her no circling mules press dulcet streams;</l>
-                    <l>No Negro-band huge foaming coppers skim;</l>
+                    <l>No <name>Negro</name>-band huge foaming coppers skim;</l>
                     <l>Nor fermentation (<ecda:food>wine's</ecda:food> dread fire) for her,</l>
                     <l>With vulcan's aid. from <ecda:food ana="#flora">cane</ecda:food> a spirit draws,</l>
                     <l>Potent to quell the madness of despair</l>
@@ -2915,7 +2915,7 @@
                     <l>With these attack the predatory bands;</l>
                     <l>Quickly the unequal conflict they decline,</l>
                     <l>And, chattering, fling their ill-got spoils away.</l>
-                    <l>So when, of late, innumerous Gallic hosts</l>
+                    <l>So when, of late, innumerous <rs type="properAdjective">Gallic</rs> hosts</l>
                     <l>Fierce, wanton, cruel, did by stealth invade</l>
                     <l>The peacable <name>American's</name> domains,</l>
                     <l>While desolation mark'd their faithless rout;</l>
@@ -2943,7 +2943,7 @@
                     <l>The gallinazo,  else that sea-like stream</l>
                     <l>(Whence traffic pours her bounties on mankind)</l>
                     <l><seg xml:id="a054" corresp="#n054">Dread <ecda:fauna>alligators</ecda:fauna></seg> would alone possess.</l>
-                    <l>Thy foes, the <seg xml:id="a055" corresp="#n055">teeth-fil'd Ibbos</seg> also love;</l>
+                    <l>Thy foes, the <seg xml:id="a055" corresp="#n055">teeth-fil'd <name>Ibbos</name></seg> also love;</l>
                     <l><seg xml:id="a056" corresp="#n056">Nor thou their wayward</seg> appetite restrain.</l>
                  </lg>
                  
@@ -2955,7 +2955,7 @@
                     <l>Replete with <ecda:fauna ana="#fauna">roasted crabs</ecda:fauna>, in every grove</l>
                     <l>These fell marauders gnaw; and pay their slaves</l>
                     <l>Some small reward for every captive foe.</l>
-                    <l>So practice Gallia's sons; but Britons trust</l>
+                    <l>So practice <placeName>Gallia's</placeName> sons; but <name>Britons</name> trust</l>
                     <l>In other wiles; and surer their success.</l>
                  </lg>
                  <lg>
@@ -3050,8 +3050,8 @@
 <pb/>
 <fw type="pageNum">63</fw>
                     
-                    <l>Gather'd by those, who drink the Volga's wave,</l>
-                    <l>(Prince of Europa's strams, itself a sea)</l>
+                    <l>Gather'd by those, who drink the <placeName>Volga's</placeName> wave,</l>
+                    <l>(Prince of Europa's streams, itself a sea)</l>
                     <l>Equals your potency! Did planters know</l>
                     <l>But half your virtues; not the <ecda:flora>Cane</ecda:flora> itself,</l>
                     <l>Would they with greater, fonder pains preserve!</l>
@@ -3060,7 +3060,7 @@
                     <l>Still other maladies infest the <ecda:flora>Cane</ecda:flora>,</l>
                     <l>And worse to be subdu'd. The insect-tribe</l>
                     <l>That, fluttering, spread their pinions to hte sun,</l>
-                    <l>Recal the muse:nore shal their many eyes,</l>
+                    <l>Recal the muse: nor shall their many eyes,</l>
                     <l>Tho' edg'd with gold, thier many colour'd down,</l>
                     <l>From Death preserve them. In what distant clime,</l>
                     <l>In wht recesses are the plunderers hatch'd?</l>
@@ -3068,7 +3068,7 @@
                     <l>From distant islands? Thus the locust-breed,</l>
                     <l>In winged caravans, that blot the sky,</l>
                     <l>Descend from far, and, ere bright morning dawn,</l>
-                    <l>Astonish'd Afric Sees her crop devour'd.</l>
+                    <l>Astonish'd <placeName>Afric</placeName> Sees her crop devour'd.</l>
                     <l>Or, doth the <ecda:flora>Cane</ecda:flora> a proper nest afford,</l>
                     <l>And food adapted to the yellow fly?—</l>
                     <l>The skill'd in Nature's mystic lore observe,</l>
@@ -3112,8 +3112,8 @@
                     <l>And say, <said rend="quotes">My soul take rest?</said> Superior ills,</l>
                     <l>Ills which no care nor wisdom can avert,</l>
                     <l>In black succession rise. Ye men of <placeName>Kent</placeName>,</l>
-                    <l>When nipping Eurus, with the brutal force</l>
-                    <l>Of Boreas, join'd in ruffian league, assail</l>
+                    <l>When nipping <persName>Eurus</persName>, with the brutal force</l>
+                    <l>Of <persName>Boreas</persName>, join'd in ruffian league, assail</l>
                     <l>Your ripen'd <ecda:flora ana="#commodity">hop-grounds</ecda:flora>; tell me what you feel,</l>
                     <l>And pity the poor planter; when the blast,</l>
                     <l>Fell plague in Heaven! perdition of the isles!</l>
@@ -3135,7 +3135,7 @@
                     <l>They burst their filmy jail, and crawl abroad,</l>
                     <l>Bugs of uncommon shape; thrice hideous show!</l>
                     <l>Innumerous as the painted shells, that load</l>
-                    <l>The wave-worn margin of the Virgin-isles!</l>
+                    <l>The wave-worn margin of the <placeName>Virgin-isles</placeName>!</l>
                     <l>Innumerous as the leaves <seg xml:id="a068" corresp="#n068">the plumb-tree sheds,</seg></l>
                     <l>When, proud of her fæcundity, she shows,</l>
                     <l>Naked, her gold fruit to the God of noon,</l>
@@ -3153,7 +3153,7 @@
 <fw type="pageNum">67</fw>
                     
                     <l>As the waves, countless, that plough up the deep,</l>
-                    <l>(Where <seg xml:id="a069" corresp="#n069">Eurus reigns</seg> viceregent of the sky,</l>
+                    <l>(Where <seg xml:id="a069" corresp="#n069"><persName>Eurus</persName> reigns</seg> viceregent of the sky,</l>
                     <l>Whom <persName>Rhea</persName> bore to the bright God of day)</l>
                     <l>When furious Auster dire commotions stirs:</l>
                     <l>These wind, by subtle sap, their secret way,</l>
@@ -3273,8 +3273,8 @@
                     <l>Yet thunder, yok'd with lightning and with rain,</l>
                     <l>Water with fire, increase the infernal din:</l>
                     <l><ecda:flora>Canes</ecda:flora>, <ecda:flora>shrubs</ecda:flora>, <ecda:flora>trees</ecda:flora>, huts, are whir'd aloft in air.—</l>
-                    <l>The wind is spent; and <q rend="quotes" xml:id="q1">all the isle below</q></l>
-                    <l><q prev="#q1">is hush as death.</q></l>
+                    <l>The wind is spent; and <q rend="quotes" xml:id="q1" next="#q2">all the isle below</q></l>
+                    <l><q prev="#q1" xml:id="q2">is hush as death.</q></l>
                     <l>Soon issues forth the West, with sudden burst;</l>
                     <l>And blasts more rapid, more resistless drives:</l>
                     
@@ -3430,7 +3430,7 @@
                     <l>The sweetest <ecda:flora>sappadillas</ecda:flora> oft he brought;</l>
                     <l>From him more sweet ripe <seg xml:id="a075" corresp="#n075"><ecda:flora>sappadillas</ecda:flora></seg> seem'd.—</l>
                     <l>Nor had long absence yet effac'd her form;</l>
-                    <l>Her charms still triumphed o'er Britannia's fair.</l>
+                    <l>Her charms still triumphed o'er <placeName>Britannia's</placeName> fair.</l>
                     <l>One morn he met her in Sheen's royal walks;</l>
                     <l>Nor knew, till then, sweet Sheen contain'd his all.</l>
                     <l>His taste mature approv'd his infant choice.</l>
@@ -3462,7 +3462,7 @@
                  <lg>
                     <l>Tho' learned, <unclear reason="flawed-reproduction">curious</unclear>, and tho' nobly bent,</l>
                     <l>With each rare talent to adorn his mind,</l>
-                    <l>His ntaive land to serve; no joys he found.—</l>
+                    <l>His native land to serve; no joys he found.—</l>
                     <l>Yet sprightly <placeName>Gaul</placeName>; yet <placeName>Belgium</placeName>, Saturn's reign;</l>
                     <l>Yet <placeName>Greece</placeName>, of old the feat of every Muse,</l>
                     <l>Of freedom, courage; yet <placeName>Ausonia's</placeName> clime,</l>
@@ -3471,7 +3471,7 @@
                     <l>With rival beauties, his attention claim'd.</l>
                     <l>To his just-judging, his instructed eye,</l>
                     <l>The all-perfect <name><rs type="properAdjective">Mediciean</rs> Venus</name> seem'd</l>
-                    <l>A perfect semblance of his Indian fair:</l>
+                    <l>A perfect semblance of his <name>Indian</name> fair:</l>
                     <l>But, when she spoke of love, her voice surpass'd</l>
                     <l>The harmonious warblings of <rs type="properAdjective">Italian</rs> song.</l>
                  </lg>
@@ -3530,7 +3530,7 @@
                     <l>Tho' faster than the <seg xml:id="a082" corresp="#n082">Tropic-bird</seg> they flew,</l>
                     <l>Oft <persName>Junio</persName> cried, ah! when shall we see land?</l>
                     <l>Soon land they made: and now in thought he claspt</l>
-                    <l>His <rs type="properAdjective">Indian</rs> bride, and deem'd his toils o'er paid.</l>
+                    <l><rs type="person">His <rs type="properAdjective">Indian</rs> bride</rs>, and deem'd his toils o'er paid.</l>
                  </lg>
                  <lg>
                     <l>She, no less amourous, every evening walk'd</l>
@@ -3576,10 +3576,10 @@
                     <l><said rend="prequotes" xml:id="s018" next="#s019">And next to God, you now my thoughts employ:</said></l>
                     <l><said rend="prequotes" xml:id="s019" next="#s020">Accept of this—My little all I give;</said></l>
                     <l><said rend="quotes" xml:id="s020">Would it were larger</said>— Nature could no more;</l>
-                    <l> She look'd, embrac'd him, with a groan expir'd.</l>
+                    <l>She look'd, embrac'd him, with a groan expir'd.</l>
                  </lg>
                  <lg>
-                    <l>But say, what strangs, what language can express</l>
+                    <l>But say, what strains, what language can express</l>
                     <l>The thousand pangs, which tore the lover's breast?</l>
                     <l>Upon her breathless corse himself he threw,</l>
                     <l>And to her clay-cold lips, with trembling haste,</l>
