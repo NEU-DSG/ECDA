@@ -55,6 +55,7 @@
                 <note xml:id="n003" target="#a003">*<quote rend="quotes" source="#pope_lady"><lg><l>Would <persName ref="#chloe_0001">Chloe</persName> know if you're alive or dead</l>
                 <l>She bids her footman put it in her head.</l></lg></quote></note>
                 <note xml:id="n004" target="#a004">*Taken from real life.</note>
+                <note xml:id="noo5" target="#a005">* See <title ref="#johnstone_chrysal">Adventures of a <name>Guinea</name></title>, vol. i, chap. 16.</note>
             </ecda:notes>
         </ecda:hyperDiv>
         <front>
@@ -1332,18 +1333,75 @@
          </p>
          <p><said><persName ref="#selina_stanhope_0001">Mrs. Stanhope overdid the business,</persName>
             I think,</said> resumed the <ecda:anonPers a-gender="male">gentleman</ecda:anonPers> who  
-             began the conversation—<said>Girls brought</said>
-             <!-- try and find three missing pages here, or add a <gap> -->
-         </p>    
+             began the conversation—<said xml:id="sp001" next="#sp002">Girls brought</said>
+           <!-- begin supplied here -->
+           <supplied xml:id="sup001" source="#novels1893" reason="flawedReproduction"><said xml:id="sp002" prev="#sp001"> to the hammer this way don't go off
+           well. It's true, <persName ref="#christie_0001">Christie</persName> himself is no match for <persName ref="#selina_stanhope_0001">Dame
+           Stanhope</persName>. Many of my acquaintance were tempted to
+           go and look at the premises, but not one, you may be
+           sure, had a thought of becoming a tenant for life.</said>
+           </supplied>             
+         </p>
+          <p><said>That's an honour reserved for you, <persName ref="#clarence_hervey_0001">Clarence
+          Hervey</persName>,</said> said another, tapping him upon the shoulder.
+          </p>
+          <p><said>Me!</said> said <persName ref="#clarence_hervey_0001">Clarence</persName>, starting.              
+          </p>
+            <p><said>I'll be hanged if he didn't change colour,</said> said his
+              <ecda:anonPers a-gender="male">facetious companion</ecda:anonPers>; and all the <ecda:persGroup a-gender="male">young men</ecda:persGroup> again joined
+              in a laugh.                
+            </p>
+             <p><said>Laugh on, my merry men all!</said> cried <persName ref="#clarence_hervey_0001">Clarence</persName>;
+              <said>but the devil's in it if I don't know my own mind
+              better than any of you. You don't imagine I go to
+              <persName ref="#delacour_0001">Lady Delacour's</persName> to look for a <emph>wife</emph>—<persName ref="#belinda_portman_0001">Belinda Portman's</persName>
+              a good, pretty girl, but what then? Do you
+              think I'm an idiot?—do you think I could be taken
+              in by one of the <persName type="properAdjective" ref="#selina_stanhope_0001">Stanhope</persName> school? Do you think I
+              don't see as plainly as any of you that <persName ref="#belinda_portman_0001">Belinda Portman's</persName>
+              a composition of art and affection?</said>                 
+             </p>
+             <p><said>Hush—not so loud, <persName ref="#clarence_hervey_0001">Clarence</persName>; here she comes,</said>
+              said his <ecda:anonPers a-gender="male">companion</ecda:anonPers>. <said>The comic muse, is not 
+              she—?</said>   
+             </p>
+             <p><persName ref="#delacour_0001">Lady Delacour</persName> at this moment came lightly
+                 tripping towards them, and addressing herself, in the
+                 character of the comic muse, to <persName ref="#clarence_hervey_0001">Hervey</persName>, exclaimed—                 
+             </p>
+             <p><said><persName ref="#clarence_hervey_0001">Hervey</persName>! <emph>my</emph> <persName ref="#clarence_hervey_0001">Hervey</persName>! most favoured of my
+             votaries, why do you forsake me?
+             <quote source="#shenstone_elegyxxvi"><lg>
+                 <l>Why mourns my friend, why weeps his downcast eye?</l>
+                 <l>That eye where mirth and fancy used to shine.</l>
+             </lg></quote>
+             Though you have lost your <ecda:fauna>serpent's</ecda:fauna> form, yet you may
+                 please any of the fair daughters of <persName ref="#eve_0001">Eve</persName> in your own.
+             </said>                 
+             </p>
+             <p><persName ref="clarence_hervey_0001">Mr. Hervey</persName> bowed; all the <ecda:persGroup a-gender="male">gentlemen</ecda:persGroup>, who stood
+               near him, smiled; the <rs type="person" ref="#belinda_portman_0001">tragic muse</rs> gave an involuntary
+                 sigh.                 
+             </p>
+             <p><said>Could I borrow a sigh, or a tear, from my tragic
+             sister,</said> pursued <persName ref="#delacour_0001">lady Delacour</persName>, <said>however unbecoming
+             to my character, I would, if only sighs or tears
+             can win the heart of <persName ref="#clarence_hervey_0001">Clarence Hervey</persName>: let me
+             practise</said>—and her ladyship practised sighing with
+             much comic effect.                 
+             </p>
+             <p><said><quote source="#pope_iliad">Persuasive words and more persuasive sighs,</quote></said>
+             said <persName ref="#clarence_hervey_0001">Clarence Hervey</persName>.</p>
+         
              <pb/>
              <fw type="pageNum">40</fw>
              <pb/>
              <fw type="pageNum">41</fw>
              <pb/>
              <fw type="pageNum">42</fw>       
-        <p><said>A good bold <name>Stanhope</name> cast of the net,
+        <p><said>A good bold <persName type="properAdjective" ref="#selina_stanhope_0001">Stanhope</persName> cast of the net,
         faith,</said> whispered <ecda:anonPers>one of his companions</ecda:anonPers>
-        —<said><rs type="person" ref="#belinda_portman_0001"><persName ref="#melpomene">Melpomene</persName></rs>, has thou forgot thyself
+        —<said><rs type="person" ref="#belinda_portman_0001"><persName ref="#melpomene-0001">Melpomene</persName></rs>, has thou forgot thyself
         to marble?</said> pursued <persName ref="#delacour_0001">lady Delacour</persName>—
         <said>I am not very well,</said> whispered <persName ref="#belinda_portman_0001">miss
         Portman</persName> to her ladyship—<said>could we get
@@ -2027,8 +2085,54 @@
              lost at <placeName>Newmarket</placeName> more than he was
              worth in every sense of the word; and my
              fortune was the most convenient thing in
-             <!-- pages 64 and 65 missing -->
-              <pb/>
+             <!-- begin supplied here -->
+              the 
+              world to a man in his condition. Lozenges are of 
+              sovereign use in some complaints. The heiress lozenge
+              is a specific in some consumptions. You are surprised 
+              that I can laugh and jest about such a melancholy thing
+              as my marriage with <persName ref="#delacour_0002">Lord Delacour</persName>; and so am I,
+              especially when I recollect all the circumstances; for
+              though I bragged of there being no love in my history,
+              there was, when I was a <ecda:fauna>goose</ecda:fauna> or a <ecda:fauna>gosling</ecda:fauna> of about
+              eighteen—just your age, <persName ref="#belinda_portman_0001">Belinda</persName>, I think—something
+              very like love playing about my heart, or my head.
+              There was a certain <persName ref="#henry_percival_0001">Henry Percival</persName>, a <persName ref="#clarence_hervey">Clarence Hervey</persName>
+              of a man—no, he had ten times the sense, begging your 
+              pardon, of <persName ref="#clarence_hervey_0001">Clarence Hervey</persName>—his misfortune, or mine,
+              
+              
+              was, that he had too much sense—he was in love with
+              me, but not with my faults; now I, wisely considering
+              that my faults were the greatest part of me, insisted
+              upon his being in love with my faults. He wouldn't,
+              or couldn't—I said wouldn't, he said couldn't. I had
+              been used to see the me <ecda:persGroup>men</ecda:persGroup> about me lick the dust at my
+              feet, for it was gold dust. <persName ref="#henry_percival_0001">Percival</persName> made wry faces—
+              <persName ref="#delacour_0002">Lord Delacour</persName> made none. I pointed him out to <persName ref="#henry_percival_0001">Percival</persName>
+              as an example—it was an example he would not follow.
+              I was provoked, and I married in hopes of provoking
+              the man I loved. The worst of it was, I did not provoke
+              hime as much as I expected. Six months afterwards
+              I heard of his marriage with a <rs type="person" ref="#anne_percival_0001">very amiable woman</rs>.
+              I hate those <soCalled rend="italic">very amiable women</soCalled>. Poor <persName ref="#henry_percival_0001">Percival</persName>! I
+              should have been a very happy woman, I fancy, if I had
+              married you—for I believe you were the only man who
+              ever really loved me; but all that is over now!—Where
+              were we? O, I married my <persName ref="#delacour_0002">Lord Delacour</persName>, knowing
+              him to be a fool, and believing that, for this reason, I
+              should find no trouble in governing him. But what a
+              fatal mistake!—a fool, of all animals in creation, is
+              the most difficult to govern. We set out in the fashionable
+              world with a mutual desire to be as extravagant as
+              possible. Strange, that with this similarity of taste we
+              could never agree!—strange that this similarity of tatse
+              was the cause of our perpetual quarrels! During the
+              first year of our marriage, I always had the upper hand
+              in these disputes, and the last word; and I was content.
+              Stubbor as the brute was, 
+              
+              <pb/>              
               <fw type="pageNum">64</fw>
               <pb/>
               <fw type="pageNum">65</fw>
@@ -5479,21 +5583,21 @@ be down stairs in three minutes.</said>
           two that seem to be making up to us,</said> said <persName ref="#philip_baddely_0001">sir Philip</persName>, looking at <ecda:persGroup a-gender="male">two gentlemen</ecda:persGroup>
           who were coming towards them.—<said><persName ref="#st_george_0001">St.
           George</persName>, hey, you know every body.</said>
-          —<said>The foremost is <persName ref="#percival_0001">Percival</persName> of <placeName>Oakly
+          —<said>The foremost is <persName ref="#henry_percival_0001">Percival</persName> of <placeName>Oakly
           Park</placeName>, I think, 'pon my honour,</said> replied
           <persName ref="#st_george_0001">Mr. St. George</persName>—and then he began to
-           settle how many thousands  a year <persName ref="#percival_0001">Mr. 
+           settle how many thousands  a year <persName ref="#henry_percival_0001">Mr. 
            Percival</persName> was worth; this point was not
            decided, when the <ecda:persGroup a-gender="male">gentlemen</ecda:persGroup> came up to
            the spot where <persName ref="#philip_baddely_0001">sir Philip</persName> was standing.
           </p>      
           <p>The <ecda:anonPers a-gender="male">child</ecda:anonPers> for whose sake <persName ref="#clarence_hervey_0001">Clarence
-          Hervey</persName> had lost his bet was <persName ref="#percival_0001">Mr. Percival's</persName>,
+          Hervey</persName> had lost his bet was <persName ref="#henry_percival_0001">Mr. Percival's</persName>,
           and he came to thank him for his
               <pb/>
               <fw type="pageNum">179</fw>
           civility.—The <rs type="person" ref="#dr_x_0001">gentleman</rs> who accompanied
-          <persName ref="#percival_0001">Mr. Percival</persName> was an old friend of
+          <persName ref="#henry_percival_0001">Mr. Percival</persName> was an old friend of
            <persName ref="#clarence_hervey_0001">Clarence Hervey's</persName>, had met him abroad,
            but had not seen him <choice><sic>fer</sic><corr>for</corr></choice> some years.              
           </p>      
@@ -5527,7 +5631,7 @@ be down stairs in three minutes.</said>
             <pb/>
             <fw type="pageNum">180</fw>
             <p>And so he inevitably would have done,
-                had not <persName ref="#percival_0001">Mr. Percival</persName> at this instant leaped
+                had not <persName ref="#henry_percival_0001">Mr. Percival</persName> at this instant leaped
                 into the river, and seized hold of the
                 drowning <persName ref="#clarence_hervey_0001">Clarence</persName>. It was with great
                 difficulty that he dragged him to shore.—
@@ -5541,10 +5645,10 @@ be down stairs in three minutes.</said>
                 me if I know what to do with him.</said>                
             </p>
             <p>Whilst <persName ref="#philip_baddely_0001">sir Philip</persName> was damning himself,
-                <persName ref="#percival_0001">Mr. Percival</persName> ran to the boat-house for
+                <persName ref="#henry_percival_0001">Mr. Percival</persName> ran to the boat-house for
                 assistance, and they carried the body into
                 the house; the <rs type="person" ref="#dr_x_0001">elderly gentleman</rs> who had
-                accompanied <persName ref="#percival_0001">Mr. Percival</persName>, now made
+                accompanied <persName ref="#henry_percival_0001">Mr. Percival</persName>, now made
                 his way through the midst of the noisy
                 <ecda:persGroup>crowd</ecda:persGroup>, and directed what should be done
                 to restore <persName ref="#clarence_hervey_0001">Mr. Hervey's</persName> suspended animation.
@@ -5675,9 +5779,9 @@ be down stairs in three minutes.</said>
             is not a man in <placeName>England</placeName> to whom I would
             rather be obliged.</said>                
             </p>
-            <p><said>You are not acquainted with <persName ref="#percival_0001">Mr. 
+            <p><said>You are not acquainted with <persName ref="#henry_percival_0001">Mr. 
             Percival</persName>, I believe,</said> said <persName ref="#dr_x_0001">Dr. X―</persName>, <said>give
-            me leave, <persName ref="#percival_0001">Mr. Percival</persName>, to
+            me leave, <persName ref="#henry_percival_0001">Mr. Percival</persName>, to
             you the young gentleman whose life you
             have saved, and whose life—thoug, by
             the company in which you found him,
@@ -5688,7 +5792,7 @@ be down stairs in three minutes.</said>
                 <fw type="pageNum">185</fw>
             the most humble man of my acquaintance,
             for whilst all good judges would think
-            him fit company for <persName ref="#percival_0001">Mr. Percival</persName>, he
+            him fit company for <persName ref="#henry_percival_0001">Mr. Percival</persName>, he
             has the humility to think himself upon
             a level with <persName ref="#rochfort_0001">Mr. Rochfort</persName>, and <persName ref="#philip_baddely_0001">sir Philip
             Baddely</persName>.</said>                
@@ -5731,30 +5835,30 @@ be down stairs in three minutes.</said>
             </said>                
             </p>
             <p><said>Come, come, <persName ref="#dr_x_0001">Doctor X―</persName>,</said> cried
-              <persName ref="#percival_0001">Mr. Percival</persName>, <said>no more wit at <persName ref="#delacour_0001">lady Delacour's</persName>
+              <persName ref="#henry_percival_0001">Mr. Percival</persName>, <said>no more wit at <persName ref="#delacour_0001">lady Delacour's</persName>
               expence—I have a fellow feeling
               for <persName ref="#clarence_hervey_0001">Mr. Hervey</persName>.</said>                
             </p>
            <p><said>Why, you are not in love with her
            ladyship, are you?</said> said <persName ref="#dr_x_0001">Dr. X―</persName>. <said>I
            am not in love with <persName ref="#delacour_0001">lady Delacour's</persName> picture
-           of herself,</said> replied <persName ref="#percival_0001">Mr. Percival</persName>, <said>but
+           of herself,</said> replied <persName ref="#henry_percival_0001">Mr. Percival</persName>, <said>but
            I was once in love with the original.</said>               
            </p> 
            <p><said>How?—When?—Where?</said> cried
              <persName ref="#clarence_hervey_0001">Clarence Hervey</persName>, in a tone totally different
              from that in which he had first addressed
-             <persName ref="#percival_0001">Mr. Percival</persName>.               
+             <persName ref="#henry_percival_0001">Mr. Percival</persName>.               
            </p> 
            <p><said>To-morrow you shall know the how,
-           the when, and the where,</said> said <persName ref="#percival_0001">Pervcival</persName>,
+           the when, and the where,</said> said <persName ref="#henry_percival_0001">Pervcival</persName>,
            <said>here's your friend, <persName ref="#st_george_0001">Mr. St. George</persName>,
            and his coach.</said>—<said>The deuce take him,</said>
            said <persName ref="#clarence_hervey_0001">Clarence</persName>—<said>but tell me, is it possible
            that you are not in love with her stil?—
                <pb/>
                <fw type="pageNum">187</fw>
-           and why?</said>—<said>Why?</said> said <persName ref="#percival_0001">Mr. Percival</persName>
+           and why?</said>—<said>Why?</said> said <persName ref="#henry_percival_0001">Mr. Percival</persName>
            <said>come to-morrow, as you have
            promised, to <placeName>Upper Grosvenor street</placeName>, and
            let me introduce you to lady <persName ref="#anne_percival_0001">Anne Percival</persName>
@@ -5805,7 +5909,7 @@ be down stairs in three minutes.</said>
              partiality for them was changed into contempt.               
            </p> 
            <p><said>You had better come home and dine
-           with me <persName ref="#clarence_hervey_0001">Mr. Hervey</persName>,</said>—said <persName ref="#percival_0001">Mr. Percival</persName>,
+           with me <persName ref="#clarence_hervey_0001">Mr. Hervey</persName>,</said>—said <persName ref="#henry_percival_0001">Mr. Percival</persName>,
             <said>if you be not absolutely engaged, for
             here is your physician, who tells me that
             temperence is necessary for a man just
@@ -5866,7 +5970,7 @@ be down stairs in three minutes.</said>
                  midst of her <ecda:persGroup a-gender="mixed">children</ecda:persGroup>; who all turned their
                  healthy, rosy, intelligent faces towards the
                  door, the moment that they heard their
-                 <rs type="person" ref="#percival_0001">father's</rs> voice. <persName ref="#clarence_hervey_0001">Clarence Hervey</persName> was so
+                 <rs type="person" ref="#henry_percival_0001">father's</rs> voice. <persName ref="#clarence_hervey_0001">Clarence Hervey</persName> was so
                   much struck with the expression of happiness 
                   in <persName ref="#anne_percival_0001">lady Anne's</persName> countenance, that
                   he absolutely forgot to compare her beauty
@@ -5948,7 +6052,7 @@ be down stairs in three minutes.</said>
                    twelve years old; he was surprised to discover
                    in her features, though not in their 
                    expression, a singular resemblance to <persName ref="#delacour_0001">lady
-                   Delacour</persName>. He remarked this to <persName ref="#percival_0001">Mr. Percival</persName>,
+                   Delacour</persName>. He remarked this to <persName ref="#henry_percival_0001">Mr. Percival</persName>,
                    and the child, who overheard him,
                    blushed as red as scarlet.—Dinner was
                    announced at this instant, and <persName ref="#clarence_hervey_0001">Clarence
@@ -6009,7 +6113,7 @@ be down stairs in three minutes.</said>
                    him—She declined doing him that honour;
                    observing that she never drank more than
                    one glass of <ecda:food>wine</ecda:food> at dinner, and that she
-                   had just taken one with <persName ref="#percival_0001">Mr. Percival</persName>.—
+                   had just taken one with <persName ref="#henry_percival_0001">Mr. Percival</persName>.—
                    Her manner was well-bred, but haughty
                    in the extreme; and she was so passionate,
                    that her anger sometimes conquered even
@@ -6027,7 +6131,7 @@ be down stairs in three minutes.</said>
                    with their trunks, when they go out of
                    bounds. He talked next of the <ecda:fauna>unicorn</ecda:fauna>;
                    and addressing himself to <persName ref="#dr_x_0001">Dr. X―</persName> and
-                   <persName ref="#percival_0001">Mr. Percival</persName>, he declared that in his
+                   <persName ref="#henry_percival_0001">Mr. Percival</persName>, he declared that in his
                    opinion <persName ref="#herodotus_0001">Herodotus</persName> did not deserve to be
                    called the father of lies; he cited the
                    <ecda:fauna>mammoth</ecda:fauna> to prove, that the apocryphal
@@ -6089,7 +6193,7 @@ be down stairs in three minutes.</said>
                  picking of his <ecda:food ana="#flora">strawberries</ecda:food> with great dilligence.                 
              </p>  
              <p>The <ecda:persGroup a-gender="female">ladies</ecda:persGroup> soon afterward withdrew, and
-                 as <persName ref="#percival_0001">Mr. Percival</persName> did not touch upon the
+                 as <persName ref="#henry_percival_0001">Mr. Percival</persName> did not touch upon the
                  subject again, <persName ref="#clarence_hervey_0001">Clarence</persName> forebore to ask any
                  farther questions, though he was considerably 
                  surprised by this sudden discovery.—
@@ -6560,11 +6664,11 @@ be down stairs in three minutes.</said>
          is in a dangerous situation—but some
          young people learn prudence by being 
          placed in dangerous situations, as some
-         young <ecda:fauna>horses</ecda:fauna>, I have heard <persName ref="#percival_0001">Mr. Percival</persName>
+         young <ecda:fauna>horses</ecda:fauna>, I have heard <persName ref="#henry_percival_0001">Mr. Percival</persName>
          say, learn to be sure footed, by being left
          to pick their own way on bad roads.</said>             
          </p>
-        <p>Here <persName ref="#percival_0001">Mr. Percival</persName>, <persName ref="#dr_x_0001">Dr. X―</persName>, and
+        <p>Here <persName ref="#henry_percival_0001">Mr. Percival</persName>, <persName ref="#dr_x_0001">Dr. X―</persName>, and
           some <ecda:persGroup a-gender="mixed">other gentlemen</ecda:persGroup>, came up stairs to
           <ecda:food>tea</ecda:food>, and the conversation took another
           turn.—<persName ref="#clarence_hervey_0001">Clarence Hervey</persName> endeavoured to
@@ -6609,7 +6713,7 @@ be down stairs in three minutes.</said>
              inspired with the poetic genius of <persName ref="#francesco_petrarch_1304">Petrarch</persName>.
              —I have no wish to pass whole
              nights composing sonnets.—I would (am
-             I not right, <persName ref="#percival_0001">Mr. Percival</persName>?) infinitely
+             I not right, <persName ref="#henry_percival_0001">Mr. Percival</persName>?) infinitely
              rather be a slave of the ring, than a slave
              of the lamp.</said>             
          </p>
@@ -7427,7 +7531,7 @@ be down stairs in three minutes.</said>
           said her <rs ref="#delacour_0001" type="person">ladyship</rs>, <said>who delight in making
           themselves appear better than they are
           —but I was going to tell you, that I do
-          believe I did provoke <persName ref="#percival_0001">Percival</persName> by marrying
+          believe I did provoke <persName ref="#henry_percival_0001">Percival</persName> by marrying
           <persName ref="#delacour_0002">lord Delacour</persName>, I cannot tell you
           how much this idea delights me—I am
           sure that the man has a lively remembrance
@@ -9317,8 +9421,8 @@ be down stairs in three minutes.</said>
         my dear,</said> said <persName ref="#delacour_0001">lady Delacour</persName>—<said>It is a
         pity that your countenance, which is 
         usually expressive enough, should not at 
-        
-        
+            <pb/>
+            <fw type="pageNum">299</fw>
         this instant obey your wishes and express
         perfect felicity—But though you feel no
         pain from disappointed affection, doubtless
@@ -9350,10 +9454,8 @@ be down stairs in three minutes.</said>
          that <persName ref="#clarence_hervey_0001">Clarence</persName> had some scret attachment;
          and she could not help blaming
          him in her own mind, for having, as she
-         
-         
-         
-         
+            <pb/>
+            <fw type="pageNum">300</fw>
          thought, endeavoured to gain her affections,
          whilst he knew that his heart was
          engaged to another.—<persName ref="#clarence_hervey_0001">Mr. Hervey</persName> however,
@@ -9384,9 +9486,8 @@ be down stairs in three minutes.</said>
         another tune, if I pleased,</said> said <persName ref="#philip_baddely_0001">sir Philip</persName>;
         <said>but damme, it would cost me too
         much—a wife's too expensive a thing,
-        
-        
-        
+            <pb/>
+            <fw type="pageNum">301</fw>
         damme, nowadays.—Why a man could
         have twenty <ecda:commodity>curricles</ecda:commodity>, and a fine <ecda:commodity ana="#fauna">stud</ecda:commodity>,
         and a pack of <ecda:commodity ana="#fauna">hounds</ecda:commodity> and as many mistresses
@@ -9417,9 +9518,8 @@ be down stairs in three minutes.</said>
          He had not the least doubt of being accepted,
          if he made a proposal of marriage;
          consequenty, the moment that he
-         
-         
-         
+            <pb/>
+            <fw type="pageNum">302</fw>
          came to this determination, he could not
          help assuming <foreign xml:lang="fr" rend="italic">d'avance</foreign> the tone of a favoured
          lover.
@@ -9442,10 +9542,8 @@ be down stairs in three minutes.</said>
           want snuffing famously*?</said></seg> 
         </p>
      </div> 
-                
-                
-                
-                
+                <pb/>
+                <fw type="pageNum"><choice><sic>233</sic><corr>303</corr></choice></fw>  
   <div type="chapter">
         <head><label>Chapter XII</label>.
               The Macaw.</head>             
@@ -9472,9 +9570,8 @@ be down stairs in three minutes.</said>
       <p><said>That was a cursed unlucky overturn—
       she may thank <persName ref="#clarence_hervey_0001">Clarence Hervey</persName> for that
       —it's like him–he thinks he's a better
-      
-      
-      
+          <pb/>
+          <fw type="pageNum">304</fw>
          judge of <ecda:fauna>horses</ecda:fauna>, and <ecda:food>wine</ecda:food>, and every
          thing else, than any body in the world—
          Damme now if I don't believe he thinks
@@ -9508,10 +9605,8 @@ be down stairs in three minutes.</said>
        woman you ever saw, <persName ref="#philip_baddely_0001">sir Philip</persName>?</said> said
         <persName ref="#belinda_portman_0001">Belinda</persName> smiling.           
        </p>
-      
-      
-      
-       
+      <pb/>
+      <fw type="pageNum">305</fw>
        <p><said>Than the finest woman I had ever
        seen <emph>then</emph>,</said> said <persName ref="#philip_baddely_0001">sir Philip</persName>, <said>for damme
        I did not know what it was to be in love
@@ -9544,12 +9639,8 @@ be down stairs in three minutes.</said>
        the polite lover, seating himself on the
        sofa, beside <persName ref="#belinda_portman_0001">Belinda</persName>.          
       </p>
-      
-      
-      
-       
-       
-        
+      <pb/>
+      <fw type="pageNum">306</fw>
         <p><said>To prevent your giving yourself any
         farther trouble then, sir, on my account,</said>
          said <persName ref="#belinda_portman_0001">miss Portman</persName>—
@@ -9581,10 +9672,8 @@ be down stairs in three minutes.</said>
          he will not be offended by the frankness
          of my answer.</said>            
         </p>
-      
-      
-      
-      
+      <pb/>
+      <fw type="pageNum">307</fw>
       <p><said>You can't be in earnest, <persName ref="#belinda_portman_0001">miss Portman</persName>!</said>
          exclaimed the astonished <rs ref="#philip_baddely_0001" type="person">barnet</rs>. 
       </p>
@@ -9619,8 +9708,8 @@ be down stairs in three minutes.</said>
        to say—a coquet is a thing I understand
        as well as another, and if we had been
        only talking in the air, it would have
-       
-       
+           <pb/>
+           <fw type="pageNum">308</fw>
        been another thing; but when I come at
        once to a proposal in form, and a woman
        seriously tells me she has objections that
@@ -9651,9 +9740,8 @@ be down stairs in three minutes.</said>
            whose influence over her niece he
            had no doubt would be decisive in his favour.
            <said><persName ref="#philip_baddely_0001">Sir Philip</persName> seems to be a little out
-           
-           
-           
+               <pb/>
+               <fw type="pageNum">309</fw>
            of sorts this morning,</said> said <persName ref="#delacour_0002">lord Delacour</persName>,
            <said>I am afraid he's angry with me for interrupting
            his conversation; but relaly I did
@@ -9682,10 +9770,8 @@ be down stairs in three minutes.</said>
            the beginning of that quarrel.</said>           
        </p>
         <p><said>Excuse me, my lord, but I would ra-
-        
-        
-        
-        
+            <pb/>
+            <fw type="pageNum">310</fw>
         ther hear of the end than of the beginning
         of quarrels.</said>            
         </p>
@@ -9714,9 +9800,8 @@ be down stairs in three minutes.</said>
         passion he forgets every thing, and would
         as soon lay about him with a swords as with
         a cane—so it is better such a thing should
-        
-        
-        
+            <pb/>
+            <fw type="pageNum">311</fw>
         not be in his power. And it is the same
         with wit, which would be safest and best
         out of the power of some people.</said>            
@@ -9747,9 +9832,8 @@ be down stairs in three minutes.</said>
          a sly inquisitive face.            
         </p>
         <p><said>Tell him I'll see him immediately—
-        
-        
-        
+            <pb/>
+            <fw type="pageNum">3012</fw>
         show him to the parlour, and give him a
         newspaper to read.</said>            
         </p>
@@ -9781,9 +9865,8 @@ be down stairs in three minutes.</said>
             <persName ref="#belinda_portman_0001">Belinda</persName>, returning the pocket-book to him,
             <said>and to beg you will give <persName ref="#delacour_0001">lady Delacour</persName>
             the pleasure of seeing you; she has in-
-            
-            
-            
+                <pb/>
+                <fw type="pageNum">313</fw>
             quired several times whether your lordship
             were at home. I will run up to her dressing
             room, and tell her that you are here.</said>            
@@ -9814,9 +9897,8 @@ be down stairs in three minutes.</said>
         here are your <measure ana="#currency #commodity">two hundred guineas</measure>,
         my dear <persName ref="#belinda_portman_0001">Belinda</persName>—a thousand thanks
         for the thing, and a million for the manner
-        
-        
-        
+            <pb/>
+            <fw type="pageNum">314</fw>
         —manner is all in all in conferring favours.
         My lord, who, to do him justice, has too
         much honesty to pretend to more delicacy
@@ -9845,13 +9927,8 @@ be down stairs in three minutes.</said>
         no niece, no cousin, to entangle
         our hero.</said>            
         </p>
-      
-      
-      
-        
-        
-        
-            
+      <pb/>
+      <fw type="pageNum">315</fw>
           <p><said><emph>Ours</emph>!</said> said <persName ref="#belinda_portman_0001">Belinda</persName>.              
           </p>
           <p><said>Well, <emph>yours</emph>, then,</said> said <persName ref="#delacour_0001">lady Delacour</persName>              
@@ -9881,9 +9958,8 @@ be down stairs in three minutes.</said>
            thing which I do not wish to tell your ladyship.</said>               
            </p>
             <p><said>Lord, my dear, surely it is no secret
-            
-            
-            
+                <pb/>
+                <fw type="pageNum">316</fw>
             that <persName ref="#philip_baddely_0001">sir Philip Baddely</persName> is ridiculous—but
             you are so good natured that I can't be
             out of humour with you. If you won't
@@ -9914,8 +9990,8 @@ be down stairs in three minutes.</said>
              after them as I desire—I am certain
              <persName ref="#champfort_0001">Mr. Champfort</persName> never shut a door
              after him in his life, nor never will if
-             
-             
+                 <pb/>
+                 <fw type="pageNum">317</fw>
              he was to live to the days of <persName ref="methuselah_0001">Methuselah</persName>.</said>            
              </p>
               <p><said>That is very little satisfaction to me,
@@ -9951,9 +10027,8 @@ be down stairs in three minutes.</said>
                </p>
                 <p><said>Then <emph>I</emph> must go, my lady,</said> said
                   <persName ref="#marriott_0001">Marriott</persName>—angrily—<said>that is certain—for
-                  
-                  
-                  
+                      <pb/>
+                      <fw type="pageNum">318</fw>
                   to part with my <ecda:fauna>macaw</ecda:fauna> is a thing I cannot
                   do to please <emph>any</emph> body.</said>—Her eyes
                   turned with indignation upon <persName ref="#belinda_portman_0001">Belinda</persName>—
@@ -9985,9 +10060,8 @@ be down stairs in three minutes.</said>
                 <p>It was a delicate and difficult commission
                  —<persName ref="#belinda_portman_0001">Belinda</persName> found <persName ref="#marriott_0001">Marriott</persName> at first 
                  incapable of listening to reason—<said>I am
-                 
-                 
-                 
+                     <pb/>
+                     <fw type="pageNum">319</fw>
                  sure there is nobody in the world, that
                  would treat me and my <ecda:fauna>macaw</ecda:fauna> in this
                  manner, except my lady!</said> cried she,
@@ -10020,8 +10094,8 @@ be down stairs in three minutes.</said>
                 will reproach yourself for it ever afterward.
                 —This <ecda:fauna>bird</ecda:fauna>—no, nor all the <ecda:fauna>birds</ecda:fauna>
                 in the world, will not be able to console 
-                
-                
+                    <pb/>
+                    <fw type="pageNum">320</fw>
                 you—for you are of an affectionat disposition,
                 I know, and sincerely attached
                 to your poor lady.</said>                    
@@ -10050,8 +10124,8 @@ be down stairs in three minutes.</said>
                 —and I have always answered, nobody
                 —and I defy them to get any thing
                 out of me.—Betray my lady! I'd sooner
-                
-                
+                    <pb/>
+                    <fw type="pageNum">321</fw>
                 cut my tongue out this minute—can she
                 have such a base opinion of me, or can
                 you, ma'am?</said>                    
@@ -10085,9 +10159,8 @@ be down stairs in three minutes.</said>
                  it is consequently your lady's—she is perfectly
                  sensible of your attachment to her,
                  and of your services, but she cannot suf-
-                 
-                 
-                    
+                    <pb/>
+                    <fw type="pageNum">322</fw>
                 fer herself to be treated with disrespect—   
                 here are <measure ana="#currency #commodity">fifty guineas</measure>, which he gives
                 you as a reward for your past fidelity—
@@ -10120,8 +10193,8 @@ be down stairs in three minutes.</said>
                 <p>The next day <persName ref="#belinda_portman_0001">Belinda</persName> asked the dowager
                  <persName ref="#boucher_0001">lady Boucher</persName>, who was going to a
                  <ecda:anonPers><ecda:fauna>bird</ecda:fauna> fancier's</ecda:anonPers>, to take her with her, in
-                    
-                    
+                    <pb/>
+                    <fw type="pageNum">323</fw> 
                  hopes that sher might be able to meet with
                  some <ecda:fauna>bird</ecda:fauna> more musical than a <ecda:fauna>macaw</ecda:fauna>, to
                  console <persName ref="#marriott_0001">Marriott</persName> for the loss of her
@@ -10152,8 +10225,8 @@ be down stairs in three minutes.</said>
                   came in; she immediately attracted
                   <persName ref="#belinda_portman_0001">Belinda's</persName> attention, by her likeness to <persName ref="#clarence_hervey_0001">Clarence
                   Hervey's</persName> description of <persName ref="#anne_percival_0001">lady Anne
-                  
-                  
+                      <pb/>
+                      <fw type="pageNum">324</fw>
                   Percival</persName>—It was <persName ref="#anne_percival_0001">lady Anne</persName>, as <persName ref="#boucher_0001">lady Boucher</persName>,
                   who was slightly acquainted with
                   her, informed <persName ref="#belinda_portman_0001">Belinda</persName> in a whisper.
@@ -10187,8 +10260,8 @@ be down stairs in three minutes.</said>
                 <p><said>Can I speak a few words to you?</said>
                    said <persName ref="#helena_delacour_0001">Helena</persName>. 
                 </p>
-        
-        
+      <pb/>
+      <fw type="pageNum">325</fw>
                 <p><persName ref="#belinda_portman_0001">Belinda</persName> walked to the farthest end of
                     the shop with her.                    
                 </p>
@@ -10219,8 +10292,8 @@ be down stairs in three minutes.</said>
                 </p>
                 <p><said>Then,</said> said <persName ref="#helena_delacour_0001">Helena</persName>, <said>I will send
                 them as soon as I go <emph>home</emph>—as soon
-                
-                
+                    <pb/>
+                    <fw type="pageNum">326</fw>
                 as I go back to <persName ref="#anne_percival_0001">lady Anne Percival's</persName>, I
                 mean.</said>                    
                 </p>
@@ -10252,10 +10325,8 @@ be down stairs in three minutes.</said>
                   afraid you will get yourself into a scrape; 
                   for <persName ref="#delacour_0001">lady Delacour</persName> is not upon speaking
                   terms with this <persName ref="#margaret_delacour_0001">Mrs. Margaret Delacour</persName>;
-                  
-                  
-                  
-                  
+                      <pb/>
+                      <fw type="pageNum">327</fw>
                   she cannot endure her; you know she is
                   my <persName ref="#delacour_0002">lord Dealcour's</persName> aunt.</said>                    
                 </p>
@@ -10281,6 +10352,238 @@ be down stairs in three minutes.</said>
                 
   </div>  
             </div>
+            <!-- Note: Volume II starts here (should be separate TEI file, but I'm adding it in here for now) -->
+            <!-- front matter and table of contents -->
+            <div type="volume">
+             <div type="chapter">
+                 <head><label>Chapter XII</label>.
+                     <foreign xml:lang="la">Sortes Virgilianæ</foreign>.</head> 
+               <p><hi rend="smallcaps">When</hi> <persName ref="#bp">Belinda</persName> got home, <persName ref="#ld">lady Delacour</persName>
+                   was busy in the library, looking
+                   over a collection of <rs type="properAdjective">French</rs> plays with
+                   the <foreign rend="italic">ci-divant</foreign> <persName ref="#count_n_0001">count de N―</persName>; a gentleman
+                   who possessed such singular talents
+                   for reading dramatic compositions, that
+                   many people declared that they would
+                   rather hear him read a play, than see it
+                   performed at the theatre. Even those
+                   who were not judges of his merit, and
+                   who had little taste for literature, crowded
+                   to hear him, because it was the fashion.—
+                   <persName ref="#ld">Lady Delacour</persName> engaged him for a reading
+                   party at her house, and he was consulting with her what play would be most
+                   
+                   
+                   amusing to his audience.—<said>My dear <persName ref="#bp">Belinda</persName>!
+                   I am glad you are come to give us
+                   your opinion,</said> said her ladyship, <said>no
+                   one has a better taste: but first I should
+                   ask you what you have done at your <ecda:anonPers a-occupation="birdfancier">birdfancier's</ecda:anonPers>;
+                   I hope you have brought home 
+                   some <ecda:fauna rend="italic" xml:id="a005" corresp="#n005">horned cock</ecda:fauna>*, or some <emph>monstrously</emph>
+                   beautiful creature for <persName ref="#m">Marriott</persName>. If it has
+                   not a voice like the <ecda:fauna>macaw</ecda:fauna> I shall be satisfied;
+                   but even if it be the <ecda:fauna>bird of paradise</ecda:fauna>,
+                   I question whether <persName ref="#m">Marriott</persName> will 
+                   like it as well as it's screaming predecessor.</said>
+               </p>
+               <p><said>I am sure she will like what is coming
+               for her,</said> said <persName ref="#bp">Belinda</persName>, <said>and so will your
+               ladyship; but do not let me interrupt you
+               and <rs type="person" ref="#count_n_0001">monsieur le comte</rs>.</said> And, as she
+               spoke, she took up a volume of plays
+               which lay upon the table.                   
+               </p>
+               <p><said><title ref="#voltaire_nanine">Nanine</title>, or <title ref="#voltaire_prude">La Prude</title>? which shall we
+               have?</said> said <persName ref="#ld">lady Delacour</persName>: <said>or what do 
+               you think of <title xml:lang="fr" ref="#voltaire_ecossaise"><choice><sic>L'Ecossaisse</sic><corr>L'Ecossaise</corr></choice></title>?</said>               
+               </p>
+               <p><said>The scene of <title xml:lang="fr" ref="#voltaire_ecossaise">L'Ecossaise</title> is laid in 
+               <placeName>London</placeName>,</said> said <persName ref="#bp">Belinda</persName>; <said>I should think
+               with an <rs type="properAdjective">English</rs> audience it would therefore
+               be popular.</said>                   
+               </p>
+                 
+                 
+               <p><said>Yes! so it will,</said> said <persName ref="#ld">lady Delacour</persName>:
+                 <said>then let it be <title ref="#voltaire_ecossaise">L'Ecossaise</title>. <rs ref="#count_n_0001">M. le comte</rs>
+                 I am sure will do justice to the character 
+                 of <persName ref="#friport_0001" rend="italic">Friport</persName> the <name>Englishman</name>, <quote xml:lang="fr" source="#voltaire_ecossaise">qui
+                 <choice><sic>scait</sic><corr>fait</corr></choice> donner, mais qui ne <choice><sic>scait</sic><corr>fait</corr></choice> pas vivre</quote>
+                 My dear, I forgot to tell you that <persName ref="#ch">Clarence
+                 Hervey</persName> has been here: it is a pity
+                 you did not come a little sooner, you
+                 would have heard a charming scene of the
+                 <title ref="#sheridan_school">School for Scandal</title> read by him.—M. le
+                 comte was quite delighted—but <persName ref="#ch">Clarence</persName>
+                 was in a great hurry, he would only give
+                 us one scene, he was going to <persName ref="#henry_percival_0001">Mr. Percival's</persName>
+                 on business.—I am sure what I told
+                 you the other day is true:—but, however,
+                 he has promised to come back to dine with
+                 me—M. le comte, you will dine with us,
+                 I hope?</said>                   
+               </p>
+               <p>The <rs ref="#count_n_0001" type="person">count</rs> was extremely sorry that it 
+                   was impossible—he was engaged.—<persName ref="#bp">Belinda</persName>
+                   suddenly recollected that it was time to
+                   dress for dinner; but just as the count
+                   took his leave, a <ecda:anonPers a-gender="male" a-occupation="footman">footman</ecda:anonPers> met her, and told her
+                   that <persName ref="#ch">Mr. Hervey</persName> was in the drawing-room,
+                   and wished to speak to her. Many conjectures
+                   were formed in <persName ref="#bp">Belinda's</persName> mind as
+                   she passed on to the drawing-room; but
+                   
+                   
+                   the moment that she opened the door, she
+                   knew the nature of <persName ref="#ch">Mr. Hervey's</persName> business,
+                   for she saw the glass globe containing
+                   <persName ref="#hd">Helena Delacour's</persName> <ecda:fauna>gold fishes</ecda:fauna> standing
+                   on the table beside him. <said>I have
+                   been commissioned to present these to you
+                   for <persName ref="#ld">lady Delacour</persName>,</said> said <persName ref="#ch">Mr. Hervey</persName>;
+                   <said>and I have seldom received a commission
+                   that has given me so much pleasure
+                   —I perceive that <persName ref="#bp">miss Portman</persName> is indeed
+                   a real friend to <persName ref="#ld">lady Delacour</persName>—How
+                   happy she is to have such a friend!</said>
+               </p>
+               <p>After a pause <persName ref="#ch">Mr. Hervey</persName> went on
+                   speaking of <persName ref="#ld">lady Delacour</persName>, and of his
+                   earnest desire to see her as happy in domestic
+                   life as she <emph>appeared</emph> to be in public.
+                   He frankly confessed, that when he
+                   was first acquainted with her ladyship, he
+                   had looked upon her merely as a dissipated
+                   woman of fashion, and had considered
+                   only his own amusement in cultivating her
+                   society—<said>But,</said> continued he, <said>of late
+                   I have formed a different opinion of her
+                   character; and I think, from what I have
+                   observed, that <persName ref="#bp">miss Portman's</persName> ideas on
+                   this subject agree with mine. I had laid
+                   a plan for bringing her ladyship's acquaintance
+                   with <persName ref="#ap">lady Anne Percival</persName>, who appears
+                   
+                   
+                   
+                   to me one of the most amiable and one of
+                   the happiest of women. <placeName>Oakly-park</placeName> is but
+                   a few miles from <placeName>Harrowgate</placeName>—But I am
+                   disappointed in this scheme; <persName ref="#ld">lady Delacour</persName>
+                   has changed her mind, she says,
+                   and will not go there. <persName ref="#ap">Lady Anne</persName>, however,
+                   has just told me, that, though it is
+                   July, and though she loves the country,
+                   she will most willingly stay in town a 
+                   month longer, as she thinks that, with
+                   your assistance, there is some probability
+                   of her effecting a reconciliation between
+                   <persName ref="#ld">lady Delacour</persName> and <ecda:persGroup><rs type="person" ref="#md">her husband's</rs> relations</ecda:persGroup>,
+                   with some of whom <persName ref="#ap">lady Anne</persName> is intimately
+                   acquainted. To begin with my 
+                   friend <persName ref="#margaret_delacour_0001">Mrs. Margaret Delacour</persName>: the <ecda:fauna>macaw</ecda:fauna>
+                   was most graciously received, and I
+                   flatter myself that I ahve prepared <persName ref="#margaret_delacour_0001">Mrs.
+                   Delacour</persName> to think somewhat more favorably
+                   of her niece than she was wont to
+                   do. All now depends upon <persName ref="#ld">lady Delacour's</persName>
+                   conduct towards her daughter—If
+                   she continues to treat her with neglect, I
+                   shall be convinced that I have been mistaken
+                   in her character.</said>                   
+               </p>
+               <p><persName ref="#bp">Belinda</persName> was much pleased by the
+                   openness and the unaffected good nature
+                   with which <persName ref="#ch">Clarence Hervey</persName> spoke, and
+                   
+                   
+                   she certainly was not sorry to hear from
+                   her own lips a distinct explanation of his
+                   views and sentiments. She assured him
+                   that no effort that she could make with
+                   propriety should be wanting, to effect
+                   the desirable reconciliation between her 
+                   ladyship and her family; as she perfectly
+                   agreed with him in thinking, that <persName ref="#ld">lady
+                   Delacour's</persName> character had been generally
+                   misunderstood by the world.                   
+               </p>
+                <p><said>Yes,</said> said <persName ref="#ch">Mr. Hervey</persName>, <said>her connexion
+                with that <persName ref="#hf">Mrs. Freke</persName> hurt her
+                more in the eyes of the world, than she
+                was aware of. It is tacitly understood
+                by the public, that every lady goes bail
+                for the character of her female friends.
+                If <persName ref="#ld">lady Delacour</persName> had been so fortunate as
+                to meet with such a friend as <persName ref="#bp">miss Portman</persName>
+                in her early life, what a different
+                woman she would have been! She once
+                said some such thing to me herself, and
+                she never appeared to me so amiable as at
+                that moment.</said>                    
+                </p>
+                 <p><persName ref="#ch">Mr. Hervey</persName> pronounced these last words
+                     in a manner more than usually animated;
+                     and whilst he spoke, <persName ref="#bp">Belinda</persName> stooped to
+                     gather a sprig from a <ecda:flora>myrtle</ecda:flora>, which stood
+                     on the hearth. She perceived that the
+                     
+                     
+                     
+                     <ecda:flora>myrtle</ecda:flora>, which was planted in a large 
+                     china vase, was propped up on one side
+                     with the broken bits of <persName ref="#pb">Philip Baddely's</persName>
+                     little stick: she took them up, and
+                     threw them out of the window.—<said><persName ref="#ld">Lady
+                     Delacour</persName> stuck those fragments there this 
+                     morning,</said> said <persName ref="#ch">Clarence</persName>, smiling, <said>as 
+                     trophies. She told me of <persName ref="#bp">miss Portman's</persName>
+                     victory over the heart of <persName ref="#pb">sir Philip Baddely</persName>;
+                     and <persName ref="#pb">miss Portman</persName> should certainly 
+                     have allowed them to remain there, as indisputable 
+                     evidence in favour of the baronet's
+                     taste and judgment.</said>
+                 </p>
+                 <p><persName ref="#ch">Clarence Hervey</persName> appeared under some
+                     embarrassment, and seemed to be restrained
+                     by some secret cause from laying
+                     open his real feelings: his manner varied
+                     continually. <persName ref="#bp">Belinda</persName> could not avoid seeing
+                     his perplexity—she had recourse again
+                     to the <ecda:fauna>gold fishes</ecda:fauna>, and to <persName ref="#hd">Helena</persName>: upon
+                     these subjects they could both speak
+                     very fluently. <persName ref="#ld">Lady Delacour</persName> made her 
+                     appearance by the time that <persName ref="#ch">Clarence</persName>
+                     had finished repeating the <persName ref="#jean_antoine_nollet_1700">abbé Nollet's</persName> 
+                     experiments, which he had heard from
+                     his friend <persName ref="#rx">doctor X―</persName>.
+                 </p>
+                 <p><said>Now, <persName ref="#bp">miss Portman</persName>, the transmission
+                 of sound in water,</said> said <persName ref="#ch">Clarence</persName>—                     
+                 </p>
+                 
+                 
+                 
+               
+               
+                 
+             </div>   
+                
+                
+                
+                
+                
+                
+                
+                
+                
+            </div>
+            
+            
+            
+            
+            
             <trailer rend="allcaps">End of Vol. I</trailer>
         </body>
         <back>
@@ -10292,4 +10595,5 @@ be down stairs in three minutes.</said>
             </titleBlock>
         </back>
     </text>
+    
 </TEI>
