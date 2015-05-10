@@ -3612,7 +3612,7 @@
               <head>Argument</head>
               <ab rend="italic">Hymn to the month of January, when <unclear reason="flawed-reproduction">crop</unclear> begins. Address. Planters have
                   employment all the year round. Planters should be pious. A ripe Cane piece
-                  on fire at midnight. Crop begun. Cane cutting described. Effects of
+                  on fire at midnight. Crop begun. <ecda:commodity ana="#production #flora">Cane</ecda:commodity> cutting described. Effects of
                   music. Great care requisite in feeding the mill. Humanity towards the 
                   <unclear reason="flawed-reproduction">maimed</unclear> recommended. The tainted <ecda:flora>Canes</ecda:flora> should not be ground. Their
                  use. How to preserve the laths and mill-points from sudden squalls.
@@ -3625,10 +3625,10 @@
                  well, recommended. A boiling-house should be lofty, and open at 
                  top, to the leeward. Constituent parts of vegetables. <ecda:commodity ana="#food">Sugar</ecda:commodity> an essential
                  salt. What retards its granulation. How to forward it. Dumb Cane.
-                 Effects of it. Bristol-lime the best temper. Various uses of Bristol lime.
-                 Good muscovado described. Bermudas-lime recommended. The Negroes
+                 Effects of it. <placeName>Bristol</placeName>-lime the best temper. Various uses of <ecda:commodity ana="#use"><placeName>Bristol</placeName> lime</ecda:commodity>.
+                 Good muscovado described. <ecda:commodity><placeName>Bermudas</placeName>-lime</ecda:commodity> recommended. The <name>Negroes</name>
                  should not be hindered from drinking the hot liquor. The chearfulness
-                 and healthiness of Negroes in crop time. Boilers to be encouraged. 
+                 and healthiness of <name>Negroes</name> in crop time. Boilers to be encouraged. 
                  They snould neither boil the sugar too little, nor too much. When the 
                  Sugar is of too loose a grain, and about to boil over the teach, or last
                  copper, a little crease settles it, and makes it a boil closer. The <name>French</name>
@@ -3671,7 +3671,7 @@
                  <l>Dares winter, by is residence, prophane.</l>
                  <l>At times the ruffian, wrapt in murky state,</l>
                  <l>Inroads will, fly, attempt; but soon the sun,</l>
-                 <l>Benign protector of the Cane-land isles,</l>
+                 <l>Benign protector of the <rs type="place">Cane-land isles</rs>,</l>
                  <l>Repells the invader, and his rude mace breaks.</l>
                  <l>Here, every mountain, every winding dell,</l>
                  <l>(Haunt of the Dryads; where, beneath the shade</l>
@@ -3745,7 +3745,7 @@
                  <l>The <name>Negroes</name> rush; and, 'mid the crackling flames,</l>
                  <l>Plunge, dæmon-like! All, all, urge every nerve:</l>
                  <l>This way, tear up those <ecda:flora>Canes</ecda:flora>; dash the fire out,</l>
-                 <l>Which sweeps, with serpent-<orig>error</orig> o'er the ground.</l>
+                 <l>Which sweeps, with serpent-<orig>error</orig> o'er the ground.</l> <!-- terror? -->
                  <l>There, hew these down, their topmost branches burn:</l>
                  <l>And here bid all thy watery engines play;</l>
                  <l>For here the wind the burning deluge drives.</l>
@@ -3762,7 +3762,7 @@
               <lg>
                  <l>Efforts but serve to irritate the flames:</l>
                  <l>Naught but thy ruin can their wrath appease.</l>
-                 <l>Ah, my Palæmon! what avail'd thy care,</l>
+                 <l>Ah, my <persName>Palæmon</persName>! what avail'd thy care,</l>
                  
 <pb/>
 <fw type="pageNum">92</fw>
@@ -3779,8 +3779,8 @@
                  <l>For now the sail-clad points, impatient wait</l>
                  <l>The hour of sweet release, to court the gale.</l>
                  <l>The late-hung coppers wish to feel the warmth</l>
-                 <l>Which well-dried fewel from the Cane imparts:</l>
-                 <l>The Negroe-train, with placid looks, survey</l>
+                 <l>Which well-dried fewel from the <ecda:flora>Cane</ecda:flora> imparts:</l>
+                 <l>The <name>Negroe</name>-train, with placid looks, survey</l>
                  <l>Thy fields, which full perfection have attain'd,</l>
                  <l>And pant to wield the bill: (no surly watch</l>
                  <l>Dare now deprive them of the luscious <ecda:flora ana="#commodity">Cane</ecda:flora>:)</l>
@@ -3898,7 +3898,7 @@
 <fw type="pageNum">97</fw>
                  
                  <l>In separate parcels, far, the infected fling:</l>
-                 <l>Of bad <ecda:flora>Cane-juice</ecda:flora> the least admixture <unclear>spons</unclear></l>
+                 <l>Of bad <ecda:commodity ana="#refine">Cane-juice</ecda:commodity> the least admixture <unclear>spons</unclear></l>
                  <l>The richest, soundest; thus, in pastoral walks,</l>
                  <l>One tainted <ecda:fauna>sheep</ecda:fauna> contaminates the fold.</l>
               </lg>
@@ -3908,17 +3908,17 @@
                  <l>These, to small junks reduc'd, and in huge casks</l>
                  <l>Steept, where no cool winds blow; do thou ferment:—</l>
                  <l>Then, when from his entaglements inlarg'd</l>
-                 <l>Th' evasive spirit mounts; by Vulcan's aid,</l>
+                 <l>Th' evasive spirit mounts; by <persName>Vulcan's</persName> aid,</l>
                  <l>(Nor <seg xml:id="a087" corresp="#n087">Amphitryte</seg> will her help deny,)</l>
                  <l>Do thou through all his winding ways pursue</l>
                  <l>The runaway; till in thy sparkling bowl</l>
                  <l>Confin'd he dances mor a friend to life,</l>
                  <l>And joy, than that <seg ana="#medical">Nepenthe</seg> fam'd of yore,</l> <!-- this is a mythological medicine? -->
-                 <l>Which Polydamna, Thone's imperial queen,</l>
-                 <l>Taught Jove-born Helen on the banks of <placeName>Nile</placeName>.</l>
+                 <l>Which <persName>Polydamna</persName>, Thone's imperial queen,</l>
+                 <l>Taught <persName>Jove</persName>-born <persName>Helen</persName> on the banks of <placeName>Nile</placeName>.</l>
               </lg>
               <lg>
-                 <l>As on old ociean, when the wind blows high,</l>
+                 <l>As on old ocean, when the wind blows high,</l>
                  <l>The cautious mariner bursts the speeding gale,</l>
                  <l>If thou from ruin would'st thy points preserve,</l>
                  <l>Less Bellying canvass to the storm oppose.</l>
@@ -3939,13 +3939,13 @@
                  <l>They pacing round, give motion to the whole.</l>
                  <l>The close brac'd cylinders with ease revolve</l>
                  <l>On their greas'd axle; and with ease reduce</l>
-                 <l>To trash, the canes thy negores throw between.</l>
+                 <l>To trash, the canes thy <name>negroes</name> throw between.</l>
                  <l>Fast stows the liquor thro' the lead lin'd spouts;</l>
                  <l>And depurated by opposing wines,</l>
                  <l>In the receiver floats a limpid stream.</l>
                  <l>So twice five casks, with <ecda:commodity ana="#food #flora #refinement">muscovado</ecda:commodity> fill'd,</l>
                  <l>Shall from thy stanchions drip, ere Day's bright god</l>
-                 <l>Hath in the Atlantic six times cool'd his wheels.</l>
+                 <l>Hath in the <placeName>Atlantic</placeName> six times cool'd his wheels.</l>
               </lg>
               <lg>
                  <l>Wouldst thou against calamity provide?</l>
@@ -3970,13 +3970,13 @@
               <lg>
                  <l>For not, even then, my friend, art thou secure</l>
                  <l>From fortune: spite of all thy steady care,</l>
-                 <l>What ills, that laugh to scorm Machaon's art,</l>
+                 <l>What ills, that laugh to scorn <persName>Machaon's</persName> art,</l>
                  
 <pb/>
 <fw type="pageNum">102</fw>
                  
                  <l>Await thy <ecda:fauna>cattle</ecda:fauna>! fancy's tabid form,</l>
-                 <l>Joint-racking spasms, and cholic's pungent pang,</l>
+                 <l ana="#disease">Joint-racking spasms, and cholic's pungent pang,</l>
                  <l>Need the muse tell? which one in luckless moon,</l>
                  <l>Thy sheds dispeople; when perhaps thy groves,</l>
                  <l>To full perfection shot, by day, by night,</l>
@@ -3989,15 +3989,15 @@
               </lg>
               <lg>
                  <l>In <seg xml:id="a089" corresp="#n089">Karukera's</seg> rich well-water'd isle!</l>
-                 <l>In <seg xml:id="a090" corresp="#n090">Matanina</seg>! boast of Albion's arms,</l>
+                 <l>In <seg xml:id="a090" corresp="#n090">Matanina</seg>! boast of <placeName>Albion's</placeName> arms,</l>
                  <l>The brawling Naiads for the planters toil,</l>
                  <l>Howe'er unworthy; and, thro' solemn scenes,</l>
                  <l>Romantic, cool, with rocks and woods between,</l>
                  <l>Enchant the senses! but, among thy swains,</l>
-                 <l>Sweet Liamuiga! who such bliss can boast?</l>
-                 <l>Yes, Romney, thou may'st boast; of <rs type="properAdjective">British</rs> heart,</l>
+                 <l>Sweet <placeName>Liamuiga</placeName>! who such bliss can boast?</l>
+                 <l>Yes, <persName>Romney</persName>, thou may'st boast; of <rs type="properAdjective">British</rs> heart,</l>
                  <l>Of courtly manners, join'd to antient worth:</l>
-                 <l>Friend to thy Britain's every blood earn'd right,</l>
+                 <l>Friend to thy <placeName>Britain'</placeName>s every blood earn'd right,</l>
                  
 <pb/>
 <fw type="pageNum">103</fw>
@@ -4079,7 +4079,7 @@
                  <l>The aqueous particles to mount in air.</l>
               </lg>
               <lg>
-                 <l>'Mong salts essential, <ecda:commodity>sugar</ecda:commodity> wins the palm,</l> <!-- interesting comment on "essential" salts (amongst which is sugar) No use value, but seen as "essential"? -->
+                 <l>'Mong salts essential, <ecda:commodity>sugar</ecda:commodity> wins the palm,</l> 
                  <l xml:id="a093" corresp="#n093">For taste, for colour, and for various use:</l>
                  
 <pb/>
@@ -4092,14 +4092,14 @@
                  <l>Muster so strong, as scarce to be subdued.</l>
               </lg>
               <lg>
-                 <l>Muse, sing the ways to quell them. Some use <ecda:flora>Cane</ecda:flora>,</l>
+                 <l>Muse, sing the ways to quell them. <milestone unit="unnumbered" ana="#poison" spanTo="#ana002"/>Some use <ecda:flora>Cane</ecda:flora>,</l>
                  <l><seg xml:id="a094" corresp="#n094">That Cane</seg>, whose juices to the tongue apply'd,</l>
                  
 <pb/>
 <fw type="pageNum">107</fw>
                  
                  <l>In silence lock it, sudden, and constrain'd,</l>
-                 <l>(Death to <persName>Xantippe</persName>,) with distorting pain.</l>
+                 <l>(Death to <persName>Xantippe</persName>,) with distorting pain.<milestone unit="unnumbered" xml:id="ana002"/></l>
               </lg>
               <lg>
                  <l>Nor is it not effectual: But wouldst thou</l>
@@ -4169,7 +4169,7 @@
                  <l>But chief the sick and young, at setting day,</l>
                  <l>Themselves regale with oft-repeated draughts</l>
                  <l>Of tepid Nectar; so shall health and strength</l>
-                 <l>Confirm thy Negroes, and make labour light.</l>
+                 <l>Confirm thy <name>Negroes</name>, and make labour light.</l>
               </lg>
               <lg>
                  <l>While flame thy chimneys, while thy coppers foam,</l>
@@ -4244,7 +4244,7 @@
                  <l>And, with abhorrence reprobate the <unclear reason="flawed-reproduction">name.</unclear></l>
               </lg>
               <lg>
-                 <l>Fortune had crown'd <!--Avaro's--> younger years,</l>
+                 <l>Fortune had crown'd <persName>Avaro's</persName> younger years,</l>
                  <l>With a vast tract of land, on which the cane</l>
                  <l>Delighted grew, nor ask'd the toil of art.</l>
                  <l>The Sugar-bakers deem'd themselves secure,</l>
@@ -4296,7 +4296,7 @@
 <fw type="pageNum">114</fw>
                  
                  <l>I spurn indignant; toil a pleasure seems.</l>
-                 <l><seg xml:id="a096" corresp="#n096">For not <!-- Marne's --> flowery banks, nor <!-- Tille's --></seg> green bounds,</l>
+                 <l><seg xml:id="a096" corresp="#n096">For not <placeName>Marne's</placeName> flowery banks, nor <placeName>Tille's</placeName></seg> green bounds,</l>
                  <l>Where <persName ref="#ceres_0001">Ceres</persName> with the God of vintage reigns,</l>
                  <l>In happiest union, nor <rs type="properAdjective">Vigornian</rs> hills,</l>
                  <l><persName ref="#pomona_0001">Pomona's</persName> lov'd abode, afford to man</l>
@@ -4307,7 +4307,7 @@
                  <l>Yet, 'mid this blest ebriety, some tears,</l>
                  <l>For friends I left in <rs type="place">Albion's</rs> distant isle,</l>
                  <l>For <persName ref="#samuel_johnson_1709" cert="medium">Johnson</persName>, <persName ref="#thomas_percy_1729">Percy</persName>, <persName>White</persName>, escape mine eyes:</l>
-                 <l><seg xml:id="a097" corresp="#n097">For her, fair <rs type="person">Auth'ress <!-- ?? --></rs>!</seg> whom first <!-- Calpe's --> rocks</l>
+                 <l><seg xml:id="a097" corresp="#n097">For her, fair <rs type="person" ref="#charlotte_lennox">Auth'ress</rs>!</seg> whom first <placeName>Calpe's</placeName> rocks</l>
                  <l>A sportive infant saw; and whose green years</l>
                  <l>True genius blest with her benignest gifts</l>
                  <l>Of happiest fancy. O, were ye all here,</l>
@@ -4337,12 +4337,12 @@
                  <l>Nor not delightful are those reed-built huts,</l>
                  <l>On yonder hill, that front the rising sun;</l>
                  <l>With <ecda:flora>plantanes</ecda:flora>, with <ecda:flora>banana's</ecda:flora> bosom'd-deep,</l>
-                 <l>That flutter in the wind: where frolick goats,</l>
+                 <l>That flutter in the wind: where frolick <ecda:fauna>goats</ecda:fauna>,</l>
                  
 <pb/>
 <fw type="pageNum">116</fw>
                  
-                 <l>Butt the young negroes, while their swarthy sires,</l>
+                 <l>Butt the young <name>negroes</name>, while their swarthy sires,</l>
                  <l>With ardent gladness wield the bill, and <unclear>hark</unclear>,</l>
                  <l>The crop is finish'd, how they rend the sky!—</l>
               </lg>
@@ -4358,7 +4358,7 @@
                  <l>Their airies build, a water spout descends,</l>
                  <l>And shakes mid ocean; and while there below,</l>
                  <l>That town, embowered in the different shade</l>
-                 <l>Of <ecda:flora>tamarinds</ecda:flora>, <seg xml:id="a099" corresp="#n099"><ecda:flora>panspans</ecda:flora></seg>, and <seg xml:id="a100" corresp="#n100"><ecda:flora>papaws</ecda:flora></seg>, o'er which</l>
+                 <l>Of <ecda:flora>tamarinds</ecda:flora>, <seg xml:id="a099" corresp="#n099">panspans</seg>, and <ecda:flora xml:id="a100" corresp="#n100">papaws</ecda:flora>, o'er which</l>
                  
 <pb xml:id="pb18" corresp="#pbn18"/>
 <fw type="pageNum">117</fw>
@@ -4399,7 +4399,7 @@
               </lg>
               <lg>
                  <l>While such fair scenes adorn these blissful isles;</l>
-                 <l>Why will their sons, ungrateful, roam abroad?</l>
+                 <l>Why will their sons, ungrateful, roam abroad?</l> <!-- talking about creoles who leave -->
                  <l>Why spend their opulence in other climes?</l>
               </lg>
               <lg>
@@ -4429,7 +4429,7 @@
                  <l>All emulous, to Freedom's standard fly,</l>
                  <l>And drive invasion from their native shore:</l>
                  <l>How would my soul exult with consious pride;</l>
-                 <l>Nor grudge those wreaths Tyrtæus gain'd of yore.</l>
+                 <l>Nor grudge those wreaths <persName>Tyrtæus</persName> gain'd of yore.</l>
               </lg>
               <lg>
                  <l>Or are ye fond of rich luxurious cates?—</l>
@@ -4515,20 +4515,20 @@
            
            <div type="prefatory">
               <head>Argument</head>
-              <ab rend="italic">Invocation to the Genius of <placeName>Africa</placeName>. Negroes when bought should
-                 be young, and strong. The Congo-negroes are fitter for the house and
-                 trades, than for the field. The Gold-Coast, but especially the Papaw-
-                 negroes, make the best field negroes: but even these, if advanced in years,
-                 should not be purchased. The markes of a sound negroe at a negroe sale.
+              <ab rend="italic">Invocation to the Genius of <placeName>Africa</placeName>. <name>Negroes</name> when bought should
+                 be young, and strong. The <name>Congo-negroes</name> are fitter for the house and
+                 trades, than for the field. The <placeName>Gold-Coast</placeName>, but especially the <name>Papaw-
+                 negroes</name>, make the best field negroes: but even these, if advanced in years,
+                 should not be purchased. The markes of a sound <name>negroe</name> at a <name>negroe</name> sale.
                  Where the men do nothing but hunt, fish or fight, and all field drudgery
                  is left to the women; these are to be preferred to their husbands. The
-                 <unclear reason="flawed-reproduction">Minnahs</unclear> make good tradesmen, but <unclear reason="flawed-reproduction">addicted to suicide</unclear>. The Mundigos,
-                 in particular, subject to worms; and the Congas, to dropsical disorders.
-                 How salt-water, or new negroes should be seasoned. Some negroes eat
-                 dirt. Negroes should be habituated by gentle degrees to field labour. This
+                 <unclear reason="flawed-reproduction">Minnahs</unclear> make good tradesmen, but <unclear reason="flawed-reproduction">addicted to suicide</unclear>. The <name>Mundigos</name>,
+                 in particular, subject to worms; and the <name>Congas</name>, to dropsical disorders.
+                 How salt-water, or new negroes should be seasoned. Some <name>negroes</name> eat
+                 dirt. <name>Negroes</name> should be habituated by gentle degrees to field labour. This
                  labour, when compared to that in lead-mines, or of those who work in the
                  gold and silver mines of <placeName>South America</placeName>, is not only less toilsome, but far
-                 more healthy. Negroes should always be treated with humanity. Praise
+                 more healthy. <name>Negroes</name> should always be treated with humanity. Praise
                  of freedom. Of the dracunculus, or dragon worm. Of chigres. Of
                  the <unclear reason="flawed-reproduction">yaws</unclear>. Might not this disease be imparted by <unclear reason="flawed-reproduction">inoculation</unclear>? Of worms,
                  and their mulitform appearance. Praise of commerce. Of the imaginary
@@ -4536,16 +4536,16 @@
                  men. The composition and supposed virtues of a magic-phiol. Field-negroes
                  should not begin to work before six in the morning, and should leave off between
                  eleven and twelve; and beginning again at two, should finish before sunset.
-                 Of the weekly appearance of negroes. The young, the old, the
+                 Of the weekly appearance of <name>negroes</name>. The young, the old, the
                  sickly, and even the lazy, must have their victuals prepared for them.
                  Of negroe-ground, and its various productions. To be fenced in, and
-                 watched. Of an American garden. Of the situation of the negroe-huts.
+                 watched. Of an <rs type="properAdjective">American</rs> garden. Of the situation of the negroe-huts.
                  How best defended from fire. The great negroe-dance described. Drumming,
-                 and intoxicating spirits not to be allowed. Negroes should be
+                 and intoxicating spirits not to be allowed. <name>Negroes</name> should be
                  made to marry in their masters plantation. Inconvenciences arising from
-                 the contrary practice. Negroes to be cloathed once a year, and before
-                 Christmas. Praise of <persName ref="louis_xiv_1638">Lewis XIV.</persName> for the Code Noir. A body of laws
-                 of this kind recommended to the English sugar colonies. Praise of the
+                 the contrary practice. <name>Negroes</name> to be cloathed once a year, and before
+                 Christmas. Praise of <persName ref="louis_xiv_1638">Lewis XIV.</persName> for the <name>Code Noir</name>. A body of laws
+                 of this kind recommended to the <rs type="properAdjective">English</rs> sugar colonies. Praise of the
                  river Thames. A moonlight landscape and vision.
               </ab>
            </div>
@@ -4556,7 +4556,7 @@
               <head>The Sugar-Cane</head>
               <head type="sub"></head>
               <lg type="poem" subtype="indeterminate">
-                 <l>Genius of Africk! whether thou bestrid'st</l>
+                 <l>Genius of <placeName>Africk</placeName>! whether thou bestrid'st</l>
                  <l>The castled <ecda:fauna>elephant</ecda:fauna>; or at the source,</l>
                  <l>(While howls the desart fearfully around,)</l>
                  <l>Of thine own <placeName>Niger</placeName>, sadly thou reclin'st</l>
@@ -4608,7 +4608,7 @@
               </lg>
               <lg>
                  <l>In mind, and aptitude for useful toil,</l>
-                 <l>The negroes differ: must that difference sing.</l>
+                 <l>The <name>negroes</name> differ: must that difference sing.</l>
               </lg>
               <lg>
                  <l>Whether to wield the hoe, or guide the plane;</l>
@@ -4653,11 +4653,11 @@
                  <l>Buy not the old: they ever sullen prove;</l>
                  <l>With heart-felt anguish, they lament their home;</l>
                  <l>They will not, cannot work; they never learn</l>
-                 <l>Thy native language, they are prone to ails;</l>
+                 <l>Thy native language, <seg ana="#disease">they are prone to ails;</seg></l>
                  <l>And oft by suicide their being end.—</l>
               </lg>
               <lg>
-                 <l>Must thou from <name>Africk</name> reinforce thy gang?—</l>
+                 <l>Must thou from <placeName>Africk</placeName> reinforce thy gang?—</l>
                  <l>Let health and youth their every sinew firm;</l>
                  <l>Clear roll their ample eye; their tongue be red;</l>
                  <l>Broad swell their chest; theyr shoulders wide expand;</l>
@@ -4675,7 +4675,7 @@
                  <l>Yet, if thine own, thy childrens life, be dear;</l>
                  <l>Buy not a <name>Cormantee</name>, tho' healthy, young.</l>
                  <l>Of breed to generous for the servile field;</l>
-                 <l>They, born to freedome in their native land,</l>
+                 <l>They, born to freedom in their native land,</l>
                  <l>Chuse death before dishonourable bonds:</l>
                  <l>Or, fir'd with vengeance, at the midnight hour,</l>
                  <l>Sudden they seize thine unsuspecting watch,</l>
@@ -4683,7 +4683,7 @@
               </lg>
               <lg>
                  <l>At home, the men, in many a sylvan realm,</l>
-                 <l>Their rank tobacco, charm of sauntering minds,</l>
+                 <l>Their rank <ecda:flora>tobacco</ecda:flora>, charm of sauntering minds,</l>
                  <l>From clayey tubes inhale; or vacant, beat</l>
                  <l>For prey the forest; or, in war's dread ranks,</l>
                  <l>Their country's foes affront: while, in the field,</l>
@@ -4701,11 +4701,11 @@
                  <l>The slaves from <placeName>Minnah</placeName> are of stubborn breed:</l>
                  <l>But, when the bill, or hammer, they affect;</l>
                  <l>They soon perfection reach. But fly, with care,</l>
-                 <l>The Moco-nation; they themselves destroy.</l>
+                 <l>The <name>Moco-nation</name>; they themselves destroy.</l>
               </lg>
               <lg>
                  <l>Worms lurk in all: yet, pronest they to worms,</l>
-                 <l>Who from Mundingo sail. When therefore such</l>
+                 <l>Who from <placeName>Mundingo</placeName> sail. When therefore such</l>
                  <l>Thou buy'st, for sturdy and laborious they,</l>
                  <l>Straight let some learned leach strong medicines give,</l>
                  <l>Till food and climate both familiar grow.</l>
@@ -4728,9 +4728,9 @@
                  <l>Just strength attain to labour for their lord.</l>
               </lg>
               <lg>
-                 <l>Would'st thou secure thine Ethiop from those ails,</l>
+                 <l><milestone unit="unnumbered" ana="#disease #medical" spanTo="#ana003"/>Would'st thou secure thine <name>Ethiop</name> from those ails,</l>
                  <l>Which change of climate, charge of waters breed,</l>
-                 <l>And food unusual? let Machaon draw</l>
+                 <l>And food unusual? let <persName>Machaon</persName> draw</l>
                  <l>From each some blood, as age and sex require;</l>
                  <l>And well with vervain, well with sempre-vive,</l>
                  <l>Unload their bowels.—These, in every hedge,</l>
@@ -4740,7 +4740,7 @@
                  <l>But chief do thou, my friend, with hearty food,</l>
                  <l>Yet easy of digestion, likest that</l>
                  <l>Which they at home regal'd on; renovate</l>
-                 <l>Their sea-worn appetites. Let gentle work,</l>
+                 <l>Their sea-worn appetites.<milestone unit="unnumbered" xml:id="ana003"/> Let gentle work,</l>
                  <l>Or rather playful exercise, amuse</l>
                  <l>The novel gang: and far be angry words;</l>
                  <l>Far ponderous chains; and far disheartening blows.—</l>
@@ -4788,7 +4788,7 @@
                  <l>All to the Cane-ground, with thy gang, repair.</l>
               </lg>
               <lg>
-                 <l>Nor, Negroe, at thy destiny repine,</l>
+                 <l>Nor, <name>Negroe</name>, at thy destiny repine,</l>
                  <l>Tho' doom'd to toil from dawn to setting sun.</l>
                  <l>How far more pleasant is thy rural task,</l>
                  <l>Than theirs who sweat, sequestered from the day,</l>
@@ -4834,16 +4834,16 @@
                  <l>Yet death slow comes, to torture them the more!</l>
               </lg>
               <lg>
-                 <l>With these compar'd, <rs type="persGroup">ye sons of Afric</rs>, say,</l>
+                 <l>With these compar'd, ye sons of <placeName>Afric</placeName>, say,</l>
                  <l>How far more happy is your lot? Bland health,</l>
                  <l>Of ardent eye, and limb robust, attends</l>
                  <l>Your custom'd labour; and should sickness seize,</l>
                  <l>With what solicitude are ye not nurs'd!—</l>
-                 <l>Ye Negroes, then, your pleasing task pursue;</l>
+                 <l>Ye <name>Negroes</name>, then, your pleasing task pursue;</l>
                  <l>And, by your toil, deserve your master's care.</l>
               </lg>
               <lg>
-                 <l>When first your <rs type="persGroup">Blacks</rs> are novel to the hoe;</l>
+                 <l>When first your Blacks are novel to the hoe;</l>
                  <l>Study their humours: some soft-soothing words;</l>
                  <l>Some, presents; and some, menaces subude;</l>
                  <l>And some I've known, so stubborn is their kind,</l>
@@ -4854,8 +4854,8 @@
 <fw type="pageNum">136</fw>
               
               <lg>
-                 <l>Yet, planter, let humanity prevail.—</l>
-                 <l>Perhaps thy Negroe, in his native land,</l>
+                 <l>Yet, planter, let humanity prevail.—</l>                                 <!-- discuss at meeting -->
+                 <l>Perhaps thy <name>Negroe</name>, in his native land,</l>
                  <l>Possest large fertile plains, and slaves, and herds:</l>
                  <l>Perhaps, whene'er he deign'd to walk abroad,</l>
                  <l>The richest silks, from where the <placeName>Indus</placeName> rolls,</l>
@@ -4894,10 +4894,10 @@
                  <l>Servants, not slaves; of choice, and not compell'd;</l>
                  <l>The Blacks should cultivate the <rs type="place">Cane-land isles</rs>.</l>
               </lg>
-              <milestone unit="section" spanTo="#ana001"/>
+              <milestone unit="unnumbered" spanTo="#ana001" ana="#disease #medical"/>
               <lg>
                  <l>Say, shall the muse the various ills recount,</l>
-                 <l>Which Negroe-nations feel? Shall she describe</l>
+                 <l>Which <rs type="place">Negroe-nations</rs> feel? Shall she describe</l>
                  <l>The worm that subtly winds into their flesh,</l>
                  <l>All as they bathe them in their native streams?</l>
                  <l>There, with fell increment, it soon attains</l>
@@ -4907,7 +4907,7 @@
                  <l>A leaden cylinder: But, O, beware,</l>
                  <l>No rashness practice; else 'twill surely snap,</l>
                  <l>And suddenly, retreating, dire produce</l>
-                 <l>An annual lameness to the tortured Moor.</l>
+                 <l>An annual lameness to the tortured <name>Moor</name>.</l>
               </lg>
               
 <pb/>
@@ -4924,7 +4924,7 @@
               </lg>
               <lg>
                  <l>Or, shall she sing, and not debase her lay,</l>
-                 <l>The pest peculiar to the Æthiop-kind,</l>
+                 <l>The pest peculiar to the <name>Æthiop-kind</name>,</l>
                  <l>The yaw's infectious bane?—The infected far</l>
                  <l>In huts, to leeward, lodge; or near the main.</l>
                  <l>With heartning food, with <ecda:fauna ana="#food">turtle</ecda:fauna>, and with conchs;</l>
@@ -4955,7 +4955,7 @@
                  <l>Say, as this malady but once infests</l>
                  <l>The sons of <placeName>Guinea</placeName>, might not skill ingraft</l>
                  <l>(Thus, the small-pos are happily conveyed;)</l>
-                 <l>This ailment early to thy Negroe-train?</l>
+                 <l>This ailment early to thy <name>Negroe</name>-train?</l>
               </lg>
                  
 <pb/>
@@ -4986,14 +4986,14 @@
                  <l>Rank <seg xml:id="a110" corresp="#n110">cow-itch</seg> grows, whose sharp unnumber'd stings,</l>
                  <l>Sheath'd in Melasses, from their dens expell,</l>
                  <l>Fell dens of death, the reptile lurking foe.—</l>
-                 <milestone unit="section" xml:id="ana001"/>
+                 
 <pb/>
 <fw type="pageNum">141</fw>
                  
                  <l>A powerful vermifuge, in skilful hands,</l>
                  <l>The worm-grass proves; yet, even in hands of skill,</l>
                  <l>Sudden, I've known it dime the visual ray</l>
-                 <l>For a whole day and night. These are who use</l>
+                 <l>For a whole day and night.<milestone unit="unnumbered" xml:id="ana001"/> These are who use</l>
                  <l>(And sage Experience justifies the use)</l>
                  <l xml:id="a111" corresp="#n111">The mineral product of the <rs type="properAdjective">Cornish</rs> mine;</l>
                  <l>Which in old times, ere <placeName>Britain</placeName> laws enjoyed,</l>
@@ -5023,7 +5023,7 @@
                  <l>Her <ecda:commodity>gold</ecda:commodity> and <ecda:commodity>diamonds</ecda:commodity>; toil, thy firm compeer,</l>
                  <l>And industry of unremitting nerve,</l>
                  <l>Scale the cleft mountain, the loud torrent brave,</l>
-                 <l>Plunge to the center, and trho' nature's wiles,</l>
+                 <l>Plunge to the center, and thro' nature's wiles,</l>
                  <l>(Led on by skill of the penetrative soul)</l>
                  <l>Her following close, her secret treasures find,</l>
                  <l>To pour them plenteous on the laughing world.</l>
@@ -5050,8 +5050,9 @@
                  <l>That world, where now thy praises I rehearse</l>
                  <l>To the resounding main and palmy shore;</l>
                  <l>And <placeName>Lusitania's</placeName> chiefs those realms explor'd.</l>
-                 <l>Whence negroes spring, the subject of my song.</l>
+                 <l>Whence <name>negroes</name> spring, the subject of my song.</l>
               </lg>
+              <milestone unit="unnumbered" ana="#obeah" spanTo="#ana004"/>
               <lg>
                  <l>Nor pine the Blacks, alone, with real ills,</l>
                  <l>That baffle oft the wisest rules of art:</l>
@@ -5075,7 +5076,7 @@
                  <l>To save the wretch by antidote or spell.</l>
               </lg>
               <lg>
-                 <l ana="#religion #obeah">In magic spells, in Obia, all the sons</l>
+                 <l>In magic spells, in Obia, all the sons</l>
                  <l>Of sable Africk trust:—Ye, sacred nine!</l>
                  <l>(For ye each hidden preparation know)</l>
                  <l>Transpierce the gloom, which ignorance fraud</l>
@@ -5109,6 +5110,7 @@
                  <l>As slaves were ever of the pilfering kind,</l>
                  <l>This from detection screens;—so conjurers swear.</l>
               </lg>
+              <milestone unit="unnumbered" xml:id="ana004"/>
               <lg>
                  <l>'Till morning dawn, and <persName>Lucifer</persName> withdraw</l>
                  <l>His beamy chariot; let not the loud bell</l>
@@ -5116,7 +5118,7 @@
 <pb/>
 <fw type="pageNum">146</fw>
                  
-                 <l>Call forth thy negroes from their rushy couch:</l>
+                 <l>Call forth thy <name>negroes</name> from their rushy couch:</l>
                  <l>And ere the sun with mid-day fervour glow,</l>
                  <l>When every <seg xml:id="a113" corresp="#n113">broom-brush</seg> opes her yellow flower;</l>
                  <l>Let thy black labourers from their tail desist:</l>
@@ -5151,7 +5153,7 @@
                  <l>Free from disorders; and thine acres clad</l>
                  <l>With groves of sugar: every week dispense</l>
                  <l>Or <rs type="properAdjective">English</rs> <ecda:food>beans</ecda:food>, or <rs type="properAdjective">Carolinian</rs> <ecda:food>rice</ecda:food>;</l>
-                 <l>Iërne's beef, or <rs type="place">Pensilvanian</rs> <ecda:food>flour</ecda:food>;</l>
+                 <l>Iërne's beef, or <rs type="properAdjective">Pensilvanian</rs> <ecda:food>flour</ecda:food>;</l>
                  <l><rs type="place">Newfoundland</rs> <ecda:food>cod</ecda:food>, or <ecda:food>herrings</ecda:food> from the main</l>
                  <l>That howls tempestous round the <rs type="place">Scotian isles</rs>!</l>
               </lg>
@@ -5206,7 +5208,7 @@
                  <l>In comely neighbourhood, the cotton shrub;</l>
                  <l>In this delicious clime the cotton bursts</l>
                  <l>On rocky soils.—The <ecda:flora>coffee</ecda:flora> also plant;</l>
-                 <l>White as the skin of Albion's lovely fair,</l>
+                 <l>White as the skin of <placeName>Albion's</placeName> lovely fair,</l>
                  <l>Are the thick snowy fragrant blooms it boasts:</l>
                  <l>Nor wilt thou, cocô, thy rich pods refuse;</l>
                  <l>Tho' years, and heat, and moisture they require,</l>
@@ -5265,7 +5267,7 @@
                  <l>While thy long pods, full-fraught with nectared sweets,</l>
                  <l>Relieve the bowels from their lagging load.</l>
                  <l>Nor chirimoia, though these torrid isles</l>
-                 <l>Boast not thy fruit, to which the anana yeilds</l>
+                 <l>Boast not thy fruit, to which the <ecda:flora>anana</ecda:flora> yeilds</l>
                  <l>In taste and flavour, wilt thou coy refuse</l>
                  
 <pb/>
@@ -5397,7 +5399,7 @@
 <pb/>
 <fw type="pageNum">159</fw>
                  
-                 <l>To every Negroe, as the <seg xml:id="a135" corresp="#n135">candle-weed</seg></l>
+                 <l>To every <name>Negroe</name>, as the <seg xml:id="a135" corresp="#n135">candle-weed</seg></l>
                  <l>Expands his blossoms to the cloudy sky,</l>
                  <l>And moist Aquarius melts in daily showers;</l>
                  <l>A woolly vestment give, (this <placeName>Wiltshire</placeName> weaves)</l>
@@ -5415,7 +5417,7 @@
                  <l>For sly chicane expell'd the wrangling bar;</l>
                  <l>And rightfull <persName>Themis</persName> seated on her throne:</l>
                  <l>But chief, for those mild laws his wisdom fram'd,</l>
-                 <l>To guard the Æthiop from tyrannic sway!</l>
+                 <l>To guard the <name>Æthiop</name> from tyrannic sway!</l>
               </lg>
               <lg>
                  <l>Did such, in these green isles which <placeName>Albion</placeName> claims,</l>
