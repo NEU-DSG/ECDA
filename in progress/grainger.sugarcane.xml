@@ -71,8 +71,8 @@
                  juice</ecda:food> as a drink:
                  <quote xml:lang="la" rend="block"><hi rend="italic">Dulces bibebant ex arundine succos</hi></quote>
                  The industrious Naturalist says, <quote xml:lang="la" rend="italic">Saccharum et Arabia fort, sed laudatius India</quote>; and
-                 the <rs type="properAdjective">Greek</rs> Historian, in his <distinct xml:lang="el" rend="upright">περεπλους</distinct> of the <placeName>Red-sea</placeName>, tells us of the <rs type="place">neighbouring nation</rs>
-                 who drank it also; his words are <distinct xml:lang="el" rend="upright">μελι το xαλαμινον το λεγομενον σαxχαρι</distinct>.
+                 the <rs type="properAdjective">Greek</rs> Historian, in his <distinct type="dialect" xml:lang="el" rend="upright">περεπλους</distinct> of the <placeName>Red-sea</placeName>, tells us of the <rs type="place">neighbouring nation</rs>
+                 who drank it also; his words are <distinct type="dialect" xml:lang="el" rend="upright">μελι το xαλαμινον το λεγομενον σαxχαρι</distinct>.
                  The <ecda:flora ana="#cultivation">Cane</ecda:flora>, however, as it was a native of the East, so has it been probably 
                  cultivated there time immemorial. The raw juice was doubtless first made use of;
                  they afterwards boiled it into a syrup; and, in process of time, and inebriating
@@ -977,10 +977,10 @@
                  <label>Ver. 128</label> <ref>Planter, thou may'st the humble chickweed]</ref> There are two kinds of
                  chickweed, which grow spontaneously in the <placeName>Caribbees</placeName>, and both possess very considerable
                  virtues, particularly that which botanists call <distinct type="scientific">Cajacia</distinct>, and which the
-                 <name>Spaniards</name> emphatically name <distinct xml:lang="es" type="dialect">Erudos Cobres</distinct>, <seg ana="#medical">or <distinct>Snakeweed</distinct>, on account of its remarkable
+                 <name>Spaniards</name> emphatically name <distinct xml:lang="es" type="dialect">Erudos Cobres</distinct>, <seg ana="#medical" type="dialect">or <distinct>Snakeweed</distinct>, on account of its remarkable
                  qualities against poisonous bites.</seg> It is really of use against fish-poison; as is also the
-                 sensitive plant, whic the <name>Spaniards</name> prettily call the <distinct xml:lang="es">Vergonzoza</distinct>, the Bashful, and
-                 <distinct xml:lang="es">La Donzella</distinct>, or the Maiden. There are many kinds of this extraordinary plant,
+                 sensitive plant, whic the <name>Spaniards</name> prettily call the <distinct xml:lang="es" type="dialect">Vergonzoza</distinct>, the Bashful, and
+                 <distinct xml:lang="es" type="dialect">La Donzella</distinct>, or the Maiden. There are many kinds of this extraordinary plant,
                  which grow every where in the Islands and <placeName>South-America</placeName>. The botanical name of 
                  the former is <distinct type="scientific">Alsine</distinct>, and that of the latter <distinct type="scientific">Mimosa</distinct>.
               </p>
@@ -1588,7 +1588,7 @@
            <note xml:id="n128" target="#a128">
               <p><label>Ver. 523.</label> <ref>palmeto,]</ref> This being the most beautiful of palms, nay, perhaps, superior 
                  to any other known tree in the world, has with propriety obtained the name
-                 of <distinct>Royal</distinct>. The botanical name is <distinct type="scientific">Palma Maxima</distinct>. It will shoot up perpendicularly
+                 of <distinct type="dialect">Royal</distinct>. The botanical name is <distinct type="scientific">Palma Maxima</distinct>. It will shoot up perpendicularly
                  to an hundred foot and more. The stem is perfectly circular; only towards the 
                  root, and immediately under the branches at top, it bulges out. The bark is smooth,
                  and of an ash-brown colour, except at the top where it is green. It grows very fast,
@@ -1605,7 +1605,7 @@
               </p>
            </note>
            <note xml:id="n129" target="#a129">
-              <p><label>Ver. 534.</label> <ref>anata,]</ref> Or <distinct>Annotto</distinct>, or <distinct>Arnotta</distinct>; thence corruptly called <distinct type="dialect" xml:lang="en">Indian Otter</distinct>,
+              <p><label>Ver. 534.</label> <ref>anata,]</ref> Or <distinct type="dialect">Annotto</distinct>, or <distinct type="dialect">Arnotta</distinct>; thence corruptly called <distinct type="dialect" xml:lang="en">Indian Otter</distinct>,
                  by the <name>Enlgish</name>. The tree is about the size of an ordinary apple tree. The <name>French</name>
                  call it <distinct type="dialect" xml:lang="fr">Rocou</distinct>; and send the farina home as a paint, &amp;c. for which purpose the tree is
                  cultivated by them in their islands. The flower is pentapetalous, fo a bluish and
@@ -1634,7 +1634,7 @@
                  <pb xml:id="pbn23" corresp="#pb23"/>
                  
                  circular;) and succeeds best in sandy places. It bears large clusters of grapes once a
-                 year; which, when ripe, are not disagreeable. The stones, seeds, or <distinct>acini</distinct>, contained
+                 year; which, when ripe, are not disagreeable. The stones, seeds, or <distinct type="dialect">acini</distinct>, contained
                  in them, are large in proportion; and being reduced to a powder, are an excellent
                  astringent. The bark of the tree has the same property. The grapes, steept 
                  in water and fermented with sugar, make an agreeable wine.

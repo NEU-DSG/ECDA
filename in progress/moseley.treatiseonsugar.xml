@@ -142,8 +142,8 @@
            <note xml:id="n023" target="#a023">
               <p><bibl><title>De Pulmonis et cæteris Thoracis Vitiis</title>, Lib. IV. Cap, 4.
               Lib. V. cap. 1. cap. 2. cap. 4. cap. 5. cap. 8.</bibl> He likewise mentions
-              the sugar called <distinct>penidii</distinct>, Lib. V. cap. 6 and 9.—this <distinct>penidii</distinct>, or
-              <distinct>penidium saccharum</distinct>, is deminimated by the <rs type="place">Greek</rs> writers <distinct type="dialect" xml:lang="el"><unclear>ϖεγιδικ</unclear></distinct>.
+              the sugar called <distinct type="dialect" xml:lang="la">penidii</distinct>, Lib. V. cap. 6 and 9.—this <distinct type="dialect" xml:lang="la">penidii</distinct>, or
+              <distinct type="dialect" xml:lang="la">penidium saccharum</distinct>, is deminimated by the <rs type="place">Greek</rs> writers <distinct type="dialect" xml:lang="el"><unclear>ϖεγιδικ</unclear></distinct>.
               </p>
               <p>It is thought to have been a preparation of sugar, like what we
               call barley-sugar.
@@ -211,18 +211,18 @@
               </p>
            </note>
            <note xml:id="n034" target="#a034">
-              <p><distinct>Manna</distinct> affords an acid of the same nature.</p>
+              <p><distinct type="dialect">Manna</distinct> affords an acid of the same nature.</p>
            </note>
            <note xml:id="n035" target="#a035">
               <p>Sugar is also obtainable from <ecda:flora>grapes</ecda:flora>; particularly from dried
               raisins. We frequently find large grains of pure sugar among
-              <distinct>Malaga</distinct> raisins, that have lain long compressed together.</p>
+              <rs type="properAdjective">Malaga</rs> raisins, that have lain long compressed together.</p>
            </note>
            <note xml:id="n036" target="#a036">
               <bibl><title xml:lang="fr">Histoire du Commerce de <placeName>Venise</placeName></title>, p. 71. 100.</bibl>
            </note>
            <note xml:id="n037" target="#a037">
-              <bibl><title>Psalms</title>, lxviii. v. 30. קיגו <distinct>hastæ</distinct>. <title>2 Samuel</title>, c. xiv. v. 16.</bibl>
+              <bibl><title>Psalms</title>, lxviii. v. 30. קיגו <distinct type="dialect" xml:lang="la">hastæ</distinct>. <title>2 Samuel</title>, c. xiv. v. 16.</bibl>
            </note>
            <note xml:id="n038" target="#a038">
               <bibl><title>Ezekiel</title>, c. xxix. v. 6.</bibl>
@@ -242,7 +242,7 @@
               <bibl><title>Exodus</title>, c.xxv. v.32.</bibl>
            </note>
            <note xml:id="n043" target="#a043">
-              <p><distinct>ךוקה</distinct> an apothecary, or compounder of sweet ointments.</p>
+              <p><distinct type="dialect" xml:lang="he">ךוקה</distinct> an apothecary, or compounder of sweet ointments.</p>
            </note>
            <note xml:id="n044" target="#a044">
               <bibl><title>Proverbs</title>, c. vii. v. 17. English Bible</bibl>
@@ -398,20 +398,20 @@
            </note>
            <note xml:id="n078" target="#a078" ana="#obeah">
               <p>This <name>Obi</name>, or, as it is pronounced in the <placeName>English West Indies</placeName>,
-              <distinct>Obeah</distinct>, had its origin, like many customs among the <name>Africans</name>,
+              <distinct type="dialect">Obeah</distinct>, had its origin, like many customs among the <name>Africans</name>,
               from the ancient <name>Egyptians</name>.</p>
-              <p> אוב<distinct>OB</distinct> is a demon, a spirit of divination, and magic. When
+              <p><distinct type="dialect" xml:lang="he">אוב</distinct> <distinct type="dialect">OB</distinct> is a demon, a spirit of divination, and magic. When
               <persName>Saul</persName> wanted to raise up <persName>Samuel</persName> from the dead, he said to his
-              servants, <quote>Seek me a woman (בעלה אוב eminent for <distinct>Ob</distinct>) that
+              servants, <quote>Seek me a woman (<distinct type="dialect" xml:lang="he">בעלה אוב</distinct> eminent for <distinct type="dialect">Ob</distinct>) that
               hath a familiar spirit</quote></p>
               
               <pb xml:id="pbn001" corresp="#pb001"/>
               
-              <p>His servants replied to him, <quote>There is (אשה בעלה אוב
-              a woman mistress in the art of <distinct>Ob</distinct>) that hath a familiar spirit, at
+              <p>His servants replied to him, <quote>There is (<distinct type="dialect" xml:lang="he">אשה בעלה אוב</distinct>
+              a woman mistress in the art of <distinct type="dialect">Ob</distinct>) that hath a familiar spirit, at
               <placeName>Endor</placeName>.</quote></p>
               <p>When the witch of <placeName>Endor</placeName> came to <persName>Saul</persName>, he said to her, 
-                 <quote>Divine unto me (באוב by thy witchcraft <distinct>Ob</distinct>) by the familiar spirit,
+                 <quote>Divine unto me (באוב by thy witchcraft <distinct type="dialect">Ob</distinct>) by the familiar spirit,
                  and bring me him up whom I shall name unto thee.</quote> <bibl><title>1 Samuel</title>,
                  chap. xxviii. v. 7 and 8.</bibl></p>
            </note>
@@ -487,55 +487,55 @@
             </head>
             <table rows="24" cols="2">
                <row role="data">
-                  <cell role="data"><distinct xml:lang="la"><ecda:commodity>Arundo Saccharifera</ecda:commodity></distinct>.</cell>
+                  <cell role="data"><distinct type="dialect" xml:lang="la"><ecda:commodity>Arundo Saccharifera</ecda:commodity></distinct>.</cell>
                   <cell role="data"><bibl><author rend="smallcaps">C. Bauhin</author>, <title rend="italic">Pin</title>. 18.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><distinct xml:lang="la"><ecda:commodity>Arundo Saccharina</ecda:commodity></distinct>.</cell>
+                  <cell role="data"><distinct type="dialect" xml:lang="la"><ecda:commodity>Arundo Saccharina</ecda:commodity></distinct>.</cell>
                   <cell role="data"><bibl><author rend="smallcaps">J. Bauhin</author>, 2. 531.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><distinct xml:lang="la"><ecda:commodity>Arundo Sacchari</ecda:commodity></distinct>.</cell>
+                  <cell role="data"><distinct type="dialect" xml:lang="la"><ecda:commodity>Arundo Sacchari</ecda:commodity></distinct>.</cell>
                   <cell role="data"><bibl><author rend="smallcaps">F. Hernandez</author>, <hi rend="italic">p</hi>. 109.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><distinct xml:lang="la"><ecda:commodity>Calamus Saccharatus</ecda:commodity></distinct>.</cell>
+                  <cell role="data"><distinct type="dialect" xml:lang="la"><ecda:commodity>Calamus Saccharatus</ecda:commodity></distinct>.</cell>
                   <cell role="data"><bibl><author rend="smallcaps">Munting</author>, <title rend="italic">Pl. Cult.</title><hi rend="italic">p</hi>.
                   284.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><distinct xml:lang="la"><ecda:commodity>Cann&#x00E6; Dulces</ecda:commodity></distinct>.</cell>
+                  <cell role="data"><distinct type="dialect" xml:lang="la"><ecda:commodity>Cann&#x00E6; Dulces</ecda:commodity></distinct>.</cell>
                   <cell role="data"><bibl><author rend="smallcaps">P. Martyr</author>.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><distinct xml:lang="la"><ecda:commodity>Canna Mellea</ecda:commodity></distinct>.</cell>
+                  <cell role="data"><distinct type="dialect" xml:lang="la"><ecda:commodity>Canna Mellea</ecda:commodity></distinct>.</cell>
                   <cell role="data"><bibl><author rend="smallcaps">C&#x00C6;salpin</author>, <title rend="italic">Hi&#x017f;t. Plant</title>.
                   <hi rend="italic">p</hi>. 182.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><distinct xml:lang="la"><ecda:commodity>Canna Saccharifera</ecda:commodity></distinct>.</cell>
+                  <cell role="data"><distinct type="dialect" xml:lang="la"><ecda:commodity>Canna Saccharifera</ecda:commodity></distinct>.</cell>
                   <cell role="data"><bibl><author rend="smallcaps">Ogilby</author>, <title rend="italic">Chin</title>. I. 228.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><distinct xml:lang="la"><ecda:commodity>Canna Saccharina</ecda:commodity></distinct>.</cell>
+                  <cell role="data"><distinct type="dialect" xml:lang="la"><ecda:commodity>Canna Saccharina</ecda:commodity></distinct>.</cell>
                   <cell role="data"><bibl><author rend="smallcaps">Nieuhof</author>, <hi rend="italic">p</hi>. 89.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><distinct xml:lang="la"><ecda:commodity>Canna Sacchari</ecda:commodity></distinct>.</cell>
+                  <cell role="data"><distinct type="dialect" xml:lang="la"><ecda:commodity>Canna Sacchari</ecda:commodity></distinct>.</cell>
                   <cell role="data"><bibl><author rend="smallcaps">Laet</author>, <title rend="italic">lib</title>. I. <hi rend="italic">p</hi>. 27.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><distinct xml:lang="la"><ecda:commodity>Harundo Saccharifera</ecda:commodity></distinct>.</cell>
+                  <cell role="data"><distinct type="dialect" xml:lang="la"><ecda:commodity>Harundo Saccharifera</ecda:commodity></distinct>.</cell>
                   <cell role="data"><bibl><author rend="smallcaps">Parkinson</author>, <title rend="italic">Theatr</title>.
                   <title rend="italic">Botan</title>. 1210.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><distinct xml:lang="fr"><ecda:commodity>Roseaux, ou Cannes de
+                  <cell role="data"><distinct type="dialect" xml:lang="fr"><ecda:commodity>Roseaux, ou Cannes de
                      Sucre</ecda:commodity></distinct>.</cell>
                   <cell role="data"><bibl><author rend="smallcaps">Labat</author>, <hi rend="italic">vol</hi>. 1. <hi rend="italic">p</hi>. 228.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><distinct xml:lang="fr"><ecda:commodity>Roseaux de Sucre</ecda:commodity></distinct>.</cell>
+                  <cell role="data"><distinct type="dialect" xml:lang="fr"><ecda:commodity>Roseaux de Sucre</ecda:commodity></distinct>.</cell>
                   <cell role="data"><bibl><author rend="italic">Lussan</author>.</bibl></cell>
                </row>
                          
@@ -543,22 +543,22 @@
             <fw type="pageNum">2</fw>
                
                <row role="data">
-                  <cell role="data"><distinct xml:lang="la"><ecda:commodity>Saccharum floribus pa-
+                  <cell role="data"><distinct type="dialect" xml:lang="la"><ecda:commodity>Saccharum floribus pa-
                      niculatis</ecda:commodity></distinct>.</cell>
                   <cell role="data"><bibl><author rend="smallcaps">Lin</author>. <title rend="italic">Sp</title>. <title rend="italic">P.</title>.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><distinct><ecda:commodity>Tacomare&#x00E9;, five Arun-
+                  <cell role="data"><distinct type="dialect"><ecda:commodity>Tacomare&#x00E9;, five Arun-
                   da Saccharifera</ecda:commodity></distinct>.</cell>
                   <cell role="data"><bibl><author rend="smallcaps">Piso</author>, <title rend="italic">Lib</title>. IV <hi rend="italic">Cap</hi>. I.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><ecda:commodity><distinct>Viba &amp; Tacomare&#x00E9; &amp;</distinct>
+                  <cell role="data"><ecda:commodity><distinct type="dialect">Viba &amp; Tacomare&#x00E9; &amp;</distinct>
                   <distinct xml:lang="la">Canna Sacchari</distinct></ecda:commodity>.</cell>
                   <cell role="data"><bibl rend="smallcaps">Ib.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><ecda:commodity><distinct>Vub&#xe6; &amp; Tacomare&#x00E9;</distinct>
+                  <cell role="data"><ecda:commodity><distinct type="dialect">Vub&#xe6; &amp; Tacomare&#x00E9;</distinct>
                   <distinct xml:lang="la"><rs type="properAdjective">Brasiliensibus</rs></distinct></ecda:commodity></cell>
                   <cell role="data"><bibl><author rend="smallcaps">Marcgrav</author>, 82.</bibl></cell>
                </row>
@@ -629,7 +629,7 @@
             <p>He mentions that the second sort of honey,
                or that generated from the moisture in the air, 
                falls on the earth, and on plants; and is found
-               chiefly on the boughs of the oak, and <distinct rend="italics">Tilia</distinct>, or
+               chiefly on the boughs of the oak, and <distinct rend="italics"  type="dialect">Tilia</distinct>, or
                <ecda:commodity>lime</ecda:commodity> tree.
             </p>
             <p>By the <ecda:flora>cane</ecda:flora>, which yields the third species 
@@ -692,9 +692,9 @@
             </p>
                <quote>
                   <lg type="poem" rend="italic" xml:id="a003" corresp="#n003">
-                  <l><distinct xml:lang="la">Indica non magná nimis arbore crescit arundo</distinct></l>
-                  <l><distinct xml:lang="la">Illius è lentis premitur radicibus humor</distinct>,</l>
-                  <l><distinct xml:lang="la">Dulcia cui nequeant succo contendere mella</distinct>.</l>
+                     <l><distinct xml:lang="la" type="dialect">Indica non magná nimis arbore crescit arundo</distinct></l>
+                     <l><distinct xml:lang="la" type="dialect">Illius è lentis premitur radicibus humor</distinct>,</l>
+                     <l><distinct xml:lang="la" type="dialect">Dulcia cui nequeant succo contendere mella</distinct>.</l>
                   </lg>
                </quote>
                <p><quote rend="pre(“) post(”)">The <rs type="properAdjective">Indian</rs> reed does not grow to a large
@@ -703,7 +703,7 @@
                </p>
          </div>
          <div type="subsection">
-            <p><persName rend="smallcaps">Dionysius Afer</persName> <hi rend="italic">(<distinct xml:lang="la">anno</distinct></hi> 3. Ær. Chr. <hi rend="smallcaps">Sax</hi>.
+            <p><persName rend="smallcaps">Dionysius Afer</persName> (anno 3. Ær. Chr. <hi rend="smallcaps">Sax</hi>.
                <hi rend="slant(italics)"><unclear>Onemast</unclear>.)</hi> mentions that the <name>Indians</name> drink the 
                juice of the <unclear>Ερ[<!-- missing char. -->]θραιος καλαμος</unclear>, or <rs type="properAdjective">Indian</rs> cane<anchor xml:id="a004" corresp="#n004"/> 
             </p>
@@ -745,7 +745,7 @@
                larly of the great reeds, are sweet by nature,
                and by decoction.</quote>
             </p>
-            <p>He also mentions the <distinct xml:lang="el">καλαμος Ινδικος</distinct> growing
+            <p>He also mentions the <distinct xml:lang="el" type="dialect">καλαμος Ινδικος</distinct> growing
                abundantly in <placeName>Æthiopia</placeName>.
             </p>
          </div>
@@ -783,7 +783,7 @@
                his third book, when speaking of the <name>Indians</name>
                near the <geogName>Ganges</geogName>,—
             </p>
-            <p><quote rend="italic"><distinct xml:lang="la">Quique bibunt tener á dulces ab arundine succos</distinct></quote>,
+            <p><quote rend="italic"><distinct type="dialect" xml:lang="la">Quique bibunt tener á dulces ab arundine succos</distinct></quote>,
             </p>
             <p><quote rend="pre(“) post(”)">They drink the sweet juices of the tender
                reed</quote>.
@@ -791,7 +791,7 @@
          </div>
          <div type="subsection">
             <p><persName rend="smallcaps">Pliny</persName> (anno <date when="0078">78</date>) in the 32d chapter of the
-               6th book, speaking of the <placeName><distinct xml:lang="la" rend="italic">Insulæ Fortunatæ</distinct></placeName>,
+               6th book, speaking of the <placeName><distinct type="dialect" xml:lang="la" rend="italic">Insulæ Fortunatæ</distinct></placeName>,
             
         <pb/>  
         <fw type="pageNum">9</fw>
@@ -800,11 +800,11 @@
                asserts, on the authority of <persName rend="italic">Juba</persName>, that, in the
                island called <placeName rend="italic">Ombrios</placeName>,—
             </p>
-            <p><quote rend="italic"><distinct xml:lang="la">Arbores similes Ferulæ, ex quibus aqua expri-
+            <p><quote rend="italic"><distinct type="dialect" xml:lang="la">Arbores similes Ferulæ, ex quibus aqua expri-
             matur; ex nigris amara; ex cadidioribus potui
             jucunda</distinct></quote>.
             </p>
-            <p><quote rend="pre(“)post(”)">There are trees resembling the <distinct rend="italic">Ferula</distinct>,
+            <p><quote rend="pre(“)post(”)">There are trees resembling the <ecda:flora rend="italic">Ferula</ecda:flora>,
             from which water may be expressed; the water 
             from the black sort is bitter; but that from
             the white grateful to drink</quote>.
@@ -838,8 +838,8 @@
                mit of the cliff, where it joins or coincides
                with a valley, which is terminated by the steep
                front of a rock. On the top of this rock
-               grows a tree, now called <distinct rend="italic">Til</distinct>, but, in the lan-
-               guage of the antient inhabitants, Garse, i.e.
+               grows a tree, now called <distinct type="dialect" rend="italic">Til</distinct>, but, in the lan-
+               guage of the antient inhabitants, <distinct type="dialect">Garse</distinct>, i.e.
                Sacred, or Holy Tree. Its leaves constantly
                distil such a quantity of water as is sufficient
                to furnish drink to every living creature in 
@@ -871,13 +871,13 @@
                that we see water drip from the leaves of trees
                after a heavy shower of rain.</quote>
             </p>
-            <p><quote rend="pre(“)">This distillation is not peculiar to the <distinct rend="italic">Garse</distinct>,
-               or <distinct rend="italic">Til</distinct>; for the <distinct rend="italic">Bresos</distinct>, which grow near it,
+            <p><quote rend="pre(“)">This distillation is not peculiar to the <distinct type="dialect" rend="italic">Garse</distinct>,
+               or <ecda:flora rend="italic">Til</ecda:flora>; for the <ecda:flora rend="italic">Bresos</ecda:flora>, which grow near it,
                likewise drop water; but, their leaves being
                but few and narrow, the quantity is so trifling,
                that though the natives save some of it, yet
                they make little or no account of any but
-               what distils from the <distinct rend="italic">Til</distinct>.</quote>
+               what distils from the <ecda:flora rend="italic">Til</ecda:flora>.</quote>
             </p>
             <p><quote rend="pre(“)post(”)">A person lives on the spot near which this <!-- this is more like a role. Do we give it <anonPers> -->
                tree grows, who is appointed by the council 
@@ -909,7 +909,7 @@
                which continually distilleth from one only tree,
                growing on the highest bank of the island, and
                falleth into a round trench made with man's 
-               hand.</quote> <bibl rend="italic">Decad. I. Lib. I. <distinct xml:lang="la">anno</distinct> <date when="1493">1493</date>.</bibl>
+               hand.</quote> <bibl rend="italic">Decad. I. Lib. I. anno <date when="1493">1493</date>.</bibl>
             </p>
          </div>
          <div type="subsection">
@@ -917,11 +917,11 @@
                has a passage, which has been the foundation
                of much dispute among critics and commenta-
                tors; some contending that the reading should
-               be <distinct xml:lang="la" rend="italic">cannæ</distinct>, <ecda:flora>canes</ecda:flora>; others, that it should be
-               <distinct xml:lang="la" rend="italic">caunæ</distinct>, <ecda:flora>figs</ecda:flora>: so called from <placeName rend="italic">Caunus</placeName>, a town in
+               be <distinct type="dialect" xml:lang="la" rend="italic">cannæ</distinct>, <ecda:flora>canes</ecda:flora>; others, that it should be
+               <distinct type="dialect" xml:lang="la" rend="italic">caunæ</distinct>, <ecda:flora>figs</ecda:flora>: so called from <placeName rend="italic">Caunus</placeName>, a town in
                <placeName>Egypt</placeName>, famous for <ecda:flora>figs</ecda:flora>.
             </p>
-            <p><distinct xml:lang="la" rend="italic">Et quas percoquit Ebusita cannas</distinct>.</p>
+            <p><distinct type="dialect" xml:lang="la" rend="italic">Et quas percoquit Ebusita cannas</distinct>.</p>
             <p><quote rend="pre(“)post(”)">The island of <placeName rend="italic">Ebusus</placeName> (or <placeName rend="italic">Ivica</placeName>, in the <placeName>Me-
                diterranean</placeName>, near <placeName>Valencia</placeName> in <placeName>Spain</placeName>), which
                yields ripe <ecda:flora>canes</ecda:flora>.</quote></p>
@@ -929,8 +929,8 @@
       <pb/> 
       <fw type="pageNum">13</fw>
             
-            <p><distinct xml:lang="la" rend="italic">Et quas percoquit Ebosea caunas</distinct>.</p>
-            <p><quote rend="pre(“)post(”)">Ebusus which ripens (<distinct xml:lang="la" rend="italic">caunæ</distinct>) <ecda:flora>figs</ecda:flora>.</quote></p>
+            <p><distinct type="dialect" xml:lang="la" rend="italic">Et quas percoquit Ebosea caunas</distinct>.</p>
+            <p><quote rend="pre(“)post(”)">Ebusus which ripens (<distinct type="dialect" xml:lang="la" rend="italic">caunæ</distinct>) <ecda:flora>figs</ecda:flora>.</quote></p>
          </div>
          <div type="subsection">
             <p><persName rend="smallcaps">Solinus</persName> (anno <date when="0218">218</date>), in the <bibl>52d chapter of
@@ -970,7 +970,7 @@
             <p>I have now selected every thing, excepting
                the trival common-place matter (which may
                be found in almost every Lexicon), respecting
-               the <distinct rend="italic">cane</distinct>, or <distinct rend="italic">reed</distinct>, to which the property of
+               the <distinct type="dialect" rend="italic">cane</distinct>, or <distinct type="dialect" rend="italic">reed</distinct>, to which the property of
                <emph rend="italic">sweetness</emph> has been attributed, by every writer 
                preceding the reign of priestcraft, igno-
                rance, and oblivion. I shall pass over that 
@@ -1022,7 +1022,7 @@
             through great part of it in <date when="1664">1664</date>, says, <quote rend="prequotes">at 
             <placeName>Cullura</placeName> the <ecda:commodity>wine</ecda:commodity> first begain to be sweet; and 
             three leagues off, at <placeName>Gandia</placeName>, in <placeName>Valencia</placeName>, the 
-             plantations of <ecda:commodity>sugar canes</ecda:commodity> began. <distinct xml:lang="la">Quere</distinct>,
+               plantations of <ecda:commodity>sugar canes</ecda:commodity> began. <distinct type="dialect" xml:lang="la">Quere</distinct>,
              whether the nature of the soil, that was fit to
              nourish the <ecda:flora>sugar canes</ecda:flora>, did not also contri-
              bute to the nature of the <ecda:flora>grapes</ecda:flora>?</quote>
@@ -1033,8 +1033,8 @@
       <pb/>
       <fw type="pageNum">16</fw>         
                
-               they call this kind <distinct rend="italic">pansas</distinct>, and they seem to be
-               the <distinct rend="italic">duracinæ</distinct> of the antients. They are all
+               they call this kind <distinct type="dialect" rend="italic">pansas</distinct>, and they seem to be
+               the <distinct type="dialect" rend="italic">duracinæ</distinct> of the antients. They are all
                white, round, and have a tougher skin than
                other <ecda:commodity>grapes</ecda:commodity>. They gather them when fully 
                ripe, and dip them in a boiling lixivium of
@@ -1042,7 +1042,7 @@
                king them out again; and then dry them upon
                boards in the sun, taking them in by night,
                or in foul weather. The name raisin comes
-               from <distinct xml:lang="la" rend="italic">racemus</distinct>. Figs are dried just as they
+               from <distinct type="dialect" xml:lang="la" rend="italic">racemus</distinct>. Figs are dried just as they
                are gathered, not being dipped in any lixi-
                vium.</quote>
             </p>
@@ -1057,7 +1057,7 @@
                the slender tops, which afford no good juice,
                keep them under ground till March, and then
                prick them into these hillocks or beds; out of
-               every <distinct xml:lang="la" rend="italic">talea</distinct>, or cut, shoot four, five, or six,
+               every <distinct type="dialect" xml:lang="la" rend="italic">talea</distinct>, or cut, shoot four, five, or six,
                <ecda:flora>canes</ecda:flora>, which will be ripe next December.
                The knots, or joints of the <ecda:flora>cane</ecda:flora> at the bot-
                tom are very close together, scarce an inch
@@ -1086,7 +1086,7 @@
                tle hole stopped only with coarse and foul
                <ecda:commodity>sugar</ecda:commodity>. These pots are covered when full
                with a cake of paste, made of a kind of
-               earth called the <rs type="properAdjective">Spanish</rs> <distinct xml:lang="sp">gritty</distinct>, and found near
+               earth called the <rs type="properAdjective">Spanish</rs> <distinct type="dialect" xml:lang="es">gritty</distinct>, and found near
                <placeName>Olives</placeName>, which is good to take spots out of 
                clothes, which cap or cover sinks as the sugar
                sinks. These conical pots are put into other
@@ -1108,7 +1108,7 @@
                same pots for 14 or 15 days. To make the <ecda:commodity>sugar</ecda:commodity>
                more white, they must boil it again, but about
                one-sixth is lost every time. A pound of <ecda:commodity>sugar</ecda:commodity>
-               of 12 ounces is sold at <placeName>Olives</placeName> for three <distinct rend="italic">sous</distinct> and
+               of 12 ounces is sold at <placeName>Olives</placeName> for three <distinct type="dialect" rend="italic">sous</distinct> and
                an half; refined for five or six <measure rend="italic">sous</measure>. The <ecda:commodity>su-
                gar</ecda:commodity> juice is strained through strainers of <ecda:commodity>linen</ecda:commodity>,
                and is put out of one cauldron into another.
@@ -1149,7 +1149,7 @@
                different nations of <name>Europeans</name> to the <placeName>West In-
                dian islands</placeName>, and the <placeName>Brazils</placeName>.
             </p>
-            <p>The <placeName>Canary islands</placeName>, or <placeName rend="italic"><distinct xml:lang="la">Insulæ Fortunatæ</distinct></placeName>,
+            <p>The <placeName>Canary islands</placeName>, or <placeName rend="italic"><distinct type="dialect" xml:lang="la">Insulæ Fortunatæ</distinct></placeName>,
                though known to the antients, yet after the
                fall of the <placeName><rs type="properAdjective">Roman</rs> empire</placeName>, many centuries
                elapsed in which all intercourse, mention,
@@ -1701,7 +1701,7 @@
                Domingue</placeName> in the fleet wherein I came, 898
                chests of sugar, which being, as I did see,
                shipped at <placeName>Porto Rico</placeName>, every chest, in my
-               opinion, weighed eight <distinct rend="italic">arobes</distinct>, every <distinct rend="italic">arobes</distinct>
+               opinion, weighed eight <distinct type="dialect" rend="italic">arobes</distinct>, every <distinct type="dialect" rend="italic">arobes</distinct>
                weighing five and twenty pounds, which are two
                hundred weight of sugar. This is the chief
                revenue of these islands, so much are men
@@ -1887,7 +1887,7 @@
                   (<persName>Saumaise</persName>, his proper name), who went to
                   reside at <placeName>Leyden</placeName> in <date when="1632">1632</date>, asserts, that what
                   authors denominate the <distinct type="dialect" xml:lang="la">sacar mambu</distinct> of the
-                  <name>Indians</name>, was the <distinct>σακχαρον</distinct>, or sugar, of the
+                  <name>Indians</name>, was the <distinct type="dialect" xml:lang="el">σακχαρον</distinct>, or sugar, of the
                   ancients.
                </p>
                <p>By the word ancients, in this treatise, the 
@@ -1898,7 +1898,7 @@
                   <fw type="pageNum">44</fw>
                   
                <p>He says,—<quote xml:lang="la" rend="italic">Exercitationes nostræ docent illud
-                  <distinct xml:lang="el">σακχαρον</distinct> esse quod hoc tempore vocatur apud Indos
+                  <distinct type="dialect" xml:lang="el">σακχαρον</distinct> esse quod hoc tempore vocatur apud Indos
                   Sacar-Mambu; qhod in arundine Indica arboreæ
                   ac vastæ proceritatis sponte crescit.</quote> <bibl><title>De
                   Sacharo Commentarius.</title></bibl>
@@ -1907,7 +1907,7 @@
                   was the <distinct type="dialect">tabaxir</distinct> of the <name>Arabians</name>; but
                   that the <name>Arabians</name> were ignorant how it was
                   produced, as were the ancient <name>Greeks</name> of the <distinct type="dialect">generatio
-                  Mellis Calamini, sive <distinct xml:lang="el">σακχαρον</distinct></distinct>; who thought 
+                  Mellis Calamini, sive <distinct type="dialect" xml:lang="el">σακχαρον</distinct></distinct>; who thought 
                   it was the dew, which, falling on the <rs type="properAdjective">Indian</rs> 
                   canes, concreted: and that it was a kind of 
                   manna.
@@ -1929,7 +1929,7 @@
                   
                   <fw type="pageNum">45</fw>
                   
-                  of the <name>Indians</name> and the real <distinct>μελι σακχαρον</distinct> of
+                  of the <name>Indians</name> and the real <distinct type="dialect" xml:lang="el">μελι σακχαρον</distinct> of
                   the <name>Greeks</name>. He says the antients gave it the
                   appellation of sugar, which the <name>Arabians</name> did
                   not; because they believed it to be the ashes,
@@ -2011,7 +2011,7 @@
                <p><persName>Bedigores</persName>,—<quote rend="italic" xml:lang="la">Proprietatis spodii est, quod
                   confert caliditati choleræ.</quote>
                </p>
-               <p><persName>Rhases</persName> <distinct xml:lang="la">ex verbo</distinct> <persName>Galeni</persName>,—<quote rend="italic">In spodio est
+               <p><persName>Rhases</persName> <distinct type="dialect" xml:lang="la">ex verbo</distinct> <persName>Galeni</persName>,—<quote rend="italic">In spodio est
                   resolutio, &amp; prohibitio, &amp; repercussio, &amp; infrigidatio,
                   sed infrigidatio ejus est fortior, &amp; in sapore ejus
                   est amaritudo, &amp; stipicitas, &amp; propter hoc deficcat.
@@ -2062,7 +2062,7 @@
                   ashes of the <rs type="properAdjective">Indian</rs> canes; or of their joints,
                   or roots: and being of a greyish colour, like
                   spodium, (pompholix, tutty, putty) rendered the
-                  word <distinct type="dialect">tabaxir</distinct>, by that appellation, from <distinct>σποδος</distinct>,
+                  word <distinct type="dialect">tabaxir</distinct>, by that appellation, from <distinct type="dialect" xml:lang="el">σποδος</distinct>,
                   ashes. But as it was given internally, it certainly
                   
                   <fw type="pageNum">49</fw>
@@ -2213,7 +2213,7 @@
                   taste, and efficacy, and gradually protrudes
                   through the cane, between the joints, and is
                   coagulated by the heat of the sun, and hardens 
-                  like white <distinct>pummice</distinct> stone, and soon loses its
+                  like white <distinct type="scientific">pummice</distinct> stone, and soon loses its
                   native agreableness of flavour, and acquires a
                   taste something like burnt ivory, and is called
                   by the <name>Indians</name>, <distinct type="dialect">sacar-mambu</distinct>. The lighter,
@@ -3464,7 +3464,7 @@
                   ita copiosce a nobis assumitur, quam verisimile
                   est, ab ejus usu quotidiano, sanguinem &amp;
                   humores, salsos et acres, proindeque scorbuticos,
-                  reddi? Author quidam insignis<anchor xml:id="a025" corresp="#n025"/> <distinct>Tabis
+                  reddi? Author quidam insignis<anchor xml:id="a025" corresp="#n025"/> <distinct type="dialect" xml:lang="la">Tabis
                   Angliæ</distinct> causam in immoderatum sacchari apud
                   nostrates usum retulit: nescio au non poitus etiam
                   hinc scorbuti ingrebrescentis fomes derivetur.</quote> <bibl><title>De
@@ -4145,7 +4145,7 @@
                   obtained, if the boiling be continued ever so
                   little beyond the proper time.
                </p>
-               <p><label>I</label> The acid thus obtained I call <distinct>acid of
+               <p><label>I</label> The acid thus obtained I call <distinct type="scientific">acid of
                   sugar</distinct>; not because it is procurable from that
                   substance only, but because sugar affords it
                   more pure, and in greater quantity, than any
@@ -4718,7 +4718,7 @@
                </p>
                <p>The <rs type="properAdjective">Latin</rs> versions have this, <distinct type="dialect">calamus 
                   aromaticus et cinnamomum</distinct>; and <distinct type="dialect">fistula et
-                  cinnamomum:</distinct> <distinct xml:lang="he">קוה</distinct> <distinct type="dialect">canna</distinct> in one version
+                  cinnamomum:</distinct> <distinct type="dialect" xml:lang="he">קוה</distinct> <distinct type="dialect">canna</distinct> in one version
                   of the Polyglott, as it is by <persName>Montanus</persName>, Our
                   
                   <pb/>
@@ -4763,9 +4763,9 @@
                <p>The Septuagint has the part of the vers I
                   have quited from the <name>Hebrew</name>, <distinct xml:lang="el" type="dialect">κινναμωμον</distinct>
                   <quote>Cinnamon from a far country</quote>. In
-                  the <rs type="properAdjective">Latin</rs> verions it is rendered <quote>calamus
-                  suaveolens de terra longinqua</quote>; and <quote>cinnamomum de
-                  terra longinqua</quote>; and <quote>calamus aromaticus de terra
+                  the <rs type="properAdjective">Latin</rs> verions it is rendered <quote xml:lang="la">calamus
+                  suaveolens de terra longinqua</quote>; and <quote xml:lang="la">cinnamomum de
+                  terra longinqua</quote>; and <quote xml:lang="la">calamus aromaticus de terra
                   longinqua.</quote>
                </p>
                <p>It is necessary to observe here, that, in the 
@@ -4916,7 +4916,7 @@
                   not sweet tasted; therefore the sugar cane is
                   entirely out of the question.
                </p>
-               <p>The sugar cane does not yield a fragrant
+               <p>The <ecda:flora>sugar cane</ecda:flora> does not yield a fragrant
                   smell, naturally or burnt. Neither will it keep
                   sound, when ripe, after it is cut; but will
                   perish like the stalk of the cabbage-plant; and
@@ -4942,7 +4942,7 @@
                </p>
                <p>We find among the <rs type="properAdjective">Greek</rs> writers <distinct xml:lang="el" type="dialect">καννα
                   δοναξ</distinct> and <distinct type="dialect" xml:lang="he">καλαμος</distinct>; and among the <rs type="properAdjective">Roman</rs>
-                  writers <distinct>canna</distinct>, <distinct>arundo</distinct>, and <distinct>calamus</distinct>;—but these
+                  writers <distinct type="dialect">canna</distinct>, <distinct type="dialect">arundo</distinct>, and <distinct type="dialect">calamus</distinct>;—but these
                   names are used indiscriminately for a cane, or
                   a reed.
                </p>
@@ -4961,7 +4961,7 @@
                   cassia fistula<anchor xml:id="a048" corresp="#n048"/>.
                </p>
                <p>It has been said, by some writers, that the
-                  word <distinct>שבד</distinct> in the Bible has an allusion to
+                  word <distinct type="dialect" xml:lang="he">שבד</distinct> in the Bible has an allusion to
                   sugar.
                </p>
                <p>This word, like <distinct type="dialect">kaneh</distinct>, according to the
@@ -4969,7 +4969,7 @@
                   several significations; but none whatever that
                   has any relation to sugar.
                </p>
-               <p>As a verb <distinct>שבד</distinct> shakar or shacar, imports to
+               <p>As a verb <distinct type="dialect" xml:lang="he">שבד</distinct> shakar or shacar, imports to
                   drink to excess, to be drunk; to hire for wages.
                </p>
                <p>As a noun, it forms various derivatives;
@@ -4978,16 +4978,16 @@
                   Bible every where denominates it, <quote>strong
                   drink.</quote>
                </p>
-               <p>The Septuagint renders it <distinct>σικορα</distinct><anchor xml:id="a049" corresp="#n049"/>, σικερα<anchor xml:id="a050" corresp="#n050"/>,
-                  the <rs type="properAdjective">Latin</rs> versions <distinct>sechar</distinct>, <distinct>sicera</distinct>.
+               <p>The Septuagint renders it <distinct type="dialect" xml:lang="el">σικορα</distinct><anchor xml:id="a049" corresp="#n049"/>, σικερα<anchor xml:id="a050" corresp="#n050"/>,
+                  the <rs type="properAdjective">Latin</rs> versions <distinct type="dialect">sechar</distinct>, <distinct type="dialect">sicera</distinct>.
                </p>
                <p><persName>Moses</persName> says, God ordered him to proclaim
                   to the children of <placeName>Israel</placeName>, that <quote>when
                   either man or woman shall separate themselves
                   to a vow, a vow of a <name>Nazarite</name> he shall
-                  separate himself from wine, and <distinct>שבד</distinct> (shecar) strong
+                  separate himself from wine, and <distinct type="dialect" xml:lang="he">שבד</distinct> (shecar) strong
                   drink; and shall drink no vinegar of wine, or
-                  vinegar of <distinct>שבד</distinct> (shecar) strong drink; neither
+                  vinegar of <distinct type="dialect" xml:lang="he">שבד</distinct> (shecar) strong drink; neither
                   
                   <pb/>
                   <fw type="pageNum">137</fw>
@@ -4996,10 +4996,10 @@
                   moist grapes, or dried<anchor xml:id="a051" corresp="#n051"/>.</quote>
                </p>
                <p>The inspired prophet <persName>Jeremiah</persName> says, God
-                  gave him <quote>the cup of his fury;</quote> and that he
-                  <quote>made all nations drink of it, to whom the
+                  gave him <quote rend="quotes">the cup of his fury;</quote> and that he
+                  <quote rend="quotes">made all nations drink of it, to whom the
                   Lord had sent him;</quote> and he said unto them,
-                  <quote>drink ye, and be <distinct>וְש֧בְדו</distinct> (veshikru) drunken,
+                  <quote>drink ye, and be <distinct type="dialect" xml:lang="he">וְש֧בְדו</distinct> (veshikru) drunken,
                   and spue, and fall<anchor xml:id="a052" corresp="#n052"/></quote>
                </p>
                <p>These passages are here given, the original
@@ -5007,7 +5007,7 @@
                   Bible<anchor xml:id="a053" corresp="#n053"/>; which, though not an elegant, is a
                   faithful translation of the <name>Hebrew</name>.
                </p>
-               <p>What sottish liquor <distinct>ׁשֵבׇד</distinct> shekar was, no
+               <p>What sottish liquor <distinct type="dialect" xml:lang="he">ׁשֵבׇד</distinct> shekar was, no
                   person knows. It was probably made from grain.
                </p>
                <p>The most wild and barbarous nations have
@@ -5017,7 +5017,7 @@
                </p>
             </div>
             <div>
-               <p>The sugar cane, though indigenous to 
+               <p>The <ecda:flora>sugar cane</ecda:flora>, though indigenous to 
                   latitudes within, and, and near the torrid zone, arrives
                   at excellence only in the hottest climate. But
                   much rain, or water, as well as sun, is necessary
@@ -5043,13 +5043,12 @@
                   depends on the quality of the cane<anchor xml:id="a054" corresp="#n054"/>. We
                   consider a pound of sugar from a gallon of cane
                   juice, as good yielding; and that an acre of
-                  land, as good yielding; and that an acre of
                   land, giving three hogsheads of sugar of 14
                   cwt. each, as ample produce. But for this
                   quantity the soil must be good, and the canes
                   of the first year's cutting, and in perfection.
                </p>
-               <p>In the process of refining muscovado sugar,
+               <p>In the process of refining <ecda:commodity ana="#refine">muscovado sugar</ecda:commodity>,
                   a ton weight, of good quality, gives the
                   following products:—
                </p>
@@ -5109,11 +5108,11 @@
                   nutritious, in proportion to the saccharine principle
                   it contains. Nothing nourishes that is entirely
                   free from this saccharine principle; otherwise,
-                  turnips would be as little nitritive as cucumbers,
+                  turnips would be as little nitritive as <ecda:food ana="#flora">cucumbers</ecda:food>,
                   being, like them, the sugar excepted,
                   scarcely any thing but water.
                </p>
-               <p>Milk is nutritious on the same account; and
+               <p><ecda:food>Milk</ecda:food> is nutritious on the same account; and
                   that milk is most nutritous which most abounds
                   with saccharine sweetness; and when milk is
                   defective in this quality, from bad pasturage
@@ -5201,7 +5200,7 @@
                <fw type="pageNum">142</fw>
                
                <p>I have often seen old, scabby, wasted
-                  negroes, crawl from the <distinct>hot houses</distinct>, apparently
+                  negroes, crawl from the <distinct type="agricultural">hot houses</distinct>, apparently
                   half dead, in crop-time; and by sucking canes
                   all day long, they have soon become strong,
                   fat and sleaky.
@@ -5216,7 +5215,7 @@
                <p><persName>Fontanus</persName>, <persName>Valeriola</persName>, and <persName>Forrestus</persName>,
                   assert that they had patients cured of consumptions
                   of the lungs by a continued use of the
-                  <distinct>conserve of roses</distinct>; and <persName>Reverius</persName> knew an
+                  <distinct type="scientific">conserve of roses</distinct>; and <persName>Reverius</persName> knew an
                   apothecary who cured himself of a confirmed
                   consumption by almost living on the conserve of
                   roses. Foreign journals are full of histories of
@@ -5228,7 +5227,7 @@
                   a pound and a half, of this conserve every
                   day:—<emph>three fourths of this conserve are sugar.</emph>
                </p>
-               <p>The virgues of sugar are not confined to its
+               <p>The virtues of sugar are not confined to its
                   nutritive and balsamic qualities. It resists 
                   putrefaction, and preserves all substances,—flesh,
                   fruits, vegetables,—from corruption.
@@ -5266,7 +5265,7 @@
                   intestines; and subjects it to the capacity of the
                   orificies of the smallest vessels.
                </p>
-               <p>Sugar alone has many medicinal virtues;
+               <p ana="#medical">Sugar alone has many medicinal virtues;
                   and made into a common syrup with water,
                   and disguised, and perhaps somewhat improved
                   by vegetable additions, has performed many
@@ -5298,10 +5297,10 @@
                   nourishing is the juice of the cane, that every
                   individual of the animla creation, drinking
                   freely of it, derives health and vigour from its
-                  use. The meagre and sickly among the negroes
+                  use. The meagre and sickly among the <name>negroes</name>
                   exhibit a surprising alteration in a few 
                   weeks, after the mill is set in action. The
-                  labouring horses, oxen, and mules, though
+                  labouring <ecda:flora>horses</ecda:flora>, <ecda:flora>oxen</ecda:flora>, and <ecda:flora>mules</ecda:flora>, though
                   almost constantly at work during this season,
                   yet being indulged with plenty of the green
                   tops of this noble plant, and some of the
@@ -5353,10 +5352,10 @@
                   extraordinary effects result from these causes.
                </p>
                <p>A melancholy instance among many I have 
-                  seen, of the mischievous effects of muscles, lately
+                  seen, of the mischievous effects of <ecda:fauna ana="#food #poison">muscles</ecda:fauna>, lately
                   occurred, in the neighbourhood of <placeName>Chelsea
-                  Hospital</placeName>; where a boy of seven years old was
-                  destroyed by eating them; and his father
+                  Hospital</placeName>; where a <ecda:anonPers a-gender="male">boy of seven years old</ecda:anonPers> was
+                  destroyed by eating them; and <ecda:anonPers a-gender="male" >his father</ecda:anonPers>
                   
                   <pb/>
                   <fw type="pageNum">147</fw>
@@ -5369,7 +5368,7 @@
                   from some malignant quality inherent in the 
                   fish itself; according to the place where it is
                   found, and particular seasons. Some suppose
-                  the poison consists in a kind of <distinct>stella marina</distinct>, a
+                  the poison consists in a kind of <distinct type="scientific">stella marina</distinct>, a
                   sea insect, frequently found in muscles; whose 
                   spawn is very corrosive, and when applied to
                   the skin excoriates it.
@@ -5391,7 +5390,7 @@
                   caled the tongue of the muscle, in the
                   middle of its body.
                </p>
-               <p>That honey should sometimes produce the
+               <p>That <ecda:food ana="#poison">honey</ecda:food> should sometimes produce the
                   ill effects I have mentioned cannot create
                   surprize; if we reflect that the bee distils from
                   
@@ -5406,7 +5405,7 @@
                   divvers so much in flavour, and consequently in
                   wholesomeness.
                </p>
-               <p>They honey of some countries is poisonous to
+               <p>They <ecda:food ana="#poison">honey</ecda:food> of some countries is poisonous to
                   everyone who makes use of it. <persName>Pompey</persName> lost
                   three regiments in <placeName>Pontus</placeName>, poisoned by honey<anchor xml:id="a061" corresp="#n061"/>;
                   and <persName>Pliny</persName> says, there is a district in that
@@ -5414,19 +5413,19 @@
                   mad who eat it.
                </p>
                <p>But the peculiar antipaty to honey, the
-                  occasion of these remakrs, may be excited by
+                  occasion of these remarks, may be excited by
                   the essential property of some particular
                   vegetable in that multifarious compound; or,
                   most probably, by the nature of the compound
                   itself.
                </p>
-               <p>Incredible as the fact may appear, I know a
-                  person who cannot touch honey with her finger,
+               <p>Incredible as the fact may appear, I know <ecda:anonPers a-gender="female">a
+                  person who cannot touch honey with her finger</ecda:anonPers>,
                   without immediate nervous affections, and
                   cold sweats; and, what is still more extraordinary,
                   the handling, and smelling bee's wax,
                   is accompanied with sensations of the same
-                  tendency. Her son, a strong, healthy young
+                  tendency. <ecda:anonPers a-gender="male">Her son</ecda:anonPers>, a strong, healthy young
                   
                   <pb/>
                   <fw type="pageNum">149</fw>
@@ -5471,7 +5470,7 @@
                <pb/>
                <fw type="pageNum">50</fw>
                
-               <p>Rhubarb, among several articles which
+               <p><ecda:flora ana="#food #poison">Rhubarb</ecda:flora>, among several articles which
                   might be mentioned, violently disorders some
                   people, of all characters of habit, and periods
                   of life. And yet this drug is forced down the
@@ -5482,7 +5481,7 @@
                   as it does not poison every body, it is administered
                   to infants, without suspicion.
                </p>
-               <p>Even manna sometimes acts as a poison.</p>
+               <p>Even <ecda:food ana="#poison">manna</ecda:food> sometimes acts as a poison.</p>
                <p>My motives here are not to enumerate the 
                   dangerous consequences and solitary instances
                   of singular antipaty: otherwise, charges 
@@ -5491,7 +5490,7 @@
                </p>
                <p><persName>Bacon</persName> says, <quote>all life hath a sympathy with
                   salt<anchor xml:id="a062" corresp="#n062"/>.</quote> This is true, and the same may be
-                  said of sugar. I have one instance of antipathy
+                  said of <ecda:food>sugar</ecda:food>. I have one instance of antipathy
                   on record however, against salt<anchor xml:id="a063" corresp="#n063"/>; I know
                   of none against sugar. But doubtless there are
                   instances, where individuals dislike sugar: but
@@ -5525,7 +5524,7 @@
                   people have been supported many years, by
                   scarcely any thing but sugar.
                </p>
-               <p>Taken in tea, milk, and beer, it has been
+               <p>Taken in <ecda:food ana="#flora #commodity">tea</ecda:food>, <ecda:food>milk</ecda:food>, and <ecda:food>beer</ecda:food>, it has been
                   found not only sufficient to sustain nature, but
                   has caused lean people to grow fat, and has
                   increased the vigour of their bodies. The late
@@ -5540,14 +5539,14 @@
                   called, who died about an hundred years ago
                   at the age of seventy, was opened; his viscera
                   were found in the same manner; as perfect as
-                  in a person of twenty: with is teeth whitem
+                  in a person of twenty: with is teeth white
                   and firm. He had for forty years before his
                   death used a pound of sugar daily, in his
-                  wine, chocolate, and sweet-meats.
+                  <ecda:food>wine</ecda:food>, <ecda:food>chocolate</ecda:food>, and <ecda:food>sweet-meats</ecda:food>.
                </p>
                <p><persName>Slare</persName> says, his grandfather <persName>Mr. Malory</persName> was
                   strong and chearful in his eighty second year;
-                  at which time his hair changed omewhat dark;
+                  at which time his hair changed somewhat dark;
                   his old teeth came out, pushed away by yong
                   ones; which continued so to do, until he had
                   a new set of teeth compete. He lived easy,
@@ -5563,7 +5562,7 @@
                   of his age, all his teeth were sound, and firm,
                   and in their full number.
                </p>
-               <p>I know a person at this time, about eighty
+               <p>I know <ecda:anonPers>a person</ecda:anonPers> at this time, about eighty
                   years old, who has lived for several years
                   almost on sugar: and is as healthy and strong,
                   
@@ -5581,14 +5580,14 @@
                </p>
                <p>The diet now consists of sugar, and the simple
                   vehicles in which it is taken; these are
-                  tea, milk, gruel, barley water, roasted, and
-                  boiled apples; and beer, generally for
+                  <ecda:food>tea</ecda:food>, <ecda:food>milk</ecda:food>, <ecda:food>gruel</ecda:food>, <ecda:food>barley water</ecda:food>, <ecda:food>roasted, and
+                  boiled apples</ecda:food>; and <ecda:food>beer</ecda:food>, generally for
                   supper.
                </p>
                <p>Animal food is not necessary for the pleasurable
                   existence, and bodily health of man<anchor xml:id="a064" corresp="#n064"/>;
                   for the mental pleasure and health, perhaps quite
-                  <!-- the contrary. -->
+                  the contrary.
                </p>
                <p>In the time of <persName>Pythagoras</persName><anchor xml:id="a065" corresp="#n065"/>, sugar was
                   unknown; even to this great traveller. Otherwise
@@ -5628,7 +5627,7 @@
                   interior, and northern parts of <placeName>Europe</placeName>; whose
                   cold, water diet, most requires it.
                </p>
-               <p>The increased consumption of sugar, and
+               <p>The increased consumption of <ecda:commodity>sugar</ecda:commodity>, and
                   the increasing demand for it, exceeds all
                   comparison with any other article, used as an
                   
@@ -5656,7 +5655,7 @@
                   written in <date when="1380">1380</date>, mentions, allegorically, the
                   sweetness of sugar<anchor xml:id="a067" corresp="#n067"/>.
                </p>
-               <p>The importation of sugar into <placeName>England</placeName> in
+               <p>The importation of <ecda:commodity>sugar</ecda:commodity> into <placeName>England</placeName> in
                   <date when="1700">1700</date> amounted to 481,425 hundred weight;
                   or 48,142 hogsheads, at ten hundred weight
                   each. The price was then thirty-two shillings
@@ -5693,7 +5692,7 @@
                   would be at twenty pounds per annum.
                </p>
                <p>These calculations are made, reducing the
-                  whole to raw, or muscovado sugar.
+                  whole to raw, or <ecda:commodity>muscovado sugar</ecda:commodity>.
                </p>
                <p>The consumption in <placeName>Ireland</placeName> is not in this
                   calculation. <placeName>Ireland</placeName> consumes 20,000 
@@ -5749,13 +5748,13 @@
                   people, would be useless; and for which we
                   have no salutary substitute.
                </p>
-               <p>There are some saccharite enthusiats who
+               <p ana="#disease #medical">There are some saccharite enthusiasts who
                   attribute to the use of sugar the extinction of
                   the plague in <placeName>Europe</placeName>;—that is not the case:—
                   but it has certainly contributed to suppress the
                   native malady of <placeName>England</placeName>, the <distinct>Scurvy</distinct>
                </p>
-               <p>That state of the habit which we denominate
+               <p ana="#medical #disease">That state of the habit which we denominate
                   scurvy, perhaps the parent of scrophula and
                   consumption, disposes the system to the ravages
                   of fevers; and hence the great mortality in former
@@ -5763,7 +5762,7 @@
                   invaded the <name>English</name>, deeply infected by the
                   scurvy.
                </p>
-               <p>An article in constant use, to the extent
+               <p ana="#disease #medical">An article in constant use, to the extent
                   sugar now is, must have considerable influence
                   in disposing the body to receive or resist disease.
                   Because the blood, and the growth, or
@@ -5808,7 +5807,7 @@
                   <fw type="pageNum">160</fw>
                   
                   myself to a path, with which I hope I am better
-                  acquainted—<!-- Warwick Lane. -->
+                  acquainted—Warwick Lane.
                </p>
                <p>There are no distempers now in <placeName>Europe</placeName>
                   ravaging and depopulating who countries;—
@@ -5826,7 +5825,7 @@
                <p>The popular diet before was crude, coarse,
                   and unwholesome. A royal <rs type="properAdjective">English</rs> dinner of the
                   twelfth century would be despised by a modern
-                  tradesman. Spices, wine, sugar, and culinary
+                  tradesman. <ecda:food>Spices</ecda:food>, <ecda:food>wine</ecda:food>, <ecda:food>sugar</ecda:food>, and culinary
                   chemistry, made no part of the repast.
                </p>
                <p>But people have not used these bounties of
@@ -5840,7 +5839,7 @@
                </p>
                
                <pb/>
-               <fw type="pageNum">161</fw>
+               <fw type="pageNum">161</fw> 
                
                <p>This reflexion does not extend to labouring
                   people; they are strangers to more of foreign 
@@ -5854,7 +5853,7 @@
                <p>Diseases in general would be uniform, and
                   never undergo much alteration, were people
                   to feed only on the produce of their own soil.
-                  This appears in the diseases of cattle; and also
+                  This appears in the diseases of <ecda:fauna>cattle</ecda:fauna>; and also
                   in those of <name>Indians</name>; and people living in a state
                   of nature, without foreign communication: and
                   this likewise appears, in great degree, among
@@ -5897,7 +5896,7 @@
                   should not now be much benefited in our
                   practice, by their labours.
                </p>
-               <p>The <distinct>Cow-Pox</distinct> has lately appeared in <placeName>England</placeName>.
+               <p>The <distinct type="scientific">Cow-Pox</distinct> has lately appeared in <placeName>England</placeName>.
                   This is a new star in the <rs type="properAdjective">Æsculapian</rs>
                   system. It was first observed from the Provinces.
                   It is so luminous there, that the greasy-
@@ -5913,16 +5912,16 @@
                   opinion respecting this phenomenon.
                </p>
                <p>Great events are foreboded.—Some pretend
-                  that a restive <!-- greasy-heeled horse --> will kick
+                  that a restive greasy-heeled horse will kick
                   down all the old gally-pots of <persName>Galen</persName>—Others,
                   that the people of <placeName>England</placeName> are becoming like
                   the inhabitants of a wilderness, beyond the
                   land of <placeName>Cathay</placeName>, seen in <date when="1333">1333</date>, by the rare and
                   inimitable <persName>Sir John Mandevile</persName>,—who, he
                   says, were <quote>wild, with horns on their heads,
-                     very hideous and speak not; but rout as swine<anchor xml:id="a071" corresp="#n071"/>.</quote>
+                  very hideous and speak not; but rout as swine<anchor xml:id="a071" corresp="#n071"/>.</quote>
                </p>
-               <p>Wonderful things to certainly apear in all
+               <p ana="#disease #medical">Wonderful things to certainly apear in all
                   ages; the great <persName>Erasmus</persName> mentions a man, one
                   <persName>Philario</persName>, an <name>Italian</name>, who in <placeName>Holland</placeName> was very
                   much afflicted with worms. While the worms 
@@ -5930,14 +5929,14 @@
                   fluently. When his physician cured him of
                   the disorder, he could not speak a word of that
                   language. The <rs type="properAdjective">Dutch</rs> worms and the <rs type="properAdjective">Dutch</rs>
-                  language, left Philario together<anchor xml:id="a072" corresp="#a072"/>!
+                  language, left <persName>Philario</persName> together<anchor xml:id="a072" corresp="#a072"/>!
                </p>
-               <p>In this <!-- Cowmania --> it is not enough for reason
+               <p ana="#disease #medical">In this Cowmania it is not enough for reason
                   to concede, that the Cow-pox may lessen, <emph>for
                   a time</emph>, the disposition in the habit to receive
-                  the infection of the <!-- Small pox -->.
+                  the infection of the Small pox.
                </p>
-               <p>All cutaneous determinations; catarhal fevers;
+               <p ana="#medical #disease">All cutaneous determinations; catarhal fevers;
                   and every disease of the lymphatics; and
                   
                   <lb/>
@@ -5946,21 +5945,21 @@
                   medicine, tending to what <persName>Sydenham</persName> would
                   call depurating that system, do the same.
                </p>
-               <p>Surgeons know that the first inflammation
+               <p ana="#medical">Surgeons know that the first inflammation
                   of any membrane is the most violent: and that
                   reiterated inflammation deadens sensibility.
                </p>
-               <p>But no complaint to which people are 
+               <p ana="#disease">But no complaint to which people are 
                   repeatedly subject, as the Cow-pox, can perform
                   all circumstances in the habit, and equivalent
                   to the Small-pox, which people never have but
                   once.
                </p>
-               <p>Besides, the small-pox does not destroy the
+               <p ana="#disease">Besides, the small-pox does not destroy the
                   disposition in the habit to receive the Cow-
                   pox.
                </p>
-               <p>If that be the case, the Small-pox and the
+               <p ana="#disease">If that be the case, the Small-pox and the
                   Cow-pox, then, are not analogous; but
                   radically dissimilar.
                </p>
@@ -5969,10 +5968,10 @@
                   had better bear,
                   <quote rend="block">Than fly to others that we know not of.</quote>
                </p>
-               <p>Inoculation has disarmed the Small-pox of
+               <p ana="#disease #medical">Inoculation has disarmed the Small-pox of
                   its terrors; and reduced it to management.
                </p>
-               <p>I have inoculated in the <placeName>West Indies</placeName>, and
+               <p ana="#medical">I have inoculated in the <placeName>West Indies</placeName>, and
                   in <placeName>Europe</placeName>, several thousands. I never lost a
                   patient. I speak subject to the animadversions
                   of contemporaries. And I should not
@@ -5989,7 +5988,7 @@
                   leaves nothing after it injurious to the 
                   constitution.
                </p>
-               <p>Can any person say what may be the 
+               <p ana="#medical">Can any person say what may be the 
                   consequences of introducing a <emph>bestial</emph> humour—
                   the Cow-pox, I hope, does not deserve the
                   name of disease—into the human frame, after
@@ -6007,16 +6006,16 @@
                <p>There are several distempers of <mcr>bestial</mcr> origin,
                   I have no doubt.
                </p>
-               <p>The <distinct>Yaws</distinct> is one of them; and, not being 
+               <p ana="#disease">The <distinct type="scientific">Yaws</distinct> is one of them; and, not being 
                   understood in <placeName>Europe</placeName>, and a well-known
-                  affliction in the sugar colonies, it is not foreign
+                  affliction in the <rs type="place">sugar colonies</rs>, it is not foreign
                   to my subject to notice here.
                </p>
                
                <pb/>
                <fw type="pageNum">166</fw>
                
-               <p>The <distinct>yaws</distinct> naturally is an original <rs type="properAdjective">African</rs>
+               <p ana="#disease">The <distinct type="scientific">yaws</distinct> naturally is an original <rs type="properAdjective">African</rs>
                   distemper. It may be communicated to white
                   people, as it is to blacks, by inoculation, and
                   by accidental contact, when the ulcerous matter
@@ -6025,12 +6024,12 @@
                   sort. But it breaks out in negroes without
                   any communication, society, or contact.
                </p>
-               <p>The seeds of the <distinct>yaws</distinct> descend from those
+               <p ana="#disease">The seeds of the <distinct type="scientific">yaws</distinct> descend from those
                   who have ever had it, to their latest posterity.
                   No period from infancy to age exempts them
                   from it. Its appearance is uncertain.
                </p>
-               <p><persName>Chevalier</persName> and <persName>Hillary</persName> speak of the <distinct>yaws</distinct>;
+               <p ana="#disease #medical"><persName>Chevalier</persName> and <persName>Hillary</persName> speak of the <distinct type="scientific">yaws</distinct>;
                   but their accounts are erroneous. <persName>Chevalier</persName>
                   perhaps never saw it<anchor xml:id="a073" corresp="#n073"/>. <persName>Hillary</persName> often saw
                   it; but he misunderstands <persName>Hali Abras</persName>, whom
@@ -6046,44 +6045,44 @@
                <pb/>
                <fw type="pageNum">167</fw>
                
-               <p>The <distinct>yaws</distinct> differs althogether from every other
+               <p ana="#disease">The <distinct type="scientific">yaws</distinct> differs althogether from every other
                   disorder, in its origin, progress, and
                   termination.
                </p>
-               <p>Left to itself, it sometimes departs in 9, 12, 
+               <p ana="#disease">Left to itself, it sometimes departs in 9, 12, 
                   15, or 18 months, without leaving behind it
                   any inconveniency. Sometimes it remains
                   much longer, and ends in shocking nodes,
                   and distortions of the bones. Many are
                   destroyed by it. No person is subject to it twice.
                </p>
-               <p>From want of care and proper management,
-                  the torments of the <distinct>yaws</distinct> surpass all
-                  description from the <distinct>bone ache</distinct>, and dreadful
+               <p ana="#disease">From want of care and proper management,
+                  the torments of the <distinct type="scientific">yaws</distinct> surpass all
+                  description from the <distinct type="scientific">bone ache</distinct>, and dreadful
                   agonizing curvatures, and caries of the legs, arms,
                   collar-bones, wrists, and almost every other
                   bone, and articulation in the body.
                </p>
-               <p>There is also, sometimes, a relic after the
-                  original malady is gone, called the <distinct>master yaw</distinct>;
+               <p ana="#disease">There is also, sometimes, a relic after the
+                  original malady is gone, called the <distinct type="scientific">master yaw</distinct>;
                   this is an inveterate ulcer, proceeding from 
-                  the largest <distinct>yaw</distinct>, or chief determination of the
+                  the largest <distinct type="scientific">yaw</distinct>, or chief determination of the
                   eruption.
                </p>
-               <p>Generally, this distemper terminates in what
-                  are called <distinct>crab yaws</distinct>. These are painful sores,
+               <p ana="#disease">Generally, this distemper terminates in what
+                  are called <distinct type="scientific">crab yaws</distinct>. These are painful sores,
                   or cracks in the feet. Sometimes spongy, sometimes
                   hard and callous.
                </p>
-               <p>There are two sorts of <distinct>yaws</distinct>, like the two
-                  species of <distinct>Farcy</distinct> in horses; the <distinct>common yaws</distinct>
-                  and the <distinct>running yaws</distinct>.
+               <p ana="#disease">There are two sorts of <distinct type="scientific">yaws</distinct>, like the two
+                  species of <distinct type="scientific">Farcy</distinct> in horses; the <distinct type="scientific">common yaws</distinct>
+                  and the <distinct type="scientific">running yaws</distinct>.
                </p>
                
                <pb/>
                <fw type="pageNum">168</fw>
                
-               <p>The <distinct>common yaws</distinct>, without fever or
+               <p ana="#disease">The <distinct type="scientific">common yaws</distinct>, without fever or
                   indispositon, begins with small pimples, which soon
                   increase, and appear in round, white, flabby,
                   eruptions, from about the size of a pea to that
@@ -6096,20 +6095,20 @@
                   force them out, when they are thought to be
                   entirely gone from the habit.
                </p>
-               <p>The <distinct>running yaws</distinct> breaks out in spreading
+               <p ana="#disease">The <distinct type="scientific">running yaws</distinct> breaks out in spreading
                   cutaneous ulcers, discharging a great quantity
                   of acrid corrosive matter, in different parts of
                   the body. This is the worst sort.
                </p>
-               <p>The cure of the yaws is now understood by
+               <p ana="#medical">The cure of the yaws is now understood by
                   skilful practitioners. Inoculation is performed
                   with success. Care soon removes the principal
-                  mischief of the distemper; and the <distinct>crab yaws</distinct>
+                  mischief of the distemper; and the <distinct type="scientific">crab yaws</distinct>
                   are easily cured in the manner which I have
                   related in another publication<anchor xml:id="a077" corresp="#n077"/>.
                </p>
-               <p>Formerly there was no regular method of 
-                  treating the <distinct>yaws</distinct> in the <placeName>West Indies</placeName>. It was
+               <p ana="#medical">Formerly there was no regular method of 
+                  treating the <distinct type="scientific">yaws</distinct> in the <placeName>West Indies</placeName>. It was
                   thought to be a disorder that would have its
                   course, and, if interrupted, that it would be
                   
@@ -6117,7 +6116,7 @@
                   <fw type="pageNum">169</fw>
                   
                   dangerous. It was then the custom, when a
-                  negro was attacke with it, to separate him
+                  <name>negro</name> was attacke with it, to separate him
                   from the rest, and send him to some lonely
                   place by the sea sied, to bathe; or into the
                   mountains, to some Provision Ground, or Plantain
@@ -6133,7 +6132,7 @@
                   a leper;—he usually sunk from the land of the
                   living. 
                </p>
-               <p>But some of these abandoned exiles lived, in
+               <p ana="#disease">But some of these abandoned exiles lived, in
                   spite of the common law of nature, and survived
                   a general mutation of their muscles, ligaments,
                   and osteology; became also hideously
@@ -6152,7 +6151,7 @@
                <fw type="pageNum">170</fw>
                
                <p>In their banishment, their huts often became
-                  the receptacles of robbers and fugitive negroes;
+                  the receptacles of robbers and fugitive <name>negroes</name>;
                   and, as they had no power to resist any who
                   chose to take shelter in their hovels, and had
                   nothing to lose, and were forsaken by the world,
@@ -6167,7 +6166,7 @@
                </p>
                
                <!-- start Obeah -->
-               
+               <milestone unit="unnumbered" ana="#obeah" spanTo="#ana001"/>
                <p>Many of their wayward visitors were deeply
                   skilled in magic, and what we call the <distinct type="religious">black
                   art</distinct>, which they brougth with them from
@@ -6175,7 +6174,7 @@
                   they usually taught their landlord the
                   mysteries of sigils, spells, and sorcery; and
                   <emph>illuminated</emph> him in all the occult science of
-                  <distinct ana="#obeah #religious">Obi</distinct><anchor xml:id="a078" corresp="#n078"/>.
+                  <distinct type="religious" ana="#obeah #religious">Obi</distinct><anchor xml:id="a078" corresp="#n078"/>.
                </p>
                
                <pb/>
@@ -6187,14 +6186,14 @@
                   in mind, and by the malicious, for wicked
                   purposes.
                </p>
-               <p><distinct>Obi</distinct>, and <distinct>gambling</distinct>, are the only instances I
+               <p><distinct type="religious">Obi</distinct>, and <distinct>gambling</distinct>, are the only instances I
                   have been able to discover, among the natives
                   of the negro land in <placeName>Africa</placeName>, in which any
                   effort at combining ideas, has ever been
                   demonstrated.
                </p>
-               <p>The science of <distinct>Obi</distinct> is very extensive.</p>
-               <p><distinct>Obi</distinct>, for the purposes of bewitching people,
+               <p>The science of <distinct type="religious">Obi</distinct> is very extensive.</p>
+               <p><distinct type="religious">Obi</distinct>, for the purposes of bewitching people,
                   or consuming them by lingering illness, is
                   made of grave dirt, hair, teeth of sharks, and
                   other creatures, blood, feathers, egg-shells,
@@ -6221,15 +6220,15 @@
                   in the curse.
                </p>
                <p>A negro, who thinks himself bewitched
-                  by <distinct>Obi</distinct>, will apply to an <distinct>Obi-man</distinct> or <distinct>Obi-
-                  woman</distinct>, for cure.
+                  by <distinct type="religious">Obi</distinct>, will apply to an <name>Obi-man</name> or <name>Obi-
+                  woman</name>, for cure.
                </p>
                <p>These magicians will interrogate the patient,
                   as to the part of the body most afflicted.
                   This part they will torture with pinching,
                   drawing with gourds, or calabashes, beating,
                   and pressing. When the patient is nearly 
-                  exhausted with this rough <distinct>magnetising</distinct>, <distinct>Obi</distinct> brings
+                  exhausted with this rough <distinct>magnetising</distinct>, <distinct type="religious">Obi</distinct> brings
                   out an old rusty nail, or piece of bone, or
                   an ass's tooth, or the jaw-bone of a rat, or
                   a fragment of a quart bottle, from the part;
@@ -6240,15 +6239,15 @@
                   was the case among the <name>Egyptians</name> and
                   <name>Chaldeans</name>.
                </p>
-               <p>In general, <rs type="persGroup">Obi-men</rs> are more sagacious than
-                  <rs type="persGroup">Obi-women</rs>, in giving, or taking away diseases;
+               <p>In general, <name>Obi-men</name> are more sagacious than
+                  <name>Obi-women</name>, in giving, or taking away diseases;
                   
                   <pb/>
                   <fw type="pageNum">173</fw>
                   
                   and in the application of poisons. It is in their 
-                  department to blind pigs, and poultry; and
-                  lame cattle.
+                  department to blind <ecda:fauna>pigs</ecda:fauna>, and <ecda:fauna>poultry</ecda:fauna>; and
+                  lame <ecda:fauna>cattle</ecda:fauna>.
                </p>
                <p>It is the province of the <rs type="persGroup">Obi-women</rs> to
                   dispose of the passions. They sell foul winds for
@@ -6267,12 +6266,12 @@
                   of Ideas, the origin of which, is in the centre
                   of <placeName>Africa</placeName>.
                </p>
-               <p>I saw the Obi of the famous negroe robber,
+               <p>I saw the <name>Obi</name> of the famous negroe robber,
                   <persName>Three fingered Jack</persName>, the terror of <placeName>Jamaica</placeName> in
-                  <date from="1780" to="1781">1780 and 1781</date>. The <rs type="persGroup">Maroons</rs> who slew him
+                  <date from="1780" to="1781">1780 and 1781</date>. The <ecda:persGroup a-gender="male" a-aig="maroon">Maroons</ecda:persGroup> who slew him
                   brought it to me.
                </p>
-               <p>His Obi consisted of the end of a goat's horn,
+               <p>His <name>Obi</name> consisted of the end of a goat's horn,
                   filled with a compound of grave dirt, ashes,
                   the blood of a black cat, and human fat; all
                   mixed into a kind of paste. A black cat's
@@ -6285,7 +6284,7 @@
                   blood on it, were also in his <rs type="properAdjective">Obian</rs> bag.
                </p>
                <p>These, with a keen sabre, and two guns,
-                  like <persName>Robinson Crusoe</persName>, were all his Obi; with
+                  like <persName>Robinson Crusoe</persName>, were all his <name>Obi</name>; with
                   which, and his courage in descending into the
                   plains and plundering to supply his wants,
                   and his skill in retreating into difficult fastnesses,
@@ -6296,7 +6295,7 @@
                   defiance, for two hears.
                </p>
                <p>He had neither accomplice nor associate.
-                  There were a few runaway negroes in the
+                  There were a few runaway <name>negroes</name> in the
                   woods near <placeName>Mount Libanus</placeName>, the place of his
                   retreat; but he had crossed their foreheads
                   with some of the magic in his horn, and they 
@@ -6306,7 +6305,7 @@
                   battles alone; and always killed his pursuers.
                </p>
                <p>By his magic, he was not only the dread of
-                  the negroes, but there were many white people,
+                  the <name>negroes</name>, but there were many white people,
                   who believed he was possessed of some supernatural
                   power.
                </p>
@@ -6321,7 +6320,7 @@
                </p>
                <p><quote rend="quotes">Give a dog an ill name, and hang him.</quote></p>
                <p>Clamours rose on clamours against the
-                  cruel <distinct>sorcerer</distinct>; and every conjugal mishap
+                  cruel <distinct type="religious">sorcerer</distinct>; and every conjugal mishap
                   was laid at the door of <persName>Jack's</persName> malific spell of
                   tying the point, on the wedding day.
                </p>
@@ -6334,7 +6333,7 @@
                   mortal hatred to white men, he was never
                   known to hurt a child, or abuse a woman.
                </p>
-               <p>But eve Jack himself was born, to die.</p>
+               <p>But even Jack himself was born, to die.</p>
                <p>Allured by the rewards offered by <persName>Governor
                   Dalling</persName>, in a proclamation, dated the <date when="1780-12-12">12th
                   of December, 1780</date>, and by a resolution which 
@@ -6343,11 +6342,11 @@
                   <pb/>
                   <fw type="pageNum">176</fw>
                   
-                  negroes, named <persName>Quashee</persName> and <persName>Sam</persName> (<persName>Sam</persName>
+                  <name>negroes</name>, named <persName>Quashee</persName> and <persName>Sam</persName> (<persName>Sam</persName>
                   was <persName>Captain Davy's</persName> son. he who shot a
                   <persName>Mr. Thompson</persName>, the master of a <rs type="properAdjective">London</rs> ship,
                   at <placeName>Old Harbour</placeName>), both of <placeName>Scots Hall Maroon
-                  Town</placeName>, with a party of their townsmen, went
+                  Town</placeName>, with a <ecda:persGroup>party of their townsmen</ecda:persGroup>, went
                   in search of him.
                </p>
                <p><persName>Quashee</persName>, before he set out on the expedition, 
@@ -6366,7 +6365,7 @@
                   retreat; and taking him, by storming it, or
                   perishing in the attempt.
                </p>
-               <p>They took with them a little boy, a proper
+               <p>They took with them a <ecda:anonPers a-gender="male">little boy</ecda:anonPers>, a proper
                   spirit, and a good shot, and left the rest of the
                   party.
                </p>
@@ -6386,7 +6385,7 @@
                </p>
                <p>They prepared for war. They came upon
                   <persName>Jack</persName> before he perceived them. He was
-                  proasting plantains, by a little fire on the
+                  roasting plantains, by a little fire on the
                   ground, at the mouth of a cave.
                </p>
                <p>This was a scene:—not where ordinary actors
@@ -6396,7 +6395,7 @@
                   told them he would kill them.
                </p>
                <p><persName>Reeder</persName>, instad of shooting <persName>Jack</persName>, replied,
-                  that his Obi had no power to hurt him; for
+                  that his <name>Obi</name> had no power to hurt him; for
                   he was christianed; and that his name was no
                   longer <persName>Quashee</persName>.
                </p>
@@ -6404,7 +6403,7 @@
                   he let is two guns remain on the ground, and took up only his cutlass.
                </p>
                <p>These two had a desperate engagement
-                  several years before, in the woods; in whic
+                  several years before, in the woods; in which
                   conflict <persName>Jack</persName> lost the two fingers, which was
                   the origin of his present name; but <persName>Jack</persName> then
                   beat <persName>Reeder</persName>, and almost killed him with
@@ -6449,7 +6448,7 @@
                <pb/>
                <fw type="pageNum">179</fw>
                
-               <p>The little boy, who was ordered to keep
+               <p>The <ecda:anonPers a-gender="male">little boy</ecda:anonPers>, who was ordered to keep
                   back, out of harm's way, now reached the 
                   top of the precipice, and during the fight,
                   shot <persName>Jack</persName> in the belly.
@@ -6463,7 +6462,7 @@
                   weapons.
                </p>
                <p><persName>Sam</persName> descended after them, who also lost his
-                  cutlass, among the trees and bushes in gettign
+                  cutlass, among the trees and bushes in getting
                   down.
                </p>
                <p>When he came to them, though without
@@ -6489,37 +6488,37 @@
                <p>When the lion fell, the two tigers got upon
                   him, and beat his brains out with stones.
                </p>
-               <p>The little boy soon after found his way to
+               <p>The <ecda:anonPers a-gender="male">little boy</ecda:anonPers> soon after found his way to
                   them. He had a cutlass, with which they cut
                   off <persName>Jack's</persName> head, and three-fingered hand,
                   and took them in triumph to <placeName>Morant Bay</placeName>.
                </p>
                <p>There they put their trophies into a pail of
                   rum; and followed by a vast concourse of
-                  negroes, now no longer afraid of <persName>Jack's</persName> Obi,
+                  <name>negroes</name>, now no longer afraid of <persName>Jack's</persName> Obi,
                   they carried them to <placeName>Kingston</placeName>, and <placeName>Spanish
                   Town</placeName>; and claimed the reward of the King's 
-                  Proclamation, and the House of Assembly.
+                  Proclamation, and the <orgName>House of Assembly</orgName>.
                </p>
-               
+               <milestone unit="unnumbered" xml:id="ana001"/>
                <!-- End Obeah section -->
                
                <p>But to return to medicine's melancholy
                   road.
                </p>
-               <p>In <placeName>North America</placeName>, lately, the Plague has
+               <p ana="#disease">In <placeName>North America</placeName>, lately, the Plague has
                   burst on the inhabitants. It first appeared at
                   <placeName>Philadelphia</placeName> in <date when="1793-08">August, 1793</date>
                </p>
-               <p><persName>Doctor Benjamin Rush</persName>, of <placeName>Philadelphia</placeName>,
+               <p ana="#medical"><persName>Doctor Benjamin Rush</persName>, of <placeName>Philadelphia</placeName>,
                   a physician of the most distinguished learning
                   and talents, has given an interesting account
                   of this calamity. He has denominated this
-                  pestilence the <distinct>Bilious Remitting Yellow Fever</distinct> of
+                  pestilence the <distinct type="scientific">Bilious Remitting Yellow Fever</distinct> of
                   <placeName>America</placeName>; from its being accompanied by the
                   terrible complexion, and other pathognomonics,
-                  which I have given of the <distinct>Endemial Causas</distinct>,
-                  or, as it is commonly called, the <distinct>Yellow Fever</distinct>
+                  which I have given of the <distinct type="scientific">Endemial Causas</distinct>,
+                  or, as it is commonly called, the <distinct type="dialect">Yellow Fever</distinct>
                   
                   <pb/>
                   <fw type="pageNum">181</fw>
@@ -6529,8 +6528,8 @@
                   that fever, and have published in my <title rend="italic">Treatise
                   on Tropical Diseases.</title>
                </p>
-               <p>Ferom the mortality that has happened, at
-                  different periods, from the <distinct>Yellow Fever</distinct>, since its
+               <p ana="#disease #medical">From the mortality that has happened, at
+                  different periods, from the <distinct type="scientific">Yellow Fever</distinct>, since its
                   first appearance in <placeName>America</placeName>, I am sorry to conclude
                   that no successful method of treating it
                   has been adopted by practitioners, and 
@@ -6538,7 +6537,7 @@
                </p>
                <p>It seems that <placeName>America</placeName> is now suffering the
                   same fate which <placeName>England</placeName> formerly
-                  experiencedl and that this <rs type="properAdjective">American</rs> plague, like
+                  experienced and that this <rs type="properAdjective">American</rs> plague, like
                   the plagues in <placeName>England</placeName>, will exhaust in the
                   inscrutable cause which feeds its rage, and then
                   will vanish. <placeName>England</placeName> was relieved from the
@@ -6552,7 +6551,7 @@
                   generally desert the field; intrench themselves
                   far off, behind old books, and leave raw
                   recruets to fight the foe: who, experienced
-                  in the tactics of the physic, seldon escape the 
+                  in the tactics of the physic, seldom escape the 
                   recoil of their own artillery; and fall with their
                   patients.
                </p>
@@ -6560,13 +6559,13 @@
                <pb/>
                <fw type="pageNum">182</fw>
                
-               <p>It was natural for <persName>Hippocrates</persName>, who
+               <p ana="#disease #medical">It was natural for <persName>Hippocrates</persName>, who
                   lived in a country, where particular winds
                   regularly produced certain diseases, to attribute
                   all epidemics to some condition of the air,
                   that was cognizable to our senses.
                </p>
-               <p>But <persName>Sydenham</persName>, who, we all know, was a
+               <p ana="#disease #medical">But <persName>Sydenham</persName>, who, we all know, was a
                   sagacious observer of nature, though he
                   thought with <persName>Hippocrates</persName> as to the
                   atmospheric origin of epidemics, yet he contended
@@ -6576,18 +6575,18 @@
                   theory, in which the <rs type="properAdjective">Pandoran</rs> mischief of
                   epidemics lies concealed.
                </p>
-               <p>There are annual or seasonal disorders,
+               <p ana="#disease">There are annual or seasonal disorders,
                   more or less severe, in all countries; but the
                   Plague, and other great depopulating epidemics,
                   do not always obey the seasons of the
                   year.
                </p>
-               <p>Like comets, their course is excentric. They
+               <p ana="#disease">Like comets, their course is excentric. They
                   have their revolutions; but from whence they
                   come, or whither they go after they have made
                   their revolutions, no mortal can tell.
                </p>
-               <p>All epidemics properly belong to either
+               <p ana="#disease">All epidemics properly belong to either
                   spring or autumn. When they break out in
                   winter, or very early in the spring, they
                   generally prove the most malignant and destructive.
@@ -6599,13 +6598,13 @@
                   in regard to their premature appearance, in
                   summer.
                </p>
-               <p>Vernal pestilential diseases, and plagues,
+               <p ana="#disease">Vernal pestilential diseases, and plagues,
                   terminate, or become mild, or quiescent, in
                   hot weather. Autumnal diseases, in cold weather.
                   The measles and small-pox, when epidemic,
                   do the same.
                </p>
-               <p>The plagues of <date when="1119">1119</date>, <date when="1656">1656</date>, and several
+               <p ana="#disease">The plagues of <date when="1119">1119</date>, <date when="1656">1656</date>, and several
                   others in <placeName>England</placeName>; of <date when="1348">1348</date>, in <placeName>Venice</placeName>; of
                   <date when="1713">1713</date>, in <placeName>Dantzig</placeName>, <placeName>Hamburg</placeName>, and <placeName>Stockholm</placeName>;
                   all broke out during the frost in winter; and
@@ -6615,32 +6614,32 @@
                   <placeName>Constantinople</placeName>, and <placeName>Cairo</placeName>, when they make their
                   appearance in February.
                </p>
-               <p>No person ever knew the cause of the <distinct>Sweating
+               <p ana="#disease">No person ever knew the cause of the <distinct type="scientific">Sweating
                   Sickness</distinct> in <placeName>England</placeName>; nor of its five periodical
                   appearances from the ear in <date when="1483">1483</date> to <date when="1551">1551</date>:
                   nor why it has never since returned.
                </p>
-               <p>In diseases, even of confined local production,
+               <p ana="#disease">In diseases, even of confined local production,
                   we are often deceived by the semblance
                   of truth.
                </p>
-               <p>Has any person a rational cause to assign
+               <p ana="#disease">Has any person a rational cause to assign
                   for Agues in the hundreds of <placeName>Essex</placeName>; or the
                   Bronchocele in <rs type="properAdjective">Alpine</rs> countries?
                </p>
-               <p>What did <persName>Pliny</persName> know of the <distinct>Germusa</distinct>or
-                  what do we know of the <distinct>Mentagra<anchor xml:id="a080" corresp="#n080"/>?</distinct>
+               <p ana="#disease">What did <persName>Pliny</persName> know of the <distinct type="scientific">Germusa</distinct> or
+                  what do we know of the <distinct type="scientific">Mentagra</distinct><anchor xml:id="a080" corresp="#n080"/>?
                </p>
                
                <pb/>
                <fw type="pageNum">184</fw>
                
-               <p>To look for the cause of an epidemic in the
+               <p ana="#disease">To look for the cause of an epidemic in the
                   present state of the air, or weather, when it
                   makes its appearance, is a very narrow, contracted,
                   method of scrutiny.
                </p>
-               <p>The cause of a pestilence in summer, may be
+               <p ana="#disease">The cause of a pestilence in summer, may be
                   in the changes which the earth, and consequently
                   its surrounding atmosphere, underwent
                   in the preceding wingerl and from 
@@ -6648,14 +6647,14 @@
                   thought, for years prepatory to its eruption.
                </p>
                <p>In a new country like <placeName>North America</placeName>, where
-                  immense districts of the surgace of the earth,
+                  immense districts of the surface of the earth,
                   which from the creation never saw the sun,
                   have been exposed, for agriculture, the air of
                   the country must have been impregnated from
                   exhalations injurious, probably, to is salubrity.
                </p>
                <p>The <name>Americans</name> are not to look for the cause
-                  of their <distinct>Yellow Fever</distinct>, on dunghills, in rotten
+                  of their <distinct type="scientific">Yellow Fever</distinct>, on dunghills, in rotten
                   vegetable substances, and about the wharfs
                   and neighbourhood of <placeName>Philadelphia</placeName>. Nature
                   does not deal in such commodities. She does
@@ -6675,29 +6674,29 @@
                   people; and dishearten them, at a time they
                   stand most in need of fortitude.
                </p>
-               <p>Exposing the well-known umbrous <distinct>Pontini</distinct>
+               <p>Exposing the well-known umbrous <distinct type="scientific">Pontini</distinct>
                   marshes, by cutting down the woods, which
                   kept their foul vapours from being rarified by
                   the sun, and borne away by the winds, produced 
-                  great pestilence in Italy.
+                  great pestilence in <placeName>Italy</placeName>.
                </p>
                <p>The idea also of the <rs type="properAdjective">American</rs> plague being
-                  imported from <distinct>Bulam</distinct>, or any other place, is
+                  imported from <placeName>Bulam</placeName>, or any other place, is
                   repugnant to reason. I was told a similar tale,
                   when I first went to the <placeName>West Indies</placeName>: that the
-                  <distinct>Yellow Fever</distinct> there, was imported in the 
+                  <distinct type="scientific">Yellow Fever</distinct> there, was imported in the 
                   beginning of the century from <placeName>Siam</placeName>. That it was
                   a contagious, and an original putrid disease;
                   and that bleeing was death. In my practice
                   I proved the reverse of all this.
                </p>
-               <p>The cause of pestilential epidemics, cannot
+               <p ana="#disease">The cause of pestilential epidemics, cannot
                   be confined, and local. It must lie in the 
                   atmosphere, which surrounds, and is in contact
                   with every part of us; and in which we are 
                   immersed, as bodies in fluids.
                </p>
-               <p>These diseases not appearing in villages, and
+               <p ana="#disease">These diseases not appearing in villages, and
                   thinly inhabited places, and generally attacking
                   only great towns and cities, may be, that
                   the atmosphere, which I conceive to be the
@@ -6711,7 +6710,7 @@
                   popular communities,—to separate, or release its
                   imprisoned virulence, and give it force.
                </p>
-               <p>The ancient writers on medicine, and indeed
+               <p ana="#medical">The ancient writers on medicine, and indeed
                   all others, which I have read, assert, that the
                   operation, of whatever they assign to be the
                   cause of epidemical fevers,—is solely on the
