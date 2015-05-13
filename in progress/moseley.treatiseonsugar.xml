@@ -50,15 +50,15 @@
            </interpGrp>
         </note>
            <note xml:id="n001" target="#a001">
-              <bibl><edition>Ed. <persName>Heinsii</persName>, <date when="1613">1613</date>, p. 475.</edition></bibl>
+              <bibl><edition>Ed. <persName ref="#daniel_heinsius_1580">Heinsii</persName>, <date when="1613">1613</date>, p. 475.</edition></bibl>
            </note>
            <note xml:id="n002" target="#a002">
-              <bibl><title>De Causis Plant.</title> lib. VI. c.16. ed. <persName>Heinsii</persName></bibl>
+              <bibl><title>De Causis Plant.</title> lib. VI. c.16. ed. <persName ref="#daniel_heinsius_1580">Heinsii</persName></bibl>
            </note>
            <note xml:id="n003" target="#a003">
-              <p><persName><unclear>Varlo Narboncensis</unclear></persName>, or, as he is sometimes called, <persName>Varro
+              <p><persName ref="#varro_attacinus_0082"><unclear>Varlo Narboncensis</unclear></persName>, or, as he is sometimes called, <persName ref="#varro_attacinus_0082">Varro
               <unclear>Atacinus</unclear></persName>. a poetical writer, contemporary with the celebrated
-              <persName>M.T. Varro</persName>.</p>
+              <persName ref="#marcus_terentius_varro_116">M.T. Varro</persName>.</p>
            </note>
            <note xml:id="n004" target="#a004">
               <unclear>Periegeris</unclear>, viz. <date when="1127">1127</date>.
@@ -76,7 +76,7 @@
               </p>
            </note>
            <note xml:id="n008" target="#a008">
-              <bibl><author><persName>Glass's</persName></author> <title>History of the <placeName>Canary Islands</placeName></title>, p. 275, anno <date when="1764">1764</date>.</bibl>
+              <bibl><author><persName ref="#george_glas_1725">Glass's</persName></author> <title>History of the <placeName>Canary Islands</placeName></title>, p. 275, anno <date when="1764">1764</date>.</bibl>
            </note>
            <note xml:id="n009" target="#a009">
               <bibl>P. 275, <edition>edit. <persName>Goezii</persName>, <date when="1777">1777</date></edition>.</bibl>
@@ -89,13 +89,13 @@
               </p>
            </note>
            <note xml:id="n011" target="#a011">
-              <p><persName>Sir John Laforey's</persName> remarks on the <rs type="place">East Indian</rs> <ecda:flora>canes</ecda:flora>, imported
-              into the <placeName>French Charaibean islands</placeName>, in <persName>Mr. Edwards's</persName>
+              <p><persName ref="#john_laforey_1729">Sir John Laforey's</persName> remarks on the <rs type="place">East Indian</rs> <ecda:flora>canes</ecda:flora>, imported
+              into the <placeName>French Charaibean islands</placeName>, in <persName ref="#bryan_edwards_1743">Mr. Edwards's</persName>
               preface to the second edition of his <title>History of the <placeName>West Indies</placeName>.</title>
               </p>
            </note>
            <note xml:id="n012" target="#a012">
-              <p><persName>Charles II</persName>. in <date when="1661">1661</date>, created thirteen <rs type="persGroup">Baronets of <persName>Barbadoes</persName></rs>;
+              <p><persName ref="charles_ii_england_1630">Charles II</persName>. in <date when="1661">1661</date>, created thirteen Baronets of <placeName>Barbadoes</placeName>;
               each of whom had in the island not less than a thousands pounds 
               a year, and some ten thousand pounds a year.
               </p>
@@ -106,7 +106,7 @@
               </p>
            </note>
            <note xml:id="n014" target="#a014">
-              <p>This must refer only to the manufacturing of <ecda:commodity ana="#production #flora">sugar</ecda:commodity>. <persName>Piso</persName>
+              <p>This must refer only to the manufacturing of <ecda:commodity ana="#production #flora">sugar</ecda:commodity>. <persName ref="#willem_piso_1611">Piso</persName>
               says the sugar canes were originally found growing wild in the
               woods of the <placeName>Canary Islands</placeName>. <bibl>Lib. 4. Cap. 1.</bibl>
               </p>
@@ -153,18 +153,18 @@
               <bibl><title>Penidum Saccharum</title>.</bibl>
            </note>
            <note xml:id="n025" target="#a025">
-              <p>He alludes to <persName>Garencieres</persName>.</p>
+              <p>He alludes to <persName ref="#theophilius_de_garencieres_1610">Garencieres</persName>.</p>
            </note>
            <note xml:id="n026" target="#a026">
-              <persName>Garencieres</persName>.
+              <persName ref="#theophilius_de_garencieres_1610">Garencieres</persName>.
            </note>
            <note xml:id="n027" target="#a027">
-              <persName>Willis</persName> and <persName>Simon Paulli</persName>.
+              <persName ref="#thomas_willis_1621">Willis</persName> and <persName ref="#simon_paulli_1603">Simon Paulli</persName>.
            </note>
            <note xml:id="n028" target="#a028" ana="#medical">
               <p>The method of treating fresh wounds among the <name>Turks</name>, is,
               first to wash them with wine, and then sprinkle powdered sugar
-              on them. The celebrated <persName>Monsieur Belloste</persName> cured obstinate 
+              on them. The celebrated <persName ref="#augustin_belloste_1654">Monsieur Belloste</persName> cured obstinate 
               ulcers, with sugar dissolved in a strong decoction of <ecda:flora>walnut leaves</ecda:flora>.
               This I have found to be an excellent application.</p>
            </note>
@@ -197,15 +197,15 @@
               </p>
            </note>
            <note xml:id="n033" target="#a033">
-              <p><persName>Abbé Fontana</persName> has obtained an acid perfectly like that of
-              of sugar, and saccharine substances, from all gums and resins. <persName>Mr.
+              <p><persName ref="#felice_fontana_1730">Abbé Fontana</persName> has obtained an acid perfectly like that of
+              of sugar, and saccharine substances, from all gums and resins. <persName ref="#james_watt_1736" cert="medium">Mr.
               Watt</persName>, of <placeName>Birmingham</placeName>, found by adding nitrous acid to galls, and
-              conducting the process in the way recommended by <persName>professor
+              conducting the process in the way recommended by <persName ref="#torbern_bergman_1735">professor
               Bergman</persName>, that these astringent bodies contain the acid of sugar
               in greater abundance than the substance from which it derives
               its name. <persName>Mr. Schrikel</persName> obtained an acid from galls by distillation,
-              but very diffferent from <persName>Bergman's</persName>; as may bee seen in
-              <persName>Scheel's</persName> essays. To obtain acid of sugar, without vital air, or
+              but very diffferent from <persName ref="#torbern_bergman_1735">Bergman's</persName>; as may bee seen in
+              <persName ref="#carl_wilhelm_scheele_1742">Scheel's</persName> essays. To obtain acid of sugar, without vital air, or
               nitrous acid, would be a fact of great importance in the present
               state of chemical theory.
               </p>
@@ -248,12 +248,12 @@
               <bibl><title>Proverbs</title>, c. vii. v. 17. English Bible</bibl>
            </note>
            <note xml:id="n045" target="#a045">
-              <persName>Shylock.</persName>
+              <persName ref="#shylock_0001">Shylock.</persName>
            </note>
            <note xml:id="n046" target="#a046">
               <p>Neither did <ecda:commodity>cinnamon</ecda:commodity> come <quote>from a far country.</quote> That was
               the produce of <placeName>Arabia</placeName>. <quote xml:lang="la">Habet <placeName>India</placeName>, quæ Australis est,
-              cinnamomum sicut <placeName>Arabia</placeName></quote> <bibl><author><persName>Strabo</persName></author> lib. XV.</bibl>
+              cinnamomum sicut <placeName>Arabia</placeName></quote> <bibl><author><persName ref="#strabo_0064">Strabo</persName></author> lib. XV.</bibl>
               </p>
            </note>
            <note xml:id="n047" target="#a047">
@@ -284,7 +284,7 @@
               </p>
            </note>
            <note xml:id="n055" target="#a055">
-              <bibl><author><persName>Oribasii à Galeno</persName></author> <title>Medicin. Collect.</title> lib. II. c. 59.—</bibl><quote xml:lang="la">Mirum
+              <bibl><author><persName ref="#galen_0129" cert="medium">Oribasii à Galeno</persName></author> <title>Medicin. Collect.</title> lib. II. c. 59.—</bibl><quote xml:lang="la">Mirum
               in modum usus lactis frequens dentes &amp; gingivas lædit, nam
               gingivas siaccidas, dentes putrefactione &amp; erosioni oxnoxios facit:
               ergo sumpto lacte, os vino diluto colluendum est; erit etiam accommodatius
@@ -330,7 +330,7 @@
               <bibl><title>Hist. Nat.</title> cent. 10. art. 982.</bibl>
            </note>
            <note xml:id="n063" target="#a063">
-              <bibl><author><persName>Bartholom. à Maranta</persName>.</author> <title>Method Cogn. Simpl. Med.</title> lib. 3.
+              <bibl><author><persName ref="#bartolomeo_maranta_1500">Bartholom. à Maranta</persName>.</author> <title>Method Cogn. Simpl. Med.</title> lib. 3.
               cap. 13.</bibl>
            </note>
            <note xml:id="n064" target="#a064">
@@ -378,7 +378,7 @@
               <bibl>Quarto ed. <date when="1677">1677</date>. chap. 87.</bibl>
            </note>
            <note xml:id="n072" target="#a072">
-              <quote xml:lang="la" rend="italic">Crede quod habes, et habes</quote>—<persName>Erasme</persName>!
+              <quote xml:lang="la" rend="italic">Crede quod habes, et habes</quote>—<persName ref="#desiderius_erasmus_1466">Erasme</persName>!
            </note>
            <note xml:id="n073" target="#a073">
               <bibl><title xml:lang="fr" rend="italic">Maladies de <placeName>St. Domingue</placeName></title>, <date when="1752">1752</date></bibl>
@@ -401,7 +401,7 @@
               <distinct type="dialect">Obeah</distinct>, had its origin, like many customs among the <name>Africans</name>,
               from the ancient <name>Egyptians</name>.</p>
               <p><distinct type="dialect" xml:lang="he">אוב</distinct> <distinct type="dialect">OB</distinct> is a demon, a spirit of divination, and magic. When
-              <persName>Saul</persName> wanted to raise up <persName>Samuel</persName> from the dead, he said to his
+              <persName ref="#saul_0001">Saul</persName> wanted to raise up <persName ref="#samuel_0001">Samuel</persName> from the dead, he said to his
               servants, <quote>Seek me a woman (<distinct type="dialect" xml:lang="he">בעלה אוב</distinct> eminent for <distinct type="dialect">Ob</distinct>) that
               hath a familiar spirit</quote></p>
               
@@ -410,7 +410,7 @@
               <p>His servants replied to him, <quote>There is (<distinct type="dialect" xml:lang="he">אשה בעלה אוב</distinct>
               a woman mistress in the art of <distinct type="dialect">Ob</distinct>) that hath a familiar spirit, at
               <placeName>Endor</placeName>.</quote></p>
-              <p>When the witch of <placeName>Endor</placeName> came to <persName>Saul</persName>, he said to her, 
+              <p>When the witch of <placeName>Endor</placeName> came to <persName ref="#saul_0001">Saul</persName>, he said to her, 
                  <quote>Divine unto me (באוב by thy witchcraft <distinct type="dialect">Ob</distinct>) by the familiar spirit,
                  and bring me him up whom I shall name unto thee.</quote> <bibl><title>1 Samuel</title>,
                  chap. xxviii. v. 7 and 8.</bibl></p>
@@ -421,18 +421,18 @@
                     <head>House of Assembly, <date when="1780-12-29">29th December, 1780</date>.</head>
                     <p>Resolved, that, over and above the reward of one hundred 
                     pounds offered by his Majesty's proclamation for taking or killing
-                    the rebellious negro called <persName>Three fingered Jack</persName>, the further reward
+                    the rebellious negro called <persName ref="#three_fingered_jack_0001">Three fingered Jack</persName>, the further reward
                     of <distinct>Freedom</distinct> shall be given to any slave that shall take or kill the
-                    said <persName>Three fingered Jack</persName> and that the House will make good the
+                    said <persName ref="#three_fingered_jack_0001">Three fingered Jack</persName> and that the House will make good the
                     value of such slave to the proprietor thereof. And if any one of
-                    his accomplices will kill the said <persName>Three fingered Jack</persName>, and bring in
+                    his accomplices will kill the said <persName ref="#three_fingered_jack_0001">Three fingered Jack</persName>, and bring in
                     
                     <pb xml:id="pbn002" corresp="#pb002"/>
                        
                     his head, and hand wanting three fingers, such accomplice shall be
                     entitled to his <emph>free</emph> <distinct>Pardon</distinct>, and his <distinct>Freedom</distinct>, as above, upon
                     due proof being made of their being the head and hand of the said
-                    <persName>Three fingered Jack</persName>.</p>
+                    <persName ref="#three_fingered_jack_0001">Three fingered Jack</persName>.</p>
                     <closer>By the House,
                     <signed><persName>Samuel Howell</persName>, Cl. Assem.</signed>
                     </closer>
@@ -440,7 +440,7 @@
               </floatingText>
            </note>
            <note xml:id="n080" target="#a080">
-              <bibl><author><persName>Plin.</persName></author> lib. XXVI. c. 1.</bibl>
+              <bibl><author><persName ref="#pliny_0023">Plin.</persName></author> lib. XXVI. c. 1.</bibl>
            </note>
         </ecda:notes>
      </ecda:hyperDiv>
@@ -455,7 +455,7 @@
               
            </docTitle>
            <byline rend="case(allcaps)align(center)">By
-              <docAuthor><persName>Benjamin Moseley</persName>, M.D.</docAuthor>
+              <docAuthor><persName ref="#benjamin_moseley_1742">Benjamin Moseley</persName>, M.D.</docAuthor>
               Author of
               <title>A Treatise on Tropical Diseases;
               Military Operations;
@@ -532,7 +532,7 @@
                <row role="data">
                   <cell role="data"><distinct type="dialect" xml:lang="fr"><ecda:commodity>Roseaux, ou Cannes de
                      Sucre</ecda:commodity></distinct>.</cell>
-                  <cell role="data"><bibl><author rend="smallcaps">Labat</author>, <hi rend="italic">vol</hi>. 1. <hi rend="italic">p</hi>. 228.</bibl></cell>
+                  <cell role="data"><bibl><author rend="smallcaps"><persName ref="#jeanbaptiste_labat_1663">Labat</persName></author>, <hi rend="italic">vol</hi>. 1. <hi rend="italic">p</hi>. 228.</bibl></cell>
                </row>
                <row role="data">
                   <cell role="data"><distinct type="dialect" xml:lang="fr"><ecda:commodity>Roseaux de Sucre</ecda:commodity></distinct>.</cell>
@@ -598,7 +598,7 @@
          </div>
          <div type="subsection">
             <p>The most ancient author, who mentions the
-               <ecda:commodity>sugar cane</ecda:commodity> is <persName rend="smallcaps">Theophrastus</persName>, who lived <date when="-0321">321</date>
+               <ecda:commodity>sugar cane</ecda:commodity> is <persName ref="#theophrastus_0571" rend="smallcaps">Theophrastus</persName>, who lived <date when="-0321">321</date>
                years before the <rs type="properAdjective">Christian</rs> Æra. I shall begin
                
         <pb/>
@@ -609,7 +609,7 @@
                point of time, which have been supposed re-
                lative to this plant.
             </p>
-            <p><persName rend="smallcaps">Theophrastus</persName>, in his chapter on honey,—
+            <p><persName ref="#theophrastus_0571" rend="smallcaps">Theophrastus</persName>, in his chapter on honey,—
                <quote xml:id="a001" corresp="#n001">Οτι αι τοʋ μελιτος γενετεις, <supplied>τριτταί</supplied> η απο των
                ανδων, χαι εν οις αλλοις εστιν η <supplied>γλχʋχʋτης</supplied> αλλη
                δε εχ τοʋ αερος, <supplied>οταν</supplied> αναχʋθεν, ʋγρον απο τοʋ
@@ -641,7 +641,7 @@
       <pb/>
       <fw type="pageNum">5</fw>      
             
-            <p><persName rend="smallcaps">Theophrastus</persName> mentions another sort of
+            <p><persName ref="#theophrastus_0571" rend="smallcaps">Theophrastus</persName> mentions another sort of
                reed or cane, growing in marshy places in
                <placeName>Egypt</placeName>, with sweet roots. Speaking of the 
                different properties of the different parts of
@@ -667,7 +667,7 @@
                Then they lose their sweetness, and are neither
                proper for food, or grateful.</quote>
             </p>
-            <p>Whether <persName rend="smallcaps">Theophrastus</persName>, who was a <name>Lesbian</name>,
+            <p>Whether <persName ref="#theophrastus_0571" rend="smallcaps">Theophrastus</persName>, who was a <name>Lesbian</name>,
                had ever seen this reed in <placeName>Egypt</placeName> with sweet
                roots, or whether he had the account of it
                from others, or whether such a reed really
@@ -682,7 +682,7 @@
                have supposed the <ecda:commodity rend="italic">Sugar Cane</ecda:commodity> was the reed al-
                luded to, though erroneously described. But 
                this will be better understood by comparing 
-               this passage in <persName rend="smallcaps">Theophrastus</persName>, with what has
+               this passage in <persName ref="#theophrastus_0571" rend="smallcaps">Theophrastus</persName>, with what has
                been said by other early writers.
             </p>
          </div>
@@ -713,9 +713,9 @@
       <fw type="pageNum">7</fw>
          
          <div type="subsection">
-            <p><persName rend="smallcaps">Strabo</persName> (anno <date when="0019">19</date>), in his 15th book of
+            <p><persName rend="smallcaps" ref="#strabo_0064">Strabo</persName> (anno <date when="0019">19</date>), in his 15th book of
                Geography, in the description of <placeName>India</placeName>, says, on
-               the authority of <persName rend="smallcaps">Nearchus</persName> <persName>Alexander's</persName> ad-
+               the authority of <persName rend="smallcaps" ref="#nearchus_0360">Nearchus</persName> <persName ref="#alexander_the_great_356">Alexander's</persName> ad-
                miral), who lived 325 years before the <rs type="properAdjective">Christian</rs> 
                æra,—
             </p>
@@ -725,7 +725,7 @@
                   καρποΦορον εκ του καρπου μεθυιν.
                </quote>
             </p>
-            <p><quote rend="pre(“) post(”)">He (<persName rend="smallcaps">Nearchus</persName>) relates, that the reed (in
+            <p><quote rend="pre(“) post(”)">He (<persName rend="smallcaps" ref="#nearchus_0360">Nearchus</persName>) relates, that the reed (in
                <placeName>India</placeName>) yields honey without bees; but it is 
                not a fruit-bearing tree: yet the fruit intoxi-
                cates.</quote>
@@ -733,8 +733,8 @@
             <p>The latter part of this passage has perplexed
             commentators.
             </p>
-            <p>In the same page <persName rend="smallcaps">Strabo</persName> says, on the au-
-               tority of <persName rend="smallcaps">Eratosthenes</persName>,—
+            <p>In the same page <persName rend="smallcaps" ref="#strabo_0064">Strabo</persName> says, on the au-
+               tority of <persName rend="smallcaps" ref="#eratosthenes_0276">Eratosthenes</persName>,—
             </p>
             <p>
                <quote>Τας ριζας των Φυτων και μαλιστα των μεγαλων
@@ -750,7 +750,7 @@
             </p>
          </div>
          <div type="subsection">
-            <p><persName rend="smallcaps">Seneca</persName> (anno <date when="0062">62</date>) in this 84th Epistle, has
+            <p><persName rend="smallcaps" ref="seneca_0004">Seneca</persName> (anno <date when="0062">62</date>) in this 84th Epistle, has
                the following passage:—
             </p>
  
@@ -772,14 +772,14 @@
                is the same quality, but in a less degree; from 
                which the bees extract honey.</quote>
             </p>
-            <p>This, being in the time of <persName rend="smallcaps">Nero</persName>, proves that
+            <p>This, being in the time of <persName rend="smallcaps" ref="#nero_0037">Nero</persName>, proves that
             the <name>Romans</name>, at that period, knew but little of
             the sugar cane, and nothing of the manu-
             facture of <ecda:commodity ana="#production">sugar</ecda:commodity>.
             </p>
          </div>
          <div type="subsection">
-            <p><persName rend="smallcaps">Lucan</persName> (anno <date when="0062">62</date>) says, in the 237th verse of 
+            <p><persName rend="smallcaps" ref="#lucan_0039">Lucan</persName> (anno <date when="0062">62</date>) says, in the 237th verse of 
                his third book, when speaking of the <name>Indians</name>
                near the <geogName>Ganges</geogName>,—
             </p>
@@ -790,14 +790,14 @@
             </p>
          </div>
          <div type="subsection">
-            <p><persName rend="smallcaps">Pliny</persName> (anno <date when="0078">78</date>) in the 32d chapter of the
+            <p><persName rend="smallcaps" ref="#pliny_0023">Pliny</persName> (anno <date when="0078">78</date>) in the 32d chapter of the
                6th book, speaking of the <placeName><distinct type="dialect" xml:lang="la" rend="italic">Insulæ Fortunatæ</distinct></placeName>,
             
         <pb/>  
         <fw type="pageNum">9</fw>
                
                or what are now called the <placeName>Canary Islands</placeName>,
-               asserts, on the authority of <persName rend="italic">Juba</persName>, that, in the
+               asserts, on the authority of <persName rend="italic" ref="#juba_0085">Juba</persName>, that, in the
                island called <placeName rend="italic">Ombrios</placeName>,—
             </p>
             <p><quote rend="italic"><distinct type="dialect" xml:lang="la">Arbores similes Ferulæ, ex quibus aqua expri-
@@ -811,9 +811,9 @@
             </p>
          </div>
          <div type="subsection">
-            <p><persName rend="italic">Salmasius</persName>, <persName rend="italic">Geoffroy</persName>, and many other au-
+            <p><persName rend="italic" ref="#claudius_salmasius_1588">Salmasius</persName>, <persName rend="italic">Geoffroy</persName>, and many other au-
             thors, have believed that these trees, mentioned
-            by <persName rend="italic">Pliny</persName>, were <ecda:commodity>sugar canes</ecda:commodity>; but certainly
+            by <persName rend="italic" ref="#pliny_0023">Pliny</persName>, were <ecda:commodity>sugar canes</ecda:commodity>; but certainly
             without reason.
             </p>
             <p>If we may credit the <rs type="properAdjective">Spanish</rs> historian of
@@ -822,7 +822,7 @@
                marvellous tree, which made up for the de-
                ficiency of Springs, and contributed largely
                towards supplying the inhabitants of the island
-               with water. Some writers consider <persName rend="smallcaps">Pliny's</persName>
+               with water. Some writers consider <persName rend="smallcaps" ref="#pliny_0023">Pliny's</persName>
                remark applicable to this vegetable fountain,
                which is described as follows.
             </p>
@@ -899,7 +899,7 @@
                rica</placeName>. But the history of the <ecda:flora>Garse</ecda:flora> is scarcely
                within the compass of credibility. There may
                be some trees peculiar to <placeName rend="italic">Ferro</placeName>, abounding
-               with moisture, which <persName rend="smallcaps">Pliny</persName> had heard of;
+               with moisture, which <persName rend="smallcaps" ref="#pliny_0023">Pliny</persName> had heard of;
                and, on that account, I have introduced the
                preceding relation. Indeed, they are men-
                tioned by several subsequent writers; particu-
@@ -913,7 +913,7 @@
             </p>
          </div>
          <div type="subsection">
-            <p><persName rend="smallcaps">Statius</persName> (anno <date when="0095">95</date>), <bibl><title rend="italic">Sylvarum, Lib.</title> I. 6. 15.</bibl> 
+            <p><persName rend="smallcaps" ref="#statius_0045">Statius</persName> (anno <date when="0095">95</date>), <bibl><title rend="italic">Sylvarum, Lib.</title> I. 6. 15.</bibl> 
                has a passage, which has been the foundation
                of much dispute among critics and commenta-
                tors; some contending that the reading should
@@ -933,7 +933,7 @@
             <p><quote rend="pre(“)post(”)">Ebusus which ripens (<distinct type="dialect" xml:lang="la" rend="italic">caunæ</distinct>) <ecda:flora>figs</ecda:flora>.</quote></p>
          </div>
          <div type="subsection">
-            <p><persName rend="smallcaps">Solinus</persName> (anno <date when="0218">218</date>), in the <bibl>52d chapter of
+            <p><persName rend="smallcaps" ref="#solinus_0001">Solinus</persName> (anno <date when="0218">218</date>), in the <bibl>52d chapter of
                his <title>Polyhistoria</title></bibl>, in describing <placeName>India</placeName>, says,—</p>
             <p><quote xml:id="a009" corresp="#n009" xml:lang="la">Quæ palustria sunt, arundinem creant ita cras-
                sam, ut fissis internodiis lembi vice vectitet navi-
@@ -944,15 +944,15 @@
                middle, they are capable of carrying people in
                the manner of boats; from the roots of this
                reed a juice is expressed as sweet as <ecda:food>honey</ecda:food>.</quote></p>
-            <p><persName rend="case(allcaps)">Solinus</persName> has taken the first part of this pas-
-               sage from <persName rend="case(allcaps)">Pliny</persName>; who, as well as <persName rend="case(allcaps)">Herodotus</persName>,
+            <p><persName rend="case(allcaps)" ref="#solinus_0001">Solinus</persName> has taken the first part of this pas-
+               sage from <persName rend="case(allcaps)" ref="#pliny_0023">Pliny</persName>; who, as well as <persName rend="case(allcaps)" ref="#herodotus_0001">Herodotus</persName>,
                says, that the <name>Indians</name> make boats, or ca-
                noes, from the <ecda:commodity>canes</ecda:commodity> growing in marshy places:
-               but neither <persName rend="case(allcaps)">Herodotus</persName> nor <persName rend="case(allcaps)">Pliny</persName> mention the
+               but neither <persName rend="case(allcaps)" ref="#herodotus_0001">Herodotus</persName> nor <persName rend="case(allcaps)" ref="#pliny_0023">Pliny</persName> mention the
                sweetness of their <ecda:commodity>roots</ecda:commodity>.</p>
          </div>
          <div type="subsection">
-            <p><persName rend="case(allcaps)">Herodotus</persName>, <date when="-0444">444 years</date> before the <rs type="properAdjective">Chris-
+            <p><persName rend="case(allcaps)" ref="#herodotus_0001">Herodotus</persName>, <date when="-0444">444 years</date> before the <rs type="properAdjective">Chris-
                tian</rs> æra, in his <title rend="italic">Thalia</title>, says the <name>Indians</name>,
                who inhabit the morasses of the river, feed on
                raw fish, which they catch in boats made of
@@ -961,7 +961,7 @@
        <pb/>
        <fw type="pageNum">14</fw>        
                
-               for one boat: and <persName rend="smallcaps">Pliny</persName>, in the <bibl>2d chapter 
+               for one boat: and <persName rend="smallcaps" ref="#pliny_0023">Pliny</persName>, in the <bibl>2d chapter 
                of his 7th book</bibl>, says in <placeName>India</placeName> the <ecda:commodity>canes</ecda:commodity> grow
                to so great a size, that, from a single joint,
                a boat may be made capable of carrying three
@@ -1017,7 +1017,7 @@
             parts of <placeName>Spain</placeName>, produced in great quantity; and 
             some is still made in the two latter provinces.
             </p>
-            <p>The celebrated <persName rend="smallcaps">Mr. Francis Willoughby</persName>, 
+            <p>The celebrated <persName rend="smallcaps" ref="#francis_willoughby_1614">Mr. Francis Willoughby</persName>, 
             who entered <placeName>Spain</placeName> from <placeName>Roussillon</placeName>, and travelled
             through great part of it in <date when="1664">1664</date>, says, <quote rend="prequotes">at 
             <placeName>Cullura</placeName> the <ecda:commodity>wine</ecda:commodity> first begain to be sweet; and 
@@ -1253,7 +1253,7 @@
                into their <rs type="properAdjective">West Indian</rs> islands plants from the
                <placeName>East Indies</placeName>. From their islands the cultivation
                of the <rs type="properAdjective">East Indian</rs> cane has been carried into
-               some of the <rs type="properAdjective">English</rs> islands. <persName>Sir John Laforey</persName>
+               some of the <rs type="properAdjective">English</rs> islands. <persName ref="#john_laforey_1729">Sir John Laforey</persName>
                planted them in <placeName>Antigua</placeName>, and has proved their
                present superiority over the old canes of the
                <placeName>West Indies</placeName>. He gives the following account
@@ -1339,7 +1339,7 @@
             <pb/>
             <fw type="pageNum">25</fw>
             
-            <p><persName>Father Hennepin</persName> says, <quote rend="quotes">from thirty leauges
+            <p><persName ref="#louis_hennepin_1626">Father Hennepin</persName> says, <quote rend="quotes">from thirty leauges
                below <placeName>Maroa</placeName>, down to the sea, the banks of
                the <placeName>Missisippi</placeName> are full of <ecda:flora>canes</ecda:flora>.</quote> This was in
                <date when="1680">1680</date>, when he was there. He was the first
@@ -1349,23 +1349,23 @@
             <p><persName>Francis Ximenes</persName>, in his treatise on the
                plants of <placeName>America</placeName>, says the sugar cane grows
                spontaneously near the <placeName>Rio della Plata</placeName>; this is
-               also asserted by <persName>Hernandes</persName> and <persName>Piso</persName>. This
-               river was discovered in <date when="1515">1515</date> by <persName>John Dias de
+               also asserted by <persName>Hernandes</persName> and <persName ref="#willem_piso_1611">Piso</persName>. This
+               river was discovered in <date when="1515">1515</date> by <persName ref="#juan_diaz_de_solis_1470">John Dias de
                Solis</persName>,a <name>Spaniard</name>; and the country about it
-               conquered by <persName>Pedro de Mendoza</persName>, in <date when="1535">1535</date>.
+               conquered by <persName ref="#pedro_de_mendoza_1487">Pedro de Mendoza</persName>, in <date when="1535">1535</date>.
             </p>
-            <p><persName>Jean de Lery</persName>, who went in <date when="1556">1556</date> to the
+            <p><persName ref="#jean_de_lery_1536">Jean de Lery</persName>, who went in <date when="1556">1556</date> to the
                <placeName>Rio Janeiro</placeName>, in <placeName>Brazil</placeName>, says, he found every 
                where near that river a great quantity of sugar
                canes; and it is certain that they could not
                have been planted by the <name>Portuguese</name>, as they
                were not settled in those parts until long afterwards.
             </p>
-            <p><persName>John de Laet</persName>, says the island of <placeName>St.
+            <p><persName ref="#joannes_de_laet_1581">John de Laet</persName>, says the island of <placeName>St.
                Vincent</placeName> produced sugar cane spontaneously.
                <bibl>Lib. I. pag. 27.</bibl>
             </p>
-            <p><persName>Labat</persName> says, the first <rs type="properAdjective">French</rs> settlers in
+            <p><persName ref="#jeanbaptiste_labat_1663">Labat</persName> says, the first <rs type="properAdjective">French</rs> settlers in
                <placeName>St. Christopher</placeName>, <placeName>Martinique</placeName>, and <placeName>Guadaloupe</placeName>,
                found sugar canes in different parts of those
                islands; which growing there naturally, were
@@ -1399,11 +1399,11 @@
                and, in <date when="1648">1648</date>, made <ecda:commodity>sugar</ecda:commodity> there.
             </p>
             <p>In <date when="1650">1650</date>, the <name>French</name> settled at <placeName>Granada</placeName>.</p>
-            <p><placeName>Jamaica</placeName> was discovered by <persName>Columbus</persName> in <date when="1494">1494</date>,
+            <p><placeName>Jamaica</placeName> was discovered by <persName ref="#christopher_columbus_1450">Columbus</persName> in <date when="1494">1494</date>,
                in his second voyage; and bestowed on him
-               by <persName>Ferdinand</persName> and <persName>Isabella</persName>, as some compensation
+               by <persName ref="#ferdinand_ii_aragon_1479">Ferdinand</persName> and <persName ref="#isabella_i_castile">Isabella</persName>, as some compensation
                for the acqusitions he had given to
-               <placeName>Spain</placeName> in the <persName>West Indies</persName>.
+               <placeName>Spain</placeName> in the <placeName>West Indies</placeName>.
             </p>
             
             <pb/>
@@ -1414,28 +1414,28 @@
                <name>Spaniards</name>, during the time they were in possession 
                of it, are but little known. They continued
                there however undisturbed until <date when="1596">1596</date>;
-               when <persName>Sir Anthony Shirley</persName>, with a single
+               when <persName ref="#anthony_shirley_1565">Sir Anthony Shirley</persName>, with a single
                man of war, took and plundered <placeName>St. Jago de
                la Vega</placeName>; which then consisted of 2000 houses.
                In the year <date when="1635">1635</date>, this town was again plundered
                by 500 <name>English</name> from the <placeName>Leeward islands</placeName>.
                In <date when="1656-05-10">1656, on the 10th of May</date>, the whole island
                was reduced, and taken possession of by the
-               forces sent against it by <persName>Oliver Cromwell</persName>; and 
+               forces sent against it by <persName ref="#oliver_cromwell_1599">Oliver Cromwell</persName>; and 
                has since that time belonged to the <name>English</name>.
             </p>
             <p>The <ecda:flora>sugar cane</ecda:flora> was first planted there, by
                the <name>English</name> in <date when="1660">1660</date>; and <ecda:commodity>sugar</ecda:commodity> first made in
                <date when="1664">1664</date>. But some plantations were made there
                while it was in possession of the <name>Spaniards</name>, by
-               <persName>Esquirnel</persName>, a <rs type="properAdjective">Spanish</rs> governor, under <persName>Diego
-               Columbus</persName>, son of the renowned <persName>Columbus</persName>;
+               <persName>Esquirnel</persName>, a <rs type="properAdjective">Spanish</rs> governor, under <persName ref="diego_columbus_1479">Diego
+               Columbus</persName>, son of the renowned <persName ref="#christopher_columbus_1450">Columbus</persName>;
                who brought the plants from <placeName>St. Domingue</placeName>.
                There were in <placeName>Jamaica</placeName>, on the arrival of the
                <name>English</name>, only three small plantations in the
                island; the chif of which was at the <placeName>Angels</placeName>.
             </p>
-            <p><persName>Sir Thomas Modyford</persName>, a rich and eminent
+            <p><persName ref="#thomas_modyford_1620">Sir Thomas Modyford</persName>, a rich and eminent
                planter of <placeName>Barbadoes</placeName>, was the person who first
                planted and cultivated the <ecda:flora>sugar cane</ecda:flora>, for the
                purpose of making <ecda:commodity>sugar</ecda:commodity>, in <placeName>Jamaica</placeName>. This
@@ -1447,7 +1447,7 @@
                <placeName>Jamaica</placeName>, and carried with him much
                agricultural knowledge, to the great advantage of the
                island; which he contributed to improve and
-               benefit, in a very extensive manner. <persName>Charles
+               benefit, in a very extensive manner. <persName ref="#charles_ii_england_1630">Charles
                the second</persName> appointed him governor of the 
                island in <date when="1664">1664</date>: in which situation he continued
                until <date when="1669">1669</date>.
@@ -1484,7 +1484,7 @@
                that it suiteth not with the constitution of the
                <name>Europeans</name>.</quote>
             </p>
-            <p><persName>Labat</persName>, <bibl>Vol. I. pag. 226.</bibl> is decidedly of
+            <p><persName ref="#jeanbaptiste_labat_1663">Labat</persName>, <bibl>Vol. I. pag. 226.</bibl> is decidedly of
                opinion, that the <ecda:flora>sugar cane</ecda:flora> is a native plant
                of the <placeName>West Indies</placeName>. But he says, that it is to
                the <name>Portuguese</name> and <name>Spaniards</name> that <name>Europeans</name>
@@ -1497,7 +1497,7 @@
             </p>
             <p>That the sugar cane is a native plant of the 
                <placeName>West Indies</placeName>, there can be no doubt; but in the
-               other remakrs, <persName>Labat</persName> is mistaken, as has
+               other remakrs, <persName ref="#jeanbaptiste_labat_1663">Labat</persName> is mistaken, as has
                already appeared: for the <name>Portuguese</name> had not
                passed <placeName>the Cape of Good Hope</placeName> until <date when="1497">1497</date>;
                long before which time sugar was made in the
@@ -1527,7 +1527,7 @@
                thirty<anchor xml:id="a013" corresp="#n013"/>.</quote> <bibl><rs type="properAdjective">English</rs> edit. <date when="1577">1577</date>, page 172.</bibl> The
                original edition was published in <placeName>Spain</placeName>, in <date when="1530">1530</date>.
             </p>
-            <p><persName>Columbus</persName>, in his first voyage in <date when="1492">1492</date>,
+            <p><persName ref="#christopher_columbus_1450">Columbus</persName>, in his first voyage in <date when="1492">1492</date>,
                discovered the island of <placeName>Hispaniola</placeName>, or <placeName>Saint
                Domingue</placeName>; and <persName>Antonio Herrara</persName>, in the
                second book of his second <title>Decad</title>, speaking of
@@ -1883,8 +1883,8 @@
                   subject of much controversy in antiquarian
                   literature.
                </p>
-               <p>The profoundedly learned <persName>Salmasius</persName>
-                  (<persName>Saumaise</persName>, his proper name), who went to
+               <p>The profoundedly learned <persName ref="#claudius_salmasius_1588">Salmasius</persName>
+                  (<persName ref="#claudius_salmasius_1588">Saumaise</persName>, his proper name), who went to
                   reside at <placeName>Leyden</placeName> in <date when="1632">1632</date>, asserts, that what
                   authors denominate the <distinct type="dialect" xml:lang="la">sacar mambu</distinct> of the
                   <name>Indians</name>, was the <distinct type="dialect" xml:lang="el">σακχαρον</distinct>, or sugar, of the
@@ -1945,14 +1945,14 @@
                   concreted exudation from the tree, found about 
                   the joints.
                </p>
-               <p><persName>Salmasius</persName> at length attempts, as a farther
+               <p><persName ref="#claudius_salmasius_1588">Salmasius</persName> at length attempts, as a farther
                   corroboration of his opinion, to shew, that
                   the virtues attributed by the <name>Arabians</name> to the
                   <distinct type="dialect">tabaxir</distinct> coincide with those which the <name>Greeks</name>
                   ascribed to their <distinct type="dialect" xml:lang="el">σακχαρον</distinct>
                </p>
                <p>In these conjunctures, I believe, it will appear
-                  that the most learned <persName>Salmasius</persName> is mistaken;
+                  that the most learned <persName ref="#claudius_salmasius_1588">Salmasius</persName> is mistaken;
                   and that the <distinct type="dialect">tabaxir</distinct>, or, as it has been variously
                   rendered by translators, <distinct type="dialect">thabasir</distinct>, <distinct type="dialect">tarathit</distinct>, <distinct type="dialect">sataiscir</distinct>,
                   <distinct type="dialect">tabasis</distinct>, <distinct type="dialect">tabasir</distinct>, and <distinct type="dialect">sabascir</distinct>, of <persName>Rhasis</persName>,
@@ -2072,7 +2072,7 @@
                   brass: and never employed by them but for 
                   external purposes.
                </p>
-               <p><persName>Salmasius</persName>, whose great erudition and
+               <p><persName ref="#claudius_salmasius_1588">Salmasius</persName>, whose great erudition and
                   extensive knowledge, have been the admiration
                   of the learned in every country, never selected
                   a subject for his animadversions, with which
@@ -2259,7 +2259,7 @@
                   of the <name>Indians</name>.</quote> <bibl><title>Mantiss. Aromal.</title> cap. 10.</bibl>
                </p>
                <p>He makes many other remarks, chiefly copied
-                  from <persName>Garcias</persName> and <persName>Salmasius</persName>.
+                  from <persName>Garcias</persName> and <persName ref="#claudius_salmasius_1588">Salmasius</persName>.
                </p>
                <p>I think it is evident, from the authors above 
                   cited, that, supposing the <distinct type="dialect">sacar mambu</distinct> if the
@@ -2374,7 +2374,7 @@
                   sicut sal.</quote> <bibl><title>De Zuccaro</title>, Lib. II. Tract. 2.
                   Cap. 755.</bibl>
                </p>
-               <p><persName>Salmasius</persName>, believing in this error, that
+               <p><persName ref="#claudius_salmasius_1588">Salmasius</persName>, believing in this error, that
                   sugar was actually found ready made, asserts,—
                   <quote rend="block" xml:lang="la">De hoc ipso priscorum saccharo, <distinct type="dialect" xml:lang="el">sive tabaxir</distinct>,
                   accepi debet; cui nomen etiam propterea αλος Ινδικου
@@ -2390,7 +2390,7 @@
                   <rs type="properAdjective">Arabian</rs> writers in <name>English</name>, for reasons obvious
                   to the learned.
                </p>
-               <p>What seems to have strengthened <persName>Salmasius</persName>
+               <p>What seems to have strengthened <persName ref="#claudius_salmasius_1588">Salmasius</persName>
                   in this error is, that the sugar described by the
                   ancients does not correspond with any species
                   of sugar now in use. His own words are,—
@@ -2432,7 +2432,7 @@
                   <placeName>Arabia Felix</placeName>: it is in consistence like salt, and
                   it is brittle between the teeth like salt.</quote>
                </p>
-               <p><persName>Pliny</persName> says,—
+               <p><persName ref="#pliny_0023">Pliny</persName> says,—
                   <quote rend="block" xml:lang="la">Saccaron &amp; Arabia fert, sed laudatius <placeName>India</placeName>.
                   Est auten mel in barundibus collectum, gummium
                   modo,candidum, dentibus fragile; amplissimum
@@ -2483,7 +2483,7 @@
                   common salt, but in taste and sweetness like
                   honey.</quote>
                </p>
-               <p>It is true that <persName>Dioscorides</persName>, <persName>Pliny</persName>, <persName>Galen</persName>,
+               <p>It is true that <persName>Dioscorides</persName>, <persName ref="#pliny_0023">Pliny</persName>, <persName>Galen</persName>,
                   and <persName>P. Ægineta</persName>, all mention that the sugar came
                   from <placeName>Arabia</placeName> as well as from <placeName>India</placeName>; but it is
                   certain that the sugar described by them to be
@@ -2551,7 +2551,7 @@
                   the <emph>salt</emph> he mentions to be the same, says
                   it was brought to <placeName>Arabia</placeName> from <placeName>India</placeName>.
                </p>
-               <p>Yet <persName>Pliny</persName>is very particular in observing
+               <p>Yet <persName ref="#pliny_0023">Pliny</persName>is very particular in observing
                   that the <rs type="properAdjective">Indian</rs> sugar was superior in quality to
                   the <rs type="properAdjective">Arabian</rs>; which shews that some of the
                   sugar known to the <name>Romans</name> in his time must
@@ -2716,7 +2716,7 @@
                   sugar;—and others, from the <rs type="properAdjective">Latin</rs> <distinct type="dialect">candidum</distinct>
                   (<distinct type="dialect">à candore</distinct>), bright, shining, white.
                </p>
-               <p><persName>Salmasius</persName> derives it from a corrupt <rs type="properAdjective">Greek</rs>
+               <p><persName ref="#claudius_salmasius_1588">Salmasius</persName> derives it from a corrupt <rs type="properAdjective">Greek</rs>
                   word of the middle ages. He says,—
                   <quote xml:lang="la" rend="block">Saccharum candum, non à candore dictum,
                   nec à canna; sed <distinct xml:lang="el" type="dialect">καντι, vel καντον &amp; καντιον</distinct>,
@@ -2732,7 +2732,7 @@
                   <name>Latin</name>; or rather <distinct type="dialect">canthum</distinct>, or <distinct type="dialect">canthium</distinct>; as
                   <distinct type="dialect">κανθος</distinct> is <distinct type="dialect">angulus</distinct>, an angle or corner.
                </p>
-               <p><persName>Salmasius</persName> has taken the barbarous word
+               <p><persName ref="#claudius_salmasius_1588">Salmasius</persName> has taken the barbarous word
                   from <persName>Nicholas Myrepsus</persName>, who wrote his collection
                   of <distinct type="dialect">formuæ</distinct>, from the <rs type="properAdjective">Greek</rs> and <rs type="properAdjective">Arabian</rs>
                   
@@ -2902,7 +2902,7 @@
                <head>On the Properties and Use of Sugar</head>
                <head>Part the Third</head>
                <p>Sugar, when first introduced into every 
-                  country, was used only medicinally <persName>Pliny</persName>
+                  country, was used only medicinally <persName ref="#pliny_0023">Pliny</persName>
                   leaves no room for doubt on this point. Even
                   in <placeName>Arabia</placeName>, in <persName>Avicenna's</persName> time, though sugar
                   was an article of commerce from the East,
@@ -3250,9 +3250,9 @@
                   <pb/>
                   <fw type="pageNum">86</fw>
                   
-                  use of sugar, was Doctor <persName>Theophilus
+                  use of sugar, was Doctor <persName ref="#theophilius_de_garencieres_1610">Theophilus
                   Garencieres</persName>; the next was our celebrated Doctor
-                  <persName>Thomas Willis</persName>.—<persName>Simon Pauli</persName> had 
+                  <persName ref="#thomas_willis_1621">Thomas Willis</persName>.—<persName ref="#simon_paulli_1603">Simon Pauli</persName> had 
                   preceded them, with his crude notions.
                </p>
                <p>The opinions of these physicians were
@@ -3261,7 +3261,7 @@
                   authors have been disseminated in every part
                   of <placeName>Europe</placeName>.
                </p>
-               <p><persName>Garencieres</persName> says,<quote xml:lang="la" rend="quotes">Saccharum et saccharata
+               <p><persName ref="#theophilius_de_garencieres_1610">Garencieres</persName> says,<quote xml:lang="la" rend="quotes">Saccharum et saccharata
                   omnia toto genere huic morbo (Tabes Anglica) 
                   insensissima, &amp; in eo progignendo multa esse censeo
                   quorum quum usus si tam frequens, mirum videri non
@@ -3442,7 +3442,7 @@
                   was not known, but brought to us with these
                   fruits of our enterprize.</quote>
                </p>
-               <p><persName>Willis</persName> says,—
+               <p><persName ref="#thomas_willis_1621">Willis</persName> says,—
                   <quote rend="block" xml:lang="la">Saccharo condita, aut plurimum imbuta, in
                   tantum vitupero, ut illius inventionem, ac usum
                   immodicum, scorbuti in nupero hoc seculo immani
@@ -3581,15 +3581,15 @@
                   salt in the blood; and is therefore cured by
                   such things as abound with a volatile salt.</quote>
                </p>
-               <p>From these extracts it appears, that <persName>Garencieres</persName>
-                  and <persName>Willis</persName> were the founders of the
+               <p>From these extracts it appears, that <persName ref="#theophilius_de_garencieres_1610">Garencieres</persName>
+                  and <persName ref="#thomas_willis_1621">Willis</persName> were the founders of the
                   sect of <name>Antisaccharites</name>.
                </p>
                <p>I have been more extensive in my quotations
                   from these writers than I should have been, if
                   it were not that I wish to present the reader
-                  with that jargon of <persName>Garencieres</persName>, and
-                  abstruse and obsolete theory of <persName>Willis</persName>, which
+                  with that jargon of <persName ref="#theophilius_de_garencieres_1610">Garencieres</persName>, and
+                  abstruse and obsolete theory of <persName ref="#thomas_willis_1621">Willis</persName>, which
                   have been considered as a standing authority by
                   
                   <pb/>
@@ -3598,7 +3598,7 @@
                   many subsequent writers; and quoted in academic
                   dissertations in the schools of medicine.
                </p>
-               <p>In <persName>Willis's</persName>, according to his account,
+               <p>In <persName ref="#thomas_willis_1621">Willis's</persName>, according to his account,
                   and his account is true, almost every person
                   had, or fancied he had, the scurvy.
                </p>
@@ -3623,19 +3623,19 @@
                   speak of scurvy aquired by local and particular
                   causes.
                </p>
-               <p>It is incredible that <persName>Willis</persName> and <persName>Ray</persName>, two
+               <p>It is incredible that <persName ref="#thomas_willis_1621">Willis</persName> and <persName>Ray</persName>, two
                   well-informed men, should not know that the 
                   description of people most afflicted with the
                   scurvy, at all times, and in every country, is
                   that, which seldom taste any sugar.
                </p>
                <p>It is not less extraordinary that the learned
-                  <persName>Willis</persName> should refer to so superficial an authority
-                  as <persName>Garencieres</persName>; or the laborious <persName>Ray</persName>,
-                  to the weak effusions of <persName>Simon Paulli</persName>.
+                  <persName ref="#thomas_willis_1621">Willis</persName> should refer to so superficial an authority
+                  as <persName ref="#theophilius_de_garencieres_1610">Garencieres</persName>; or the laborious <persName>Ray</persName>,
+                  to the weak effusions of <persName ref="#simon_paulli_1603">Simon Paulli</persName>.
                </p>
-               <p>The rhapsody of <persName>Garencieres</persName> is entirely
-                  his own; but that <persName>Willis</persName> advances has a
+               <p>The rhapsody of <persName ref="#theophilius_de_garencieres_1610">Garencieres</persName> is entirely
+                  his own; but that <persName ref="#thomas_willis_1621">Willis</persName> advances has a
                   better stamen, but it is not his own. It is taken
                   from <persName>Angelus Sala</persName>, whom he has not
                   mentioned, and from whom he has made a
@@ -3907,8 +3907,8 @@
                   it is impossible to over look <persName>Dr. Frederick
                   Slare</persName>; whose unqualified praises of the virtues
                   of sugar may be properly opposed to the
-                  unqualified censures bestowed on it by <persName>Garencieres</persName>
-                  and <persName>Willis</persName>. Neither must honest old
+                  unqualified censures bestowed on it by <persName ref="#theophilius_de_garencieres_1610">Garencieres</persName>
+                  and <persName ref="#thomas_willis_1621">Willis</persName>. Neither must honest old
                   <persName>Ligon</persName> be forgotten.
                </p>
                <p><quote rend="quotes">Sugar,</quote> says <persName>Ligon</persName>, <quote rend="quote" xml:id="q056" next="#q057"> has a faculty to
@@ -4619,7 +4619,7 @@
                </p>
                <p>For, there is no mention made of the <distinct>Sugar-
                   Cane</distinct> among the <rs type="properAdjective">Grecian</rs> writers, until an
-                  hundred years after <persName>Hippocrates</persName>; nor among
+                  hundred years after <persName ref="#hippocrates_0460">Hippocrates</persName>; nor among
                   
                   <pb/>
                   <fw type="pageNum">126</fw>
@@ -5408,7 +5408,7 @@
                <p>They <ecda:food ana="#poison">honey</ecda:food> of some countries is poisonous to
                   everyone who makes use of it. <persName>Pompey</persName> lost
                   three regiments in <placeName>Pontus</placeName>, poisoned by honey<anchor xml:id="a061" corresp="#n061"/>;
-                  and <persName>Pliny</persName> says, there is a district in that
+                  and <persName ref="#pliny_0023">Pliny</persName> says, there is a district in that
                   country, which yields honey that makes people
                   mad who eat it.
                </p>
@@ -5888,7 +5888,7 @@
                </p>
                <p>The science of medicine therefore has not
                   improved,—it has changed: because diseases
-                  change. It is to be remembered that <persName>Hippocrates</persName>,
+                  change. It is to be remembered that <persName ref="#hippocrates_0460">Hippocrates</persName>,
                   <persName>Celsus</persName>, and <persName>Galen</persName>, knew all that
                   was possible to be known in their time; yet
                   we cannot go by their writings; and, if they
@@ -5922,7 +5922,7 @@
                   very hideous and speak not; but rout as swine<anchor xml:id="a071" corresp="#n071"/>.</quote>
                </p>
                <p ana="#disease #medical">Wonderful things to certainly apear in all
-                  ages; the great <persName>Erasmus</persName> mentions a man, one
+                  ages; the great <persName ref="#desiderius_erasmus_1466">Erasmus</persName> mentions a man, one
                   <persName>Philario</persName>, an <name>Italian</name>, who in <placeName>Holland</placeName> was very
                   much afflicted with worms. While the worms 
                   were in his body, he spoke the <rs type="properAdjective">Dutch</rs> language
@@ -6267,7 +6267,7 @@
                   of <placeName>Africa</placeName>.
                </p>
                <p>I saw the <name>Obi</name> of the famous negroe robber,
-                  <persName>Three fingered Jack</persName>, the terror of <placeName>Jamaica</placeName> in
+                  <persName ref="#three_fingered_jack_0001">Three fingered Jack</persName>, the terror of <placeName>Jamaica</placeName> in
                   <date from="1780" to="1781">1780 and 1781</date>. The <ecda:persGroup a-gender="male" a-aig="maroon">Maroons</ecda:persGroup> who slew him
                   brought it to me.
                </p>
@@ -6315,16 +6315,16 @@
                   <pb/>
                   <fw type="pageNum">175</fw>
                   
-                  <persName>Jack</persName> was the author of many troubles:—for
+                  <persName ref="#three_fingered_jack_0001">Jack</persName> was the author of many troubles:—for
                   several matches proved unhappy.
                </p>
                <p><quote rend="quotes">Give a dog an ill name, and hang him.</quote></p>
                <p>Clamours rose on clamours against the
                   cruel <distinct type="religious">sorcerer</distinct>; and every conjugal mishap
-                  was laid at the door of <persName>Jack's</persName> malific spell of
+                  was laid at the door of <persName ref="#three_fingered_jack_0001">Jack's</persName> malific spell of
                   tying the point, on the wedding day.
                </p>
-               <p>God knows, poor <persName>Jack</persName> had sins enough of
+               <p>God knows, poor <persName ref="#three_fingered_jack_0001">Jack</persName> had sins enough of
                   his own to carry, without loading him with
                   the sins of others. He would sooner have
                   made a <rs type="properAdjective">Medean</rs> cauldron for the whole island,
@@ -6333,7 +6333,7 @@
                   mortal hatred to white men, he was never
                   known to hurt a child, or abuse a woman.
                </p>
-               <p>But even Jack himself was born, to die.</p>
+               <p>But even <persName ref="#three_fingered_jack_0001">Jack</persName> himself was born, to die.</p>
                <p>Allured by the rewards offered by <persName>Governor
                   Dalling</persName>, in a proclamation, dated the <date when="1780-12-12">12th
                   of December, 1780</date>, and by a resolution which 
@@ -6357,7 +6357,7 @@
                   party had been creeping about in the woods,
                   for three weeks, and blockading, as it were, the
                   deepest recesses of the most inacessible part of 
-                  the island, where <persName>Jack</persName>, far remote from all
+                  the island, where <persName ref="#three_fingered_jack_0001">Jack</persName>, far remote from all
                   human society, resided,—but in vain.
                </p>
                <p><persName>Reeder</persName> and <persName>Sam</persName>, tired with this mode of
@@ -6384,37 +6384,37 @@
                   a smoke.
                </p>
                <p>They prepared for war. They came upon
-                  <persName>Jack</persName> before he perceived them. He was
+                  <persName ref="#three_fingered_jack_0001">Jack</persName> before he perceived them. He was
                   roasting plantains, by a little fire on the
                   ground, at the mouth of a cave.
                </p>
                <p>This was a scene:—not where ordinary actors
                   had a common part to play.
                </p>
-               <p><persName>Jack's</persName> looks were fierce and terrible. He 
+               <p><persName ref="#three_fingered_jack_0001">Jack's</persName> looks were fierce and terrible. He 
                   told them he would kill them.
                </p>
-               <p><persName>Reeder</persName>, instad of shooting <persName>Jack</persName>, replied,
+               <p><persName>Reeder</persName>, instad of shooting <persName ref="#three_fingered_jack_0001">Jack</persName>, replied,
                   that his <name>Obi</name> had no power to hurt him; for
                   he was christianed; and that his name was no
                   longer <persName>Quashee</persName>.
                </p>
-               <p><persName>Jack</persName> knew <persName>Reeder</persName>; and as if paralysed,
+               <p><persName ref="#three_fingered_jack_0001">Jack</persName> knew <persName>Reeder</persName>; and as if paralysed,
                   he let is two guns remain on the ground, and took up only his cutlass.
                </p>
                <p>These two had a desperate engagement
                   several years before, in the woods; in which
-                  conflict <persName>Jack</persName> lost the two fingers, which was
-                  the origin of his present name; but <persName>Jack</persName> then
+                  conflict <persName ref="#three_fingered_jack_0001">Jack</persName> lost the two fingers, which was
+                  the origin of his present name; but <persName ref="#three_fingered_jack_0001">Jack</persName> then
                   beat <persName>Reeder</persName>, and almost killed him with
                   
                   <pb/>
                   <fw type="pageNum">178</fw>
                   
                   veral others who assisted him, and they fled
-                  from <persName>Jack</persName>.
+                  from <persName ref="#three_fingered_jack_0001">Jack</persName>.
                </p>
-               <p>To do <persName>Three fingered Jack</persName> justice, he would
+               <p>To do <persName ref="#three_fingered_jack_0001">Three fingered Jack</persName> justice, he would
                   now have killed both <persName>Reeder</persName> and <persName>Sam</persName>; for,
                   at first, they were frightened at the sight of
                   him, and the dreadful tone of his voice; and
@@ -6422,13 +6422,13 @@
                   and were to grapple wit hthe bravest, and 
                   strongest man in the world.
                </p>
-               <p>But <persName>Jack</persName> was cowed; for, he had prophesied,
+               <p>But <persName ref="#three_fingered_jack_0001">Jack</persName> was cowed; for, he had prophesied,
                   that <emph>white</emph> Obi would get the better of 
                   him; and, from experience, he knew the
                   charm would lose none of its strength in the
                   hands of <persName>Reeder</persName>.
                </p>
-               <p>Without further parley, <persName>Jack</persName>, with his
+               <p>Without further parley, <persName ref="#three_fingered_jack_0001">Jack</persName>, with his
                   cutlass in hand, threw himself down a precipice
                   at the back of the cave.
                </p>
@@ -6436,7 +6436,7 @@
                   in the shoulder. <persName>Reeder</persName>, like an <rs type="properAdjective">English</rs>
                   bull-dog, never looked, but, with is cutlass 
                   in his hand, plunged headlong down after
-                  <persName>Jack</persName>. The descent was about thirty yards,
+                  <persName ref="#three_fingered_jack_0001">Jack</persName>. The descent was about thirty yards,
                   and almost perpendicular. Both of them
                   had preserved their cutlasses in the fall.
                </p>
@@ -6451,11 +6451,11 @@
                <p>The <ecda:anonPers a-gender="male">little boy</ecda:anonPers>, who was ordered to keep
                   back, out of harm's way, now reached the 
                   top of the precipice, and during the fight,
-                  shot <persName>Jack</persName> in the belly.
+                  shot <persName ref="#three_fingered_jack_0001">Jack</persName> in the belly.
                </p>
                <p><persName>Sam</persName> was crafty, and coolly took a round
                   about way to get to the field of action. When
-                  he arrived at the spot where it began, <persName>Jack</persName>
+                  he arrived at the spot where it began, <persName ref="#three_fingered_jack_0001">Jack</persName>
                   and <persName>Reeder</persName> had closed, and tumbled together
                   down another precipice, on the side of the 
                   mountain, in which fall they both lost their 
@@ -6467,18 +6467,18 @@
                </p>
                <p>When he came to them, though without
                   weapons, they were not idle; and, luckily for
-                  <persName>Reeder</persName>, <persName>Jack's</persName> wounds were deep and
+                  <persName>Reeder</persName>, <persName ref="#three_fingered_jack_0001">Jack's</persName> wounds were deep and
                   desperate, and he was in great agony.
                </p>
                <p><persName>Sam</persName> came up just time enough to save
-                  <persName>Reeder</persName>; for, <persName>Jack</persName> had caught him by the
+                  <persName>Reeder</persName>; for, <persName ref="#three_fingered_jack_0001">Jack</persName> had caught him by the
                   throat, with his giant's grasp. <persName>Reeder</persName> then
                   was with his right hand almost cut off, an
-                  <persName>Jack</persName> streaming with blood from his shoulder
+                  <persName ref="#three_fingered_jack_0001">Jack</persName> streaming with blood from his shoulder
                   and belly; both covered with gore and gashes.
                </p>
                <p>In this state <persName>Sam</persName> was umpire; and decided
-                  the fate of the battle. He knocked <persName>Jack</persName>
+                  the fate of the battle. He knocked <persName ref="#three_fingered_jack_0001">Jack</persName>
                   down with a piece of a rock.
                </p>
                
@@ -6490,12 +6490,12 @@
                </p>
                <p>The <ecda:anonPers a-gender="male">little boy</ecda:anonPers> soon after found his way to
                   them. He had a cutlass, with which they cut
-                  off <persName>Jack's</persName> head, and three-fingered hand,
+                  off <persName ref="#three_fingered_jack_0001">Jack's</persName> head, and three-fingered hand,
                   and took them in triumph to <placeName>Morant Bay</placeName>.
                </p>
                <p>There they put their trophies into a pail of
                   rum; and followed by a vast concourse of
-                  <name>negroes</name>, now no longer afraid of <persName>Jack's</persName> Obi,
+                  <name>negroes</name>, now no longer afraid of <persName ref="#three_fingered_jack_0001">Jack's</persName> Obi,
                   they carried them to <placeName>Kingston</placeName>, and <placeName>Spanish
                   Town</placeName>; and claimed the reward of the King's 
                   Proclamation, and the <orgName>House of Assembly</orgName>.
@@ -6510,7 +6510,7 @@
                   burst on the inhabitants. It first appeared at
                   <placeName>Philadelphia</placeName> in <date when="1793-08">August, 1793</date>
                </p>
-               <p ana="#medical"><persName>Doctor Benjamin Rush</persName>, of <placeName>Philadelphia</placeName>,
+               <p ana="#medical"><persName ref="#benjamin_rush_1746">Doctor Benjamin Rush</persName>, of <placeName>Philadelphia</placeName>,
                   a physician of the most distinguished learning
                   and talents, has given an interesting account
                   of this calamity. He has denominated this
@@ -6559,15 +6559,15 @@
                <pb/>
                <fw type="pageNum">182</fw>
                
-               <p ana="#disease #medical">It was natural for <persName>Hippocrates</persName>, who
+               <p ana="#disease #medical">It was natural for <persName ref="#hippocrates_0460">Hippocrates</persName>, who
                   lived in a country, where particular winds
                   regularly produced certain diseases, to attribute
                   all epidemics to some condition of the air,
                   that was cognizable to our senses.
                </p>
-               <p ana="#disease #medical">But <persName>Sydenham</persName>, who, we all know, was a
+               <p ana="#disease #medical">But <persName ref="#thomas_sydenham_1624">Sydenham</persName>, who, we all know, was a
                   sagacious observer of nature, though he
-                  thought with <persName>Hippocrates</persName> as to the
+                  thought with <persName ref="#hippocrates_0460">Hippocrates</persName> as to the
                   atmospheric origin of epidemics, yet he contended
                   that there was some secret and unknown
                   quality in the air, not reducible to demonstration,
@@ -6627,7 +6627,7 @@
                   for Agues in the hundreds of <placeName>Essex</placeName>; or the
                   Bronchocele in <rs type="properAdjective">Alpine</rs> countries?
                </p>
-               <p ana="#disease">What did <persName>Pliny</persName> know of the <distinct type="scientific">Germusa</distinct> or
+               <p ana="#disease">What did <persName ref="#pliny_0023">Pliny</persName> know of the <distinct type="scientific">Germusa</distinct> or
                   what do we know of the <distinct type="scientific">Mentagra</distinct><anchor xml:id="a080" corresp="#n080"/>?
                </p>
                
@@ -6864,11 +6864,11 @@
                   settlements, have been well delineated by historians
                   of different nations.
                </p>
-               <p>In <persName>England</persName>, we have the father of correct
-                  <rs>English-West-Indian</rs> literature, <persName>Mr. Edward
+               <p>In <placeName>England</placeName>, we have the father of correct
+                  <rs>English-West-Indian</rs> literature, <persName ref="#edward_long_1734">Mr. Edward
                   Long</persName>; and, since his invaluable publication,
                   we have the learned, and comprehensive 
-                  view of those countires by <persName>Mr. Bryan
+                  view of those countires by <persName ref="#bryan_edwards_1743">Mr. Bryan
                   Edwards</persName>.
                </p>
                <p>These enlightened historians have left scarcely
