@@ -112,7 +112,7 @@
               </p>
            </note>
            <note xml:id="n015" target="#a015">
-              <p><persName>Herrara</persName> says, the <name>Spaniards</name> first imported their <name>negroes</name>
+              <p><persName ref="antonio_de_herrerra_y_tordesillas_1549">Herrara</persName> says, the <name>Spaniards</name> first imported their <name>negroes</name>
               from the <name>Portuguese</name>, who had settlements on the coast of <placeName>Africa</placeName>.
               </p>
            </note>
@@ -278,7 +278,7 @@
               <p>See p. 21.</p>
            </note>
            <note xml:id="n054" target="#a054">
-              <p><bibl><author><persName>P. Æginetæ</persName></author>, lib. I. c. 86</bibl> <quote>Lac gingivas &amp; dentes lædit.
+              <p><bibl><author><persName ref="#paul_of_aegina_0625">P. Æginetæ</persName></author>, lib. I. c. 86</bibl> <quote>Lac gingivas &amp; dentes lædit.
               Quare post ipsum acceptum, primum aqua mulsa, deinde vino
               adstrigente, os colluere oportet.</quote>
               </p>
@@ -323,7 +323,7 @@
            </note>
            <note xml:id="n061" target="#a061">
               <p><quote rend="italic" xml:lang="la">Qui mel in Heraclea Ponti, nascens, ederunt, aut biberunt, iis eadem
-                 accident quæ ab aconito sumpto ingruunt.</quote> <bibl><author><persName>P. Æginetæ</persName></author>, lib. V. c. 57.</bibl>
+                 accident quæ ab aconito sumpto ingruunt.</quote> <bibl><author><persName ref="#paul_of_aegina_0625">P. Æginetæ</persName></author>, lib. V. c. 57.</bibl>
               </p>
            </note>
            <note xml:id="n062" target="#a062">
@@ -550,7 +550,7 @@
                <row role="data">
                   <cell role="data"><distinct type="dialect"><ecda:commodity>Tacomare&#x00E9;, five Arun-
                   da Saccharifera</ecda:commodity></distinct>.</cell>
-                  <cell role="data"><bibl><author rend="smallcaps">Piso</author>, <title rend="italic">Lib</title>. IV <hi rend="italic">Cap</hi>. I.</bibl></cell>
+                  <cell role="data"><bibl><author rend="smallcaps"><persName ref="#willem_piso_1611">Piso</persName></author>, <title rend="italic">Lib</title>. IV <hi rend="italic">Cap</hi>. I.</bibl></cell>
                </row>
                <row role="data">
                   <cell role="data"><ecda:commodity><distinct type="dialect">Viba &amp; Tacomare&#x00E9; &amp;</distinct>
@@ -687,7 +687,7 @@
             </p>
          </div>
          <div type="subsection">
-            <p><persName rend="smallcaps">Varro</persName> (<date when="-0068">68 years before the Christian æra</date>),
+            <p><persName rend="smallcaps" ref="#marcus_terentius_varro_116">Varro</persName> (<date when="-0068">68 years before the Christian æra</date>),
                in the following verses, observes,—
             </p>
                <quote>
@@ -811,7 +811,7 @@
             </p>
          </div>
          <div type="subsection">
-            <p><persName rend="italic" ref="#claudius_salmasius_1588">Salmasius</persName>, <persName rend="italic">Geoffroy</persName>, and many other au-
+            <p><persName rend="italic" ref="#claudius_salmasius_1588">Salmasius</persName>, <persName rend="italic" ref="#etienne_geoffroy_saint_hilaire_1772">Geoffroy</persName>, and many other au-
             thors, have believed that these trees, mentioned
             by <persName rend="italic" ref="#pliny_0023">Pliny</persName>, were <ecda:commodity>sugar canes</ecda:commodity>; but certainly
             without reason.
@@ -903,7 +903,7 @@
                and, on that account, I have introduced the
                preceding relation. Indeed, they are men-
                tioned by several subsequent writers; particu-
-               larly by <persName rend="smallcaps">Peter Martyr</persName>, who says, <quote rend="quotes">In the
+               larly by <persName rend="smallcaps" ref="#peter_martyr_danghiera_1457">Peter Martyr</persName>, who says, <quote rend="quotes">In the
                island of <placeName rend="italic">Ferro</placeName> there is no other water that may
                be drunk, but only that is gathered of the dew
                which continually distilleth from one only tree,
@@ -1226,7 +1226,7 @@
                from place to place, and varied, and cultivated,
                on physical principles, by philosophers.
             </p>
-            <p>In <placeName>England</placeName>, the <persName>Duke of <placeName>Bedford</placeName></persName>, and <persName>Mr.
+            <p>In <placeName>England</placeName>, the <persName>Duke of <placeName>Bedford</placeName></persName>, and <persName ref="#thomas_coke_1754">Mr.
                Coke</persName>, have distinguished themselves in this kind
                of knowledge; and have rendered the most essential
                services to their country.
@@ -1409,7 +1409,7 @@
             <pb/>
             <fw type="pageNum">27</fw>
             
-            <p>His son <persName>James</persName> settled, and planted it in
+            <p>His son <persName ref="#diego_columbus_1479">James</persName> settled, and planted it in
                <date when="1509">1509</date>. What improvements it received by the
                <name>Spaniards</name>, during the time they were in possession 
                of it, are but little known. They continued
@@ -1461,7 +1461,7 @@
                had sixty-one sugar works in this island, before
                the <name>Dutch</name> destroyed them in the year <date when="1610">1610</date>.
             </p>
-            <p><persName>Heylin</persName>, who published the first edition of
+            <p><persName ref="#peter_heylin_1599">Heylin</persName>, who published the first edition of
                his <title>Cosmography</title> in <date when="1624">1624</date>, says <quote rend="quotes">this island is
                so abundant in sugar canes, and well stored
                with <ecda:commodity>sugars</ecda:commodity>, that forty ships are hence loaded 
@@ -1502,7 +1502,7 @@
                passed <placeName>the Cape of Good Hope</placeName> until <date when="1497">1497</date>;
                long before which time sugar was made in the
                <placeName>Mediterranean Islands</placeName>. Besides, according to
-               <persName>Peter Martyr</persName>, in the year <date when="1518">1518</date>, there were
+               <persName ref="#peter_martyr_danghiera_1457">Peter Martyr</persName>, in the year <date when="1518">1518</date>, there were
                twenty-eight sugar-works in the island of<placeName>Hispaniola</placeName>, 
                established by the <name>Spaniards</name>. He
                wasy, <quote rend="quotes">it is a marvellous thing to consider how
@@ -1529,7 +1529,7 @@
             </p>
             <p><persName ref="#christopher_columbus_1450">Columbus</persName>, in his first voyage in <date when="1492">1492</date>,
                discovered the island of <placeName>Hispaniola</placeName>, or <placeName>Saint
-               Domingue</placeName>; and <persName>Antonio Herrara</persName>, in the
+               Domingue</placeName>; and <persName ref="#antonio_de_herrerra_y_tordesillas_1549">Antonio Herrara</persName>, in the
                second book of his second <title>Decad</title>, speaking of
                the improvements and cultivation carried to
                that island by the <rs type="properAdjective">Jeronimite</rs> friers, says, <quote rend="quotes">One
@@ -1591,7 +1591,7 @@
                and sugar made in <placeName>Mexico</placeName>, before the
                <name>Spaniards</name> went thither.
             </p>
-            <p><persName>Peter Cieza</persName>, who travelled from the year
+            <p><persName ref="#pedro_ceiza_de_leon_1520">Peter Cieza</persName>, who travelled from the year
                <date from="1533" to="1550">1533 to 1550</date>, in <placeName>Peru</placeName>, and other parts of
                <placeName>South America</placeName>, says, <bibl>cap. 64, p. 167</bibl>, <quote rend="quotes">In
                several parts of the vales, near the city of
@@ -1600,33 +1600,33 @@
             </p>
             <p>He mentions this among other articles of
                the agriculture of the <name>Indians</name>, before the <name>Spaniards</name>
-               went among them; for <persName>Vasco
-               Nunez</persName> and <persName>Balboa</persName> crossed to the <placeName>South Sea</placeName>,
+               went among them; for <persName ref="#vasco_nunez_de_balboa_1475">Vasco
+               Nunez and Balboa</persName> crossed to the <placeName>South Sea</placeName>,
                and settled <placeName>Panama</placeName> in <date when="1513">1513</date>, yet the 
                <name>Spaniards</name> were never in any part of <placeName>Peru</placeName>, before
                
                <pb/> 
                <fw type="pageNum">33</fw>
                
-               the year <date when="1525">1525</date>; and then <persName>Pizarro</persName>, with a few
+               the year <date when="1525">1525</date>; and then <persName ref="#francisco_pizarro_1471">Pizarro</persName>, with a few
                adventurers, only landed, and made some discoveries,
                but returned to <placeName>Spain</placeName> in <date when="1528">1528</date>, for
                authority to undertake the conquest of <placeName>Peru</placeName>;
                which was not begun in <placeName>South America</placeName> until
                <date from="1530" to="1532">1530, and completed in 1532</date>, by the murder
-               of the last <name>Inca</name>, <persName>Atabalipa</persName>; or as the <name>Spaniards</name>
-               write the name, <distinct type="dialect" rend="italic">Atahuallpa</distinct>: yet <placeName>Spain</placeName> was not
+               of the last <name>Inca</name>, <persName ref="#atahualpa_1500">Atabalipa</persName>; or as the <name>Spaniards</name>
+               write the name, <distinct type="dialect" rend="italic"><persName ref="#atahualpa_1500">Atahuallpa</persName></distinct>: yet <placeName>Spain</placeName> was not
                in peaceable possession of <placeName>Peru</placeName> before <date when="1554">1554</date>.
             </p>
             <p>This immense scene of blood was not closed
                by the <name>Spaniards</name>, without many tragical events
-               among themselves. <persName>Almagro</persName>, the conqueror
+               among themselves. <persName ref="#diego_de_almagro_1475">Almagro</persName>, the conqueror
                of <placeName>Chili</placeName>, was strangled before <persName>Cusco</persName>, by 
-               <persName>Hernand Pizarro</persName> in <date when="1538">1538</date>; and <persName>Francis Pizarro</persName>,
+               <persName ref="#hernando_pizarro_1478">Hernand Pizarro</persName> in <date when="1538">1538</date>; and <persName ref="#francisco_pizarro_1471">Francis Pizarro</persName>,
                the conqueror of <placeName>Peru</placeName>, was assassinated at <placeName>Lima</placeName>
                in <date when="1541">1541</date>.
             </p>
-            <p><persName>Cieza</persName> mentions also the manner in which
+            <p><persName ref="#pedro_ceiza_de_leon_1520">Cieza</persName> mentions also the manner in which
                the <name>Indians</name> carry water in trenches, from the
                rivers descending from the mountains, through
                the fields in the plains; to supply the defect of
@@ -1635,7 +1635,7 @@
             <p>This part of <placeName>Peru</placeName> was then inhabited entirely
                by <name>Indians</name>; for, though <placeName>St. Michael</placeName> was
                the first city built by the <name>Spaniards</name> in <placeName>Peru</placeName>, it
-               was not founded until <date when="1541">1541</date> by <persName>Pizarro</persName>, before
+               was not founded until <date when="1541">1541</date> by <persName ref="#francisco_pizarro_1471">Pizarro</persName>, before
                the capture of <placeName>Atabalipa</placeName>; and, consequently,
                before the wars were ended, or that the <name>Spaniards</name>
                had turned their thoughts to agriculture.
@@ -1647,7 +1647,7 @@
                sugar ws known to the <name><rs type="properAdjective">Peruvian</rs> Indians</name>
                also, before the <name>Spaniards</name> went among them.
             </p>
-            <p>It is certain that <persName>Garcilasso de la Vega</persName>,
+            <p>It is certain that <persName ref="#garcilaso_de_la_vega_1539">Garcilasso de la Vega</persName>,
                who was a native of <placeName>Peru</placeName>, and left that country
                and went to <placeName>Spain</placeName> in the year <date when="1560">1560</date>, says, in
                his <bibl><title>Commentaries</title>, lib. IX. cap, 28, part I</bibl>, that
@@ -1678,7 +1678,7 @@
             <pb/>
             <fw type="pageNum">35</fw>
             
-            <p><persName>Joseph Acosta</persName>, who was in <placeName>South America</placeName>
+            <p><persName ref="#jose_de_acosta_1539">Joseph Acosta</persName>, who was in <placeName>South America</placeName>
                about the year <date when="1580">1580</date>, says, in his <bibl><title>Natural and
                Moral History of the Indies</title>, lib. IV/ cap. 32</bibl>, 
                <quote rend="quotes" xml:id="q003" next="#q004">that they not only use a great deal of sugar
@@ -1955,8 +1955,8 @@
                   that the most learned <persName ref="#claudius_salmasius_1588">Salmasius</persName> is mistaken;
                   and that the <distinct type="dialect">tabaxir</distinct>, or, as it has been variously
                   rendered by translators, <distinct type="dialect">thabasir</distinct>, <distinct type="dialect">tarathit</distinct>, <distinct type="dialect">sataiscir</distinct>,
-                  <distinct type="dialect">tabasis</distinct>, <distinct type="dialect">tabasir</distinct>, and <distinct type="dialect">sabascir</distinct>, of <persName>Rhasis</persName>,
-                  <persName>Avicenna</persName>, <persName>Serapion</persName>, and <persName>Averroes</persName>, was
+                  <distinct type="dialect">tabasis</distinct>, <distinct type="dialect">tabasir</distinct>, and <distinct type="dialect">sabascir</distinct>, of <persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhasis</persName>,
+                  <persName ref="#avicenna_0980">Avicenna</persName>, <persName ref="#yahya_ibn_sarafyun_0001 #serapion_the_younger_0001" cert="medium">Serapion</persName>, and <persName ref="#averroes_1126">Averroes</persName>, was
                   neither the <distinct type="dialect">sacar-mambu</distinct> of the <name>Indians</name>, nor
                   the σακχαρον of the antients.
                </p>
@@ -1967,7 +1967,7 @@
                   the <name>Arabians</name> themselves, concerning their
                   <distinct type="dialect">tabaxir</distinct>.
                </p>
-               <p><bibl><author><persName>Rhases</persName></author></bibl> (anno <date when="0930">930</date>) says,—
+               <p><bibl><author><persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhases</persName></author></bibl> (anno <date when="0930">930</date>) says,—
                   <quote xml:lang="la">Tarathit, it est Spodium, frigida est &amp; sicca,
                   qhæ &amp; ventrem stringit, &amp; sanguinem exire prohibet.
                   Spudium frigidum est &amp; siccum, quod sebribus
@@ -1977,7 +1977,7 @@
                   <bibl><title>De Simplicibus</title>, cap. 36.</bibl>
                </p>
                
-               <p><persName>Avicenna</persName> (anno <date when="1040">1040</date>) says, <quote>Thabasir (the
+               <p><persName ref="#avicenna_0980">Avicenna</persName> (anno <date when="1040">1040</date>) says, <quote>Thabasir (the
                   translator calls it Spodium) quid est? Cannarum
                   adjustæ; dicitur enim quod ipsæ aduruntur propter
                   fricationem suarum extremitatem, quum ventus eas
@@ -2004,14 +2004,14 @@
                   Confert febricus acutis.</quote> <bibl>Lib. II. Tract.
                   2. Cap. 617. Ed. Venetiis, 1564.</bibl>
                </p>
-               <p>Serapion (anno <date when="1070">1070</date>) says, adducing his
+               <p><persName ref="#yahya_ibn_sarafyun_0001 #serapion_the_younger_0001">Serapion</persName> (anno <date when="1070">1070</date>) says, adducing his
                   authorities,—
                   <quote rend="block" xml:lang="la">Sataiscir, vel Rescius, id est Spodium.</quote>
                </p>
                <p><persName>Bedigores</persName>,—<quote rend="italic" xml:lang="la">Proprietatis spodii est, quod
                   confert caliditati choleræ.</quote>
                </p>
-               <p><persName>Rhases</persName> <distinct type="dialect" xml:lang="la">ex verbo</distinct> <persName>Galeni</persName>,—<quote rend="italic">In spodio est
+               <p><persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhases</persName> <distinct type="dialect" xml:lang="la">ex verbo</distinct> <persName ref="#galen_0129">Galeni</persName>,—<quote rend="italic">In spodio est
                   resolutio, &amp; prohibitio, &amp; repercussio, &amp; infrigidatio,
                   sed infrigidatio ejus est fortior, &amp; in sapore ejus
                   est amaritudo, &amp; stipicitas, &amp; propter hoc deficcat.
@@ -2019,7 +2019,7 @@
                   virtus composita, sicut rosa, &amp; non est in spodio
                   tantum scipticitas, quantum in rosa.</quote>
                </p>
-               <p><persName>Diosocorides</persName>,—<quote xml:lang="la" rend="italic">Spodium confert apostematibus
+               <p><persName ref="#pedanius_dioscorides_0040">Dioscorides</persName>,—<quote xml:lang="la" rend="italic">Spodium confert apostematibus
                   calidis oculorum.</quote>
                </p>
                <p><persName>Meseah</persName>,—<quote xml:lang="la" rend="italic">Spodium est frigidum in tertio gradu,
@@ -2033,7 +2033,7 @@
                <pb/>
                <fw type="pageNum">48</fw>
                
-               <p><persName>Rhases</persName>,—<quote xml:lang="la" rend="italic">Spodium est frigidum et siccum in
+               <p><persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhases</persName>,—<quote xml:lang="la" rend="italic">Spodium est frigidum et siccum in
                   tertio gradu, stringit ventrem, et confert ulceribus
                   oris, et inflationi choleræ, et fortificat stomachum,
                   et confert syncopi, et cardiacæ, et fortiicat stomachum, 
@@ -2042,7 +2042,7 @@
                   frigidis in ore infantium.</quote> <bibl><title>De Temperamentis
                   Simplicium</title>, Cap. 332.</bibl>
                </p>
-               <p><persName>Averroes</persName>, (anno <date when="1198">1198</date>) says,
+               <p><persName ref="#averroes_1126">Averroes</persName>, (anno <date when="1198">1198</date>) says,
                   <quote rend="block" xml:lang="la">Tabaisis, id est spodium, carbo est nodorum arundinum
                   adjustarum Indiæ: frigidum est &amp; siccum in
                   tertio gradu, et ejus proprietas est removere caliditatem
@@ -2081,10 +2081,10 @@
                   dazzling display of learning, the imperfect
                   knowledge he had of the history of sugar:
                   taken chiefly form the uninformed travellers, and
-                  particularly from <persName>Garcias ab Orta</persName>, in respect
+                  particularly from <persName ref="#garcia_de_orta_1501">Garcias ab Orta</persName>, in respect
                   to the <distinct type="dialect">tabaxir</distinct>.
                </p>
-               <p><persName>Garcias</persName>, who as a <rs type="properAdjective">Portuguese</rs> physician,
+               <p><persName ref="#garcia_de_orta_1501">Garcias</persName>, who as a <rs type="properAdjective">Portuguese</rs> physician,
                   and lived at <placeName>Goa</placeName> in the <placeName>East Indies</placeName>. in <date when="1563">1563</date>,
                   says <quote rend="quotes">the <distinct type="dialect">tabaxir</distinct> of the <name>Arabians</name>, rendered
                   <distinct type="dialect">spodium</distinct> by their interpreters, is not the spodium
@@ -2095,7 +2095,7 @@
                   <name>Arabians</name>.</quote>
                </p>
                <p>He says that <quote rend="quotes"><distinct type="dialect">tabaxir</distinct> is a <rs type="properAdjective">Persian</rs> word,
-                  which <persName>Avicenna</persName> and other <rs type="properAdjective">Arabian</rs> writers
+                  which <persName ref="#avicenna_0980">Avicenna</persName> and other <rs type="properAdjective">Arabian</rs> writers
                   took from the <rs type="properAdjective">Persian</rs> language; and that it
                   implies, <distinct type="dialect" xml:lang="la">lactens humor, aut succus liquorve alicubi
                   
@@ -2145,12 +2145,12 @@
                   it of this colour; but not from the burning of
                   the tree, as some have supposed.</quote>
                </p>
-               <p>He then recites the opinion of <persName>Rhases</persName>,
+               <p>He then recites the opinion of <persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhases</persName>,
                   respecting the virtues of the <distinct type="dialect">tabaxir</distinct>, and
-                  observes that in the latin version of <persName>Serapion</persName>,
+                  observes that in the latin version of <persName ref="#yahya_ibn_sarafyun_0001 #serapion_the_younger_0001">Serapion</persName>,
                   it has been corruptly rendered <distinct type="dialect">sataiscir</distinct>. He
                   says <quote rend="quotes">it is evident from what is stated, that
-                  <persName>Avicenna</persName> was mistaken in supposing the
+                     <persName ref="#avicenna_0980">Avicenna</persName> was mistaken in supposing the
                   <distinct type="dialect">tabaxir</distinct> to be the ashes of the roots of the 
                   canes.</quote>
                </p>
@@ -2163,7 +2163,7 @@
                   only in external, but in internal inflammations; and also in bilius fevers and dysenteries.</quote>
                   <bibl><title>Historia Aromatum</title>, Lib. I. Cap. 12.</bibl>
                </p>
-               <p><persName>Piso</persName> a <rs type="properAdjective">Dutch</rs> physician, who lived in the
+               <p><persName ref="#willem_piso_1611">Piso</persName> a <rs type="properAdjective">Dutch</rs> physician, who lived in the
                   <placeName>Brasils</placeName> in the beginning of the last centiry,
                   says, <quote rend="quotes">in <placeName>Egypt</placeName> the <distinct type="dialect">sacar</distinct> of the <name>Arabians</name>,
                   from whence our word sugar is derived, is
@@ -2174,13 +2174,13 @@
                   produced from a low and little plant, coagulated
                   by the heat of the sun; but in the <placeName>East
                   Indies</placeName>, from the <distinct type="dialect">mambu reed tree</distinct>,</quote> (he then
-                  refers to <persName>Garcias</persName>, whom he little more than 
+                  refers to <persName ref="#garcia_de_orta_1501">Garcias</persName>, whom he little more than 
                   copies in the whole article,) <quote>which is full of 
                   joints, and in size as large as the poplar tree.
                   The <distinct type="dialect">sacar-mambu</distinct>, which the <name>Arabians</name> call
                   <distinct type="dialect">tabaxir</distinct> issues from this tree, a viscid whitish
-                  liquor, according to <persName>Rhazes</persName>, <persName>Avicenna</persName>, and
-                  <persName>Serapion</persName>.</quote> <bibl><title>Hist. Nat. &amp; Med.</title> Lib. IV.
+                  liquor, according to <persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhazes</persName>, <persName ref="#avicenna_0980">Avicenna</persName>, and
+                  <persName ref="#yahya_ibn_sarafyun_0001 #serapion_the_younger_0001">Serapion</persName>.</quote> <bibl><title>Hist. Nat. &amp; Med.</title> Lib. IV.
                   Cap. I.</bibl>
                </p>
                <p>He says, in another place, that <quote rend="quotes">there are in 
@@ -2193,7 +2193,7 @@
                   canes, and sometimes trees.</quote>
                </p>
                <p>He then gives an account, not much deviating
-                  from <persName>Garcias</persName>, concerning the uses, and 
+                  from <persName ref="#garcia_de_orta_1501">Garcias</persName>, concerning the uses, and 
                   other particulars, of the <distinct type="dialect">Bambu</distinct> cane, observing,
                   <quote rend="quotes" xml:id="q007" next="#q008">that there are some so large, that the
                   <name>Indians</name> make canoes of them, capable of carrying
@@ -2242,7 +2242,7 @@
                   <fw type="pageNum">54</fw>
                   
                   somewhat resembles burnt ivory or hartshorn.
-                  But, as <persName>Garcias</persName> observes, <distinct type="dialect">spodium</distinct>, or <distinct type="dialect">tutty</distinct>, is
+                  But, as <persName ref="#garcia_de_orta_1501">Garcias</persName> observes, <distinct type="dialect">spodium</distinct>, or <distinct type="dialect">tutty</distinct>, is
                   used only externally in the compositions of the 
                   <name>Greeks</name>; and <distinct type="dialect">sacar-mambu</distinct>, or <distinct type="dialect">tabaxir</distinct>, is
                   generally used in the compositions of the <name>Arabians</name>,
@@ -2259,7 +2259,7 @@
                   of the <name>Indians</name>.</quote> <bibl><title>Mantiss. Aromal.</title> cap. 10.</bibl>
                </p>
                <p>He makes many other remarks, chiefly copied
-                  from <persName>Garcias</persName> and <persName ref="#claudius_salmasius_1588">Salmasius</persName>.
+                  from <persName ref="#garcia_de_orta_1501">Garcias</persName> and <persName ref="#claudius_salmasius_1588">Salmasius</persName>.
                </p>
                <p>I think it is evident, from the authors above 
                   cited, that, supposing the <distinct type="dialect">sacar mambu</distinct> if the
@@ -2270,7 +2270,7 @@
                <p>It is also unnecessary to contend that the
                   <distinct type="dialect">sacar mambu</distinct> of the <name>Indians</name>was not the <distinct type="dialect">tabaxir</distinct>
                   of the <name>Arabians</name>; for it appears to me that
-                  neither <persName>Garcias</persName>, nor his follower <persName>Piso</persName>, were
+                  neither <persName ref="#garcia_de_orta_1501">Garcias</persName>, nor his follower <persName ref="#willem_piso_1611">Piso</persName>, were
                   positive, from their own knowledge, what the
                   <distinct type="dialect">sacar-mambu</distinct> is.
                </p>
@@ -2315,7 +2315,7 @@
                   it was a dew, attracted by certain trees,
                   plants, and stones, and there concreted.
                </p>
-               <p><persName>Avicenna</persName> denominates manna, a species of
+               <p><persName ref="#avicenna_0980">Avicenna</persName> denominates manna, a species of
                   sugar, <distinct type="dialect">zuccarum albusar</distinct>; which, he says, falls
                   on the plant <distinct type="dialect">albusar</distinct>, or <distinct type="dialect">albossar</distinct>, and is there
                   collected in lumps, like salt.
@@ -2324,9 +2324,9 @@
                   super albusar, et est sicut frusta salis.</quote> <bibl>Lib. II.
                   Tract. II. Cap. 756.</bibl>
                </p>
-               <p><bibl><author><persName>Serapion</persName></author>, Cap. 45. <title>de Temperamentis Simplicium</title></bibl>,
+               <p><bibl><author><persName ref="#yahya_ibn_sarafyun_0001 #serapion_the_younger_0001">Serapion</persName></author>, Cap. 45. <title>de Temperamentis Simplicium</title></bibl>,
                   speaking of <distinct type="dialect">men</distinct>, or <distinct type="dialect">manna</distinct>, says, from
-                  <persName>Rhases</persName>, when it first falls on the leaves of
+                  <persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhases</persName>, when it first falls on the leaves of
                   the trees, it is like honey, but green, which,
                   by remaining there for some time, becomes
                   white. He says also, from <persName>Mescha</persName>, that its
@@ -2341,7 +2341,7 @@
                   to be dew, instead of the inspissated juice of
                   trees.
                </p>
-               <p><persName>Rhazes</persName> says, <bibl>Cap. 20. <title>de Simpicibus</title></bibl>,—
+               <p><persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhazes</persName> says, <bibl>Cap. 20. <title>de Simpicibus</title></bibl>,—
                   <distinct type="dialect">teroniabin</distinct> is hot, purges the bowels, and assuages
                   the throat.
                </p>
@@ -2349,7 +2349,7 @@
                <pb/>
                <fw type="pageNum">57</fw>
                
-               <p>Indeed, <persName>Averroes</persName> himself, in some measure,
+               <p>Indeed, <persName ref="#averroes_1126">Averroes</persName> himself, in some measure,
                   accounts for their being unacquainted with it,
                   by saying, it was not the produce of their own 
                   country.—
@@ -2358,7 +2358,7 @@
                   superioribus Syriæ, vel indiæ.</quote> <bibl>Cap. 55. Simplicia.</bibl>
                </p>
                <p>However, a different inference may be drawn
-                  from <persName>Avicenna</persName>, who says, there are two sorts
+                  from <persName ref="#avicenna_0980">Avicenna</persName>, who says, there are two sorts
                   of manna, and both the produce of <placeName>Arabia</placeName>.
                   The white sort from <placeName>Iamen</placeName>, or <placeName>Yemen</placeName>; and the
                   dark sort from <placeName>Agizium</placeName>, or <placeName>Hagiazi</placeName>. The
@@ -2368,7 +2368,7 @@
                   ad nigridinem declinans.</quote>
                   <bibl>Lib. II. Tract. II. Cap. 756.</bibl>
                </p>
-               <p><persName>Avicenna</persName> mentions a sugar, which is found
+               <p><persName ref="#avicenna_0980">Avicenna</persName> mentions a sugar, which is found
                   on canes, like salt:—
                   <quote rend="block" xml:lang="la">Illud <unclear>seac</unclear> arum, quod super arundinem, invenitur,
                   sicut sal.</quote> <bibl><title>De Zuccaro</title>, Lib. II. Tract. 2.
@@ -2414,7 +2414,7 @@
                <pb/>
                <fw type="pageNum">59</fw>
                
-               <p><persName>Dioscorides</persName> (anno <date when="0064">64</date>), who is the first writer
+               <p><persName ref="#pedanius_dioscorides_0040">Dioscorides</persName> (anno <date when="0064">64</date>), who is the first writer
                   which mentions the word <distinct xml:lang="el" type="dialect">σακχαρον</distinct>, or sugar,
                   in his chapter <distinct type="dialect" xml:lang="el">ϖερι Σακχαρου Μελιτος</distinct>, demonstrates
                   clearly that he was acquainted with
@@ -2448,13 +2448,13 @@
                   between the teeth; the largest is of the size of an
                   hazle nut it is used in medicine only.</quote>
                </p>
-               <p><persName>Arrian</persName> (anno <date when="0123">123</date>), <distinct type="dialect" xml:lang="la">in Periplo maris
+               <p><persName ref="#arrian_0086">Arrian</persName> (anno <date when="0123">123</date>), <distinct type="dialect" xml:lang="la">in Periplo maris
                   Erythræi</distinct>, says, there is a nation bordering on the
                   <placeName>Red Sea</placeName>, who drink <distinct xml:lang="el" type="dialect">μελι το καλαμινον, το 
                   λεγομενον σακχαρι</distinct>;—<quote rend="quotes">honey of the reed, called
                   sugar.</quote>
                </p>
-               <p><persName>Galen</persName> (anno <date when="0164">164</date>), in his 7th book of the
+               <p><persName ref="#galen_0129">Galen</persName> (anno <date when="0164">164</date>), in his 7th book of the
                   temperaments and faculties of simple medicines,
                   <title xml:lang="el">ϖερι Mελιτος</title>, says,—
                   <quote rend="block" xml:lang="el">Και το σακχαρ δε καλουμενον οπερ εξ Iνδιας
@@ -2468,9 +2468,9 @@
                   they say, about the canes, and is a species of
                   honey: it is less sweet than our honey.</quote>
                </p>
-               <p><persName>Paulus Ægineta</persName> (anno <date when="0670">670</date>), the last of
+               <p><persName ref="#paul_of_aegina_0625">Paulus Ægineta</persName> (anno <date when="0670">670</date>), the last of
                   the <rs type="properAdjective">Greek</rs> writers on medicine, lib. II. cap.
-                  54. says, from <persName>Archigenes</persName>, who lived anno
+                  54. says, from <persName ref="#archigenes_0001">Archigenes</persName>, who lived anno
                   <date when="0117">117</date>,—
                   
                   <pb/>
@@ -2483,8 +2483,8 @@
                   common salt, but in taste and sweetness like
                   honey.</quote>
                </p>
-               <p>It is true that <persName>Dioscorides</persName>, <persName ref="#pliny_0023">Pliny</persName>, <persName>Galen</persName>,
-                  and <persName>P. Ægineta</persName>, all mention that the sugar came
+               <p>It is true that <persName ref="#pedanius_dioscorides_0040">Dioscorides</persName>, <persName ref="#pliny_0023">Pliny</persName>, <persName ref="#galen_0129">Galen</persName>,
+                  and <persName ref="#paul_of_aegina_0625">P. Ægineta</persName>, all mention that the sugar came
                   from <placeName>Arabia</placeName> as well as from <placeName>India</placeName>; but it is
                   certain that the sugar described by them to be
                   <quote rend="quotes">white like salt, and brittle between the teeth,
@@ -2492,8 +2492,8 @@
                   into <placeName>Arabia</placeName>; and was not the produce of
                   <placeName>Arabia</placeName>; and this is proved by what follows.
                </p>
-               <p><persName>Avicenna</persName> recommends, from <persName>Archigenes</persName>,
-                  as quoted by <persName>P. Ægineta</persName>, when the tongue is
+               <p><persName ref="#avicenna_0980">Avicenna</persName> recommends, from <persName ref="#archigenes_0001">Archigenes</persName>,
+                  as quoted by <persName ref="#paul_of_aegina_0625">P. Ægineta</persName>, when the tongue is
                   
                   <pb/>
                   <fw type="pageNum">62</fw>
@@ -2515,7 +2515,7 @@
                   consider as the real <distinct type="dialect" xml:lang="el">μελι καλαμινον: αλς Ινδικος:
                   —σακχαρον</distinct> antiquorum.
                </p>
-               <p>It is evident <persName>Avicenna</persName> Erroneously supposed
+               <p>It is evident <persName ref="#avicenna_0980">Avicenna</persName> Erroneously supposed
                   this saccharine preparation as a natrual, and not
                   as an artificial production; when, speaking of
                   the different sorts, or rather coloured sugars,
@@ -2543,11 +2543,11 @@
                   a native plant of some parts of <placeName>Arabia</placeName>; and,
                   though the art of evaporating its juice for the
                   purpose of making a common coarse, or <ecda:commodity>muscovado
-                  sugar</ecda:commodity>, was known long before <persName>Avicenna's</persName>
+                     sugar</ecda:commodity>, was known long before <persName ref="#avicenna_0980">Avicenna's</persName>
                   time; yet I cannot suppose, a thousand 
                   years prior to his time, that the sugar of the
                   ancients, being sugar-candy, was made in <placeName>Arabia</placeName>;
-                  especially as <persName>Avicenna</persName> himself, if we admit
+                  especially as <persName ref="#avicenna_0980">Avicenna</persName> himself, if we admit
                   the <emph>salt</emph> he mentions to be the same, says
                   it was brought to <placeName>Arabia</placeName> from <placeName>India</placeName>.
                </p>
@@ -2667,7 +2667,7 @@
                   <placeName>India</placeName>, and even to many countries there,
                   where abundance of sugar is made.
                </p>
-               <p><persName>Du Halde</persName> says, the sugar of <placeName>China</placeName>
+               <p><persName ref="#jean-baptiste_du_halde_1674">Du Halde</persName> says, the sugar of <placeName>China</placeName>
                   constitutes a great trade to <placeName>Japan</placeName>; and that when
                   ships go directly from <placeName>Canton</placeName> to <placeName>Japan</placeName>, the
                   
@@ -2723,7 +2723,7 @@
                   Græci recentiores vocárunt, quod angulosum
                   sit; &amp; quum frangitur, in partes semper dissiliat
                   angulatas. Id Græci vulgares καντον appellant.</quote>
-                  <bibl><persName>Plin.</persName> Excert. p. 718.</bibl>
+                  <bibl><persName ref="#pliny_0023">Plin.</persName> Excert. p. 718.</bibl>
                </p>
                <p>But this is by no means satisfactory; for, if 
                   sugar candy had this appellation from its angular
@@ -2733,7 +2733,7 @@
                   <distinct type="dialect">κανθος</distinct> is <distinct type="dialect">angulus</distinct>, an angle or corner.
                </p>
                <p><persName ref="#claudius_salmasius_1588">Salmasius</persName> has taken the barbarous word
-                  from <persName>Nicholas Myrepsus</persName>, who wrote his collection
+                  from <persName ref="#nicholas_myrepsos_0001">Nicholas Myrepsus</persName>, who wrote his collection
                   of <distinct type="dialect">formuæ</distinct>, from the <rs type="properAdjective">Greek</rs> and <rs type="properAdjective">Arabian</rs>
                   
                   <pb/>
@@ -2747,7 +2747,7 @@
                   <quote rend="quotes" xml:lang="la">saccharum appellatum candum;</quote>—the
                   sugar candy of the moderns.
                </p>
-               <p><persName>Fuchsius</persName>, one of his translators, observes,
+               <p><persName ref="#leonhart_fuchs_1501" cert="high">Fuchsius</persName>, one of his translators, observes,
                   in the notes to cap. 35, and 94, that though
                   the word is <distinct xml:lang="el" type="dialect">καντιον</distinct> in the manuscript copy, and
                   implies what we now call <distinct type="dialect">saccharum candi, vel
@@ -2760,7 +2760,7 @@
                   and I think it is difficult to ascertain whether
                   the word be a corruption of the <rs type="properAdjective">Greek</rs> <distinct type="dialect" xml:lang="el">κανθος</distinct>,
                   or the <rs type="properAdjective">Latin</rs> <distinct type="dialect">candidum</distinct>, considering the period
-                  when <persName>Myrepsus</persName> wrote.
+                  when <persName ref="#nicholas_myrepsos_0001">Myrepsus</persName> wrote.
                </p>
                <p>However, I am not inclined to give my
                   suffrage to any of the preceding etymons.
@@ -2788,7 +2788,7 @@
                   undergone but little variation since, in <rs type="properAdjective">European</rs>
                   languages. And, though these particulars do 
                   not seem to have been known to the learned
-                  philologist <persName>Skinner</persName>, he was certainly right
+                  philologist <persName ref="#stephen_skinner_1623">Skinner</persName>, he was certainly right
                   in his conjecture;—<quote rend="italic" xml:lang="la">vox (sugar) procul dubio,
                   ab Indis Barbaricis, cum re translata.</quote>
                </p>
@@ -2802,7 +2802,7 @@
                   are certain raw sugars did in after-ages, when
                   first known to <name>Europeans</name>, by way of <placeName>India</placeName>,
                   <placeName>Arabia</placeName>, and the <placeName>Red Sea</placeName>; several centuries 
-                  before <persName>Myrepsus</persName> lived.
+                  before <persName ref="#nicholas_myrepsos_0001">Myrepsus</persName> lived.
                </p>
                <p>The <name>Venitians</name>, anterior to the year <date when="1148">1148</date>,
                   imported considerable quantities of sugar from
@@ -2819,7 +2819,7 @@
                   this commodity<anchor xml:id="a018" corresp="#n018"/>.
                </p>
                <p>Indeed, the <rs type="properAdjective">Venetian</rs> history informs us, that
-                  even prior to <date when="0991">991</date>, when <persName>Orseolo</persName> was Doge
+                  even prior to <date when="0991">991</date>, when <persName ref="#pietro_i_orseolo_0928 pietro_ii_orseolo_0001">Orseolo</persName> was Doge
                   of <placeName>Venice</placeName>, the <name>Venetians</name>, then forcing their
                   commerce with the <name>Saracens</name> into <placeName>Syria</placeName> and
                   <placeName>Egypt</placeName>, brought back from thence in return,
@@ -2832,12 +2832,12 @@
                   it so very useful to human life, are owing to
                   the modern <name>Portuguese</name> and <name>English</name><anchor xml:id="a020" corresp="#n020"/>.</quote>
                </p>
-               <p><persName>Doctor William Douglas</persName>, of <placeName>Boston</placeName> in
+               <p><persName ref="#william_douglass_1691">Doctor William Douglas</persName>, of <placeName>Boston</placeName> in
                   <placeName>America</placeName>, was also mistaken, when, remarking
                   that <quote rend="quotes">the ancient <name>Greeks</name> and <name>Romans</name> used
                   honey only for sweetening, and that sugar was
                   not known amongst them,</quote> he asserts that
-                  <quote rend="quotes"><persName>Paulus Ægineta</persName> is the first who expressly
+                  <quote rend="quotes"><persName ref="#paul_of_aegina_0625">Paulus Ægineta</persName> is the first who expressly
                   mentions sugar<anchor xml:id="a021" corresp="#n021"/>.</quote>
                </p>
                
@@ -2857,7 +2857,7 @@
                   in <placeName>England</placeName> in <date when="1544">1544</date>. The first adventurers in
                   this business were <persName>Cornelius Bussine</persName>, <persName>Ferdinando
                   Points</persName>, ...... <persName>Mounsie</persName>, <persName>John Gardiner</persName>, and
-                  <persName>Sir William Chester</persName>; these persons were the
+                  <persName ref="#william_chester_1509">Sir William Chester</persName>; these persons were the
                   proprietors of two sugar-houses, which were
                   all that were at that time in <placeName>England</placeName>.
                </p>
@@ -2878,9 +2878,9 @@
                <pb/>
                <fw type="pageNum">73</fw>
                
-               <p>In <date when="1596">1596</date>, <persName>Sir Thomas Mildmay</persName>, on the pretext
+               <p>In <date when="1596">1596</date>, <persName ref="#thomas_mildmay_1540">Sir Thomas Mildmay</persName>, on the pretext
                   that frauds were practised in refining sugar,
-                  petitioned <persName>queen Elizabeth</persName> for a license, for an 
+                  petitioned <persName ref="elizabeth_i_england_1533">queen Elizabeth</persName> for a license, for an 
                   exclusive right to refine sugars, for a term of
                   years; for which monopoly he offered to pay
                   an annual sum. His petition however was
@@ -2904,7 +2904,7 @@
                <p>Sugar, when first introduced into every 
                   country, was used only medicinally <persName ref="#pliny_0023">Pliny</persName>
                   leaves no room for doubt on this point. Even
-                  in <placeName>Arabia</placeName>, in <persName>Avicenna's</persName> time, though sugar
+                  in <placeName>Arabia</placeName>, in <persName ref="#avicenna_0980">Avicenna's</persName> time, though sugar
                   was an article of commerce from the East,
                   there is no record of its being used in dietetic,
                   or culinary purposes, for several centuries
@@ -2919,7 +2919,7 @@
                <pb/>
                <fw type="pageNum">76</fw>
                
-               <p><persName>Actuarius</persName> was the first physician who 
+               <p><persName ref="#joannes_actuarius_1275">Actuarius</persName> was the first physician who 
                   substituted sugar for honey in medicinal
                   compositions<anchor xml:id="a023" corresp="#n023"/>.
                </p>
@@ -2939,20 +2939,20 @@
                   was preferred in their days to honey in
                   medicine.
                </p>
-               <p>I have said that <persName>Actuarius</persName> was the first
+               <p>I have said that <persName ref="#joannes_actuarius_1275">Actuarius</persName> was the first
                   physician who used sugar, instead of honey,
                   in prescriptions; because he is supposed, by
                   me, to have written anno <date when="1000">1000</date>; which was
-                  before <persName>Myrepsus</persName> made is compilation; though
-                  some writers place <persName>Actuarius</persName> three centuries
+                  before <persName ref="#nicholas_myrepsos_0001">Myrepsus</persName> made is compilation; though
+                  some writers place <persName ref="#joannes_actuarius_1275">Actuarius</persName> three centuries
                   
                   <pb/>
                   <fw type="pageNum">77</fw>
                   
                   (anno <date when="1300">1300</date>) after that period, and subsequent
-                  to <persName>Myrepsus</persName>.
+                  to <persName ref="#nicholas_myrepsos_0001">Myrepsus</persName>.
                </p>
-               <p><persName>Dioscorides</persName>, who is the first that mentions
+               <p><persName ref="#pedanius_dioscorides_0040">Dioscorides</persName>, who is the first that mentions
                   sugar by name, σακχαρον, from which the Latin
                   <distinct type="dialect">saccharum</distinct> is derived, is also the first who speaks
                   of the medicinal qualities of sugar. In his 
@@ -2975,9 +2975,9 @@
                   sugar, or fine sugar-candy, into the eyes,
                   has long been a popular practice to remove
                   films, and opthalmies. Perhaps the practice
-                  originated with <persName>Dioscorides</persName>.
+                  originated with <persName ref="#pedanius_dioscorides_0040">Dioscorides</persName>.
                </p>
-               <p><persName>Galen</persName>, in his 7th book of the temperaments
+               <p><persName ref="#galen_0129">Galen</persName>, in his 7th book of the temperaments
                   and faculties of medicines, <title xml:lang="el">ϖερι Μελιτος</title>, says,—
                   
                   <pb/>
@@ -2994,13 +2994,13 @@
                   like honey, nor causes thirst; so far it differs
                   from honey.</quote>
                </p>
-               <p><persName>Galen</persName> also, in his 8th book of his method 
+               <p><persName ref="#galen_0129">Galen</persName> also, in his 8th book of his method 
                   of healing, recommends sugar, among the
                   articles to be used, for the regimen of the sick in
                   fevers.
                </p>
-               <p><bibl><persName>Paulus Ægineta</persName>, lib. II. cap. 54,</bibl> recommends
-                  from <persName>Archigenes</persName>, a piece of <quote rend="quotes">the
+               <p><bibl><persName ref="#paul_of_aegina_0625">Paulus Ægineta</persName>, lib. II. cap. 54,</bibl> recommends
+                  from <persName ref="#archigenes_0001">Archigenes</persName>, a piece of <quote rend="quotes">the
                   <rs type="properAdjective">Indian</rs> salt, which in appearance, resembles
                   common salt, but in sweetness honey;</quote> to be
                   kept in the mouth, to moisten it in fevers.
@@ -3018,13 +3018,13 @@
                <pb/>
                <fw type="pageNum">79</fw>
               
-               <p>I shall begin with <persName>Avicenna</persName>, and give the
+               <p>I shall begin with <persName ref="#avicenna_0980">Avicenna</persName>, and give the
                   <rs type="properAdjective">Latin</rs> version of this author. From the rest of
                   this tribe of copyists I shall confine myself to a
                   few passages, which I shall give in <name>English</name>
                   only.
                </p>
-               <p><persName>Avicenna</persName> says, in his chapter on honey,—
+               <p><persName ref="#avicenna_0980">Avicenna</persName> says, in his chapter on honey,—
                   <quote rend="block" xml:lang="la">Mel cannarum lenit ventrem, et mel tabazet non
                   lenit.</quote> <bibl>Lib. II. tract. 2. cap. 497.</bibl>
                   <quote rend="quotes">The honey of the canes opens the bowels; but
@@ -3061,14 +3061,14 @@
                      et ipsum quidem cum oleo amydalino confert 
                      cholicae.</quote> <bibl>Lib. II. tract. 2. cap. 755.</bibl>
                </p>
-               <p><persName>Avicenna</persName>, in his chapter <title>de Asperitate
-                  Linguæ</title>, copying <persName>P. Ægineta</persName>, says, the tongue,
+               <p><persName ref="#avicenna_0980">Avicenna</persName>, in his chapter <title>de Asperitate
+                  Linguæ</title>, copying <persName ref="#paul_of_aegina_0625">P. Ægineta</persName>, says, the tongue,
                   when rough and foul in fevers, should be
                   cleansed with oil of almonds and white sugar;
                   and after that he says,—
                   <quote rend="block" xml:lang="la">Teneat in ore suo salem qui asportatur de India,
                   et est in colore salis, et dulcidine mellis; et sumat de
-                  eo secundum quod dixit <persName>Archigenes</persName>, quantitatem
+                  eo secundum quod dixit <persName ref="#archigenes_0001">Archigenes</persName>, quantitatem
                   fabæ unius.</quote> <bibl>Lib. IV. Fen. I. Tract. 2. cap. 22.</bibl>
                   <quote rend="quotes">The sick should hold in his mouth the
                   salt which is brought from <placeName>India</placeName>, which is in
@@ -3078,7 +3078,7 @@
                   <pb/>
                   <fw type="pageNum">81</fw>
                   
-                  directions of <persName>Archigenes</persName>, the quantity of a 
+                  directions of <persName ref="#archigenes_0001">Archigenes</persName>, the quantity of a 
                   bean.</quote>
                </p>
                <p>He says again, in his chapter <title>de Cibatione
@@ -3096,7 +3096,7 @@
                   advises sugar to be holden in the mouth, to
                   assuage thirst. <bibl>Lib. III. fen. 6. tract. 2. cap. 19.</bibl>
                </p>
-               <p><persName>Avicenna</persName> further remakrs, on the virtues of
+               <p><persName ref="#avicenna_0980">Avicenna</persName> further remakrs, on the virtues of
                   sugar, compared with honey;—
                   <quote rend="block" xml:lang="la">Quod in Syrupo Acetoso ponatur zuccarum loco
                   mellis; quum zuccarum in abstersione non deficiat
@@ -3116,7 +3116,7 @@
                   and is less heating; and much less subject
                   to produce bile.</quote>
                </p>
-               <p><persName>Avicenna</persName> has a chapter on Fanid, or
+               <p><persName ref="#avicenna_0980">Avicenna</persName> has a chapter on Fanid, or
                   Pinidium, sugar which the translators have rendered
                   <distinct type="dialect">Penidii</distinct>; the same as before termed
                   <distinct type="dialect">Alfenid</distinct> or <distinct type="dialect">Saccharum Penidium</distinct>.
@@ -3135,7 +3135,7 @@
                   eating a considerable quantity of conserve of
                   roses. <bibl>Lib. III. fen. 10. tr. 3 c. 6.</bibl>
                </p>
-               <p><persName>Rhases</persName> says, <quote rend="quotes">sugar softens the throat and
+               <p><persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhases</persName> says, <quote rend="quotes">sugar softens the throat and
                   bowels, and does not heat but in a very small 
                   degree. Honey is hot, and soon converted
                   into bile; but it destroys phlegm, and is good
@@ -3149,17 +3149,17 @@
                   to the throat, bowels and bladder, and
                   warm the parts about the kidneys.</quote>   
                </p>
-               <p><persName>Serapion</persName>, though he has a separate chapter
+               <p><persName ref="#yahya_ibn_sarafyun_0001 #serapion_the_younger_0001">Serapion</persName>, though he has a separate chapter
                   concerning sugar, relates only the opinion of
                   others.
                </p>
-               <p>He begins with <persName>Galen</persName>, and mentions almost
+               <p>He begins with <persName ref="#galen_0129">Galen</persName>, and mentions almost
                   verbatim what I have already given from that 
                   author: particularly that sugar is not prejudicial
                   to the stomach, nor causes thirst, like
                   honey.
                </p>
-               <p>From <persName>Dioscorides</persName> he has given the same
+               <p>From <persName ref="#pedanius_dioscorides_0040">Dioscorides</persName> he has given the same
                   account I have; that it is a species of honey
                   found on the canes in <placeName>India</placeName> and <placeName>Arabia</placeName>: that
                   it is in substance like salt, and brittle between 
@@ -3199,7 +3199,7 @@
                   in it: sugar is good for pains in the bladder
                   and kidneys, and cleanses them.</quote>
                </p>
-               <p>From <persName>Isaac Bensulaimen</persName> he says, <quote rend="quotes">the
+               <p>From <persName ref="#isaac_israeli_ben_solomon_832">Isaac Bensulaimen</persName> he says, <quote rend="quotes">the
                   sugar brought from the region of <placeName>Heigen</placeName>, and
                   called <distinct type="dialect">haoscer</distinct>, is less sweet than the other
                   sorts of sugar, and more drying; for which 
@@ -3234,10 +3234,10 @@
                   their mistresses to it.</quote>
                   <bibl>De Temperament. Simpl. cap. 50.</bibl>
                </p>
-               <p><persName>Serapion</persName> has a chapter also from <persName>Aben
+               <p><persName ref="#yahya_ibn_sarafyun_0001 #serapion_the_younger_0001">Serapion</persName> has a chapter also from <persName>Aben
                   Mesuai</persName>, on the <distinct type="dialect">pinidii</distinct>, before mentioned, by
-                  <persName>Avicenna</persName>, and <persName>Rhases</persName>. It is verbatim from
-                  <persName>Avicenna</persName>.
+                  <persName ref="#avicenna_0980">Avicenna</persName>, and <persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhases</persName>. It is verbatim from
+                  <persName ref="#avicenna_0980">Avicenna</persName>.
                </p>
                <p>Having now selected everything pertaining
                   to sugar from the <name>Arabians</name>, I shall proceed
@@ -3637,12 +3637,12 @@
                <p>The rhapsody of <persName ref="#theophilius_de_garencieres_1610">Garencieres</persName> is entirely
                   his own; but that <persName ref="#thomas_willis_1621">Willis</persName> advances has a
                   better stamen, but it is not his own. It is taken
-                  from <persName>Angelus Sala</persName>, whom he has not
+                  from <persName ref="#angelo_sala_1576">Angelus Sala</persName>, whom he has not
                   mentioned, and from whom he has made a
                   partial selection, merely to support his
                   favourite theory of the scurvy.
                </p>
-               <p><persName>Sala</persName> enumerates many evils which may
+               <p><persName ref="#angelo_sala_1576">Sala</persName> enumerates many evils which may
                   arise in weak habits and bad constitutions from
                   the <emph>excessive</emph>, and what he terms the <emph>abuse</emph> of
                   sugar; such as, debility of digestion; loss of
@@ -3652,14 +3652,14 @@
                </p>
                <p>But let it be remarked, that it is to the
                   inordinate use of sugar, among already diseased
-                  people, to which <persName>Sala</persName> attributes these evils.
+                  people, to which <persName ref="#angelo_sala_1576">Sala</persName> attributes these evils.
                </p>
                <p>For, his own reflection on the occasion is,
                   that <quote rend="quotes">the excessive use of the most excellent
                   and salutary things is always hurtful to the
                   human frame.</quote>
                </p>
-               <p><persName>Sala</persName>, however, views the subject with
+               <p><persName ref="#angelo_sala_1576">Sala</persName>, however, views the subject with
                   impartiality, if not with judgement; and does
                   
                   <pb/>
@@ -3729,7 +3729,7 @@
                   and will embrace all that relates to it deserving 
                   notice.
                </p>
-               <p><persName>Baptista Porta</persName>, who, in point of date,
+               <p><persName ref="#giambattista_della_porta_1535">Baptista Porta</persName>, who, in point of date,
                   was much earlier that the authors before mentioned,
                   
                   <pb/>
@@ -3779,7 +3779,7 @@
                   them</quote> <bibl>Histoire géneéral de Drogues, Lib II.
                   cap. 38, anno 1694.</bibl>
                </p>
-               <p><persName>Lemery</persName> gives nearly a similar account of
+               <p><persName ref="#nicolas_lemery_1645">Lemery</persName> gives nearly a similar account of
                   sugar; but says it is hurtful to the teeth, and
                   causes vapours. <bibl>Traité Universel des Drogues
                   Simples, anno 1693,</bibl>
@@ -3820,7 +3820,7 @@
                   remedy taken by the mouth.</quote> <bibl>Cynosura,
                   vol. I. p. 704. &amp; seq, anno 1710.</bibl>
                </p>
-               <p><persName>Boerhaave</persName> says,—
+               <p><persName ref="#herman_boerhaave_1668">Boerhaave</persName> says,—
                   <quote rend="block">Sugar never generates phlegm, but, on the
                   contrary dissolves it. Neither does it increase
                   the bile, or is converted into it; but opens,
@@ -3836,7 +3836,7 @@
                   hurtful to the ricketty and scorbutic.</quote> <bibl>Element.
                   Chemiæ, vol. II. p. 260, anno, 1742.</bibl>
                </p>
-               <p><persName>Geoffroy</persName> says,
+               <p><persName ref="#etienne_geoffroy_saint_hilaire_1772">Geoffroy</persName> says,
                   <quote rend="prequotes" xml:id="q047" next="#q048">Sugar, taken moderately with food, affords
                   good nourishment. It promotes concontion,
                   if after a full meal a lump of it be eaten.</quote>
@@ -3904,7 +3904,7 @@
                <fw type="pageNum">105</fw>
                
                <p>In taking a survey of the writers on sugar,
-                  it is impossible to over look <persName>Dr. Frederick
+                  it is impossible to over look <persName ref="#frederick_slare_1647">Dr. Frederick
                   Slare</persName>; whose unqualified praises of the virtues
                   of sugar may be properly opposed to the
                   unqualified censures bestowed on it by <persName ref="#theophilius_de_garencieres_1610">Garencieres</persName>
@@ -3936,7 +3936,7 @@
                   islands, where the air is moister than in
                   continents.</quote> <bibl>History of <placeName>Barbadoes</placeName>, anno 1673.</bibl>
                </p>
-               <p><persName>Slare</persName> says,—<quote rend="quotes" xml:id="q059" next="#q060">I have a strong and home
+               <p><persName ref="#frederick_slare_1647">Slare</persName> says,—<quote rend="quotes" xml:id="q059" next="#q060">I have a strong and home
                   argument to recommend the use of sugar to
                   infants; of which to defraud them is a very
                   cruel thing, if not a crying sin. The argument
@@ -4369,7 +4369,7 @@
                         use in chemistry, shew that it deserves the most 
                         particular attention.
                      </p>
-                     <p>From the time of <persName>Stahl</persName>, many considered
+                     <p>From the time of <persName ref="#georg_ernst_stahl_1659">Stahl</persName>, many considered
                         the nitrous and marine acids as generated from 
                         the vitriolic; but, if all confiding in this theory
                         (which is yet contradicted by daily observation)
@@ -4390,7 +4390,7 @@
                </floatingText>
                </quote>
                <p>The saccharine matter, says the illustrious
-                  <persName>De Fourcroy</persName>,―<quote rend="prequotes">which many chemists
+                  <persName ref="#antoine_francois_de_fourcroy_1755">De Fourcroy</persName>,―<quote rend="prequotes">which many chemists
                   consider as a kind of essential salt, is found in a 
                   great number of vegetables: and may be properly
                   ranged among their immediate principles.</quote>
@@ -4439,7 +4439,7 @@
                      vegetables, which are not saccharine, afford it
                      in greater abundance: such are gums, starch,
                      vegetable gluten, salt of forrel, lemon juice,
-                     spirit of wine, and animal matter, as <persName>M.
+                     spirit of wine, and animal matter, as <persName ref="#claude_louis_berthollet_1748">M.
                      Berthollet</persName> has discovered.
                   </p>
                   
@@ -4452,18 +4452,18 @@
                      not afford sugar.
                   </p>
                   <p>Pure sugar did not afford <persName>Bergman</persName> more
-                     than one third of its weight of acid; and <persName>M.
+                     than one third of its weight of acid; and <persName ref="#claude_louis_berthollet_1748">M.
                      Berthollet</persName> obtained more than half, from
                      wool.
                   </p>
-                  <p>It seems, therefore, as <persName>M. De Morveau</persName>
+                  <p>It seems, therefore, as <persName ref="#louis-bernard_guyton-morveau_1737">M. De Morveau</persName>
                      thinks, that this acid is formed by the union
                      of a peculiar attenuated oil, which exists in
                      all organic substances, and is the same through-out;
                      and that consequently the same saccharine
                      acid is improper.
                   </p>
-                  <p><persName>Scheele</persName> has observed that the acid of lemons,
+                  <p><persName ref="#carl_wilhelm_scheele_1742">Scheele</persName> has observed that the acid of lemons,
                      chrystallized by the process described by <persName>Bergman</persName>,
                      does not afford saccharine acid by
                      treatment with nitrous acid; though lemon
@@ -4534,7 +4534,7 @@
                      produced in low countries; and the middle-aged
                      that the young or old.
                   </p>
-                  <p><persName>Mr. Kalm</persName> informs us the <rs type="properAdjective">Swedish</rs>
+                  <p><persName ref="#pehr_kalm_1716">Mr. Kalm</persName> informs us the <rs type="properAdjective">Swedish</rs>
                      Transactions for the year <date when="1751">1751</date>, that one tree, if the
                      Summer does not come on hastily, will yield
                      about forty-two gallons of juice, <rs type="properAdjective">English</rs>
@@ -4624,11 +4624,11 @@
                   <pb/>
                   <fw type="pageNum">126</fw>
                   
-                  the <rs type="properAdjective">Roman</rs> writers, until the time of <persName>Pompey's</persName>
+                  the <rs type="properAdjective">Roman</rs> writers, until the time of <persName ref="#pompey_0106">Pompey's</persName>
                   expedition to <placeName>Syria</placeName>.
                </p>
                <p><distinct>Sugar</distinct> is not mentioned by either <rs type="properAdjective">Grecian</rs>
-                  or <rs type="properAdjective">Roma</rs> writer until the time of <persName>Nero</persName>. 
+                  or <rs type="properAdjective">Roma</rs> writer until the time of <persName ref="#nero_0037">Nero</persName>. 
                   Neither poet nor historian mentions it in the <rs type="properAdjective">Augustan</rs>
                   age.
                </p>
@@ -4647,7 +4647,7 @@
                   for centuries prior to that memorable epoch of
                   insanity<anchor xml:id="a036" corresp="#n036"/>.
                </p>
-               <p>In the writings of <persName>Moses</persName>, and in many parts
+               <p>In the writings of <persName ref="#moses_0001">Moses</persName>, and in many parts
                   of the Bible written by others, we find the word
                   <distinct type="dialect">קגה</distinct> <distinct type="dialect">Kaneh</distinct>.
                </p>
@@ -4791,7 +4791,7 @@
                   <quote xml:lang="he">קדה וקגה בטעדבך היה׃</quote>
                   <quote>Cassia and calamus were in thy market.</quote>
                </p>
-               <p>In <title>Exodus</title>, <distinct type="dialect">kaneh</distinct> is mentioned by <persName>Moses</persName> as
+               <p>In <title>Exodus</title>, <distinct type="dialect">kaneh</distinct> is mentioned by <persName ref="#moses_0001">Moses</persName> as
                   one of the four spices in the <distinct type="religious">Holy Anointing Oil</distinct>;
                   which, he says, God ordered him to make in
                   the following manner:
@@ -4803,19 +4803,19 @@
                   made an ointment compound, after the art of
                   the apothecary<anchor xml:id="a043" corresp="#n043"/>.</quote>
                </p>
-               <p>With this <distinct type="religious">Holy Anointing Oil</distinct>, <persName>Moses</persName> says,
+               <p>With this <distinct type="religious">Holy Anointing Oil</distinct>, <persName ref="#moses_0001">Moses</persName> says,
                   he was directed by God to anoint the tabernacle,
                   the ark of the testimony, the tables, the
                   vessels, the candlesticks, the altar of incense,
                   the alter of burnt-offering, and the laver and
                   his foot, that they might be sacred; he was
-                  also ordered to anoint <persName>Aaron</persName> and his sons, and
+                  also ordered to anoint <persName ref="#aaron_0001">Aaron</persName> and his sons, and
                   consecrate them, that they might minister in
                   the priests office; and it was to be an <distinct type="religious">Holy
                   Anointing Oil</distinct> for the children of <name>Israel</name>
                   throughout their generations
                </p>
-               <p><persName>Moses</persName>, in this remarkable chapter, mentions
+               <p><persName ref="#moses_0001">Moses</persName>, in this remarkable chapter, mentions
                   also the other compositon, so venerated by the
                   <name>Israelites</name>. This is the <distinct type="religious">Holy Perfume</distinct>; which,
                   he says, God directed him to make in the 
@@ -4837,11 +4837,11 @@
                   imitated. For, whosoever should attempt to 
                   make either, or put any of the oil on a stranger,
                   or smell to a perfume compounded in a similar
-                  manner, was, <persName>Moses</persName> says, by God's decree, to
+                  manner, was, <persName ref="#moses_0001">Moses</persName> says, by God's decree, to
                   be <quote>even cut off from his people.</quote>
                </p>
                <p>The ancient <name>Jews</name> delighted in spicey odours.
-                  <persName>Moses</persName> made fumigation, and the use of
+                  <persName ref="#moses_0001">Moses</persName> made fumigation, and the use of
                   aromatic drugs, part of their religion.
                </p>
                <p>They used them even in their beds:—
@@ -4866,7 +4866,7 @@
                </p>
                <p>It seems to have arisen from the perverseness
                   among <name>Christians</name>, hatred to the <name>Jews</name>, and
-                  disrespect to <persName>Moses</persName>, who knew all sciences
+                  disrespect to <persName ref="#moses_0001">Moses</persName>, who knew all sciences
                   and was an excellent physican, that they have
                   profited so little by the several wise practices, as
                   well as precepts, in the Bible. The papistical
@@ -4951,7 +4951,7 @@
                   context has been inadequate to settle a precise and
                   determinate meaning.
                </p>
-               <p>The <distinct type="dialect" xml:lang="el">γλυκοκαλμος</distinct>, in later times, of <persName>Nicholas
+               <p>The <distinct type="dialect" xml:lang="el">γλυκοκαλμος</distinct>, in later times, of <persName ref="#nicholas_myrepsos_0001">Nicholas
                   Myrepsus</persName>, which is translators have rendered
                   
                   <pb/>
@@ -4981,7 +4981,7 @@
                <p>The Septuagint renders it <distinct type="dialect" xml:lang="el">σικορα</distinct><anchor xml:id="a049" corresp="#n049"/>, σικερα<anchor xml:id="a050" corresp="#n050"/>,
                   the <rs type="properAdjective">Latin</rs> versions <distinct type="dialect">sechar</distinct>, <distinct type="dialect">sicera</distinct>.
                </p>
-               <p><persName>Moses</persName> says, God ordered him to proclaim
+               <p><persName ref="#moses_0001">Moses</persName> says, God ordered him to proclaim
                   to the children of <placeName>Israel</placeName>, that <quote>when
                   either man or woman shall separate themselves
                   to a vow, a vow of a <name>Nazarite</name> he shall
@@ -4995,7 +4995,7 @@
                   shall he drink any liquor of grapes, nor eat
                   moist grapes, or dried<anchor xml:id="a051" corresp="#n051"/>.</quote>
                </p>
-               <p>The inspired prophet <persName>Jeremiah</persName> says, God
+               <p>The inspired prophet <persName ref="jeremiah_0001">Jeremiah</persName> says, God
                   gave him <quote rend="quotes">the cup of his fury;</quote> and that he
                   <quote rend="quotes">made all nations drink of it, to whom the
                   Lord had sent him;</quote> and he said unto them,
@@ -5157,7 +5157,7 @@
                   an article, not always within the compass of
                   their finances.
                </p>
-               <p><persName>Slare</persName>, and many others, used sugar as a
+               <p><persName ref="#frederick_slare_1647">Slare</persName>, and many others, used sugar as a
                   principal ingredient in tooth powders. It is
                   a component part of many pastes, and other
                   
@@ -5280,7 +5280,7 @@
                   world where it is made; and not confined to
                   the human race.
                </p>
-               <p>The celebrated historian <persName>Mr. Bryan
+               <p>The celebrated historian <persName ref="#bryan_edwards_1743">Mr. Bryan
                   Edwards</persName> was too accurate in his researches, to
                   suffer a fact, so interesting as this, to escape
                   his observation.
@@ -5406,7 +5406,7 @@
                   wholesomeness.
                </p>
                <p>They <ecda:food ana="#poison">honey</ecda:food> of some countries is poisonous to
-                  everyone who makes use of it. <persName>Pompey</persName> lost
+                  everyone who makes use of it. <persName ref="#pompey_0106">Pompey</persName> lost
                   three regiments in <placeName>Pontus</placeName>, poisoned by honey<anchor xml:id="a061" corresp="#n061"/>;
                   and <persName ref="#pliny_0023">Pliny</persName> says, there is a district in that
                   country, which yields honey that makes people
@@ -5488,7 +5488,7 @@
                   might be brought against every article,
                   constituting our daily food.
                </p>
-               <p><persName>Bacon</persName> says, <quote>all life hath a sympathy with
+               <p><persName ref="#francis_bacon_1561">Bacon</persName> says, <quote>all life hath a sympathy with
                   salt<anchor xml:id="a062" corresp="#n062"/>.</quote> This is true, and the same may be
                   said of <ecda:food>sugar</ecda:food>. I have one instance of antipathy
                   on record however, against salt<anchor xml:id="a063" corresp="#n063"/>; I know
@@ -5544,7 +5544,7 @@
                   death used a pound of sugar daily, in his
                   <ecda:food>wine</ecda:food>, <ecda:food>chocolate</ecda:food>, and <ecda:food>sweet-meats</ecda:food>.
                </p>
-               <p><persName>Slare</persName> says, his grandfather <persName>Mr. Malory</persName> was
+               <p><persName ref="#frederick_slare_1647">Slare</persName> says, his grandfather <persName>Mr. Malory</persName> was
                   strong and chearful in his eighty second year;
                   at which time his hair changed somewhat dark;
                   his old teeth came out, pushed away by yong
@@ -5556,7 +5556,7 @@
                   animal: and delighted in all manner of sweet-
                   meats.
                </p>
-               <p><persName>Slare</persName> says, he followed the practice of his
+               <p><persName ref="#frederick_slare_1647">Slare</persName> says, he followed the practice of his
                   grandfather; and used sugar in every thing he
                   ate and drank: and in the sixty-seventh year 
                   of his age, all his teeth were sound, and firm,
@@ -5589,7 +5589,7 @@
                   for the mental pleasure and health, perhaps quite
                   the contrary.
                </p>
-               <p>In the time of <persName>Pythagoras</persName><anchor xml:id="a065" corresp="#n065"/>, sugar was
+               <p>In the time of <persName ref="#pythagoras_0001">Pythagoras</persName><anchor xml:id="a065" corresp="#n065"/>, sugar was
                   unknown; even to this great traveller. Otherwise
                   his philosophy would have had more converts.
                   His diet was impracticable in most
@@ -5601,7 +5601,7 @@
                <pb/>
                <fw type="pageNum">154</fw>
                
-               <p>If the pure, divine <persName>Pythagoras</persName>, 
+               <p>If the pure, divine <persName ref="#pythagoras_0001">Pythagoras</persName>, 
                   undergoing the changes he suggested<anchor xml:id="a066" corresp="#n066"/>, be now in
                   this our planet, and conscious of his former
                   being, how must his holy spirit be depressed
@@ -5651,7 +5651,7 @@
                   consumption for nearly a century, subsequent to
                   this period, was inconsiderable.
                </p>
-               <p><persName>Chaucer</persName>, in his <title>Troilus and Cressida</title>,
+               <p><persName ref="#geoffrey_chaucer_1343">Chaucer</persName>, in his <title>Troilus and Cressida</title>,
                   written in <date when="1380">1380</date>, mentions, allegorically, the
                   sweetness of sugar<anchor xml:id="a067" corresp="#n067"/>.
                </p>
@@ -5783,7 +5783,7 @@
                   remark<anchor xml:id="a070" corresp="#n070"/>.
                </p>
                <p>Without resorting to the metamorphosis of
-                  <persName>Nebuchadnezzer</persName>, <persName>Montesquieu</persName> was so
+                  <persName ref="#nebuchadnezzar_ii_0634">Nebuchadnezzer</persName>, <persName ref="#montesquieu_1689">Montesquieu</persName> was so
                   persuaded of this doctrine, that he asserts, in many 
                   animals, excepting their mere bones, their
                   mental as well as their corporal character, is
@@ -5795,7 +5795,7 @@
                   a walking vegetable—or an hieroglyphic—
                   importing the food, of which he is compounded.
                </p>
-               <p><persName>Europe</persName> is in a much better state of bodily
+               <p><placeName>Europe</placeName> is in a much better state of bodily
                   health than it was formerly. It has also undergone
                   great changed in its mental condition; as
                   all <placeName>Europe</placeName> feels. There is still some room for
@@ -5889,7 +5889,7 @@
                <p>The science of medicine therefore has not
                   improved,—it has changed: because diseases
                   change. It is to be remembered that <persName ref="#hippocrates_0460">Hippocrates</persName>,
-                  <persName>Celsus</persName>, and <persName>Galen</persName>, knew all that
+                  <persName ref="#aulus_cornelius_celsus_0025">Celsus</persName>, and <persName ref="#galen_0129">Galen</persName>, knew all that
                   was possible to be known in their time; yet
                   we cannot go by their writings; and, if they
                   had left us nothing but their prescriptions, we
@@ -5903,8 +5903,8 @@
                   heeled hind feet of <name>Pegasus</name> are visible to the
                   naked eye: the hidden parts of that constellation,
                   which have puzzled astronomers, as to
-                  the sex of <name>Pegasus</name>; and which <persName>Hipparchus</persName>,
-                  <persName>Tycho</persName>, <persName>Hevelius</persName>, <persName>Flamstead</persName>, and
+                  the sex of <name>Pegasus</name>; and which <persName ref="#hipparchus_0190">Hipparchus</persName>,
+                  <persName ref="#tycho_brahe_1546">Tycho</persName>, <persName>Hevelius</persName>, <persName>Flamstead</persName>, and
                   <persName>Herschel</persName>, could never discover. The reason now
                   is evident.
                </p>
@@ -5913,11 +5913,11 @@
                </p>
                <p>Great events are foreboded.—Some pretend
                   that a restive greasy-heeled horse will kick
-                  down all the old gally-pots of <persName>Galen</persName>—Others,
+                  down all the old gally-pots of <persName ref="#galen_0129">Galen</persName>—Others,
                   that the people of <placeName>England</placeName> are becoming like
                   the inhabitants of a wilderness, beyond the
                   land of <placeName>Cathay</placeName>, seen in <date when="1333">1333</date>, by the rare and
-                  inimitable <persName>Sir John Mandevile</persName>,—who, he
+                  inimitable <persName ref="#john_mandeville_0001">Sir John Mandevile</persName>,—who, he
                   says, were <quote>wild, with horns on their heads,
                   very hideous and speak not; but rout as swine<anchor xml:id="a071" corresp="#n071"/>.</quote>
                </p>
@@ -5942,7 +5942,7 @@
                   <lb/>
                   <fw type="pageNum">164</fw>
                   
-                  medicine, tending to what <persName>Sydenham</persName> would
+                  medicine, tending to what <persName ref="#thomas_sydenham_1624">Sydenham</persName> would
                   call depurating that system, do the same.
                </p>
                <p ana="#medical">Surgeons know that the first inflammation
@@ -6036,8 +6036,8 @@
                   he has quoted; endeavoring to prove it is
                   common in <placeName>Arabia</placeName> as well as in <placeName>Africa</placeName><anchor xml:id="a074" corresp="#n074"/>.
                </p>
-               <p><persName>Turner</persName> never saw it, and is absurd<anchor xml:id="a075" corresp="#n075"/>; and
-                  our great <persName>Sydenham</persName>, who was a total stranger 
+               <p><persName ref="#daniel_turner_1667">Turner</persName> never saw it, and is absurd<anchor xml:id="a075" corresp="#n075"/>; and
+                  our great <persName ref="#thomas_sydenham_1624">Sydenham</persName>, who was a total stranger 
                   to it, never committed an error, scarcely, but
                   in this instance<anchor xml:id="a076" corresp="#n076"/>.
                </p>
@@ -6301,7 +6301,7 @@
                   with some of the magic in his horn, and they 
                   could not betray him. But he trusted no one.
                   He scorned assistance. He ascended above
-                  <persName>Spartacus</persName>. He robbed alone; fought all his
+                  <persName ref="#spartacus_0111">Spartacus</persName>. He robbed alone; fought all his
                   battles alone; and always killed his pursuers.
                </p>
                <p>By his magic, he was not only the dread of
@@ -6334,7 +6334,7 @@
                   known to hurt a child, or abuse a woman.
                </p>
                <p>But even <persName ref="#three_fingered_jack_0001">Jack</persName> himself was born, to die.</p>
-               <p>Allured by the rewards offered by <persName>Governor
+               <p>Allured by the rewards offered by <persName ref="#john_dalling_1731">Governor
                   Dalling</persName>, in a proclamation, dated the <date when="1780-12-12">12th
                   of December, 1780</date>, and by a resolution which 
                   followed it, of the <orgName>House of Assembly</orgName><anchor xml:id="a079" corresp="#n079"/>, to
@@ -6799,7 +6799,7 @@
                <p>Is it possible to suppose that people should
                   have been found to propagate, or believe the
                   well-known and favourite story of the advocates
-                  for <persName>Mead's</persName> theories,—that a lady was
+                  for <persName ref="#richard_mead_1673">Mead's</persName> theories,—that a lady was
                   killed isntantly by smelling at a <rs type="properAdjective">Turkey</rs>-
                   handkerchief; and a gentleman by only walking
                   over a <rs type="properAdjective">Turkey</rs>-carpet!
