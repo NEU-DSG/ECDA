@@ -248,7 +248,7 @@
                  in his second voyage, <date>1493</date>, who was so pleased with his appearance, that he honoured
                  it with his <rs type="properAdjective">Christian</rs> name. Though others pretend, that appellation was given it from
                  an imaginary resemblance between a high mountain in its centre, now called <placeName>Mount Misery</placeName>
-                 to the fabulous legend of the Devil's carrying <persName>St. Christopher</persName> on his shoulders.
+                 to the fabulous legend of the Devil's carrying <persName ref="#saint_christopher_0001">St. Christopher</persName> on his shoulders.
                  But, be this as it will, the <name>Spaniards</name> soon after settled it, and lived in tolerable harmony
                  with the natives for many years; and as their fleets commonly called in there to
                  and from <placeName>America</placeName> for provision and water, the settlers, no doubt, reaped some
@@ -323,7 +323,7 @@
               </p>
               <p>
                  The island of <placeName>Jamaica</placeName> was bestowed on <persName ref="#christopher_columbus_1450">Columbus</persName>, as some compensation
-                 for his discovery of the new world; accordingly his son <persName>James</persName> settled, and planted it,
+                 for his discovery of the new world; accordingly his son <persName ref="#diego_columbus_1479">James</persName> settled, and planted it,
                  early [A.D. <date when="1509">1509</date>] the following century. What improvements  the <name>Spaniards</name> made
                  therein is no where mentioned; but, had their industry been equal to their opportunities, 
                  their improvements whould have been considerable; for they continued in the
@@ -372,8 +372,8 @@
                  when the <name>English</name> first landed there, which was about the end of the sixteenth or beginning
                  of the seventeenth century, they found in it an excellent breed of <ecda:fauna>wild hogs</ecda:fauna>,
                  but no inhabitants. In the year <date when="1627">1627</date>, <placeName>Barbadoes</placeName>, with most of the other <placeName>Caribbee-
-                 Islands</placeName>, were granted by <persName ref="#charles_i_england_1600">Charles I</persName>. to the <persName>Earl of Carlisle</persName>, that nobleman agreeing to
-                 pay to the <persName>Earl of Marlborough</persName>, and his hears, a perpetual annuity of 300 l. per annum,
+                 Islands</placeName>, were granted by <persName ref="#charles_i_england_1600">Charles I</persName>. to the <persName ref="#james_hay_1580">Earl of Carlisle</persName>, that nobleman agreeing to
+                 pay to the <persName ref="#james_ley_1618">Earl of Marlborough</persName>, and his hears, a perpetual annuity of 300 l. per annum,
                  for his waving his claim to <placeName>Barbadoes</placeName>, which he had obtained, by patent, in the
                  preceding reign. The adventurers to whom that nobleman parcelled out this island, at
                  first cultivated <ecda:commodity ana="#production">tobacco</ecda:commodity>; but, that not turning out to their advantage, they applied,
@@ -656,7 +656,7 @@
                  By the <name>Caribbeans</name> it was called <distinct type="dialect">Collobree</distinct>. It is common in all the warm parts of <placeName>America</placeName>
                  There are various species of them, all exceeding small, beautiful and bold.
                  The crested one, though not so frequent, is yet more beautiful than the others. It is
-                 chiefly to be found in the woody parts of the mountains. <persName>Edwards</persName> has described a very
+                 chiefly to be found in the woody parts of the mountains. <persName ref="#bryan_edwards_1743">Edwards</persName> has described a very
                  beautiful humming bird, with a long tail, which is native of <placeName>Surinam</placeName>, but which I
                  never saw in these islands. They are easily caught in rainy weather.
               </p>
@@ -1327,7 +1327,7 @@
               </p>
            </note>
            <note xml:id="n096" target="#a096">
-              <p><label>Ver. 501.</label> <ref>Marne's flowery banks, nor Tille's]</ref> Two rivers in <persName>France</persName>, along whose
+              <p><label>Ver. 501.</label> <ref>Marne's flowery banks, nor Tille's]</ref> Two rivers in <placeName>France</placeName>, along whose
                  banks the best <ecda:commodity ana="#food #production">Burgundy</ecda:commodity> and <ecda:commodity ana="#food #production">Champagne-grapes</ecda:commodity> grow.
               </p>
            </note>
@@ -1452,7 +1452,7 @@
               <p><label>Ver. 317</label> <ref>The mineral product of the Cornish mine]</ref> Tin-fillings are a better
                  vermifuge than tin in powder. The western parts of <placeName>Britain</placeName>, and the neighbouring
                  isles, have been famous for this useful metal from the remotest antiquity; for we find
-                 from <persName>Strabo</persName>, that the Phænicians made frequent voyages to those parts (which they
+                 from <persName ref="#strabo_0064">Strabo</persName>, that the Phænicians made frequent voyages to those parts (which they
                  called <distinct type="dialect">Cassiterides</distinct> from <seg xml:id="er013" corresp="#ec013">Κασσι</seg> τερον stannum) in quest of that commodity, which turned
                  out so beneficial to them, that a pilot of that nation stranded his vessel, rather
                  that show a <rs type="properAdjective">Roman</rs> ship, that watched him the way to those mines. For this
@@ -1489,7 +1489,7 @@
            </note>
            <note xml:id="n114" target="#a114">
               <p><label>Ver. 415.</label> <ref>solanum]</ref> So some authors name the fire-weed, which grows every where,
-                 and is the <distinct type="dialect">datura</distinct> of <persName>Linnæus</persName>; whose virtues <persName>Dr. Stork</persName>, at <placeName>Vienna</placeName>, has greatly
+                 and is the <distinct type="dialect">datura</distinct> of <persName ref="#carl_linnaeus_1707">Linnæus</persName>; whose virtues <persName>Dr. Stork</persName>, at <placeName>Vienna</placeName>, has greatly
                  extolled in a late publication. It bears a white monopetalous flower, which opens always
                  about sun-set.
               </p>
@@ -1617,12 +1617,12 @@
            </note>
            <note xml:id="n130" target="#a130">
               <p><label>Ver. 543.</label> <ref>granadilla]</ref> This is the <rs type="properAdjective">Spanish</rs> name, and is a species of the <distinct type="scientific">passiflora</distinct>,
-                 or passion-flower, called by <persName>Linnæus</persName> <distinct type="scientific">Musa</distinct>. The seeds and pulp, through which
+                 or passion-flower, called by <persName ref="#carl_linnaeus_1707">Linnæus</persName> <distinct type="scientific">Musa</distinct>. The seeds and pulp, through which
                  the seeds are dispersed, are cooling, and grateful to the palate. This, as well as
                  the water-lemon, bell-apple, or <ecda:flora>honeysuckle</ecda:flora>, as it is named, being parasitical plants,
                  are easily formed tino cooling arbors, that which nothing can be more grateful in
                  warm climates. Both fruits are wholesome. The <ecda:flora>granadilla</ecda:flora> is commonly eat with
-                 sugar, on account of its tartness, and yet the pulp is viscid. <persName>Plumier</persName> calls it <distinct type="scientific" xml:lang="la">Granadilla,
+                 sugar, on account of its tartness, and yet the pulp is viscid. <persName ref="#charles_plumier_1646">Plumier</persName> calls it <distinct type="scientific" xml:lang="la">Granadilla,
                  latefolia, fructu maliformi</distinct>, It grows best in shady places. The unripe fruit makes an 
                  excellent pickle.
               </p>
@@ -3908,14 +3908,14 @@
                  <l>These, to small junks reduc'd, and in huge casks</l>
                  <l>Steept, where no cool winds blow; do thou ferment:—</l>
                  <l>Then, when from his entaglements inlarg'd</l>
-                 <l>Th' evasive spirit mounts; by <persName>Vulcan's</persName> aid,</l>
+                 <l>Th' evasive spirit mounts; by <persName ref="#vulcan_0001">Vulcan's</persName> aid,</l>
                  <l>(Nor <seg xml:id="a087" corresp="#n087">Amphitryte</seg> will her help deny,)</l>
                  <l>Do thou through all his winding ways pursue</l>
                  <l>The runaway; till in thy sparkling bowl</l>
                  <l>Confin'd he dances mor a friend to life,</l>
                  <l>And joy, than that <seg ana="#medical">Nepenthe</seg> fam'd of yore,</l> <!-- this is a mythological medicine? -->
-                 <l>Which <persName>Polydamna</persName>, Thone's imperial queen,</l>
-                 <l>Taught <persName>Jove</persName>-born <persName>Helen</persName> on the banks of <placeName>Nile</placeName>.</l>
+                 <l>Which <persName ref="#polydamna_0001">Polydamna</persName>, Thone's imperial queen,</l>
+                 <l>Taught <persName ref="#jupiter_0001">Jove</persName>-born <persName ref="#helen_of_troy_0001">Helen</persName> on the banks of <placeName>Nile</placeName>.</l>
               </lg>
               <lg>
                  <l>As on old ocean, when the wind blows high,</l>
@@ -3970,7 +3970,7 @@
               <lg>
                  <l>For not, even then, my friend, art thou secure</l>
                  <l>From fortune: spite of all thy steady care,</l>
-                 <l>What ills, that laugh to scorn <persName>Machaon's</persName> art,</l>
+                 <l>What ills, that laugh to scorn <persName ref="#machaon_0001">Machaon's</persName> art,</l>
                  
 <pb/>
 <fw type="pageNum">102</fw>
@@ -3995,7 +3995,7 @@
                  <l>Romantic, cool, with rocks and woods between,</l>
                  <l>Enchant the senses! but, among thy swains,</l>
                  <l>Sweet <placeName>Liamuiga</placeName>! who such bliss can boast?</l>
-                 <l>Yes, <persName>Romney</persName>, thou may'st boast; of <rs type="properAdjective">British</rs> heart,</l>
+                 <l>Yes, <persName ref="#charles_marsham_1744" cert="low">Romney</persName>, thou may'st boast; of <rs type="properAdjective">British</rs> heart,</l>
                  <l>Of courtly manners, join'd to antient worth:</l>
                  <l>Friend to thy <placeName>Britain'</placeName>s every blood earn'd right,</l>
                  
@@ -4016,7 +4016,7 @@
                  <l>Nor in the senate didst thou only win</l>
                  <l>The palm of eloquence, securely bold;</l>
                  <l>But rear'd'st thy banners, fluttering in the wind:</l>
-                 <l><persName>Kent</persName>, from each hamlet, pour'd her marshal'd swains,</l>
+                 <l><placeName>Kent</placeName>, from each hamlet, pour'd her marshal'd swains,</l>
                  <l>To hurl defiance on the threatening <placeName>Gaul</placeName>.</l>
               </lg>
               <lg>
@@ -4099,7 +4099,7 @@
 <fw type="pageNum">107</fw>
                  
                  <l>In silence lock it, sudden, and constrain'd,</l>
-                 <l>(Death to <persName>Xantippe</persName>,) with distorting pain.<milestone unit="unnumbered" xml:id="ana002"/></l>
+                 <l>(Death to <persName ref="#xanthippe_0001">Xantippe</persName>,) with distorting pain.<milestone unit="unnumbered" xml:id="ana002"/></l>
               </lg>
               <lg>
                  <l>Nor is it not effectual: But wouldst thou</l>
@@ -4157,7 +4157,7 @@
               
               <lg>
                  <l>The fam'd <placeName>Bermuda's</placeName> ever-healthy isles,</l>
-                 <l>More fam'd by gentle <persName>Waller's</persName> deathless strains,</l>
+                 <l>More fam'd by gentle <persName ref="#edmund_waller_1606">Waller's</persName> deathless strains,</l>
                  <l>Than for their cedars, which, insulting, fly</l>
                  <l>O'er the wide ocean; 'mid their rocks contain</l>
                  <l>A stone, which, when calcin'd, (experience says,)</l>
@@ -4363,7 +4363,7 @@
 <pb xml:id="pb18" corresp="#pbn18"/>
 <fw type="pageNum">117</fw>
                  
-                 <l>A double <persName>Iris</persName> throws her painted arch,</l>
+                 <l>A double <persName ref="#iris_0001">Iris</persName> throws her painted arch,</l>
                  <l>Shows commerce toiling in each crowded street,</l>
                  <l>And each throng'd street with limpid currents lav'd.</l>
               </lg>
@@ -4377,7 +4377,7 @@
                  <l>Here leave his couch, high-towering, do descry,</l>
                  <l>The approach of dawn, and hail her with his song:</l>
                  <l>Yet not unmusical the tinkling lapse</l>
-                 <l>Of yon cool argent rill, which <persName>Phœbus</persName> gilds</l>
+                 <l>Of yon cool argent rill, which <persName ref="#apollo_0001">Phœbus</persName> gilds</l>
                  <l>With his first orient rays; yet musical,</l>
                  <l>Those buxom airs that through the <ecda:flora>plantanes</ecda:flora> play,</l>
                  <l>And tear with wantonness their leafy scrolls;</l>
@@ -4412,7 +4412,7 @@
               </lg>
               <lg>
                  <l>Does martial ardour fire your generous veins?</l>
-                 <l>Fly to your native isles: <persName>Bellona</persName>, there,</l>
+                 <l>Fly to your native isles: <persName ref="#bellona_0001">Bellona</persName>, there,</l>
                  <l>Hath long time rear'd her bloody flag; these isles</l>
                  <l>Your strenuous arms demand; for ye are brave!</l>
                  <l>Nor longer to the lute and taber's sound</l>
@@ -4429,7 +4429,7 @@
                  <l>All emulous, to Freedom's standard fly,</l>
                  <l>And drive invasion from their native shore:</l>
                  <l>How would my soul exult with consious pride;</l>
-                 <l>Nor grudge those wreaths <persName>Tyrtæus</persName> gain'd of yore.</l>
+                 <l>Nor grudge those wreaths <persName ref="#tyrtaeus_0001">Tyrtæus</persName> gain'd of yore.</l>
               </lg>
               <lg>
                  <l>Or are ye fond of rich luxurious cates?—</l>
@@ -4730,7 +4730,7 @@
               <lg>
                  <l><milestone unit="unnumbered" ana="#disease #medical" spanTo="#ana003"/>Would'st thou secure thine <name>Ethiop</name> from those ails,</l>
                  <l>Which change of climate, charge of waters breed,</l>
-                 <l>And food unusual? let <persName>Machaon</persName> draw</l>
+                 <l>And food unusual? let <persName ref="machaon_0001">Machaon</persName> draw</l>
                  <l>From each some blood, as age and sex require;</l>
                  <l>And well with vervain, well with sempre-vive,</l>
                  <l>Unload their bowels.—These, in every hedge,</l>
@@ -5027,8 +5027,8 @@
                  <l>(Led on by skill of the penetrative soul)</l>
                  <l>Her following close, her secret treasures find,</l>
                  <l>To pour them plenteous on the laughing world.</l>
-                 <l>On thee <persName>Sylvanus</persName>, thee each rurall god,</l>
-                 <l>On thee chief <persName>Ceres</persName>, with unfailing love</l>
+                 <l>On thee <persName ref="#silvanus_0001">Sylvanus</persName>, thee each rurall god,</l>
+                 <l>On thee chief <persName ref="#ceres_0001">Ceres</persName>, with unfailing love</l>
                  <l>And fond distinction, emulously gaze.</l>
                  <l>In vain hath nature pour'd vast seas between</l>
                  <l>Far-distant kingdoms; endless storms in vain</l>
@@ -5045,8 +5045,8 @@
                  <l>Acknowledged now sole empress of the main.</l>
                  <l>Coy though thou art, and mutable of love,</l>
                  <l>There may's thou ever fix thy wandering steps;</l>
-                 <l>While <persName>Eurus</persName> rules the wide atlantic foam!</l>
-                 <l>By thee, thy favourite, great <persName>Columbus</persName> found</l>
+                 <l>While <persName ref="#eurus_0001">Eurus</persName> rules the wide atlantic foam!</l>
+                 <l>By thee, thy favourite, great <persName ref="#christopher_columbus_1450">Columbus</persName> found</l>
                  <l>That world, where now thy praises I rehearse</l>
                  <l>To the resounding main and palmy shore;</l>
                  <l>And <placeName>Lusitania's</placeName> chiefs those realms explor'd.</l>
@@ -5112,7 +5112,7 @@
               </lg>
               <milestone unit="unnumbered" xml:id="ana004"/>
               <lg>
-                 <l>'Till morning dawn, and <persName>Lucifer</persName> withdraw</l>
+                 <l>'Till morning dawn, and <persName ref="#lucifer_0001">Lucifer</persName> withdraw</l>
                  <l>His beamy chariot; let not the loud bell</l>
                  
 <pb/>
@@ -5236,8 +5236,8 @@
                  <l>Beyond what bloom'd on blest <rs type="place">Phæacia's isle</rs>,</l>
                  <l>Or easter climes admir'd in days of yore:</l>
                  <l>How <placeName>Europe's</placeName> foodful, culinary plants;</l>
-                 <l>How gay <persName>Pomona's</persName> ruby-tinctured births;</l>
-                 <l>And gawdy <persName>Flora's</persName> various-vested train;</l>
+                 <l>How gay <persName ref="#pomona_0001">Pomona's</persName> ruby-tinctured births;</l>
+                 <l>And gawdy <persName ref="#flora_0001">Flora's</persName> various-vested train;</l>
                  <l>Might be instructed to unlearn their clime,</l>
                  <l>And by due discipline adopt the sun.</l>
                  <l>The muse might tell what culture will entice</l>
@@ -5276,8 +5276,8 @@
                  <l>Thy fragrant shade to beautify the scene.</l>
                  <l>But, chief of palms, and pride of Indian-groves,</l>
                  <l>Thee, fair <seg xml:id="a128" corresp="#n128">palmeto</seg>, should her song resound:</l>
-                 <l>What swelling columns, form'd by <persName>Jones</persName> or <persName>Wren</persName>,</l>
-                 <l>Or great <persName>Palladio</persName>, may with thee compare?</l>
+                 <l>What swelling columns, form'd by <persName ref="#inigo_jones_1573">Jones</persName> or <persName ref="#christopher_wren_1632">Wren</persName>,</l>
+                 <l>Or great <persName ref="#andrea_palladio_1508">Palladio</persName>, may with thee compare?</l>
                  <l>Not nice-proportion'd, but of size immense,</l>
                  <l>Sweels the wild fig-tree, and should claim her lay:</l>
                  <l>For, from its numerous bearded twigs proceed</l>
@@ -5415,7 +5415,7 @@
                  <l>Invented cherish'd in his native realm;</l>
                  <l>For rapine punish'd; for grim famine fed;</l>
                  <l>For sly chicane expell'd the wrangling bar;</l>
-                 <l>And rightfull <persName>Themis</persName> seated on her throne:</l>
+                 <l>And rightfull <persName ref="#themis_0001">Themis</persName> seated on her throne:</l>
                  <l>But chief, for those mild laws his wisdom fram'd,</l>
                  <l>To guard the <name>Æthiop</name> from tyrannic sway!</l>
               </lg>
@@ -5439,7 +5439,7 @@
                  <l>Delighted Commerce broods upon thy wave;</l>
                  <l>And every quarter of this sea-girt globe</l>
                  <l>To thee due tribute pays; but chief the world</l>
-                 <l>By great <persName>Columbus</persName> found, where now the muse</l>
+                 <l>By great <persName ref="#christopher_columbus_1450">Columbus</persName> found, where now the muse</l>
                  <l>Beholds, transported, slow vast fleecy clouds,</l>
                  <l>Alps pil'd on <placeName>Alps</placeName> romantically high,</l>
                  <l>Which charm the sight with many a pleasing form.</l>
@@ -5462,7 +5462,7 @@
                  <l>Imperfect swim!—See! in that flaming scroll,</l>
                  <l>Which Time unfolds, the future germs bud forth,</l>
                  <l>Of mighty empires! independent realms!—</l>
-                 <l>And must Brittania, <persName>Neptune's</persName> favourite queen,</l>
+                 <l>And must Brittania, <persName ref="#neptune_0001">Neptune's</persName> favourite queen,</l>
                  <l>Protect'ress of true science, freedom, arts;</l>
                  <l>Must she, ah! must she, to her offspring crouch?</l>
                  <l>Ah, must my <placeName>Thames</placeName>, old Ocean's favourite son,</l>
@@ -5488,7 +5488,7 @@
                  <l>From vanquish'd foes.—And, see, another race!</l>
                  <l>A golden æra dazzles my fond sight!</l>
                  <l>That other race, that long'd for æra, hail!</l>
-                 <l rend="smallcaps">The British <persName>George</persName> now reigns, the Patriot King!</l>
+                 <l rend="smallcaps">The British <persName ref="#george_III_uk_1738">George</persName> now reigns, the Patriot King!</l>
                  <l rend="smallcaps"><placeName>Britain</placeName> shall ever triumph o'er the main.</l>
               </lg>
            </div>

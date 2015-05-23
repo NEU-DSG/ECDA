@@ -79,7 +79,7 @@
               <bibl><author><persName ref="#george_glas_1725">Glass's</persName></author> <title>History of the <placeName>Canary Islands</placeName></title>, p. 275, anno <date when="1764">1764</date>.</bibl>
            </note>
            <note xml:id="n009" target="#a009">
-              <bibl>P. 275, <edition>edit. <persName>Goezii</persName>, <date when="1777">1777</date></edition>.</bibl>
+              <bibl>P. 275, <edition>edit. <persName ref="#georg_heinrich_gotze_1667">Goezii</persName>, <date when="1777">1777</date></edition>.</bibl>
            </note>
            <note xml:id="n010" target="#a010">
               <p><placeName><distinct type="dialect">Madiera</distinct></placeName>. <quote><distinct type="dialect" xml:lang="la">Nomen factum est à Lat. <distinct>materia</distinct> quâ tam in
@@ -203,7 +203,7 @@
               conducting the process in the way recommended by <persName ref="#torbern_bergman_1735">professor
               Bergman</persName>, that these astringent bodies contain the acid of sugar
               in greater abundance than the substance from which it derives
-              its name. <persName>Mr. Schrikel</persName> obtained an acid from galls by distillation,
+              its name. <persName ref="#johann_schrickel_1547">Mr. Schrikel</persName> obtained an acid from galls by distillation,
               but very diffferent from <persName ref="#torbern_bergman_1735">Bergman's</persName>; as may bee seen in
               <persName ref="#carl_wilhelm_scheele_1742">Scheel's</persName> essays. To obtain acid of sugar, without vital air, or
               nitrous acid, would be a fact of great importance in the present
@@ -312,7 +312,7 @@
               </p>
            </note>
            <note xml:id="n058" target="#a058"><p><quote xml:lang="la" rend="quotes">Si perquam parce ultima mnas devoretur, concoctionem juvat, satietam
-              tollit.</quote> <bibl><author><persName>Alex. Petrionius</persName></author>, <title>De Victu Romanorum</title>, p. 328.</bibl>
+              tollit.</quote> <bibl><author><persName ref="#alessandro_petronio_0001">Alex. Petronius</persName></author>, <title>De Victu Romanorum</title>, p. 328.</bibl>
               </p>
            </note>
            <note xml:id="n059" target="#a059">
@@ -390,7 +390,7 @@
               <bibl><title rend="italic">Syphilis</title>, p. 5</bibl>
            </note>
            <note xml:id="n076" target="#a076">
-              <bibl><title rend="italic">Opera Universa</title>, p. 327, ed. <persName rend="italic">Lugd. Batav.</persName>, <date when="1741">1741</date>. N.B. written
+              <bibl><title rend="italic">Opera Universa</title>, p. 327, ed. <placeName ref="#leiden" rend="italic">Lugd. Batav.</placeName>, <date when="1741">1741</date>. N.B. written
               anno <date when="1679">1679</date>.</bibl>
            </note>
            <note xml:id="n077" target="#a077">
@@ -443,6 +443,8 @@
               <bibl><author><persName ref="#pliny_0023">Plin.</persName></author> lib. XXVI. c. 1.</bibl>
            </note>
         </ecda:notes>
+        <div type="undetermined" subtype="personography">
+        </div>
      </ecda:hyperDiv>
      <front>
         <titleBlock>
@@ -703,7 +705,7 @@
                </p>
          </div>
          <div type="subsection">
-            <p><persName rend="smallcaps">Dionysius Afer</persName> (anno 3. Ær. Chr. <hi rend="smallcaps">Sax</hi>.
+            <p><persName rend="smallcaps" ref="#dionysius_periegetes_0001" cert="medium">Dionysius Afer</persName> (anno 3. Ær. Chr. <hi rend="smallcaps">Sax</hi>.
                <hi rend="slant(italics)"><unclear>Onemast</unclear>.)</hi> mentions that the <name>Indians</name> drink the 
                juice of the <unclear>Ερ[<!-- missing char. -->]θραιος καλαμος</unclear>, or <rs type="properAdjective">Indian</rs> cane<anchor xml:id="a004" corresp="#n004"/> 
             </p>
@@ -1133,7 +1135,7 @@
                grows hard and white in nine or ten days.
                When they refine it, they put a little water
                into the cauldron, to dissolve it the better.</quote>
-               <bibl><title><persName rend="smallcaps">Ray's</persName> Travels</title>, ed. <date when="1737">1737</date>, vol. I. p. 409.</bibl>
+               <bibl><title><persName rend="smallcaps" ref="#john_ray_1627">Ray's</persName> Travels</title>, ed. <date when="1737">1737</date>, vol. I. p. 409.</bibl>
             </p>
             <p>From <placeName>Valencia</placeName>, the cultivation of the <ecda:commodity>su-
                gar cane</ecda:commodity>, and the manufacture of <ecda:commodity>sugar</ecda:commodity>, were
@@ -1349,7 +1351,7 @@
             <p><persName>Francis Ximenes</persName>, in his treatise on the
                plants of <placeName>America</placeName>, says the sugar cane grows
                spontaneously near the <placeName>Rio della Plata</placeName>; this is
-               also asserted by <persName>Hernandes</persName> and <persName ref="#willem_piso_1611">Piso</persName>. This
+               also asserted by <persName ref="#francisco_hernandez_de_toledo_1514">Hernandes</persName> and <persName ref="#willem_piso_1611">Piso</persName>. This
                river was discovered in <date when="1515">1515</date> by <persName ref="#juan_diaz_de_solis_1470">John Dias de
                Solis</persName>,a <name>Spaniard</name>; and the country about it
                conquered by <persName ref="#pedro_de_mendoza_1487">Pedro de Mendoza</persName>, in <date when="1535">1535</date>.
@@ -1707,7 +1709,7 @@
                revenue of these islands, so much are men
                given to sweet things</p>
             </quote>
-            <p><persName>Thomas Gave</persName>, who went to <placeName>New Spain</placeName> in
+            <p><persName ref="#thomas_gage_1597">Thomas Gave</persName>, who went to <placeName>New Spain</placeName> in
                <date when="1625">1625</date>, says (p.236), in the voyage the <rs type="properAdjective">Spanish</rs>
                
                <pb/>
@@ -1731,7 +1733,7 @@
                possessed it. The sugar cane, consequently,
                was the natural production of <rs type="place">that Island</rs>.
             </p>
-            <p><persName>Gage</persName> says, <bibl>cap. 15</bibl>, <quote rend="quotes">two or three leauges
+            <p><persName ref="#gage_thomas_1597">Gage</persName> says, <bibl>cap. 15</bibl>, <quote rend="quotes">two or three leauges
                from the <rs type="properAdjective">Indian</rs> town of <placeName>Chipapa</placeName> there are (in
                <date when="1626">1626</date>) two Igenios or Farms of sugar, one
                belonging to the cloister of the <name>Dominicans</name> of
@@ -1780,7 +1782,7 @@
                <pb/>
                <fw type="pageNum">38</fw>
                
-               shall now add some particulars from <persName>Ligon</persName>,
+               shall now add some particulars from <persName ref="#richard_ligon_1585">Ligon</persName>,
                which will illustrate the subject in a very
                satisfactory manner.
             </p>
@@ -2828,7 +2830,7 @@
                </p>
                <p>This shews how much <persName>Wotton</persName> was
                   mistaken, when he asserted that <quote rend="quotes">all the arts
-                  and methods of preparing sugar, which ahve made 
+                  and methods of preparing sugar, which have made 
                   it so very useful to human life, are owing to
                   the modern <name>Portuguese</name> and <name>English</name><anchor xml:id="a020" corresp="#n020"/>.</quote>
                </p>
@@ -2844,7 +2846,7 @@
                <pb/>
                <fw type="pageNum">72</fw>
                
-               <p><persName>Doctor Campbell</persName> was likewise erroneous
+               <p><persName ref="john_campbell_1708">Doctor Campbell</persName> was likewise erroneous
                   when he asserted, that <quote rend="quotes">the sugar canes were
                   certainly known to the ancients, thought what
                   we call sugar was not; for, manufacturing
@@ -3165,7 +3167,7 @@
                   it is in substance like salt, and brittle between 
                   the teeth like salt.
                </p>
-               <p>From <persName>Aben Mesuai</persName>, he says, <quote rend="prequotes" xml:id="q012" next="#q013" ana="#medical">it opens the
+               <p>From <persName ref="#masawaiyh_0777" cert="medium">Aben Mesuai</persName>, he says, <quote rend="prequotes" xml:id="q012" next="#q013" ana="#medical">it opens the
                   bowels, strengthens the stomach and cleanses
                   it, particularly from bile; which it expels by
                   its abstersive property. The white sort is not
@@ -3234,7 +3236,7 @@
                   their mistresses to it.</quote>
                   <bibl>De Temperament. Simpl. cap. 50.</bibl>
                </p>
-               <p><persName ref="#yahya_ibn_sarafyun_0001 #serapion_the_younger_0001">Serapion</persName> has a chapter also from <persName>Aben
+               <p><persName ref="#yahya_ibn_sarafyun_0001 #serapion_the_younger_0001">Serapion</persName> has a chapter also from <persName ref="#masawaiyh_0777" cert="medium">Aben
                   Mesuai</persName>, on the <distinct type="dialect">pinidii</distinct>, before mentioned, by
                   <persName ref="#avicenna_0980">Avicenna</persName>, and <persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhases</persName>. It is verbatim from
                   <persName ref="#avicenna_0980">Avicenna</persName>.
@@ -3257,7 +3259,7 @@
                </p>
                <p>The opinions of these physicians were
                   adopted, in the infancy of sugar in <placeName>England</placeName>,
-                  by <persName>Mr. Ray</persName>; and the sentiments of these four
+                  by <persName ref="john_ray_1627">Mr. Ray</persName>; and the sentiments of these four
                   authors have been disseminated in every part
                   of <placeName>Europe</placeName>.
                </p>
@@ -3506,7 +3508,7 @@
                   of the increasing scurvy may not rather be
                   derived from thence.</quote>
                </p>
-               <p><persName>Ray</persName> says,—
+               <p><persName ref="john_ray_1627">Ray</persName> says,—
                   <quote xml:lang="la">Antiquiores medici, qui superiore seculo vixerunt,
                   unanimi fere consensu saccharum ad pectoris &amp;
                   pulmonum vitia, rancedinem, tussium gutturis asperitatem,
@@ -3623,7 +3625,7 @@
                   speak of scurvy aquired by local and particular
                   causes.
                </p>
-               <p>It is incredible that <persName ref="#thomas_willis_1621">Willis</persName> and <persName>Ray</persName>, two
+               <p>It is incredible that <persName ref="#thomas_willis_1621">Willis</persName> and <persName ref="john_ray_1627">Ray</persName>, two
                   well-informed men, should not know that the 
                   description of people most afflicted with the
                   scurvy, at all times, and in every country, is
@@ -3631,7 +3633,7 @@
                </p>
                <p>It is not less extraordinary that the learned
                   <persName ref="#thomas_willis_1621">Willis</persName> should refer to so superficial an authority
-                  as <persName ref="#theophilius_de_garencieres_1610">Garencieres</persName>; or the laborious <persName>Ray</persName>,
+                  as <persName ref="#theophilius_de_garencieres_1610">Garencieres</persName>; or the laborious <persName ref="john_ray_1627">Ray</persName>,
                   to the weak effusions of <persName ref="#simon_paulli_1603">Simon Paulli</persName>.
                </p>
                <p>The rhapsody of <persName ref="#theophilius_de_garencieres_1610">Garencieres</persName> is entirely
@@ -3767,7 +3769,7 @@
                   it will not suffer the humours, nor the 
                   food, in the body to putrify.</quote>
                </p>
-               <p><persName>Pomet</persName> says, <quote rend="quotes">The white and red sugar-
+               <p><persName ref="#pierre_pomet_1658">Pomet</persName> says, <quote rend="quotes">The white and red sugar-
                   candy are better for rheums, coughs, cold,
                   catarrhs, asthmas, wheezings, than common
                   sugar; because, being harder, they take longer
@@ -3784,7 +3786,7 @@
                   causes vapours. <bibl>Traité Universel des Drogues
                   Simples, anno 1693,</bibl>
                </p>
-               <p><persName>Hermann</persName> says, <quote rend="prequotes" xml:id="q043" next="#q044">Sugar consists of a sweet
+               <p><persName ref="#paul_hermann_1646">Hermann</persName> says, <quote rend="prequotes" xml:id="q043" next="#q044">Sugar consists of a sweet
                   soft mucilage, and an agreeable sharpness;
                   from whence it becomes and aliment as well as
                   a medicine. The <name>Indians</name> boil it in water with
@@ -3909,9 +3911,9 @@
                   of sugar may be properly opposed to the
                   unqualified censures bestowed on it by <persName ref="#theophilius_de_garencieres_1610">Garencieres</persName>
                   and <persName ref="#thomas_willis_1621">Willis</persName>. Neither must honest old
-                  <persName>Ligon</persName> be forgotten.
+                  <persName ref="richard_ligon_1585">Ligon</persName> be forgotten.
                </p>
-               <p><quote rend="quotes">Sugar,</quote> says <persName>Ligon</persName>, <quote rend="quote" xml:id="q056" next="#q057"> has a faculty to
+               <p><quote rend="quotes">Sugar,</quote> says <persName ref="richard_ligon_1585">Ligon</persName>, <quote rend="quote" xml:id="q056" next="#q057"> has a faculty to
                   preserve all fruits that grow in the world from
                   corruption and putrefaction; so it has a virtue,
                   being rightly applied, to preserve us men in
@@ -4058,7 +4060,7 @@
                   has not escaped that scrutiny, which the
                   magnitude of such a subject demanded.
                </p>
-               <p>The renowned <persName>Bergman</persName> gives us the 
+               <p>The renowned <persName ref="#torbern_bergman_1735">Bergman</persName> gives us the 
                   following new and interesting observations:
                </p>
                <quote>
@@ -4398,7 +4400,7 @@
                <quote>
                   <p>The maple, the birch, the red beet, the
                      parsnip, the grape, wheat, &amp;c. contain it.
-                     <persName>Margraff</persName> extracted it from most vegetables.
+                     <persName ref="#georg_marcgrave_1610">Margraff</persName> extracted it from most vegetables.
                      The petals of many flowers, and the necatriums
                      placed in these organs, elaborate a
                      principle of this kind.
@@ -4428,7 +4430,7 @@
                      syrup. Syrup diluted with water is capable
                      of fermentation, and affords ardent spirit.
                   </p>
-                  <p><persName>Bergman</persName> has obtained, from all saccharine
+                  <p><persName ref="#torbern_bergman_1735">Bergman</persName> has obtained, from all saccharine
                      matters, especially sugar, an acid of peculiar
                      nature.
                   </p>
@@ -4451,7 +4453,7 @@
                      by the action of spirit of nitre, are such as do
                      not afford sugar.
                   </p>
-                  <p>Pure sugar did not afford <persName>Bergman</persName> more
+                  <p>Pure sugar did not afford <persName ref="#torbern_bergman_1735">Bergman</persName> more
                      than one third of its weight of acid; and <persName ref="#claude_louis_berthollet_1748">M.
                      Berthollet</persName> obtained more than half, from
                      wool.
@@ -4464,7 +4466,7 @@
                      acid is improper.
                   </p>
                   <p><persName ref="#carl_wilhelm_scheele_1742">Scheele</persName> has observed that the acid of lemons,
-                     chrystallized by the process described by <persName>Bergman</persName>,
+                     chrystallized by the process described by <persName ref="#torbern_bergman_1735">Bergman</persName>,
                      does not afford saccharine acid by
                      treatment with nitrous acid; though lemon
                      juice itself affords it. The vitriolic acid, 
@@ -6342,16 +6344,16 @@
                   <pb/>
                   <fw type="pageNum">176</fw>
                   
-                  <name>negroes</name>, named <persName>Quashee</persName> and <persName>Sam</persName> (<persName>Sam</persName>
+                  <name>negroes</name>, named <persName ref="#james_reeder_mos_0001">Quashee</persName> and <persName ref="#sam_mos_0001">Sam</persName> (<persName ref="#sam_mos_0001">Sam</persName>
                   was <persName>Captain Davy's</persName> son. he who shot a
                   <persName>Mr. Thompson</persName>, the master of a <rs type="properAdjective">London</rs> ship,
                   at <placeName>Old Harbour</placeName>), both of <placeName>Scots Hall Maroon
                   Town</placeName>, with a <ecda:persGroup>party of their townsmen</ecda:persGroup>, went
                   in search of him.
                </p>
-               <p><persName>Quashee</persName>, before he set out on the expedition, 
+               <p><persName ref="#james_reeder_mos_0001">Quashee</persName>, before he set out on the expedition, 
                   got himself christianed, and changed his
-                  name to <persName>James Reeder</persName>.
+                  name to <persName ref="#james_reeder_mos_0001">James Reeder</persName>.
                </p>
                <p>The expedition commenced; and the whole
                   party had been creeping about in the woods,
@@ -6360,7 +6362,7 @@
                   the island, where <persName ref="#three_fingered_jack_0001">Jack</persName>, far remote from all
                   human society, resided,—but in vain.
                </p>
-               <p><persName>Reeder</persName> and <persName>Sam</persName>, tired with this mode of
+               <p><persName ref="#james_reeder_mos_0001">Reeder</persName> and <persName ref="#sam_mos_0001">Sam</persName>, tired with this mode of
                   war, resolved on proceeding in search of his
                   retreat; and taking him, by storming it, or
                   perishing in the attempt.
@@ -6394,19 +6396,19 @@
                <p><persName ref="#three_fingered_jack_0001">Jack's</persName> looks were fierce and terrible. He 
                   told them he would kill them.
                </p>
-               <p><persName>Reeder</persName>, instad of shooting <persName ref="#three_fingered_jack_0001">Jack</persName>, replied,
+               <p><persName ref="#james_reeder_mos_0001">Reeder</persName>, instad of shooting <persName ref="#three_fingered_jack_0001">Jack</persName>, replied,
                   that his <name>Obi</name> had no power to hurt him; for
                   he was christianed; and that his name was no
-                  longer <persName>Quashee</persName>.
+                  longer <persName ref="#james_reeder_mos_0001">Quashee</persName>.
                </p>
-               <p><persName ref="#three_fingered_jack_0001">Jack</persName> knew <persName>Reeder</persName>; and as if paralysed,
+               <p><persName ref="#three_fingered_jack_0001">Jack</persName> knew <persName ref="#james_reeder_mos_0001">Reeder</persName>; and as if paralysed,
                   he let is two guns remain on the ground, and took up only his cutlass.
                </p>
                <p>These two had a desperate engagement
                   several years before, in the woods; in which
                   conflict <persName ref="#three_fingered_jack_0001">Jack</persName> lost the two fingers, which was
                   the origin of his present name; but <persName ref="#three_fingered_jack_0001">Jack</persName> then
-                  beat <persName>Reeder</persName>, and almost killed him with
+                  beat <persName ref="#james_reeder_mos_0001">Reeder</persName>, and almost killed him with
                   
                   <pb/>
                   <fw type="pageNum">178</fw>
@@ -6415,7 +6417,7 @@
                   from <persName ref="#three_fingered_jack_0001">Jack</persName>.
                </p>
                <p>To do <persName ref="#three_fingered_jack_0001">Three fingered Jack</persName> justice, he would
-                  now have killed both <persName>Reeder</persName> and <persName>Sam</persName>; for,
+                  now have killed both <persName ref="#james_reeder_mos_0001">Reeder</persName> and <persName ref="#sam_mos_0001">Sam</persName>; for,
                   at first, they were frightened at the sight of
                   him, and the dreadful tone of his voice; and
                   well they might: they had been besides no retreat,
@@ -6426,14 +6428,14 @@
                   that <emph>white</emph> Obi would get the better of 
                   him; and, from experience, he knew the
                   charm would lose none of its strength in the
-                  hands of <persName>Reeder</persName>.
+                  hands of <persName ref="#james_reeder_mos_0001">Reeder</persName>.
                </p>
                <p>Without further parley, <persName ref="#three_fingered_jack_0001">Jack</persName>, with his
                   cutlass in hand, threw himself down a precipice
                   at the back of the cave.
                </p>
-               <p><persName>Reeder's</persName> gun missed fire. <persName>Sam</persName> shot him
-                  in the shoulder. <persName>Reeder</persName>, like an <rs type="properAdjective">English</rs>
+               <p><persName ref="#james_reeder_mos_0001">Reeder's</persName> gun missed fire. <persName ref="#sam_mos_0001">Sam</persName> shot him
+                  in the shoulder. <persName ref="#james_reeder_mos_0001">Reeder</persName>, like an <rs type="properAdjective">English</rs>
                   bull-dog, never looked, but, with is cutlass 
                   in his hand, plunged headlong down after
                   <persName ref="#three_fingered_jack_0001">Jack</persName>. The descent was about thirty yards,
@@ -6453,31 +6455,31 @@
                   top of the precipice, and during the fight,
                   shot <persName ref="#three_fingered_jack_0001">Jack</persName> in the belly.
                </p>
-               <p><persName>Sam</persName> was crafty, and coolly took a round
+               <p><persName ref="#sam_mos_0001">Sam</persName> was crafty, and coolly took a round
                   about way to get to the field of action. When
                   he arrived at the spot where it began, <persName ref="#three_fingered_jack_0001">Jack</persName>
-                  and <persName>Reeder</persName> had closed, and tumbled together
+                  and <persName ref="#james_reeder_mos_0001">Reeder</persName> had closed, and tumbled together
                   down another precipice, on the side of the 
                   mountain, in which fall they both lost their 
                   weapons.
                </p>
-               <p><persName>Sam</persName> descended after them, who also lost his
+               <p><persName ref="#sam_mos_0001">Sam</persName> descended after them, who also lost his
                   cutlass, among the trees and bushes in getting
                   down.
                </p>
                <p>When he came to them, though without
                   weapons, they were not idle; and, luckily for
-                  <persName>Reeder</persName>, <persName ref="#three_fingered_jack_0001">Jack's</persName> wounds were deep and
+                  <persName ref="#james_reeder_mos_0001">Reeder</persName>, <persName ref="#three_fingered_jack_0001">Jack's</persName> wounds were deep and
                   desperate, and he was in great agony.
                </p>
-               <p><persName>Sam</persName> came up just time enough to save
-                  <persName>Reeder</persName>; for, <persName ref="#three_fingered_jack_0001">Jack</persName> had caught him by the
-                  throat, with his giant's grasp. <persName>Reeder</persName> then
+               <p><persName ref="#sam_mos_0001">Sam</persName> came up just time enough to save
+                  <persName ref="#james_reeder_mos_0001">Reeder</persName>; for, <persName ref="#three_fingered_jack_0001">Jack</persName> had caught him by the
+                  throat, with his giant's grasp. <persName ref="#james_reeder_mos_0001">Reeder</persName> then
                   was with his right hand almost cut off, an
                   <persName ref="#three_fingered_jack_0001">Jack</persName> streaming with blood from his shoulder
                   and belly; both covered with gore and gashes.
                </p>
-               <p>In this state <persName>Sam</persName> was umpire; and decided
+               <p>In this state <persName ref="#sam_mos_0001">Sam</persName> was umpire; and decided
                   the fate of the battle. He knocked <persName ref="#three_fingered_jack_0001">Jack</persName>
                   down with a piece of a rock.
                </p>
