@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../out/ecda.odd.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ecda="http://dsg.northeastern.edu/ecda/ns/1.0">
+ <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>NARRATIVE OF LOUIS ASA-ASA, A CAPTURED AFRICAN.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+     <ecda:hyperDiv>
+        <ecda:notes>
+           <note type="ecda">
+              <interpGrp type="commType">
+                 <interp xml:id="flora">plants (flora)</interp>
+                 <interp xml:id="fauna">animals (fauna)</interp>
+                 <interp xml:id="food">food and other consumable items (incl. drinks, seasonings, etc.)</interp>
+                 <interp xml:id="medical">medical or medicinal items (including references to folk medicine)</interp>
+                 <interp xml:id="textile">sartorial and textile references</interp>
+                 <interp xml:id="currency">references to money or currency</interp>
+              </interpGrp>
+              <interpGrp type="productionPhase">
+                 <interp xml:id="plant">planting</interp>
+                 <interp xml:id="cultivation">cultivation</interp>
+                 <interp xml:id="harvest">harvesting</interp>
+                 <interp xml:id="refine">refining</interp>
+                 <interp xml:id="production">production (non plant-based commodities)</interp>
+                 <interp xml:id="transport">transport</interp>
+                 <interp xml:id="sale">sale</interp>
+                 <interp xml:id="circulation">circulation of commodities, such as through gift-giving or theft</interp>
+                 <interp xml:id="use">use of commodities</interp>
+              </interpGrp>
+              <interpGrp>
+                 <interp xml:id="punishment">References to scenes of punishment or the enforcement of colonial rule</interp>
+                 <interp xml:id="military">References to the material conditions, social institutions or actual events of warfare</interp>
+                 <interp xml:id="abolition">References to the abolition of slavery or abolitionist movement</interp>
+                 <interp xml:id="disease">References to ailment and disease, specifically in people</interp>
+                 <interp xml:id="poison">References to poison</interp>
+                 <interp xml:id="obeah">References to Obeah</interp>
+                 <interp xml:id="performance">References to performance (esp. John Canoe)</interp>
+              </interpGrp>
+          </note>
+        </ecda:notes>
+     </ecda:hyperDiv>
+     
+     
+     <front>
+        <titleBlock>
+           <docTitle>
+              <titlePart></titlePart>
+           </docTitle>
+           
+        </titleBlock>
+     </front>
+     
+      <body>
+         <div>
+          <p>The following interesting narrative is a convenient supplement to the history of <persName ref="#mary_prince">Mary
+             Prince</persName>. It is given, like hers, as nearly as possible in the narrator’s words, with only
+               so much correction as was necessary to connect the story, and render it grammatical. The
+               concluding passage in inverted commas, is entirely his own. While <rs type="person" ref="#mary_prince">Mary’s</rs> narrative
+               shews the disgusting character of colonial slavery, this little tale explains with equal
+               force the horrors in which it originates.</p>
+            <p>It is necessary to explain that <persName ref="#louis_asaasa">Louis</persName> came to this country about five years ago, in a
+               French vessel called the <ecda:shipName>Pearl</ecda:shipName>. She had lost her reckoning, and was driven by stress of
+               weather into the port of <placeName>St. Ives</placeName>, in <placeName>Cornwall</placeName>. <persName ref="#louis_asaasa">Louis</persName> and his <ecda:persGroup>four companions</ecda:persGroup> were
+               brought to <placeName>London</placeName> upon a writ of Habeas Corpus at the instance of <persName ref="#george_stephen">Mr. George Stephen</persName>;
+               and, after some trifling opposition on the part of the <ecda:anonPers>master of the vessel</ecda:anonPers>, were
+               discharged by <persName ref="#lord_wynford">Lord Wynford</persName>. <ecda:persGroup>Two of his unfortunate fellow-sufferers</ecda:persGroup> died of the measles
+               at Hampstead; the other two returned to <placeName>Sierra Leone</placeName>; but poor <persName ref="#louis_asaasa">Louis</persName>, when offered the
+               choice of going back to <placeName>Africa</placeName>, replied, "<said aloud="true" direct="true">Me no father, no mother now; me stay with
+               you.</said>" And here he has ever since remained; conducting himself in a way to gain the good
+               will and respect of all who know him. He is remarkably intelligent, understands our
+               language perfectly, and can read and write well. The last sentences of the following
+               narrative will seem almost too peculiar to be his own; but it is not the first time that
+               in conversation with <persName ref="#george_stephen">Mr. George Stephen</persName>, he has made similar remarks. On one occasion in
+               particular, he was heard saying to himself in the kitchen, while sitting by the fire
+               apparently in deep thought, "<said aloud="true" direct="true">Me think,—me think——</said>" <ecda:anonPers>A fellow-servant</ecda:anonPers> inquired what he
+               meant; and he added, "<said aloud="true" direct="true">Me think what a good thing I came to <placeName>England</placeName>! Here, I know what
+               God is, and read my Bible; in my country they have no God, no Bible.</said>”</p>
+            <p>How severe and just a reproof to the guilty wretches who visit his country only with
+               fire and sword! How deserved a censure upon the not less guilty men, who dare to
+               vindicate the state of slavery, on the lying pretext, that its victims are of an
+               inferior nature! And scarcely less deserving of reprobation are those who have it in
+               their power to prevent these crimes, but who remain inactive from indifference, or are
+               dissuaded from throwing the shield of British power over the victim of oppression, by
+               the sophistry, and the clamour, and the avarice of the oppressor. It is the reproach and
+               the sin of England. May God avert from our country the ruin which this national guilt
+               deserves!</p>
+            <p>We lament to add, that the <ecda:shipName>Pearl</ecda:shipName> which brought <ecda:persGroup>these negroes</ecda:persGroup> to our shore, was restored
+               to its owners at the instance of the <name>French Government</name>, instead of being condemned as a
+               prize to <persName ref="#rye">Lieut. Rye</persName>, who, on his own responsibility, detained her, with all her manacles
+               and chains and other detestable proofs of her piratical occupation on board. We trust it
+               is not yet too late to demand investigation into the reasons for restoring her.</p>
+      </div>
+         <div>
+            <head>The Negro Boy’s Narrative.</head>
+            <p>My father’s name was <persName ref="#clashoquin">Clashoquin</persName>; mine is <persName ref="#louis_asaasa">Asa-Asa</persName>. He lived in a country called <placeName>Bycla</placeName>,
+               near <placeName>Egie</placeName>, a large town. <rs type="place">Egie</rs> is as large as <placeName>Brighton</placeName>; it was some way from the sea. I
+               had <ecda:persGroup>five brothers and sisters</ecda:persGroup>. We all lived together with <rs type="person" ref="#clashoquin">my father</rs> and <rs type="person">mother</rs>; he kept
+               a horse, and was respectable, but not one of the great men. My <rs type="person" ref="#otou">uncle</rs> was one of the
+               great men at <placeName>Egie</placeName>: he could make men come and work for him: his name was <persName ref="#otou">Otou</persName>. He had a
+               great deal of land and cattle. <rs type="person" ref="#clashoquin">My father</rs> sometimes worked on his own land, and used to
+               make <ecda:commodity>charcoal</ecda:commodity>. I was too little to work; my <rs type="person">eldest brother</rs> used to work on the land; and
+               we were all very happy. A great many people, whom we called <name>Adinyés</name>, set fire to
+               <placeName>Egie</placeName> in the morning before daybreak; there were some thousands of them. They killed a
+               great many, and burnt all their houses. They staid two days, and then carried away all
+               the people whom they did not kill.</p>
+            <p>They came again every now and then for a month, as long as they could find people to
+               carry away. They used to tie them by the feet, except when they were taking them off,
+               and then they let them loose; but if they offered to run away, they would shoot them. I
+               lost a great many friends and relations at <placeName>Egie</placeName>; about a dozen. They sold all they
+               carried away, to be slaves. I know this because I afterwards saw them as slaves on the
+               other side of the sea. They took away brothers, and sisters, and husbands, and wives;
+               they did not care about this. They were sold for <ecda:commodity>cloth</ecda:commodity> or <ecda:commodity>gunpowder</ecda:commodity>, sometimes for <ecda:commodity>salt</ecda:commodity>
+               or <ecda:commodity>guns</ecda:commodity>; sometimes they got four or five guns for a man: they were English guns, made
+               like my master’s that I clean for his shooting. The <name>Adinyés</name> burnt a great many places
+               besides <placeName>Egie</placeName>. They burnt all the country wherever they found villages; they used to
+               shoot men, women, and children, if they ran away.</p>
+            <p>They came to us about eleven o’clock one day, and directly they came they set our house
+               on fire. All of us had run away. We kept together, and went into the woods, and stopped
+               there two days. The <name>Adinyés</name> then went away, and we returned home and found every thing
+               burnt. We tried to build a little shed, and were beginning to get comfortable again.
+               We found several of <ecda:persGroup>our neighbours</ecda:persGroup> lying about wounded; they had been shot. I saw the
+               bodies of <ecda:persGroup>four or five little children</ecda:persGroup> whom they had killed with blows on the head. They
+               had carried away their fathers and mothers, but the children were too small for slaves,
+               so they killed them. They had killed several others, but these were all that I saw. I
+               saw them lying in the street like dead dogs. In about a week after we got back, the
+               <name>Adinyés</name> returned, and burnt all the sheds and houses they had left standing. We all ran
+               away again; we went to the woods as we had done before.—They followed us the next day.
+               We went farther into the woods, and staid there about four days and nights; we were half
+               starved; we only got a few potatoes. My <persName ref="#otou">uncle Otou</persName> was with us. At the end of this time,
+               the <name>Adinyés</name> found us. We ran away. They called <rs type="person" ref="#otou">my uncle</rs> to go to them; but he refused,
+               and they shot him immediately: they killed him. The rest of us ran on, and they did not
+               get at us till the next day. I ran up into a tree: they followed me and brought me down.
+               They tied my feet. I do not know if they found <rs type="person" ref="clashoquin">my father</rs> and <rs type="person">mother</rs>, and <rs type="persGroup">brothers</rs> and
+               <rs type="persGroup">sisters</rs>: they had run faster than me, and were half a mile farther when I got up into
+               the tree: I have never seen them since.—There was <ecda:anonPers>a man</ecda:anonPers> who ran up into the tree with
+               me: I believe they shot him, for I never saw him again. They carried away about
+               twenty besides me. They carried us to the sea. They did not beat us: they only killed
+               <ecda:anonPers>one man</ecda:anonPers>, who was very ill and too weak to carry his load: they made all of us carry
+               <ecda:food ana="animal">chickens</ecda:food> and <ecda:food>meat</ecda:food> for our food; but this poor man could not carry his load, and they ran
+               him through the body with a sword.—He was a neighbour of ours. When we got to the sea
+               they sold all of us, but not to the same person. They sold us for money; and I was sold
+               six times over, sometimes for money, sometimes for <ecda:commodity>cloth</ecda:commodity>, and sometimes for <ecda:commodity>a gun</ecda:commodity>. I was
+               about thirteen years old. It was about half a year from the time I was taken, before I
+               saw the white people.</p>
+            <p>We were taken in a boat from place to place, and sold at every place we stopped at. In
+               about six months we got to a ship, in which we first saw <ecda:persGroup>white people</ecda:persGroup>: they were <name>French</name>.
+               They bought us. We found here a great <ecda:persGroup>many other slaves</ecda:persGroup>; there were about eighty,
+               including women and children. The <ecda:anonPers>Frenchmen</ecda:anonPers> sent away all but five of us into another
+               very large ship. We five staid on board till we got to <placeName>England</placeName>, which was about five or
+               six months. The <ecda:persGroup>slaves we saw on board</ecda:persGroup> the ship were chained together by the legs below
+               deck, so close they could not move. They were flogged very cruelly: I saw one of them
+               flogged till he died; we could not tell what for. They gave them enough to eat. The
+               place they were confined in below deck was so hot and nasty I could not bear to be in
+               it. A great many of the slaves were ill, but they were not attended to. They used to
+               flog me very bad on board the ship: <rs type="person">the captain</rs> cut my head very bad one time.</p>
+            <p>“<said>I am very happy to be in <placeName>England</placeName>, as far as I am very well;—but I have no friend
+               belonging to me, but God, who will take care of me as he has done already. I am very
+               glad I have come to <placeName>England</placeName>, to know who God is. I should like much to see my friends
+               again, but I do not now wish to go back to them: for if I go back to my own <rs type="place">country</rs>,
+               I might be taken as a slave again. I would rather stay here, where I am free, than go
+               back to my country to be sold. I shall stay in England as long as (please God) I shall
+               live. I wish the <persName ref="#william_iv">King of England</persName> could know all I have told you. I wish it that he may
+               see how cruelly we are used. We had no king in our country, or he would have stopt it. I
+               think the king of England might stop it, and this is why I wish him to know it all. I
+               have heard say he is good; and if he is, he will stop it if he can. I am well off
+               myself, for I am well taken care of, and have good bed and good clothes; but I wish my
+               own people to be as comfortable.</said>”</p>
+            <p>“LOUIS ASA-ASA.”</p>
+            <p>"<placeName>London</placeName>, January 31, 1831.”</p>
+         </div>
+      </body>
+      
+  </text>
+</TEI>
