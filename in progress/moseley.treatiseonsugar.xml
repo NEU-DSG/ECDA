@@ -15,6 +15,16 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
+     <encodingDesc>
+        <tagsDecl>
+           <rendition xml:id="r.ital">italic</rendition>
+           <rendition xml:id="r.smallcaps">smallcaps</rendition>
+           <namespace name="dsg.">
+              <tagUsage gi="distinct" render="#r.ital"/>
+              <tagUsage gi="persName" render="#r.smallcaps"/>
+           </namespace>
+        </tagsDecl>
+     </encodingDesc>
   </teiHeader>
   <text>
      <ecda:hyperDiv>
@@ -443,36 +453,34 @@
               <bibl><author><persName ref="#pliny_0023">Plin.</persName></author> lib. XXVI. c. 1.</bibl>
            </note>
         </ecda:notes>
-        <div type="undetermined" subtype="personography">
-        </div>
      </ecda:hyperDiv>
      <front>
         <titleBlock>
            <docTitle>
-              <titlePart type="main" rend="case(allcaps)align(center)">A
+              <titlePart type="main" rend="allcaps">A
                  Treatise 
                  on 
                  <ecda:anonPers>Sugar</ecda:anonPers>.
               </titlePart>
               
            </docTitle>
-           <byline rend="case(allcaps)align(center)">By
+           <byline rend="allcaps">By
               <docAuthor><persName ref="#benjamin_moseley_1742">Benjamin Moseley</persName>, M.D.</docAuthor>
               Author of
-              <title>A Treatise on Tropical Diseases;
+              <title><hi rend="smallcaps">A Treatise on</hi> Tropical Diseases;
               Military Operations;
               and the Climate of the <placeName>West Indies</placeName></title>;
               and
-              <title>A Treatise of <ecda:commodity>Coffee</ecda:commodity></title>:
-              Physician to <orgName><placeName>Chelsea</placeName> Hospital</orgName>,
+              <title><hi rend="smallcaps">A Treatise on</hi> <ecda:commodity>Coffee</ecda:commodity></title>:
+              <hi rend="smallcaps">Physician to <orgName><placeName>Chelsea</placeName> Hospital</orgName>,
               Member of the <orgName>College of Physicians of <placeName>London</placeName></orgName>.
               of the <orgName>University of <placeName>Leyden</placeName></orgName>,
               of the <orgName><rs type="properAdjective">American</rs> Philosophical Society</orgName>
-              at <placeName>Philadelphia</placeName>, &amp;c. &amp;c.
+              at <placeName>Philadelphia</placeName>, &amp;c. &amp;c.</hi>
            </byline>
               
-           <docImprint><placeName rend="italiccase(allcaps)align(center)">London</placeName>:
-              Printed for <persName>G. C.</persName> and <persName>J. Robinson</persName>,
+           <docImprint rend="allcaps"><placeName rend="italic">London</placeName>:
+              Printed for <persName>G. C.</persName> and <persName>J. Robinson</persName>, <!-- possibly G. G.? -->
               <placeName>Paternoster-Row</placeName>
               
               <date when="1799">MDCCXCIX</date>.
@@ -490,55 +498,55 @@
             <table rows="24" cols="2">
                <row role="data">
                   <cell role="data"><distinct type="dialect" xml:lang="la"><ecda:commodity>Arundo Saccharifera</ecda:commodity></distinct>.</cell>
-                  <cell role="data"><bibl><author rend="smallcaps">C. Bauhin</author>, <title rend="italic">Pin</title>. 18.</bibl></cell>
+                  <cell role="data"><bibl><author><persName>C. Bauhin</persName></author>, <title rend="italic">Pin</title>. 18.</bibl></cell>
                </row>
                <row role="data">
                   <cell role="data"><distinct type="dialect" xml:lang="la"><ecda:commodity>Arundo Saccharina</ecda:commodity></distinct>.</cell>
-                  <cell role="data"><bibl><author rend="smallcaps">J. Bauhin</author>, 2. 531.</bibl></cell>
+                  <cell role="data"><bibl><author><persName>J. Bauhin</persName></author>, 2. 531.</bibl></cell>
                </row>
                <row role="data">
                   <cell role="data"><distinct type="dialect" xml:lang="la"><ecda:commodity>Arundo Sacchari</ecda:commodity></distinct>.</cell>
-                  <cell role="data"><bibl><author rend="smallcaps">F. Hernandez</author>, <hi rend="italic">p</hi>. 109.</bibl></cell>
+                  <cell role="data"><bibl><author><persName ref="#francisco_hernandez_de_toledo_1514">F. Hernandez</persName></author>, <hi rend="italic">p</hi>. 109.</bibl></cell>
                </row>
                <row role="data">
                   <cell role="data"><distinct type="dialect" xml:lang="la"><ecda:commodity>Calamus Saccharatus</ecda:commodity></distinct>.</cell>
-                  <cell role="data"><bibl><author rend="smallcaps">Munting</author>, <title rend="italic">Pl. Cult.</title><hi rend="italic">p</hi>.
+                  <cell role="data"><bibl><author><persName>Munting</persName></author>, <title rend="italic">Pl. Cult.</title><hi rend="italic">p</hi>.
                   284.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><distinct type="dialect" xml:lang="la"><ecda:commodity>Cann&#x00E6; Dulces</ecda:commodity></distinct>.</cell>
-                  <cell role="data"><bibl><author rend="smallcaps">P. Martyr</author>.</bibl></cell>
+                  <cell role="data"><distinct type="dialect" xml:lang="la"><ecda:commodity>Cannæ Dulces</ecda:commodity></distinct>.</cell>
+                  <cell role="data"><bibl><author><persName ref="#peter_martyr_danghiera_1457">P. Martyr</persName></author>.</bibl></cell>
                </row>
                <row role="data">
                   <cell role="data"><distinct type="dialect" xml:lang="la"><ecda:commodity>Canna Mellea</ecda:commodity></distinct>.</cell>
-                  <cell role="data"><bibl><author rend="smallcaps">C&#x00C6;salpin</author>, <title rend="italic">Hi&#x017f;t. Plant</title>.
+                  <cell role="data"><bibl><author><persName>Cæsalpin</persName></author>, <title rend="italic">Hiſt. Plant</title>.
                   <hi rend="italic">p</hi>. 182.</bibl></cell>
                </row>
                <row role="data">
                   <cell role="data"><distinct type="dialect" xml:lang="la"><ecda:commodity>Canna Saccharifera</ecda:commodity></distinct>.</cell>
-                  <cell role="data"><bibl><author rend="smallcaps">Ogilby</author>, <title rend="italic">Chin</title>. I. 228.</bibl></cell>
+                  <cell role="data"><bibl><author><persName>Ogilby</persName></author>, <title rend="italic">Chin</title>. I. 228.</bibl></cell>
                </row>
                <row role="data">
                   <cell role="data"><distinct type="dialect" xml:lang="la"><ecda:commodity>Canna Saccharina</ecda:commodity></distinct>.</cell>
-                  <cell role="data"><bibl><author rend="smallcaps">Nieuhof</author>, <hi rend="italic">p</hi>. 89.</bibl></cell>
+                  <cell role="data"><bibl><author><persName>Nieuhof</persName></author>, <hi rend="italic">p</hi>. 89.</bibl></cell>
                </row>
                <row role="data">
                   <cell role="data"><distinct type="dialect" xml:lang="la"><ecda:commodity>Canna Sacchari</ecda:commodity></distinct>.</cell>
-                  <cell role="data"><bibl><author rend="smallcaps">Laet</author>, <title rend="italic">lib</title>. I. <hi rend="italic">p</hi>. 27.</bibl></cell>
+                  <cell role="data"><bibl><author><persName ref="#joannes_de_laet_1581">Laet</persName></author>, <title rend="italic">lib</title>. I. <hi rend="italic">p</hi>. 27.</bibl></cell>
                </row>
                <row role="data">
                   <cell role="data"><distinct type="dialect" xml:lang="la"><ecda:commodity>Harundo Saccharifera</ecda:commodity></distinct>.</cell>
-                  <cell role="data"><bibl><author rend="smallcaps">Parkinson</author>, <title rend="italic">Theatr</title>.
+                  <cell role="data"><bibl><author><persName>Parkinson</persName></author>, <title rend="italic">Theatr</title>.
                   <title rend="italic">Botan</title>. 1210.</bibl></cell>
                </row>
                <row role="data">
                   <cell role="data"><distinct type="dialect" xml:lang="fr"><ecda:commodity>Roseaux, ou Cannes de
                      Sucre</ecda:commodity></distinct>.</cell>
-                  <cell role="data"><bibl><author rend="smallcaps"><persName ref="#jeanbaptiste_labat_1663">Labat</persName></author>, <hi rend="italic">vol</hi>. 1. <hi rend="italic">p</hi>. 228.</bibl></cell>
+                  <cell role="data"><bibl><author><persName ref="#jeanbaptiste_labat_1663">Labat</persName></author>, <hi rend="italic">vol</hi>. 1. <hi rend="italic">p</hi>. 228.</bibl></cell>
                </row>
                <row role="data">
                   <cell role="data"><distinct type="dialect" xml:lang="fr"><ecda:commodity>Roseaux de Sucre</ecda:commodity></distinct>.</cell>
-                  <cell role="data"><bibl><author rend="italic">Lussan</author>.</bibl></cell>
+                  <cell role="data"><bibl><author><persName>Lussan</persName></author>.</bibl></cell>
                </row>
                          
             <pb/>
@@ -547,22 +555,22 @@
                <row role="data">
                   <cell role="data"><distinct type="dialect" xml:lang="la"><ecda:commodity>Saccharum floribus pa-
                      niculatis</ecda:commodity></distinct>.</cell>
-                  <cell role="data"><bibl><author rend="smallcaps">Lin</author>. <title rend="italic">Sp</title>. <title rend="italic">P.</title>.</bibl></cell>
+                  <cell role="data"><bibl><author><persName>Lin.</persName></author> <title rend="italic">Sp</title>. <title rend="italic">P.</title>.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><distinct type="dialect"><ecda:commodity>Tacomare&#x00E9;, five Arun-
+                  <cell role="data"><distinct type="dialect"><ecda:commodity>Tacomareé, five Arun-
                   da Saccharifera</ecda:commodity></distinct>.</cell>
-                  <cell role="data"><bibl><author rend="smallcaps"><persName ref="#willem_piso_1611">Piso</persName></author>, <title rend="italic">Lib</title>. IV <hi rend="italic">Cap</hi>. I.</bibl></cell>
+                  <cell role="data"><bibl><author><persName ref="#willem_piso_1611">Piso</persName></author>, <title rend="italic">Lib</title>. IV <hi rend="italic">Cap</hi>. I.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><ecda:commodity><distinct type="dialect">Viba &amp; Tacomare&#x00E9; &amp;</distinct>
+                  <cell role="data"><ecda:commodity><distinct type="dialect">Viba &amp; Tacomareé &amp;</distinct>
                   <distinct xml:lang="la">Canna Sacchari</distinct></ecda:commodity>.</cell>
                   <cell role="data"><bibl rend="smallcaps">Ib.</bibl></cell>
                </row>
                <row role="data">
-                  <cell role="data"><ecda:commodity><distinct type="dialect">Vub&#xe6; &amp; Tacomare&#x00E9;</distinct>
+                  <cell role="data"><ecda:commodity><distinct type="dialect">Vubæ &amp; Tacomareé</distinct>
                   <distinct xml:lang="la"><rs type="properAdjective">Brasiliensibus</rs></distinct></ecda:commodity></cell>
-                  <cell role="data"><bibl><author rend="smallcaps">Marcgrav</author>, 82.</bibl></cell>
+                  <cell role="data"><bibl><author><persName ref="#georg_marcgrave_1610">Marcgrav</persName></author>, 82.</bibl></cell>
                </row>
             </table>
             
@@ -571,8 +579,8 @@
         <pb/>
         <fw type="pageNum">3</fw>
          
-         <div type="section">
-            <head>History
+         <div type="part">
+            <head rend="allcaps">History
             of the
             <ecda:commodity>Sugar Cane</ecda:commodity></head>
             
@@ -597,10 +605,10 @@
                order and arrangement may rise, I must toil
                through trackless regions of obscurity.
            </p>
-         </div>
-         <div type="subsection">
+         
+         
             <p>The most ancient author, who mentions the
-               <ecda:commodity>sugar cane</ecda:commodity> is <persName ref="#theophrastus_0571" rend="smallcaps">Theophrastus</persName>, who lived <date when="-0321">321</date>
+               <ecda:commodity>sugar cane</ecda:commodity> is <persName ref="#theophrastus_0571">Theophrastus</persName>, who lived <date when="-0321">321</date>
                years before the <rs type="properAdjective">Christian</rs> Æra. I shall begin
                
         <pb/>
@@ -611,7 +619,7 @@
                point of time, which have been supposed re-
                lative to this plant.
             </p>
-            <p><persName ref="#theophrastus_0571" rend="smallcaps">Theophrastus</persName>, in his chapter on honey,—
+            <p><persName ref="#theophrastus_0571">Theophrastus</persName>, in his chapter on honey,—
                <quote xml:id="a001" corresp="#n001">Οτι αι τοʋ μελιτος γενετεις, <supplied>τριτταί</supplied> η απο των
                ανδων, χαι εν οις αλλοις εστιν η <supplied>γλχʋχʋτης</supplied> αλλη
                δε εχ τοʋ αερος, <supplied>οταν</supplied> αναχʋθεν, ʋγρον απο τοʋ
@@ -620,7 +628,7 @@
                  
                   
             </p>
-            <p><quote rend="pre(“) post(”)">The generation of honey is threefold: the
+            <p><quote rend="quotes">The generation of honey is threefold: the
                first sort is from flowers, or other things in
                which there is sweetness: the second, from the
                air, which, when there are dews, is concocted
@@ -631,7 +639,7 @@
             <p>He mentions that the second sort of honey,
                or that generated from the moisture in the air, 
                falls on the earth, and on plants; and is found
-               chiefly on the boughs of the oak, and <distinct rend="italics"  type="dialect">Tilia</distinct>, or
+               chiefly on the boughs of the oak, and <distinct type="dialect">Tilia</distinct>, or
                <ecda:commodity>lime</ecda:commodity> tree.
             </p>
             <p>By the <ecda:flora>cane</ecda:flora>, which yields the third species 
@@ -643,7 +651,7 @@
       <pb/>
       <fw type="pageNum">5</fw>      
             
-            <p><persName ref="#theophrastus_0571" rend="smallcaps">Theophrastus</persName> mentions another sort of
+            <p><persName ref="#theophrastus_0571">Theophrastus</persName> mentions another sort of
                reed or cane, growing in marshy places in
                <placeName>Egypt</placeName>, with sweet roots. Speaking of the 
                different properties of the different parts of
@@ -660,7 +668,7 @@
                   το γαρ ξηρον, ουτ' εδωδιμον, ουτ' εΓχυλον.
                </quote>
             </p>
-            <p><quote rend="pre(“) post(”)">As in the <ecda:flora>cane</ecda:flora> which grows in marshy
+            <p><quote rend="quotes">As in the <ecda:flora>cane</ecda:flora> which grows in marshy
                places in <placeName>Egypt</placeName>: the extreme parts of which 
                are also sweet, but in a small degree. But that 
                which yields the most nutriment, and is tender
@@ -669,7 +677,7 @@
                Then they lose their sweetness, and are neither
                proper for food, or grateful.</quote>
             </p>
-            <p>Whether <persName ref="#theophrastus_0571" rend="smallcaps">Theophrastus</persName>, who was a <name>Lesbian</name>,
+            <p>Whether <persName ref="#theophrastus_0571">Theophrastus</persName>, who was a <name>Lesbian</name>,
                had ever seen this reed in <placeName>Egypt</placeName> with sweet
                roots, or whether he had the account of it
                from others, or whether such a reed really
@@ -684,12 +692,12 @@
                have supposed the <ecda:commodity rend="italic">Sugar Cane</ecda:commodity> was the reed al-
                luded to, though erroneously described. But 
                this will be better understood by comparing 
-               this passage in <persName ref="#theophrastus_0571" rend="smallcaps">Theophrastus</persName>, with what has
+               this passage in <persName ref="#theophrastus_0571">Theophrastus</persName>, with what has
                been said by other early writers.
             </p>
-         </div>
-         <div type="subsection">
-            <p><persName rend="smallcaps" ref="#marcus_terentius_varro_116">Varro</persName> (<date when="-0068">68 years before the Christian æra</date>),
+         
+         
+            <p><persName ref="#marcus_terentius_varro_116">Varro</persName> (<date when="-0068">68 years before the Christian æra</date>),
                in the following verses, observes,—
             </p>
                <quote>
@@ -699,25 +707,25 @@
                      <l><distinct xml:lang="la" type="dialect">Dulcia cui nequeant succo contendere mella</distinct>.</l>
                   </lg>
                </quote>
-               <p><quote rend="pre(“) post(”)">The <rs type="properAdjective">Indian</rs> reed does not grow to a large
+               <p><quote rend="quotes">The <rs type="properAdjective">Indian</rs> reed does not grow to a large
                   tree: from its viseid roots a liquor is pressed,
                   to which <ecda:food>honey</ecda:food> cannot be compared for sweetness.</quote>
                </p>
-         </div>
-         <div type="subsection">
-            <p><persName rend="smallcaps" ref="#dionysius_periegetes_0001" cert="medium">Dionysius Afer</persName> (anno 3. Ær. Chr. <hi rend="smallcaps">Sax</hi>.
+         
+         
+            <p><persName ref="#dionysius_periegetes_0001" cert="medium">Dionysius Afer</persName> (anno 3. Ær. Chr. <hi rend="smallcaps">Sax</hi>.
                <hi rend="slant(italics)"><unclear>Onemast</unclear>.)</hi> mentions that the <name>Indians</name> drink the 
-               juice of the <unclear>Ερ[<!-- missing char. -->]θραιος καλαμος</unclear>, or <rs type="properAdjective">Indian</rs> cane<anchor xml:id="a004" corresp="#n004"/> 
+               juice of the <distinct type="dialect" xml:lang="el" rend="slant(upright)"><unclear>Ερ[<!-- missing char. -->]θραιος καλαμος</unclear></distinct>, or <rs type="properAdjective">Indian</rs> cane<anchor xml:id="a004" corresp="#n004"/> 
             </p>
-         </div>
+         
          
       <pb/>
       <fw type="pageNum">7</fw>
          
-         <div type="subsection">
-            <p><persName rend="smallcaps" ref="#strabo_0064">Strabo</persName> (anno <date when="0019">19</date>), in his 15th book of
+         
+            <p><persName ref="#strabo_0064">Strabo</persName> (anno <date when="0019">19</date>), in his 15th book of
                Geography, in the description of <placeName>India</placeName>, says, on
-               the authority of <persName rend="smallcaps" ref="#nearchus_0360">Nearchus</persName> <persName ref="#alexander_the_great_356">Alexander's</persName> ad-
+               the authority of <persName ref="#nearchus_0360">Nearchus</persName> <persName rend="mixed" ref="#alexander_the_great_356">Alexander's</persName> ad-
                miral), who lived 325 years before the <rs type="properAdjective">Christian</rs> 
                æra,—
             </p>
@@ -727,7 +735,7 @@
                   καρποΦορον εκ του καρπου μεθυιν.
                </quote>
             </p>
-            <p><quote rend="pre(“) post(”)">He (<persName rend="smallcaps" ref="#nearchus_0360">Nearchus</persName>) relates, that the reed (in
+            <p><quote rend="quotes">He (<persName ref="#nearchus_0360">Nearchus</persName>) relates, that the reed (in
                <placeName>India</placeName>) yields honey without bees; but it is 
                not a fruit-bearing tree: yet the fruit intoxi-
                cates.</quote>
@@ -735,24 +743,24 @@
             <p>The latter part of this passage has perplexed
             commentators.
             </p>
-            <p>In the same page <persName rend="smallcaps" ref="#strabo_0064">Strabo</persName> says, on the au-
-               tority of <persName rend="smallcaps" ref="#eratosthenes_0276">Eratosthenes</persName>,—
+            <p>In the same page <persName ref="#strabo_0064">Strabo</persName> says, on the au-
+               tority of <persName ref="#eratosthenes_0276">Eratosthenes</persName>,—
             </p>
             <p>
                <quote>Τας ριζας των Φυτων και μαλιστα των μεγαλων
                   καλαμων, γλυκειας και Φυσειας και Φυσει και εψησει.
                </quote>
             </p>
-            <p><quote rend="pre(“) post(”)">The roots of plants (in <placeName>India</placeName>), particu-
+            <p><quote rend="quotes">The roots of plants (in <placeName>India</placeName>), particu-
                larly of the great reeds, are sweet by nature,
                and by decoction.</quote>
             </p>
-            <p>He also mentions the <distinct xml:lang="el" type="dialect">καλαμος Ινδικος</distinct> growing
+            <p>He also mentions the <distinct xml:lang="el" type="dialect" rend="upright">καλαμος Ινδικος</distinct> growing
                abundantly in <placeName>Æthiopia</placeName>.
             </p>
-         </div>
-         <div type="subsection">
-            <p><persName rend="smallcaps" ref="seneca_0004">Seneca</persName> (anno <date when="0062">62</date>) in this 84th Epistle, has
+         
+         
+            <p><persName ref="seneca_0004">Seneca</persName> (anno <date when="0062">62</date>) in this 84th Epistle, has
                the following passage:—
             </p>
  
@@ -767,32 +775,32 @@
                animal huic rei genitum.
             </quote>
             </p>
-            <p><quote rend="pre(“) post(”)">They say that, in the <placeName>Indies</placeName>, <ecda:food>honey</ecda:food> is
+            <p><quote rend="quotes">They say that, in the <placeName>Indies</placeName>, <ecda:food>honey</ecda:food> is
                found in the leaves of <ecda:flora>canes</ecda:flora>; which is pro-
                duced by the dew, or the sweet juice of the
                <ecda:food>cane</ecda:food> itself, concreting. In our herbs also there
                is the same quality, but in a less degree; from 
                which the bees extract honey.</quote>
             </p>
-            <p>This, being in the time of <persName rend="smallcaps" ref="#nero_0037">Nero</persName>, proves that
+            <p>This, being in the time of <persName ref="#nero_0037">Nero</persName>, proves that
             the <name>Romans</name>, at that period, knew but little of
             the sugar cane, and nothing of the manu-
             facture of <ecda:commodity ana="#production">sugar</ecda:commodity>.
             </p>
-         </div>
-         <div type="subsection">
-            <p><persName rend="smallcaps" ref="#lucan_0039">Lucan</persName> (anno <date when="0062">62</date>) says, in the 237th verse of 
+         
+         
+            <p><persName ref="#lucan_0039">Lucan</persName> (anno <date when="0062">62</date>) says, in the 237th verse of 
                his third book, when speaking of the <name>Indians</name>
                near the <geogName>Ganges</geogName>,—
             </p>
             <p><quote rend="italic"><distinct type="dialect" xml:lang="la">Quique bibunt tener á dulces ab arundine succos</distinct></quote>,
             </p>
-            <p><quote rend="pre(“) post(”)">They drink the sweet juices of the tender
+            <p><quote rend="quotes">They drink the sweet juices of the tender
                reed</quote>.
             </p>
-         </div>
-         <div type="subsection">
-            <p><persName rend="smallcaps" ref="#pliny_0023">Pliny</persName> (anno <date when="0078">78</date>) in the 32d chapter of the
+         
+         
+            <p><persName ref="#pliny_0023">Pliny</persName> (anno <date when="0078">78</date>) in the 32d chapter of the
                6th book, speaking of the <placeName><distinct type="dialect" xml:lang="la" rend="italic">Insulæ Fortunatæ</distinct></placeName>,
             
         <pb/>  
@@ -806,13 +814,12 @@
             matur; ex nigris amara; ex cadidioribus potui
             jucunda</distinct></quote>.
             </p>
-            <p><quote rend="pre(“)post(”)">There are trees resembling the <ecda:flora rend="italic">Ferula</ecda:flora>,
+            <p><quote rend="quotes">There are trees resembling the <ecda:flora rend="italic">Ferula</ecda:flora>,
             from which water may be expressed; the water 
             from the black sort is bitter; but that from
             the white grateful to drink</quote>.
             </p>
-         </div>
-         <div type="subsection">
+         
             <p><persName rend="italic" ref="#claudius_salmasius_1588">Salmasius</persName>, <persName rend="italic" ref="#etienne_geoffroy_saint_hilaire_1772">Geoffroy</persName>, and many other au-
             thors, have believed that these trees, mentioned
             by <persName rend="italic" ref="#pliny_0023">Pliny</persName>, were <ecda:commodity>sugar canes</ecda:commodity>; but certainly
@@ -824,7 +831,7 @@
                marvellous tree, which made up for the de-
                ficiency of Springs, and contributed largely
                towards supplying the inhabitants of the island
-               with water. Some writers consider <persName rend="smallcaps" ref="#pliny_0023">Pliny's</persName>
+               with water. Some writers consider <persName ref="#pliny_0023">Pliny's</persName>
                remark applicable to this vegetable fountain,
                which is described as follows.
             </p>
@@ -832,7 +839,7 @@
       <pb/>
       <fw type="pageNum">10</fw>
             
-            <p><quote rend="pre(“)">The district in which this tree stands is
+            <p><quote rend="prequotes">The district in which this tree stands is
                called <placeName rend="italic">Tigulabe</placeName>, near to which, and in the cliff
                or steep rocky ascent that surrounds the whole
                island, is a narrow gutter or gully, which com-
@@ -873,7 +880,7 @@
                that we see water drip from the leaves of trees
                after a heavy shower of rain.</quote>
             </p>
-            <p><quote rend="pre(“)">This distillation is not peculiar to the <distinct type="dialect" rend="italic">Garse</distinct>,
+            <p><quote rend="prequotes">This distillation is not peculiar to the <distinct type="dialect" rend="italic">Garse</distinct>,
                or <ecda:flora rend="italic">Til</ecda:flora>; for the <ecda:flora rend="italic">Bresos</ecda:flora>, which grow near it,
                likewise drop water; but, their leaves being
                but few and narrow, the quantity is so trifling,
@@ -881,7 +888,7 @@
                they make little or no account of any but
                what distils from the <ecda:flora rend="italic">Til</ecda:flora>.</quote>
             </p>
-            <p><quote rend="pre(“)post(”)">A person lives on the spot near which this <!-- this is more like a role. Do we give it <anonPers> -->
+            <p><quote rend="quotes">A person lives on the spot near which this <!-- this is more like a role. Do we give it <anonPers> -->
                tree grows, who is appointed by the council 
                to take care of it and its water. He every day
                distributes to each family of the district seven
@@ -901,11 +908,11 @@
                rica</placeName>. But the history of the <ecda:flora>Garse</ecda:flora> is scarcely
                within the compass of credibility. There may
                be some trees peculiar to <placeName rend="italic">Ferro</placeName>, abounding
-               with moisture, which <persName rend="smallcaps" ref="#pliny_0023">Pliny</persName> had heard of;
+               with moisture, which <persName ref="#pliny_0023">Pliny</persName> had heard of;
                and, on that account, I have introduced the
                preceding relation. Indeed, they are men-
                tioned by several subsequent writers; particu-
-               larly by <persName rend="smallcaps" ref="#peter_martyr_danghiera_1457">Peter Martyr</persName>, who says, <quote rend="quotes">In the
+               larly by <persName ref="#peter_martyr_danghiera_1457">Peter Martyr</persName>, who says, <quote rend="quotes">In the
                island of <placeName rend="italic">Ferro</placeName> there is no other water that may
                be drunk, but only that is gathered of the dew
                which continually distilleth from one only tree,
@@ -913,9 +920,8 @@
                falleth into a round trench made with man's 
                hand.</quote> <bibl rend="italic">Decad. I. Lib. I. anno <date when="1493">1493</date>.</bibl>
             </p>
-         </div>
-         <div type="subsection">
-            <p><persName rend="smallcaps" ref="#statius_0045">Statius</persName> (anno <date when="0095">95</date>), <bibl><title rend="italic">Sylvarum, Lib.</title> I. 6. 15.</bibl> 
+         
+            <p><persName ref="#statius_0045">Statius</persName> (anno <date when="0095">95</date>), <bibl><title rend="italic">Sylvarum, Lib.</title> I. 6. 15.</bibl> 
                has a passage, which has been the foundation
                of much dispute among critics and commenta-
                tors; some contending that the reading should
@@ -924,7 +930,7 @@
                <placeName>Egypt</placeName>, famous for <ecda:flora>figs</ecda:flora>.
             </p>
             <p><distinct type="dialect" xml:lang="la" rend="italic">Et quas percoquit Ebusita cannas</distinct>.</p>
-            <p><quote rend="pre(“)post(”)">The island of <placeName rend="italic">Ebusus</placeName> (or <placeName rend="italic">Ivica</placeName>, in the <placeName>Me-
+            <p><quote rend="quotes">The island of <placeName rend="italic">Ebusus</placeName> (or <placeName rend="italic">Ivica</placeName>, in the <placeName>Me-
                diterranean</placeName>, near <placeName>Valencia</placeName> in <placeName>Spain</placeName>), which
                yields ripe <ecda:flora>canes</ecda:flora>.</quote></p>
             
@@ -932,16 +938,15 @@
       <fw type="pageNum">13</fw>
             
             <p><distinct type="dialect" xml:lang="la" rend="italic">Et quas percoquit Ebosea caunas</distinct>.</p>
-            <p><quote rend="pre(“)post(”)">Ebusus which ripens (<distinct type="dialect" xml:lang="la" rend="italic">caunæ</distinct>) <ecda:flora>figs</ecda:flora>.</quote></p>
-         </div>
-         <div type="subsection">
-            <p><persName rend="smallcaps" ref="#solinus_0001">Solinus</persName> (anno <date when="0218">218</date>), in the <bibl>52d chapter of
+            <p><quote rend="quotes">Ebusus which ripens (<distinct type="dialect" xml:lang="la" rend="italic">caunæ</distinct>) <ecda:flora>figs</ecda:flora>.</quote></p>
+         
+            <p><persName ref="#solinus_0001">Solinus</persName> (anno <date when="0218">218</date>), in the <bibl>52d chapter of
                his <title>Polyhistoria</title></bibl>, in describing <placeName>India</placeName>, says,—</p>
             <p><quote xml:id="a009" corresp="#n009" xml:lang="la">Quæ palustria sunt, arundinem creant ita cras-
                sam, ut fissis internodiis lembi vice vectitet navi-
                gantes; è radicubus ejus exprimitur humor dulcis ad
                melleam suavitatem</quote>.</p>
-            <p><quote rend="pre(“)post(”)">The marshy places produce reeds so large,
+            <p><quote rend="quotes">The marshy places produce reeds so large,
                that between the joints, when divided in the 
                middle, they are capable of carrying people in
                the manner of boats; from the roots of this
@@ -952,8 +957,7 @@
                noes, from the <ecda:commodity>canes</ecda:commodity> growing in marshy places:
                but neither <persName rend="case(allcaps)" ref="#herodotus_0001">Herodotus</persName> nor <persName rend="case(allcaps)" ref="#pliny_0023">Pliny</persName> mention the
                sweetness of their <ecda:commodity>roots</ecda:commodity>.</p>
-         </div>
-         <div type="subsection">
+         
             <p><persName rend="case(allcaps)" ref="#herodotus_0001">Herodotus</persName>, <date when="-0444">444 years</date> before the <rs type="properAdjective">Chris-
                tian</rs> æra, in his <title rend="italic">Thalia</title>, says the <name>Indians</name>,
                who inhabit the morasses of the river, feed on
@@ -963,7 +967,7 @@
        <pb/>
        <fw type="pageNum">14</fw>        
                
-               for one boat: and <persName rend="smallcaps" ref="#pliny_0023">Pliny</persName>, in the <bibl>2d chapter 
+               for one boat: and <persName ref="#pliny_0023">Pliny</persName>, in the <bibl>2d chapter 
                of his 7th book</bibl>, says in <placeName>India</placeName> the <ecda:commodity>canes</ecda:commodity> grow
                to so great a size, that, from a single joint,
                a boat may be made capable of carrying three
@@ -1019,7 +1023,7 @@
             parts of <placeName>Spain</placeName>, produced in great quantity; and 
             some is still made in the two latter provinces.
             </p>
-            <p>The celebrated <persName rend="smallcaps" ref="#francis_willoughby_1614">Mr. Francis Willoughby</persName>, 
+            <p>The celebrated <persName ref="#francis_willoughby_1614">Mr. Francis Willoughby</persName>, 
             who entered <placeName>Spain</placeName> from <placeName>Roussillon</placeName>, and travelled
             through great part of it in <date when="1664">1664</date>, says, <quote rend="prequotes">at 
             <placeName>Cullura</placeName> the <ecda:commodity>wine</ecda:commodity> first begain to be sweet; and 
@@ -1029,7 +1033,7 @@
              nourish the <ecda:flora>sugar canes</ecda:flora>, did not also contri-
              bute to the nature of the <ecda:flora>grapes</ecda:flora>?</quote>
             </p>
-            <p><quote rend="pre(“)">At <placeName>Gandia</placeName> we first found raisins of the
+            <p><quote rend="prequotes">At <placeName>Gandia</placeName> we first found raisins of the
                sun, as they are called in <placeName>England</placeName>; in <placeName>Spain</placeName> 
          
       <pb/>
@@ -1048,7 +1052,7 @@
                are gathered, not being dipped in any lixi-
                vium.</quote>
             </p>
-            <p><quote rend="pre(“)post(”)">I went to <placeName>Olives</placeName>, in <placeName>Valencia</placeName> also, where,
+            <p><quote rend="quotes">I went to <placeName>Olives</placeName>, in <placeName>Valencia</placeName> also, where,
                and at <placeName>Gandia</placeName>, are the engines for sugar-works;
                the best are at <placeName>Olives</placeName>. By the way we saw the
                <ecda:commodity>sugar canes</ecda:commodity> growing in several places. They
@@ -1135,7 +1139,7 @@
                grows hard and white in nine or ten days.
                When they refine it, they put a little water
                into the cauldron, to dissolve it the better.</quote>
-               <bibl><title><persName rend="smallcaps" ref="#john_ray_1627">Ray's</persName> Travels</title>, ed. <date when="1737">1737</date>, vol. I. p. 409.</bibl>
+               <bibl><title><persName ref="#john_ray_1627">Ray's</persName> Travels</title>, ed. <date when="1737">1737</date>, vol. I. p. 409.</bibl>
             </p>
             <p>From <placeName>Valencia</placeName>, the cultivation of the <ecda:commodity>su-
                gar cane</ecda:commodity>, and the manufacture of <ecda:commodity>sugar</ecda:commodity>, were
