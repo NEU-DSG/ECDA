@@ -21,7 +21,6 @@
            <namespace name="dsg.">
               <tagUsage gi="distinct" render="#r.ital"/>
               <tagUsage gi="ref" render="#r.ital"/>
-              <tagUsage gi="hi" render="#r.ital"/>
               <tagUsage gi="said" render="#r.prequotes"/>
               <tagUsage gi="label" render="#r.smallcaps"/>
            </namespace>
