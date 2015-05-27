@@ -118,7 +118,7 @@
            <note xml:id="n014" target="#a014">
               <p>This must refer only to the manufacturing of <ecda:commodity ana="#production #flora">sugar</ecda:commodity>. <persName ref="#willem_piso_1611">Piso</persName>
               says the sugar canes were originally found growing wild in the
-              woods of the <placeName>Canary Islands</placeName>. <bibl>Lib. 4. Cap. 1.</bibl>
+              woods of the <placeName>Canary Islands</placeName>. Lib. 4. Cap. 1.
               </p>
            </note>
            <note xml:id="n015" target="#a015">
@@ -128,7 +128,7 @@
            </note>
            <!-- end part one notes -->
            <note xml:id="n016" target="#a016">
-              <bibl><title>Exercitationes Plinianæ</title></bibl>.
+              <title>Exercitationes Plinianæ</title>.
            </note>
            <note xml:id="n017" target="#a017">
               <p>See page 15.</p>
@@ -140,7 +140,7 @@
               <bibl>Ibid. p. 71.</bibl>
            </note>
            <note xml:id="n020" target="#a020">
-              <bibl><title>Reflexions upon Ancient and Modern Learning</title></bibl>
+              <title>Reflexions upon Ancient and Modern Learning</title>
            </note>
            <note xml:id="n021" target="#a021">
               <bibl><title>Summary Historical and Political</title> Vol. I. p.115. Anno <date when="1670">1670</date>.</bibl>
@@ -160,7 +160,7 @@
               </p>
            </note>
            <note xml:id="n024" target="#a024">
-              <bibl><title>Penidum Saccharum</title>.</bibl>
+              <title>Penidum Saccharum</title>.
            </note>
            <note xml:id="n025" target="#a025">
               <p>He alludes to <persName ref="#theophilius_de_garencieres_1610">Garencieres</persName>.</p>
@@ -329,7 +329,7 @@
               <p>January, February, March, and April.</p>
            </note>
            <note xml:id="n060" target="#a060">
-              <bibl>Vol. II. p. 221. 2d edit.</bibl>
+              Vol. II. p. 221. 2d edit.
            </note>
            <note xml:id="n061" target="#a061">
               <p><quote rend="italic" xml:lang="la">Qui mel in Heraclea Ponti, nascens, ederunt, aut biberunt, iis eadem
@@ -498,11 +498,11 @@
             <table rows="24" cols="2">
                <row role="data">
                   <cell role="data"><distinct type="dialect" xml:lang="la"><ecda:commodity>Arundo Saccharifera</ecda:commodity></distinct>.</cell>
-                  <cell role="data"><bibl><author><persName>C. Bauhin</persName></author>, <title rend="italic">Pin</title>. 18.</bibl></cell>
+                  <cell role="data"><bibl><author><persName ref="#gaspard_bauhin_1560">C. Bauhin</persName></author>, <title rend="italic">Pin</title>. 18.</bibl></cell>
                </row>
                <row role="data">
                   <cell role="data"><distinct type="dialect" xml:lang="la"><ecda:commodity>Arundo Saccharina</ecda:commodity></distinct>.</cell>
-                  <cell role="data"><bibl><author><persName>J. Bauhin</persName></author>, 2. 531.</bibl></cell>
+                  <cell role="data"><bibl><author><persName ref="#johann_bauhin_1541">J. Bauhin</persName></author>, 2. 531.</bibl></cell>
                </row>
                <row role="data">
                   <cell role="data"><distinct type="dialect" xml:lang="la"><ecda:commodity>Arundo Sacchari</ecda:commodity></distinct>.</cell>
@@ -510,7 +510,7 @@
                </row>
                <row role="data">
                   <cell role="data"><distinct type="dialect" xml:lang="la"><ecda:commodity>Calamus Saccharatus</ecda:commodity></distinct>.</cell>
-                  <cell role="data"><bibl><author><persName>Munting</persName></author>, <title rend="italic">Pl. Cult.</title><hi rend="italic">p</hi>.
+                  <cell role="data"><bibl><author><persName ref="#henricus_munting_1583 #abraham_munting_1626">Munting</persName></author>, <title rend="italic">Pl. Cult.</title><hi rend="italic">p</hi>.
                   284.</bibl></cell>
                </row>
                <row role="data">
@@ -528,16 +528,16 @@
                </row>
                <row role="data">
                   <cell role="data"><distinct type="dialect" xml:lang="la"><ecda:commodity>Canna Saccharina</ecda:commodity></distinct>.</cell>
-                  <cell role="data"><bibl><author><persName>Nieuhof</persName></author>, <hi rend="italic">p</hi>. 89.</bibl></cell>
+                  <cell role="data"><bibl><author><persName ref="#johan_nieuhof_1618">Nieuhof</persName></author>, <hi rend="italic">p</hi>. 89.</bibl></cell>
                </row>
                <row role="data">
                   <cell role="data"><distinct type="dialect" xml:lang="la"><ecda:commodity>Canna Sacchari</ecda:commodity></distinct>.</cell>
-                  <cell role="data"><bibl><author><persName ref="#joannes_de_laet_1581">Laet</persName></author>, <title rend="italic">lib</title>. I. <hi rend="italic">p</hi>. 27.</bibl></cell>
+                  <cell role="data"><bibl><author><persName ref="#joannes_de_laet_1581">Laet</persName></author>, lib. I. <hi rend="italic">p</hi>. 27.</bibl></cell>
                </row>
                <row role="data">
                   <cell role="data"><distinct type="dialect" xml:lang="la"><ecda:commodity>Harundo Saccharifera</ecda:commodity></distinct>.</cell>
-                  <cell role="data"><bibl><author><persName>Parkinson</persName></author>, <title rend="italic">Theatr</title>.
-                  <title rend="italic">Botan</title>. 1210.</bibl></cell>
+                  <cell role="data"><bibl><author><persName ref="#john_parkinson_1567">Parkinson</persName></author>, <title rend="italic">Theatr.
+                  Botan.</title> 1210.</bibl></cell>
                </row>
                <row role="data">
                   <cell role="data"><distinct type="dialect" xml:lang="fr"><ecda:commodity>Roseaux, ou Cannes de
@@ -546,7 +546,7 @@
                </row>
                <row role="data">
                   <cell role="data"><distinct type="dialect" xml:lang="fr"><ecda:commodity>Roseaux de Sucre</ecda:commodity></distinct>.</cell>
-                  <cell role="data"><bibl><author><persName>Lussan</persName></author>.</bibl></cell>
+                  <cell role="data"><bibl><author><persName ref="#raveneau_de_lussan_1663" cert="low">Lussan</persName></author>.</bibl></cell>
                </row>
                          
             <pb/>
@@ -555,7 +555,7 @@
                <row role="data">
                   <cell role="data"><distinct type="dialect" xml:lang="la"><ecda:commodity>Saccharum floribus pa-
                      niculatis</ecda:commodity></distinct>.</cell>
-                  <cell role="data"><bibl><author><persName>Lin.</persName></author> <title rend="italic">Sp</title>. <title rend="italic">P.</title>.</bibl></cell>
+                  <cell role="data"><bibl><author><persName>Lin.</persName></author> <title rend="italic">Sp. P.</title>.</bibl></cell>
                </row>
                <row role="data">
                   <cell role="data"><distinct type="dialect"><ecda:commodity>Tacomareé, five Arun-
@@ -640,7 +640,7 @@
                or that generated from the moisture in the air, 
                falls on the earth, and on plants; and is found
                chiefly on the boughs of the oak, and <distinct type="dialect">Tilia</distinct>, or
-               <ecda:commodity>lime</ecda:commodity> tree.
+               <ecda:flora>lime tree</ecda:flora>.
             </p>
             <p>By the <ecda:flora>cane</ecda:flora>, which yields the third species 
                of <ecda:food>honey</ecda:food>, it is supposed that he implies the 
@@ -658,7 +658,7 @@
                plants, he says,—
             </p>
             <p>
-               <quote xml:id="a002" corresp="#n002">
+               <quote xml:id="a002" corresp="#n002" xml:lang="el">
                   Καθαπερ εν Αιγυπτω του καλαμου του εν τοις
                   ελεσιν· εχει μεν γαρ τινα γλυxυτητα και αλλως
                   επι των ακρων, αλλ' επι ζραχυ ϖαντων
@@ -701,10 +701,10 @@
                in the following verses, observes,—
             </p>
                <quote>
-                  <lg type="poem" rend="italic" xml:id="a003" corresp="#n003">
-                     <l><distinct xml:lang="la" type="dialect">Indica non magná nimis arbore crescit arundo</distinct></l>
-                     <l><distinct xml:lang="la" type="dialect">Illius è lentis premitur radicibus humor</distinct>,</l>
-                     <l><distinct xml:lang="la" type="dialect">Dulcia cui nequeant succo contendere mella</distinct>.</l>
+                  <lg type="poem" rend="italic" xml:id="a003" corresp="#n003" xml:lang="la">
+                     <l>Indica non magná nimis arbore crescit arundo</l>
+                     <l>Illius è lentis premitur radicibus humor,</l>
+                     <l>Dulcia cui nequeant succo contendere mella.</l>
                   </lg>
                </quote>
                <p><quote rend="quotes">The <rs type="properAdjective">Indian</rs> reed does not grow to a large
@@ -730,7 +730,7 @@
                æra,—
             </p>
             <p>
-               <quote xml:id="a005" corresp="#n005">Ειρηκε δε ϖερι καλαμων οτι ϖοιουσι
+               <quote xml:id="a005" corresp="#n005" xml:lang="el">Ειρηκε δε ϖερι καλαμων οτι ϖοιουσι
                   μελι μελισσων μη ουοων· ου γαρ δενδρον ειναι 
                   καρποΦορον εκ του καρπου μεθυιν.
                </quote>
@@ -783,9 +783,9 @@
                which the bees extract honey.</quote>
             </p>
             <p>This, being in the time of <persName ref="#nero_0037">Nero</persName>, proves that
-            the <name>Romans</name>, at that period, knew but little of
-            the sugar cane, and nothing of the manu-
-            facture of <ecda:commodity ana="#production">sugar</ecda:commodity>.
+               the <name>Romans</name>, at that period, knew but little of
+               the sugar cane, and nothing of the manu-
+               facture of <ecda:commodity ana="#production">sugar</ecda:commodity>.
             </p>
          
          
@@ -807,17 +807,17 @@
         <fw type="pageNum">9</fw>
                
                or what are now called the <placeName>Canary Islands</placeName>,
-               asserts, on the authority of <persName rend="italic" ref="#juba_0085">Juba</persName>, that, in the
+               asserts, on the authority of <persName rend="mixed" ref="#juba_0085"><hi rend="italic">Juba</hi></persName>, that, in the
                island called <placeName rend="italic">Ombrios</placeName>,—
             </p>
-            <p><quote rend="italic"><distinct type="dialect" xml:lang="la">Arbores similes Ferulæ, ex quibus aqua expri-
-            matur; ex nigris amara; ex cadidioribus potui
-            jucunda</distinct></quote>.
+            <p><quote rend="italic" xml:lang="la">Arbores similes Ferulæ, ex quibus aqua expri-
+               matur; ex nigris amara; ex cadidioribus potui
+               jucunda</quote>.
             </p>
-            <p><quote rend="quotes">There are trees resembling the <ecda:flora rend="italic">Ferula</ecda:flora>,
-            from which water may be expressed; the water 
-            from the black sort is bitter; but that from
-            the white grateful to drink</quote>.
+            <p><quote rend="quotes">There are trees resembling the <distinct rend="italic">Ferula</distinct>,
+               from which water may be expressed; the water 
+               from the black sort is bitter; but that from
+               the white grateful to drink</quote>.
             </p>
          
             <p><persName rend="italic" ref="#claudius_salmasius_1588">Salmasius</persName>, <persName rend="italic" ref="#etienne_geoffroy_saint_hilaire_1772">Geoffroy</persName>, and many other au-
@@ -848,7 +848,7 @@
                with a valley, which is terminated by the steep
                front of a rock. On the top of this rock
                grows a tree, now called <distinct type="dialect" rend="italic">Til</distinct>, but, in the lan-
-               guage of the antient inhabitants, <distinct type="dialect">Garse</distinct>, i.e.
+               guage of the antient inhabitants, Garse, i.e.
                Sacred, or Holy Tree. Its leaves constantly
                distil such a quantity of water as is sufficient
                to furnish drink to every living creature in 
@@ -888,7 +888,7 @@
                they make little or no account of any but
                what distils from the <ecda:flora rend="italic">Til</ecda:flora>.</quote>
             </p>
-            <p><quote rend="quotes">A person lives on the spot near which this <!-- this is more like a role. Do we give it <anonPers> -->
+            <p><quote rend="quotes">A person lives on the spot near which this <!-- this is more like a role. Do we give it <anonPers>? -->
                tree grows, who is appointed by the council 
                to take care of it and its water. He every day
                distributes to each family of the district seven
@@ -896,16 +896,16 @@
                gives to the principal people of the island<anchor xml:id="a008" corresp="#n008"/>.</quote>
             </p>
             <p>That some trees and shrubs may, on hydrau-
-            lic principles, become syphons to the earth,
-            and their extremities discharge a considerable
-            quantity of water imbibed from the roots, is
-            certainly possible; and such trees are related
+               lic principles, become syphons to the earth,
+               and their extremities discharge a considerable
+               quantity of water imbibed from the roots, is
+               certainly possible; and such trees are related
   
       <pb/>
       <fw type="pageNum">12</fw>
                
                by travellers to exist in <placeName>Africa</placeName> and <placeName>South Ame-
-               rica</placeName>. But the history of the <ecda:flora>Garse</ecda:flora> is scarcely
+               rica</placeName>. But the history of the <ecda:flora rend="italic">Garse</ecda:flora> is scarcely
                within the compass of credibility. There may
                be some trees peculiar to <placeName rend="italic">Ferro</placeName>, abounding
                with moisture, which <persName ref="#pliny_0023">Pliny</persName> had heard of;
@@ -918,7 +918,7 @@
                which continually distilleth from one only tree,
                growing on the highest bank of the island, and
                falleth into a round trench made with man's 
-               hand.</quote> <bibl rend="italic">Decad. I. Lib. I. anno <date when="1493">1493</date>.</bibl>
+               hand.</quote> <bibl rend="italic"><title>Decad. <hi rend="upright">I.</hi></title> Lib. <hi rend="upright">I.</hi> anno <date when="1493">1493</date>.</bibl>
             </p>
          
             <p><persName ref="#statius_0045">Statius</persName> (anno <date when="0095">95</date>), <bibl><title rend="italic">Sylvarum, Lib.</title> I. 6. 15.</bibl> 
@@ -940,9 +940,9 @@
             <p><distinct type="dialect" xml:lang="la" rend="italic">Et quas percoquit Ebosea caunas</distinct>.</p>
             <p><quote rend="quotes">Ebusus which ripens (<distinct type="dialect" xml:lang="la" rend="italic">caunæ</distinct>) <ecda:flora>figs</ecda:flora>.</quote></p>
          
-            <p><persName ref="#solinus_0001">Solinus</persName> (anno <date when="0218">218</date>), in the <bibl>52d chapter of
-               his <title>Polyhistoria</title></bibl>, in describing <placeName>India</placeName>, says,—</p>
-            <p><quote xml:id="a009" corresp="#n009" xml:lang="la">Quæ palustria sunt, arundinem creant ita cras-
+            <p><persName ref="#solinus_0001">Solinus</persName> (anno <date when="0218">218</date>), in the 52d chapter of
+               his <title>Polyhistoria</title>, in describing <placeName>India</placeName>, says,—</p>
+            <p><quote xml:id="a009" corresp="#n009" xml:lang="la" rend="italic">Quæ palustria sunt, arundinem creant ita cras-
                sam, ut fissis internodiis lembi vice vectitet navi-
                gantes; è radicubus ejus exprimitur humor dulcis ad
                melleam suavitatem</quote>.</p>
@@ -967,8 +967,8 @@
        <pb/>
        <fw type="pageNum">14</fw>        
                
-               for one boat: and <persName ref="#pliny_0023">Pliny</persName>, in the <bibl>2d chapter 
-               of his 7th book</bibl>, says in <placeName>India</placeName> the <ecda:commodity>canes</ecda:commodity> grow
+               for one boat: and <persName ref="#pliny_0023">Pliny</persName>, in the 2d chapter 
+               of his 7th book, says in <placeName>India</placeName> the <ecda:commodity>canes</ecda:commodity> grow
                to so great a size, that, from a single joint,
                a boat may be made capable of carrying three
                people.
@@ -1024,14 +1024,14 @@
             some is still made in the two latter provinces.
             </p>
             <p>The celebrated <persName ref="#francis_willoughby_1614">Mr. Francis Willoughby</persName>, 
-            who entered <placeName>Spain</placeName> from <placeName>Roussillon</placeName>, and travelled
-            through great part of it in <date when="1664">1664</date>, says, <quote rend="prequotes">at 
-            <placeName>Cullura</placeName> the <ecda:commodity>wine</ecda:commodity> first begain to be sweet; and 
-            three leagues off, at <placeName>Gandia</placeName>, in <placeName>Valencia</placeName>, the 
+               who entered <placeName>Spain</placeName> from <placeName>Roussillon</placeName>, and travelled
+               through great part of it in <date when="1664">1664</date>, says, <quote rend="prequotes">at 
+               <placeName>Cullura</placeName> the <ecda:commodity>wine</ecda:commodity> first begain to be sweet; and 
+               three leagues off, at <placeName>Gandia</placeName>, in <placeName>Valencia</placeName>, the 
                plantations of <ecda:commodity>sugar canes</ecda:commodity> began. <distinct type="dialect" xml:lang="la">Quere</distinct>,
-             whether the nature of the soil, that was fit to
-             nourish the <ecda:flora>sugar canes</ecda:flora>, did not also contri-
-             bute to the nature of the <ecda:flora>grapes</ecda:flora>?</quote>
+               whether the nature of the soil, that was fit to
+               nourish the <ecda:flora>sugar canes</ecda:flora>, did not also contri-
+               bute to the nature of the <ecda:flora>grapes</ecda:flora>?</quote>
             </p>
             <p><quote rend="prequotes">At <placeName>Gandia</placeName> we first found raisins of the
                sun, as they are called in <placeName>England</placeName>; in <placeName>Spain</placeName> 
@@ -1039,8 +1039,8 @@
       <pb/>
       <fw type="pageNum">16</fw>         
                
-               they call this kind <distinct type="dialect" rend="italic">pansas</distinct>, and they seem to be
-               the <distinct type="dialect" rend="italic">duracinæ</distinct> of the antients. They are all
+               they call this kind <distinct type="dialect">pansas</distinct>, and they seem to be
+               the <distinct type="dialect" xml:lang="la">duracinæ</distinct> of the antients. They are all
                white, round, and have a tougher skin than
                other <ecda:commodity>grapes</ecda:commodity>. They gather them when fully 
                ripe, and dip them in a boiling lixivium of
@@ -1048,7 +1048,7 @@
                king them out again; and then dry them upon
                boards in the sun, taking them in by night,
                or in foul weather. The name raisin comes
-               from <distinct type="dialect" xml:lang="la" rend="italic">racemus</distinct>. Figs are dried just as they
+               from <distinct type="dialect" xml:lang="la">racemus</distinct>. Figs are dried just as they
                are gathered, not being dipped in any lixi-
                vium.</quote>
             </p>
@@ -1063,7 +1063,7 @@
                the slender tops, which afford no good juice,
                keep them under ground till March, and then
                prick them into these hillocks or beds; out of
-               every <distinct type="dialect" xml:lang="la" rend="italic">talea</distinct>, or cut, shoot four, five, or six,
+               every <distinct type="dialect" xml:lang="la">talea</distinct>, or cut, shoot four, five, or six,
                <ecda:flora>canes</ecda:flora>, which will be ripe next December.
                The knots, or joints of the <ecda:flora>cane</ecda:flora> at the bot-
                tom are very close together, scarce an inch
@@ -1114,8 +1114,8 @@
                same pots for 14 or 15 days. To make the <ecda:commodity>sugar</ecda:commodity>
                more white, they must boil it again, but about
                one-sixth is lost every time. A pound of <ecda:commodity>sugar</ecda:commodity>
-               of 12 ounces is sold at <placeName>Olives</placeName> for three <distinct type="dialect" rend="italic">sous</distinct> and
-               an half; refined for five or six <measure rend="italic">sous</measure>. The <ecda:commodity>su-
+               of 12 ounces is sold at <placeName>Olives</placeName> for three <distinct type="economic" rend="italic">sous</distinct> and
+               an half; refined for five or six <distinct type="economic" rend="italic">sous</distinct>. The <ecda:commodity>su-
                gar</ecda:commodity> juice is strained through strainers of <ecda:commodity>linen</ecda:commodity>,
                and is put out of one cauldron into another.
                They take it out of the first and second caul-
@@ -1232,7 +1232,7 @@
                from place to place, and varied, and cultivated,
                on physical principles, by philosophers.
             </p>
-            <p>In <placeName>England</placeName>, the <persName>Duke of <placeName>Bedford</placeName></persName>, and <persName ref="#thomas_coke_1754">Mr.
+            <p>In <placeName>England</placeName>, the <persName><hi rend="mixed">Duke of</hi> <placeName>Bedford</placeName></persName>, and <persName ref="#thomas_coke_1754"><hi rend="mixed">Mr.</hi>
                Coke</persName>, have distinguished themselves in this kind
                of knowledge; and have rendered the most essential
                services to their country.
@@ -1259,13 +1259,13 @@
                into their <rs type="properAdjective">West Indian</rs> islands plants from the
                <placeName>East Indies</placeName>. From their islands the cultivation
                of the <rs type="properAdjective">East Indian</rs> cane has been carried into
-               some of the <rs type="properAdjective">English</rs> islands. <persName ref="#john_laforey_1729">Sir John Laforey</persName>
+               some of the <rs type="properAdjective">English</rs> islands. <persName ref="#john_laforey_1729"><hi rend="mixed">Sir</hi> John Laforey</persName>
                planted them in <placeName>Antigua</placeName>, and has proved their
                present superiority over the old canes of the
                <placeName>West Indies</placeName>. He gives the following account
                of these canes:
             </p>
-            <quote rend="quotes">
+            <quote rend="quotes"> <!-- rendition here? -->
                <p>One sort brought from the island of <placeName>Bourbon</placeName>,
                   reported by the <name>French</name> to be the growth
                   of the coast of <placeName>Malabar</placeName>.
@@ -1301,10 +1301,10 @@
             </quote>
             <p>The method of propagating the sugar cane
                is by cuttings from the top of it, and we know 
-               of no other method; though <persName>Mr. Bruce</persName> says,
+               of no other method; though <persName><hi rend="mixed">Mr.</hi> Bruce</persName> says,
                In <placeName>Abyssinia</placeName> it is raised from the seed. Of this
                fact we have no example; and it is thought
-               that <persName>Mr. Bruce</persName> is mistaken in this matter.
+               that <persName><hi rend="mixed">Mr.</hi> Bruce</persName> is mistaken in this matter.
             </p>
             
             <pb/>
@@ -1346,7 +1346,7 @@
             <fw type="pageNum">25</fw>
             
             <p><persName ref="#louis_hennepin_1626">Father Hennepin</persName> says, <quote rend="quotes">from thirty leauges
-               below <placeName>Maroa</placeName>, down to the sea, the banks of
+               below <placeName rend="italic">Maroa</placeName>, down to the sea, the banks of
                the <placeName>Missisippi</placeName> are full of <ecda:flora>canes</ecda:flora>.</quote> This was in
                <date when="1680">1680</date>, when he was there. He was the first
                <name>European</name> who explored the country adjacent
@@ -1354,14 +1354,14 @@
             </p>
             <p><persName>Francis Ximenes</persName>, in his treatise on the
                plants of <placeName>America</placeName>, says the sugar cane grows
-               spontaneously near the <placeName>Rio della Plata</placeName>; this is
+               spontaneously near the <placeName rend="italic">Rio della Plata</placeName>; this is
                also asserted by <persName ref="#francisco_hernandez_de_toledo_1514">Hernandes</persName> and <persName ref="#willem_piso_1611">Piso</persName>. This
                river was discovered in <date when="1515">1515</date> by <persName ref="#juan_diaz_de_solis_1470">John Dias de
                Solis</persName>,a <name>Spaniard</name>; and the country about it
                conquered by <persName ref="#pedro_de_mendoza_1487">Pedro de Mendoza</persName>, in <date when="1535">1535</date>.
             </p>
             <p><persName ref="#jean_de_lery_1536">Jean de Lery</persName>, who went in <date when="1556">1556</date> to the
-               <placeName>Rio Janeiro</placeName>, in <placeName>Brazil</placeName>, says, he found every 
+               <placeName rend="mixed">Rio Janeiro</placeName>, in <placeName>Brazil</placeName>, says, he found every 
                where near that river a great quantity of sugar
                canes; and it is certain that they could not
                have been planted by the <name>Portuguese</name>, as they
@@ -1415,12 +1415,12 @@
             <pb/>
             <fw type="pageNum">27</fw>
             
-            <p>His son <persName ref="#diego_columbus_1479">James</persName> settled, and planted it in
+            <p>His son <persName ref="#diego_columbus_1479" rend="mixed"><hi rend="italic">James</hi></persName> settled, and planted it in
                <date when="1509">1509</date>. What improvements it received by the
                <name>Spaniards</name>, during the time they were in possession 
                of it, are but little known. They continued
                there however undisturbed until <date when="1596">1596</date>;
-               when <persName ref="#anthony_shirley_1565">Sir Anthony Shirley</persName>, with a single
+               when <persName ref="#anthony_shirley_1565"><hi rend="mixed">Sir</hi> Anthony Shirley</persName>, with a single
                man of war, took and plundered <placeName>St. Jago de
                la Vega</placeName>; which then consisted of 2000 houses.
                In the year <date when="1635">1635</date>, this town was again plundered
@@ -1439,9 +1439,9 @@
                who brought the plants from <placeName>St. Domingue</placeName>.
                There were in <placeName>Jamaica</placeName>, on the arrival of the
                <name>English</name>, only three small plantations in the
-               island; the chif of which was at the <placeName>Angels</placeName>.
+               island; the chif of which was at the <placeName rend="italic">Angels</placeName>.
             </p>
-            <p><persName ref="#thomas_modyford_1620">Sir Thomas Modyford</persName>, a rich and eminent
+            <p><persName ref="#thomas_modyford_1620"><hi rend="mixed">Sir</hi> Thomas Modyford</persName>, a rich and eminent
                planter of <placeName>Barbadoes</placeName>, was the person who first
                planted and cultivated the <ecda:flora>sugar cane</ecda:flora>, for the
                purpose of making <ecda:commodity>sugar</ecda:commodity>, in <placeName>Jamaica</placeName>. This
@@ -1454,7 +1454,7 @@
                agricultural knowledge, to the great advantage of the
                island; which he contributed to improve and
                benefit, in a very extensive manner. <persName ref="#charles_ii_england_1630">Charles
-               the second</persName> appointed him governor of the 
+               <hi rend="mixed">the second</hi></persName> appointed him governor of the 
                island in <date when="1664">1664</date>: in which situation he continued
                until <date when="1669">1669</date>.
             </p>
@@ -1582,9 +1582,9 @@
             
             <p><persName>Gonzales Ferdinandus Oviedus</persName>, who lived
                in <placeName>Hispaniola</placeName> in <date when="1515">1515</date>, and was governor of
-               the city of <placeName>Sancta Maria</placeName> in <placeName>Darien</placeName> in <date when="1522">1522</date>,
-               says, <bibl>p. 225 of <title>the Summary of his General
-               History of the <placeName>West Indies</placeName></title></bibl>, <quote rend="quotes">there is such
+               the city of <placeName rend="italic">Sancta Maria</placeName> in <placeName>Darien</placeName> in <date when="1522">1522</date>,
+               says, p. 225 of <title>the Summary of his General
+               History of the <placeName>West Indies</placeName></title>, <quote rend="quotes">there is such
                abundance of sugar in <placeName>Mexico</placeName>, that certain
                <rs type="properAdjective">Spanish</rs> ships are yearly freighted therewith,
                and bring the same unto <placeName>Seville</placeName>, in <placeName>Spain</placeName>;
@@ -1607,7 +1607,7 @@
             <p>He mentions this among other articles of
                the agriculture of the <name>Indians</name>, before the <name>Spaniards</name>
                went among them; for <persName ref="#vasco_nunez_de_balboa_1475">Vasco
-               Nunez and Balboa</persName> crossed to the <placeName>South Sea</placeName>,
+               Nunez <hi rend="mixed">and</hi> Balboa</persName> crossed to the <placeName>South Sea</placeName>,
                and settled <placeName>Panama</placeName> in <date when="1513">1513</date>, yet the 
                <name>Spaniards</name> were never in any part of <placeName>Peru</placeName>, before
                
@@ -1627,7 +1627,7 @@
             <p>This immense scene of blood was not closed
                by the <name>Spaniards</name>, without many tragical events
                among themselves. <persName ref="#diego_de_almagro_1475">Almagro</persName>, the conqueror
-               of <placeName>Chili</placeName>, was strangled before <persName>Cusco</persName>, by 
+               of <placeName>Chili</placeName>, was strangled before <persName rend="mixed">Cusco</persName>, by <!-- is this a <persName>? -->
                <persName ref="#hernando_pizarro_1478">Hernand Pizarro</persName> in <date when="1538">1538</date>; and <persName ref="#francisco_pizarro_1471">Francis Pizarro</persName>,
                the conqueror of <placeName>Peru</placeName>, was assassinated at <placeName>Lima</placeName>
                in <date when="1541">1541</date>.
@@ -1639,10 +1639,10 @@
                rain in those countries.
             </p>
             <p>This part of <placeName>Peru</placeName> was then inhabited entirely
-               by <name>Indians</name>; for, though <placeName>St. Michael</placeName> was
+               by <name>Indians</name>; for, though <placeName rend="mixed">St. Michael</placeName> was
                the first city built by the <name>Spaniards</name> in <placeName>Peru</placeName>, it
                was not founded until <date when="1541">1541</date> by <persName ref="#francisco_pizarro_1471">Pizarro</persName>, before
-               the capture of <placeName>Atabalipa</placeName>; and, consequently,
+               the capture of <placeName rend="italic">Atabalipa</placeName>; and, consequently,
                before the wars were ended, or that the <name>Spaniards</name>
                had turned their thoughts to agriculture.
                
@@ -1664,7 +1664,7 @@
                they were highly esteemed, and are now become 
                of no value or estimation.</quote>
             </p>
-            <quote xml:id="q002" prev="#q001">
+            <quote xml:id="q002" prev="#q001" rend="quotes">
                <p>The first Sugar works in <placeName>Peru</placeName> were made
                in <placeName rend="italic">Huanca</placeName>, by the contrivance of a
                <ecda:anonPers a-gender="male">gentleman</ecda:anonPers> with whom I was well acquainted. A
@@ -1697,30 +1697,30 @@
             </p>
             <quote xml:id="q004" prev="#q003" rend="quotes">
                <p>It was told me, that the engine for
-               making sugar in <placeName>Nasca</placeName>, in <placeName>Peru</placeName>, was worth
+               making sugar in <placeName rend="italic">Nasca</placeName>, in <placeName>Peru</placeName>, was worth
                yearly above thirty thousand pieces of revenue.
-               That of <placeName>Chicama</placeName>, joining <placeName>Truxillo</placeName>, in the                <!-- what is this -->
+               That of <placeName rend="italic">Chicama</placeName>, joining <placeName rend="italic">Truxillo</placeName>, in the                <!-- what is this -->
                same country, was likewise of great revenue,
                and those of <placeName>New Spain</placeName>, are no less; and it
                is strange to see what store they consume at the
-               <placeName>Indies</placeName>. They brought the island of <placeName>Saint
+               <placeName>Indies</placeName>. They brought the island of <placeName rend="italic">Saint
                Domingue</placeName> in the fleet wherein I came, 898
                chests of sugar, which being, as I did see,
-               shipped at <placeName>Porto Rico</placeName>, every chest, in my
+               shipped at <placeName rend="italic">Porto Rico</placeName>, every chest, in my
                opinion, weighed eight <distinct type="dialect" rend="italic">arobes</distinct>, every <distinct type="dialect" rend="italic">arobes</distinct>
                weighing five and twenty pounds, which are two
                hundred weight of sugar. This is the chief
                revenue of these islands, so much are men
                given to sweet things</p>
             </quote>
-            <p><persName ref="#thomas_gage_1597">Thomas Gave</persName>, who went to <placeName>New Spain</placeName> in
+            <p><persName ref="#thomas_gage_1597">Thomas Gage</persName>, who went to <placeName>New Spain</placeName> in
                <date when="1625">1625</date>, says (p.236), in the voyage the <rs type="properAdjective">Spanish</rs>
                
                <pb/>
                <fw type="pageNum">36</fw>
                
                fleet, in which he was, touched the island
-               of <placeName>Guadaloupe</placeName>; <quote rend="quotes">where the <name>Indians</name> with great
+               of <placeName rend="italic">Guadaloupe</placeName>; <quote rend="quotes">where the <name>Indians</name> with great
                joy yearly expect the <rs type="properAdjective">Spanish</rs> fleets; and by
                the moons reckon the months, and thereby
                guess at their coming; and some prepare sugar
@@ -1737,25 +1737,25 @@
                possessed it. The sugar cane, consequently,
                was the natural production of <rs type="place">that Island</rs>.
             </p>
-            <p><persName ref="#gage_thomas_1597">Gage</persName> says, <bibl>cap. 15</bibl>, <quote rend="quotes">two or three leauges
-               from the <rs type="properAdjective">Indian</rs> town of <placeName>Chipapa</placeName> there are (in
+            <p><persName ref="#gage_thomas_1597">Gage</persName> says, cap. 15, <quote rend="quotes">two or three leauges
+               from the <rs type="properAdjective">Indian</rs> town of <placeName rend="italic">Chiapa</placeName> there are (in
                <date when="1626">1626</date>) two Igenios or Farms of sugar, one
                belonging to the cloister of the <name>Dominicans</name> of
-               the <rs type="properAdjective">Spanish</rs> city of <placeName>Chiapa</placeName>, which is twelve
+               the <rs type="properAdjective">Spanish</rs> city of <placeName rend="italic">Chiapa</placeName>, which is twelve
                leauges from this town, the other to the cloister
                of this town, which contain near two hundred
                <name>Black-Moors</name>, beside many <name>Indians</name>, who are
                employed in that constant work of making
                sugar for all the country.</quote> He also remakrs,
                in the same chapter, that sugar was an article
-               of commerce, and sent from <placeName>Chiapa</placeName> down the
+               of commerce, and sent from <placeName rend="italic">Chiapa</placeName> down the
                
                <pb/>
                <fw type="pageNum">37</fw>
                
-               <placeName>river Tabasco</placeName>, to be transported to the <placeName>Havannah</placeName>.
-               The towns of <placeName>Chiapa</placeName> are in the province
-               of <placeName>Chiapa</placeName>, which joins to <placeName>Guatimala</placeName>.
+               <placeName rend="italic"><hi rend="upright">river</hi> Tabasco</placeName>, to be transported to the <placeName>Havannah</placeName>.
+               The towns of <placeName rend="italic">Chiapa</placeName> are in the province
+               of <placeName rend="italic">Chiapa</placeName>, which joins to <placeName rend="italic">Guatimala</placeName>.
             </p>
             <p>The <name>Portuguese</name> first established Sugar Works
                in the <placeName>Brazils</placeName>, in 1850. They had no settlement
@@ -1798,7 +1798,7 @@
                that the great work of sugar-making
                was but newly practised by the inhabitatns
                there. Some of the most industrious men,
-               having gotten plants from <placeName>Ferambrock</placeName>, a place
+               having gotten plants from <placeName rend="italic">Ferambrock</placeName>, a place
                in <placeName>Brazil</placeName>, and made trial of them at the
                <placeName>Varvadoes</placeName>, and finding them to grow, they
                planted more and more, as they grew and
@@ -1874,9 +1874,60 @@
            <fw type="pageNum">41</fw> 
             <head>Sugar.</head>
             <head type="sub">Part the Second.</head>
-            <div type="undetermined">
-               
-            </div>
+            <table>
+               <row>
+                  <cell>Μελι καλαμινον.</cell>
+                  <cell><persName ref="#theophrastus_0571">Theophrastus</persName></cell>
+               </row>
+               <row>
+                  <cell>Σακχαρον.</cell> 
+                  <cell><persName ref="#pedanius_dioscorides_0040">Dioscorides</persName></cell>
+               </row>
+               <row>
+                  <cell>Saccaron</cell>
+                  <cell><persName ref="#pliny_0023">Plinius</persName></cell>
+               </row>
+               <row>
+                  <cell>Σακχαρι. Μελι καλαμινον.</cell> 
+                  <cell><persName ref="#arrian_0086">Arrianus</persName></cell>
+               </row>
+               <row>
+                  <cell>Σακχαρ.</cell> 
+                  <cell><persName ref="#galen_0129">Galenus</persName></cell>
+               </row>
+               <row>
+                  <cell>Αλς Ινδικος.</cell>
+                  <cell><persName ref="#paul_of_aegina_0625">P. Ægineta</persName>, ab <persName ref="#archigenes_0001">Archigenes</persName></cell>
+               </row>
+               <row>
+                  <cell>Saccharum</cell>
+                  <cell><name rend="italic">Latinè</name></cell>
+               </row>
+               <row>
+                  <cell>Zuchar</cell>
+                  <cell><name rend="italic">Arabicè</name></cell>
+               </row>
+               <row>
+                  <cell>Zuccharo.</cell>
+                  <cell><name rend="italic">Italicè</name></cell>
+               </row>
+               <row>
+                  <cell>Acucar.</cell> <!-- c with cedilla u with aigu -->
+                  <cell><name rend="italic">Hispanicè</name></cell>
+               </row>
+               <row>
+                  <cell>Sucre.</cell> 
+                  <cell><name rend="italic">Gallicè</name></cell>
+               </row>
+               <row>
+                  <cell>Zucker.</cell> <!-- u with aigu -->
+                  <cell><name rend="italic">Germanicè</name></cell>
+               </row>
+               <row>
+                  <cell>Suycker.</cell>
+                  <cell><name rend="italic">Belgicè</name></cell>
+               </row>
+            </table>
             <div type="section">
                <fw type="pageNum">43</fw>
                <head>History of Sugar</head>
@@ -1906,8 +1957,8 @@
                <p>He says,—<quote xml:lang="la" rend="italic">Exercitationes nostræ docent illud
                   <distinct type="dialect" xml:lang="el">σακχαρον</distinct> esse quod hoc tempore vocatur apud Indos
                   Sacar-Mambu; qhod in arundine Indica arboreæ
-                  ac vastæ proceritatis sponte crescit.</quote> <bibl><title>De
-                  Sacharo Commentarius.</title></bibl>
+                  ac vastæ proceritatis sponte crescit.</quote> <title>De
+                  Sacharo Commentarius.</title>
                </p>
                <p>He also says, this <distinct type="dialect">sacar mambu</distinct> of the <name>Indians</name>
                   was the <distinct type="dialect">tabaxir</distinct> of the <name>Arabians</name>; but
@@ -2338,7 +2389,7 @@
                   white. He says also, from <persName>Mescha</persName>, that its
                   qualities depend on the nature of the trees on
                   which it falls. He has another species of
-                  manna, <bibl>Cap. 41.</bibl> which he calls <distinct type="dialect">tereniabin</distinct>,—
+                  manna, Cap. 41. which he calls <distinct type="dialect">tereniabin</distinct>,—
                   <distinct type="dialect">mel roris</distinct>, and which he says, from
                   <persName>Ebenamrez</persName>, falls on trees with thorns, in the East.
                </p>
@@ -2402,8 +2453,8 @@
                   of sugar now in use. His own words are,—
                   <quote rend="block" xml:lang="la">Fallitur itaque mirum in modum si quies <distinct type="dialect" xml:lang="el">μελι καλαμωον</distinct>,
                   aut <distinct xml:lang="el" type="dialect">αλας Ινδικου</distinct>, aut <distinct type="dialect" xml:lang="el">σακχαρον</distinct>, antiquum
-                  idem putat cum nostro saccharo.</quote> <bibl><title>De Saccharo
-                  Comment.</title></bibl>
+                  idem putat cum nostro saccharo.</quote> <title>De Saccharo
+                  Comment.</title>
                </p>
                <p>It may now be proper to see what the ancients
                   have left on record relative to our subject, 
@@ -3109,7 +3160,7 @@
                   à melle plurimum valde; et sit zuccarum minus
                   calidum quam mel, et magis remotum valde, ut
                   convertatur in choleram, quam mel.</quote> 
-                  <bibl>Tract. de Syrupo Acetoso</bibl>
+                  <title>Tract. de Syrupo Acetoso</title>
                   <quote rend="quotes">That sugar should be used in the syrup of
                   wod sorrel (which was used among the <name>Arabians</name>
                   to make a cooling beverage in the summer
@@ -3238,7 +3289,7 @@
                   straight, and beautifyl; and musical bards,
                   in their love songs, compare the limbs of
                   their mistresses to it.</quote>
-                  <bibl>De Temperament. Simpl. cap. 50.</bibl>
+                  <title>De Temperament. Simpl.</title> cap. 50.
                </p>
                <p><persName ref="#yahya_ibn_sarafyun_0001 #serapion_the_younger_0001">Serapion</persName> has a chapter also from <persName ref="#masawaiyh_0777" cert="medium">Aben
                   Mesuai</persName>, on the <distinct type="dialect">pinidii</distinct>, before mentioned, by
@@ -3782,13 +3833,13 @@
                   into the eyes, in fine powder, it takes away
                   their dimness, and heals them being bloodshot;
                   it cleanses old sored, being strewed gently on
-                  them</quote> <bibl>Histoire géneéral de Drogues, Lib II.
+                  them</quote> <bibl><title>Histoire géneéral de Drogues</title>, Lib II.
                   cap. 38, anno 1694.</bibl>
                </p>
                <p><persName ref="#nicolas_lemery_1645">Lemery</persName> gives nearly a similar account of
                   sugar; but says it is hurtful to the teeth, and
-                  causes vapours. <bibl>Traité Universel des Drogues
-                  Simples, anno 1693,</bibl>
+                  causes vapours. <bibl><title>Traité Universel des Drogues
+                  Simples</title>, anno 1693,</bibl>
                </p>
                <p><persName ref="#paul_hermann_1646">Hermann</persName> says, <quote rend="prequotes" xml:id="q043" next="#q044">Sugar consists of a sweet
                   soft mucilage, and an agreeable sharpness;
@@ -3823,7 +3874,7 @@
                   and gums; rendering the breath offensive, and
                   the teeth black and rotten. In glysters it is
                   good against worms, and is also an anthelmintic
-                  remedy taken by the mouth.</quote> <bibl>Cynosura,
+                  remedy taken by the mouth.</quote> <bibl><title>Cynosura</title>,
                   vol. I. p. 704. &amp; seq, anno 1710.</bibl>
                </p>
                <p><persName ref="#herman_boerhaave_1668">Boerhaave</persName> says,—
@@ -3839,8 +3890,8 @@
                   
                   attenuation, produce debility, and too great
                   laxity. For which reason, it is often found
-                  hurtful to the ricketty and scorbutic.</quote> <bibl>Element.
-                  Chemiæ, vol. II. p. 260, anno, 1742.</bibl>
+                  hurtful to the ricketty and scorbutic.</quote> <bibl><title>Element.
+                  Chemiæ</title>, vol. II. p. 260, anno, 1742.</bibl>
                </p>
                <p><persName ref="#etienne_geoffroy_saint_hilaire_1772">Geoffroy</persName> says,
                   <quote rend="prequotes" xml:id="q047" next="#q048">Sugar, taken moderately with food, affords
@@ -3903,7 +3954,7 @@
                   and the bowels; from whence the best quality
                   of the blood, and other humours of the body
                   depending on the first concoction, is produced.</quote>
-                  <bibl>De Vegetabilibus, Sect. I. Art. 9, anno 1741.</bibl>
+                  <bibl><title>De Vegetabilibus</title>, Sect. I. Art. 9, anno 1741.</bibl>
                </p>
                
                <pb/>
@@ -3940,7 +3991,7 @@
                   cold, coughs, and catarrhs; which are diseases
                   that reign in cold climates, especially in
                   islands, where the air is moister than in
-                  continents.</quote> <bibl>History of <placeName>Barbadoes</placeName>, anno 1673.</bibl>
+                  continents.</quote> <bibl><title>History of <placeName>Barbadoes</placeName></title>, anno 1673.</bibl>
                </p>
                <p><persName ref="#frederick_slare_1647">Slare</persName> says,—<quote rend="quotes" xml:id="q059" next="#q060">I have a strong and home
                   argument to recommend the use of sugar to
@@ -3997,8 +4048,8 @@
                   drinking, take notice of this counsel, and try
                   it for some time; and they will be pleased with
                   the delicious taste, and salubrious effects, of
-                  this saccharine addition.</quote> <bibl>Vindication of
-                  Sugars, anno 1715.</bibl>
+                  this saccharine addition.</quote> <bibl><title>Vindication of
+                  Sugars</title>, anno 1715.</bibl>
                </p>
                
                <pb/>
@@ -4685,9 +4736,9 @@
                   vegetable production; to which any use, or
                   application, is assigned as such.
                </p>
-               <p>These places are in <bibl>Exodus, c. xxx. v. 23.</bibl>
-                  <bibl>Canticles, c.iv. v. 14.</bibl> <bibl>Isaiah, c. xliii. v. 24.</bibl>
-                  <bibl>Jeremiah, c. vi. v. 20.</bibl> and <bibl>Ezekiel, c. xxcii. vi. 19.</bibl>
+               <p>These places are in <bibl><title>Exodus</title>, c. xxx. v. 23.</bibl>
+                  <bibl><title>Canticles</title>, c.iv. v. 14.</bibl> <bibl><title>Isaiah</title>, c. xliii. v. 24.</bibl>
+                  <bibl><title>Jeremiah</title>, c. vi. v. 20.</bibl> and <bibl><title>Ezekiel</title>, c. xxcii. vi. 19.</bibl>
                </p>
                <p>If we examine the passages here referred to,
                   we shall find that <distinct xml:lang="he" type="dialect">קגה</distinct> has been doubtfully
