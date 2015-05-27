@@ -153,7 +153,7 @@
               <p><bibl><title>De Pulmonis et cæteris Thoracis Vitiis</title>, Lib. IV. Cap, 4.
               Lib. V. cap. 1. cap. 2. cap. 4. cap. 5. cap. 8.</bibl> He likewise mentions
               the sugar called <distinct type="dialect" xml:lang="la">penidii</distinct>, Lib. V. cap. 6 and 9.—this <distinct type="dialect" xml:lang="la">penidii</distinct>, or
-              <distinct type="dialect" xml:lang="la">penidium saccharum</distinct>, is deminimated by the <rs type="place">Greek</rs> writers <distinct type="dialect" xml:lang="el"><unclear>ϖεγιδικ</unclear></distinct>.
+              <distinct type="dialect" xml:lang="la">penidium saccharum</distinct>, is deminimated by the <rs type="place">Greek</rs> writers <distinct type="dialect" xml:lang="el" rend="upright"><unclear>ϖεγιδικ</unclear></distinct>.
               </p>
               <p>It is thought to have been a preparation of sugar, like what we
               call barley-sugar.
@@ -252,7 +252,7 @@
               <bibl><title>Exodus</title>, c.xxv. v.32.</bibl>
            </note>
            <note xml:id="n043" target="#a043">
-              <p><distinct type="dialect" xml:lang="he">ךוקה</distinct> an apothecary, or compounder of sweet ointments.</p>
+              <p><distinct type="dialect" xml:lang="he" rend="upright">ךוקה</distinct> an apothecary, or compounder of sweet ointments.</p>
            </note>
            <note xml:id="n044" target="#a044">
               <bibl><title>Proverbs</title>, c. vii. v. 17. English Bible</bibl>
@@ -410,14 +410,14 @@
               <p>This <name>Obi</name>, or, as it is pronounced in the <placeName>English West Indies</placeName>,
               <distinct type="dialect">Obeah</distinct>, had its origin, like many customs among the <name>Africans</name>,
               from the ancient <name>Egyptians</name>.</p>
-              <p><distinct type="dialect" xml:lang="he">אוב</distinct> <distinct type="dialect">OB</distinct> is a demon, a spirit of divination, and magic. When
+              <p><distinct type="dialect" xml:lang="he" rend="upright">אוב</distinct> <distinct type="dialect">OB</distinct> is a demon, a spirit of divination, and magic. When
               <persName ref="#saul_0001">Saul</persName> wanted to raise up <persName ref="#samuel_0001">Samuel</persName> from the dead, he said to his
-              servants, <quote>Seek me a woman (<distinct type="dialect" xml:lang="he">בעלה אוב</distinct> eminent for <distinct type="dialect">Ob</distinct>) that
+              servants, <quote>Seek me a woman (<distinct type="dialect" xml:lang="he" rend="upright">בעלה אוב</distinct> eminent for <distinct type="dialect">Ob</distinct>) that
               hath a familiar spirit</quote></p>
               
               <pb xml:id="pbn001" corresp="#pb001"/>
               
-              <p>His servants replied to him, <quote>There is (<distinct type="dialect" xml:lang="he">אשה בעלה אוב</distinct>
+              <p>His servants replied to him, <quote>There is (<distinct type="dialect" xml:lang="he" rend="upright">אשה בעלה אוב</distinct>
               a woman mistress in the art of <distinct type="dialect">Ob</distinct>) that hath a familiar spirit, at
               <placeName>Endor</placeName>.</quote></p>
               <p>When the witch of <placeName>Endor</placeName> came to <persName ref="#saul_0001">Saul</persName>, he said to her, 
@@ -564,12 +564,12 @@
                </row>
                <row role="data">
                   <cell role="data"><ecda:commodity><distinct type="dialect">Viba &amp; Tacomareé &amp;</distinct>
-                  <distinct xml:lang="la">Canna Sacchari</distinct></ecda:commodity>.</cell>
+                  <distinct type="dialect" xml:lang="la">Canna Sacchari</distinct></ecda:commodity>.</cell>
                   <cell role="data"><bibl rend="smallcaps">Ib.</bibl></cell>
                </row>
                <row role="data">
                   <cell role="data"><ecda:commodity><distinct type="dialect">Vubæ &amp; Tacomareé</distinct>
-                  <distinct xml:lang="la"><rs type="properAdjective">Brasiliensibus</rs></distinct></ecda:commodity></cell>
+                  <distinct type="dialect" xml:lang="la">Brasiliensibus</distinct></ecda:commodity></cell>
                   <cell role="data"><bibl><author><persName ref="#georg_marcgrave_1610">Marcgrav</persName></author>, 82.</bibl></cell>
                </row>
             </table>
@@ -1912,7 +1912,7 @@
                   <cell><name rend="italic">Italicè</name></cell>
                </row>
                <row>
-                  <cell>Acucar.</cell> <!-- c with cedilla u with aigu -->
+                  <cell>Açúcar.</cell> 
                   <cell><name rend="italic">Hispanicè</name></cell>
                </row>
                <row>
@@ -1920,7 +1920,7 @@
                   <cell><name rend="italic">Gallicè</name></cell>
                </row>
                <row>
-                  <cell>Zucker.</cell> <!-- u with aigu -->
+                  <cell>Zúcker.</cell> 
                   <cell><name rend="italic">Germanicè</name></cell>
                </row>
                <row>
@@ -1944,7 +1944,7 @@
                   (<persName ref="#claudius_salmasius_1588">Saumaise</persName>, his proper name), who went to
                   reside at <placeName>Leyden</placeName> in <date when="1632">1632</date>, asserts, that what
                   authors denominate the <distinct type="dialect" xml:lang="la">sacar mambu</distinct> of the
-                  <name>Indians</name>, was the <distinct type="dialect" xml:lang="el">σακχαρον</distinct>, or sugar, of the
+                  <name>Indians</name>, was the <distinct type="dialect" xml:lang="el" rend="upright">σακχαρον</distinct>, or sugar, of the
                   ancients.
                </p>
                <p>By the word ancients, in this treatise, the 
@@ -1955,7 +1955,7 @@
                   <fw type="pageNum">44</fw>
                   
                <p>He says,—<quote xml:lang="la" rend="italic">Exercitationes nostræ docent illud
-                  <distinct type="dialect" xml:lang="el">σακχαρον</distinct> esse quod hoc tempore vocatur apud Indos
+                  <distinct type="dialect" xml:lang="el" rend="upright">σακχαρον</distinct> esse quod hoc tempore vocatur apud Indos
                   Sacar-Mambu; qhod in arundine Indica arboreæ
                   ac vastæ proceritatis sponte crescit.</quote> <title>De
                   Sacharo Commentarius.</title>
@@ -1963,8 +1963,8 @@
                <p>He also says, this <distinct type="dialect">sacar mambu</distinct> of the <name>Indians</name>
                   was the <distinct type="dialect">tabaxir</distinct> of the <name>Arabians</name>; but
                   that the <name>Arabians</name> were ignorant how it was
-                  produced, as were the ancient <name>Greeks</name> of the <distinct type="dialect">generatio
-                  Mellis Calamini, sive <distinct type="dialect" xml:lang="el">σακχαρον</distinct></distinct>; who thought 
+                  produced, as were the ancient <name>Greeks</name> of the <distinct type="dialect" xml:lang="la">generatio
+                  Mellis Calamini, sive <distinct type="dialect" xml:lang="el" rend="upright">σακχαρον</distinct></distinct>; who thought 
                   it was the dew, which, falling on the <rs type="properAdjective">Indian</rs> 
                   canes, concreted: and that it was a kind of 
                   manna.
@@ -1986,7 +1986,7 @@
                   
                   <fw type="pageNum">45</fw>
                   
-                  of the <name>Indians</name> and the real <distinct type="dialect" xml:lang="el">μελι σακχαρον</distinct> of
+                  of the <name>Indians</name> and the real <distinct type="dialect" xml:lang="el" rend="upright">μελι σακχαρον</distinct> of
                   the <name>Greeks</name>. He says the antients gave it the
                   appellation of sugar, which the <name>Arabians</name> did
                   not; because they believed it to be the ashes,
@@ -2006,7 +2006,7 @@
                   corroboration of his opinion, to shew, that
                   the virtues attributed by the <name>Arabians</name> to the
                   <distinct type="dialect">tabaxir</distinct> coincide with those which the <name>Greeks</name>
-                  ascribed to their <distinct type="dialect" xml:lang="el">σακχαρον</distinct>
+                  ascribed to their <distinct type="dialect" xml:lang="el" rend="upright">σακχαρον</distinct>
                </p>
                <p>In these conjunctures, I believe, it will appear
                   that the most learned <persName ref="#claudius_salmasius_1588">Salmasius</persName> is mistaken;
@@ -2015,7 +2015,7 @@
                   <distinct type="dialect">tabasis</distinct>, <distinct type="dialect">tabasir</distinct>, and <distinct type="dialect">sabascir</distinct>, of <persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhasis</persName>,
                   <persName ref="#avicenna_0980">Avicenna</persName>, <persName ref="#yahya_ibn_sarafyun_0001 #serapion_the_younger_0001" cert="medium">Serapion</persName>, and <persName ref="#averroes_1126">Averroes</persName>, was
                   neither the <distinct type="dialect">sacar-mambu</distinct> of the <name>Indians</name>, nor
-                  the σακχαρον of the antients.
+                  the <distinct type="dialect" xml:lang="el" rend="upright">σακχαρον</distinct> of the antients.
                </p>
                
                <fw type="pageNum">46</fw>
@@ -2025,7 +2025,7 @@
                   <distinct type="dialect">tabaxir</distinct>.
                </p>
                <p><bibl><author><persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhases</persName></author></bibl> (anno <date when="0930">930</date>) says,—
-                  <quote xml:lang="la">Tarathit, it est Spodium, frigida est &amp; sicca,
+                  <quote xml:lang="la" rend="italic">Tarathit, it est Spodium, frigida est &amp; sicca,
                   qhæ &amp; ventrem stringit, &amp; sanguinem exire prohibet.
                   Spudium frigidum est &amp; siccum, quod sebribus
                   acutis, ac siti, &amp; nimio ventris fluxui, &amp;
@@ -2034,8 +2034,8 @@
                   <bibl><title>De Simplicibus</title>, cap. 36.</bibl>
                </p>
                
-               <p><persName ref="#avicenna_0980">Avicenna</persName> (anno <date when="1040">1040</date>) says, <quote>Thabasir (the
-                  translator calls it Spodium) quid est? Cannarum
+               <p><persName ref="#avicenna_0980">Avicenna</persName> (anno <date when="1040">1040</date>) says, <quote xml:lang="la" rend="italic">Thabasir</quote> (the
+                  translator calls it Spodium) <quote xml:lang="la" rend="italic">quid est? Cannarum
                   adjustæ; dicitur enim quod ipsæ aduruntur propter
                   fricationem suarum extremitatem, quum ventus eas
                   perflat. Frigidum est in secundo &amp; siccum in
@@ -2063,12 +2063,12 @@
                </p>
                <p><persName ref="#yahya_ibn_sarafyun_0001 #serapion_the_younger_0001">Serapion</persName> (anno <date when="1070">1070</date>) says, adducing his
                   authorities,—
-                  <quote rend="block" xml:lang="la">Sataiscir, vel Rescius, id est Spodium.</quote>
+                  <quote rend="block" xml:lang="la"><hi rend="italic">Sataiscir, vel Rescius, id est Spodium.</hi></quote>
                </p>
                <p><persName>Bedigores</persName>,—<quote rend="italic" xml:lang="la">Proprietatis spodii est, quod
                   confert caliditati choleræ.</quote>
                </p>
-               <p><persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhases</persName> <distinct type="dialect" xml:lang="la">ex verbo</distinct> <persName ref="#galen_0129">Galeni</persName>,—<quote rend="italic">In spodio est
+               <p><persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhases</persName> <distinct type="dialect" xml:lang="la">ex verbo</distinct> <persName ref="#galen_0129">Galeni</persName>,—<quote xml:lang="la" rend="italic">In spodio est
                   resolutio, &amp; prohibitio, &amp; repercussio, &amp; infrigidatio,
                   sed infrigidatio ejus est fortior, &amp; in sapore ejus
                   est amaritudo, &amp; stipicitas, &amp; propter hoc deficcat.
@@ -2118,13 +2118,13 @@
                   them, had considered the <distinct type="dialect">tabaxir</distinct>, to be the 
                   ashes of the <rs type="properAdjective">Indian</rs> canes; or of their joints,
                   or roots: and being of a greyish colour, like
-                  spodium, (pompholix, tutty, putty) rendered the
-                  word <distinct type="dialect">tabaxir</distinct>, by that appellation, from <distinct type="dialect" xml:lang="el">σποδος</distinct>,
+                  <distinct type="dialect">spodium, (pompholix, tutty, putty)</distinct> rendered the
+                  word <distinct type="dialect">tabaxir</distinct>, by that appellation, from <distinct type="dialect" xml:lang="el" rend="upright">σποδος</distinct>,
                   ashes. But as it was given internally, it certainly
                   
                   <fw type="pageNum">49</fw>
                   
-                  could not be the <distinct xml:lang="el" type="dialect">σποδος</distinct> of the <name>Greeks</name>;
+                  could not be the <distinct rend="upright" xml:lang="el" type="dialect">σποδος</distinct> of the <name>Greeks</name>;
                   which was the fordes, or recrement of melting
                   brass: and never employed by them but for 
                   external purposes.
@@ -2138,7 +2138,7 @@
                   dazzling display of learning, the imperfect
                   knowledge he had of the history of sugar:
                   taken chiefly form the uninformed travellers, and
-                  particularly from <persName ref="#garcia_de_orta_1501">Garcias ab Orta</persName>, in respect
+                  particularly from <persName ref="#garcia_de_orta_1501">Garcias <hi rend="mixed">ab <placeName rend="italic">Orta</placeName></hi></persName>, in respect
                   to the <distinct type="dialect">tabaxir</distinct>.
                </p>
                <p><persName ref="#garcia_de_orta_1501">Garcias</persName>, who as a <rs type="properAdjective">Portuguese</rs> physician,
@@ -2207,7 +2207,7 @@
                   observes that in the latin version of <persName ref="#yahya_ibn_sarafyun_0001 #serapion_the_younger_0001">Serapion</persName>,
                   it has been corruptly rendered <distinct type="dialect">sataiscir</distinct>. He
                   says <quote rend="quotes">it is evident from what is stated, that
-                     <persName ref="#avicenna_0980">Avicenna</persName> was mistaken in supposing the
+                  <persName ref="#avicenna_0980">Avicenna</persName> was mistaken in supposing the
                   <distinct type="dialect">tabaxir</distinct> to be the ashes of the roots of the 
                   canes.</quote>
                </p>
@@ -2218,11 +2218,11 @@
                   of the <rs type="properAdjective">Indian</rs>, <rs type="properAdjective">Arabian</rs>, <rs type="properAdjective">Persian</rs>, and
                   <rs type="properAdjective">Turkish</rs> physicians, the <distinct type="dialect">tabaxir</distinct> is used not
                   only in external, but in internal inflammations; and also in bilius fevers and dysenteries.</quote>
-                  <bibl><title>Historia Aromatum</title>, Lib. I. Cap. 12.</bibl>
+                  <bibl rend="italic"><title>Historia Aromatum</title>, Lib. <hi rend="upright">I</hi>. Cap. 12.</bibl>
                </p>
                <p><persName ref="#willem_piso_1611">Piso</persName> a <rs type="properAdjective">Dutch</rs> physician, who lived in the
                   <placeName>Brasils</placeName> in the beginning of the last centiry,
-                  says, <quote rend="quotes">in <placeName>Egypt</placeName> the <distinct type="dialect">sacar</distinct> of the <name>Arabians</name>,
+                  says, <quote rend="prequotes">in <placeName>Egypt</placeName> the <distinct type="dialect">sacar</distinct> of the <name>Arabians</name>,
                   from whence our word sugar is derived, is
                   
                   <pb/>
@@ -2232,7 +2232,7 @@
                   by the heat of the sun; but in the <placeName>East
                   Indies</placeName>, from the <distinct type="dialect">mambu reed tree</distinct>,</quote> (he then
                   refers to <persName ref="#garcia_de_orta_1501">Garcias</persName>, whom he little more than 
-                  copies in the whole article,) <quote>which is full of 
+                  copies in the whole article,) <quote rend="postquotes">which is full of 
                   joints, and in size as large as the poplar tree.
                   The <distinct type="dialect">sacar-mambu</distinct>, which the <name>Arabians</name> call
                   <distinct type="dialect">tabaxir</distinct> issues from this tree, a viscid whitish
@@ -2287,7 +2287,7 @@
                   and hemorrhages.</quote>
                </p>
                <p><quote rend="quotes" xml:id="q010" next="#q011" prev="#q009">The word <distinct type="dialect">tabaxir</distinct> is taken from the <rs type="properAdjective">Persian</rs>
-                  language, and signifies <distinct type="dialect">lac lapidescens</distinct>, which
+                  language, and signifies <distinct type="dialect" xml:lang="la">lac lapidescens</distinct>, which
                   some credulous <name>Arabians</name> and <name>Turks</name> thought
                   to be the ashes of canes, burnt by the friction
                   produced by the wind blowing them together.
@@ -2313,7 +2313,7 @@
                   was known, that factitious substance received
                   the appellation of <distinct type="dialect" xml:lang="la">saccharum</distinct>, or sugar:
                   probably deriving its etymology from the <distinct type="dialect">sacar</distinct>
-                  of the <name>Indians</name>.</quote> <bibl><title>Mantiss. Aromal.</title> cap. 10.</bibl>
+                  of the <name>Indians</name>.</quote> <bibl rend="italic"><title>Mantiss. Aromal.</title> cap. 10.</bibl>
                </p>
                <p>He makes many other remarks, chiefly copied
                   from <persName ref="#garcia_de_orta_1501">Garcias</persName> and <persName ref="#claudius_salmasius_1588">Salmasius</persName>.
@@ -2325,7 +2325,7 @@
                   ancients.
                </p>
                <p>It is also unnecessary to contend that the
-                  <distinct type="dialect">sacar mambu</distinct> of the <name>Indians</name>was not the <distinct type="dialect">tabaxir</distinct>
+                  <distinct type="dialect">sacar mambu</distinct> of the <name>Indians</name> was not the <distinct type="dialect">tabaxir</distinct>
                   of the <name>Arabians</name>; for it appears to me that
                   neither <persName ref="#garcia_de_orta_1501">Garcias</persName>, nor his follower <persName ref="#willem_piso_1611">Piso</persName>, were
                   positive, from their own knowledge, what the
@@ -2373,8 +2373,8 @@
                   plants, and stones, and there concreted.
                </p>
                <p><persName ref="#avicenna_0980">Avicenna</persName> denominates manna, a species of
-                  sugar, <distinct type="dialect">zuccarum albusar</distinct>; which, he says, falls
-                  on the plant <distinct type="dialect">albusar</distinct>, or <distinct type="dialect">albossar</distinct>, and is there
+                  sugar, <distinct type="dialect">zuccarum alhusar</distinct>; which, he says, falls
+                  on the plant <distinct type="dialect">alhusar</distinct>, or <distinct type="dialect">alhossar</distinct>, and is there
                   collected in lumps, like salt.
                </p>
                <p><quote rend="italic">Zuccarum Albusar quid est? Manna; cadens
@@ -2389,7 +2389,7 @@
                   white. He says also, from <persName>Mescha</persName>, that its
                   qualities depend on the nature of the trees on
                   which it falls. He has another species of
-                  manna, Cap. 41. which he calls <distinct type="dialect">tereniabin</distinct>,—
+                  manna, <hi rend="italic">Cap</hi>. 41. which he calls <distinct type="dialect">tereniabin</distinct>,—
                   <distinct type="dialect">mel roris</distinct>, and which he says, from
                   <persName>Ebenamrez</persName>, falls on trees with thorns, in the East.
                </p>
@@ -2398,7 +2398,7 @@
                   to be dew, instead of the inspissated juice of
                   trees.
                </p>
-               <p><persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhazes</persName> says, <bibl>Cap. 20. <title>de Simpicibus</title></bibl>,—
+               <p><persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhazes</persName> says, <bibl rend="italic">Cap. 20. <title>de Simpicibus</title></bibl>,—
                   <distinct type="dialect">teroniabin</distinct> is hot, purges the bowels, and assuages
                   the throat.
                </p>
@@ -2411,14 +2411,14 @@
                   by saying, it was not the produce of their own 
                   country.—
                </p>
-               <p><quote xml:lang="la">Terregebim, id est manna, provenit à partibus
+               <p><quote xml:lang="la" rend="italic">Terregebim, id est manna, provenit à partibus
                   superioribus Syriæ, vel indiæ.</quote> <bibl>Cap. 55. Simplicia.</bibl>
                </p>
                <p>However, a different inference may be drawn
                   from <persName ref="#avicenna_0980">Avicenna</persName>, who says, there are two sorts
                   of manna, and both the produce of <placeName>Arabia</placeName>.
-                  The white sort from <placeName>Iamen</placeName>, or <placeName>Yemen</placeName>; and the
-                  dark sort from <placeName>Agizium</placeName>, or <placeName>Hagiazi</placeName>. The
+                  The white sort from <placeName rend="italic">Iamen</placeName>, or <placeName rend="italic">Yemen</placeName>; and the
+                  dark sort from <placeName rend="italic">Agizium</placeName>, or <placeName rend="italic">Hagiazi</placeName>. The
                   former of these places is in <placeName>Arabia Felix</placeName>, and
                   the latter in <placeName>Arabia Deserta</placeName>;—
                   <quote rend="block">Aliud est Iamenum, album; et aliud est Agizium,
@@ -2433,14 +2433,18 @@
                </p>
                <p><persName ref="#claudius_salmasius_1588">Salmasius</persName>, believing in this error, that
                   sugar was actually found ready made, asserts,—
-                  <quote rend="block" xml:lang="la">De hoc ipso priscorum saccharo, <distinct type="dialect" xml:lang="el">sive tabaxir</distinct>,
-                  accepi debet; cui nomen etiam propterea αλος Ινδικου
+                  <quote rend="block" xml:lang="la">De hoc ipso priscorum saccharo, sive tabaxir,
+                  accepi debet; cui nomen etiam propterea <distinct type="dialect" xml:lang="el" rend="upright">αλος Ινδικου</distinct>
                   veteres imposuerunt.</quote> <bibl><title>De Canteo</title>, cap. 79.</bibl>
+                  
+               <pb/>
+               <fw type="pageNum">58</fw>
+                  
                   <quote rend="quotes">This is the sugar of the ancients, to which
                   they also gave the name of <distinct type="dialect">Indian Salt</distinct>; it is also
                   the <distinct type="dialect">tabaxir</distinct> of the <name>Arabians</name>.</quote>
                </p>
-               <p>I have aready shewn that this was not sugar,
+               <p>I have already shewn that this was not sugar,
                   or any saccharine substance.
                </p>
                <p>I have not given the <rs type="properAdjective">Latin</rs> versions of the 
@@ -2451,9 +2455,9 @@
                   in this error is, that the sugar described by the
                   ancients does not correspond with any species
                   of sugar now in use. His own words are,—
-                  <quote rend="block" xml:lang="la">Fallitur itaque mirum in modum si quies <distinct type="dialect" xml:lang="el">μελι καλαμωον</distinct>,
-                  aut <distinct xml:lang="el" type="dialect">αλας Ινδικου</distinct>, aut <distinct type="dialect" xml:lang="el">σακχαρον</distinct>, antiquum
-                  idem putat cum nostro saccharo.</quote> <title>De Saccharo
+                  <quote rend="block"><distinct type="dialect" xml:lang="la">Fallitur itaque mirum in modum si quies <distinct type="dialect" xml:lang="el" rend="upright">μελι καλαμωον</distinct>,
+                  aut <distinct xml:lang="el" type="dialect" rend="upright">αλας Ινδικου</distinct>, aut <distinct type="dialect" xml:lang="el" rend="upright">σακχαρον</distinct>, antiquum
+                  idem putat cum nostro saccharo.</distinct></quote> <title>De Saccharo
                   Comment.</title>
                </p>
                <p>It may now be proper to see what the ancients
@@ -2472,8 +2476,8 @@
                <fw type="pageNum">59</fw>
                
                <p><persName ref="#pedanius_dioscorides_0040">Dioscorides</persName> (anno <date when="0064">64</date>), who is the first writer
-                  which mentions the word <distinct xml:lang="el" type="dialect">σακχαρον</distinct>, or sugar,
-                  in his chapter <distinct type="dialect" xml:lang="el">ϖερι Σακχαρου Μελιτος</distinct>, demonstrates
+                  which mentions the word <distinct xml:lang="el" type="dialect" rend="upright">σακχαρον</distinct>, or sugar,
+                  in his chapter <distinct type="dialect" xml:lang="el" rend="upright">ϖερι Σακχαρου Μελιτος</distinct>, demonstrates
                   clearly that he was acquainted with
                   some species of sugar, made from the sugar
                   cane; though it plainly appears that he was
@@ -2507,7 +2511,7 @@
                </p>
                <p><persName ref="#arrian_0086">Arrian</persName> (anno <date when="0123">123</date>), <distinct type="dialect" xml:lang="la">in Periplo maris
                   Erythræi</distinct>, says, there is a nation bordering on the
-                  <placeName>Red Sea</placeName>, who drink <distinct xml:lang="el" type="dialect">μελι το καλαμινον, το 
+                  <placeName>Red Sea</placeName>, who drink <distinct xml:lang="el" type="dialect" rend="upright">μελι το καλαμινον, το 
                   λεγομενον σακχαρι</distinct>;—<quote rend="quotes">honey of the reed, called
                   sugar.</quote>
                </p>
@@ -2540,6 +2544,18 @@
                   common salt, but in taste and sweetness like
                   honey.</quote>
                </p>
+               <p>In <hi rend="italic">lib.</hi> VII. <hi rend="italic">cap.</hi>3, he says, <quote rend="quotes">Honey is of an
+                  heating and drying nature in the second degree,
+                  and is abundantly cleansing. Boiled, it is
+                  less acrid and detersive, and opens the bowels,
+                  but is more nutritious: but the bitter honey,
+                  such as come from <placeName>Sardonia</placeName>, has the mixed
+                  property of being earthy and hot. The <emph>other
+                  sugar</emph>, which is brought from <placeName>Arabia Felix</placeName>, is
+                  less sweet than that which we have; but it has
+                  equal virtues, and is neither hurtful to the stomach,
+                  nor excites thirst like our honey.</quote> 
+               </p>
                <p>It is true that <persName ref="#pedanius_dioscorides_0040">Dioscorides</persName>, <persName ref="#pliny_0023">Pliny</persName>, <persName ref="#galen_0129">Galen</persName>,
                   and <persName ref="#paul_of_aegina_0625">P. Ægineta</persName>, all mention that the sugar came
                   from <placeName>Arabia</placeName> as well as from <placeName>India</placeName>; but it is
@@ -2569,7 +2585,7 @@
                </p>
                <p>This can be no other preparation than that
                   we now call the white <distinct type="dialect">Sugar-Candy</distinct>; which I
-                  consider as the real <distinct type="dialect" xml:lang="el">μελι καλαμινον: αλς Ινδικος:
+                  consider as the real <distinct type="dialect" xml:lang="el" rend="upright">μελι καλαμινον: αλς Ινδικος:
                   —σακχαρον</distinct> antiquorum.
                </p>
                <p>It is evident <persName ref="#avicenna_0980">Avicenna</persName> Erroneously supposed
@@ -2776,7 +2792,7 @@
                <p><persName ref="#claudius_salmasius_1588">Salmasius</persName> derives it from a corrupt <rs type="properAdjective">Greek</rs>
                   word of the middle ages. He says,—
                   <quote xml:lang="la" rend="block">Saccharum candum, non à candore dictum,
-                  nec à canna; sed <distinct xml:lang="el" type="dialect">καντι, vel καντον &amp; καντιον</distinct>,
+                  nec à canna; sed <distinct xml:lang="el" type="dialect" rend="upright">καντι, vel καντον &amp; καντιον</distinct>,
                   Græci recentiores vocárunt, quod angulosum
                   sit; &amp; quum frangitur, in partes semper dissiliat
                   angulatas. Id Græci vulgares καντον appellant.</quote>
@@ -2798,7 +2814,7 @@
                   
                   authors, about the year <date when="1280">1280</date>: he is one of the
                   latest writers in the <rs type="properAdjective">Greek</rs> language. His
-                  writings are full of barbarisms, and <distinct type="dialect" xml:lang="el">καντιον</distinct> is found
+                  writings are full of barbarisms, and <distinct type="dialect" xml:lang="el" rend="upright">καντιον</distinct> is found
                   used by him, <title>De Antidotis</title>, cap. 35,94, and
                   96, to express what the translators have rendered
                   <quote rend="quotes" xml:lang="la">saccharum appellatum candum;</quote>—the
@@ -2806,16 +2822,16 @@
                </p>
                <p><persName ref="#leonhart_fuchs_1501" cert="high">Fuchsius</persName>, one of his translators, observes,
                   in the notes to cap. 35, and 94, that though
-                  the word is <distinct xml:lang="el" type="dialect">καντιον</distinct> in the manuscript copy, and
+                  the word is <distinct xml:lang="el" type="dialect" rend="upright">καντιον</distinct> in the manuscript copy, and
                   implies what we now call <distinct type="dialect">saccharum candi, vel
                   candidum,</distinct> yet it seems to have been written
                   originally κανδιον;—and that <distinct type="dialect">candi</distinct> is only an
                   abbreviation of <distinct type="dialect">candidum</distinct>.
                </p>
-               <p>Now <distinct type="dialect" xml:lang="el">κανδιον</distinct>, I believe, stands on no better
+               <p>Now <distinct type="dialect" xml:lang="el" rend="upright">κανδιον</distinct>, I believe, stands on no better
                   authority in the <rs type="properAdjective">Greek</rs> language than καντιον;
                   and I think it is difficult to ascertain whether
-                  the word be a corruption of the <rs type="properAdjective">Greek</rs> <distinct type="dialect" xml:lang="el">κανθος</distinct>,
+                  the word be a corruption of the <rs type="properAdjective">Greek</rs> <distinct type="dialect" xml:lang="el" rend="upright">κανθος</distinct>,
                   or the <rs type="properAdjective">Latin</rs> <distinct type="dialect">candidum</distinct>, considering the period
                   when <persName ref="#nicholas_myrepsos_0001">Myrepsus</persName> wrote.
                </p>
@@ -4711,21 +4727,21 @@
                <p>This word, passing into the <rs type="properAdjective">Arabic</rs> language,
                   became the origin of <distinct type="dialect">canna</distinct>, a cane.
                </p>
-               <p>But this <distinct xml:lang="he" type="dialect">קגה</distinct> in the Bible has many 
+               <p>But this <distinct xml:lang="he" type="dialect" rend="upright">קגה</distinct> in the Bible has many 
                   significations.
                </p>
                
                <pb/>
                <fw type="pageNum">127</fw>
                
-               <p>As a veerb in the <name>Hebrew</name> <distinct type="dialect" xml:lang="he">קגה</distinct>, <distinct type="dialect">kanah</distinct> is, to
-                  buy, procure, possess. <distinct xml:lang="he" type="dialect">קגה</distinct> as a noun, property
+               <p>As a veerb in the <name>Hebrew</name> <distinct type="dialect" xml:lang="he" rend="upright">קגה</distinct>, <distinct type="dialect">kanah</distinct> is, to
+                  buy, procure, possess. <distinct xml:lang="he" type="dialect" rend="upright">קגה</distinct> as a noun, property
                   which is purchased, or possessed. It is 
                   likewise a spear<anchor xml:id="a037" corresp="#n037"/>, a staff<anchor xml:id="a038" corresp="#n038"/>, a reed, or rush<anchor xml:id="a039" corresp="#n039"/>;
                   a balance<anchor xml:id="a040" corresp="#n040"/>; bone of the arm<anchor xml:id="a041" corresp="#n041"/>; branches of
                   the candlestick in the temple<anchor xml:id="a042" corresp="#n042"/>.
                </p>
-               <p>It is said by several writers, that by <distinct type="dialect" xml:lang="he">קגה</distinct>, in 
+               <p>It is said by several writers, that by <distinct type="dialect" xml:lang="he" rend="upright">קגה</distinct>, in 
                   some places in the Bible, the <distinct type="dialect">sugar cane</distinct> is
                   meant; and consequently that this plant was
                   known to the ancient <name>Hebrews</name>. This is to
@@ -4741,7 +4757,7 @@
                   <bibl><title>Jeremiah</title>, c. vi. v. 20.</bibl> and <bibl><title>Ezekiel</title>, c. xxcii. vi. 19.</bibl>
                </p>
                <p>If we examine the passages here referred to,
-                  we shall find that <distinct xml:lang="he" type="dialect">קגה</distinct> has been doubtfully
+                  we shall find that <distinct xml:lang="he" type="dialect" rend="upright">קגה</distinct> has been doubtfully
                   
                   <pb/>
                   <fw type="pageNum">128</fw>
@@ -4764,7 +4780,7 @@
                <p>In our <rs type="properAdjective">English</rs> Bible it is, <quote>sweet cinnamon
                   and <distinct>sweet calamus</distinct>.</quote>
                </p>
-               <p>In some of the <rs type="properAdjective">Latin</rs> the <distinct xml:lang="he" type="dialect">קגה בשם</distinct>
+               <p>In some of the <rs type="properAdjective">Latin</rs> the <distinct xml:lang="he" type="dialect" rend="upright">קגה בשם</distinct>
                   is rendered <distinct type="dialect">calamus beneolens</distinct>, and <distinct type="dialect">
                   aromaticus.</distinct>
                </p>
@@ -4775,7 +4791,7 @@
                </p>
                <p>The <rs type="properAdjective">Latin</rs> versions have this, <distinct type="dialect">calamus 
                   aromaticus et cinnamomum</distinct>; and <distinct type="dialect">fistula et
-                  cinnamomum:</distinct> <distinct type="dialect" xml:lang="he">קוה</distinct> <distinct type="dialect">canna</distinct> in one version
+                  cinnamomum:</distinct> <distinct type="dialect" xml:lang="he" rend="upright">קוה</distinct> <distinct type="dialect">canna</distinct> in one version
                   of the Polyglott, as it is by <persName>Montanus</persName>, Our
                   
                   <pb/>
@@ -4818,7 +4834,7 @@
                <fw type="pageNum">130</fw>
                
                <p>The Septuagint has the part of the vers I
-                  have quited from the <name>Hebrew</name>, <distinct xml:lang="el" type="dialect">κινναμωμον</distinct>
+                  have quited from the <name>Hebrew</name>, <distinct xml:lang="el" type="dialect" rend="upright">κινναμωμον</distinct>
                   <quote>Cinnamon from a far country</quote>. In
                   the <rs type="properAdjective">Latin</rs> verions it is rendered <quote xml:lang="la">calamus
                   suaveolens de terra longinqua</quote>; and <quote xml:lang="la">cinnamomum de
@@ -4826,9 +4842,9 @@
                   longinqua.</quote>
                </p>
                <p>It is necessary to observe here, that, in the 
-                  Septuagint, <distinct type="dialect" xml:lang="he">קגה</distinct> is converted into <distinct xml:lang="el" type="dialect">κινναμωμον</distinct>,
+                  Septuagint, <distinct type="dialect" xml:lang="he" rend="upright">קגה</distinct> is converted into <distinct xml:lang="el" type="dialect" rend="upright">κινναμωμον</distinct>,
                   <distinct type="dialect">cinnamon</distinct>; which word is not the original
-                  text; and the epithet <distinct type="dialect" xml:lang="he">טוב</distinct> <distinct type="dialect">tub</distinct>, good, perfect,
+                  text; and the epithet <distinct type="dialect" xml:lang="he" rend="upright">טוב</distinct> <distinct type="dialect">tub</distinct>, good, perfect,
                   best, is entirely omitted.
                </p>
                <p>These are errors in the labours of those great
@@ -4837,7 +4853,7 @@
                   known of it to posterity.
                </p>
                <p>But these errors have led some writers, who
-                  knew no more of <distinct xml:lang="he" type="dialect">קגה</distinct> than what they obtained
+                  knew no more of <distinct xml:lang="he" type="dialect" rend="upright">קגה</distinct> than what they obtained
                   from this passage in the Bible, to suppose it
                   was a synonyme for cinnamon.
                </p>
@@ -4952,13 +4968,13 @@
                <p>But I must finish my observations on
                   <distinct type="dialect">kaneh</distinct>.
                </p>
-               <p>What this <distinct xml:lang="he" type="dialect">קוה</distinct> was, I know not. It could 
+               <p>What this <distinct xml:lang="he" type="dialect" rend="upright">קוה</distinct> was, I know not. It could 
                   not be the acorus, or the calamus aromaticus; that
                   was to plentiful to be so valued; and grew in 
                   <placeName>Syria</placeName>, <placeName>Arabia</placeName>, and the islands of the <name>Gentiles</name>,
                   and in all the swamps and marshes in the adjacent
                   countries to the land of <placeName>Israel</placeName>; and
-                  was not brought <distinct type="dialect" xml:lang="he">טאדץ טדהק</distinct> <quote>from a far
+                  was not brought <distinct type="dialect" xml:lang="he" rend="upright">טאדץ טדהק</distinct> <quote>from a far
                   country.</quote>
                </p>
                <p>That the <distinct type="dialect">kaneh</distinct> was some spicey produce of
@@ -4969,7 +4985,7 @@
                   the chosen people, and the estimation in which
                   it ws said to be holden by God.
                </p>
-               <p>The epithet <distinct xml:lang="he" type="dialect">בשם</distinct> imports spicey, sweet scented,
+               <p>The epithet <distinct xml:lang="he" type="dialect" rend="upright">בשם</distinct> imports spicey, sweet scented,
                   not sweet tasted; therefore the sugar cane is
                   entirely out of the question.
                </p>
@@ -4984,7 +5000,7 @@
                   could not be preserved from rotting in a passage
                   <quote>from a far country<anchor xml:id="a046" corresp="#n046"/>.</quote>
                </p>
-               <p>How <distinct type="dialect" xml:lang="he">קוה</distinct> should have been rendered <distinct type="dialect">calamus</distinct>,
+               <p>How <distinct type="dialect" xml:lang="he" rend="upright">קוה</distinct> should have been rendered <distinct type="dialect">calamus</distinct>,
                   so universally as it has been, I cannot 
                   conceive.
                </p>
@@ -4997,8 +5013,8 @@
                   only instance where they were not so correct
                   as they should have been.
                </p>
-               <p>We find among the <rs type="properAdjective">Greek</rs> writers <distinct xml:lang="el" type="dialect">καννα
-                  δοναξ</distinct> and <distinct type="dialect" xml:lang="he">καλαμος</distinct>; and among the <rs type="properAdjective">Roman</rs>
+               <p>We find among the <rs type="properAdjective">Greek</rs> writers <distinct xml:lang="el" type="dialect" rend="upright">καννα
+                  δοναξ</distinct> and <distinct type="dialect" xml:lang="he" rend="upright">καλαμος</distinct>; and among the <rs type="properAdjective">Roman</rs>
                   writers <distinct type="dialect">canna</distinct>, <distinct type="dialect">arundo</distinct>, and <distinct type="dialect">calamus</distinct>;—but these
                   names are used indiscriminately for a cane, or
                   a reed.
@@ -5008,7 +5024,7 @@
                   context has been inadequate to settle a precise and
                   determinate meaning.
                </p>
-               <p>The <distinct type="dialect" xml:lang="el">γλυκοκαλμος</distinct>, in later times, of <persName ref="#nicholas_myrepsos_0001">Nicholas
+               <p>The <distinct type="dialect" xml:lang="el" rend="upright">γλυκοκαλμος</distinct>, in later times, of <persName ref="#nicholas_myrepsos_0001">Nicholas
                   Myrepsus</persName>, which is translators have rendered
                   
                   <pb/>
@@ -5018,7 +5034,7 @@
                   cassia fistula<anchor xml:id="a048" corresp="#n048"/>.
                </p>
                <p>It has been said, by some writers, that the
-                  word <distinct type="dialect" xml:lang="he">שבד</distinct> in the Bible has an allusion to
+                  word <distinct type="dialect" xml:lang="he" rend="upright">שבד</distinct> in the Bible has an allusion to
                   sugar.
                </p>
                <p>This word, like <distinct type="dialect">kaneh</distinct>, according to the
@@ -5026,7 +5042,7 @@
                   several significations; but none whatever that
                   has any relation to sugar.
                </p>
-               <p>As a verb <distinct type="dialect" xml:lang="he">שבד</distinct> shakar or shacar, imports to
+               <p>As a verb <distinct type="dialect" xml:lang="he" rend="upright">שבד</distinct> shakar or shacar, imports to
                   drink to excess, to be drunk; to hire for wages.
                </p>
                <p>As a noun, it forms various derivatives;
@@ -5035,16 +5051,16 @@
                   Bible every where denominates it, <quote>strong
                   drink.</quote>
                </p>
-               <p>The Septuagint renders it <distinct type="dialect" xml:lang="el">σικορα</distinct><anchor xml:id="a049" corresp="#n049"/>, σικερα<anchor xml:id="a050" corresp="#n050"/>,
+               <p>The Septuagint renders it <distinct type="dialect" xml:lang="el" rend="upright">σικορα</distinct><anchor xml:id="a049" corresp="#n049"/>, σικερα<anchor xml:id="a050" corresp="#n050"/>,
                   the <rs type="properAdjective">Latin</rs> versions <distinct type="dialect">sechar</distinct>, <distinct type="dialect">sicera</distinct>.
                </p>
                <p><persName ref="#moses_0001">Moses</persName> says, God ordered him to proclaim
                   to the children of <placeName>Israel</placeName>, that <quote>when
                   either man or woman shall separate themselves
                   to a vow, a vow of a <name>Nazarite</name> he shall
-                  separate himself from wine, and <distinct type="dialect" xml:lang="he">שבד</distinct> (shecar) strong
+                     separate himself from wine, and <distinct type="dialect" xml:lang="he" rend="upright">שבד</distinct> (shecar) strong
                   drink; and shall drink no vinegar of wine, or
-                  vinegar of <distinct type="dialect" xml:lang="he">שבד</distinct> (shecar) strong drink; neither
+                  vinegar of <distinct type="dialect" xml:lang="he" rend="upright">שבד</distinct> (shecar) strong drink; neither
                   
                   <pb/>
                   <fw type="pageNum">137</fw>
@@ -5056,7 +5072,7 @@
                   gave him <quote rend="quotes">the cup of his fury;</quote> and that he
                   <quote rend="quotes">made all nations drink of it, to whom the
                   Lord had sent him;</quote> and he said unto them,
-                  <quote>drink ye, and be <distinct type="dialect" xml:lang="he">וְש֧בְדו</distinct> (veshikru) drunken,
+                  <quote>drink ye, and be <distinct type="dialect" xml:lang="he" rend="upright">וְש֧בְדו</distinct> (veshikru) drunken,
                   and spue, and fall<anchor xml:id="a052" corresp="#n052"/></quote>
                </p>
                <p>These passages are here given, the original
@@ -5064,7 +5080,7 @@
                   Bible<anchor xml:id="a053" corresp="#n053"/>; which, though not an elegant, is a
                   faithful translation of the <name>Hebrew</name>.
                </p>
-               <p>What sottish liquor <distinct type="dialect" xml:lang="he">ׁשֵבׇד</distinct> shekar was, no
+               <p>What sottish liquor <distinct type="dialect" xml:lang="he" rend="upright">ׁשֵבׇד</distinct> shekar was, no
                   person knows. It was probably made from grain.
                </p>
                <p>The most wild and barbarous nations have
@@ -5129,7 +5145,7 @@
                      <cell>0</cell>
                   </row>
                   <row>
-                     <cell>Scale, or bstard ditto,</cell>
+                     <cell>Scale, or bastard ditto,</cell>
                      <cell>2</cell>
                      <cell>0</cell>
                      <cell>0</cell>
@@ -5809,7 +5825,7 @@
                   attribute to the use of sugar the extinction of
                   the plague in <placeName>Europe</placeName>;—that is not the case:—
                   but it has certainly contributed to suppress the
-                  native malady of <placeName>England</placeName>, the <distinct>Scurvy</distinct>
+                  native malady of <placeName>England</placeName>, the <distinct type="scientific">Scurvy</distinct> <!-- medical?? -->
                </p>
                <p ana="#medical #disease">That state of the habit which we denominate
                   scurvy, perhaps the parent of scrophula and
@@ -6243,7 +6259,7 @@
                   in mind, and by the malicious, for wicked
                   purposes.
                </p>
-               <p><distinct type="religious">Obi</distinct>, and <distinct>gambling</distinct>, are the only instances I
+               <p><distinct type="religious">Obi</distinct>, and <distinct>gambling</distinct>, are the only instances I <!-- type on <distinct>?? should I use <mcr>? -->
                   have been able to discover, among the natives
                   of the negro land in <placeName>Africa</placeName>, in which any
                   effort at combining ideas, has ever been
