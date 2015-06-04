@@ -20,7 +20,8 @@
            <rendition xml:id="r.ital">italic</rendition>
            <rendition xml:id="r.smallcaps">smallcaps</rendition>
            <namespace name="dsg.">
-              <tagUsage gi="distinct" render="#r.ital"/>
+              <tagUsage gi="mcr" render="#r.ital"/>
+              <tagUsage gi="emph" rend="#r.ital"/>
               <tagUsage gi="persName" render="#r.smallcaps"/>
            </namespace>
         </tagsDecl>
@@ -92,9 +93,9 @@
               <bibl>P. 275, <edition>edit. <persName ref="#georg_heinrich_gotze_1667" rend="mixed">Goezii</persName>, <date when="1777">1777</date></edition>.</bibl>
            </note>
            <note xml:id="n010" target="#a010">
-              <p><placeName><distinct type="dialect">Madiera</distinct></placeName>. <quote><distinct type="dialect" xml:lang="la">Nomen factum est à Lat. <distinct>materia</distinct> quâ tam in
+              <p><placeName><distinct type="dialect">Madiera</distinct></placeName>. <quote xml:lang="la" rend="italic">Nomen factum est à Lat. <distinct>materia</distinct> quâ tam in
               vulgatâ Bibliorum versione quam alibi significature idem quòd
-              Anglicè <distinct>timber</distinct>; quia tali materiâ abundabat ista insula.</distinct></quote> <bibl>Hydii,
+              Anglicè <distinct>timber</distinct>; quia tali materiâ abundabat ista insula.</quote> <bibl>Hydii,
               not in <unclear><title>Perits</title>.</unclear> Itin. p. 113.</bibl>
               </p>
            </note>
@@ -182,7 +183,7 @@
               <p>The Doctor might have been a famous physician; but much
               is not to be said here, for his rhyme or his reason. The old
               adage is not left far behind by the Doctor.—</p>
-              <quote>
+              <quote rend="italic">
                  <lg>
                   <l>What which preserveth apples and plumbs,</l>
                   <l>Will also preserve the liver and lungs.</l>
@@ -258,11 +259,11 @@
               <bibl><title>Proverbs</title>, c. vii. v. 17. English Bible</bibl>
            </note>
            <note xml:id="n045" target="#a045">
-              <persName ref="#shylock_0001" rend="mixed"><mcr rend="italic">Shylock</mcr></persName>.
+              <persName ref="#shylock_0001" rend="mixed"><mcr>Shylock</mcr></persName>.
            </note>
            <note xml:id="n046" target="#a046">
-              <p>Neither did <ecda:commodity>cinnamon</ecda:commodity> come <quote>from a far country.</quote> That was
-              the produce of <placeName>Arabia</placeName>. <quote xml:lang="la">Habet <placeName>India</placeName>, quæ Australis est,
+              <p>Neither did <ecda:commodity>cinnamon</ecda:commodity> come <quote rend="quotes">from a far country.</quote> That was
+              the produce of <placeName>Arabia</placeName>. <quote xml:lang="la" rend="quotes">Habet <placeName>India</placeName>, quæ Australis est,
               cinnamomum sicut <placeName>Arabia</placeName></quote> <bibl><author><persName ref="#strabo_0064">Strabo</persName></author> lib. XV.</bibl>
               </p>
            </note>
@@ -344,7 +345,7 @@
               cap. 13.</bibl>
            </note>
            <note xml:id="n064" target="#a064">
-              <quote>
+              <quote rend="italic" xml:lang="la">
                  <lg>
                     <l>Prodiga divitias alimentaque mitia tellus</l>
                     <l>Suggenrit; atque epulas sine cæde et sanguine præbet.</l>
@@ -356,7 +357,7 @@
               <p><date when="-0509">509 years before the Christian æra.</date></p>
            </note>
            <note xml:id="n066" target="#a066">
-              <quote>
+              <quote xml:lang="la" rend="italic">
                  <lg>
                     <l>Spiritus, eque fevis humana in corpore transit,</l>
                     <l>Inque feras <unclear><!--  --></unclear> tempore deperit ullo.</l>
@@ -365,7 +366,7 @@
               <persName>Ovid</persName>. Met. L. XV. v. 167. 168.
            </note>
            <note xml:id="n067" target="#a067">
-              <quote><l>So let your dunger <emph>sucrid</emph> ben alite.</l></quote>
+              <quote rend="quotes"><l>So let your dunger <emph>sucrid</emph> ben alite.</l></quote>
            </note>
            <note xml:id="n068" target="#a068">
               <p>From <date when="1772">1772</date> to <date when="1774">1775</date> the average consumption was 114,613 
@@ -412,16 +413,16 @@
               from the ancient <name>Egyptians</name>.</p>
               <p><distinct type="dialect" xml:lang="he" rend="upright">אוב</distinct> <distinct type="dialect">OB</distinct> is a demon, a spirit of divination, and magic. When
               <persName ref="#saul_0001" rend="mixed">Saul</persName> wanted to raise up <persName ref="#samuel_0001" rend="mixed">Samuel</persName> from the dead, he said to his
-              servants, <quote>Seek me a woman (<distinct type="dialect" xml:lang="he" rend="upright">בעלה אוב</distinct> eminent for <distinct type="dialect">Ob</distinct>) that
+              servants, <quote rend="quotes">Seek me a woman (<distinct type="dialect" xml:lang="he" rend="upright">בעלה אוב</distinct> eminent for <distinct type="dialect">Ob</distinct>) that
               hath a familiar spirit</quote></p>
               
               <pb xml:id="pbn001" corresp="#pb001"/>
               
-              <p>His servants replied to him, <quote>There is (<distinct type="dialect" xml:lang="he" rend="upright">אשה בעלה אוב</distinct>
+              <p>His servants replied to him, <quote rend="quotes">There is (<distinct type="dialect" xml:lang="he" rend="upright">אשה בעלה אוב</distinct>
               a woman mistress in the art of <distinct type="dialect">Ob</distinct>) that hath a familiar spirit, at
               <placeName>Endor</placeName>.</quote></p>
-              <p>When the witch of <placeName>Endor</placeName> came to <persName ref="#saul_0001" rend="mixed">Saul</persName>, he said to her, 
-                 <quote>Divine unto me (<distinct type="dialect" xml:lang="he" rend="upright">באוב</distinct> by thy witchcraft <distinct type="dialect" rend="smallcaps">Ob</distinct>) by the familiar spirit,
+              <p>When the witch of <placeName>Endor</placeName> came to <persName ref="#saul_0001" rend="mixed">Saul</persName>, he said to her, <quote rend="quotes">Divine 
+                 unto me (<distinct type="dialect" xml:lang="he" rend="upright">באוב</distinct> by thy witchcraft <distinct type="dialect" rend="smallcaps">Ob</distinct>) by the familiar spirit,
                  and bring me him up whom I shall name unto thee.</quote> <bibl><title>1 Samuel</title>,
                  chap. xxviii. v. 7 and 8.</bibl></p>
            </note>
@@ -431,18 +432,18 @@
                     <head><orgName rend="smallcaps">House of Assembly</orgName>, <date when="1780-12-29">29th December, 1780</date>.</head>
                     <p>Resolved, that, over and above the reward of one hundred 
                     pounds offered by his Majesty's proclamation for taking or killing
-                    the rebellious negro called <persName ref="#three_fingered_jack_0001"><hi rend="mixed"><mcr rend="italic">Three fingered</mcr></hi> Jack</persName>, the further reward
+                    the rebellious negro called <persName ref="#three_fingered_jack_0001"><hi rend="mixed"><mcr>Three fingered</mcr></hi> Jack</persName>, the further reward
                     of <distinct>Freedom</distinct> shall be given to any slave that shall take or kill the
-                    said <persName ref="#three_fingered_jack_0001"><hi rend="mixed"><mcr rend="italic">Three fingered</mcr></hi> Jack</persName> and that the House will make good the
+                    said <persName ref="#three_fingered_jack_0001"><hi rend="mixed"><mcr>Three fingered</mcr></hi> Jack</persName> and that the House will make good the
                     value of such slave to the proprietor thereof. And if any one of
-                    his accomplices will kill the said <persName ref="#three_fingered_jack_0001"><hi rend="mixed"><mcr rend="italic">Three fingered</mcr></hi> Jack</persName>, and bring in
+                    his accomplices will kill the said <persName ref="#three_fingered_jack_0001"><hi rend="mixed"><mcr>Three fingered</mcr></hi> Jack</persName>, and bring in
                     
                     <pb xml:id="pbn002" corresp="#pb002"/>
                        
                     his head, and hand wanting three fingers, such accomplice shall be
                     entitled to his <emph>free</emph> <distinct>Pardon</distinct>, and his <distinct>Freedom</distinct>, as above, upon
                     due proof being made of their being the head and hand of the said
-                    <persName ref="#three_fingered_jack_0001"><hi rend="mixed"><mcr rend="italic">Three fingered</mcr></hi> Jack</persName>.</p>
+                    <persName ref="#three_fingered_jack_0001"><hi rend="mixed"><mcr>Three fingered</mcr></hi> Jack</persName>.</p>
                     <closer>By the House,
                     <signed><persName>Samuel Howell</persName>, Cl. Assem.</signed>
                     </closer>
@@ -709,8 +710,8 @@
             <p><persName ref="#marcus_terentius_varro_116">Varro</persName> (<date when="-0068">68 years before the Christian æra</date>),
                in the following verses, observes,—
             </p>
-               <quote>
-                  <lg type="poem" rend="italic" xml:id="a003" corresp="#n003" xml:lang="la">
+            <quote rend="italic" xml:lang="la" xml:id="a003" corresp="#n003">
+                  <lg>
                      <l>Indica non magná nimis arbore crescit arundo</l>
                      <l>Illius è lentis premitur radicibus humor,</l>
                      <l>Dulcia cui nequeant succo contendere mella.</l>
@@ -816,7 +817,7 @@
         <fw type="pageNum">9</fw>
                
                or what are now called the <placeName>Canary Islands</placeName>,
-               asserts, on the authority of <persName rend="mixed" ref="#juba_0085"><mcr rend="italic">Juba</mcr></persName>, that, in the
+               asserts, on the authority of <persName rend="mixed" ref="#juba_0085"><mcr>Juba</mcr></persName>, that, in the
                island called <placeName rend="italic">Ombrios</placeName>,—
             </p>
             <p><quote rend="italic" xml:lang="la">Arbores similes Ferulæ, ex quibus aqua expri-
@@ -1241,7 +1242,7 @@
                from place to place, and varied, and cultivated,
                on physical principles, by philosophers.
             </p>
-            <p>In <placeName>England</placeName>, the <persName><mcr rend="mixed">Duke of</mcr> <placeName>Bedford</placeName></persName>, and <persName ref="#thomas_coke_1754"><hi rend="mixed">Mr.</hi>
+            <p>In <placeName>England</placeName>, the <persName><hi rend="mixed">Duke of</hi> <placeName>Bedford</placeName></persName>, and <persName ref="#thomas_coke_1754"><hi rend="mixed">Mr.</hi>
                Coke</persName>, have distinguished themselves in this kind
                of knowledge; and have rendered the most essential
                services to their country.
@@ -1354,7 +1355,7 @@
             <pb/>
             <fw type="pageNum">25</fw>
             
-            <p><persName ref="#louis_hennepin_1626"><mcr rend="mixed">Father</mcr> Hennepin</persName> says, <quote rend="quotes">from thirty leauges
+            <p><persName ref="#louis_hennepin_1626"><hi rend="mixed">Father</hi> Hennepin</persName> says, <quote rend="quotes">from thirty leauges
                below <placeName rend="italic">Maroa</placeName>, down to the sea, the banks of
                the <placeName>Missisippi</placeName> are full of <ecda:flora>canes</ecda:flora>.</quote> This was in
                <date when="1680">1680</date>, when he was there. He was the first
@@ -1424,7 +1425,7 @@
             <pb/>
             <fw type="pageNum">27</fw>
             
-            <p>His son <persName ref="#diego_columbus_1479" rend="mixed"><mcr rend="italic">James</mcr></persName> settled, and planted it in
+            <p>His son <persName ref="#diego_columbus_1479" rend="mixed"><mcr>James</mcr></persName> settled, and planted it in
                <date when="1509">1509</date>. What improvements it received by the
                <name>Spaniards</name>, during the time they were in possession 
                of it, are but little known. They continued
@@ -1771,7 +1772,7 @@
                of consequence before <date when="1549">1549</date>. The
                <name>Dutch</name>, after the truce between <placeName>Spain</placeName> and
                <placeName>Holland</placeName> in <date when="1652">1652</date>, began their expeditions to the
-               <placeName>Brazils</placeName>; and in <date when="1637">1637</date> they sent <persName><mcr rend="mixed">Count</mcr> Maurice</persName>
+               <placeName>Brazils</placeName>; and in <date when="1637">1637</date> they sent <persName><hi rend="mixed">Count</hi> Maurice</persName>
                thither. In <date when="1641">1641</date>, when the treaty of peace 
                was concluded between the <name>Dutch</name> and the <name>Portuguese</name>,
                the Former were in number 20,000, and
@@ -2239,20 +2240,20 @@
                      
                   produced from a low and little plant, coagulated
                   by the heat of the sun; but in the <placeName>East
-                  Indies</placeName>, from the <distinct type="dialect">mambu reed tree</distinct>,</quote> (he then
+                  Indies</placeName>, from the <distinct type="dialect" rend="italic">mambu reed tree</distinct>,</quote> (he then
                   refers to <persName ref="#garcia_de_orta_1501">Garcias</persName>, whom he little more than 
                   copies in the whole article,) <quote rend="postquotes">which is full of 
                   joints, and in size as large as the poplar tree.
-                  The <distinct type="dialect">sacar-mambu</distinct>, which the <name>Arabians</name> call
-                  <distinct type="dialect">tabaxir</distinct> issues from this tree, a viscid whitish
+                  The <distinct type="dialect" rend="italic">sacar-mambu</distinct>, which the <name>Arabians</name> call
+                  <distinct type="dialect" rend="italic">tabaxir</distinct> issues from this tree, a viscid whitish
                   liquor, according to <persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhazes</persName>, <persName ref="#avicenna_0980">Avicenna</persName>, and
                   <persName ref="#yahya_ibn_sarafyun_0001 #serapion_the_younger_0001">Serapion</persName>.</quote> <bibl><title>Hist. Nat. &amp; Med.</title> Lib. IV.
                   Cap. I.</bibl>
                </p>
                <p>He says, in another place, that <quote rend="quotes">there are in 
                   the uncultivated regions of the <placeName>Indies</placeName> two
-                  species of <ecda:flora>canes</ecda:flora>, called <distinct type="dialect">Mambu</distinct>; or, as the
-                  <name>Portuguese</name> have corrupted the word into, <distinct type="dialect">Bambu</distinct>.
+                  species of <ecda:flora>canes</ecda:flora>, called <distinct type="dialect" rend="italic">Mambu</distinct>; or, as the
+                  <name>Portuguese</name> have corrupted the word into, <distinct type="dialect" rend="italic">Bambu</distinct>.
                   One sort is small and full of pith; and
                   the other large, and more hollow:for which
                   reason they have been called by writers sometimes
@@ -2260,12 +2261,12 @@
                </p>
                <p>He then gives an account, not much deviating
                   from <persName ref="#garcia_de_orta_1501">Garcias</persName>, concerning the uses, and 
-                  other particulars, of the <distinct type="dialect">Bambu</distinct> cane, observing,
+                  other particulars, of the <distinct type="dialect" rend="italic">Bambu</distinct> cane, observing,
                   <quote rend="quotes" xml:id="q007" next="#q008">that there are some so large, that the
                   <name>Indians</name> make canoes of them, capable of carrying
                   two people.</quote>
                </p>
-               <p>He says, <quote rend="quotes">the full-grown <distinct type="dialect">Mambu</distinct> canes
+               <p>He says, <quote rend="quotes">the full-grown <distinct type="dialect" rend="italic">Mambu</distinct> canes
                   have a soft, spongy, liquid, medullary substance,
                   
                   <pb/>
@@ -2282,7 +2283,7 @@
                   like white <distinct type="scientific">pummice</distinct> stone, and soon loses its
                   native agreableness of flavour, and acquires a
                   taste something like burnt ivory, and is called
-                  by the <name>Indians</name>, <distinct type="dialect">sacar-mambu</distinct>. The lighter,
+                  by the <name>Indians</name>, <distinct type="dialect" rend="italic">sacar-mambu</distinct>. The lighter,
                   whiter, and smoother it is, the more it is
                   esteemed; and the more cineritious it is in
                   colour and unequal in figure, the worse.</quote>
@@ -2296,64 +2297,64 @@
                   and hemorrhages.</quote>
                </p>
                <p><quote rend="quotes" xml:id="q010" next="#q011" prev="#q009">The word <distinct type="dialect">tabaxir</distinct> is taken from the <rs type="properAdjective">Persian</rs>
-                  language, and signifies <distinct type="dialect" xml:lang="la">lac lapidescens</distinct>, which
+                  language, and signifies <distinct type="dialect" xml:lang="la" rend="italic">lac lapidescens</distinct>, which
                   some credulous <name>Arabians</name> and <name>Turks</name> thought
                   to be the ashes of canes, burnt by the friction
                   produced by the wind blowing them together.
                   This error has been propagated by the <rs type="properAdjective">Latin</rs>
-                  interpreters of the <name>Arabians</name>, rendering  <distinct type="dialect">tabaxir</distinct>,
-                  <distinct type="dialect">spodium</distinct>; because in taste and appearance it
+                  interpreters of the <name>Arabians</name>, rendering  <distinct type="dialect" rend="italic">tabaxir</distinct>,
+                  <distinct type="dialect" rend="italic">spodium</distinct>; because in taste and appearance it
                   
                   <pb/>
                   <fw type="pageNum">54</fw>
                   
                   somewhat resembles burnt ivory or hartshorn.
-                  But, as <persName ref="#garcia_de_orta_1501">Garcias</persName> observes, <distinct type="dialect">spodium</distinct>, or <distinct type="dialect">tutty</distinct>, is
+                  But, as <persName ref="#garcia_de_orta_1501">Garcias</persName> observes, <distinct type="dialect" rend="italic">spodium</distinct>, or <distinct type="dialect" rend="italic">tutty</distinct>, is
                   used only externally in the compositions of the 
-                  <name>Greeks</name>; and <distinct type="dialect">sacar-mambu</distinct>, or <distinct type="dialect">tabaxir</distinct>, is
+                  <name>Greeks</name>; and <distinct type="dialect" rend="italic">sacar-mambu</distinct>, or <distinct type="dialect" rend="italic">tabaxir</distinct>, is
                   generally used in the compositions of the <name>Arabians</name>,
                   for internal purposes.</quote>
                </p>
-               <p><quote rend="quotes" xml:id="q011" prev="#q010">The <name>Indians</name> have used the word <distinct type="dialect">Sacar</distinct> in
+               <p><quote rend="quotes" xml:id="q011" prev="#q010">The <name>Indians</name> have used the word <distinct type="dialect" rend="italic">Sacar</distinct> in
                   their language for this concreted juice, not on 
                   account of any sweetness in it, for many centuries. 
                   In after-times, when the art of making
                   sugar from the expressed juice of the sugar-cane
                   was known, that factitious substance received
-                  the appellation of <distinct type="dialect" xml:lang="la">saccharum</distinct>, or sugar:
-                  probably deriving its etymology from the <distinct type="dialect">sacar</distinct>
+                  the appellation of <distinct type="dialect" xml:lang="la" rend="italic">saccharum</distinct>, or sugar:
+                  probably deriving its etymology from the <distinct type="dialect" rend="italic">sacar</distinct>
                   of the <name>Indians</name>.</quote> <bibl rend="italic"><title>Mantiss. Aromal.</title> cap. 10.</bibl>
                </p>
                <p>He makes many other remarks, chiefly copied
                   from <persName ref="#garcia_de_orta_1501">Garcias</persName> and <persName ref="#claudius_salmasius_1588">Salmasius</persName>.
                </p>
                <p>I think it is evident, from the authors above 
-                  cited, that, supposing the <distinct type="dialect">sacar mambu</distinct> if the
-                  <name>Indians</name> were the <distinct type="dialect">tabaxir</distinct> of the <name>Arabians</name>, it is
+                  cited, that, supposing the <distinct type="dialect" rend="italic">sacar mambu</distinct> if the
+                  <name>Indians</name> were the <distinct type="dialect" rend="italic">tabaxir</distinct> of the <name>Arabians</name>, it is
                   impossible it could be the saccharum of the
                   ancients.
                </p>
                <p>It is also unnecessary to contend that the
-                  <distinct type="dialect">sacar mambu</distinct> of the <name>Indians</name> was not the <distinct type="dialect">tabaxir</distinct>
+                  <distinct type="dialect" rend="italic">sacar mambu</distinct> of the <name>Indians</name> was not the <distinct type="dialect" rend="italic">tabaxir</distinct>
                   of the <name>Arabians</name>; for it appears to me that
                   neither <persName ref="#garcia_de_orta_1501">Garcias</persName>, nor his follower <persName ref="#willem_piso_1611">Piso</persName>, were
                   positive, from their own knowledge, what the
-                  <distinct type="dialect">sacar-mambu</distinct> is.
+                  <distinct type="dialect" rend="italic">sacar-mambu</distinct> is.
                </p>
                
                <pb/>
                <fw type="pageNum">55</fw>
                
-               <p>It is certain that the <distinct type="dialect">sacar-mambu</distinct> is not
+               <p>It is certain that the <distinct type="dialect" rend="italic">sacar-mambu</distinct> is not
                   sweet, according to their account, and consequently
                   cannot have any relation to sugar:
                   and if it be the exuded gummous juice of the
-                  mambu, or, as we call it the <distinct type="dialect">bambu-cane</distinct>, it
+                  mambu, or, as we call it the <distinct type="dialect" rend="italic">bambu-cane</distinct>, it
                   could not be sweet, for that tree contains no
                   saccharine juice. How then could this be the
                   sugar of the ancients?
                </p>
-               <p>The <name>Arabians</name> had their <distinct type="dialect">tabaxir</distinct> from <placeName>India</placeName>.
+               <p>The <name>Arabians</name> had their <distinct type="dialect" rend="italic">tabaxir</distinct> from <placeName>India</placeName>.
                   Their account of it is fabulous. Yet they all
                   agree that it was the ashes of the <rs type="properAdjective">Indian</rs> cane:
                   and whether it was a kind of pot-ash, or any 
@@ -2363,16 +2364,16 @@
                   the subject. Certain it is, there is no <emph>sweetness</emph>
                   attributed to it, and consequently it could not
                   be sugar; and, as it was given internally, whatever
-                  resemblance it might have to <distinct type="dialect">spodium</distinct>, it has
-                  no right to that interpretation, as the <distinct type="dialect">spodium</distinct>
+                  resemblance it might have to <distinct type="dialect" rend="italic">spodium</distinct>, it has
+                  no right to that interpretation, as the <distinct type="dialect" rend="italic">spodium</distinct>
                   of the <name>Greeks</name>, as already observed, was a metallic
                   preparation, and never used internally.
                </p>
                <p>The <rs type="properAdjective">Arabian</rs> medical writers were chiefly
                   compilers and copiers from the <name>Greeks;</name> and
                   seem to have known but little, even of their
-                  own country. Their account of <distinct type="dialect">manna</distinct> is as
-                  fabulous as that of their <distinct type="dialect">tabaxir</distinct>, and has
+                  own country. Their account of <distinct type="dialect" rend="italic">manna</distinct> is as
+                  fabulous as that of their <distinct type="dialect" rend="italic">tabaxir</distinct>, and has
                   given rise to as many speculations. They supposed
                   
                   <pb/>
@@ -2382,24 +2383,24 @@
                   plants, and stones, and there concreted.
                </p>
                <p><persName ref="#avicenna_0980">Avicenna</persName> denominates manna, a species of
-                  sugar, <distinct type="dialect">zuccarum alhusar</distinct>; which, he says, falls
-                  on the plant <distinct type="dialect">alhusar</distinct>, or <distinct type="dialect">alhossar</distinct>, and is there
+                  sugar, <distinct type="dialect" rend="italic">zuccarum alhusar</distinct>; which, he says, falls
+                  on the plant <distinct type="dialect" rend="italic">alhusar</distinct>, or <distinct type="dialect" rend="italic">alhossar</distinct>, and is there
                   collected in lumps, like salt.
                </p>
                <p><quote rend="italic">Zuccarum Albusar quid est? Manna; cadens
                   super albusar, et est sicut frusta salis.</quote> <bibl>Lib. II.
                   Tract. II. Cap. 756.</bibl>
                </p>
-               <p><bibl><author><persName ref="#yahya_ibn_sarafyun_0001 #serapion_the_younger_0001">Serapion</persName></author>, Cap. 45. <title>de Temperamentis Simplicium</title></bibl>,
-                  speaking of <distinct type="dialect">men</distinct>, or <distinct type="dialect">manna</distinct>, says, from
+               <p><bibl><author><persName ref="#yahya_ibn_sarafyun_0001 #serapion_the_younger_0001">Serapion</persName></author>, Cap. 45. <title rend="italic">de Temperamentis Simplicium</title></bibl>,
+                  speaking of <distinct type="dialect" rend="italic">men</distinct>, or <distinct type="dialect" rend="italic">manna</distinct>, says, from
                   <persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhases</persName>, when it first falls on the leaves of
                   the trees, it is like honey, but green, which,
                   by remaining there for some time, becomes
                   white. He says also, from <persName>Mescha</persName>, that its
                   qualities depend on the nature of the trees on
                   which it falls. He has another species of
-                  manna, <hi rend="italic">Cap</hi>. 41. which he calls <distinct type="dialect">tereniabin</distinct>,—
-                  <distinct type="dialect">mel roris</distinct>, and which he says, from
+                  manna, <hi rend="italic">Cap</hi>. 41. which he calls <distinct type="dialect" rend="italic">tereniabin</distinct>,—
+                  <distinct type="dialect" rend="italic">mel roris</distinct>, and which he says, from
                   <persName>Ebenamrez</persName>, falls on trees with thorns, in the East.
                </p>
                <p>The <rs type="properAdjective">Arabian</rs> writers were all unacquainted
@@ -2408,7 +2409,7 @@
                   trees.
                </p>
                <p><persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhazes</persName> says, <bibl rend="italic">Cap. 20. <title>de Simpicibus</title></bibl>,—
-                  <distinct type="dialect">teroniabin</distinct> is hot, purges the bowels, and assuages
+                  <distinct type="dialect" rend="italic">teroniabin</distinct> is hot, purges the bowels, and assuages
                   the throat.
                </p>
                
@@ -2450,8 +2451,8 @@
                <fw type="pageNum">58</fw>
                   
                   <quote rend="quotes">This is the sugar of the ancients, to which
-                  they also gave the name of <distinct type="dialect">Indian Salt</distinct>; it is also
-                  the <distinct type="dialect">tabaxir</distinct> of the <name>Arabians</name>.</quote>
+                  they also gave the name of <distinct type="dialect" rend="italic">Indian Salt</distinct>; it is also
+                  the <distinct type="dialect" rend="italic">tabaxir</distinct> of the <name>Arabians</name>.</quote>
                </p>
                <p>I have already shewn that this was not sugar,
                   or any saccharine substance.
@@ -2476,9 +2477,9 @@
                   may decide on the suppositions and opinions
                   which have been advanced; and I apprehend
                   it will appear, that the sugar known to the
-                  ancients was neither the <distinct type="dialect">sacar mambu</distinct> of the
-                  <name>Indians</name>, nor the <distinct type="dialect">tabaxir</distinct> of the <name>Arabians</name>, nor,
-                  as many have imagined, <distinct type="dialect">manna</distinct>.
+                  ancients was neither the <distinct type="dialect" rend="italic">sacar mambu</distinct> of the
+                  <name>Indians</name>, nor the <distinct type="dialect" rend="italic">tabaxir</distinct> of the <name>Arabians</name>, nor,
+                  as many have imagined, <distinct type="dialect" rend="italic">manna</distinct>.
                </p>
                
                <pb/>
@@ -2518,8 +2519,8 @@
                   between the teeth; the largest is of the size of an
                   hazle nut it is used in medicine only.</quote>
                </p>
-               <p><persName ref="#arrian_0086">Arrian</persName> (anno <date when="0123">123</date>), <distinct type="dialect" xml:lang="la">in Periplo maris
-                  Erythræi</distinct>, says, there is a nation bordering on the
+               <p><persName ref="#arrian_0086">Arrian</persName> (anno <date when="0123">123</date>), <title xml:lang="la" rend="italic">in Periplo maris
+                  Erythræi</title>, says, there is a nation bordering on the
                   <placeName>Red Sea</placeName>, who drink <distinct xml:lang="el" type="dialect" rend="upright">μελι το καλαμινον, το 
                   λεγομενον σακχαρι</distinct>;—<quote rend="quotes">honey of the reed, called
                   sugar.</quote>
@@ -2549,7 +2550,7 @@
                   <quote rend="block" xml:lang="el">Αλς ο Ινδικος, χροια μεν και συστασει, ομοιος
                      τω κοινω αλι γευσει δε μελιτωδης.
                   </quote>
-                  <quote rend="quotes">The <distinct type="dialect">Indian salt</distinct>, in colour form like
+                  <quote rend="quotes">The <distinct type="dialect" rend="italic">Indian salt</distinct>, in colour form like
                   common salt, but in taste and sweetness like
                   honey.</quote>
                </p>
@@ -2618,14 +2619,14 @@
                   various text, interpretations, and conjectures,
                   that it is impossible to know exactly the precise
                   distinctions, intended by the original authors,
-                  in their different appellations of <distinct type="dialect">honey</distinct>, <distinct type="dialect">manna</distinct>,
-                  and <distinct type="dialect">sugar</distinct>.
+                  in their different appellations of <distinct type="dialect" rend="italic">honey</distinct>, <distinct type="dialect" rend="italic">manna</distinct>,
+                  and <distinct type="dialect" rend="italic">sugar</distinct>.
                </p>
                <p>However, the <ecda:flora>sugar cane</ecda:flora> is unquestionably
                   a native plant of some parts of <placeName>Arabia</placeName>; and,
                   though the art of evaporating its juice for the
                   purpose of making a common coarse, or <ecda:commodity>muscovado
-                     sugar</ecda:commodity>, was known long before <persName ref="#avicenna_0980">Avicenna's</persName>
+                  sugar</ecda:commodity>, was known long before <persName ref="#avicenna_0980">Avicenna's</persName>
                   time; yet I cannot suppose, a thousand 
                   years prior to his time, that the sugar of the
                   ancients, being sugar-candy, was made in <placeName>Arabia</placeName>;
@@ -2662,8 +2663,8 @@
                <p>The crystalline appearance of sugar-candy,
                   and its fragility between the teeth, might 
                   naturally lead the ancient writers to give it the
-                  appellation of <distinct type="dialect">salt</distinct>; and, from its sweetness,
-                  that of <distinct type="dialect">honey of the reed</distinct>; as honey was their
+                  appellation of <distinct type="dialect" rend="italic">salt</distinct>; and, from its sweetness,
+                  that of <distinct type="dialect" rend="italic">honey <hi rend="upright">of the</hi> reed</distinct>; as honey was their
                   standard of sweetness.
                </p>
                <p>It was also very natural, for people who
@@ -2781,8 +2782,8 @@
                   traditions; which they consider but as the records of yesterday.
                </p>
                <p>In respect to the derivation of the word
-                  <distinct type="dialect">candy</distinct>, and when this adjunctive appellation
-                  was first used, to distinguish <distinct type="dialect">sugar-candy</distinct> from
+                  <distinct type="dialect" rend="italic">candy</distinct>, and when this adjunctive appellation
+                  was first used, to distinguish <distinct type="dialect" rend="italic">sugar-candy</distinct> from
                   other species of sugar, various have been the
                   opinions of the learned
                </p>
@@ -2794,9 +2795,9 @@
                   of <placeName>Candia</placeName> (<placeName>Crete</placeName>);—others, from <placeName>Gandia</placeName>, a
                   town in <placeName>Valencia</placeName>, in which province sugar
                   was first made in <placeName>Spain</placeName><anchor xml:id="a017" corresp="#n017"/>;—others, from the
-                  <rs type="properAdjective">Arabic</rs> <distinct type="dialect">elkende—elkendit</distinct>, which simply signify
-                  sugar;—and others, from the <rs type="properAdjective">Latin</rs> <distinct type="dialect">candidum</distinct>
-                  (<distinct type="dialect">à candore</distinct>), bright, shining, white.
+                  <rs type="properAdjective">Arabic</rs> <distinct type="dialect" rend="italic">elkende—elkendit</distinct>, which simply signify
+                  sugar;—and others, from the <rs type="properAdjective">Latin</rs> <distinct type="dialect" rend="italic">candidum</distinct>
+                  (<distinct type="dialect" rend="italic">à candore</distinct>), bright, shining, white.
                </p>
                <p><persName ref="#claudius_salmasius_1588">Salmasius</persName> derives it from a corrupt <rs type="properAdjective">Greek</rs>
                   word of the middle ages. He says,—
@@ -2811,12 +2812,12 @@
                   sugar candy had this appellation from its angular
                   figure, entire, or broken, the word
                   should be written cantum, or candium, in the
-                  <name>Latin</name>; or rather <distinct type="dialect">canthum</distinct>, or <distinct type="dialect">canthium</distinct>; as
-                  <distinct type="dialect">κανθος</distinct> is <distinct type="dialect">angulus</distinct>, an angle or corner.
+                  <name>Latin</name>; or rather <distinct type="dialect" rend="italic">canthum</distinct>, or <distinct type="dialect" rend="italic">canthium</distinct>; as
+                  <distinct type="dialect" xml:lang="el" rend="upright">κανθος</distinct> is <distinct type="dialect" rend="italic">angulus</distinct>, an angle or corner.
                </p>
                <p><persName ref="#claudius_salmasius_1588">Salmasius</persName> has taken the barbarous word
                   from <persName ref="#nicholas_myrepsos_0001">Nicholas Myrepsus</persName>, who wrote his collection
-                  of <distinct type="dialect">formuæ</distinct>, from the <rs type="properAdjective">Greek</rs> and <rs type="properAdjective">Arabian</rs>
+                  of <distinct type="dialect" rend="italic">formulæ</distinct>, from the <rs type="properAdjective">Greek</rs> and <rs type="properAdjective">Arabian</rs>
                   
                   <pb/>
                   <fw type="pageNum">69</fw>
@@ -2824,7 +2825,7 @@
                   authors, about the year <date when="1280">1280</date>: he is one of the
                   latest writers in the <rs type="properAdjective">Greek</rs> language. His
                   writings are full of barbarisms, and <distinct type="dialect" xml:lang="el" rend="upright">καντιον</distinct> is found
-                  used by him, <title>De Antidotis</title>, cap. 35,94, and
+                  used by him, <title rend="italic">De Antidotis</title>, cap. 35,94, and
                   96, to express what the translators have rendered
                   <quote rend="quotes" xml:lang="la">saccharum appellatum candum;</quote>—the
                   sugar candy of the moderns.
@@ -2832,39 +2833,39 @@
                <p><persName ref="#leonhart_fuchs_1501" cert="high">Fuchsius</persName>, one of his translators, observes,
                   in the notes to cap. 35, and 94, that though
                   the word is <distinct xml:lang="el" type="dialect" rend="upright">καντιον</distinct> in the manuscript copy, and
-                  implies what we now call <distinct type="dialect">saccharum candi, vel
+                  implies what we now call <distinct type="dialect" rend="italic">saccharum candi, vel
                   candidum,</distinct> yet it seems to have been written
-                  originally κανδιον;—and that <distinct type="dialect">candi</distinct> is only an
-                  abbreviation of <distinct type="dialect">candidum</distinct>.
+                  originally κανδιον;—and that <distinct type="dialect" rend="italic">candi</distinct> is only an
+                  abbreviation of <distinct type="dialect" rend="italic">candidum</distinct>.
                </p>
                <p>Now <distinct type="dialect" xml:lang="el" rend="upright">κανδιον</distinct>, I believe, stands on no better
                   authority in the <rs type="properAdjective">Greek</rs> language than καντιον;
                   and I think it is difficult to ascertain whether
                   the word be a corruption of the <rs type="properAdjective">Greek</rs> <distinct type="dialect" xml:lang="el" rend="upright">κανθος</distinct>,
-                  or the <rs type="properAdjective">Latin</rs> <distinct type="dialect">candidum</distinct>, considering the period
+                  or the <rs type="properAdjective">Latin</rs> <distinct type="dialect" rend="italic">candidum</distinct>, considering the period
                   when <persName ref="#nicholas_myrepsos_0001">Myrepsus</persName> wrote.
                </p>
                <p>However, I am not inclined to give my
                   suffrage to any of the preceding etymons.
                </p>
-               <p>May it not be from the <rs type="properAdjective">Indian</rs> word <distinct type="dialect">khand</distinct>,
+               <p>May it not be from the <rs type="properAdjective">Indian</rs> word <distinct type="dialect" rend="italic">khand</distinct>,
                   which is a general appellation for sugar in
-                  <name>Hindostan</name>? Sugar candy is called <distinct type="dialect">misree</distinct>;
-                  white sugar, <distinct type="dialect">chinny</distinct>; a composition they
-                  make of sugar and roses, <distinct type="dialect">goolkund</distinct>; a drink
-                  made of the same materials, <distinct type="dialect">goolchukeree</distinct>; the
+                  <name>Hindostan</name>? Sugar candy is called <distinct type="dialect" rend="italic">misree</distinct>;
+                  white sugar, <distinct type="dialect" rend="italic">chinny</distinct>; a composition they
+                  make of sugar and roses, <distinct type="dialect" rend="italic">goolkund</distinct>; a drink
+                  made of the same materials, <distinct type="dialect" rend="italic">goolchukeree</distinct>; the
                   
                   <pb/>
                   <fw type="pageNum">70</fw>
                   
-                  inspissated juice of the cane, <distinct type="dialect">kund-seah</distinct>, or
-                  <distinct type="dialect">jaggery</distinct>.
+                  inspissated juice of the cane, <distinct type="dialect" rend="italic">kund-seah</distinct>, or
+                  <distinct type="dialect" rend="italic">jaggery</distinct>.
                </p>
-               <p><distinct type="dialect">Shukur</distinct> also is a general appellation for
-                  sugar; from which, and the word <distinct type="dialect">khand</distinct>, it
+               <p><distinct type="dialect" rend="italic">Shukur</distinct> also is a general appellation for
+                  sugar; from which, and the word <distinct type="dialect" rend="italic">khand</distinct>, it
                   appears to me that others are compounded.
                </p>
-               <p>From <distinct type="dialect">shukur</distinct>, the <rs type="properAdjective">Indian</rs> origin, it is most
+               <p>From <distinct type="dialect" rend="italic">shukur</distinct>, the <rs type="properAdjective">Indian</rs> origin, it is most
                   probable that the word sugar is derived; from 
                   thence the <name>Arabians</name> had it; and it has
                   undergone but little variation since, in <rs type="properAdjective">European</rs>
@@ -2914,7 +2915,7 @@
                   it so very useful to human life, are owing to
                   the modern <name>Portuguese</name> and <name>English</name><anchor xml:id="a020" corresp="#n020"/>.</quote>
                </p>
-               <p><persName ref="#william_douglass_1691"><mcr rend="mixed">Doctor</mcr> William Douglas</persName>, of <placeName>Boston</placeName> in
+               <p><persName ref="#william_douglass_1691"><hi rend="mixed">Doctor</hi> William Douglas</persName>, of <placeName>Boston</placeName> in
                   <placeName>America</placeName>, was also mistaken, when, remarking
                   that <quote rend="quotes">the ancient <name>Greeks</name> and <name>Romans</name> used
                   honey only for sweetening, and that sugar was
@@ -2926,20 +2927,20 @@
                <pb/>
                <fw type="pageNum">72</fw>
                
-               <p><persName ref="john_campbell_1708"><mcr rend="mixed">Doctor</mcr> Campbell</persName> was likewise erroneous
+               <p><persName ref="john_campbell_1708"><hi rend="mixed">Doctor</hi> Campbell</persName> was likewise erroneous
                   when he asserted, that <quote rend="quotes">the sugar canes were
                   certainly known to the ancients, thought what
                   we call sugar was not; for, manufacturing
                   the sweet juice of the sugar-cane into that
                   form was the invention of the <name>Arabians</name>, who
                   bestowed upon it the name it bears, calling
-                  it in their own language <distinct type="dialect">succar</distinct><anchor xml:id="a022" corresp="#n022"/>.</quote>
+                  it in their own language <distinct type="dialect" rend="italic">succar</distinct><anchor xml:id="a022" corresp="#n022"/>.</quote>
                </p>
                <p>The art of refining sugar was first practised 
                   in <placeName>England</placeName> in <date when="1544">1544</date>. The first adventurers in
-                  this business were <persName rend="mixed"><mcr rend="italic">Cornelius Bussine</mcr></persName>, <persName rend="mixed"><mcr rend="italic">Ferdinando
-                  Points</mcr></persName>, ...... <persName rend="mixed"><mcr rend="italic">Mounsie</mcr></persName>, <persName rend="mixed"><mcr rend="italic">John Gardiner</mcr></persName>, and
-                  <persName ref="#william_chester_1509" rend="mixed"><mcr rend="italic">Sir William Chester</mcr></persName>; these persons were the
+                  this business were <persName rend="mixed"><mcr>Cornelius Bussine</mcr></persName>, <persName rend="mixed"><mcr>Ferdinando
+                  Points</mcr></persName>, ...... <persName rend="mixed"><mcr>Mounsie</mcr></persName>, <persName rend="mixed"><mcr>John Gardiner</mcr></persName>, and
+                  <persName ref="#william_chester_1509" rend="mixed"><mcr>Sir William Chester</mcr></persName>; these persons were the
                   proprietors of two sugar-houses, which were
                   all that were at that time in <placeName>England</placeName>.
                </p>
@@ -2960,7 +2961,7 @@
                <pb/>
                <fw type="pageNum">73</fw>
                
-               <p>In <date when="1596">1596</date>, <persName ref="#thomas_mildmay_1540" rend="mixed">Sir <mcr rend="italic">Thomas Mildmay</mcr></persName>, on the pretext
+               <p>In <date when="1596">1596</date>, <persName ref="#thomas_mildmay_1540" rend="mixed">Sir <mcr>Thomas Mildmay</mcr></persName>, on the pretext
                   that frauds were practised in refining sugar,
                   petitioned <persName ref="elizabeth_i_england_1533" rend="mixed">queen Elizabeth</persName> for a license, for an 
                   exclusive right to refine sugars, for a term of
@@ -3111,7 +3112,7 @@
                   <quote rend="block" xml:lang="la">Mel cannarum lenit ventrem, et mel tabazet non
                   lenit.</quote> <bibl>Lib. II. tract. 2. cap. 497.</bibl>
                   <quote rend="quotes">The honey of the canes opens the bowels; but
-                  the <distinct type="dialect">tabazet</distinct> (a white sort of honey) does not.</quote>
+                     the <distinct type="dialect" rend="italic">tabazet</distinct> (a white sort of honey) does not.</quote>
                </p>
                <p>In his chapter expressly on sugar, he says,—
                   <quote rend="block" xml:lang="la">Zuccarum quid est? Arundo zuccari in natura
@@ -3144,7 +3145,7 @@
                      et ipsum quidem cum oleo amydalino confert 
                      cholicae.</quote> <bibl>Lib. II. tract. 2. cap. 755.</bibl>
                </p>
-               <p><persName ref="#avicenna_0980">Avicenna</persName>, in his chapter <title>de Asperitate
+               <p><persName ref="#avicenna_0980">Avicenna</persName>, in his chapter <title rend="italic">de Asperitate
                   Linguæ</title>, copying <persName ref="#paul_of_aegina_0625">P. Ægineta</persName>, says, the tongue,
                   when rough and foul in fevers, should be
                   cleansed with oil of almonds and white sugar;
@@ -3164,18 +3165,18 @@
                   directions of <persName ref="#archigenes_0001">Archigenes</persName>, the quantity of a 
                   bean.</quote>
                </p>
-               <p>He says again, in his chapter <title>de Cibatione
+               <p>He says again, in his chapter <title rend="italic">de Cibatione
                   Febricitantium in generali</title>,—
-                  <quote xml:lang="la">Mel cannæ, quod est zuccarum, et proprie
+                  <quote xml:lang="la" rend="italic">Mel cannæ, quod est zuccarum, et proprie
                   mundificatum, est melius melle apis, licet ejus
                   abstersio sit minor abstersione mellis.</quote> <bibl>Lib. IV.
                   fen. I. tract. 2. cap. 8.</bibl>
-                  <quote>The honey of the cane, that is, sugar, well
+                  <quote rend="quotes">The honey of the cane, that is, sugar, well
                   cleansed, is better than the honey of bees,
                   althought its abstensive quality is less than that
                   of their honey.</quote>
                </p>
-               <p>In his chapter <title>De Adustione Linguæ</title>, he
+               <p>In his chapter <title rend="italic">De Adustione Linguæ</title>, he
                   advises sugar to be holden in the mouth, to
                   assuage thirst. <bibl>Lib. III. fen. 6. tract. 2. cap. 19.</bibl>
                </p>
@@ -3201,15 +3202,17 @@
                </p>
                <p><persName ref="#avicenna_0980">Avicenna</persName> has a chapter on Fanid, or
                   Pinidium, sugar which the translators have rendered
-                  <distinct type="dialect">Penidii</distinct>; the same as before termed
-                  <distinct type="dialect">Alfenid</distinct> or <distinct type="dialect">Saccharum Penidium</distinct>.
+                  <distinct type="dialect" rend="italic">Penidii</distinct>; the same as before termed
+                  <distinct type="dialect" rend="italic">Alfenid</distinct> or <distinct type="dialect" rend="italic">Saccharum Penidium</distinct>.
                </p>
                <p>He says,—
                   <quote rend="block" xml:lang="la">Penidii, calidi sunt et humidi in primo, et proprie
                   albi, et sunt humidiores aliis. Sunt grossiores
                   zuccaro. Sunt boni tussi. Sunt lenitivi ventirs.</quote>
                   <bibl>De Penidiis, lib. II. tract. 2. cap. 556.</bibl>
-                  <quote rend="quotes">The Penidii are hot and moist in the first
+               </p>
+               <p>
+                  <quote rend="quotes">The <distinct rend="italic">Penidii</distinct> are hot and moist in the first
                   degree, particularly the white, which are more
                   moist than the others. They are larger than
                   sugar. They are good for a couch. They 
@@ -3228,7 +3231,7 @@
                <pb/>
                <fw type="pageNum">83</fw>   
                
-                  hurtful. The Pinidii are hot; but are alleviating
+               hurtful. The <distinct rend="italic">Pinidii</distinct> are hot; but are alleviating
                   to the throat, bowels and bladder, and
                   warm the parts about the kidneys.</quote>   
                </p>
@@ -3253,9 +3256,9 @@
                   it, particularly from bile; which it expels by
                   its abstersive property. The white sort is not
                   so mollifying as the red, and that brought
-                  from <!-- Hegen -->, like lumps of salt.</quote>
+                  from <placeName rend="italic">Hegen</placeName>, like lumps of salt.</quote>
                </p>
-               <p><quote rend="prequotes" xml:id="q013" next="#q014">The haoscer sugar strengthens the stomach,
+               <p><quote rend="prequotes" xml:id="q013" next="#q014">The <distinct rend="italic">haoscer</distinct> sugar strengthens the stomach,
                   and is good for pains in the bladder and kidneys, 
                   and clears the sight when used in a collyrium;
                   and it trues and resolves the lax films
@@ -3267,7 +3270,7 @@
                   the pupils: when drunk, it does not cause
                   thirst, and on this account it is good in the
                   dropsy, when drunk with the milk of the mandragora,
-                  or <distinct type="dialect">Lafaba</distinct>.</quote>
+                  or <distinct type="dialect" rend="italic">Lafaba</distinct>.</quote>
                </p>
                <p><quote rend="quotes" xml:id="q014">New sugar is hot, and moist; and the old
                   hot, and dry. It is good for wind in the
@@ -3276,21 +3279,21 @@
                   cholic; and the old sort is good for phlegm in
                   the stomach, uness it causes thirst, and
                   generates thick blood. That which is brought
-                  from <!-- aliemen -->, and is like mastich, and is
-                  called <distinct type="dialect">haoscer</distinct>, is good for the stomach and
+                  from <placeName rend="italic">Aliemen</placeName>, and is like mastich, and is
+                  called <distinct type="dialect" rend="italic">haoscer</distinct>, is good for the stomach and
                   liver; on account of a small degree of bitterness 
                   in it: sugar is good for pains in the bladder
                   and kidneys, and cleanses them.</quote>
                </p>
                <p>From <persName ref="#isaac_israeli_ben_solomon_832">Isaac Bensulaimen</persName> he says, <quote rend="quotes">the
-                  sugar brought from the region of <placeName>Heigen</placeName>, and
-                  called <distinct type="dialect">haoscer</distinct>, is less sweet than the other
+                  sugar brought from the region of <placeName rend="italic">Heigen</placeName>, and
+                  called <distinct type="dialect" rend="italic">haoscer</distinct>, is less sweet than the other
                   sorts of sugar, and more drying; for which 
                   reason it does not remove thirst like the other
                   species of sugar: but it produces good effects
                   in pains of the kidneys, and when drunk in
                   milk of mandragora is good in the dropsy. The
-                  milk of the <distinct type="dialect">haoscer</distinct> also, when drunk with the
+                  milk of the <distinct type="dialect" rend="italic">haoscer</distinct> also, when drunk with the
                   milk of mandragora, has the same operations,
                   in a greater degree; but it is not so safe, in
                   habits of hot temperaments.</quote>
@@ -3299,7 +3302,7 @@
                <pb/>
                <fw type="pageNum">85</fw>
                
-               <p>From <persName>Abrianifa</persName> he says <quote rend="quotes">the <distinct type="dialect">haoscer</distinct> has
+               <p>From <persName>Abrianifa</persName> he says <quote rend="quotes">the <distinct type="dialect" rend="italic">haoscer</distinct> has
                   broad leaves, and has sugar, which comes out
                   at the buds of the brances, and at the bottom
                   of the leaves; from whence it is collected:
@@ -3307,18 +3310,18 @@
                   tree bears a kind of apple, about the size of
                   an egg, which yields a corrosive liquor. It
                   produces a down, with which pillows and
-                  bolsters are stuffed. The tree is called <distinct type="dialect">chercha</distinct>.
-                  when the leaves are cut, the <distinct type="dialect">haoscer</distinct> yields a 
+                  bolsters are stuffed. The tree is called <distinct type="dialect" rend="italic">chercha</distinct>.
+                  when the leaves are cut, the <distinct type="dialect" rend="italic">haoscer</distinct> yields a 
                   milk which is collected in the month of May,
                   and skins are put in it; and it takes off the
-                  hair. The wood of the <distinct type="dialect">hahoscer</distinct> is smooth,
+                  hair. The wood of the <distinct type="dialect" rend="italic">hahoscer</distinct> is smooth,
                   straight, and beautifyl; and musical bards,
                   in their love songs, compare the limbs of
                   their mistresses to it.</quote>
-                  <title>De Temperament. Simpl.</title> cap. 50.
+                  <title rend="italic">De Temperament. Simpl.</title> cap. 50.
                </p>
                <p><persName ref="#yahya_ibn_sarafyun_0001 #serapion_the_younger_0001">Serapion</persName> has a chapter also from <persName ref="#masawaiyh_0777" cert="medium">Aben
-                  Mesuai</persName>, on the <distinct type="dialect">pinidii</distinct>, before mentioned, by
+                  Mesuai</persName>, on the <distinct type="dialect" rend="italic">pinidii</distinct>, before mentioned, by
                   <persName ref="#avicenna_0980">Avicenna</persName>, and <persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhases</persName>. It is verbatim from
                   <persName ref="#avicenna_0980">Avicenna</persName>.
                </p>
@@ -3333,14 +3336,14 @@
                   <pb/>
                   <fw type="pageNum">86</fw>
                   
-                  use of sugar, was <persName ref="#theophilius_de_garencieres_1610"><mcr rend="mixed">Doctor</mcr> Theophilus
+                  use of sugar, was <persName ref="#theophilius_de_garencieres_1610"><hi rend="mixed">Doctor</hi> Theophilus
                   Garencieres</persName>; the next was our celebrated Doctor
                   <persName ref="#thomas_willis_1621">Thomas Willis</persName>.—<persName ref="#simon_paulli_1603">Simon Pauli</persName> had 
                   preceded them, with his crude notions.
                </p>
                <p>The opinions of these physicians were
                   adopted, in the infancy of sugar in <placeName>England</placeName>,
-                  by <persName ref="john_ray_1627"><mcr rend="mixed">Mr</mcr>. Ray</persName>; and the sentiments of these four
+                  by <persName ref="john_ray_1627"><hi rend="mixed">Mr</hi>. Ray</persName>; and the sentiments of these four
                   authors have been disseminated in every part
                   of <placeName>Europe</placeName>.
                </p>
@@ -3495,7 +3498,7 @@
                </p>
                <p><quote rend="prequotes" xml:id="q026" next="#q027">In confirmation of the preceding observations,
                   it is not to be omitted, that in the island 
-                  of <placeName>Saint Thomas</placeName>, under the æquator, the
+                  of <placeName rend="italic">Saint Thomas</placeName>, under the æquator, the
                   inhabitants feed their hogs with canes, and the
                   refuse of the cane juice; from which they are
                   said to fatten, and acquire such wonderful
@@ -3590,7 +3593,7 @@
                   derived from thence.</quote>
                </p>
                <p><persName ref="john_ray_1627">Ray</persName> says,—
-                  <quote xml:lang="la">Antiquiores medici, qui superiore seculo vixerunt,
+                  <quote xml:lang="la" rend="italic">Antiquiores medici, qui superiore seculo vixerunt,
                   unanimi fere consensu saccharum ad pectoris &amp;
                   pulmonum vitia, rancedinem, tussium gutturis asperitatem,
                   lateris &amp; thoracis ulcera, commendant.
@@ -3755,7 +3758,7 @@
                   ample justice to the wholesome properties of
                   sugar.
                </p>
-               <p><quote xml:lang="la">Sacchari virtutes ac operationes, secundum rationem
+               <p><quote xml:lang="la" rend="italic">Sacchari virtutes ac operationes, secundum rationem
                   &amp; modum usurpati, sunt sequentes:—Corpus
                   nutrit, santunem probum generat, spiritus vitales
                   recreat, semen auget, fœtum in utero firmat; quod
@@ -3863,12 +3866,12 @@
                   into the eyes, in fine powder, it takes away
                   their dimness, and heals them being bloodshot;
                   it cleanses old sored, being strewed gently on
-                  them</quote> <bibl><title>Histoire géneéral de Drogues</title>, Lib II.
+                  them</quote> <bibl rend="italic"><title>Histoire géneéral de Drogues</title>, Lib II.
                   cap. 38, anno 1694.</bibl>
                </p>
                <p><persName ref="#nicolas_lemery_1645">Lemery</persName> gives nearly a similar account of
                   sugar; but says it is hurtful to the teeth, and
-                  causes vapours. <bibl><title>Traité Universel des Drogues
+                  causes vapours. <bibl rend="italic"><title>Traité Universel des Drogues
                   Simples</title>, anno 1693,</bibl>
                </p>
                <p><persName ref="#paul_hermann_1646">Hermann</persName> says, <quote rend="prequotes" xml:id="q043" next="#q044">Sugar consists of a sweet
@@ -3889,7 +3892,7 @@
                   nor by people in fevers, on account of its
                   proneness to ascescence.</quote>
                </p>
-               <p><quote rend="prequotes" xml:id="q045" next="#q046">With fat broth and <distinct type="dialect">sal gem</distinct>, it is used in
+               <p><quote rend="prequotes" xml:id="q045" next="#q046">With fat broth and <distinct type="dialect" rend="italic">sal gem</distinct>, it is used in
                   glysters for children; and it is also given to
                   them, newly born, to relax the bowels, with 
                   oil of sweet almonds.</quote>
@@ -3904,7 +3907,7 @@
                   and gums; rendering the breath offensive, and
                   the teeth black and rotten. In glysters it is
                   good against worms, and is also an anthelmintic
-                  remedy taken by the mouth.</quote> <bibl><title>Cynosura</title>,
+                  remedy taken by the mouth.</quote> <bibl rend="italic"><title>Cynosura</title>,
                   vol. I. p. 704. &amp; seq, anno 1710.</bibl>
                </p>
                <p><persName ref="#herman_boerhaave_1668">Boerhaave</persName> says,—
@@ -3920,7 +3923,7 @@
                   
                   attenuation, produce debility, and too great
                   laxity. For which reason, it is often found
-                  hurtful to the ricketty and scorbutic.</quote> <bibl><title>Element.
+                  hurtful to the ricketty and scorbutic.</quote> <bibl rend="italic"><title>Element.
                   Chemiæ</title>, vol. II. p. 260, anno, 1742.</bibl>
                </p>
                <p><persName ref="#etienne_geoffroy_saint_hilaire_1772">Geoffroy</persName> says,
@@ -3984,7 +3987,7 @@
                   and the bowels; from whence the best quality
                   of the blood, and other humours of the body
                   depending on the first concoction, is produced.</quote>
-                  <bibl><title>De Vegetabilibus</title>, Sect. I. Art. 9, anno 1741.</bibl>
+                  <bibl rend="italic"><title>De Vegetabilibus</title>, Sect. 1. Art. 9, anno 1741.</bibl>
                </p>
                
                <pb/>
@@ -4021,7 +4024,7 @@
                   cold, coughs, and catarrhs; which are diseases
                   that reign in cold climates, especially in
                   islands, where the air is moister than in
-                  continents.</quote> <bibl><title>History of <placeName>Barbadoes</placeName></title>, anno 1673.</bibl>
+                  continents.</quote> <bibl rend="italic"><title>History of <placeName>Barbadoes</placeName></title>, anno 1673.</bibl>
                </p>
                <p><persName ref="#frederick_slare_1647">Slare</persName> says,—<quote rend="quotes" xml:id="q059" next="#q060">I have a strong and home
                   argument to recommend the use of sugar to
@@ -4078,7 +4081,7 @@
                   drinking, take notice of this counsel, and try
                   it for some time; and they will be pleased with
                   the delicious taste, and salubrious effects, of
-                  this saccharine addition.</quote> <bibl><title>Vindication of
+                  this saccharine addition.</quote> <bibl rend="italic"><title>Vindication of
                   Sugars</title>, anno 1715.</bibl>
                </p>
                
@@ -4148,7 +4151,7 @@
                <p>The renowned <persName ref="#torbern_bergman_1735">Bergman</persName> gives us the 
                   following new and interesting observations:
                </p>
-               <quote>
+               <quote rend="bestowquotes">
                <floatingText>
                   <body>
                <div><p>Sugar being justly considered as an
@@ -4232,7 +4235,7 @@
                   obtained, if the boiling be continued ever so
                   little beyond the proper time.
                </p>
-               <p><label>I</label> The acid thus obtained I call <distinct type="scientific">acid of
+                  <p><label>I</label> The acid thus obtained I call <distinct type="scientific" rend="italic">acid of
                   sugar</distinct>; not because it is procurable from that
                   substance only, but because sugar affords it
                   more pure, and in greater quantity, than any
@@ -4482,7 +4485,7 @@
                   great number of vegetables: and may be properly
                   ranged among their immediate principles.</quote>
                </p>
-               <quote>
+               <quote rend="bestow-quotes">
                   <p>The maple, the birch, the red beet, the
                      parsnip, the grape, wheat, &amp;c. contain it.
                      <persName ref="#georg_marcgrave_1610">Margraff</persName> extracted it from most vegetables.
@@ -4490,7 +4493,7 @@
                      placed in these organs, elaborate a
                      principle of this kind.
                   </p>
-                  <p>The sugar cane, <distinct type="dialect">arundo saccharifera</distinct>, 
+                  <p>The sugar cane, <distinct type="dialect" rend="italic">arundo saccharifera</distinct>, 
                      contains it in larger quantities, and affords it
                      more readily, than any other plant.
                   </p>
@@ -4586,7 +4589,7 @@
                   in his translation of <persName>Newmann's</persName>
                   chemistry:
                </p>
-               <quote>
+               <quote rend="bestow-quotes">
                   <p>In some parts of <placeName>North America</placeName>,
                      particularly <placeName>Canada</placeName>, a kind of sugar is prepared
                      from the juice which issues upon woulding or
@@ -4736,10 +4739,10 @@
                </p>
                <p>In the writings of <persName ref="#moses_0001">Moses</persName>, and in many parts
                   of the Bible written by others, we find the word
-                  <distinct type="dialect">קגה</distinct> <distinct type="dialect">Kaneh</distinct>.
+                  <distinct type="dialect">קגה</distinct> <distinct type="dialect" rend="italic">Kaneh</distinct>.
                </p>
                <p>This word, passing into the <rs type="properAdjective">Arabic</rs> language,
-                  became the origin of <distinct type="dialect">canna</distinct>, a cane.
+                  became the origin of <distinct type="dialect" rend="italic">canna</distinct>, a cane.
                </p>
                <p>But this <distinct xml:lang="he" type="dialect" rend="upright">קגה</distinct> in the Bible has many 
                   significations.
@@ -4748,7 +4751,7 @@
                <pb/>
                <fw type="pageNum">127</fw>
                
-               <p>As a veerb in the <name>Hebrew</name> <distinct type="dialect" xml:lang="he" rend="upright">קגה</distinct>, <distinct type="dialect">kanah</distinct> is, to
+               <p>As a veerb in the <name>Hebrew</name> <distinct type="dialect" xml:lang="he" rend="upright">קגה</distinct>, <distinct type="dialect" rend="italic">kanah</distinct> is, to
                   buy, procure, possess. <distinct xml:lang="he" type="dialect" rend="upright">קגה</distinct> as a noun, property
                   which is purchased, or possessed. It is 
                   likewise a spear<anchor xml:id="a037" corresp="#n037"/>, a staff<anchor xml:id="a038" corresp="#n038"/>, a reed, or rush<anchor xml:id="a039" corresp="#n039"/>;
@@ -4756,7 +4759,7 @@
                   the candlestick in the temple<anchor xml:id="a042" corresp="#n042"/>.
                </p>
                <p>It is said by several writers, that by <distinct type="dialect" xml:lang="he" rend="upright">קגה</distinct>, in 
-                  some places in the Bible, the <distinct type="dialect">sugar cane</distinct> is
+                  some places in the Bible, the <distinct type="dialect" rend="italic">sugar cane</distinct> is
                   meant; and consequently that this plant was
                   known to the ancient <name>Hebrews</name>. This is to
                   our present purpose, and the first object of inquiry.
@@ -4766,9 +4769,9 @@
                   vegetable production; to which any use, or
                   application, is assigned as such.
                </p>
-               <p>These places are in <bibl><title>Exodus</title>, c. xxx. v. 23.</bibl>
-                  <bibl><title>Canticles</title>, c.iv. v. 14.</bibl> <bibl><title>Isaiah</title>, c. xliii. v. 24.</bibl>
-                  <bibl><title>Jeremiah</title>, c. vi. v. 20.</bibl> and <bibl><title>Ezekiel</title>, c. xxcii. vi. 19.</bibl>
+               <p>These places are in <bibl><title rend="italic">Exodus</title>, c. xxx. v. 23.</bibl>
+                  <bibl><title rend="italic">Canticles</title>, c.iv. v. 14.</bibl> <bibl><title rend="italic">Isaiah</title>, c. xliii. v. 24.</bibl>
+                  <bibl><title rend="italic">Jeremiah</title>, c. vi. v. 20.</bibl> and <bibl><title rend="italic">Ezekiel</title>, c. xxcii. vi. 19.</bibl>
                </p>
                <p>If we examine the passages here referred to,
                   we shall find that <distinct xml:lang="he" type="dialect" rend="upright">קגה</distinct> has been doubtfully
@@ -4778,20 +4781,20 @@
                   
                   interpreted at best; evidently erroneously in some
                   instances; and in none is it possible that the
-                  <distinct type="dialect">sugar cane</distinct> could be meant by it.
+                  <distinct type="dialect" rend="italic">sugar cane</distinct> could be meant by it.
                </p>
                <p>In the preceding chaper in <title>Exodus</title> we
                   find,—
                   <quote xml:lang="he">קגה בשם וקגטן בשם</quote>
-                  <quote>Kaneh besem, and kinemon besem.</quote>
+                  <quote rend="italic">Kaneh besem, and kinemon besem.</quote>
                </p>
                <p>This is rendered in the Septuagint version,
                   <quote xml:lang="el">Κινναμωμον ευωες και καλαμος ευωδες και καλαμος ευωδης.</quote>
                </p>
                <p>The <rs type="properAdjective">Latin</rs> versions in the Polyglott have it,
-                  <quote xml:lang="la">Cinnamomum odoriferum, et calamus odoriferus.</quote>
+                  <quote xml:lang="la" rend="italic">Cinnamomum odoriferum, et calamus odoriferus.</quote>
                </p>
-               <p>In our <rs type="properAdjective">English</rs> Bible it is, <quote>sweet cinnamon
+               <p>In our <rs type="properAdjective">English</rs> Bible it is, <quote rend="quotes">sweet cinnamon
                   and <distinct>sweet calamus</distinct>.</quote>
                </p>
                <p>In some of the <rs type="properAdjective">Latin</rs> the <distinct xml:lang="he" type="dialect" rend="upright">קגה בשם</distinct>
@@ -4803,8 +4806,8 @@
                   <quote xml:lang="he">קגה וקגמון</quote>
                   <quote xml:lang="el">Καλαμος και κινναμωμον</quote>
                </p>
-               <p>The <rs type="properAdjective">Latin</rs> versions have this, <distinct type="dialect">calamus 
-                  aromaticus et cinnamomum</distinct>; and <distinct type="dialect">fistula et
+               <p>The <rs type="properAdjective">Latin</rs> versions have this, <distinct type="dialect" rend="italic">calamus 
+                  aromaticus et cinnamomum</distinct>; and <distinct type="dialect" rend="italic">fistula et
                   cinnamomum:</distinct> <distinct type="dialect" xml:lang="he" rend="upright">קוה</distinct> <distinct type="dialect">canna</distinct> in one version
                   of the Polyglott, as it is by <persName>Montanus</persName>, Our
                   
@@ -4814,7 +4817,7 @@
                   <rs type="properAdjective">English</rs> Bible has it <quote rend="quotes">calamus and
                   cinnamon.</quote>
                </p>
-               <p>In <title>Isaiah</title>, this <distinct type="dialect">Kaney</distinct> appears to be highly
+               <p>In <title rend="italic">Isaiah</title>, this <distinct type="dialect" rend="italic">kaneh</distinct> appears to be highly
                   grateful to God, who is represented by him as
                   being angry with the <name>Israelites</name>, for neglecting
                   their burnt offerings and sacrifices.
@@ -4826,12 +4829,12 @@
                </p>
                <p>This is the passage which has misled so
                   many people; from kaney being erroneously
-                  rendered <distinct type="dialect">sweet cane</distinct>.
+                  rendered <distinct type="dialect" rend="italic">sweet cane</distinct>.
                </p>
-               <p><title>Jeremiah</title> represents God, as being angry
+               <p><title rend="italic">Jeremiah</title> represents God, as being angry
                   with the <name>Israelites</name>; and will not receive their
                   burnt offerings, and sacrifices. Here also the
-                  <distinct type="dialect">kaneh</distinct> is mentioned by God, as an article of
+                  <distinct type="dialect" rend="italic">kaneh</distinct> is mentioned by God, as an article of
                   the first consideration.
                   <quote xml:lang="he">זקגה הטוב טאדץ טדהק</quote>
                </p>
@@ -4849,16 +4852,16 @@
                
                <p>The Septuagint has the part of the vers I
                   have quited from the <name>Hebrew</name>, <distinct xml:lang="el" type="dialect" rend="upright">κινναμωμον</distinct>
-                  <quote>Cinnamon from a far country</quote>. In
-                  the <rs type="properAdjective">Latin</rs> verions it is rendered <quote xml:lang="la">calamus
-                  suaveolens de terra longinqua</quote>; and <quote xml:lang="la">cinnamomum de
-                  terra longinqua</quote>; and <quote xml:lang="la">calamus aromaticus de terra
+                  <quote rend="italic"><hi rend="upright"><distinct rend="smallcaps">Cinnamon</distinct></hi> from a far country</quote>. In
+                  the <rs type="properAdjective">Latin</rs> verions it is rendered <quote xml:lang="la" rend="italic">calamus
+                  suaveolens de terra longinqua</quote>; and <quote xml:lang="la" rend="italic">cinnamomum de
+                  terra longinqua</quote>; and <quote xml:lang="la" rend="italic">calamus aromaticus de terra
                   longinqua.</quote>
                </p>
                <p>It is necessary to observe here, that, in the 
                   Septuagint, <distinct type="dialect" xml:lang="he" rend="upright">קגה</distinct> is converted into <distinct xml:lang="el" type="dialect" rend="upright">κινναμωμον</distinct>,
-                  <distinct type="dialect">cinnamon</distinct>; which word is not the original
-                  text; and the epithet <distinct type="dialect" xml:lang="he" rend="upright">טוב</distinct> <distinct type="dialect">tub</distinct>, good, perfect,
+                  <distinct type="dialect" rend="italic">cinnamon</distinct>; which word is not the original
+                  text; and the epithet <distinct type="dialect" xml:lang="he" rend="upright">טוב</distinct> <distinct type="dialect" rend="italic">tub</distinct>, good, perfect,
                   best, is entirely omitted.
                </p>
                <p>These are errors in the labours of those great
@@ -4871,26 +4874,32 @@
                   from this passage in the Bible, to suppose it
                   was a synonyme for cinnamon.
                </p>
-               <p>In <title>Ezekiel</title>, we find the <distinct type="dialect">kaneh</distinct> enumerated
+               <p>In <title rend="italic">Ezekiel</title>, we find the <distinct type="dialect" rend="italic">kaneh</distinct> enumerated
                   by God, among the boasted commodities of
                   merchandize at <placeName>Tyre</placeName>, in her most flourishing
                   state of commerce.
                   <quote xml:lang="he">קדה וקגה בטעדבך היה׃</quote>
-                  <quote>Cassia and calamus were in thy market.</quote>
+                  <quote rend="quotes">Cassia and <distinct rend="italic">calamus</distinct> were in thy market.</quote>
                </p>
-               <p>In <title rend="italic">Exodus</title>, <distinct type="dialect">kaneh</distinct> is mentioned by <persName ref="#moses_0001">Moses</persName> as
-                  one of the four spices in the <distinct type="religious">Holy Anointing Oil</distinct>;
+               
+               <pb/>
+               <fw type="pageNum">131</fw>
+               
+               <p>In <title rend="italic">Exodus</title>, <distinct type="dialect" rend="italic">kaneh</distinct> is mentioned by <persName ref="#moses_0001">Moses</persName> as
+                  one of the four spices in the <distinct type="religious" rend="italic">Holy Anointing Oil</distinct>;
                   which, he says, God ordered him to make in
                   the following manner:
-                  <quote rend="block">Take thou unto thee, principal spices of
+               </p>
+               <p>
+                  <quote rend="quotes">Take thou unto thee, principal spices of
                   pure myrrh 500 shekels; sweet cinnamon and
-                  <distinct type="dialect">sweet calamus</distinct>, of each 250 shekels; cassia 500
+                  <distinct type="dialect" rend="italic">sweet calamus</distinct>, of each 250 shekels; cassia 500
                   shekels; and of olive oil as <distinct type="dialect">hin</distinct>. And thou
                   shalt make it an oil of Holy Ointment, to be
                   made an ointment compound, after the art of
                   the apothecary<anchor xml:id="a043" corresp="#n043"/>.</quote>
                </p>
-               <p>With this <distinct type="religious">Holy Anointing Oil</distinct>, <persName ref="#moses_0001">Moses</persName> says,
+               <p>With this <distinct type="religious" rend="italic">Holy Anointing Oil</distinct>, <persName ref="#moses_0001">Moses</persName> says,
                   he was directed by God to anoint the tabernacle,
                   the ark of the testimony, the tables, the
                   vessels, the candlesticks, the altar of incense,
@@ -4898,13 +4907,13 @@
                   his foot, that they might be sacred; he was
                   also ordered to anoint <persName ref="#aaron_0001">Aaron</persName> and his sons, and
                   consecrate them, that they might minister in
-                  the priests office; and it was to be an <distinct type="religious">Holy
+                  the priests office; and it was to be an <distinct type="religious" rend="italic">Holy
                   Anointing Oil</distinct> for the children of <name>Israel</name>
                   throughout their generations
                </p>
                <p><persName ref="#moses_0001">Moses</persName>, in this remarkable chapter, mentions
                   also the other compositon, so venerated by the
-                  <name>Israelites</name>. This is the <distinct type="religious">Holy Perfume</distinct>; which,
+                  <name>Israelites</name>. This is the <distinct type="religious" rend="italic">Holy Perfume</distinct>; which,
                   he says, God directed him to make in the 
                   
                   <pb/>
@@ -4915,17 +4924,17 @@
                   pure frankincense, of each shall there be a like
                   weight.</quote>
                </p>
-               <p><quote>And thou shalt make it a perfume, or 
+               <p><quote rend="quotes">And thou shalt make it a perfume, or 
                   confection, after the art of the apothecary, tempered
                   together, pure and holy.</quote>
                </p>
-               <p>This <distinct type="religious">Perfume</distinct>, like the <distinct type="religious">Holy Oil</distinct>, was not to
+               <p>This <distinct type="religious" rend="italic">Perfume</distinct>, like the <distinct type="religious" rend="italic">Holy Oil</distinct>, was not to
                   be used for profane purposes, nor even to be
                   imitated. For, whosoever should attempt to 
                   make either, or put any of the oil on a stranger,
                   or smell to a perfume compounded in a similar
                   manner, was, <persName ref="#moses_0001">Moses</persName> says, by God's decree, to
-                  be <quote>even cut off from his people.</quote>
+                  be <quote rend="quotes">even cut off from his people.</quote>
                </p>
                <p>The ancient <name>Jews</name> delighted in spicey odours.
                   <persName ref="#moses_0001">Moses</persName> made fumigation, and the use of
@@ -4933,7 +4942,7 @@
                </p>
                <p>They used them even in their beds:—
                   <quote xml:lang="he">גמהי טשבבי טד אהלים וקגטון׃</quote>
-                  <quote>I have perfumed my bed with myrrh,
+                  <quote rend="quotes">I have perfumed my bed with myrrh,
                   aloes, and cinnamon<anchor xml:id="a044" corresp="#n044"/>.</quote>
                </p>
                <p>The ingredients they used were indeed
@@ -4980,18 +4989,18 @@
                   after the manner of the <name>Israelites</name>.
                </p>
                <p>But I must finish my observations on
-                  <distinct type="dialect">kaneh</distinct>.
+                  <distinct type="dialect" rend="italic">kaneh</distinct>.
                </p>
                <p>What this <distinct xml:lang="he" type="dialect" rend="upright">קוה</distinct> was, I know not. It could 
-                  not be the acorus, or the calamus aromaticus; that
+                  not be the <distinct rend="italic">acorus</distinct>, or the <distinct rend="italic">calamus aromaticus</distinct>; that
                   was to plentiful to be so valued; and grew in 
                   <placeName>Syria</placeName>, <placeName>Arabia</placeName>, and the islands of the <name>Gentiles</name>,
                   and in all the swamps and marshes in the adjacent
                   countries to the land of <placeName>Israel</placeName>; and
-                  was not brought <distinct type="dialect" xml:lang="he" rend="upright">טאדץ טדהק</distinct> <quote>from a far
+                  was not brought <distinct type="dialect" xml:lang="he" rend="upright">טאדץ טדהק</distinct> <quote rend="quotes">from a far
                   country.</quote>
                </p>
-               <p>That the <distinct type="dialect">kaneh</distinct> was some spicey produce of
+               <p>That the <distinct type="dialect" rend="italic">kaneh</distinct> was some spicey produce of
                   a tree, concretion, bitumen, wood, bark, or
                   gum, is certain; and it is also certain that it
                   was not only aromatic, but precious, from the
@@ -4999,11 +5008,11 @@
                   the chosen people, and the estimation in which
                   it ws said to be holden by God.
                </p>
-               <p>The epithet <distinct xml:lang="he" type="dialect" rend="upright">בשם</distinct> imports spicey, sweet scented,
-                  not sweet tasted; therefore the sugar cane is
+               <p>The epithet <distinct xml:lang="he" type="dialect" rend="upright">בשם</distinct> imports <emph>spicey, sweet scented</emph>,
+                  not <emph>sweet tasted</emph>; therefore the sugar cane is
                   entirely out of the question.
                </p>
-               <p>The <ecda:flora>sugar cane</ecda:flora> does not yield a fragrant
+               <p>The <ecda:flora rend="italic">sugar cane</ecda:flora> does not yield a fragrant
                   smell, naturally or burnt. Neither will it keep
                   sound, when ripe, after it is cut; but will
                   perish like the stalk of the cabbage-plant; and
@@ -5012,9 +5021,9 @@
                   <fw type="pageNum">135</fw>
                   
                   could not be preserved from rotting in a passage
-                  <quote>from a far country<anchor xml:id="a046" corresp="#n046"/>.</quote>
+                  <quote rend="quotes">from a far country<anchor xml:id="a046" corresp="#n046"/>.</quote>
                </p>
-               <p>How <distinct type="dialect" xml:lang="he" rend="upright">קוה</distinct> should have been rendered <distinct type="dialect">calamus</distinct>,
+               <p>How <distinct type="dialect" xml:lang="he" rend="upright">קוה</distinct> should have been rendered <distinct type="dialect" rend="italic">calamus</distinct>,
                   so universally as it has been, I cannot 
                   conceive.
                </p>
@@ -5029,9 +5038,9 @@
                </p>
                <p>We find among the <rs type="properAdjective">Greek</rs> writers <distinct xml:lang="el" type="dialect" rend="upright">καννα
                   δοναξ</distinct> and <distinct type="dialect" xml:lang="he" rend="upright">καλαμος</distinct>; and among the <rs type="properAdjective">Roman</rs>
-                  writers <distinct type="dialect">canna</distinct>, <distinct type="dialect">arundo</distinct>, and <distinct type="dialect">calamus</distinct>;—but these
-                  names are used indiscriminately for a cane, or
-                  a reed.
+                  writers <distinct type="dialect" rend="italic">canna</distinct>, <distinct type="dialect" rend="italic">arundo</distinct>, and <distinct type="dialect" rend="italic">calamus</distinct>;—but these
+                  names are used indiscriminately for a <distinct rend="italic">cane</distinct>, or
+                  a <distinct rend="italic">reed</distinct>.
                </p>
                <p>This has been the cause frequently of 
                   misunderstanding these writers; where the
@@ -5044,37 +5053,37 @@
                   <pb/>
                   <fw type="pageNum">136</fw>
                   
-                  <distinct type="dialect">dulcis calamus repurgatus</distinct>, is the pulp of the
-                  cassia fistula<anchor xml:id="a048" corresp="#n048"/>.
+                  <distinct type="dialect" rend="italic">dulcis calamus repurgatus</distinct>, is the pulp of the
+                  <distinct rend="italic">cassia fistula</distinct><anchor xml:id="a048" corresp="#n048"/>.
                </p>
                <p>It has been said, by some writers, that the
                   word <distinct type="dialect" xml:lang="he" rend="upright">שבד</distinct> in the Bible has an allusion to
                   sugar.
                </p>
-               <p>This word, like <distinct type="dialect">kaneh</distinct>, according to the
+               <p>This word, like <distinct type="dialect" rend="italic">kaneh</distinct>, according to the
                   construction of the <rs type="properAdjective">Hebrew</rs> language, has 
                   several significations; but none whatever that
                   has any relation to sugar.
                </p>
-               <p>As a verb <distinct type="dialect" xml:lang="he" rend="upright">שבד</distinct> shakar or shacar, imports to
+               <p>As a verb <distinct type="dialect" xml:lang="he" rend="upright">שבד</distinct> <distinct rend="italic">shakar</distinct> or <distinct rend="italic">shacar</distinct>, imports to
                   drink to excess, to be drunk; to hire for wages.
                </p>
                <p>As a noun, it forms various derivatives;
                   but it is chiefly used for some exhilerating,
                   strong, and intoxicating liquor. Our <rs type="properAdjective">English</rs>
-                  Bible every where denominates it, <quote>strong
+                  Bible every where denominates it, <quote rend="quotes">strong
                   drink.</quote>
                </p>
                <p>The Septuagint renders it <distinct type="dialect" xml:lang="el" rend="upright">σικορα</distinct><anchor xml:id="a049" corresp="#n049"/>, σικερα<anchor xml:id="a050" corresp="#n050"/>,
-                  the <rs type="properAdjective">Latin</rs> versions <distinct type="dialect">sechar</distinct>, <distinct type="dialect">sicera</distinct>.
+                  the <rs type="properAdjective">Latin</rs> versions <distinct type="dialect" rend="italic">sechar</distinct>, <distinct type="dialect" rend="italic">sicera</distinct>.
                </p>
                <p><persName ref="#moses_0001">Moses</persName> says, God ordered him to proclaim
-                  to the children of <placeName>Israel</placeName>, that <quote>when
+                  to the children of <placeName>Israel</placeName>, that <quote rend="quotes">when
                   either man or woman shall separate themselves
                   to a vow, a vow of a <name>Nazarite</name> he shall
-                     separate himself from wine, and <distinct type="dialect" xml:lang="he" rend="upright">שבד</distinct> (shecar) strong
-                  drink; and shall drink no vinegar of wine, or
-                  vinegar of <distinct type="dialect" xml:lang="he" rend="upright">שבד</distinct> (shecar) strong drink; neither
+                     separate himself from wine, and <distinct type="dialect" xml:lang="he" rend="upright">שבד</distinct> <distinct rend="italic">(shecar) strong
+                  drink</distinct>; and shall drink no vinegar of wine, or
+                  vinegar of <distinct type="dialect" xml:lang="he" rend="upright">שבד</distinct> <distinct rend="italic">(shecar) strong drink</distinct>; neither
                   
                   <pb/>
                   <fw type="pageNum">137</fw>
@@ -5086,15 +5095,15 @@
                   gave him <quote rend="quotes">the cup of his fury;</quote> and that he
                   <quote rend="quotes">made all nations drink of it, to whom the
                   Lord had sent him;</quote> and he said unto them,
-                  <quote>drink ye, and be <distinct type="dialect" xml:lang="he" rend="upright">וְש֧בְדו</distinct> (veshikru) drunken,
-                  and spue, and fall<anchor xml:id="a052" corresp="#n052"/></quote>
+                  <quote rend="quotes">drink ye, and be <distinct type="dialect" xml:lang="he" rend="upright">וְש֧בְדו</distinct> (<distinct type="dialect" rend="italic">veshikru</distinct>) drunken,
+                  and spue, and fall<anchor xml:id="a052" corresp="#n052"/>.</quote>
                </p>
                <p>These passages are here given, the original
                   <rs type="properAdjective">Hebrew</rs> words excepted, from the <rs type="properAdjective">English</rs>
                   Bible<anchor xml:id="a053" corresp="#n053"/>; which, though not an elegant, is a
                   faithful translation of the <name>Hebrew</name>.
                </p>
-               <p>What sottish liquor <distinct type="dialect" xml:lang="he" rend="upright">ׁשֵבׇד</distinct> shekar was, no
+               <p>What sottish liquor <distinct type="dialect" xml:lang="he" rend="upright">ׁשֵבׇד</distinct> <distinct rend="italic" type="dialect">shekar</distinct> was, no
                   person knows. It was probably made from grain.
                </p>
                <p>The most wild and barbarous nations have
@@ -5122,7 +5131,7 @@
                   flowers, by the consummate skill of the laborious
                   bee; or from roots, trees, fruit, and grain, by
                   the chemic art; we cannot but admire the
-                  partiality of Nature to the luscious Cane, her
+                  partiality of Nature to the luscious <distinct rend="smallcaps">Cane</distinct>, her
                   favourite offspring, the sublimest effort of
                   heat and light.
                </p>
@@ -5239,7 +5248,7 @@
                </p>
                <p>This story has had a good effect among the
                   common people in Scotland. They are impressed 
-                  with a notion that <soCalled>sweeties</soCalled> hurt the
+                  with a notion that <soCalled rend="italic">sweeties</soCalled> hurt the
                   teeth; therefore they live contented without
                   an article, not always within the compass of
                   their finances.
@@ -5251,7 +5260,7 @@
                   <pb/>
                   <fw type="pageNum">141</fw>
                   
-                  dentrifices; and what the <name>French</name> call <distinct type="dialect">opiates</distinct>,
+                  dentrifices; and what the <name>French</name> call <distinct type="dialect" rend="italic">opiates</distinct>,
                   for the preservation of the teeth and gums.
                </p>
                <p>When milk is not the sole diet of children
@@ -5287,7 +5296,7 @@
                <fw type="pageNum">142</fw>
                
                <p>I have often seen old, scabby, wasted
-                  negroes, crawl from the <distinct type="agricultural">hot houses</distinct>, apparently
+                  negroes, crawl from the <distinct type="agricultural" rend="italic">hot houses</distinct>, apparently
                   half dead, in crop-time; and by sucking canes
                   all day long, they have soon become strong,
                   fat and sleaky.
@@ -5302,7 +5311,7 @@
                <p><persName>Fontanus</persName>, <persName>Valeriola</persName>, and <persName>Forrestus</persName>,
                   assert that they had patients cured of consumptions
                   of the lungs by a continued use of the
-                  <distinct type="scientific">conserve of roses</distinct>; and <persName>Reverius</persName> knew an
+                  <distinct type="scientific" rend="italic">conserve of roses</distinct>; and <persName>Reverius</persName> knew an
                   apothecary who cured himself of a confirmed
                   consumption by almost living on the conserve of
                   roses. Foreign journals are full of histories of
@@ -5325,7 +5334,7 @@
                
                <p>It has a great solvent power; and helps the
                   solution of fat oily, and incongruous foods
-                  and mixtures. It promotes their maceration
+                  and mixtures. It promotes their <!-- del --> maceration
                   and digestion in the stomach; and qualifies
                   the effects of digestion, to the powers of the
                   lacteals<anchor xml:id="a057" corresp="#n057"/>.
@@ -5430,7 +5439,7 @@
                   emetic, or cathartic, or as both. In others,
                   honey will cause erysipelas, nettle rash, 
                   itching, and occasion such deleterious effects,
-                  as are produced by some vegetable fungi;
+                  as are produced by some vegetable <distinct rend="italic">fungi</distinct>;
                   some kinds of fishes, muscles, and poisonous
                   plants.
                </p>
@@ -5455,7 +5464,7 @@
                   from some malignant quality inherent in the 
                   fish itself; according to the place where it is
                   found, and particular seasons. Some suppose
-                  the poison consists in a kind of <distinct type="scientific">stella marina</distinct>, a
+                  the poison consists in a kind of <distinct type="scientific" rend="italic">stella marina</distinct>, a
                   sea insect, frequently found in muscles; whose 
                   spawn is very corrosive, and when applied to
                   the skin excoriates it.
@@ -5494,7 +5503,7 @@
                </p>
                <p>They <ecda:food ana="#poison">honey</ecda:food> of some countries is poisonous to
                   everyone who makes use of it. <persName ref="#pompey_0106">Pompey</persName> lost
-                  three regiments in <placeName>Pontus</placeName>, poisoned by honey<anchor xml:id="a061" corresp="#n061"/>;
+                  three regiments in <placeName rend="italic">Pontus</placeName>, poisoned by honey<anchor xml:id="a061" corresp="#n061"/>;
                   and <persName ref="#pliny_0023">Pliny</persName> says, there is a district in that
                   country, which yields honey that makes people
                   mad who eat it.
@@ -5575,8 +5584,8 @@
                   might be brought against every article,
                   constituting our daily food.
                </p>
-               <p><persName ref="#francis_bacon_1561">Bacon</persName> says, <quote>all life hath a sympathy with
-                  salt<anchor xml:id="a062" corresp="#n062"/>.</quote> This is true, and the same may be
+               <p><persName ref="#francis_bacon_1561">Bacon</persName> says, <quote rend="quotes">all life hath a sympathy with
+                  <distinct rend="italic">salt</distinct><anchor xml:id="a062" corresp="#n062"/>.</quote> This is true, and the same may be
                   said of <ecda:food>sugar</ecda:food>. I have one instance of antipathy
                   on record however, against salt<anchor xml:id="a063" corresp="#n063"/>; I know
                   of none against sugar. But doubtless there are
@@ -5635,7 +5644,7 @@
                   death used a pound of sugar daily, in his
                   <ecda:food>wine</ecda:food>, <ecda:food>chocolate</ecda:food>, and <ecda:food>sweet-meats</ecda:food>.
                </p>
-               <p><persName ref="#frederick_slare_1647">Slare</persName> says, his grandfather <persName rend="upright">Mr. <mcr rend="italic">Malory</mcr></persName> was
+               <p><persName ref="#frederick_slare_1647">Slare</persName> says, his grandfather <persName rend="mixed">Mr. <mcr>Malory</mcr></persName> was
                   strong and chearful in his eighty second year;
                   at which time his hair changed somewhat dark;
                   his old teeth came out, pushed away by yong
@@ -5783,7 +5792,7 @@
                   would be at twenty pounds per annum.
                </p>
                <p>These calculations are made, reducing the
-                  whole to raw, or <ecda:commodity>muscovado sugar</ecda:commodity>.
+                  whole to <distinct rend="italic" type="agricultural">raw</distinct>, or <ecda:commodity><distinct rend="italic" type="agricultural">muscovado</distinct> sugar</ecda:commodity>.
                </p>
                <p>The consumption in <placeName>Ireland</placeName> is not in this
                   calculation. <placeName>Ireland</placeName> consumes 20,000 
@@ -5797,7 +5806,7 @@
                <pb/>
                <fw type="pageNum">157</fw>
                
-               <p>Before the Furies lighted their torches in <placeName>St.
+               <p>Before the Furies lighted their torches in <placeName rend="italic"><hi rend="upright">St</hi>.
                   Domingue</placeName>, that beautiful island, yielded, for the
                   benefit of mankind, 200,000 hogsheads of
                   sugar.
@@ -5807,13 +5816,13 @@
                   hogsheads.
                </p>
                <p>The <placeName>East Indies</placeName> have not given us a quantity
-                  exceeding 5,000 hogsheads per annum. The
+                  exceeding 5,000 hogsheads <distinct rend="italic">per annum</distinct>. The
                   <placeName>East Indies</placeName> cannot, I believe, spare much more
                   for the <rs type="properAdjective">English</rs> market, without further
                   expensive arrangements.
                </p>
                <p>If <placeName>Jamaica</placeName>, and the other <rs type="properAdjective">English</rs> sugar islands,
-                  were to share the fate of <placeName>St. Domingue</placeName>, by the
+                  were to share the fate of <placeName rend="italic"><hi rend="upright">St</hi>. Domingue</placeName>, by the
                   horrors of war, a distress would arise, not only
                   in <placeName>England</placeName>, but in <placeName>Europe</placeName>, not confined to the
                   present generation, that that would descend to
@@ -5843,13 +5852,13 @@
                   attribute to the use of sugar the extinction of
                   the plague in <placeName>Europe</placeName>;—that is not the case:—
                   but it has certainly contributed to suppress the
-                  native malady of <placeName>England</placeName>, the <distinct type="scientific">Scurvy</distinct> <!-- medical?? -->
+                  native malady of <placeName>England</placeName>, the <distinct type="scientific" rend="italic">Scurvy</distinct> <!-- medical?? -->
                </p>
                <p ana="#medical #disease">That state of the habit which we denominate
                   scurvy, perhaps the parent of scrophula and
                   consumption, disposes the system to the ravages
                   of fevers; and hence the great mortality in former
-                  times; when pestilential fevers and plagues
+                  times; when pestilential fevers and <distinct rend="italic">plagues</distinct>
                   invaded the <name>English</name>, deeply infected by the
                   scurvy.
                </p>
@@ -5874,7 +5883,7 @@
                   remark<anchor xml:id="a070" corresp="#n070"/>.
                </p>
                <p>Without resorting to the metamorphosis of
-                  <persName ref="#nebuchadnezzar_ii_0634" rend="mixed"><mcr rend="italic">Nebuchadnezzer</mcr></persName>, <persName ref="#montesquieu_1689">Montesquieu</persName> was so
+                  <persName ref="#nebuchadnezzar_ii_0634" rend="mixed"><mcr>Nebuchadnezzer</mcr></persName>, <persName ref="#montesquieu_1689">Montesquieu</persName> was so
                   persuaded of this doctrine, that he asserts, in many 
                   animals, excepting their mere bones, their
                   mental as well as their corporal character, is
@@ -5898,7 +5907,7 @@
                   <fw type="pageNum">160</fw>
                   
                   myself to a path, with which I hope I am better
-                  acquainted—Warwick Lane.
+                  acquainted—<placeName rend="smallcaps">Warwick Lane</placeName>.
                </p>
                <p>There are no distempers now in <placeName>Europe</placeName>
                   ravaging and depopulating who countries;—
@@ -5987,7 +5996,7 @@
                   should not now be much benefited in our
                   practice, by their labours.
                </p>
-               <p>The <distinct type="scientific">Cow-Pox</distinct> has lately appeared in <placeName>England</placeName>.
+               <p>The <distinct type="scientific" rend="italic">Cow-Pox</distinct> has lately appeared in <placeName>England</placeName>.
                   This is a new star in the <rs type="properAdjective">Æsculapian</rs>
                   system. It was first observed from the Provinces.
                   It is so luminous there, that the greasy-
@@ -6007,13 +6016,13 @@
                   opinion respecting this phenomenon.
                </p>
                <p>Great events are foreboded.—Some pretend
-                  that a restive greasy-heeled horse will kick
+                  that a restive <mcr>greasy-heeled horse</mcr> will kick
                   down all the old gally-pots of <persName ref="#galen_0129">Galen</persName>—Others,
                   that the people of <placeName>England</placeName> are becoming like
                   the inhabitants of a wilderness, beyond the
                   land of <placeName>Cathay</placeName>, seen in <date when="1333">1333</date>, by the rare and
-                  inimitable <persName ref="#john_mandeville_0001"><mcr rend="mixed">Sir John</mcr> Mandevile</persName>,—who, he
-                  says, were <quote>wild, with horns on their heads,
+                  inimitable <persName ref="#john_mandeville_0001"><hi rend="mixed">Sir John</hi> Mandevile</persName>,—who, he
+                  says, were <quote rend="quotes">wild, with horns on their heads,
                   very hideous and speak not; but rout as swine<anchor xml:id="a071" corresp="#n071"/>.</quote>
                </p>
                <p ana="#disease #medical">Wonderful things to certainly apear in all
@@ -6024,12 +6033,12 @@
                   fluently. When his physician cured him of
                   the disorder, he could not speak a word of that
                   language. The <rs type="properAdjective">Dutch</rs> worms and the <rs type="properAdjective">Dutch</rs>
-                  language, left <persName rend="mixed"><mcr rend="italic">Philario</mcr></persName> together<anchor xml:id="a072" corresp="#a072"/>!
+                  language, left <persName rend="mixed"><mcr>Philario</mcr></persName> together<anchor xml:id="a072" corresp="#a072"/>!
                </p>
-               <p ana="#disease #medical">In this Cowmania it is not enough for reason
+               <p ana="#disease #medical">In this <distinct rend="italic">Cowmania</distinct> it is not enough for reason
                   to concede, that the Cow-pox may lessen, <emph>for
                   a time</emph>, the disposition in the habit to receive
-                  the infection of the Small pox.
+                  the infection of the <distinct type="scientific" rend="italic">Small pox</distinct>.
                </p>
                <p ana="#medical #disease">All cutaneous determinations; catarhal fevers;
                   and every disease of the lymphatics; and
@@ -6061,7 +6070,7 @@
                <p>The Small-pox is undoubtedly an evil; but
                   we understand the extent of that ill; which he
                   had better bear,
-                  <quote rend="block">Than fly to others that we know not of.</quote>
+                  <quote rend="quotes">Than fly to others that we know not of.</quote>
                </p>
                <p ana="#disease #medical">Inoculation has disarmed the Small-pox of
                   its terrors; and reduced it to management.
@@ -6101,7 +6110,7 @@
                <p>There are several distempers of <mcr>bestial</mcr> origin,
                   I have no doubt.
                </p>
-               <p ana="#disease">The <distinct type="scientific">Yaws</distinct> is one of them; and, not being 
+               <p ana="#disease">The <distinct type="scientific" rend="italic">Yaws</distinct> is one of them; and, not being 
                   understood in <placeName>Europe</placeName>, and a well-known
                   affliction in the <rs type="place">sugar colonies</rs>, it is not foreign
                   to my subject to notice here.
@@ -6110,7 +6119,7 @@
                <pb/>
                <fw type="pageNum">166</fw>
                
-               <p ana="#disease">The <distinct type="scientific">yaws</distinct> naturally is an original <rs type="properAdjective">African</rs>
+               <p ana="#disease">The <distinct type="scientific" rend="italic">yaws</distinct> naturally is an original <rs type="properAdjective">African</rs>
                   distemper. It may be communicated to white
                   people, as it is to blacks, by inoculation, and
                   by accidental contact, when the ulcerous matter
@@ -6119,7 +6128,7 @@
                   sort. But it breaks out in negroes without
                   any communication, society, or contact.
                </p>
-               <p ana="#disease">The seeds of the <distinct type="scientific">yaws</distinct> descend from those
+               <p ana="#disease">The seeds of the <distinct type="scientific" rend="italic">yaws</distinct> descend from those
                   who have ever had it, to their latest posterity.
                   No period from infancy to age exempts them
                   from it. Its appearance is uncertain.
@@ -6140,7 +6149,7 @@
                <pb/>
                <fw type="pageNum">167</fw>
                
-               <p ana="#disease">The <distinct type="scientific">yaws</distinct> differs althogether from every other
+               <p ana="#disease">The <distinct type="scientific" rend="italic">yaws</distinct> differs althogether from every other
                   disorder, in its origin, progress, and
                   termination.
                </p>
@@ -6152,32 +6161,32 @@
                   destroyed by it. No person is subject to it twice.
                </p>
                <p ana="#disease">From want of care and proper management,
-                  the torments of the <distinct type="scientific">yaws</distinct> surpass all
-                  description from the <distinct type="scientific">bone ache</distinct>, and dreadful
+                  the torments of the <distinct type="scientific" rend="italic">yaws</distinct> surpass all
+                  description from the <distinct type="scientific" rend="italic">bone ache</distinct>, and dreadful
                   agonizing curvatures, and caries of the legs, arms,
                   collar-bones, wrists, and almost every other
                   bone, and articulation in the body.
                </p>
                <p ana="#disease">There is also, sometimes, a relic after the
-                  original malady is gone, called the <distinct type="scientific">master yaw</distinct>;
+                  original malady is gone, called the <distinct type="scientific" rend="italic">master yaw</distinct>;
                   this is an inveterate ulcer, proceeding from 
-                  the largest <distinct type="scientific">yaw</distinct>, or chief determination of the
+                  the largest <distinct type="scientific" rend="italic">yaw</distinct>, or chief determination of the
                   eruption.
                </p>
                <p ana="#disease">Generally, this distemper terminates in what
-                  are called <distinct type="scientific">crab yaws</distinct>. These are painful sores,
+                  are called <distinct type="scientific" rend="italic">crab yaws</distinct>. These are painful sores,
                   or cracks in the feet. Sometimes spongy, sometimes
                   hard and callous.
                </p>
-               <p ana="#disease">There are two sorts of <distinct type="scientific">yaws</distinct>, like the two
-                  species of <distinct type="scientific">Farcy</distinct> in horses; the <distinct type="scientific">common yaws</distinct>
-                  and the <distinct type="scientific">running yaws</distinct>.
+               <p ana="#disease">There are two sorts of <distinct type="scientific" rend="italic">yaws</distinct>, like the two
+                  species of <distinct type="scientific" rend="italic">Farcy</distinct> in horses; the <distinct type="scientific" rend="italic">common yaws</distinct>
+                  and the <distinct type="scientific" rend="italic">running yaws</distinct>.
                </p>
                
                <pb/>
                <fw type="pageNum">168</fw>
                
-               <p ana="#disease">The <distinct type="scientific">common yaws</distinct>, without fever or
+               <p ana="#disease">The <distinct type="scientific" rend="italic">common yaws</distinct>, without fever or
                   indispositon, begins with small pimples, which soon
                   increase, and appear in round, white, flabby,
                   eruptions, from about the size of a pea to that
@@ -6190,7 +6199,7 @@
                   force them out, when they are thought to be
                   entirely gone from the habit.
                </p>
-               <p ana="#disease">The <distinct type="scientific">running yaws</distinct> breaks out in spreading
+               <p ana="#disease">The <distinct type="scientific" rend="italic">running yaws</distinct> breaks out in spreading
                   cutaneous ulcers, discharging a great quantity
                   of acrid corrosive matter, in different parts of
                   the body. This is the worst sort.
@@ -6198,12 +6207,12 @@
                <p ana="#medical">The cure of the yaws is now understood by
                   skilful practitioners. Inoculation is performed
                   with success. Care soon removes the principal
-                  mischief of the distemper; and the <distinct type="scientific">crab yaws</distinct>
+                  mischief of the distemper; and the <distinct type="scientific" rend="italic">crab yaws</distinct>
                   are easily cured in the manner which I have
                   related in another publication<anchor xml:id="a077" corresp="#n077"/>.
                </p>
                <p ana="#medical">Formerly there was no regular method of 
-                  treating the <distinct type="scientific">yaws</distinct> in the <placeName>West Indies</placeName>. It was
+                  treating the <distinct type="scientific" rend="italic">yaws</distinct> in the <placeName>West Indies</placeName>. It was
                   thought to be a disorder that would have its
                   course, and, if interrupted, that it would be
                   
@@ -6263,13 +6272,13 @@
                <!-- start Obeah -->
                <milestone unit="unnumbered" ana="#obeah" spanTo="#ana001"/>
                <p>Many of their wayward visitors were deeply
-                  skilled in magic, and what we call the <distinct type="religious">black
+                  skilled in magic, and what we call the <distinct type="religious" rend="italic">black
                   art</distinct>, which they brougth with them from
                   <placeName>Africa</placeName>; and, in return for their accomodation,
                   they usually taught their landlord the
                   mysteries of sigils, spells, and sorcery; and
                   <emph>illuminated</emph> him in all the occult science of
-                  <distinct type="religious" ana="#obeah #religious">Obi</distinct><anchor xml:id="a078" corresp="#n078"/>.
+                  <distinct type="religious" ana="#obeah #religious" rend="smallcaps">Obi</distinct><anchor xml:id="a078" corresp="#n078"/>.
                </p>
                
                <pb/>
@@ -6281,14 +6290,14 @@
                   in mind, and by the malicious, for wicked
                   purposes.
                </p>
-               <p><distinct type="religious">Obi</distinct>, and <distinct>gambling</distinct>, are the only instances I <!-- type on <distinct>?? should I use <mcr>? -->
+               <p><distinct type="religious" rend="smallcaps">Obi</distinct>, and <distinct rend="italic">gambling</distinct>, are the only instances I 
                   have been able to discover, among the natives
                   of the negro land in <placeName>Africa</placeName>, in which any
                   effort at combining ideas, has ever been
                   demonstrated.
                </p>
-               <p>The science of <distinct type="religious">Obi</distinct> is very extensive.</p>
-               <p><distinct type="religious">Obi</distinct>, for the purposes of bewitching people,
+               <p>The science of <distinct type="religious" rend="smallcaps">Obi</distinct> is very extensive.</p>
+               <p><distinct type="religious" rend="smallcaps">Obi</distinct>, for the purposes of bewitching people,
                   or consuming them by lingering illness, is
                   made of grave dirt, hair, teeth of sharks, and
                   other creatures, blood, feathers, egg-shells,
@@ -6315,7 +6324,7 @@
                   in the curse.
                </p>
                <p>A negro, who thinks himself bewitched
-                  by <distinct type="religious">Obi</distinct>, will apply to an <name>Obi-man</name> or <name>Obi-
+                  by <distinct type="religious" rend="smallcaps">Obi</distinct>, will apply to an <name rend="italic">Obi-man</name> or <name rend="italic">Obi-
                   woman</name>, for cure.
                </p>
                <p>These magicians will interrogate the patient,
@@ -6323,19 +6332,19 @@
                   This part they will torture with pinching,
                   drawing with gourds, or calabashes, beating,
                   and pressing. When the patient is nearly 
-                  exhausted with this rough <distinct>magnetising</distinct>, <distinct type="religious">Obi</distinct> brings
+                  exhausted with this rough <distinct rend="italic">magnetising</distinct>, <distinct type="religious" rend="smallcaps">Obi</distinct> brings
                   out an old rusty nail, or piece of bone, or
                   an ass's tooth, or the jaw-bone of a rat, or
                   a fragment of a quart bottle, from the part;
                   and the patient is well the next day.
                </p>
                <p>The most wrinkled, and most deformed
-                  <rs type="properAdjective">Obian</rs> magicians, are most venerated. This
+                  <rs type="properAdjective" rend="italic">Obian</rs> magicians, are most venerated. This
                   was the case among the <name>Egyptians</name> and
                   <name>Chaldeans</name>.
                </p>
-               <p>In general, <name>Obi-men</name> are more sagacious than
-                  <name>Obi-women</name>, in giving, or taking away diseases;
+               <p ana="#gender">In general, <distinct type="religious" rend="italic">Obi-men</distinct> are more sagacious than
+                  <distinct type="religious" rend="italic">Obi-women</distinct>, in giving, or taking away diseases;
                   
                   <pb/>
                   <fw type="pageNum">173</fw>
@@ -6344,7 +6353,7 @@
                   department to blind <ecda:fauna>pigs</ecda:fauna>, and <ecda:fauna>poultry</ecda:fauna>; and
                   lame <ecda:fauna>cattle</ecda:fauna>.
                </p>
-               <p>It is the province of the <rs type="persGroup">Obi-women</rs> to
+               <p>It is the province of the <distinct type="religious" rend="italic">Obi-women</distinct> to
                   dispose of the passions. They sell foul winds for
                   inconstant mariners; dreams and phantasies
                   for jealousy; vexation, and pains in the heart,
@@ -6355,18 +6364,18 @@
                   sense of the tempest-tossed querent.
                </p>
                <p>Laws have been made in the <placeName>West Indies</placeName> to
-                  punish this <rs type="properAdjective">Obian</rs> practice with death; but
+                  punish this <rs type="properAdjective" rend="smallcaps">Obian</rs> practice with death; but
                   they have had no effect. Laws constructed in
                   the <placeName>West Indies</placeName>, can never suppress the effect
                   of Ideas, the origin of which, is in the centre
                   of <placeName>Africa</placeName>.
                </p>
-               <p>I saw the <name>Obi</name> of the famous negroe robber,
-                  <persName ref="#three_fingered_jack_0001"><hi rend="mixed"><mcr rend="italic">Three fingered</mcr></hi> Jack</persName>, the terror of <placeName>Jamaica</placeName> in
+               <p>I saw the <name rend="smallcaps">Obi</name> of the famous negroe robber,
+                  <persName ref="#three_fingered_jack_0001"><hi rend="mixed"><mcr>Three fingered</mcr></hi> Jack</persName>, the terror of <placeName>Jamaica</placeName> in
                   <date from="1780" to="1781">1780 and 1781</date>. The <ecda:persGroup a-gender="male" a-aig="maroon">Maroons</ecda:persGroup> who slew him
                   brought it to me.
                </p>
-               <p>His <name>Obi</name> consisted of the end of a goat's horn,
+               <p>His <name rend="smallcaps">Obi</name> consisted of the end of a goat's horn,
                   filled with a compound of grave dirt, ashes,
                   the blood of a black cat, and human fat; all
                   mixed into a kind of paste. A black cat's
@@ -6376,10 +6385,10 @@
                   <fw type="pageNum">174</fw>
                   
                   parchment of kid's skin, with characters marked 
-                  blood on it, were also in his <rs type="properAdjective">Obian</rs> bag.
+                  blood on it, were also in his <rs type="properAdjective" rend="italic">Obian</rs> bag.
                </p>
                <p>These, with a keen sabre, and two guns,
-                  like <persName rend="mixed"><mcr rend="italic">Robinson Crusoe</mcr></persName>, were all his <name>Obi</name>; with
+                  like <persName rend="mixed"><mcr>Robinson Crusoe</mcr></persName>, were all his <name>Obi</name>; with
                   which, and his courage in descending into the
                   plains and plundering to supply his wants,
                   and his skill in retreating into difficult fastnesses,
@@ -6415,21 +6424,21 @@
                </p>
                <p><quote rend="quotes">Give a dog an ill name, and hang him.</quote></p>
                <p>Clamours rose on clamours against the
-                  cruel <distinct type="religious">sorcerer</distinct>; and every conjugal mishap
+                  cruel <distinct type="religious" rend="italic">sorcerer</distinct>; and every conjugal mishap
                   was laid at the door of <persName ref="#three_fingered_jack_0001">Jack's</persName> malific spell of
-                  tying the point, on the wedding day.
+                  <distinct type="religious" rend="italic">tying the point</distinct>, on the wedding day.
                </p>
                <p>God knows, poor <persName ref="#three_fingered_jack_0001">Jack</persName> had sins enough of
                   his own to carry, without loading him with
                   the sins of others. He would sooner have
-                  made a <rs type="properAdjective">Medean</rs> cauldron for the whole island,
+                  made a <rs type="properAdjective" rend="italic">Medean</rs> cauldron for the whole island,
                   than disurb one lady's happiness. He had
                   many opportunities; and, though he had a
                   mortal hatred to white men, he was never
                   known to hurt a child, or abuse a woman.
                </p>
                <p>But even <persName ref="#three_fingered_jack_0001">Jack</persName> himself was born, to die.</p>
-               <p>Allured by the rewards offered by <persName ref="#john_dalling_1731"><mcr rend="mixed">Governor</mcr>
+               <p>Allured by the rewards offered by <persName ref="#john_dalling_1731"><hi rend="mixed">Governor</hi>
                   Dalling</persName>, in a proclamation, dated the <date when="1780-12-12">12th
                   of December, 1780</date>, and by a resolution which 
                   followed it, of the <orgName>House of Assembly</orgName><anchor xml:id="a079" corresp="#n079"/>, to
@@ -6438,9 +6447,9 @@
                   <fw type="pageNum">176</fw>
                   
                   <name>negroes</name>, named <persName ref="#james_reeder_mos_0001">Quashee</persName> and <persName ref="#sam_mos_0001">Sam</persName> (<persName ref="#sam_mos_0001">Sam</persName>
-                  was <persName><mcr rend="mixed">Captain</mcr> Davy's</persName> son. he who shot a
-                  <persName><mcr rend="mixed">Mr</mcr>. Thompson</persName>, the master of a <rs type="properAdjective">London</rs> ship,
-                  at <placeName>Old Harbour</placeName>), both of <placeName>Scots Hall Maroon
+                  was <persName><hi rend="mixed">Captain</hi> Davy's</persName> son. he who shot a
+                  <persName><hi rend="mixed">Mr</hi>. Thompson</persName>, the master of a <rs type="properAdjective">London</rs> ship,
+                  at <placeName>Old Harbour</placeName>), both of <placeName><mcr>Scots Hall</mcr> Maroon
                   Town</placeName>, with a <ecda:persGroup>party of their townsmen</ecda:persGroup>, went
                   in search of him.
                </p>
@@ -6480,7 +6489,7 @@
                </p>
                <p>They prepared for war. They came upon
                   <persName ref="#three_fingered_jack_0001">Jack</persName> before he perceived them. He was
-                  roasting plantains, by a little fire on the
+                  roasting <ecda:flora ana="#food" rend="italic">plantains</ecda:flora>, by a little fire on the
                   ground, at the mouth of a cave.
                </p>
                <p>This was a scene:—not where ordinary actors
@@ -6509,7 +6518,7 @@
                   veral others who assisted him, and they fled
                   from <persName ref="#three_fingered_jack_0001">Jack</persName>.
                </p>
-               <p>To do <persName ref="#three_fingered_jack_0001"><hi rend="mixed"><mcr rend="italic">Three fingered</mcr></hi> Jack</persName> justice, he would
+               <p>To do <persName ref="#three_fingered_jack_0001"><hi rend="mixed"><mcr>Three fingered</mcr></hi> Jack</persName> justice, he would
                   now have killed both <persName ref="#james_reeder_mos_0001">Reeder</persName> and <persName ref="#sam_mos_0001">Sam</persName>; for,
                   at first, they were frightened at the sight of
                   him, and the dreadful tone of his voice; and
@@ -6518,7 +6527,7 @@
                   strongest man in the world.
                </p>
                <p>But <persName ref="#three_fingered_jack_0001">Jack</persName> was cowed; for, he had prophesied,
-                  that <emph>white</emph> Obi would get the better of 
+                  that <emph>white</emph> <distinct type="religious" rend="smallcaps">Obi</distinct> would get the better of 
                   him; and, from experience, he knew the
                   charm would lose none of its strength in the
                   hands of <persName ref="#james_reeder_mos_0001">Reeder</persName>.
@@ -6585,19 +6594,19 @@
                </p>
                <p>The <ecda:anonPers a-gender="male">little boy</ecda:anonPers> soon after found his way to
                   them. He had a cutlass, with which they cut
-                  off <persName ref="#three_fingered_jack_0001">Jack's</persName> head, and three-fingered hand,
+                  off <persName ref="#three_fingered_jack_0001">Jack's</persName> head, and <distinct rend="smallcaps">three-fingered hand</distinct>,
                   and took them in triumph to <placeName>Morant Bay</placeName>.
                </p>
                <p>There they put their trophies into a pail of
                   rum; and followed by a vast concourse of
-                  <name>negroes</name>, now no longer afraid of <persName ref="#three_fingered_jack_0001">Jack's</persName> Obi,
+                  <name>negroes</name>, now no longer afraid of <persName ref="#three_fingered_jack_0001">Jack's</persName> <distinct type="religious" rend="smallcaps">Obi</distinct>,
                   they carried them to <placeName>Kingston</placeName>, and <placeName>Spanish
                   Town</placeName>; and claimed the reward of the King's 
                   Proclamation, and the <orgName>House of Assembly</orgName>.
                </p>
                <milestone unit="unnumbered" xml:id="ana001"/>
-               <!-- End Obeah section -->
                
+               <div type="section">
                <p>But to return to medicine's melancholy
                   road.
                </p>
@@ -6609,11 +6618,11 @@
                   a physician of the most distinguished learning
                   and talents, has given an interesting account
                   of this calamity. He has denominated this
-                  pestilence the <distinct type="scientific">Bilious Remitting Yellow Fever</distinct> of
+                  pestilence the <distinct type="scientific" rend="italic">Bilious Remitting Yellow Fever</distinct> of
                   <placeName>America</placeName>; from its being accompanied by the
                   terrible complexion, and other pathognomonics,
-                  which I have given of the <distinct type="scientific">Endemial Causas</distinct>,
-                  or, as it is commonly called, the <distinct type="dialect">Yellow Fever</distinct>
+                  which I have given of the <distinct type="scientific" rend="italic">Endemial Causas</distinct>,
+                  or, as it is commonly called, the <distinct type="dialect" rend="italic">Yellow Fever</distinct>
                   
                   <pb/>
                   <fw type="pageNum">181</fw>
@@ -6624,7 +6633,7 @@
                   on Tropical Diseases.</title>
                </p>
                <p ana="#disease #medical">From the mortality that has happened, at
-                  different periods, from the <distinct type="scientific">Yellow Fever</distinct>, since its
+                  different periods, from the <distinct type="scientific" rend="italic">Yellow Fever</distinct>, since its
                   first appearance in <placeName>America</placeName>, I am sorry to conclude
                   that no successful method of treating it
                   has been adopted by practitioners, and 
@@ -6709,9 +6718,9 @@
                   <placeName>Constantinople</placeName>, and <placeName>Cairo</placeName>, when they make their
                   appearance in February.
                </p>
-               <p ana="#disease">No person ever knew the cause of the <distinct type="scientific">Sweating
+               <p ana="#disease">No person ever knew the cause of the <distinct type="scientific" rend="italic">Sweating
                   Sickness</distinct> in <placeName>England</placeName>; nor of its five periodical
-                  appearances from the ear in <date when="1483">1483</date> to <date when="1551">1551</date>:
+                  appearances from the year <date when="1483">1483</date> to <date when="1551">1551</date>:
                   nor why it has never since returned.
                </p>
                <p ana="#disease">In diseases, even of confined local production,
@@ -6722,8 +6731,8 @@
                   for Agues in the hundreds of <placeName>Essex</placeName>; or the
                   Bronchocele in <rs type="properAdjective">Alpine</rs> countries?
                </p>
-               <p ana="#disease">What did <persName ref="#pliny_0023">Pliny</persName> know of the <distinct type="scientific">Germusa</distinct> or
-                  what do we know of the <distinct type="scientific">Mentagra</distinct><anchor xml:id="a080" corresp="#n080"/>?
+               <p ana="#disease">What did <persName ref="#pliny_0023">Pliny</persName> know of the <distinct type="scientific" rend="italic">Germusa</distinct> or
+                  what do we know of the <distinct type="scientific" rend="italic">Mentagra</distinct><anchor xml:id="a080" corresp="#n080"/>?
                </p>
                
                <pb/>
@@ -6749,7 +6758,7 @@
                   exhalations injurious, probably, to is salubrity.
                </p>
                <p>The <name>Americans</name> are not to look for the cause
-                  of their <distinct type="scientific">Yellow Fever</distinct>, on dunghills, in rotten
+                  of their <distinct type="scientific" rend="italic">Yellow Fever</distinct>, on dunghills, in rotten
                   vegetable substances, and about the wharfs
                   and neighbourhood of <placeName>Philadelphia</placeName>. Nature
                   does not deal in such commodities. She does
@@ -6769,18 +6778,18 @@
                   people; and dishearten them, at a time they
                   stand most in need of fortitude.
                </p>
-               <p>Exposing the well-known umbrous <distinct type="scientific">Pontini</distinct>
+               <p>Exposing the well-known umbrous <distinct type="scientific" rend="italic">Pontini</distinct>
                   marshes, by cutting down the woods, which
                   kept their foul vapours from being rarified by
                   the sun, and borne away by the winds, produced 
                   great pestilence in <placeName>Italy</placeName>.
                </p>
                <p>The idea also of the <rs type="properAdjective">American</rs> plague being
-                  imported from <placeName>Bulam</placeName>, or any other place, is
+                  imported from <placeName rend="italic">Bulam</placeName>, or any other place, is
                   repugnant to reason. I was told a similar tale,
                   when I first went to the <placeName>West Indies</placeName>: that the
-                  <distinct type="scientific">Yellow Fever</distinct> there, was imported in the 
-                  beginning of the century from <placeName>Siam</placeName>. That it was
+                  <distinct type="scientific" rend="italic">Yellow Fever</distinct> there, was imported in the 
+                  beginning of the century from <placeName rend="italic">Siam</placeName>. That it was
                   a contagious, and an original putrid disease;
                   and that bleeing was death. In my practice
                   I proved the reverse of all this.
@@ -6941,14 +6950,15 @@
                   they have not themselves—as an ignorant, barbarous
                   custom.
                </p>
+               </div>
                
-               <!-- div break -->
                <pb/>
                <fw type="pageNum">190</fw>
                
+               <div type="section">
                <p>I shall now conclude this treatise; not without
                   hopes that the difficulties I mentioned in
-                  the way of a correct history of <distinct>Sugar</distinct>, have
+                  the way of a correct history of <distinct rend="smallcaps">Sugar</distinct>, have
                   sufficiently appeared, to justify my motives in
                   premising them: and to extenuate many defects
                   in the execution of this undertaking.
@@ -6983,11 +6993,11 @@
                <fw type="pageNum">191</fw>
                
                <p>Great beauties, and sublime objects, are still
-                  untouched by <name>Europeans</name>; and the <distinct>Sugar
+                  untouched by <name>Europeans</name>; and the <distinct rend="smallcaps">Sugar
                   Cane</distinct>, the heart of the solar world, has never 
                   been dissected.
                </p>
-               <p>By the Planter, the <distinct>Sugar Cane</distinct> has been no
+               <p>By the Planter, the <distinct rend="smallcaps">Sugar Cane</distinct> has been no
                   further considered, than as it relates to the engine,
                   and the copper.
                </p>
@@ -7015,8 +7025,9 @@
                   frigid regions of the earth, and makes the
                   industrious world one great family.
                </p>
+               </div>
             </div>
-            <dateline><placeName>London, Pall Mall</placeName>, <date when="1799-01-01">1st of January, 1799</date></dateline>
+            <dateline><placeName rend="smallcaps">London</placeName>, <placeName rend="italic">Pall Mall</placeName>, <date when="1799-01-01">1st of January, 1799</date></dateline>
             <signed>B.M.</signed>
          </div>
       </body>
