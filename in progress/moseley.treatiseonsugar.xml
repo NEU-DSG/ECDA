@@ -93,9 +93,9 @@
               <bibl>P. 275, <edition>edit. <persName ref="#georg_heinrich_gotze_1667" rend="mixed">Goezii</persName>, <date when="1777">1777</date></edition>.</bibl>
            </note>
            <note xml:id="n010" target="#a010">
-              <p><placeName><distinct type="dialect">Madiera</distinct></placeName>. <quote xml:lang="la" rend="italic">Nomen factum est à Lat. <distinct>materia</distinct> quâ tam in
+              <p><placeName rend="italic">Madiera</placeName>. <quote xml:lang="la" rend="italic">Nomen factum est à Lat. <distinct rend="italic">materia</distinct> quâ tam in
               vulgatâ Bibliorum versione quam alibi significature idem quòd
-              Anglicè <distinct>timber</distinct>; quia tali materiâ abundabat ista insula.</quote> <bibl>Hydii,
+              Anglicè <distinct rend="italic">timber</distinct>; quia tali materiâ abundabat ista insula.</quote> <bibl>Hydii,
               not in <unclear><title>Perits</title>.</unclear> Itin. p. 113.</bibl>
               </p>
            </note>
@@ -152,9 +152,9 @@
            <!-- end of part two notes -->
            <note xml:id="n023" target="#a023">
               <p><bibl><title>De Pulmonis et cæteris Thoracis Vitiis</title>, Lib. IV. Cap, 4.
-              Lib. V. cap. 1. cap. 2. cap. 4. cap. 5. cap. 8.</bibl> He likewise mentions
-              the sugar called <distinct type="dialect" xml:lang="la">penidii</distinct>, Lib. V. cap. 6 and 9.—this <distinct type="dialect" xml:lang="la">penidii</distinct>, or
-              <distinct type="dialect" xml:lang="la">penidium saccharum</distinct>, is deminimated by the <rs type="place">Greek</rs> writers <distinct type="dialect" xml:lang="el" rend="upright"><unclear>ϖεγιδικ</unclear></distinct>.
+                 Lib. V. cap. 1. cap. 2. cap. 4. cap. 5. cap. 8.</bibl> He likewise mentions
+                 the sugar called <distinct type="dialect" xml:lang="la" rend="italic">penidii</distinct>, Lib. V. cap. 6 and 9.—this <distinct type="dialect" xml:lang="la" rend="italic">penidii</distinct>, or
+                 <distinct type="dialect" xml:lang="la" rend="italic">penidium saccharum</distinct>, is deminimated by the <rs type="place">Greek</rs> writers <distinct type="dialect" xml:lang="el" rend="upright"><unclear>ϖεγιδικ</unclear></distinct>.
               </p>
               <p>It is thought to have been a preparation of sugar, like what we
               call barley-sugar.
@@ -233,7 +233,7 @@
               <bibl><title xml:lang="fr">Histoire du Commerce de <placeName>Venise</placeName></title>, p. 71. 100.</bibl>
            </note>
            <note xml:id="n037" target="#a037">
-              <bibl><title>Psalms</title>, lxviii. v. 30. קיגו <distinct type="dialect" xml:lang="la">hastæ</distinct>. <title>2 Samuel</title>, c. xiv. v. 16.</bibl>
+              <bibl><title>Psalms</title>, lxviii. v. 30. קיגו <distinct type="dialect" xml:lang="la" rend="italic">hastæ</distinct>. <title>2 Samuel</title>, c. xiv. v. 16.</bibl>
            </note>
            <note xml:id="n038" target="#a038">
               <bibl><title>Ezekiel</title>, c. xxix. v. 6.</bibl>
@@ -441,7 +441,7 @@
                     <pb xml:id="pbn002" corresp="#pb002"/>
                        
                     his head, and hand wanting three fingers, such accomplice shall be
-                    entitled to his <emph>free</emph> <distinct>Pardon</distinct>, and his <distinct>Freedom</distinct>, as above, upon
+                    entitled to his <emph>free</emph> <distinct rend="smallcaps">Pardon</distinct>, and his <distinct rend="smallcaps">Freedom</distinct>, as above, upon
                     due proof being made of their being the head and hand of the said
                     <persName ref="#three_fingered_jack_0001"><hi rend="mixed"><mcr>Three fingered</mcr></hi> Jack</persName>.</p>
                     <closer>By the House,
@@ -649,7 +649,7 @@
             <p>He mentions that the second sort of honey,
                or that generated from the moisture in the air, 
                falls on the earth, and on plants; and is found
-               chiefly on the boughs of the oak, and <distinct type="dialect">Tilia</distinct>, or
+               chiefly on the boughs of the oak, and <distinct type="dialect" rend="italic">Tilia</distinct>, or
                <ecda:flora>lime tree</ecda:flora>.
             </p>
             <p>By the <ecda:flora>cane</ecda:flora>, which yields the third species 
@@ -803,7 +803,7 @@
                his third book, when speaking of the <name>Indians</name>
                near the <geogName>Ganges</geogName>,—
             </p>
-            <p><quote rend="italic"><distinct type="dialect" xml:lang="la">Quique bibunt tener á dulces ab arundine succos</distinct></quote>,
+            <p><quote rend="italic" xml:lang="la">Quique bibunt tener á dulces ab arundine succos</quote>,
             </p>
             <p><quote rend="quotes">They drink the sweet juices of the tender
                reed</quote>.
@@ -1038,7 +1038,7 @@
                through great part of it in <date when="1664">1664</date>, says, <quote rend="prequotes">at 
                <placeName>Cullura</placeName> the <ecda:commodity>wine</ecda:commodity> first begain to be sweet; and 
                three leagues off, at <placeName>Gandia</placeName>, in <placeName>Valencia</placeName>, the 
-               plantations of <ecda:commodity>sugar canes</ecda:commodity> began. <distinct type="dialect" xml:lang="la">Quere</distinct>,
+                  plantations of <ecda:commodity>sugar canes</ecda:commodity> began. <distinct type="dialect" xml:lang="la" rend="italic">Quere</distinct>,
                whether the nature of the soil, that was fit to
                nourish the <ecda:flora>sugar canes</ecda:flora>, did not also contri-
                bute to the nature of the <ecda:flora>grapes</ecda:flora>?</quote>
@@ -1049,8 +1049,8 @@
       <pb/>
       <fw type="pageNum">16</fw>         
                
-               they call this kind <distinct type="dialect">pansas</distinct>, and they seem to be
-               the <distinct type="dialect" xml:lang="la">duracinæ</distinct> of the antients. They are all
+               they call this kind <distinct type="dialect" rend="italic">pansas</distinct>, and they seem to be
+               the <distinct type="dialect" xml:lang="la" rend="italic">duracinæ</distinct> of the antients. They are all
                white, round, and have a tougher skin than
                other <ecda:commodity>grapes</ecda:commodity>. They gather them when fully 
                ripe, and dip them in a boiling lixivium of
@@ -1058,7 +1058,7 @@
                king them out again; and then dry them upon
                boards in the sun, taking them in by night,
                or in foul weather. The name raisin comes
-               from <distinct type="dialect" xml:lang="la">racemus</distinct>. Figs are dried just as they
+               from <distinct type="dialect" xml:lang="la" rend="italic">racemus</distinct>. Figs are dried just as they
                are gathered, not being dipped in any lixi-
                vium.</quote>
             </p>
@@ -1073,7 +1073,7 @@
                the slender tops, which afford no good juice,
                keep them under ground till March, and then
                prick them into these hillocks or beds; out of
-               every <distinct type="dialect" xml:lang="la">talea</distinct>, or cut, shoot four, five, or six,
+               every <distinct type="dialect" xml:lang="la" rend="italic">talea</distinct>, or cut, shoot four, five, or six,
                <ecda:flora>canes</ecda:flora>, which will be ripe next December.
                The knots, or joints of the <ecda:flora>cane</ecda:flora> at the bot-
                tom are very close together, scarce an inch
@@ -1102,7 +1102,7 @@
                tle hole stopped only with coarse and foul
                <ecda:commodity>sugar</ecda:commodity>. These pots are covered when full
                with a cake of paste, made of a kind of
-               earth called the <rs type="properAdjective">Spanish</rs> <distinct type="dialect" xml:lang="es">gritty</distinct>, and found near
+               earth called the <rs type="properAdjective">Spanish</rs> <distinct type="dialect" xml:lang="es" rend="italic">gritty</distinct>, and found near
                <placeName>Olives</placeName>, which is good to take spots out of 
                clothes, which cap or cover sinks as the sugar
                sinks. These conical pots are put into other
@@ -1165,7 +1165,7 @@
                different nations of <name>Europeans</name> to the <placeName>West In-
                dian islands</placeName>, and the <placeName>Brazils</placeName>.
             </p>
-            <p>The <placeName>Canary islands</placeName>, or <placeName rend="italic"><distinct type="dialect" xml:lang="la">Insulæ Fortunatæ</distinct></placeName>,
+            <p>The <placeName>Canary islands</placeName>, or <placeName rend="italic">Insulæ Fortunatæ</placeName>,
                though known to the antients, yet after the
                fall of the <placeName><rs type="properAdjective">Roman</rs> empire</placeName>, many centuries
                elapsed in which all intercourse, mention,
@@ -1907,7 +1907,7 @@
                </row>
                <row>
                   <cell>Αλς Ινδικος.</cell>
-                  <cell><persName ref="#paul_of_aegina_0625">P. Ægineta</persName>, <distinct type="dialect" xml:lang="la">ab</distinct> <persName ref="#archigenes_0001">Archigenes</persName></cell>
+                  <cell><persName ref="#paul_of_aegina_0625">P. Ægineta</persName>, <distinct type="dialect" xml:lang="la" rend="italic">ab</distinct> <persName ref="#archigenes_0001">Archigenes</persName></cell>
                </row>
                <row>
                   <cell>Saccharum</cell>
@@ -1953,7 +1953,7 @@
                <p>The profoundedly learned <persName ref="#claudius_salmasius_1588">Salmasius</persName>
                   (<persName ref="#claudius_salmasius_1588">Saumaise</persName>, his proper name), who went to
                   reside at <placeName>Leyden</placeName> in <date when="1632">1632</date>, asserts, that what
-                  authors denominate the <distinct type="dialect" xml:lang="la">sacar mambu</distinct> of the
+                  authors denominate the <distinct type="dialect" xml:lang="la" rend="italic">sacar mambu</distinct> of the
                   <name>Indians</name>, was the <distinct type="dialect" xml:lang="el" rend="upright">σακχαρον</distinct>, or sugar, of the
                   ancients.
                </p>
@@ -1970,29 +1970,29 @@
                   ac vastæ proceritatis sponte crescit.</quote> <title>De
                   Sacharo Commentarius.</title>
                </p>
-               <p>He also says, this <distinct type="dialect">sacar mambu</distinct> of the <name>Indians</name>
-                  was the <distinct type="dialect">tabaxir</distinct> of the <name>Arabians</name>; but
+               <p>He also says, this <distinct type="dialect" rend="italic">sacar mambu</distinct> of the <name>Indians</name>
+                  was the <distinct type="dialect" rend="italic">tabaxir</distinct> of the <name>Arabians</name>; but
                   that the <name>Arabians</name> were ignorant how it was
-                  produced, as were the ancient <name>Greeks</name> of the <distinct type="dialect" xml:lang="la">generatio
+                  produced, as were the ancient <name>Greeks</name> of the <distinct type="dialect" xml:lang="la" rend="italic">generatio
                   Mellis Calamini, sive <distinct type="dialect" xml:lang="el" rend="upright">σακχαρον</distinct></distinct>; who thought 
                   it was the dew, which, falling on the <rs type="properAdjective">Indian</rs> 
                   canes, concreted: and that it was a kind of 
                   manna.
                </p>
                <p>The <name>Arabians</name>, he observes, supposed the
-                  <distinct type="dialect">tabaxir</distinct> to be the ashes of the cane; and
+                  <distinct type="dialect" rend="italic">tabaxir</distinct> to be the ashes of the cane; and
                   certainly, he says, this species of sugar, when
                   concreted and coagulated, is like ashes; but,
                   when issuing from the joinings of the cane, it is 
                   white like starch. The antients remark also,
                   that their sugar was brittle between the teeth;
-                  therefore many of them call it <distinct type="dialect">Indian salt</distinct>;
+                  therefore many of them call it <distinct type="dialect" rend="italic">Indian salt</distinct>;
                   whereas our <ecda:food>sugar</ecda:food>, he says, melts in the mouth,
                   and is not brittle<anchor xml:id="a016" corresp="#n016"/>.
                </p>
                <p>He contends that the <name>Arabians</name> were in an
-                  error respecting their <distinct type="dialect">tabaxir</distinct>; and that it was
-                  not the ashes of the cane, but the <distinct type="dialect">sacar-mambu</distinct>
+                  error respecting their <distinct type="dialect" rend="italic">tabaxir</distinct>; and that it was
+                  not the ashes of the cane, but the <distinct type="dialect" rend="italic">sacar-mambu</distinct>
                   
                   <fw type="pageNum">45</fw>
                   
@@ -2001,12 +2001,12 @@
                   appellation of sugar, which the <name>Arabians</name> did
                   not; because they believed it to be the ashes,
                   and not a species of sugar which was called
-                  by them <distinct type="dialect">zuchar</distinct>.
+                  by them <distinct type="dialect" rend="italic">zuchar</distinct>.
                </p>
                <p>He says the cane, from which the fictitious 
                   sugar now in use is made, is a small plant;
-                  but that in the <placeName>Indies</placeName>, which yields the <distinct type="dialect">sachar-
-                  mambu</distinct> of the <name>Indians</name>, the <distinct type="dialect">tabaxir</distinct> of the
+                  but that in the <placeName>Indies</placeName>, which yields the <distinct type="dialect" rend="italic">sachar-
+                  mambu</distinct> of the <name>Indians</name>, the <distinct type="dialect" rend="italic">tabaxir</distinct> of the
                   <name>Arabians</name>, or native sugar of the antients, is a
                   large tree; and that this species of sugar is the
                   concreted exudation from the tree, found about 
@@ -2015,16 +2015,16 @@
                <p><persName ref="#claudius_salmasius_1588">Salmasius</persName> at length attempts, as a farther
                   corroboration of his opinion, to shew, that
                   the virtues attributed by the <name>Arabians</name> to the
-                  <distinct type="dialect">tabaxir</distinct> coincide with those which the <name>Greeks</name>
+                  <distinct type="dialect" rend="italic">tabaxir</distinct> coincide with those which the <name>Greeks</name>
                   ascribed to their <distinct type="dialect" xml:lang="el" rend="upright">σακχαρον</distinct>
                </p>
                <p>In these conjunctures, I believe, it will appear
                   that the most learned <persName ref="#claudius_salmasius_1588">Salmasius</persName> is mistaken;
-                  and that the <distinct type="dialect">tabaxir</distinct>, or, as it has been variously
-                  rendered by translators, <distinct type="dialect">thabasir</distinct>, <distinct type="dialect">tarathit</distinct>, <distinct type="dialect">sataiscir</distinct>,
-                  <distinct type="dialect">tabasis</distinct>, <distinct type="dialect">tabasir</distinct>, and <distinct type="dialect">sabascir</distinct>, of <persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhasis</persName>,
+                  and that the <distinct type="dialect" rend="italic">tabaxir</distinct>, or, as it has been variously
+                  rendered by translators, <distinct type="dialect" rend="italic">thabasir</distinct>, <distinct type="dialect" rend="italic">tarathit</distinct>, <distinct type="dialect" rend="italic">sataiscir</distinct>,
+                  <distinct type="dialect" rend="italic">tabasis</distinct>, <distinct type="dialect" rend="italic">tabasir</distinct>, and <distinct type="dialect" rend="italic">sabascir</distinct>, of <persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhasis</persName>,
                   <persName ref="#avicenna_0980">Avicenna</persName>, <persName ref="#yahya_ibn_sarafyun_0001 #serapion_the_younger_0001" cert="medium">Serapion</persName>, and <persName ref="#averroes_1126">Averroes</persName>, was
-                  neither the <distinct type="dialect">sacar-mambu</distinct> of the <name>Indians</name>, nor
+                  neither the <distinct type="dialect" rend="italic">sacar-mambu</distinct> of the <name>Indians</name>, nor
                   the <distinct type="dialect" xml:lang="el" rend="upright">σακχαρον</distinct> of the antients.
                </p>
                
@@ -2032,7 +2032,7 @@
                
                <p>Let us examine what may be collected from 
                   the <name>Arabians</name> themselves, concerning their
-                  <distinct type="dialect">tabaxir</distinct>.
+                  <distinct type="dialect" rend="italic">tabaxir</distinct>.
                </p>
                <p><bibl><author><persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhases</persName></author></bibl> (anno <date when="0930">930</date>) says,—
                   <quote xml:lang="la" rend="italic">Tarathit, it est Spodium, frigida est &amp; sicca,
@@ -2078,7 +2078,7 @@
                <p><persName>Bedigores</persName>,—<quote rend="italic" xml:lang="la">Proprietatis spodii est, quod
                   confert caliditati choleræ.</quote>
                </p>
-               <p><persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhases</persName> <distinct type="dialect" xml:lang="la">ex verbo</distinct> <persName ref="#galen_0129">Galeni</persName>,—<quote xml:lang="la" rend="italic">In spodio est
+               <p><persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhases</persName> <distinct type="dialect" xml:lang="la" rend="italic">ex verbo</distinct> <persName ref="#galen_0129">Galeni</persName>,—<quote xml:lang="la" rend="italic">In spodio est
                   resolutio, &amp; prohibitio, &amp; repercussio, &amp; infrigidatio,
                   sed infrigidatio ejus est fortior, &amp; in sapore ejus
                   est amaritudo, &amp; stipicitas, &amp; propter hoc deficcat.
@@ -2119,17 +2119,17 @@
                </p>
                <p>Now it is evident, from the testimony of the
                   preceding authors, that the <name>Arabians</name> ascribed
-                  no property whatever to their <distinct type="dialect">tabaxir</distinct>, that is
+                  no property whatever to their <distinct type="dialect" rend="italic">tabaxir</distinct>, that is
                   any way applicable to <ecda:flora>sugar</ecda:flora>. The great
                   feature of its character, <emph>sweetness</emph>, is not once 
                   mentioned.
                </p>
                <p>The translators, as their originals before 
-                  them, had considered the <distinct type="dialect">tabaxir</distinct>, to be the 
+                  them, had considered the <distinct type="dialect" rend="italic">tabaxir</distinct>, to be the 
                   ashes of the <rs type="properAdjective">Indian</rs> canes; or of their joints,
                   or roots: and being of a greyish colour, like
-                  <distinct type="dialect">spodium, (pompholix, tutty, putty)</distinct> rendered the
-                  word <distinct type="dialect">tabaxir</distinct>, by that appellation, from <distinct type="dialect" xml:lang="el" rend="upright">σποδος</distinct>,
+                  <distinct type="dialect" rend="italic">spodium, (pompholix, tutty, putty)</distinct> rendered the
+                  word <distinct type="dialect" rend="italic">tabaxir</distinct>, by that appellation, from <distinct type="dialect" xml:lang="el" rend="upright">σποδος</distinct>,
                   ashes. But as it was given internally, it certainly
                   
                   <fw type="pageNum">49</fw>
@@ -2149,22 +2149,22 @@
                   knowledge he had of the history of sugar:
                   taken chiefly form the uninformed travellers, and
                   particularly from <persName ref="#garcia_de_orta_1501">Garcias <hi rend="mixed">ab <placeName rend="italic">Orta</placeName></hi></persName>, in respect
-                  to the <distinct type="dialect">tabaxir</distinct>.
+                  to the <distinct type="dialect" rend="italic">tabaxir</distinct>.
                </p>
                <p><persName ref="#garcia_de_orta_1501">Garcias</persName>, who as a <rs type="properAdjective">Portuguese</rs> physician,
                   and lived at <placeName>Goa</placeName> in the <placeName>East Indies</placeName>. in <date when="1563">1563</date>,
-                  says <quote rend="quotes">the <distinct type="dialect">tabaxir</distinct> of the <name>Arabians</name>, rendered
-                  <distinct type="dialect">spodium</distinct> by their interpreters, is not the spodium
+                  says <quote rend="quotes">the <distinct type="dialect" rend="italic">tabaxir</distinct> of the <name>Arabians</name>, rendered
+                     <distinct type="dialect" rend="italic">spodium</distinct> by their interpreters, is not the spodium
                   of the <name>Greeks</name>: which is a metallic preparation,
                   and never given internally. They differ
                   as much as black from white; and that the
-                  spodium of the <name>Greeks</name>, is the <distinct type="dialect">tutty</distinct> of the
+                  spodium of the <name>Greeks</name>, is the <distinct type="dialect" rend="italic">tutty</distinct> of the
                   <name>Arabians</name>.</quote>
                </p>
-               <p>He says that <quote rend="quotes"><distinct type="dialect">tabaxir</distinct> is a <rs type="properAdjective">Persian</rs> word,
+               <p>He says that <quote rend="quotes"><distinct type="dialect" rend="italic">tabaxir</distinct> is a <rs type="properAdjective">Persian</rs> word,
                   which <persName ref="#avicenna_0980">Avicenna</persName> and other <rs type="properAdjective">Arabian</rs> writers
                   took from the <rs type="properAdjective">Persian</rs> language; and that it
-                  implies, <distinct type="dialect" xml:lang="la">lactens humor, aut succus liquorve alicubi
+                  implies, <distinct type="dialect" xml:lang="la" rend="italic">lactens humor, aut succus liquorve alicubi
                   
                   <pb/>
                   <fw type="pageNum">50</fw>
@@ -2172,16 +2172,16 @@
                   concretus</distinct>: <seg ana="#medical">by which name this medicine is
                   known to the <name>Arabians</name> and <name>Turks</name>.</seg></quote>
                </p>
-               <p>He says <quote rend="quotes">the <name>Indians</name> call it <distinct type="dialect">sacar-mambu</distinct>,
+               <p>He says <quote rend="quotes">the <name>Indians</name> call it <distinct type="dialect" rend="italic">sacar-mambu</distinct>,
                   that is, the sugar of the mambu; because the
                   <ecda:flora><rs type="properAdjective">Indian</rs> canes</ecda:flora>, or trees, the branches of which
                   produce it, are so called. But that they now
-                  call it <distinct type="dialect">tabaxir</distinct> also; and by that name is sent 
+                  call it <distinct type="dialect" rend="italic">tabaxir</distinct> also; and by that name is sent 
                   for from <placeName>Arabia</placeName>, <placeName>Persia</placeName>, and <placeName>Turkey</placeName> and is
                   imported, as an article of commerce, into
                   those countries from <placeName>India</placeName>.</quote>
                </p>
-               <p>He says <quote rend="quotes" ana="#medical">the <distinct type="dialect">tabaxir</distinct> is a very dear medicine
+               <p>He says <quote rend="quotes" ana="#medical">the <distinct type="dialect" rend="italic">tabaxir</distinct> is a very dear medicine
                   in <placeName>Arabia</placeName>, and sells for its weight in
                   silver.</quote>
                </p>
@@ -2213,26 +2213,26 @@
                   the tree, as some have supposed.</quote>
                </p>
                <p>He then recites the opinion of <persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhases</persName>,
-                  respecting the virtues of the <distinct type="dialect">tabaxir</distinct>, and
+                  respecting the virtues of the <distinct type="dialect" rend="italic">tabaxir</distinct>, and
                   observes that in the latin version of <persName ref="#yahya_ibn_sarafyun_0001 #serapion_the_younger_0001">Serapion</persName>,
-                  it has been corruptly rendered <distinct type="dialect">sataiscir</distinct>. He
+                  it has been corruptly rendered <distinct type="dialect" rend="italic">sataiscir</distinct>. He
                   says <quote rend="quotes">it is evident from what is stated, that
                   <persName ref="#avicenna_0980">Avicenna</persName> was mistaken in supposing the
-                  <distinct type="dialect">tabaxir</distinct> to be the ashes of the roots of the 
+                     <distinct type="dialect" rend="italic">tabaxir</distinct> to be the ashes of the roots of the 
                   canes.</quote>
                </p>
-               <p>He says also, as a further proof of the <distinct type="dialect">tabaxir</distinct>
-                  and <distinct type="dialect">spodium</distinct> having been erroneously
-                  confounded together, <quote rend="quotes">that <distinct type="dialect">spodium</distinct> was not used
+               <p>He says also, as a further proof of the <distinct type="dialect" rend="italic">tabaxir</distinct>
+                  and <distinct type="dialect" rend="italic">spodium</distinct> having been erroneously
+                  confounded together, <quote rend="quotes">that <distinct type="dialect" rend="italic">spodium</distinct> was not used
                   internally by the <name>Greeks</name>; and that by the testimony 
                   of the <rs type="properAdjective">Indian</rs>, <rs type="properAdjective">Arabian</rs>, <rs type="properAdjective">Persian</rs>, and
-                  <rs type="properAdjective">Turkish</rs> physicians, the <distinct type="dialect">tabaxir</distinct> is used not
+                     <rs type="properAdjective">Turkish</rs> physicians, the <distinct type="dialect" rend="italic">tabaxir</distinct> is used not
                   only in external, but in internal inflammations; and also in bilius fevers and dysenteries.</quote>
                   <bibl rend="italic"><title>Historia Aromatum</title>, Lib. <hi rend="upright">I</hi>. Cap. 12.</bibl>
                </p>
                <p><persName ref="#willem_piso_1611">Piso</persName> a <rs type="properAdjective">Dutch</rs> physician, who lived in the
                   <placeName>Brasils</placeName> in the beginning of the last centiry,
-                  says, <quote rend="prequotes">in <placeName>Egypt</placeName> the <distinct type="dialect">sacar</distinct> of the <name>Arabians</name>,
+                  says, <quote rend="prequotes">in <placeName>Egypt</placeName> the <distinct type="dialect" rend="italic">sacar</distinct> of the <name>Arabians</name>,
                   from whence our word sugar is derived, is
                   
                   <pb/>
@@ -2280,7 +2280,7 @@
                   taste, and efficacy, and gradually protrudes
                   through the cane, between the joints, and is
                   coagulated by the heat of the sun, and hardens 
-                  like white <distinct type="scientific">pummice</distinct> stone, and soon loses its
+                  like white <distinct type="scientific" rend="italic">pummice</distinct> stone, and soon loses its
                   native agreableness of flavour, and acquires a
                   taste something like burnt ivory, and is called
                   by the <name>Indians</name>, <distinct type="dialect" rend="italic">sacar-mambu</distinct>. The lighter,
@@ -2296,7 +2296,7 @@
                   the <name>Indians</name> use it in stanguries, gonorrhœas,
                   and hemorrhages.</quote>
                </p>
-               <p><quote rend="quotes" xml:id="q010" next="#q011" prev="#q009">The word <distinct type="dialect">tabaxir</distinct> is taken from the <rs type="properAdjective">Persian</rs>
+               <p><quote rend="quotes" xml:id="q010" next="#q011" prev="#q009">The word <distinct type="dialect" rend="italic">tabaxir</distinct> is taken from the <rs type="properAdjective">Persian</rs>
                   language, and signifies <distinct type="dialect" xml:lang="la" rend="italic">lac lapidescens</distinct>, which
                   some credulous <name>Arabians</name> and <name>Turks</name> thought
                   to be the ashes of canes, burnt by the friction
@@ -2465,7 +2465,7 @@
                   in this error is, that the sugar described by the
                   ancients does not correspond with any species
                   of sugar now in use. His own words are,—
-                  <quote rend="block"><distinct type="dialect" xml:lang="la">Fallitur itaque mirum in modum si quies <distinct type="dialect" xml:lang="el" rend="upright">μελι καλαμωον</distinct>,
+                  <quote rend="block"><distinct type="dialect" xml:lang="la" rend="italic">Fallitur itaque mirum in modum si quies <distinct type="dialect" xml:lang="el" rend="upright">μελι καλαμωον</distinct>,
                   aut <distinct xml:lang="el" type="dialect" rend="upright">αλας Ινδικου</distinct>, aut <distinct type="dialect" xml:lang="el" rend="upright">σακχαρον</distinct>, antiquum
                   idem putat cum nostro saccharo.</distinct></quote> <title>De Saccharo
                   Comment.</title>
@@ -2594,7 +2594,7 @@
                   of the ancients.
                </p>
                <p>This can be no other preparation than that
-                  we now call the white <distinct type="dialect">Sugar-Candy</distinct>; which I
+                  we now call the white <distinct type="dialect" rend="smallcaps">Sugar-Candy</distinct>; which I
                   consider as the real <distinct type="dialect" xml:lang="el" rend="upright">μελι καλαμινον: αλς Ινδικος:
                   —σακχαρον</distinct> antiquorum.
                </p>
@@ -3038,7 +3038,7 @@
                </p>
                <p><persName ref="#pedanius_dioscorides_0040">Dioscorides</persName>, who is the first that mentions
                   sugar by name, σακχαρον, from which the Latin
-                  <distinct type="dialect">saccharum</distinct> is derived, is also the first who speaks
+                  <distinct type="dialect" rend="italic">saccharum</distinct> is derived, is also the first who speaks
                   of the medicinal qualities of sugar. In his 
                   chapter, ϖερι Σακχαρου Μελιτος, he says:—
                   <quote rend="block" xml:lang="el">
@@ -3550,7 +3550,7 @@
                   ita copiosce a nobis assumitur, quam verisimile
                   est, ab ejus usu quotidiano, sanguinem &amp;
                   humores, salsos et acres, proindeque scorbuticos,
-                  reddi? Author quidam insignis<anchor xml:id="a025" corresp="#n025"/> <distinct type="dialect" xml:lang="la">Tabis
+                  reddi? Author quidam insignis<anchor xml:id="a025" corresp="#n025"/> <distinct type="dialect" xml:lang="la" rend="smallcaps upright">Tabis
                   Angliæ</distinct> causam in immoderatum sacchari apud
                   nostrates usum retulit: nescio au non poitus etiam
                   hinc scorbuti ingrebrescentis fomes derivetur.</quote> <bibl><title>De
@@ -3569,7 +3569,7 @@
                   a portion of sulphur.</quote>
                </p>
                <p><quote rend="prequotes" xml:id="q031" next="#q032">Sugar, distilled by itself, yields a liquor
-                  scarcely inferior to <distinct type="dialect">aqua fortis</distinct>; but, if it be
+                  scarcely inferior to <distinct type="dialect" rend="italic">aqua fortis</distinct>; but, if it be
                   diluted plentifully with water, and then distilled,
                   although no fixed salt will ascend, yet
                   there will come a liquor like the sharpest 
@@ -4707,7 +4707,7 @@
                   <name>Grecians</name> and <name>Romans</name> had no knowledge either
                   of the sugar-cane, or of sugar.
                </p>
-               <p>For, there is no mention made of the <distinct>Sugar-
+               <p>For, there is no mention made of the <distinct rend="smallcaps">Sugar-
                   Cane</distinct> among the <rs type="properAdjective">Grecian</rs> writers, until an
                   hundred years after <persName ref="#hippocrates_0460">Hippocrates</persName>; nor among
                   
@@ -4717,7 +4717,7 @@
                   the <rs type="properAdjective">Roman</rs> writers, until the time of <persName ref="#pompey_0106">Pompey's</persName>
                   expedition to <placeName>Syria</placeName>.
                </p>
-               <p><distinct>Sugar</distinct> is not mentioned by either <rs type="properAdjective">Grecian</rs>
+               <p><distinct rend="smallcaps">Sugar</distinct> is not mentioned by either <rs type="properAdjective">Grecian</rs>
                   or <rs type="properAdjective">Roma</rs> writer until the time of <persName ref="#nero_0037">Nero</persName>. 
                   Neither poet nor historian mentions it in the <rs type="properAdjective">Augustan</rs>
                   age.
@@ -4739,7 +4739,7 @@
                </p>
                <p>In the writings of <persName ref="#moses_0001">Moses</persName>, and in many parts
                   of the Bible written by others, we find the word
-                  <distinct type="dialect">קגה</distinct> <distinct type="dialect" rend="italic">Kaneh</distinct>.
+                  <distinct type="dialect" xml:lang="he" rend="slant(upright)">קגה</distinct> <distinct type="dialect" rend="italic">Kaneh</distinct>.
                </p>
                <p>This word, passing into the <rs type="properAdjective">Arabic</rs> language,
                   became the origin of <distinct type="dialect" rend="italic">canna</distinct>, a cane.
@@ -4795,20 +4795,20 @@
                   <quote xml:lang="la" rend="italic">Cinnamomum odoriferum, et calamus odoriferus.</quote>
                </p>
                <p>In our <rs type="properAdjective">English</rs> Bible it is, <quote rend="quotes">sweet cinnamon
-                  and <distinct>sweet calamus</distinct>.</quote>
+                  and <distinct rend="italic">sweet calamus</distinct>.</quote>
                </p>
                <p>In some of the <rs type="properAdjective">Latin</rs> the <distinct xml:lang="he" type="dialect" rend="upright">קגה בשם</distinct>
-                  is rendered <distinct type="dialect">calamus beneolens</distinct>, and <distinct type="dialect">
+                  is rendered <distinct type="dialect" rend="italic">calamus beneolens</distinct>, and <distinct type="dialect" rend="italic">
                   aromaticus.</distinct>
                </p>
-               <p>Again, in the <title>Canticles</title>, both <distinct type="dialect">kaneh</distinct> and
+               <p>Again, in the <title>Canticles</title>, both <distinct type="dialect" rend="italic">kaneh</distinct> and
                   cinnamon are mentioned, as distinct articles
                   <quote xml:lang="he">קגה וקגמון</quote>
                   <quote xml:lang="el">Καλαμος και κινναμωμον</quote>
                </p>
                <p>The <rs type="properAdjective">Latin</rs> versions have this, <distinct type="dialect" rend="italic">calamus 
                   aromaticus et cinnamomum</distinct>; and <distinct type="dialect" rend="italic">fistula et
-                  cinnamomum:</distinct> <distinct type="dialect" xml:lang="he" rend="upright">קוה</distinct> <distinct type="dialect">canna</distinct> in one version
+                     cinnamomum:</distinct> <distinct type="dialect" xml:lang="he" rend="upright">קוה</distinct> <distinct type="dialect" rend="italic">canna</distinct> in one version
                   of the Polyglott, as it is by <persName>Montanus</persName>, Our
                   
                   <pb/>
@@ -4824,7 +4824,7 @@
                   <quote xml:lang="he">לא קגיה לי בבםת קגה</quote>
                </p>
                <p>In our <rs type="properAdjective">English</rs> Bible this passage is,—
-                  <quote rend="quotes">Thou hast bought me no <distinct type="dialect">sweet cane</distinct> with
+                  <quote rend="quotes">Thou hast bought me no <distinct type="dialect" rend="italic">sweet cane</distinct> with
                   money.</quote>
                </p>
                <p>This is the passage which has misled so
@@ -4894,7 +4894,7 @@
                   <quote rend="quotes">Take thou unto thee, principal spices of
                   pure myrrh 500 shekels; sweet cinnamon and
                   <distinct type="dialect" rend="italic">sweet calamus</distinct>, of each 250 shekels; cassia 500
-                  shekels; and of olive oil as <distinct type="dialect">hin</distinct>. And thou
+                  shekels; and of olive oil as <distinct type="dialect" rend="italic">hin</distinct>. And thou
                   shalt make it an oil of Holy Ointment, to be
                   made an ointment compound, after the art of
                   the apothecary<anchor xml:id="a043" corresp="#n043"/>.</quote>
@@ -6133,7 +6133,7 @@
                   No period from infancy to age exempts them
                   from it. Its appearance is uncertain.
                </p>
-               <p ana="#disease #medical"><persName>Chevalier</persName> and <persName>Hillary</persName> speak of the <distinct type="scientific">yaws</distinct>;
+               <p ana="#disease #medical"><persName>Chevalier</persName> and <persName>Hillary</persName> speak of the <distinct type="scientific" rend="italic">yaws</distinct>;
                   but their accounts are erroneous. <persName>Chevalier</persName>
                   perhaps never saw it<anchor xml:id="a073" corresp="#n073"/>. <persName>Hillary</persName> often saw
                   it; but he misunderstands <persName>Hali Abras</persName>, whom
@@ -8873,7 +8873,7 @@
                  <cell>968,626</cell>
               </row>
            </table>
-           <p>N.B. The above are heavier than <rs type="properAdjective">English</rs> weights by 8 <distinct>per cent</distinct>.</p>
+           <p>N.B. The above are heavier than <rs type="properAdjective">English</rs> weights by 8 <distinct rend="italic">per cent</distinct>.</p>
            <p><persName>St. Domingue</persName> was generally considered in <placeName>France</placeName> to yield about two-third of all their <rs type="properAdjective">West
               Indian</rs> produce; and, in <date when="1788">1788</date>, this ildand alone loaded for <placeName>France</placeName> 580 ships, of 370 ¾ tons
               on a medium, and 110 of 740 tons: exclusive of the numerous <rs type="properAdjective">French</rs> and foreign vessels
