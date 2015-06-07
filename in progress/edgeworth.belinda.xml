@@ -87,7 +87,7 @@
                 <note xml:id="n004" target="#a004">*Taken from real life.</note>
                 <note xml:id="n005" target="#a005">* See <bibl><title ref="#johnstone_chrysal">Adventures of a <name>Guinea</name></title>, vol. i, chap. 16.</bibl></note>
                 <note xml:id="n006" target="#a006">*<persName ref="#jean_francois_marmontel_1723">Marmontel</persName>.</note>
-                <note xml:id="n007" target="#a007">*See <bibl><persName>Edward's</persName> <title>History of the <placeName>West Indies</placeName></title>, vol. ii</bibl></note>
+                <note xml:id="n007" target="#a007">*See <bibl><persName ref="#bryan_edwards_1743">Edward's</persName> <title ref="#edwards_history">History of the <placeName>West Indies</placeName></title>, vol. ii</bibl></note>
             </ecda:notes>
         </ecda:hyperDiv>
         <front>
@@ -14704,7 +14704,7 @@ be down stairs in three minutes.</said>
        friends; that is to say, I had over
        
        
-       her <quote>that power which strong minds
+       her <quote source="galigai_statement">that power which strong minds
        have over weak ones</quote>; but she was too
        weak for me—one of those people that
        have neither courage to be good, nor to
@@ -14795,8 +14795,8 @@ be down stairs in three minutes.</said>
       weak angel.</said>          
       </p>          
       <p><said>You forget,</said> said <persName ref="#bp">Belinda</persName>, <said>that it
-      is not <persName ref="#john_milton">Milton</persName>, but <persName>Satan</persName>, who says,
-      <quote rend="prequotes">Fallen spirit, to be weak is to be miserable.</quote></said>          
+      is not <persName ref="#john_milton_1608">Milton</persName>, but <persName>Satan</persName>, who says,
+      <quote rend="prequotes" source="#milton_paradise">Fallen spirit, to be weak is to be miserable.</quote></said>          
       </p>          
       <p><said>You read I see!—I did not know
       you were a reading girl.—So did I once!
@@ -14831,13 +14831,13 @@ be down stairs in three minutes.</said>
      to this question; exclaiming as she reviewed
      each of the books on the table in
      their turns, in the summary language of
-     presumptuous ignorance. <said><title rend="quotes"><persName>Smith's</persName> 
+     presumptuous ignorance. <said><title rend="quotes" ref="#smith_moral"><persName ref="#adam_smith_1723">Smith's</persName> 
      Theory of Moral Sentiments</title>—<ecda:food>Milk and
-     water</ecda:food>! <title rend="quotes"><persName>Moore's</persName> Travels</title>—<ecda:food>Hasty pudding</ecda:food>!
-     <title rend="quotes" xml:lang="fr">La Bruyere</title>—<ecda:food ana="#flora">Nettle porridge</ecda:food>!
+     water</ecda:food>! <title rend="quotes" ref="#moore_travels"><persName ref="#john_moore_1729">Moore's</persName> Travels</title>—<ecda:food>Hasty pudding</ecda:food>!
+     <persName rend="quotes" ref="jean_de_la_bruyere_1645">La Bruyere</persName>—<ecda:food ana="#flora">Nettle porridge</ecda:food>!
      This is what you were at when I came in,
      was, it not?</said> said she, taking up a book
-     in which she saw <persName ref="#bp">Belinda's</persName> mark, <said><title rend="quotes">Essay
+     in which she saw <persName ref="#bp">Belinda's</persName> mark, <said><title rend="quotes" ref="#barbauld_inconsistency">Essay
      
      
      on the Inconsistency of Human Wishes</title>.
@@ -15045,8 +15045,8 @@ be down stairs in three minutes.</said>
       you would not overturn society to attain
       it? would you? Should we find things
       much improved by tearing away what
-      has been called the decent drapery of
-      life?</said>
+      has been called the <quote source="#burke_reflections">decent drapery of
+      life</quote>?</said>
       </p>        
       <p><said>Drapery, if you ask me my opinion,</said>
       cried <persName ref="#hf">Mrs. Freke</persName>, <said>drapery, whether
@@ -15184,7 +15184,7 @@ be down stairs in three minutes.</said>
           cannot forbear to applaud—but <persName ref="#ap">lady Anne
           Percival's</persName> wit is like the refulgent moon, 
           we, 
-          <quote rend="quotes">Love the mild rays, and bless the useful light.</quote>              
+          <quote rend="quotes" source="#pope_iliad">Love the mild rays, and bless the useful light.</quote>              
           </p>
           <p><said><persName ref="#bp">Miss Percival</persName>,</said> said <persName ref="#hp">Mr. Percival</persName>,
           <said>are you not afraid of making an enemy
@@ -15772,18 +15772,706 @@ be down stairs in three minutes.</said>
             
             
             
-            </said>
+            much more disposed to think that a union
+            —that a union such as yours, would increase
+            my happiness. At the same time,
+            my aversion to the idea of marrying from
+            interest, or convenience, or from any motives
+            but esteem and love, is increased
+            almost to horror. O, <persName ref="#ap">lady Anne</persName>! there 
+            is nothing that I would not do to please
+            the friends to whom I am under obligations,
+            except sacrificing my peace of mind,
+            or my integrity, the happiness of my life,
+            by—</said>
             </p>
+            <p><persName ref="#ap">Lady Anne</persName>, in a gentle tone, assured
+            her, that she was the last person in the
+            world, who would press her to any union
+            which would make her unhappy. <said>You
+            perceive that <persName ref="#v">Mr. Vincent</persName> has spoken to
+            me of what passed between you yesterday.
+            You perceive that I am his friend, but do
+            not forget that I am also yours. If you
+            fear <emph>undue influence</emph> from any of <ecda:persGroup>your relations</ecda:persGroup>
+            in favour of <persName ref="#v">Mr. Vincent's</persName> large
+            fortune, &amp;c. let his proposal remain a
+            secret between ourselves, till you can decide,
+            from further acquaintance with her,
+            whether it will be in your power to return
+            his affection.</said>                
+            </p>
+            <p><said>I fear, my dear <persName ref="#ap">lady Anne</persName>,</said> cried
+                
+             
+             <persName ref="#bp">Belinda</persName>, <said>that it is not in my power to
+             return his affection.</said>                
+            </p>
+            <p><said>And may I ask your objections?</said>                
+            </p>
+            <p><said>Is it not a sufficient objection, that I
+            am persuaded I cannot love him.</said>                
+            </p>
+            <p><said>No; for you may be mistaken in that
+            persuasion. Remember what we said a
+            little while ago, about <quote rend="italic">fancy and spontaneous
+            affections</quote>. Does <persName ref="#v">Mr. Vincent</persName> appear
+            to you defective in any of the qualities,
+            which you think essential to happiness?
+            <persName ref="#hp">Mr. Percival</persName> has known him from
+            the time he was a man, and can answer
+            for his integrity and his good temper.
+            Are these not the first points you would
+            consider? They ought to be, I am sure,
+            and I believe they are. Of his understanding
+            I shall say nothing, because you
+            have had full opportunities of judging of
+            it from his conversation.</said>                
+            </p>
+            <p><said><persName ref="#v">Mr. Vincent</persName> appears to have a good
+            understanding,</said> said <persName ref="#bp">Belinda</persName>.                
+            </p>
+            <p><said>Then to what do you object?—Is
+            there any thing disgusting to you in his
+            person or manners?</said>                
+            </p>
+            <p><said>He is very handsome, he is well bred,
+            and his manners are unaffected,</said> said <persName ref="#bp">Belinda</persName>,
+             <said>but—do not accuse me of caprice
+             
+             
+             
+             —altogether he does not suit my taste;
+             and I cannot think it sufficient not to feel
+             disgust for a husband—though I believe
+             this is the fashionable doctrine.</said>    
+            </p>
+            <p><said>It is not mine, I assure you,</said> said
+            <persName ref="#ap">lady Anne</persName>. <said>I am not one of those who
+            think it <quote source="#sheridan_rivals">safest to begin with a little aversion</quote>;
+            but since you acknowledge, that
+            <persName ref="#v">Mr. Vincent</persName> possesses the essential good
+            qualities that entitle him to your esteem,
+            I am satisfied. We gradually acquire
+            knowledge of the good qualities of those
+            who endeavour to please us; and if they
+            are really amiable, their persons become
+            agreeable to us by degrees, when we became
+            accustomed to them.</said>
+            </p>
+            <p><said>Accustomed!</said> said <persName ref="#bp">Belinda</persName>, smiling,
+            <said>one does grow accustomed even to disagreeable
+            things certainly: but at this
+            rate, my dear <persName ref="#ap">lady Anne</persName>, I do not doubt
+            but one might grow <emph>accustomed</emph> to <persName ref="#caliban_0001">Caliban</persName>.</said>
+            </p>
+            <p><said>My belief in the reconciling power
+            of custom does not quite go so far,</said> said
+            <persName ref="#ap">lady Anne</persName>. <said>It does not extend to <persName ref="#caliban_0001">Caliban</persName>,
+            or even to the <ecda:anonPers a-gender="male">hero</ecda:anonPers> of <title ref="#beauty_beast">La Belle et la
+            Bête</title>; but I do believe, that, in a mind so
+            well regulated as yours, esteem may cer-
+            
+            
+            tainly in time be improved into love. I 
+            will tell <persName ref="#v">Mr. Vincent</persName> so, my dear.</said>
+            </p>
+            <p><said>No, my dear <persName ref="#ap">lady Anne</persName>! No; you
+            must not, indeed you must not. You
+            have too good an opinion of me—my mind
+            is not so well regulated—I am much
+            wealer, much sillier, than you imagine—
+            than you can conceive,</said> said <persName ref="#bp">Belinda</persName>.                
+            </p>
+            <p><persName ref="#ap">Lady Anne</persName> soothed her with the most
+             affectionate expressions, and concluded
+             with saying: <said><persName ref="#v">Mr. Vincent</persName> has promised
+             not to return from <placeName>Harrowgate</placeName>, to torment
+             you with his addresses, if you be
+             absolutely determined against him. He
+             is of too generous, and perhaps too proud
+             a temper, to persecute you with vain solicitations;
+             and however <persName ref="#hp">Mr. Percival</persName> and
+             I may wish that he could obtain such
+             a wife, we shall have the common, or
+             uncommon, sense and good nature to
+             allow our friends to be happy their own
+             way.</said>                
+            </p>
+            <p><said>You are very good; too god. But
+            am I then to be the cause of banishing
+            <persName ref="#v">Mr. Vincent</persName> from all his friends—from
+            <placeName>Oakly-park</placeName>?</said>                
+            </p>
+            <p><said>Will he not do what is most prudent,
+            to avoid the charming <persName ref="#bp">miss Portman</persName>,</said>
             
             
             
             
+            said <persName ref="#ap">lady Anne</persName> smiling, <said>if he must not
+            love her? This was at least the advice I
+            gave him, when he consulted us yesterday
+            evening. But I will not sign his write of
+            banishment lightly. Nothing but the assurance
+            that the heart is engaged, can be
+            a sufficient cause for despair; nothing else
+            could, in my eyes, justify you, my dear
+            <persName ref="#bp">Belinda</persName>, from the charge of caprice.</said>
+            </p>
+            <p><said>I can give you no such assurance, I
+            hope—I believe,</said> said <persName ref="#bp">Belinda</persName> in great
+            confusion; <said>and yet I would not for the
+            world deceive you; you have a right to
+            my sincerity.</said> She paused; and <persName ref="#ap">lady
+            Anne</persName> said with a smile, <said>Perhaps I can
+            spare ou the trouble of telling me in
+            words what a blush told me, or at least
+            made me suspect, yesterday evening, when
+            we were standing by the river-side, when
+            little <persName ref="#charles_percival_0001">Charles</persName> asked you—</said>                
+            </p>
+            <p><said>Yes, I remember—I saw you look at 
+            me.</said>                
+            </p>
+            <p><said>Undesignedly, believe me.</said></p>
+            <p><said>Undesignedly, I am sure; but I was
+            afraid you would think—</said>                
+            </p>
+            <p><said>The truth.</said></p>
+            <p><said>No; but more than the truth. The
+            truth you shall hear; and the rest I will
+            
+            
+            leave to your judgment and to your kindness.</said>                
+            </p>
+            <p><persName ref="#bp">Belinda</persName> gave a full acocount of her
+             acquaintance with <persName ref="#ch">Clarence Hervey</persName>; of
+             the variations in his manner towards
+             her; of his excellent conduct with respect
+             to <persName ref="#ld">lady Delacour</persName> (of this, by the by,
+             she spoke at large). But she was more 
+             concise when she touched upon the state 
+             of her own heart; and her voice almost
+             failed when she came to the history of the
+             lock of beautiful hair, the <placeName>Windsor</placeName> incognita,
+             and the picture of <persName ref="#vs">Virginia</persName>. She
+             concluded by expressing her conviction of
+             the propriety of forgetting a man, who
+             was in all probability attached to another,
+             and she declared it to be her resolution, to
+             banish him from her thoughts. <persName ref="#ap">Lady
+             Anne</persName> said <said>that nothing could be more
+             prudent, or praiseworthy, than forming
+             such a resolution—except keeping it.</said>—
+             <persName ref="#ap">Lady Anne</persName> had a high opinion of <persName ref="#ch">Mr.
+             Hervey</persName>; but she had no doubt, from <persName ref="#bp">Belinda's</persName>
+             account, and from her own observations
+             on <persName ref="#ch">Mr. Hervey</persName>, and from slight
+             circumstances which had accidentally come
+             to <persName ref="#hp">Mr. Percival's</persName> knowledge, that he was
+             as <persName ref="#bp">Belinda</persName> suspected, attached to <persName ref="#vs">Virginia
+             
+             
+             
+             St. Pierre</persName>. She wished, therefore, to confirm
+             <persName ref="#bp">miss Portman</persName> in this belief, and to
+              turn her thoughts towards one who, beside
+              being deserving of her esteem and
+              love, felt for her the most sincere affection.
+              She did not, however, press the subject
+              farther at this time, but contented herself
+              with requesting, that <persName ref="#bp">Belinda</persName> would take
+              three days (the usual time given for deliberation
+              in fairy tales) before she would
+              decided against <persName ref="#v">Mr. Vincent</persName>.
+            </p>    
+            <p>The next day they went to look at a 
+             porter's lodge, which <persName ref="#hp">Mr. Percival</persName> had
+             just built; it was inhabited by an <ecda:anonPers a-gender="male">old
+             man</ecda:anonPers> and <ecda:anonPers a-gender="female">woman</ecda:anonPers>, who had for many 
+             years been industrious tenants, but who,
+             in their old age, had been reduced to
+             poverty, not by imprudence, but by misfortune.
+             <persName ref="#ap">Lady Anne</persName> was please d to see
+             them comfortably settled in their new
+             habitation; and whilst she and <persName ref="#bp">Belinda</persName>
+             were talking to the <ecda:persGroup a-gender="mixed">old couple</ecda:persGroup>, their
+             grand-daughter, a pretty-looking girl of
+             about eighteen, came in with a basket of 
+             <ecda:food>eggs</ecda:food> in her hand. <said>Well, <persName ref="#lucy_0001">Lucy</persName>,</said> said
+             <persName ref="#ap">lady Anne</persName>, <said>have you overcome your
+             dislike to <persName ref="#james_jackson_0001">James Jackson</persName>?</said> The girl
+             reddened, smiled, and looked at her
+             
+             
+             <ecda:anonPers a-gender="female">grandmother</ecda:anonPers>, who answered for her in
+             arch tone, <said>O, yes, my lady! We
+             are not afraid of <persName ref="#james_jackson_0001">Jackson</persName> <emph>now</emph>; we are
+             grown very great friends. This pretty
+             <ecda:commodity>cane chair</ecda:commodity> for my <ecda:anonPers a-gender="male">good man</ecda:anonPers> was his
+             handiwork, and these <ecda:commodity>baskets</ecda:commodity> he made
+             for me. Indeed, he's a most industrious,
+             ingenious, good natured youth;
+             and our <persName ref="#lucy_0001">Lucy</persName> takes no offence at his
+             courtiner her now, my lady, I can assure
+             you. That <ecda:commodity>necklace</ecda:commodity>,</said> added she in a
+             half-whisper, pointing to a <ecda:commodity>necklace of
+             <ecda:flora><rs type="properAdjective">Angola</rs> pease</ecda:flora></ecda:commodity> which the girl wore—<said>that
+             <ecda:commodity>necklace</ecda:commodity> is a present of his, which is
+             never off her neck now, my lady. So I 
+             tell him he need not be discouraged,
+             though so be she did not take to him at
+             the first; for she's a good girl, and a
+             sensible girl, I say it, though she's my
+             own: and the eyes are used to a face 
+             after a time, and then it's nothing. They
+             say, <name>Fancy's</name> all in the love. Now in
+             my judgment, fancy's little or nothing
+             with girls that have sense. But I beg pardon
+             for prating at this rate, more especially
+             when I am so old as to have forgot
+             all the little I ever knew about such
+             things.</said>
+            </p>    
+            
+            
+            <p><said>But you have the best right in the
+            world to speak about such things, and
+            your <rs ref="#lucy_0001" type="person">grand-daughter</rs> has the best reason
+            in the world to listen to you,</said> said <persName ref="#ap">lady
+            Anne</persName>, <said>because, in spite of all the
+            crosses of fortune, you have been an excellent and happy wife, at least ever since I
+            can remember.</said>                
+            </p>
+             <p><said>And ever since I can remember, that's
+             more; no offence to your ladyship,</said> said
+             the <ecda:anonPers a-gender="male">old man</ecda:anonPers>, striking his crutch against
+             the ground. <said>Ever since I can remember,
+             she has made me the happiest man
+             in the world, in the whole parish,
+             as every body knows, and I best of all!</said>
+             cried he, with a degree of enthusiasm, that
+             lighted up his aged countenance, and animated
+             his feeble voice.
+             </p>   
+             <p><said>And yet,</said> said the <ecda:anonPers a-gender="female">honest dame</ecda:anonPers>, <said>if
+             I had followed my fancy, and taken up
+             with my first love, it would not ha' been
+             with <emph>he</emph>, <persName ref="#lucy_0001">Lucy</persName>. I had a sort of a fancy
+             (since my lady's so good as to let me 
+             speak), I had a sort of fancy for an idle
+             young man; but he, very luckily for me,
+             took it into his head to fall in love with
+             another young woman, and then I had leisure
+             enough left me to think of your grand-
+             
+             
+             
+             father, who was not so much to my taste
+             like at first. But when I found out his 
+             goodness and cleverness, and, joined to
+             all, his great tenderness for me, I thought
+             better of it, <persName ref="#lucy_0001">Lucy</persName> (as who knows but you
+             may do, though there shall not be a word
+             said on my part to press you, for poor
+             <persName ref="#james_jackson_0001">Jackson</persName>?) and my thinking better is the
+             cause why I have been so happy ever
+             since, and am so still in my old age. Ah,
+             <persName ref="#luch_0001">Lucy</persName>, dear! what a many years that same
+             old age lasts, after all! But young folks,
+             for the most part, never think what's to
+             come after thirty or forty at furthest. But
+             I don't say this for you, <persName ref="#luch_0001">Lucy</persName>; for you
+             are a good girl, and a sensible girl,
+             though my own grand-daughter, as I said
+             before, and therefore won't be run away
+             with by fancy, which is soon past and
+             gone—but make a prudent choice, that
+             you won't never have cause to repent of.
+             But I'll say a word more; I'll leave it
+             all to yourself and <persName ref="#james_jackson_0001">James Jackson</persName>.</said>                 
+             </p>   
+             <p><said>You do right,</said> said <persName ref="#ap">lady Anne</persName>;
+             <said>Good morning to you! Farewel, <persName ref="#lucy_0001">Lucy</persName>!
+             That's a pretty necklace; and is very becoming
+             to you—fare ye well!</said>
+             </p>   
+             <p>She hurried out of the cottage with
+                 
+                 
+             <persName ref="#bp">Belinda</persName>, apprehensive that the talkative
+              <ecda:anonPers a-gender="female">old dame</ecda:anonPers> might weaken the effect of her
+              good sense and experience by a further
+              profusion of words.                 
+             </p>   
+             <p><said>One would think,</said> said <persName ref="#bp">Belinda</persName> with
+             an ingenuous smile, <said>that this lesson
+             upon the dangers of <emph>fancy</emph> was intended
+             for me: at any rate, I may turn it to my
+             own advantage!</said>                 
+             </p>   
+             <p><said>Happy those who can turn all the
+             experience of others to their own advantage!</said>
+             said <persName ref="#ap">lady Anne</persName>. <said>This would
+             be a more valuable privilege, than the
+             power of turning every thing that is
+             touched to gold.</said>
+             </p>   
+             <p>They walked on in silence for a few
+               minutes; and then <persName ref="#bp">miss Portman</persName> , pursuing
+               the train of her own thoughts, and
+               unconscious that she had not explained
+               them to <persName ref="#ap">lady Anne</persName>, abruptly exclaimed,
+               <said>But if I should be entangled, so as
+               not to be able to retract!—and if it should
+               not be in my power to love him at last,
+               he will think me a coquette, a jilt perhaps;
+               he will have reason to complain of me, if 
+               I waste his time, and trifle with his affections.
+               Then it is not better that I should
+               avoid, by a decided reusal, all possibility
+               
+               
+               of injury to <persName ref="#v">Mr. Vincent</persName>, and of blame to
+               myself?</said>
+             </p>
+             <p><said>There is no danger of <persName ref="#v">Mr. Vincent's</persName>
+             misunderstanding or misrepresenting you.
+             The risk that he runs is by his voluntary
+             choice; and I am sure that, if after further
+             acquaintance with him you find it
+             impossible to return his affection, he will
+             not consider himself as ill-used by your
+             refusal.</said>                 
+             </p>   
+             <p><said>But after a certain time—after the
+             world suspects that two people are engaged
+             to each other, it is scarcely possible
+             for the woman to recede: when they 
+             come within a certain distance, they are
+             pressed to unite, by the irresistible force
+             of external circumstances. A woman
+             is too often reduced to this dilemma—
+             Either she must marry a man she does not
+             love, or she must be blamed by the world
+             —either she must sacrifice a portion of
+             her reputation, or the whole of her happiness.</said>
+            </p>   
+            <p><said>The world is indeed often too curious,
+            and too rash in these affairs,</said> said
+            <persName ref="#ap">lady Anne</persName>. <said>A young woman is not
+            in this respect allowed sufficient time
+            for freedome of deliberation. She sees,
+            
+            
+            as <persName ref="#hp">Mr. Percival</persName> once said, <quote><said>the drawn
+            sword of tyrant custom suspended over
+            her head by a single hair</said></quote>.</said>
+            </p>    
+            <p><said>And yet, notwhithstanding you are
+            so well aware of the danger, your ladyship
+            would expose me to it,</said> said <persName ref="#bp">Belinda</persName>.                
+            </p>    
+            <p><said>Yes. For I think the chance of
+            happiness, in this instance, overbalances
+            the risk,</said> said <persName ref="#ap">lady Anne</persName>. <said>As we
+            cannot alter the common law of custom,
+            and as we cannot render the world less
+            gossiping, or less censorious, we must not
+            expect always to avoid censure; all we
+            can do is, never to deserve it—and it would
+            be absured to enslave ourselves to the 
+            opinion of the idle and ignorant. To a
+            certain point, respect for the opinion of the
+            world is prudence! beyond that point, it
+            is weakness. You should also consider
+            that the <emph>world</emph> at <placeName>Oakly-park</placeName> and in <placeName>London</placeName>
+            are two different worlds. In <placeName>London</placeName>
+            if you and <persName ref="#v">Mr. Vincent</persName> were seen often in
+            each other's company, it would be immediately
+            buzzed about, that <persName ref="#bp">miss Portman</persName> 
+            and <persName ref="#v">Mr. Vincent</persName> were going to be
+            married; and if the match did not take
+            place a thousand foolish stories might be
+            told to account for it's being broken off.
             
             
             
+            But here you are not surrounded by busy
+            eyes and busy tongues. The butchers,
+            bakers, ploughmen, and spinsters, who
+            compose our world, have all the affairs of 
+            their own to mind. Besides, their comments
+            can have no very extensive circulation;
+            they are used to see <persName ref="#v">Mr. Vincent</persName>
+            continually here; and his staying
+            with us the ermainder of the autumn will
+            not appear to them any thing wonderful,
+            or portentous.</said>
+            </p>    
+            <p>Their conversation was interrupted.
+             <persName ref="#v">Mr. Vincent</persName> returned to <placeName>Oakly-park</placeName>—
+             but upon the express condition, that he
+             should not make his attachment public
+             by any particular attentions, and that
+             he should draw no conclusions in his
+             favour from <persName ref="#bp">Belinda's</persName> consenting to converse
+             with him freely upon every common
+             subject. To this treaty of amity <placeName ref="#ap">lady
+             Anne Percival</placeName> was guarantee.
+            </p>    
+         
+                </div>   
+                
+                
+                <div type="chapter">
+                    <head><label>Chapter XIX</label>.
+                        A Wedding.</head>           
+                
+                
+           <p><persName ref="#bp" rend="smallcaps">Belinda</persName> and <persName ref="#v">Mr. Vincent</persName> could
+            never agree in their definition of the word
+            <mentioned rend="italic">flattery</mentioned>; so that there were continual
+            complaints on the one hand of a breach
+            of treaty, and, on the other, solemn protestations
+            of the most scrupulous adherence
+            to his compact. However this
+            might be, it is certain that the gentleman
+            gained so much by either truth or fiction,
+            that, in the course of some weeks, he
+            got the lady as far as—<quote rend="quotes">gratitude and 
+            esteem</quote>.               
+           </p>      
+          <p>One evening, <persName ref="#bp">Belinda</persName> was playing
+           with little <persName ref="#charles_percival_0001">Charles Percival</persName> at jack-
+           straws. <persName ref="#v">Mr. Vincent</persName>, who found pleasure
+           in every thing that amused <persName ref="#bp">Belinda</persName>,
+           and <persName ref="#hp">Mr. Percival</persName>, who took an interest in
+           every thing which entertained his children,
+           were looking on at this simple game.
+          </p>      
+                
+                
+           <p><said><persName ref="#hp">Mr. Percival</persName>,</said> said <persName ref="#bp">Belinda</persName>, <said>condescending
+           to look at a game of jack-
+           straws!</said>               
+           </p>     
+           <p><said>Yes,</said> said <persName ref="#ap">lady Anne</persName>; <said>for he is of
+           <persName ref="#john_dryden_1631">Dryden's</persName> opinion, that, if a straw can be
+           made the <quote source="#dryden_parallel">instrument of happiness</quote>, he is a 
+           wise man who does not despise it.</said>               
+           </p>     
+           <p><said>Ah! <persName ref="#bp">miss Portman</persName>, take care!</said> cried
+            <persName ref="#charles_percival_0001">Charles</persName>, who was anxious that she should
+             win, though he was playing against her.
+             <said>Take care! don't touch that knave!</said>
+           </p>     
+           <p><said>I would lay a <measure ana="#currency #commodity">hundred guineas</measure> upon
+           the steadiness of <persName ref="#bp">miss Portman's</persName> hand,</said>
+           cried <persName ref="#v">Mr. Vincent</persName>.   
+           </p>     
+           <p><said>I'll lay you <measure ana="#currency #commodity">sixpence</measure> though,</said> cried
+            <persName ref="#charles_percival_0001">Charles</persName> eagerly, <said>that she'll stir the king,
+            if she touches that knave—I'll lay you a
+            <measure ana="#currency #commodity">shilling</measure></said>   
+           </p>     
+           <p><said>Done! done!</said> cried <persName ref="#v">Mr. Vincent</persName>.               
+           </p>     
+           <p><said>Done! done!</said> cried the <rs ref="#charles_percival_0001" type="person">boy</rs>, stretching
+           out his hand, but his <rs ref="#hp" type="person">father</rs> caught it.
+           </p>     
+           <p><said>Softly! softly, <persName ref="#charles_percival_0001">Charles</persName>!—No betting,
+           if you please, my dear.—Done! and done!
+           —sometimes ends in—Undone.</said>               
+           </p>     
+           <p><said>It was my fault—it was I who was
+           in the wrong,</said> cried <persName ref="#v">Vincent</persName> immediately.               
+           </p>     
+           <p><said>I am sure you are in the right now,</said>
             
             
             
+            said <persName ref="#hp">Mr. Percival</persName>; <said>and, what is better
+            than my saying so, <persName ref="#bp">miss Portman</persName> thinks
+            so, as her smile tells me.</said>
+           </p>     
+           <p><said>You moved, <persName ref="#bp">miss Portman</persName>!</said> cried
+            <persName ref="#charles_percival_0001">Charles</persName>, <said>O, indeed! the king's head
+            stirred, the very instant papa spoke. I
+            knew it was impossible that you could
+            get that knave clear off without shaking
+            the king. Now, papa, only look how
+            they were balanced.</said>
+           </p>     
+           <p><said>I grant you,</said> said <persName ref="#v">Mr. Vincent</persName>, <said>I
+           should have made an imprudent bet.
+           So it is well I made none; for now I see
+           the chances were ten to one, twenty to
+           one, a hundred to one against me.</said>               
+           </p>     
+           <p><said>It does not appear to me to be a
+           matter of chance,</said> said <persName ref="#hp">Mr. Percival</persName>.
+           <said>This is a game of address, not chance,
+           and that is the reason I like it.</said>    
+           </p>     
+           <p><said>O papa! O <persName ref="#bp">miss Portman</persName>! look
+           how nicely these are balanced. There!
+           my breath has set them in motion.—
+           Look, they shake, shake, shake, like
+           the great rocking stones at <placeName>Birmham
+           Craggs</placeName>.</said>               
+           </p>     
+           <p><said>That is comparing small things to
+           great, indeed!</said> said <persName ref="#hp">Mr. Percival</persName>.               
+           </p>     
+           <p><said>By the by,</said> cried <persName ref="#v">Mr. Vincent</persName>,
+               
+           
+           
+           <said><persName ref="#bp">miss Portman</persName> has never seen these wonderful
+           rocking stones—Suppose we were
+           to ride to see them to-morrow?</said>               
+           </p>     
+           <p>The proposal was warmly seconded by
+             the <ecda:persGroup>children</ecda:persGroup>, and agreed to by every one.
+             It was settled, that after they had seen
+             <placeName>Birmham Craggs</placeName> they should spend the
+               remainder of the day at <ecda:anonPers a-gender="male">lord ―'s</ecda:anonPers>, a beautiful
+              place in the neighbourhood.
+           </p>     
+           <p>The next morning was neither too hot
+              nor too cold, and they set out on their
+              little party of pleasure: the <ecda:persGroup>children</ecda:persGroup>
+               went with their mother, to their great
+               delight, in the <emph>sociable</emph>; and <persName ref="#v">Mr. Vincent</persName>,
+               to his great delight, rode with <persName ref="#bp">Belinda</persName>.
+               When they came within the sight of the
+               <placeName>Craggs</placeName>, <persName ref="#hp">Mr. Percival</persName>, who was riding
+               with them, exclaimed—<said>What is that
+               yonder on the top of one of the great
+               rocking stones?</said>
+           </p>     
+           <p><said>It looks like a statue,</said> said <persName ref="#v">Vincent</persName>.
+             <said>It has been put up since we were here
+             last.</said>  
+           </p>     
+            <p><said>I fancy it has got up of itself,</said> said
+              <persName ref="#bp">Belinda</persName>, <said>for it seems to be getting 
+              down of itself. I think I saw it stoop.
+              —O! I see now, it is a man who has
+              got up there, and he seems to have a gun
+              
+              
+              
+              in his head, has not he? He is going 
+              through his manual exercise for his diversion
+              —For the diversion of the spectators
+              below, I perceive—There is a party of
+              people looking at him.</said>
+            </p>    
+            <p><said>Him!</said> said <persName ref="#hp">Mr. Percival</persName>.                
+            </p>    
+            <p><said>I protest it is a woman!</said> said <persName ref="#v">Vincent</persName>.               
+            </p>    
+            <p><said>No, surely,</said> said <persName ref="#bp">Belinda</persName>: <said>It cannot
+            be a woman!</said>                
+            </p>    
+           <p><said>Not unless it be <persName ref="#hf">Mrs. Freke</persName>,</said> replied
+             <persName ref="#hp">Mr. Percival</persName>.  
+           </p>     
+           <p>In fact, it was <persName ref="#hf">Mrs. Freke</persName>, who had
+             been out shooting with a party of <ecda:persGroup a-gender="male">gentlemen</ecda:persGroup>,
+             and who had scrambled upon this
+             rocking stone, on the summit of which
+             she went through the manual exercise at
+             the word of command from her <ecda:anonPers>officer</ecda:anonPers>. As 
+             they rode nearer to the scene of action,
+             <persName ref="#bp">Belinda</persName> heard the shrill screams of a
+              female voice, and they descried amongst
+              the <ecda:persGroup a-gender="male">gentlemen</ecda:persGroup> a slight figure in a riding
+              habit.
+           </p>     
+           <p><said><persName ref="#moreton_0001">Miss Moreton</persName>, I suppose?</said> said <persName ref="#v">Mr.
+           Vincent</persName>.               
+           </p>
+           <p><said>Poor girl! what are they doing with
+           her?</said> cried <persName ref="#bp">Belinda</persName>. <said>They seem to be
+           
+           
+           
+           forcing her up to the top of the place,
+           where she has no mind to go.—Look
+           how <persName ref="#hf">Mrs. Freke</persName> drags her up by the
+           arm!</said>               
+           </p>     
+           <p>As they drew nearer, they heard <persName ref="#hf">Mrs.
+           Freke</persName> laughing loud as she rocked this
+           <rs ref="#moreton_0001" type="person">frightened girl</rs> upon the top of the
+           stone.
+           </p>     
+           <p><said>We had better keep out of the way,
+           I think,</said> said <persName ref="#bp">Belinda</persName>; <said>for perhaps, as
+           she has vowed vengeance against me, she
+           might take a fancy to setting me upon that
+           pinnacle of glory.</said>               
+           </p>     
+           <p><said>She dare not,</said> cried <persName ref="#v">Vincent</persName>, his eyes
+            flashing with anger: <said>you may trust to 
+            us to defend you.</said>
+           </p>     
+           <p><said>Certainly!—But I will not run into 
+           danger on purpose to give you the pleasure
+           of defending me,</said> said <persName ref="#bp">Belinda</persName>; and
+           as she spoke, she turned her <ecda:fauna>horse</ecda:fauna> another
+           way.
+           </p>     
+           <p><said>You won't turn back, <persName ref="#bp">miss Portman</persName>?</said>
+            cried <persName ref="#v">Vincent</persName> eagerly, laying his
+            hand on her bridle.—<said>Good God,
+            ma'am! we can't run away!—We came
+            here to look at these rocking stones!—
+            We have not half seen them. <persName ref="#ap">Lady Anne</persName>
+            
+            
+            and the <ecda:persGroup>children</ecda:persGroup> will be here immediately.
+            You would not deprive them of the pleasure
+            of seeing these things!</said>
+           </p>     
+           <p><said>I doubt whether they would have
+           much pleasure in seeing <emph>some of these
+           things!</emph> and, as to the rest, if I disappoint
+           the children now, <persName ref="#hp">Mr. Percival</persName>
+           will, perhaps, have the goodness to bring
+           them some other day.</said>               
+           </p>     
+           <p><said>Certainly,</said> said <persName ref="#hp">Mr. Percival</persName>: <said><persName ref="#bp">miss
+           Portman</persName> shows her usual prudence.</said>               
+           </p>     
+           <p><said>The <ecda:persGroup>children</ecda:persGroup> are so good tempered,
+           that I am sure they will forgive me,</said> continued
+           <persName ref="#bp">Belinda</persName>; <said>and <persName ref="#v">Mr. Vincent</persName> will
+           be ashamed not to follow their example,
+           though he seems to be rather angry with
+           me at present for obliging him to turn
+           back—out of the path of danger.</said>
+           </p>     
+           <p><said>You must not be surprised at that,</said>
+           said <persName ref="#hp">Mr. Percival</persName>, laughing; <said>for <persName ref="#v">Mr.
+           Vincent</persName> is a lover and a hero. You
+           know it is a ruled case, in all romances,
+           that, when a lover and his mistress go out
+           riding together, some adventures must befal 
+           them.</said>
+           </p>     
+                
+                
+                
+                
+                
+                
+                
+                
                 
                 
                 </div>    
