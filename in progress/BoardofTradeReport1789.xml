@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../out/ecda.odd.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ecda="http://dsg.northeastern.edu/ecda/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl>
+                <rendition xml:id="r.smallcaps">smallcaps</rendition>
+                <namespace name="">
+                    <tagUsage gi="placeName" render="#r.smallcaps"/>
+                </namespace>
+            </tagsDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <ecda:hyperDiv>
+            <ecda:notes>
+                <note type="ecda">
+                    <interpGrp type="commType">
+                        <interp xml:id="flora">plants (flora)</interp>
+                        <interp xml:id="fauna">animals (fauna)</interp>
+                        <interp xml:id="food">food and other consumable items (incl. drinks, seasonings, etc.)</interp>
+                        <interp xml:id="medical">medical or medicinal items (including references to folk medicine)</interp>
+                        <interp xml:id="textile">sartorial and textile references</interp>
+                        <interp xml:id="currency">references to money or currency</interp>
+                    </interpGrp>
+                    <interpGrp type="productionPhase">
+                        <interp xml:id="plant">planting</interp>
+                        <interp xml:id="cultivation">cultivation</interp>
+                        <interp xml:id="harvest">harvesting</interp>
+                        <interp xml:id="refine">refining</interp>
+                        <interp xml:id="production">production (non plant-based commodities)</interp>
+                        <interp xml:id="transport">transport</interp>
+                        <interp xml:id="sale">sale</interp>
+                        <interp xml:id="circulation">circulation of commodities, such as through gift-giving or theft</interp>
+                        <interp xml:id="use">use of commodities</interp>
+                    </interpGrp>
+                    <interpGrp>
+                        <interp xml:id="punishment">References to scenes of punishment or the enforcement of colonial rule</interp>
+                        <interp xml:id="military">References to the material conditions, social institutions or actual events of warfare</interp>
+                        <interp xml:id="abolition">References to the abolition of slavery or abolitionist movement</interp>
+                        <interp xml:id="disease">References to ailment and disease, specifically in people</interp>
+                        <interp xml:id="poison">References to poison</interp>
+                        <interp xml:id="obeah">References to Obeah</interp>
+                        <interp xml:id="performance">References to performance (esp. John Canoe)</interp>
+                    </interpGrp>
+                </note>
+            </ecda:notes>
+        </ecda:hyperDiv>
+        
+        
+        <front>
+            <titleBlock>
+                <docTitle>
+                    <titlePart><hi rend="allcaps">Report</hi>
+                        of
+                        The Lords of the <orgName>Committee of Council</orgName>
+                        appointed for the Consideration of all Matters
+                        relating to Trade and Foreign Plantations;
+                    </titlePart>
+                    <titlePart rend="allcaps">Submitting to His Majesty's Consideration</titlePart>
+                    <titlePart>The Evidence and Information they have collected
+                        in consequence of his Majesty's Order in Council,
+                        dated the <date when="1788-02-11">11th of February 1788</date>, concerning the
+                        present State of the Trade to <placeName>Africa</placeName>, and particularly
+                        the Trade in <distinct>Slaves</distinct>; and concerning the Effects and
+                        Consequences of this Trade, as well in <placeName>Africa</placeName> and
+                        the <placeName>West Indies</placeName>, as to the general Commerce of this
+                        Kindgom.
+                    </titlePart>
+                </docTitle>
+                <docDate when="1789">1789.</docDate>
+            </titleBlock>
+        </front>
+        
+        <body>
+            <div>
+                <head rend="allcaps">At the
+                    Council Chamber, <placeName rend="mixed italic">Whitehall</placeName>,
+                    the <date when="1789-03-28">18th of <mcr rend="italic">March</mcr> 1789</date>.
+                </head>
+                <byline>By the Right Honourable the Lords of the 
+                    Committee of Council appointed for the
+                    Consideration of all Matters relating to
+                    Trade and Foreign Plantations.
+                </byline>
+                <ab>Your Majesty having been pleased by your Order in Council,
+                    bearing date the <date when="1788-02-11">11th of February 1788</date>, to direct that this
+                    Committee should forthwith take into their Consideration the present State of
+                    The <rs type="properAdjective">African</rs> Trade, particularly as far as relates to the Practice and
+                    Manner of purchasing or obtaining Slaves on the Coast of <placeName>Africa</placeName>, and
+                    the Importation and Sale thereof, either in the <rs type="properAdjective">British</rs> Colonies and
+                    Settlements, or in the Foreign Colonies and Settlements of <placeName>America</placeName> or
+                    <placeName>West Indies</placeName>; and also, as far as relates to the Effects and
+                    Consequences of this Trade both in <placeName>Africa</placeName> and in the said <rs type="place">Colonies</rs> and
+                    Settlements, and to the general Commerce of this Kindgom; and should
+                    repot to your Majesty in the Council the Result of their Inquiries, with such
+                    Observations as they might have to offer thereupon:
+                </ab>
+                <ab>The Committee, in obedience to your Majesty's said Order of Reference, 
+                    proceeded immediately to investigate the Subject so referred, and
+                    examined such Persons as either offered themselves, or such as they
+                    thought proper to summon, being in the Judgment of the Committee
+                    likely to convey useful Information thereupon; and they applied to the
+                    Agents for the several British Islands in the <placeName>West Indies</placeName>; and to your
+                    Majesty's Governors and the Councils and Assemblies of the said Islands;
+                    and also to the Society for the Propagation of the Gospel in Foreign Parts,
+                    for Anwers to such Questions as appeared in the Committee to be calculated
+                    to produce Information on the several parts of this extensive
+                    Subject. The Committee thought proper likewise to apply to your
+                    Majesty's Ministers at Foreign Courts for such Information as they might
+                    be able to procure concerning the State of the <rs type="properAdjective">African</rs> Trade as carried
+                    on by Foreign Countries, and concerning the Manner of transporting
+                    Slaves to their respective Colonies, and the Treatment of them there.
+                </ab>
+                
+                <pb/>
+                <fw type="pageNum">4</fw>
+                
+                <ab>And the Committee also caused the Books of the late Board of Trade
+                    to be searched for all the Information to be found therein respecting
+                    this Subject. They also called for, and obtained from the Public 
+                    Offices and other Sources, such Accounts as appeared to them to be
+                    likely to throw light upon any of the Heads of this Inquiry, and 
+                    particularly upon the Extent and Value of this Trade in all its Branches,
+                    and the Effects and Consequences of it upon the general Commerce of this
+                    Kingdom.
+                </ab>
+                <ab>And the Committee having been employed for upwards of Twelve
+                    Months in collecting Information upon several Points before mentioned,
+                    and conceiving it may be your Majesty's Intention to order this Report to
+                    be laid as soon as possible before Parliament, have thought it right,
+                    without any further Delay, or waiting for any additional Information, to
+                    direct that the Information already collected be arranged as nearly as may
+                    be found practicable, according to the following plan:
+                </ab>
+                <list>
+                    <item>
+                        <ab><label>First.</label> The Evidence that the Committee has obtained of the
+                            present state of those Parts of <placeName>Africa</placeName> from whence Slaves have been exported,
+                            taking each Country that lies upon the Coast separately, beginning from
+                            the <placeName>River Senegal</placeName>, and descending southward to the last of the <rs type="properAdjective">European</rs>
+                            Settlements on the said Coast, with such information as has been obtained
+                            of the interior Countries, situated behind each of the said Countries
+                            on the Coast respectively; comprehending under this Head,
+                            <list>
+                                <item><label>1st</label>, The Government of each Country.</item>
+                                <item><label>2d</label>, The Religion.</item>
+                                <item><label>3d</label>, The Customs, Manners, &amp;c.</item>
+                                <item><label>4th</label>, The Manner in which Slaves are made, or become so. For
+                                    example:
+                                    <list>
+                                        <item>Whether they are born Slaves, or made Captives in War,
+                                            or kidnapped.
+                                        </item>
+                                        <item>Whether condemned to be Slaves for Crimes, and for what
+                                            Crimes.
+                                        </item>
+                                    </list>
+                                </item>
+                                <item><label>5th</label>, Whether they are brought from other Countries in the
+                                    interior Parts of <placeName>Africa</placeName>, and from what Countries, &amp;c.
+                                </item>
+                                <item><label>6th</label>,The Treatment of Slaves in the Country from whence they
+                                    are brought.
+                                </item>
+                                <item><label>7th</label>, The Manner in which <name>Europeans</name> purchase Slaves, whether
+                                    with Money or by Merchandise, and at what Prices; or whether
+                                    they ever obtain them by Fraud, or in any improper Way whatsoever?
+                                </item>
+                                <item><label>8th</label>, The Behaviour of Slaves at the Time and Place of Sale, or
+                                    in consequence of being sold.
+                                </item>
+                                <item><label>9th</label>, The Numbers carried annually from each Country on the
+                                    Coast by the different <rs type="properAdjective">European</rs> Nations; and the Proportion of
+                                    Males, Females, and Children.
+                                </item>
+                                <item><label>10th</label>, How the Slaves offered for Sale, when not purchased, are 
+                                    disposed of.
+                                </item>
+                                
+                                <pb/>
+                                <fw type="pageNum">5</fw>
+                                
+                                <item><label>11th</label>, The Produce of each Country in Africa in which any
+                                    other Commerce is at present carried on: the Extent of such
+                                    Commerce, and the Information that has been obtained of any
+                                    Prospect there may be of increasing the Trade with Africa in any
+                                    such Articles of Produce, or of creating new Branches of Commerce
+                                    in other Articles of Produce, by giving Encouragement
+                                    for that Purpose.
+                                </item>
+                            </list>
+                        </ab>
+                        <ab>To this Head is annexed an Account of the Charters and Statutes,
+                            under the Authority and Protection of which the African Trade first
+                            began, and has continued to the present Time; and of the most 
+                            material Proceedings that have been had in the House of Commons 
+                            relative thereto.
+                        </ab>
+                    </item>
+                </list>
+            </div>
+            
+        </body>
+        
+    </text>
+</TEI>
