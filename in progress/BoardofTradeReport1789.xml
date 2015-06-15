@@ -15,10 +15,7 @@
         </fileDesc>
         <encodingDesc>
             <tagsDecl>
-                <rendition xml:id="r.smallcaps">smallcaps</rendition>
-                <namespace name="">
-                    <tagUsage gi="placeName" render="#r.smallcaps"/>
-                </namespace>
+                <!-- put any rend defaults here -->
             </tagsDecl>
         </encodingDesc>
     </teiHeader>
@@ -55,6 +52,17 @@
                         <interp xml:id="performance">References to performance (esp. John Canoe)</interp>
                     </interpGrp>
                 </note>
+                <note rend="place-outside">
+                    <ab><placeName>Senegal</placeName> and 
+                        the Countries 
+                        of <placeName>Walo</placeName> and 
+                        <placeName>Cayor</placeName>, or 
+                        <placeName>Demel</placeName>.
+                    </ab>
+                    <ab><persName>John Barnes</persName>,
+                        Esquire.
+                    </ab>
+                </note> <!-- I think we need a specific @type value for these "notes." They function more like running heads than anything else -->
             </ecda:notes>
         </ecda:hyperDiv>
         
@@ -72,10 +80,10 @@
                     <titlePart>The Evidence and Information they have collected
                         in consequence of his Majesty's Order in Council,
                         dated the <date when="1788-02-11">11th of February 1788</date>, concerning the
-                        present State of the Trade to <placeName>Africa</placeName>, and particularly
+                        present State of the Trade to <placeName rend="smallcaps">Africa</placeName>, and particularly
                         the Trade in <distinct>Slaves</distinct>; and concerning the Effects and
-                        Consequences of this Trade, as well in <placeName>Africa</placeName> and
-                        the <placeName>West Indies</placeName>, as to the general Commerce of this
+                        Consequences of this Trade, as well in <placeName rend="smallcaps">Africa</placeName> and
+                        the <placeName rend="smallcaps">West Indies</placeName>, as to the general Commerce of this
                         Kindgom.
                     </titlePart>
                 </docTitle>
@@ -86,7 +94,7 @@
         <body>
             <div>
                 <head rend="allcaps">At the
-                    Council Chamber, <placeName rend="mixed italic">Whitehall</placeName>,
+                    Council Chamber, <placeName rend="italic">Whitehall</placeName>,
                     the <date when="1789-03-28">18th of <mcr rend="italic">March</mcr> 1789</date>.
                 </head>
                 <byline>By the Right Honourable the Lords of the 
@@ -146,7 +154,8 @@
                 </ab>
                 <list>
                     <item>
-                        <ab><label>First.</label> The Evidence that the Committee has obtained of the
+                        <label rend="nobreak">First.</label>
+                        <ab>The Evidence that the Committee has obtained of the
                             present state of those Parts of <placeName>Africa</placeName> from whence Slaves have been exported,
                             taking each Country that lies upon the Coast separately, beginning from
                             the <placeName>River Senegal</placeName>, and descending southward to the last of the <rs type="properAdjective">European</rs>
@@ -209,7 +218,127 @@
                             relative thereto.
                         </ab>
                     </item>
+                    <item><label>Second.</label> The evidence that has been obtained concerning the
+                        Manner of carrying Slaves to the <placeName>West Indies</placeName>, under the following Heads:
+                        <list>
+                            <item>The Size or Tonnage of the Ships.</item>
+                            <item>The Manner of sitting up the Ships.</item>
+                            <item>The Provisions taken on board.</item>
+                            <item>The Medicines.</item>
+                            <item>The Officers of the Ship, such as Masters, Surgeons, &amp;c.</item>
+                            <item>The Number of Slaves usually carried per Ton from the different
+                                Countries on the Coast of <placeName>Africa</placeName>.
+                            </item>
+                            <item>The general Treatment of Slaves while on board, either in Health
+                                or in Sickness.
+                            </item>
+                            <item>The Mortality of Slaves, and the Causes of it.</item>
+                            <item>The Mortality of Seamen, and the Causes of it.</item>
+                            <item>The Manner in which the Slaves are sold when landed in the 
+                                <placeName>West Indies</placeName>.
+                            </item>
+                        </list>
+                    </item>
+                    <item><label>Third.</label>
+                        <ab rend="nobreak">The Treatment of the Slaves in the <placeName>West Indies</placeName>, and all
+                            Circumstances relating thereto, arranged in the Manner stated in <ref type="goTo">Paper A.
+                            in the Appendix</ref>, as will appear in that Part of the Report where the Evidence
+                            on this Subject is given.
+                        </ab>
+                        <ab>To this Head is annexed a general View of the Laws respecting
+                            <rs type="properAdjective">Negro</rs> Slaves in most of the Islands, followed by a Statement at large of
+                            such of the said Laws as now subsist in each Island, arranged under different
+                            Titles, as prepared by <persName>Mr. Reeves</persName>, Law Clerk to this Committee;
+                            and there is also Information on this Subject in the Answers of some of
+                            the Governors and Legislatures of the Islands to the Questions transmitted
+                            to them by the Order of this Committee.
+                        </ab>
+                    </item>
+                    <item><label>Fourth.</label> The Accounts hat have been called for to shew the 
+                        extend ot the Trade in all its Branches, and the Number of the Free 
+                        Inhabitants and Slaves of each of the Islands in the <placeName>West Indies</placeName>, according
+                        to a Plan stated in <ref type="goTo">Paper B. of the Appendix</ref>, so far as the Accounts
+                        could be procured, as will appear in that Part of the Report where these
+                        Accounts are given.
+                    </item>
+                    
+                    <pb/>
+                    <fw type="pageNum">6</fw>
+                    
+                    <item><label>Fifth.</label> All the Information that has been obtainedrelating to the
+                        Advantages, which the <placeName>French West India Islands</placeName> are supposed at present
+                        to enjoy over the <rs type="place">British Islands</rs>, and the Reasons and Circumstances on
+                        which these superior Advantages appear to be funded, according to a 
+                        Plan stated in <ref type="goTo">Paper C. in the Appendix</ref>.
+                    </item>
+                    <item><label>Sixth.</label> All the Information that has been obtained concerning the 
+                        Extent of the Trade of other <rs type="properAdjective">European</rs> Nations to <placeName>Africa</placeName>, and the
+                        Manner in which the same is carried on; and concerning the Treatment
+                        of Slaves in the Foreign Islands or Colonies in America and the
+                        <placeName>West Indies</placeName>; and concerning the Trade in Slaves carried on in the interior
+                        Parts of that Country as connected therewith, either by <name>Europeans</name>,
+                        or by the different People of <placeName>Asia</placeName> and <placeName>Africa</placeName>.
+                    </item>
                 </list>
+                <ab>All the Information and Matter collected by the Committe, has, in
+                    pursuance of their Orders, been arranged under the foregoing Heads by
+                    the Gentlement belonging to the Office for Trade; and the <distinct type="dialect" rend="italic">vivâ voce</distinct>
+                    Evidence upon each Head is stated as nearly as possible in the very Words
+                    in which the same was given. If it should be wished to see the whole
+                    Evidence exactly as it was taken before the Committee, a Copy thereof
+                    <distinct rend="italic">verbatim</distinct> is ready to be produced; but the Committee think it their
+                    Duty to submit to your Majesty's Consideration, how far it may be
+                    Proper to make publicall the Information received respecting the present
+                    State of the Forts on the Coast of <placeName>Africa</placeName>; and also some Circumstances
+                    respecting the Share which your Majesty's Subjects have in the Foreign
+                    Trade carried on upon the Coast of <placeName>Africa</placeName> for the Supply of Slaves to
+                    the Foreign Islands and Settlements in <placeName>America</placeName> and the <placeName>West Indies</placeName>.
+                    These, for reasons respecting the Public as well as Individuals, it may
+                    not perhaps be so prudent to wholly divulge.
+                </ab>
+            </div>
+            <div>
+                <div>
+                    <label>I.</label>
+                    <ab>View of the <mcr rend="smallcaps">Evidence</mcr> that the Committee has
+                        obtained from the present State of those Parts of 
+                        <placeName rend="smallcaps">Africa</placeName> from whence <mcr rend="smallcaps">Slaves</mcr> have been
+                        exported, taking each Country that lies upon the
+                        Coast separately, beginning from the <placeName>River Senegal</placeName>,
+                        and descending Southward to the last of the 
+                        <rs type="properAdjective">European</rs> Settlements on the said Coast; with
+                        such Information as has been obtained of the
+                        interior Countries situated behind each of the said
+                        Countries on the Coast respectively.
+                    </ab>
+                </div>
+                
+                <pb/>
+                <!-- more pbs here -->
+                
+                <div type="section">
+                    <head rend="italic">Government, Religion, Manners, and Customs.</head>
+                    <div type="subsection" xml:id="a001" corresp="#n001">
+                        <p><persName>John Barnes</persName>, Esquire, was resident at <placeName>Senegal</placeName> near Eight Years, the last Three
+                            Years as Governor, the first Five Years as a Merchant; has been at other Places on the
+                            Coast of <placeName>Africa</placeName>, but was never in the Service of the <orgName>African Company</orgName> upon any toher Part
+                            of the Coast. The Nature of his Commerce upon the <placeName>River Senegal</placeName> was chiefly the gumm
+                            Trade.
+                        </p>
+                        <p>The Countries immediately round <placeName>Senegal</placeName> are the Country of <placeName>Walo</placeName>, and the Country of
+                            <placeName>Cayor</placeName> or <placeName>Demel</placeName>; the Nature of the Government in these Countries (which are of considerable
+                            Extent) is Monarchy, absolute in some Respects, but limited in others, and hereditary in the 
+                            Female Line. <!-- interesting things about gender? -->
+                        </p>
+                        <p>As to the Religion of these Countries, great Part of the Inhabitants are Mahometans, but
+                            very imperfect. The Government is greatly under the Influence and Countroul of the Moorish
+                            Tribes inhabiting the Desert on the North Side of the River; this Desert extends from the
+                            North Side of the <placeName>River Senegal</placeName> to the Southern Declivity of <placeName>Mount Atlas</placeName>. The Extent is
+                            about Ten Degrees from North to South, and the Borders of it to the <placeName>River Senegal</placeName> or
+                            Mount Atlas are alone inhabited
+                        </p>
+                    </div>
+                </div>
             </div>
             
         </body>
