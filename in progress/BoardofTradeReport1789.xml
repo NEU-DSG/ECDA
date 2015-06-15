@@ -52,7 +52,7 @@
                         <interp xml:id="performance">References to performance (esp. John Canoe)</interp>
                     </interpGrp>
                 </note>
-                <note rend="place-outside">
+                <note rend="place-outside" xml:id="n001" target="#a001">
                     <ab><placeName>Senegal</placeName> and 
                         the Countries 
                         of <placeName>Walo</placeName> and 
@@ -63,6 +63,60 @@
                         Esquire.
                     </ab>
                 </note> <!-- I think we need a specific @type value for these "notes." They function more like running heads than anything else -->
+                <note rend="place-outside" xml:id="n002" target="#a002">
+                    <ab><placeName>Goree</placeName>,
+                        <placeName>Gambia</placeName>, and
+                        Countries Adjoining.
+                    </ab>
+                    <ab><persName>Mr.
+                        Dalrymple</persName>.
+                    </ab>
+                </note>
+                <note rend="place-outside" xml:id="n003" target="#a003">
+                    <ab><placeName>Goree</placeName>,
+                        <placeName>Gambia</placeName>, and
+                        Countries Adjoining.
+                    </ab>
+                    <ab><persName>Mr. Poplett</persName>.
+                    </ab>
+                </note>
+                <note rend="place-outside" xml:id="n004" target="#a004">
+                    <ab><placeName>Goree</placeName>, and
+                        <placeName>the River
+                        Gambia</placeName>.
+                    </ab>
+                    <ab><persName>Captain 
+                        Hills</persName>.
+                    </ab>
+                </note>
+                <note rend="place-outside" xml:id="n005" target="#a005">
+                    <ab><placeName>River 
+                        Gambia</placeName>, and
+                        <placeName>Sierra Leone</placeName>.
+                    </ab>
+                    <ab><persName>Mr. Harry
+                        Gandy</persName>.
+                    </ab>
+                </note>
+                <note rend="place-outside" xml:id="n006" target="#a006">
+                    <ab><placeName>River
+                        Gambia</placeName>.
+                    </ab>
+                    <ab><persName>Captain
+                        Heatley</persName>.
+                    </ab>
+                </note>
+                <note rend="place-outside" xml:id="n007" target="#a007">
+                    <ab><placeName>Senegal</placeName>,
+                        <placeName>Gambia</placeName>, and
+                        other Parts of
+                        the Coast, to
+                        <placeName>Prampram</placeName>.
+                    </ab>
+                    <ab><persName>Sir George
+                        Yonge</persName>.
+                    </ab>
+                </note>
             </ecda:notes>
         </ecda:hyperDiv>
         
@@ -297,9 +351,9 @@
                     not perhaps be so prudent to wholly divulge.
                 </ab>
             </div>
-            <div>
-                <div>
-                    <label>I.</label>
+            <div type="part">
+                <label>I.</label>
+                <div type="section">
                     <ab>View of the <mcr rend="smallcaps">Evidence</mcr> that the Committee has
                         obtained from the present State of those Parts of 
                         <placeName rend="smallcaps">Africa</placeName> from whence <mcr rend="smallcaps">Slaves</mcr> have been
@@ -330,12 +384,174 @@
                             Extent) is Monarchy, absolute in some Respects, but limited in others, and hereditary in the 
                             Female Line. <!-- interesting things about gender? -->
                         </p>
-                        <p>As to the Religion of these Countries, great Part of the Inhabitants are Mahometans, but
+                        <p>As to the Religion of these Countries, great Part of the Inhabitants are <name>Mahometans</name>, but
                             very imperfect. The Government is greatly under the Influence and Countroul of the Moorish
                             Tribes inhabiting the Desert on the North Side of the River; this Desert extends from the
                             North Side of the <placeName>River Senegal</placeName> to the Southern Declivity of <placeName>Mount Atlas</placeName>. The Extent is
                             about Ten Degrees from North to South, and the Borders of it to the <placeName>River Senegal</placeName> or
-                            Mount Atlas are alone inhabited
+                            <placeName>Mount Atlas</placeName> are alone inhabited.
+                        </p>
+                    </div>
+                    <div type="subsection" xml:id="a002" corresp="#n002">
+                        <p><persName>Hught Dalrymple</persName>, Esquire, served as First Lieutenant of Grenadiers in the <persName>Prince 
+                            of Wales's</persName> or 75th Regiment, at the Reduction of <placeName>Goree</placeName> in <date when="1779">1779</date>; remained on that Part of
+                            the Coast from the Beginning of May to the End of September or the Beginning of October in
+                            the same Year, and made frequent Excuresions to the adjacent Continent (from whence the
+                            <placeName>Island of Goree</placeName> is distant only Two or Three Miles) for several Leagues inland as well as along
+                            Shore on both Sides of <placeName>Cape Verd</placeName>.
+                        </p>
+                        <p>This Country is under one Government; the Nature of the Government is monarchical
+                            but of a very uncertain Kind; someties very arbitary and at others not so.
+                        </p>
+                        <p>The better Sort of People are the <name>Mahometans</name>; the common People have all Sorts of
+                            Superstition; they in general worship Trees.
+                        </p>
+                    </div>
+                    <div type="subsection" xml:id="a003" corresp="#n003">
+                        <p><persName>Thomas Poplett</persName>, Esquire, an Officer in the <orgName><rs type="properAdjective">African</rs> Corps</orgName>, was at <placeName>Goree</placeName> and
+                            <placeName>Gambia</placeName> near Four Years, from <date from="1779" to="1783">1779 to 1783</date>: He has been up the <placeName>River Gambia</placeName> to the
+                            Distance of 300 or 400 Miles; but never was up the <placeName>River Senegal</placeName>; had no Concern in
+                            Trade himself, but had Opportunities of seeing the Manner in which it was carried on.
+                        </p>
+                        <p><persName>Mr. Poplett</persName> being asked, If he knew any Thing of the Nature of Government in these
+                            Countries, gave the following account:
+                        </p>
+                        <quote> <!-- NOTE: I am assuming this is a quote because of context, but there is no rendition to indicate such. Should discuss at a meeting. -->
+                            <p>The Nature of the Government of these Countries, viz. the Kingdom of <placeName>Demel</placeName>, <placeName>Tin</placeName>,
+                                <placeName>Barbessin</placeName>, and <placeName>Barra</placeName>, on the North Side of the <placeName>River Gambia</placeName> (which Countries run from
+                                the <placeName>River Senegal</placeName> to the <placeName>Gambia</placeName>, and extend upwards of 200 miles) are all absolute
+                                Monarchies, and are in fact governed more by the Caprice of the Monarch, than by any 
+                                fixed System of Government; they have a council, consisting of the Alcaide or Governor,
+                                the Gerouff or Mayor, the Marabou or Priest, and some of the Elders of the Village, the
+                                whole Council being from Seven to Nine in Number; These consult and advise the King,
+                                but he is not obliged to follow their Advice, nor does he ever do so, unless it consists with his
+                                own Opinion or Interest, or that he apprehends they will have Force sufficient to resist him,
+                                which they frequently do.
+                            </p>
+                            <p>To furnish the Revenues of these Kingdoms, every Village pays a regular Custom to the
+                                King, consisting of Two Parts; the one annual, which is fixed by the King; the other, in
+                                proportion to the Trade of the Ships.
+                            </p>
+                            <p>This Revenue or Custom is paid in Slaves, Powder, Shot, Brandy, Tobacco, and other
+                                Merchandize brought from <placeName>Europe</placeName>. When this Custom is paid regularly, the King
+                                first gives Notice to pay it, and if not then paid within a certain Time, he comes down with
+                                
+                                <pb/>
+                                
+                                Force and <distinct rend="italic">breaks the Village</distinct>; that is, he takes a great Number of Inhabitants Prisoners,
+                                whom he detains for some Time as Pledges: If the Duties are paid, he restores the Prisoners;
+                                if not, they are sold for Slaves. The Kings <emph>never</emph> break a Village without some such
+                                Pretence; they are understood to be Masters of the Lives of their Subjects; but they use
+                                this Power with very great Lenity; only when any of their Subjects are represented by the
+                                Alcaide, or Chief of the Village, to be incorrigible, the King makes no Scruple of cutting
+                                off their Heads without any Form of Trial.
+                            </p>
+                            <p>The People upon the Coast are wholly Mahometans; next to them, internally, there is
+                                a Country containing a People called the Sierrieurs, who believe in a Supreme Being, and 
+                                testify such Belief by shewing great Marks of Joy and Gratitude on occasion of any Behefits
+                                received: they have no Idols, nor any Form of Worship; their principal Tenet is, that
+                                they are to be happy in this World, and they endeavour to make themselves so, by every Species
+                                of licentious Enjoyment, which they even pursue under Allfiction. The Countries beyond
+                                these are chiefly Pagan. The Country of the Sierrieurs is more populous, in proportion to
+                                its Extent, than the Mahometan Countries; the Sierrieurs are governed by a Number of
+                                independent Chiefs, but they have no Kings. These People are Wanderers, like the Moors,
+                                but they wander only within the Limits of their own Country.
+                            </p>
+                            <p>The Language of these Counties (except the Sierrieurs) is what is called Wolloff; and it 
+                                is written in the <rs type="properAdjective">Arabic</rs> Character.
+                            </p>
+                            <p>The Black <name>Mahometans</name> upon the Coast are strong and robust, very handsome and
+                                remarkably tall; they have woolly Heads, acquiline noses, and thin Lips.
+                            </p>
+                            <p>The Barras are short and think, with thick Lips, flat Noses, and wooly Heads: They
+                                speak the Mundingo Language.
+                            </p>
+                            <p>The Sierrieurs have Noses quite flat, they think it a Beauty, and press down the Noses of
+                                their Children accordingly; they are wooly-headed, strong, short and thinck, and their Faces
+                                are tattood; they are fond of War, and are very artful People.
+                            </p>
+                            <p>The Wolloffs are a sensible, hospitable, and civil People, but jealous and vindictive.</p>
+                            <p>The People of Tin are serious in their Disposition, much oppressed by their King, and 
+                                naturally jealous and vindictive.
+                            </p>
+                            <p>The Barbessins and the Barras are an artful People, much accustomed to Chicanery in
+                                Trade, and perfidious in their Dealings; they are lively, jealous, and vindictive.
+                            </p>
+                            <p>The People in general are very indolent; the Men do nothing but smoke, shoot, and fish;
+                                the Women do all the Work in the Field, as well as of the House. Every Man is allowed
+                                to take as many Wives as he pleases, if he can satisfly the Marabou or Priest that he is
+                                able to maintain them. The Wives are in general Slaves to the Husbands, and work very
+                                hard.
+                            </p>
+                        </quote>
+                    </div>
+                    <div type="subsection" xml:id="a004" corresp="#n004">
+                        <p><persName>John Hills</persName>, Esquire, Captain in the Navy, commanded his Majesty's Sloop <ecda:shipName>Zephyr</ecda:shipName>
+                            at <placeName>Goree</placeName>, and in the <placeName>River Gambia</placeName>, in the latter End of the Year <date when="1781">1781</date> and the Beginning
+                            of 1782; was upon these Stations about Five Months in the whole.
+                        </p>
+                        <p>The Nature of the Government, as far as <persName>Captain Hills</persName> could judge, is most despotic, as
+                            the King of <placeName>Demel</placeName> seemed to have a Power of Making his Subjects Slaves and selling them.
+                            The Religion of this Part of the Coast is in general Mahometan.
+                        </p>
+                    </div>
+                    <div type="subsection" xml:id="a005" corresp="#n005">
+                        <p><persName>Mr. Harry Gandy</persName>, one of the People calling themselves <name>Quakers</name>, lived nearly Thirty
+                            Years in the <placeName>West Indies</placeName>, in the Danish Islands, and made Two Voyages to the Coast of 
+                            <placeName>Africa</placeName> in the Years <date when="1758">1758</date> and <date when="1762">1762</date>, as Master of a Vessel; went to the <placeName>River Gambia</placeName> and
+                            to <placeName>Sierra Leone</placeName>; has been more than 200 miles up the <placeName>River Gambia</placeName>; but not above 30
+                            Miles up the <placeName>River Sierra Leone</placeName>.
+                        </p>
+                        <p><persName>Mr. Gandy</persName> can give no Account of the Government of these Countries; the Religion is
+                            <name>Mahometanism</name>.
+                        </p>
+                    </div>
+                    <div type="subsection" xml:id="a006" corresp="#n006">
+                        <p><persName>Captain Heatley</persName> has been concerned in the <rs type="properAdjective">African</rs> Trade from the Year <date when="1763">1763</date> to
+                            the last Year, was employed as Captain in that Trade on his ownAccount and for other People;
+                            remained Five Years at one Time, and Three Years at another, on the <placeName>River Gambia</placeName>,
+                            and was 230 Leagues up the River. He spoke the Mundingo Language, which is the general
+                            Language of the Country. The Motive that induced him to go so far up the River
+                            was to trade for Slaves, and for Ivory and Wax occasionally.
+                        </p>
+                        
+                        <pb/>
+                        
+                        <p>The <placeName>River Gambia</placeName> may be navigated in Vessels that draw Ten Feet Water; that is, in
+                            Vessels from 70 to 150 Tons: The Tide flows as far as 230 Leagues, or perhaps 320 Leagues
+                            in dry Seasons,but not in the rainy Seasons: And in the Part of its Course which he speaks
+                            of, passes through a great number of Kingdoms and Governments.
+                        </p>
+                        <p>The Nature of the Governments on each Side the River is so various, that he knows not
+                            how to give an Account of them, but they are in general Monarchies with Powers variously
+                            limited. The Sovereigns have Princes under them, who frequentlyact very independently
+                            of the Sovereigns.
+                        </p>
+                        <p>Upon the Entrance at about Ten Leagues up the River, Vessels are called upon to pay
+                            Custom to the King of Barra, which amounts in proportion to the Tonnage of the Vessel;
+                            110 Leagues up the River at <placeName>Yanamaroo</placeName>, which is a trading Place, another Custom is paid,
+                            and as the Ships pass through different Kingdoms in going up the River, if they trade, they 
+                            pay Custom at them all.
+                        </p>
+                        <p>The Traders are in general <name>Mahometans</name>; but the Kings, Princes, and People are <name>Pagans</name>.</p>
+                    </div>
+                    <div type="subsection" xml:id="a007" corresp="#n007">
+                        <p><persName>Sir George Yonge</persName> has been on the Coast of <placeName>Africa</placeName> Four several Times, between the
+                            Years <date corresp="1767">1767</date>, <date when="1768">1768</date>, and <date when="1772">1772</date>, as well as he recollects; in the first Two Voyages he served
+                            as a Lieutenant, in the last Two as Captain of the <ecda:shipName>Weazle</ecda:shipName>, under <persName>Captain Fielding</persName> and
+                            <persName>Captain Collingwood</persName>.
+                        </p>
+                        <p>In Two Voyages, he was at <placeName>Senegal</placeName>, and remained Three Weeks on Shore with <persName>Governor
+                            O'Hara</persName>; from thence, he went to <placeName>Gambia</placeName>, where he remained a short Time;
+                            from <placeName>Gambia</placeName> to <placeName>Sierra Leone</placeName> for Refreshments, and from thence to <placeName>Cape Appollonia</placeName>, and
+                            most of the Forts upon the Gold Coast, the lowest Part of which was Prampram in Latitude
+                            3, or thereabouts.
+                        </p>
+                        <p>Speaking of the several Governments on these Parts of the Coast, <persName>Sir George Yonge</persName>
+                            informed of the Committee, that the King of <placeName>Bursilam</placeName> at <placeName>Gambia</placeName>, isa very powerful Monarch
+                            and has very extensive Dominions. The greatest Part of the Coast, however where <persName>Sir
+                            George Yonge</persName> was, is divided into petty States, but all the Sovereigns are absolute, and have
+                            Power of Life and Death; they consider their Subjects as Slaves, and treat them accordingly.
                         </p>
                     </div>
                 </div>
