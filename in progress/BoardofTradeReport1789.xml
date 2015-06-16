@@ -52,71 +52,6 @@
                         <interp xml:id="performance">References to performance (esp. John Canoe)</interp>
                     </interpGrp>
                 </note>
-                <note rend="place-outside" xml:id="n001" target="#a001">
-                    <ab><placeName>Senegal</placeName> and 
-                        the Countries 
-                        of <placeName>Walo</placeName> and 
-                        <placeName>Cayor</placeName>, or 
-                        <placeName>Demel</placeName>.
-                    </ab>
-                    <ab><persName>John Barnes</persName>,
-                        Esquire.
-                    </ab>
-                </note> <!-- I think we need a specific @type value for these "notes." They function more like running heads than anything else -->
-                <note rend="place-outside" xml:id="n002" target="#a002">
-                    <ab><placeName>Goree</placeName>,
-                        <placeName>Gambia</placeName>, and
-                        Countries Adjoining.
-                    </ab>
-                    <ab><persName>Mr.
-                        Dalrymple</persName>.
-                    </ab>
-                </note>
-                <note rend="place-outside" xml:id="n003" target="#a003">
-                    <ab><placeName>Goree</placeName>,
-                        <placeName>Gambia</placeName>, and
-                        Countries Adjoining.
-                    </ab>
-                    <ab><persName>Mr. Poplett</persName>.
-                    </ab>
-                </note>
-                <note rend="place-outside" xml:id="n004" target="#a004">
-                    <ab><placeName>Goree</placeName>, and
-                        <placeName>the River
-                        Gambia</placeName>.
-                    </ab>
-                    <ab><persName>Captain 
-                        Hills</persName>.
-                    </ab>
-                </note>
-                <note rend="place-outside" xml:id="n005" target="#a005">
-                    <ab><placeName>River 
-                        Gambia</placeName>, and
-                        <placeName>Sierra Leone</placeName>.
-                    </ab>
-                    <ab><persName>Mr. Harry
-                        Gandy</persName>.
-                    </ab>
-                </note>
-                <note rend="place-outside" xml:id="n006" target="#a006">
-                    <ab><placeName>River
-                        Gambia</placeName>.
-                    </ab>
-                    <ab><persName>Captain
-                        Heatley</persName>.
-                    </ab>
-                </note>
-                <note rend="place-outside" xml:id="n007" target="#a007">
-                    <ab><placeName>Senegal</placeName>,
-                        <placeName>Gambia</placeName>, and
-                        other Parts of
-                        the Coast, to
-                        <placeName>Prampram</placeName>.
-                    </ab>
-                    <ab><persName>Sir George
-                        Yonge</persName>.
-                    </ab>
-                </note>
             </ecda:notes>
         </ecda:hyperDiv>
         
@@ -372,7 +307,16 @@
                 
                 <div type="section">
                     <head rend="italic">Government, Religion, Manners, and Customs.</head>
-                    <div type="subsection" xml:id="a001" corresp="#n001">
+                    <div type="subsection">
+                        <head rend="place-outside">
+                            <placeName>Senegal</placeName> and 
+                            the Countries 
+                            of <placeName>Walo</placeName> and 
+                            <placeName>Cayor</placeName>, or 
+                            <placeName>Demel</placeName>.
+                        </head> 
+                        <byline rend="place-outside"><persName>John Barnes</persName>,
+                             Esquire.</byline>
                         <p><persName>John Barnes</persName>, Esquire, was resident at <placeName>Senegal</placeName> near Eight Years, the last Three
                             Years as Governor, the first Five Years as a Merchant; has been at other Places on the
                             Coast of <placeName>Africa</placeName>, but was never in the Service of the <orgName>African Company</orgName> upon any toher Part
@@ -392,7 +336,14 @@
                             <placeName>Mount Atlas</placeName> are alone inhabited.
                         </p>
                     </div>
-                    <div type="subsection" xml:id="a002" corresp="#n002">
+                    <div type="subsection">
+                        <head rend="place-outside">
+                            <placeName>Goree</placeName>,
+                            <placeName>Gambia</placeName>, and
+                            Countries Adjoining.
+                        </head>    
+                        <byline rend="place-outside"><persName>Mr.
+                            Dalrymple</persName>.</byline>
                         <p><persName>Hught Dalrymple</persName>, Esquire, served as First Lieutenant of Grenadiers in the <persName>Prince 
                             of Wales's</persName> or 75th Regiment, at the Reduction of <placeName>Goree</placeName> in <date when="1779">1779</date>; remained on that Part of
                             the Coast from the Beginning of May to the End of September or the Beginning of October in
@@ -407,7 +358,13 @@
                             Superstition; they in general worship Trees.
                         </p>
                     </div>
-                    <div type="subsection" xml:id="a003" corresp="#n003">
+                    <div type="subsection"> 
+                        <head rend="place-outside">
+                            <placeName>Goree</placeName>,
+                            <placeName>Gambia</placeName>, and
+                            Countries Adjoining.
+                        </head>
+                        <byline rend="place-outside"><persName>Mr. Poplett</persName>.</byline>
                         <p><persName>Thomas Poplett</persName>, Esquire, an Officer in the <orgName><rs type="properAdjective">African</rs> Corps</orgName>, was at <placeName>Goree</placeName> and
                             <placeName>Gambia</placeName> near Four Years, from <date from="1779" to="1783">1779 to 1783</date>: He has been up the <placeName>River Gambia</placeName> to the
                             Distance of 300 or 400 Miles; but never was up the <placeName>River Senegal</placeName>; had no Concern in
@@ -485,7 +442,14 @@
                             </p>
                         </quote>
                     </div>
-                    <div type="subsection" xml:id="a004" corresp="#n004">
+                    <div type="subsection">
+                        <head rend="place-outside">
+                            <placeName>Goree</placeName>, and
+                            <placeName>the River
+                            Gambia</placeName>.
+                        </head>
+                        <byline rend="place-outside"><persName>Captain 
+                            Hills</persName>.</byline>
                         <p><persName>John Hills</persName>, Esquire, Captain in the Navy, commanded his Majesty's Sloop <ecda:shipName>Zephyr</ecda:shipName>
                             at <placeName>Goree</placeName>, and in the <placeName>River Gambia</placeName>, in the latter End of the Year <date when="1781">1781</date> and the Beginning
                             of 1782; was upon these Stations about Five Months in the whole.
@@ -495,7 +459,14 @@
                             The Religion of this Part of the Coast is in general Mahometan.
                         </p>
                     </div>
-                    <div type="subsection" xml:id="a005" corresp="#n005">
+                    <div type="subsection">
+                        <head rend="place-outside">
+                            <placeName>River 
+                            Gambia</placeName>, and
+                            <placeName>Sierra Leone</placeName>.
+                        </head>        
+                        <byline rend="place-outside"><persName>Mr. Harry
+                            Gandy</persName>.</byline>
                         <p><persName>Mr. Harry Gandy</persName>, one of the People calling themselves <name>Quakers</name>, lived nearly Thirty
                             Years in the <placeName>West Indies</placeName>, in the Danish Islands, and made Two Voyages to the Coast of 
                             <placeName>Africa</placeName> in the Years <date when="1758">1758</date> and <date when="1762">1762</date>, as Master of a Vessel; went to the <placeName>River Gambia</placeName> and
@@ -506,7 +477,13 @@
                             <name>Mahometanism</name>.
                         </p>
                     </div>
-                    <div type="subsection" xml:id="a006" corresp="#n006">
+                    <div type="subsection">
+                        <head rend="place-outside">
+                            <placeName>River
+                            Gambia</placeName>.
+                        </head>   
+                        <byline rend="place-outside"><persName>Captain
+                            Heatley</persName>.</byline>
                         <p><persName>Captain Heatley</persName> has been concerned in the <rs type="properAdjective">African</rs> Trade from the Year <date when="1763">1763</date> to
                             the last Year, was employed as Captain in that Trade on his ownAccount and for other People;
                             remained Five Years at one Time, and Three Years at another, on the <placeName>River Gambia</placeName>,
@@ -535,7 +512,16 @@
                         </p>
                         <p>The Traders are in general <name>Mahometans</name>; but the Kings, Princes, and People are <name>Pagans</name>.</p>
                     </div>
-                    <div type="subsection" xml:id="a007" corresp="#n007">
+                    <div type="subsection">
+                        <head rend="place-outside">
+                            <placeName>Senegal</placeName>,
+                            <placeName>Gambia</placeName>, and
+                            other Parts of
+                            the Coast, to
+                            <placeName>Prampram</placeName>.
+                        </head>
+                        <byline rend="place-outside"><persName>Sir George
+                            Yonge</persName>.</byline>
                         <p><persName>Sir George Yonge</persName> has been on the Coast of <placeName>Africa</placeName> Four several Times, between the
                             Years <date corresp="1767">1767</date>, <date when="1768">1768</date>, and <date when="1772">1772</date>, as well as he recollects; in the first Two Voyages he served
                             as a Lieutenant, in the last Two as Captain of the <ecda:shipName>Weazle</ecda:shipName>, under <persName>Captain Fielding</persName> and
@@ -548,16 +534,269 @@
                             3, or thereabouts.
                         </p>
                         <p>Speaking of the several Governments on these Parts of the Coast, <persName>Sir George Yonge</persName>
-                            informed of the Committee, that the King of <placeName>Bursilam</placeName> at <placeName>Gambia</placeName>, isa very powerful Monarch
+                            informed of the Committee, that the King of <placeName>Bursilam</placeName> at <placeName>Gambia</placeName>, is a very powerful Monarch
                             and has very extensive Dominions. The greatest Part of the Coast, however where <persName>Sir
                             George Yonge</persName> was, is divided into petty States, but all the Sovereigns are absolute, and have
                             Power of Life and Death; they consider their Subjects as Slaves, and treat them accordingly.
                         </p>
                     </div>
+                    <div type="subsection">
+                        <head rend="place-outside">
+                            <placeName>Rivers Susa</placeName>,
+                            <placeName>Sangarea</placeName>, 
+                            <placeName>Dembia</placeName>, <placeName>Rio
+                            Pongeos</placeName>, and
+                            <placeName>Sierra Leone</placeName>.
+                        </head>
+                        <byline rend="place-outside"><persName>Mr. Thomas
+                            Eldrid</persName>.</byline>
+                        <p><persName>Mr. Thomas Eldrid</persName>, a Native of <placeName>Rhode Island</placeName>, has been employed in the 
+                            Merchants Service between Three and Four Years as Second and Chief Mate of an <rs type="properAdjective">African</rs> Ship,
+                            was upon the Slaving Trade in the Year <date when="1765">1765</date>, <date when="1766">1766</date>, <date when="1767">1767</date>, and <date when="1768">1768</date>, from <placeName>Senegal</placeName> down 
+                            to <placeName>Ammanboe</placeName>; left the Trade because he did not like it, conceiving it to be unlawful, and
+                            has never been to <placeName>Africa</placeName> since the Year <date when="1768">1768</date>.
+                        </p>
+                        <p><persName>Mr. Eldrid</persName> was on Shore about Four of Five Months in the whole of the Time he was on 
+                            the Coast, but he never lived on Shore for more than Three or Four Nights at a Time; was up
+                            the <placeName>Rivers Susa</placeName>, <placeName>Sangarea</placeName>, <placeName>Dembia</placeName>, <placeName>Rio Pongoes</placeName>, and <placeName>Sierra Leone</placeName>, in Boats, for near a
+                            Twelvemonth, but never had occasion to observe any Thing very particularly of the Government
+                            of these Countries. If any Dispute or <distinct rend="italic">Palavers</distinct> arose between Two or more Persons,
+                            they called a Council of the head Men, where Persons were tried: He has frequently been
+                            at those Trials, and understood the <rs type="properAdjective">Susa</rs> Language, which Country is between <placeName>Sierra Leone</placeName>
+                            and <placeName>Gambia</placeName>.
+                        </p>
+                        <p>The Sentence was pronounced by the King, with the Advice of the head Men; and the
+                            Punishment was, sometimes to be sold as Slaves, sometimes to get a Slave in their room.
+                            The Crimes for which these People were in general accused and tried, were Adultery the
+                            greater Part, and some for Theft.
+                        </p>
+                        <p><persName>Mr. Eldrid</persName> knows nothing of the Nature of the general Government of these Countries,
+                            but does not believe they have any regular Form of Government.
+                        </p>
+                        <p>The People in general ar <name>Pagans</name>; they make their own Fetiches or Idols. They belive,
+                            however, that there is an invisible God. As far as <persName>Mr. Eldrid</persName> knows of the Coast, he does
+                            not believe they ever make human Sacrifices, but he knows nothing of the interior
+                            Country.
+                        </p>
+                    </div>
+                    <div type="subsection">
+                        <head rend="place-outside">
+                            <placeName>Isles De Los</placeName>,
+                            and <placeName>River
+                            Kissey</placeName>.
+                        </head>
+                        <byline rend="place-outside">
+                            <persName>James Penny</persName>,
+                            Esquire.</byline>
+                        <p><persName>James Penny</persName>, Esq. African Merchant, and one of the Gentlemen delegated from
+                            <placeName>Liverpool</placeName> on account of the African and the West India Trade, as far as that Town is
+                            concerned.
+                        </p>
+                        <p>Mr. Penny commanded a Ship in the African Trade, was in the Trade Eighteen Years,
+                            and made Eleven Voyages as a Captain, and Two as First and Second Mate; went Five
+                            
+                            <pb/>
+                            
+                            Voyages to Bonny, Four to Congo and Angola, and the rest to the Windward Coast: Mr. Penny
+                            resided in the Isles de Los and the River Kissey on the Windward Coast about Two Years,
+                            from 1768 to 1770, as Factor, and quitted the Trade in 1784.
+                        </p>
+                        <p>In the Parts opposite to the Isles de Los, and the Neighbourhood to the Northward
+                            of <placeName>Sierra Leone</placeName>, where Mr. Penny has been, the Country is divided into a Number of petty
+                            States, ruled by Kings or head Men, whose Districts are very small. The Power of these 
+                            Kings or head Men is not absolute and arbitrary; and they generally call a Council consisting of
+                            head Men, who are Relations of the Princes, in which all Matters, civil or military, are
+                            decided. The religious Institutions of these petty States are principally Pagan; there
+                            are some Mahometans, and on the Northern Rivers a few black Christians, made such by 
+                            the Portuguese when they were established among them.
+                        </p>
+                        <p>Mr. Penny being aksed, Whether the Black Cristians, or the Mahometans, make any Converts?
+                            replied, the Mahometans make a great many by force: There is a large warlike
+                            Mahometan Country to the North-east of Sierra Leone, called Fula, whose Inhabitants are
+                            descended from Arabs; though of a darker colour, they have Arab Features. The Poers
+                            of this Country is employed in making Converts to Mahometanism; they have made a great
+                            Progress in converting the People of the Susa Country, which is a Part of the Coast. The
+                            Princes on the Rivers Kissey and Malachurry, which are also a Part of this Coast, are Tributaries
+                            to the Fula King;  and in thes Two last Countries great Progress has been made in
+                            Mahometansim, and is still making. The Black Christians do not attempt to make any
+                            Converts; they are an obscure Sort of People, and mix Paganism with the Christian Religion.
+                            The King of Sierra Leone sent on of his Sons in 1769 to the Fula Country to learn
+                            Mahometanism, and another to Lancaster to learn the Christian Relgion; the latter turned out very
+                            profligate. Mr. Penny has seen in that Country several Arabian Teachers come down with
+                            Transcripts from the Khoran, to whom they pay great Respect. These Men are sometimes
+                            employed in instructing the Youth of the Country in the Arabic Language and in the Mahometan 
+                            Religion, and with great Success, and they are in general devout; but notwithstanding
+                            their Devotion, the Europeans do not find either their Lives or Properties so safe in the
+                            Mahometan Towns as in those where Paganism prevails. The Pagans are humble and submissive;
+                            the Mahometans are proud and insolent.
+                        </p>
+                    </div>
+                    <div type="subsection">
+                        <head>
+                            <placeName>Sierra Leone</placeName>.
+                        </head>
+                        <byline rend="place-inside">
+                            <persName>Mr. John
+                            Matthews</persName>.</byline>
+                        <p><persName>Mr. John Mathews</persName> (who was added afterwards to the Delegates from the Town of
+                            <placeName>Liverpool</placeName>) is a Lieutenant in the Navy, and has been concerned in the Trade to <placeName>Africa</placeName>, at
+                            Sierra Leone which is a Part of the Windward Coast; and was resident there, as Agent for a 
+                            Merchant in the City of London, Two Years and upwards: He carried on the Trade for him.
+                            and not upon his own Account.
+                        </p>
+                        <p>The Country upon the Windward Coast is formed into a Number of little Independent States:
+                            the Governors are chosen by the People, and there is one head Governor to each of these 
+                            States; their Power is not absolute, but on the contrary extremely limited.
+                        </p>
+                        <p>The Natives are Pagans, but there are also a great Number of Mahometans. They have
+                            so fixed and Object of Worship, but a great Number of Amulets, which they call Gregories: they
+                            believe in a God; and Mr. Mathes concludes, from the Manner of burying their Dead, they
+                            have some Notion of a future State, for they bury in the Ground, and hang round the Grave
+                            those Things of which the deceased in his Lifetime was most fond.
+                        </p>
+                    </div>
+                    <div type="subsection">
+                        <head rend="place-outside">
+                            <placeName>Sherbo
+                            River</placeName>.
+                        </head>
+                        <byline><persName>Reverend
+                            Mr. Newton</persName>.</byline>
+                        <p>The Reverend John Newton, Rector of St. Mary Wolnoth, lived in Africa, some
+                            Years ago, during Eighteen Moths, and left it in the Year 1748; has since commanded a
+                            Ship in the African Trade, for Three Voyages; but has seen nothing of Africa since the Year
+                            1754.
+                        </p>
+                        <p>Mr. Newton has been about Fifty Miles up the Country, through the Woods on the Sherbro
+                            River. Being asked if the Natives have any Civil Government?—said—<said rend="prequotes" xml:id="s001" next="#s002">The Government of
+                            the Purrah is excellent Government; by their Civil Institutions they may sell their Slaves,
+                            but must not draw Blood from them.</said>
+                        </p>
+                        <said xml:id="s002" prev="#s001">
+                            <p>They have some Religious Institutions that answer to our old Druids. The Purrah is a Sort of
+                                High Priest.
+                            </p>
+                            <p>They have Laws respecting Property, and the Convicts for Theft lose their Liberty.</p>
+                        </said>
+                    </div>
+                    <div type="subsection">
+                        <head rend="place-inside">
+                            <placeName>Windward
+                            Coast</placeName>.
+                        </head>
+                        <byline rend="place-inside">
+                            <persName>Mr.
+                            Norris</persName>.</byline>
+                        <p><persName>Robert Norris</persName>, Esq. Carolina Merchant, another of the Delegates from Liverpool.</p>
+                        <p>Mr. Norris was employed as Captain of a Vessel in the Slave Trade, in Five Voyages, and is
+                            particularly acquainted with the Windward and Gold Coast;—and being asked, what is the
+                            
+                            <pb/>
+                            
+                            Nature of the Government on these Parts of the Coast, replied—There are various Governments
+                            in that comprehensive Tract, from the most absolute Monarchy, to others less oppressive to the
+                            Subjects: Some are Monarchies, some Republics. He speaks of a Tract of Country extending
+                            about 1500 Miles upon the Coast, and upon the Gold Coast 130 Miles inland from Whyday.
+                            Mr. Norris is not certain as to the Number of Miles; but the Extend he is able to speak of is,
+                            from Sierra Leone River to Benin.
+                        </p>
+                        <p>The Country on the Windward Coast, from Cape Mount to Cape Palmas, is divided into
+                            Petty States and Governments, and governed by the old Men in each Village.
+                        </p>
+                        <p>The People are Pagans; they wear Tygers Teeth, and different Amulets, suspended on their
+                            Necks, for which they have a religious Veneration.
+                        </p>
+                    </div>
+                    <div type="subsection">
+                        <head rend="place-inside">
+                            <placeName>Windward
+                            Coast</placeName>.
+                        </head>
+                        <byline rend="place-inside">
+                            <persName>Mr.
+                            Falconbridge</persName>.</byline>
+                        <p><persName>Mr. Alexander Falconbridge</persName> made Give Yoages to the Coast of Africa, as
+                            Surgeon to a British Slave Ship. The first Voyage was to the Windward or Grain Coast, and
+                            Angola: In this Voyage he was taken by a French Man of War. The second Voyage was to
+                            the Windward Cost, when he was driven off the Coast by a French Man of War, and went to
+                            Angola. The two last Voyages were to Bonny.
+                        </p>
+                        <p>The Government on the Windward Coast is a Sort of Aristocracy.</p>
+                        <p>The Gold Coast is divided into small States in general.—Mr. Norris being asked, Whether
+                            the People of this country enjoy any Protection from any Civil Rights they have?—Replied—
+                            <said>We must distinguish the Countries: In the Fantyn Nation</said> (by which he meant, from Caoe
+                            Three Points to Accra), <said>which includes various States, of which the Fantyn is the chief, and
+                            whose Manners and Governments are nearly similar, about five Days Journey inland, where 
+                            the Europeans have been longest settled, and possess the greates Number of Forts, Civilization
+                            has improved beyond any thing he has discovered in any other Country of Africa, and the
+                            People have Civil Rights arising from traditionary Laws and Customs; but, even in this
+                            Coutnry, much remains to be done towards Civilization. The Bussou and Craba, the confidential
+                            Man and favourate Woman, of every Person of Distinction are usually put to Death
+                            and interred him.: The imputed Crime of Witchcraft is still believed there, and is
+                            punished with Transportation.</said>—By Transportation, Mr. Norris means, selling them to the White
+                            Traders, which is represented in this Nation as the greatest Evil that can befal them, in order
+                            to deter them from Crimes. The superior State of Civilization in this Country, Mr. Norris
+                            imputes to their Intercourse with Europeans; and added—Report says, that formerly a much
+                            greater Number were but to Death, and interred with their deceased Lords.
+                        </p>
+                        <p>Paganism is universal.—By Paganism, Mr. Norris means, the Worship of those Objects which
+                            strike the Senses.—At Whyday, a Snake is the principal Object of their Worship; and, besides
+                            this, Trees, Caversn, and Amulets round their Necks which are furnished by their Priests.
+                            At Cape Coast, the Rocks on which the Fort is built is their Tutelar Deity. A Tyger is the
+                            immediate Object of the King of Dahomey's Worship.
+                        </p>
+                    </div>
                 </div>
             </div>
             
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
         </body>
-        
     </text>
 </TEI>
