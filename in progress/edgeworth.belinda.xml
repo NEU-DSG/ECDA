@@ -10620,7 +10620,7 @@ be down stairs in three minutes.</said>
                  <p><said>Pretty creatures!</said> said <persName ref="#ld">lady Delacour</persName>:
                   <said>no <ecda:fauna>fish</ecda:fauna> were ever so pretty since
                   the days of the <ecda:anonPers a-gender="male" a-occupation="prince">prince of the <placeName>Black Islands</placeName></ecda:anonPers>
-                  in the <title ref="#thousand_nights">Arabian Tales</title>. Am I obliged 
+                  in the <title ref="#thousand_nights"><rs type="properAdjective">Arabian</rs> Tales</title>. Am I obliged 
                   to you, <persName ref="#ch">Clarence</persName>, for these subjects?</said>
                  </p>
                  <p><said>No; I only had the honour of
@@ -18953,7 +18953,7 @@ be down stairs in three minutes.</said>
           
           
           
-          now it is going; and <ecda:anonPers a-gender="male">old man</ecda:anonPers> is drawing
+          now it is going; and the <ecda:anonPers a-gender="male" a-occupation="gardener">old man</ecda:anonPers> is drawing
           it out of the way as fast as he can.</said>              
           </p>      
           <p><said>Open the coach-door, <persName ref="#james_0001">James</persName>!</said> cried
@@ -18966,7 +18966,7 @@ be down stairs in three minutes.</said>
           <p><persName ref="#bp">Belinda</persName> promised not to detain <rs type="person" ref="#boucher_0001">her ladyship</rs>
           a minute. The door at <persName ref="#dumont_0001">Mrs. Dumont's</persName> 
           was open, and a <ecda:anonPers a-occupation="servant" a-gender="male">servant</ecda:anonPers> was assisting
-          an <ecda:anonPers a-gender="male">old man</ecda:anonPers> to carry in some <ecda:flora>geraniums</ecda:flora>
+          an <ecda:anonPers a-gender="male" a-occupation="gardener">old man</ecda:anonPers> to carry in some <ecda:flora>geraniums</ecda:flora>
           and <ecda:flora>balsams</ecda:flora> out of the covered cart
           which had stopped the way. In the hall
           a <choice><sic>cowd</sic><corr>crowd</corr></choice> of <ecda:persGroup>children</ecda:persGroup> were gathered round
@@ -18981,7 +18981,7 @@ be down stairs in three minutes.</said>
           <ecda:flora>rose geranium</ecda:flora> for <persName ref="#jefferson_0001">miss Jefferson</persName>! The
           <ecda:flora>white <placeName>Provence</placeName> rose</ecda:flora> for <persName ref="#adderly_0001">miss Adderly!</persName>
           No, indeed <persName ref="#pococke_0001">miss Pococke</persName>, that's for <persName ref="#hd">miss
-          Delacour</persName>; the <ecda:anonPers a-gender="male">old man</ecda:anonPers> said so.</said>
+          Delacour</persName>; the <ecda:anonPers a-gender="male" a-occupation="gardener">old man</ecda:anonPers> said so.</said>
           </p>
           <p><said rend="italic"><distinct type="dialect">Silence, silence, mesdemoiselles</distinct>!</said> cried
           
@@ -19016,13 +19016,13 @@ be down stairs in three minutes.</said>
           I'll be sure to remember,</said> said <persName ref="#hd">Helena</persName>
           tripping down the steps. But just
           as she was getting into the carriage she
-          stopped at the sight of the <ecda:anonPers a-gender="male">old man</ecda:anonPers>, and
+          stopped at the sight of the <ecda:anonPers a-gender="male" a-occupation="gardener">old man</ecda:anonPers>, and
           exclaimed,
           </p>
           
           
           
-          <p><said>O, good <ecda:anonPers a-gender="male">old man</ecda:anonPers>! I must not forget
+          <p><said>O, good <ecda:anonPers a-gender="male" a-occupation="gardener">old man</ecda:anonPers>! I must not forget
           you.</said>              
           </p>
           <p><said>Yes, indeed you must though, my
@@ -19158,22 +19158,857 @@ be down stairs in three minutes.</said>
          not understand. Undoubtedly my dear,
          you have just expressed a very honourable
          sentiment, and one that I should scarcely
-         have expected from a child your age.</said>
-             
+         have expected from a child your age.</said>             
          </p>   
+         <p><said> <persName ref="#hd">Helena</persName>, my dear,</said> said <rs ref="#ld" type="person">her mother</rs>,
+         after a silence of some minutes, <said>did you
+         ever read the <title ref="#thousand_nights"><rs type="properAdjective">Arabian</rs> Tales</title>?—<said>Yes,
+         mamma,</said> I know must be the answer. But
+         
+         
+         
+         do you remember the story of <persName ref="#zoebeide_0001">Zoebeide</persName>, 
+         who carried the <ecda:anonPers a-gender="male" a-occupation="porter">porter</ecda:anonPers> home with her on
+         condition that, let him hear or see what
+         he might, he would ask no questions?</said>
+         </p>   
+         <p><said>Yes, mamma.</said>             
+         </p>   
+         <p><said>On the same conditions should you
+         like to stay with me for a few days?</said>             
+         </p>   
+        <p><said>Yes. On any conditions, mamma,
+        I should like to stay with you.</said>            
+        </p>    
+        <p><said>Agreed, then my dear!</said> said <persName ref="#ld">lady
+        Delacour</persName>. <said>Now let us go to the <ecda:fauna>gold
+        fishes</ecda:fauna> and see them eat <ecda:flora>lemna</ecda:flora>, or whatever
+        you please to call it.</said>            
+        </p>    
+        <p>While they were looking at the <ecda:fauna>gold
+        fishes</ecda:fauna>, the <ecda:anonPers a-occupation="gardener" a-gender="male">old man</ecda:anonPers>, who had been desired
+        by <persName ref="#bp">miss Portman</persName> to call, arrived. <said>Who
+        is this fine gray haired <ecda:anonPers a-occupation="gardener" a-gender="male">old man</ecda:anonPers>?</said> said <persName ref="#ld">lady
+        Delacour</persName>. <persName ref="#hd">Helena</persName>, who did not know
+        the share which <rs ref="#ss" type="person"><persName ref="#bp">Belinda's</persName> aunt</rs> and her
+        own mother had in the transaction, began
+        with great eagerness to tell the history of
+        the poor <ecda:anonPers a-gender="male" a-occupation="gardener">gardener</ecda:anonPers>, who had been cheated
+        by <ecda:persGroup ref="#ss #ld">some fine ladies</ecda:persGroup> out of his <ecda:flora ana="#commodity">aloe</ecda:flora> &amp;c.
+        She then related how kind <persName ref="#ap">lady Anne
+        Percival</persName> and her <persName ref="#margaret_delacour_0001">aunt Margaret</persName> had been
+        to this <ecda:anonPers a-occupation="gardener" a-gender="male">old man</ecda:anonPers>; that they had gotten him
+        a place as a gardener at <placeName>Twickenham</placeName>;
+        and that he had pleased the <ecda:persGroup>family</ecda:persGroup> to
             
             
+        whom he was recommended so much by
+        his good behaviour, that, as they were
+        leaving their house, and obliged to part
+        with him, they had given him all the <ecda:flora ana="#commodity #circulation">geraniums</ecda:flora>
+        and <ecda:flora ana="#commodity #circulation">balsams</ecda:flora> out of the greenhouse
+        of which he had the care, and these
+        he had been this day selling to the <ecda:persGroup a-gender="female" a-occupation="student">young
+        ladies</ecda:persGroup> at <persName ref="#dumont_0001">Mrs. Dumont's</persName>. <said>I received
+        the <ecda:commodity ana="#currency">money</ecda:commodity> for him, and I was just going
+        to pay him,</said> said <persName ref="#hd">Helena</persName>, <said>when <persName ref="#bp">miss
+        Portman</persName> came; and that put every thing
+        else out of my head. May I go and give 
+        him his <ecda:commodity ana="#currency">money</ecda:commodity> now, mamma?</said>
+        </p>    
+       <p><said>He can wait a few minutes,</said> said
+         <persName ref="#ld">lady Delacour</persName>, who had listened to this
+          story with much embarrassment and impatience.
+          <said>Before you go, <persName ref="#hd">Helena</persName>, favour
+          us with the names of <ecda:persGroup rend="italic">the fine ladies
+          who cheated</ecda:persGroup> this <ecda:anonPers a-gender="male" a-occupation="gardener">old gardener</ecda:anonPers> out of his
+          <ecda:flora ana="#circulation #commodity">aloe</ecda:flora>?</said>
+       </p>     
+       <p><said>Indeed, mamma, I don't know their
+       names.</said>           
+       </p>     
+       <p><said>No!—Did you never ask <persName ref="#ap">lady Anne
+       Percival</persName>, or your <persName ref="#margaret_delacour_0001">Aunt Margaret</persName>?—Look
+       in my face, child! Did they never inform
+       you?</said>           
+       </p>     
+       <p><said>No, ma'am, never. I once asked
+       <persName ref="#ap">lady Anne</persName>, and she said that she did not
+       
+       
+       
+       choose to tell me; that it would be of no
+       use to me to know.</said>           
+       </p>     
+       <p><said>I give <persName ref="#ap">lady Anne Percival</persName> more credit
+       and more thanks for this,</said> cried <persName ref="#ld">lady Delacour</persName>,
+       <said>than for all the rest. i see she
+       has not attempted to lower me in my
+       child's opinion. I am the fine lady, <persName ref="#hd">Helena</persName>
+       —I was the cause of his being cheated
+       —I was intent upon <soCalled rend="italic">the noble end</soCalled> of outshining
+       a certain <persName ref="#luttridge_0001">Mrs. Luttridge</persName>—the
+       <soCalled rend="italic">noble means</soCalled> I left to others, and the means
+       have proved worthy of the end. I deserve
+       to be brought to shame for my folly; yet
+       my being ashamed will do nobody any
+       good but myself. Restitution is in these
+       cases the best proof of repentance. Go,
+       <persName ref="#hd">Helena</persName>, my love! settle your little
+       affairs with this <ecda:anonPers a-gender="male" a-occupation="gardener">old man</ecda:anonPers>, and bid him
+       call here again to-morrow. I will see
+       what we can do for him.</said>
+       </p>
+       <p><persName ref="#md">Lord Delacour</persName> had this very morning
+        sent home to <rs type="person" ref="#ld">her ladyship</rs> a handsome
+        <ecda:commodity>diamond ring</ecda:commodity>, which had been intended
+        as a present for <persName ref="#luttridge_0001">Mrs. Luttridge</persName>, and
+        which he imagined would therefore be
+        peculiarly acceptable to his lady. In the
+        evening, when his lordship asked her how
+        she liked the <ecda:commodity>ring</ecda:commodity>, which he desired the
+           
+           
+        <ecda:anonPers a-occupation="jeweler">jeweller</ecda:anonPers> to leave for her to look at, she
+        answered, that it was a handsome <ecda:commodity>ring</ecda:commodity>,
+        but that she hoped he had not purchased 
+        it for her.
+       </p>
+       <p><said>It is not actually bought, my dear, </said>
+       said <rs type="person" ref="#md">his lordship</rs>; <said>but if it suits your
+       fancy, I hope you will do me the honour
+       to wear it for my sake.</said> 
+       </p>
+       <p><said>I will wear it for your sake, my
+       lord,</said> said <persName ref="#ld">lady Delacour</persName>, <said>if you desire
+       it; and as a mark of your regard it is
+       agreeable—But as to the rest—
+       <quote rend="quotes">
+           <lg><l>My taste for <ecda:commodity>diamonds</ecda:commodity> is now o'er,</l>
+           <l>The sparkling baubles please me nos more.</l></lg>
+       </quote>
+       If you wish to do me a kindness, I will
+       tell you what I should like much better
+       than <ecda:commodity>diamonds</ecda:commodity>, though I know it is rather
+       ungracious to dictate the form and fashion
+       of a favour. But as my dictatorship in
+       all human probability cannot last much
+       longer—</said>           
+       </p>
+       <p><said>O, my dear <persName ref="#ld">lady Delacour</persName>! I must 
+       not hear you talk in this manner: your 
+       dictatorship, as you call it, will I hope last
+       many, many happy years. But to the
+       point—What should you like better, my
+       dear, than this foolish ring?</said>           
+       </p>
             
             
+        
+        <p><rs type="person" ref="#ld">Her ladyship</rs> then expressed her wish,
+          that a small annuity might be settled upon
+          a <ecda:anonPers a-occupation="gardener" a-gender="male">poor old man</ecda:anonPers>, whom she said she had unwittingly
+         injured. She told the story of the
+         rival galas and the <ecda:flora ana="#commodity">aloe</ecda:flora>, and concluded by
+         observing, that her lord was in some measure
+         called upon to remedy part of the unnumbered
+         ills which had sprung from her
+         haterd of <persName ref="#luttridge_0001">Mrs. Luttrudge</persName>, as he had originally
+         been thecause of her unextinguishable
+         ire. <persName ref="#ld">Lord Delacour</persName> was flattered by
+         this hint, and the annuity was immediately
+         promised to the <ecda:anonPers a-gender="male" a-occupation="gardener">old gardener</ecda:anonPers>.
+        </p>
+        <p>In talking to this <ecda:anonPers a-occupation="gardener" a-gender="male">old man</ecda:anonPers> afterward,
+         <persName ref="#ld">lady Delacour</persName> found, that the <ecda:persGroup>family</ecda:persGroup> in
+         whose service he had lately lived had a house 
+         at <placeName>Twickenham</placeName> that would just answer
+         her purpose. <persName ref="#md">Lord Delacour's</persName> inquiries
+         had hitherto been unsuccessful; he was 
+         rejoiced to find what he wanted just as he
+         was giving up on the search. The house
+         was taken, and the <ecda:anonPers a-gender="male" a-occupation="gardener">old man</ecda:anonPers> hired as
+         gardener—a circumstance which seemed
+         to give him almost as much pleasure as
+         the annuity; for there was a <ecda:flora>morello
+         cherry-tree</ecda:flora> in the garden which had succeeded
+         the <ecda:flora>aloe</ecda:flora> in his affection; <said direct="false">it
+         would have grieved him sorely,</said> he said;
             
             
-            
-            
-            
-            
-            
+          <said direct="false">to lave his favourite <ecda:flora>tree</ecda:flora> to strangers,
+          after all the painse he had been at <distinct rend="italic">in netting</distinct> 
+          it to keep off the birds.</said>           
+        </p>
+       <p>As the period approached when her fate
+           was to be decided, <persName ref="#ld">lady Delacour's</persName> courage
+           seemed to rise; and at the same time
+           her anxiety, that her secret should not be
+           discovered, appeared to increase.
+       </p>
+       <p><said>If I survive <emph>this business</emph>,</said> said she, <said>it
+       is my firm attention to appear in a new
+       character, or rather to assert my real character.
+       I will break through the spell of 
+       dissipation—I will at once cast off all the
+       acquaintance that are unworthy of me—
+       I will, in onwe word, go with you, my dear
+       <persName ref="#bp">Belinda</persName>! to <persName ref="#hp">Mr. Percival's</persName>. I can bear
+       to be mortified for my good; and I am 
+       willing, since I find that <persName ref="#ap">lady Anne Percival</persName>
+       has behaved generously to me with
+       regard to <persName ref="#hd">Helena's</persName> affections—I am willing
+       that the recovery of my moral health
+       should be attributed to the salubrious air
+       of <placeName>Oakly-park</placeName>. But it would be inexpressible,
+       intolerable mortification to me,
+       to have it said or suspected in the world
+       of fashion, that I retreated from the ranks
+       disabled instead of disgusted. A voluntary
+       retirement is graceful and dignified;
+       
+       
+       
+       a forced retreat is awkward and humiliating.
+       You must be sensible that I could
+       not endure to have it whispered—<said>><persName ref="#ld">Lady 
+       Delacour</persName> now sets up for being a prude,
+       because she can no longer be a coquette.</said>
+       <persName ref="#ld">Lady Delacour</persName> would become the subject
+       of witticisms, epigrams, caricatures
+       without end. It would be just the very
+       thing for <persName ref="#luttridge_0001">Mrs. Luttridge</persName>; then she would
+       revenge herself without mercy for <title rend="italic">the 
+       <ecda:fauna>ass</ecda:fauna> and her paniers</title>. We should have
+       <title rend="quotes"><persName ref="#md">Lord</persName> and <persName ref="#ld">lady D―</persName>, or the Domestic
+       Tête-à-tête, or the Reformed <name>Amazon</name></title>, 
+       stuck up in a print shop window! Oh,
+       my dear! think of seeing such a thing!
+       I should die with vexation, and of all
+       deaths, that is the death I should like
+       the least.</said>           
+       </p>
+       <p>Though <persName ref="#bp">Belinda</persName> could not entirely
+         enter into those feelings, which thus
+         made <persName ref="#ld">lady Delacour</persName> invent wit against
+         herself, and anticipate caricatures; yet
+         she did every thing in her power to calm
+         her ladyship's apprehension of a discovery.
+       </p>
+       <p><said>My dear,</said> said <persName ref="#ld">lady Delacour</persName>, <said xml:id="s027" next="#s028">I
+       have perfect confidence in <persName ref="#md">lord Delacour's</persName>
+       promise, and in his good nature, of which
+       
+       
+       
+       he has within these few days given me
+       proofs that are not lost upon my heart;
+       but he is not the most discreet man in
+       the world. Whenever he is anxious
+       about any thing, you may read it a mile
+       off in his eyes, nose, mouth, and chin.
+       And to tell you all my fears in one
+       word, <persName ref="#m">Marriott</persName> informed me this morning,
+       that <persName ref="#luttridge_0001" rend="italic">the Luttridge</persName>, who came from
+       <placeName>Harrowgate</placeName> to <placeName>Rantipole</placeName>, to meet <persName ref="#md">lord
+       Delacour</persName>, finding that there was no drawing
+       him to her, has actually brought herself to town.</said>           
+       </p>
+       <p><said xml:id="s028" prev="#s027">To town—At this strange time of
+       year! How will my lord resist this unequivocal,
+       unprecedented proof of passion?
+       —If she catch hold of him again, I
+       am undone. Or, even suppose him firm as
+       a rock, her surprise, her jealousy, her
+       curiosity, will set all engines at work,
+       to find out by what witchcraft I have
+       taken my husband from her. Every precaution
+       that prudence could devise against
+       her malicious curiosity I have taken.—
+       <persName ref="#marriott_0001">Marriott</persName>, you know, is above all temptation.
+       —That <ecda:anonPers a-occupation="doctor" a-gender="male">vile wretch</ecda:anonPers> <note type="inline">(naming the
+       person whose quack medicnes had nearly
+       destroyed her)</note>, that vile wretch will be 
+           
                 
-        </div>    
+       
+       
+       silent from fear, for his own sake. He is
+       yet to be paid and dismissed. That
+       should have been done long ago, but I
+       had not money both fomr him and <persName ref="#franks_0001">Mrs. 
+       Franks</persName> the milliner. She is now paid:
+       and <persName ref="#md">lord Delacour</persName> in the 
+       handsomest manner supplied me with
+       the means of satisfying <ecda:anonPers a-gender="male" a-occupation="doctor">this man</ecda:anonPers>. He is
+       to be here at three o'clock to-day; and
+       this is the last interview he iwll ever
+       have with <persName ref="#ld">lady Delacour</persName> in <soCalled rend="italic">the mysterious
+       boudoir</soCalled></said>           
+       </p>
+       <p>The fears which her ladyship expressed
+       of <persName ref="#luttridge_0001">Mrs. Luttridge's</persName> malicious curiosity
+       were not totally without foundation.—
+       <persName ref="#champfort_0001">Champfort</persName> was at work for her and for
+       himself. The memorable night of <persName ref="#ld">lady
+       Delacour's</persName> overturn, and the bustle that
+       <persName ref="#m">Marriott</persName> made about the key of the
+        boudoir, were still fresh in his memory;
+        and he was in the hopes that, if he could discover
+        the mystery, he should at once regain
+        his power over <persName ref="#md">lord Delacour</persName>, reinstate
+        himself in his lucrative place, and
+        obtain a handsome reward, or, more properly
+        speaking, bribe, from <persName ref="#luttridge_0001">Mrs. Lut-
+        
+        
+        
+        tridge</persName>. The means of obtaining information
+        of all that passed in <persName ref="#ld">lady Delacour's</persName>
+        family were, he thought, still in his[ower, though he was no longer an inmate
+        of the house. The <ecda:anonPers rend="italic" a-occupation="maid" a-gender="female">stupid maid</ecda:anonPers>
+        was not so stupid as to be impenetrable
+        to the voice of flattery, of, as <persName ref="#champfort">Mr. Champfort</persName>
+        called it, the voice of love. He found 
+        it in his interest to court, and she her pleasure
+        to be courted. On these <quote rend="quotes">coquettes
+        of the <emph>second</emph> table</quote>,—on these underplots
+        in the drama, much of the comedy and
+        some of the tragedy of life depends.
+        Under the unsuspected mask of stupidity
+        this worthy mistress of our intriguing
+        valet-de-chambre concealed the quick
+        ears of the listener, and the demure eys
+        of a spy. Long, however, did she listen,
+        and long did she spy in vain, till at last
+        <persName ref="#champfort_0001">Mr. Champfort</persName> gave her notice in writing
+        that his love would not last another week,
+        unless she could within that time contrive
+        to satisfy his curiosity; and that, in short,
+        she <emph>must</emph> find out the reason why the
+        boudoir was always locked, and why
+        <persName ref="#m">Mrs. Marriott</persName> alone was to be trusted
+        with the key. Now it happened that
+        this billet doux was received on the very
+        
+        
+        day appointed for <persName ref="#ld">lady Delacour's</persName> last
+        interview with the <ecda:anonPers a-gender="male" a-occupation="doctor">quack surgeon</ecda:anonPers> in the
+        mysterious boudoir. <persName ref="#m">Marriott</persName>, as it was
+        her custom upon such occasions, let the 
+        <ecda:anonPers a-gender="male" a-occupation="doctor">surgeon</ecda:anonPers> in, and showed him up the back
+        stairs into the boudoir, locked the door,
+        and bade him wait there till her lady came. 
+        The man had not been punctual to the 
+        hour appointed; and <persName ref="#ld">lady Delacour</persName>, giving
+        up all expectation of his coming till the
+        next day, had retired to her bed-chamber,
+        where she of late usually at this hour secluded
+        hersef to read methdostical books.
+        or to sleep. <persName ref="#m">Marriott</persName>, when she went up
+        to let her lady know that <ecda:anonPers rend="italic" a-gender="male" a-occupation="doctor">the person</ecda:anonPers>, as
+        she always called him, was come, found
+        her so fast asleep that she thought it a pity
+        to waken her, as she had not slept at all
+        the preceding night. She shut the door
+        very softly, and left her lady to repose.
+        At the bottom of the stairs, she was met 
+        by <ecda:anonPers a-occupation="maid" a-gender="female" rend="italic">the stupid maid</ecda:anonPers>, whome she immediately
+        dispatched with orders to wash
+        some lace—<said>Your lady's asleep,</said> said 
+        she, <said>and pray let me have no running
+        up and down stairs.</said> The room into 
+        which the <ecda:anonPers a-gender="female" a-occupation="maid">stupid maid</ecda:anonPers> went was directly
+        underneath the boudoir; and whilst she
+        
+        
+        was there she thought that she heard the
+        steps of a man's foot walking over her head.
+        She listened more attentively—she heard
+        them again. She armed herself with a
+        glass of <ecda:food>jelly</ecda:food> in her hand <quote rend="italic">for my lady</quote>,
+        and hurried up stairs instantly to <quote rend="italic">my lady's</quote>
+        room. She was much surprised to see
+        my lady fast asleep. Her astonishment
+        at finding that <persName ref="#m">Mrs. Marriott</persName> had told her
+        the truth was such, as for a moment to
+        bereave her of all presence of mind, and
+        she stood with the door ajar in her hand.
+        As thus she stood she was roused by the
+        sound of some one clearing his throat
+        very softly in the boudoir—<emph>His</emph> throat—
+        for she recollected the <choice><sic>footseps</sic><corr>footsteps</corr></choice> she had
+        heard before, and she was convinced it
+        could be no other than a masculine throat.
+        She listened again, and stooped down to
+        try whether any feet could be seen under 
+        the door. As she was in this attitude, her
+        lady suddenly turned on her bed, and
+        the book which she had been reading
+        fell from the pillow to the floor with a
+        noise, that made the listener start up imstantaneously
+        in great terrour. The noise
+        however, did not waken <persName ref="#ld">lady Delacour</persName>,
+        who was in that dead sleep which is
+        
+        
+        sometimes the effect of <seg ana="#medical">laudanum</seg>. The 
+        noise was louder than what could have
+        been made by the fall of a book alone,
+        and the <ecda:anonPers a-occupation="maid" a-gender="female">girl</ecda:anonPers> descried a key that had fallen
+         along with the book. It occurred to her
+         that this might possibly be the key of the
+         boudoir. From one of those irresistible
+         impulses which some people make an 
+         excuse for doing whatever they please,
+         she seized it, resolved at all hazards to
+         open the mysterious door. She was cautiously
+         putting the key into the key-hole,
+         so as not to make the least noise, when
+         she was suddenly startled by a voice behind 
+         her, which said, <said>Who gave you 
+         leave to open that door?</said>
+       </p>
+       <p>She turned and saw <persName ref="#hd">Helena</persName> standing
+           at the half open bed-chamber door.           
+       </p>
+       <p><said>Mercy, <persName ref="#hd">miss Delacour</persName>@—who thought
+       of seeing you—For God's sake, don't 
+       make a noise to waken my lady!</said>           
+       </p>
+       <p><said>Did <rs ref="#ld" type="person">my mother</rs> desire you to go into
+       the room?</said> repeated <persName ref="#hd">Helena</persName>.          
+       </p>
+      <p><said>Dear me! No, miss,</said> said the <ecda:anonPers a-gender="female" a-occupation="maid">maid</ecda:anonPers>,
+       putting on her stupid face. <said>But I only
+       thought to open the door, to let in a little
+       air to freshen the room, which my lady
+       
+       
+       always likes, and bids me to do—and I
+       thought—</said>          
+      </p> 
+      <p><persName ref="#hd">Helena</persName> took the key gently from her
+       hand without listening to any more of 
+       her thoughts, and the <ecda:anonPers a-occupation="maid" a-gender="female">woman</ecda:anonPers> left the
+       room muttering something about <said rend="italic"><ecda:food rend="italic">jelly</ecda:food></said>,
+       and <said rend="noquotes"><rs type="person" ref="#ld" rend="italic">my lady</rs></said>. <persName ref="#hd">Helena</persName> went to the side
+       of her mother's bed, determined to wait
+       there till she awakened, then to give her
+       the key, and tell her the circumstance.
+       Notwithstanding the real simplicity of
+       this little girl's character, she was, as her
+       mother had discovered, <quote rend="italic">a nice observer</quote>,
+       and she had remarked that her mother
+       never let any one but <persName ref="#m">Marriott</persName> to into
+       the boudoir. This remark did not excite
+       her to dive into the mystery: on the contrary,
+       she carefully repressed all curiosity,
+       remembering the promise she had given
+       to her mother when she talked of <persName ref="#zoebeide_0001">Zoebeide</persName>
+       and the <ecda:anonPers a-gender="male" a-occupation="porter">porter</ecda:anonPers>. She had not been without 
+       temptation to break this promise; for,
+       the <ecda:anonPers a-occupation="maid" a-gender="female">maid</ecda:anonPers> who usually attended her toilette
+       had employed every art in her power to
+       stimulate her curiosity. As she was 
+       dressing <persName ref="#hd">Helena</persName> this morning, she had
+       said to her, 
+      </p> 
+       
+       
+       
+       <p><said>The reason I was so late calling you
+       miss, this morning, was because I was so 
+       late myself last night—for I went to the 
+       play, miss, last night, which was <title><persName ref="#bluebeard_0001">Bluebeard</persName></title>
+       —Lord bless us! I'm sure, if I had 
+       been <ecda:anonPers a-gender="female"><persName ref="#bluebeard">Bluebeard's</persName> wife</ecda:anonPers>,I should have
+       opened the door, if I'd died for it:—for
+       to have the notion of living all day long,
+       and all night too, in a house in which
+       there was a room that one was never to
+       go into, is a thing I could not put up
+       with.</said> Then after a pause, and after
+       waiting in vain for some reply from <persName ref="#hd">Helena</persName>,
+       she added,—<said>Pray <persName ref="#hd">miss Delacour</persName>,
+       did you ever go into that little room
+       within m lady's bed chamber, that <persName ref="#m">Mrs.
+       Marriott</persName> keeps the key of always?</said>           
+       </p>
+       <p><said>No,</said> said <persName ref="#hd">Helena</persName>.           
+       </p>
+       <p><said>I've often wondered what's in it—
+       but then that's only because I'm a simpleton.
+       I thought, to be sure, <emph>you</emph> knew.</said>           
+       </p>
+       <p>Observing that <persName ref="#hd">Helena</persName> looked much
+        displeased, she broke off her speech,
+        hoping that what she had said would
+        operate in due time, and that she should
+        thus excite the young lady to get the
+        secret from <persName ref="#m">Marriott</persName>, which she had no
+           
+           
+         doubt afterward of <emph>worming</emph> from <persName ref="#hd">miss
+         Delacour</persName>.         
+       </p>
+       <p>In all this she calculated ill; for what 
+        she had said only maid <persName ref="#hd">Helena</persName> distrust
+        and dislike her. <choice></choice><sic>In</sic><corr>It</corr> was the recollection
+        of this conversation, that made her follow
+        the <ecda:anonPers a-gender="female" a-occupation="maid">maid</ecda:anonPers> to <rs type="person" ref="#ld">her mother's</rs> bed-chamber, to
+        see what detained her there so long.
+        <persName ref="#hd">Helena</persName> had heard <persName ref="#m">Marriott</persName> say, that
+         <said direct="false">she ought not to run up and down
+         stairs, because her lady was asleep,</said> and
+          it appeared extraordinary, that but a few
+          minutes after this information she should
+          have gone into the room with a glass of
+          <ecda:food>jelly</ecda:food> in her hand.
+       </p>
+       <p><said>Ah mamma!</said> thought <persName ref="#hd">Helena</persName>, as she
+         stood by <rs type="person" ref="#ld">her mother's</rs> bed, <said>you did 
+         not understand, and perhaps you did not
+         believe me, when I said that I would not
+         try to find out any thing that you wished
+         me not to know. Now I hope you will
+         <emph>understand</emph> me better.</said>
+       </p>
+      <p><persName ref="#ld">Lady Delacour</persName> opened her eyes—<said><persName ref="#hd">Helena</persName>!</said>
+      cried she starting up, <said>how came
+      you by that key!</said>
+      </p> 
+      <p><said>O, mother! don't look as if you suspected
+      me.</said> Shen then told <rs type="person" ref="#ld">her mother</rs>
+      how the key came into her hands. 
+      </p> 
+      <p><said>My dear child, you have done me
+      an essential service,</said> said <persName ref="#ld">lady Delacour</persName>,
+      <said>You know not it's importance, at least 
+      in my estimation. But what gives me
+      infinitely more satisfaction, you have
+      proved yourself worthy of mye esteem—
+      my love.</said>
+      </p> 
+       <p><persName ref="#ld">Marriott</persName> came into the room and whispered
+         a few words to <rs ref="#ld" type="person">her lady</rs>.
+       </p>
+       <p><said>You may speak out, <persName ref="#m">Marriott</persName>, before
+       my <persName ref="#hd">Helena</persName>,</said> said <persName ref="#ld">lady Delacour</persName>, raising
+       from the bed as she spoke—<said>Child as she
+       is, <persName ref="#hd">Helen</persName> has deserved my confidence;
+       and she shall be convinced that, where
+       her mother has once reason to confide, she
+       is incapable of suspicion. Wait here for
+       a few minutes, my dear.</said>
+       </p>
+       <p>She went to her boudoir, paid and dismissed
+           the <ecda:anonPers a-occupation="doctor" a-gender="male">surgeon</ecda:anonPers> expeditiously—then
+           returned—and taking her daughter by the
+           hand, she said,
+       </p>
+      <p><said>You look all simplicity my dear,
+      I see you have no vulgar school-girl curiosity.
+      You will have all your mother's 
+      strength of mind; may you never have
+      any of her faults, or any of her misfortunes!
+      —I speak to you not as to a child,
+      <persName ref="#hd">Helena</persName>, for you have reason far above your
+      
+      
+      years; and you will remember what I
+      now say to you as long as you live. you,
+      will possess talents, beauty, fortune; you
+      will be admired, followed, and flattered
+      as I have been:—but do not throw away
+      your life as I have thrown away mine, to
+      win the praise of fools. Had I used but
+      half the talents I possess, as I hope you
+      will use yours, I might ahve been an ornament
+      to my sex, I might have been 
+      a <name>lady Anne Percival</name>.</said>          
+      </p> 
+      <p>Here <persName ref="#ld">lady Delacour's</persName> voice failed—but,
+      commanding her emotion, she in a few 
+      moments went on speaking.</p> 
+      <p><said>Choose your friends well, my dear 
+      daughter! It was my misfortune, my folly,
+      early in life to connect myself with a <rs type="person" ref="#hf">woman</rs>,
+      who under the name of <name>Frolick</name> led
+      me into every species of mischief. You
+      are too young, too innocent, to hear the
+      particulars of my history now; but you 
+      will hear them all at a proper time from
+      my best friend <persName ref="#bp">miss Portman</persName>. I shall leave
+      you to her care, my dear, when I die.</said>          
+      </p> 
+      <p><said>When you die!—O, mother!</said> said
+       <persName ref="#hd">Helena</persName>, <said>but why do you talk of dying?</said>
+       and she threw her arms round <rs type="person" ref="#ld">her mother</rs>.
+      </p> 
+       <p><said>Gently, my love!</said> said <persName ref="#ld">lady Dela-
+       
+       
+       cour</persName>, shrinking back; and she seized this
+       moment to explain to <rs type="person" ref="#hd">her daughter</rs> why
+       she shrunk in this manner from her caresses,
+       and why she talked of dying.
+       </p>
+        <p><persName ref="#hd">Helena</persName> was excessively shocked.</p>
+       <p><said>I wished, my dear,</said> resumed <rs ref="#ld" type="person">her
+       mother</rs> calmly, <said>I wished to have spared
+       you the pain of knowing all this. I have
+       given you but little pleasure in my life, it
+       is unjust to give you so much pain. We
+       shall go to <placeName>Twickenham</placeName> to-morrow, and
+       I will leave you with your <persName ref="#margaret_delacour_0001">aunt Margaret</persName>,
+       my dear, till all is over. If I die,
+       <persName ref="#bp">Belinda</persName> will take you with her immediatey
+       to <placeName>Oakly-park</placeName>—you shall have as
+       little sorrow as possible. If you had
+       shown me less of your affectionate temper,
+       you would have spared yourself the
+       anguish that you now feel, and you would
+       have spared me—</said>
+       </p>
+       <p><said>My dear kind mother,</said> interrupted
+        <persName ref="#hd">Helena</persName>, throwing herself on her knees
+         at <rs ref="#ld" type="person">her mother's</rs> feet, <said>Do not send me
+         away from you—I don't wish to go to
+         my <persName ref="#margaret_delacour_0001" type="person">aunt Margaret</persName>—I don't wish to to
+         to <placeName>Oakly-park</placeName>—I wish to stay with you.
+         Do not send me away from you; for I
+         shall suffer ten times moer if I an mot
+         
+         
+         
+         with you, thought I know I can be of no
+         use.</said>
+       </p>
+       <p><said>Overcome by <rs type="person" ref="#hd">her daughter's</rs> entreaties
+       <persName ref="#ld">lady Delacour</persName> at last consented that she
+       should remain with her, and that she
+       should accompany her to <placeName>Twickenham</placeName>.</said>           
+       </p>
+       <p>The remainder of this day was taken
+           up in preparation for their departure.
+           The <ecda:anonPers a-gender="female" a-occupation="maid" rend="italic">stupid maid</ecda:anonPers> was immediately dismissed.
+           No questions were asked, and
+           no reasons for her dismissal assigned, except
+           that <persName ref="#ld">lady Delacour</persName> had no farther
+           occasion for her services. <persName ref="#m">Marriott</persName> alone
+           was to attend her lady to <placeName>Twickenham</placeName>. 
+           <persName ref="#md">lord Delacour</persName>, it was settled, should
+           stay in town, lest the unusual circumstance 
+           of his attending his lady should
+           excite public curiosity. His lordship, who
+           was naturally a good natured man, and
+           who had been touched by the kindness
+           his wife had lately shown him, was in 
+           extreme agitation during the whole of
+           this day, which he thought might possibly
+           be the last of her existence. She, on
+           the contrary, was calm and collected; her
+           courage seemed to rse with the necessity
+           for its exertion.
+       </p>
+        <p>In the morning when the carriage came
+            to the door, as she parted with <persName ref="#md">lord Delacour</persName>,
+            she put into hs hand a paper that
+            contained some directions and requests,
+            with which she said she hoped that he
+            would comply, if they should prove to be
+            her <emph>last requests</emph>. The paper contained
+            only some legacies to her servants, a provision
+            for <persName ref="#m">Marriott</persName>, and a bequest to her
+            excellent and beloved friend <persName ref="#bp">Belinda Portman</persName>,
+            of the cabinet in which she kept 
+            <persName ref="#ch">Clarence Hervey's</persName> letters.
+        </p>
+         <p>Interlined in this place, <persName ref="#ld">lady Delacour</persName>
+          had written these words: <quote rend="quotes">my daughter
+          is nobly provided for; and lest any doubt
+          or difficulty should arise from the omission,
+          I think it necessary to mention that the
+          said cabinet contains the valuable <ecda:commodity>jewels</ecda:commodity>
+          left to me by my late uncle, and that it is
+          my intention that the said <ecda:commodity>jewels</ecda:commodity> should be 
+          part of my bequest to the said <persName ref="#bp">Belinda 
+          Portman</persName>.—If she marry a man of good
+          fortune, she will wear them for my sake:
+          if she does not marry an opulent husband, I
+          hope she will sell the jewels without scruple,
+          as they are intended for her convenience,
+          and not as an ostentatious bequest. It is fit that she should be as in-
+          
+          
+          
+          
+          dependent in her circumstances, as she is
+          in her mind.</quote>
+         </p>   
+         <p><persName ref="#ld">Lord Delacour</persName> with much emotion
+            looked over this paper, and assured her
+            ladyship that she should be obeyed, if—
+            He could say no more.
+         </p>   
+         <p><said>Farewell, then, my lord!</said> said she:
+             <said>Keep up your spirits, for I intend to
+             live many years yet to try them.</said>
+         </p>         
+                
+        </div> 
+                
+                <div type="chapter">
+                    <head><label>Chapter XXII</label>.
+                        A Spectre.</head>              
+                
+                
+      <p><hi rend="smallcaps">The</hi> <ecda:anonPers a-gender="male" a-occupation="surgeon">surgeon</ecda:anonPers> who was to attend <persName ref="#ld">lady
+      Delacour</persName> was prevented from going to
+      her on the day appointed; he was one of
+      the surgeons of the <ecda:anonPers a-occupation="queen" a-gender="female">queen's</ecda:anonPers> household,
+      and his attendance was required at the
+      palace. This delay was extremely irksome
+      to <persName ref="#ld">lady Delacour</persName>, who had worked
+      up her courage to the highest point, but
+      who had not prepared herself to endure
+      suspense. She spent nearly a week at 
+      <placeName>Twickenham</placeName> in this anxious state, and
+      <persName ref="#bp">Belinda</persName> observed that she every day became
+      more and more thoughtful and reserved.
+      She seemed as if she had some 
+      secret subject of meditations, from which
+      she could not bear to be distracted.
+      When <persName ref="#hd">Helena</persName> was present, she exerted
+      herself to converse in her usual sprightly
+      strain; but as soon as she could escape, as
+      
+      
+      
+      she thought, unobserved, she would shut
+      herself up in her own apartment, and remain
+      there for hours. 
+      </p>          
+      <p><said>I wish to Heaven, <persName ref="#bp">miss Portman</persName>,</said>
+      said <persName ref="#m">Marriott</persName>, coming one morning into
+      her room with a portentous face—<said>I wish 
+      to Heaven, ma'am, that you could any
+      way persuade <rs ref="#ld" type="person">my lady</rs> not to spend so
+      many hours of the day and night as she
+      does, in reading those methodistical books
+      that she keeps to herself!—I'm sure that
+      they do her no good but a great deal of
+      harm, especially now when her spirits 
+      should be kept up as much as possible. I
+      am sensible, ma'am, that 'tis these books
+      that have made my lady melancholy of a
+      sudden. Ma'am, my lady has let drop
+      very odd hints within these two or three
+      days, and she speaks in a strange <emph>disconnected</emph>
+      sort of style, and at time I do not
+      think she is quite right in her head. </said>
+      </p>          
+      <p>When <persName ref="#bp">Belinda</persName> questioned <persName ref="#m">Marriott</persName> more
+       particularly about the strange hints which
+       her lady had left fall, she with looks of
+       embarrassment and horror declined repeating
+       the words that had been said to 
+       her; yet persisted in asserting thtat <persName ref="#ld">lady
+       Delacour</persName> had been very <emph>strange</emph> for these
+          
+          
+       two or three days. <said>And I'm sure, ma'am,
+       you'd be shocked if you were to see my
+       lady in a morning, when she wakens, or
+       rather when I first go into the room—for,
+       as to wakening, that's out of the question.
+       I am certain she does not sleep during the
+       whole night. You'll find, ma'am, it is as
+       I tell you, those books will quite turn her
+       poor head, and I wish they were burnt.
+       I know the mischief that the same sort
+       of things did to a poor <ecda:anonPers a-gender="male">cousin</ecda:anonPers> of my own,
+       who was driven melancholy mad by a
+       methodist <ecda:anonPers a-occupation="preacher" a-gender="male" a-religion="methodist">preacher</ecda:anonPers>, and came to an untimely
+       end. Oh, ma'am! if you knew as
+       much as I do, you'd be as much alarmed
+       for my lady as I am.</said>   
+      </p>          
+      <p>It was impossible to prevail upon <persName ref="#m">Marriott</persName>
+        to explain herself more distinctly.
+        The only circumstances that could be
+        drawn from her, seemed to <persName ref="#bp">Belinda</persName> so
+        trifling, as to be scarcely worth mentioning.
+        For instance, that <persName ref="#ld">lady Delacour</persName>,
+        contrary to <persName ref="#m">Marriott's</persName> advice, had insisted
+        on sleeping in a bed-chamber upon the
+        ground floor, and had refused to let a 
+        curtain be put up before a glass-door that
+        was at the foot of her bed. <said>When I
+        offered to put up the curtain, ma'am,</said> said
+          
+          
+        <persName ref="#m">Marriott</persName>, <said>my lady said she liked the
+        moonlight, and that she would not have
+        it put up till the fine nights were over.
+        Now, <persName ref="#bp">miss Portman</persName>, to hear my lady talk
+        of the moon, and moonlights, and liking
+        the moon, is rather extraordinary and unaccountable;
+        for I never heard her say
+        any thing of the sort in my life before; I
+        question whether she ever knew there was
+        a moon or not from one year's end to another.
+        But the say the moon hasa great
+        deal to do with mad people; and, from
+        my own experience, I'm perfectly sensible,
+        ma'am, it had in my own cousin's case;
+        for, before he came to the worst, he took
+        a prodigious fancy to the moon, and was
+        always for walking by moonlight, and
+        talking to one of the beauty of the moon,
+        and such melancholy nonsense, ma'am.</said>
+      </p>          
+     <p><persName ref="#bp">Belinda</persName> could not forebear smiling at
+         this melancholy nonsense; though she
+         was inclined to be of <persName ref="#m">Marriott's</persName> opinion
+         about the methodistical books, and she
+         determined to talk to <persName ref="#ld">lady Delacour</persName> on
+         the subject. The moment that she made 
+         the attempt, her ladyship, commanding
+         her countenance, with her usual ability, replied
+         only by cautious, cold monosylables,
+         
+         
+         and changed the conversation as soon as
+         she could.          
+     </p>
+      <p>At night, when they were retiring to
+          rest, <persName ref="#m">Marriott</persName>, as she lighted them to their
+          rooms, observed that she was afraid her
+          lady would suffer from sleeping in so cold
+          a bed-chamber, and <persName ref="#bp">Belinda</persName> pressed her
+          friend to change her apartment. 
+          
+      </p>          
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>    
             </div>
             
             
