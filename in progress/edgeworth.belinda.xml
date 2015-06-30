@@ -139,7 +139,8 @@
                     not wishing to acknowledge a Novel. Were all novels like those of
                     <persName ref="#isabelle_de_montolieu_1751" xml:id="a001" corresp="#n001">Madame de Crousaz</persName>*, <persName ref="#elizabeth_inchbald_1753">Mrs.
                     Inchbald</persName>, <persName ref="#frances_burney_1752">Miss Burney</persName>, or <persName>Dr. Moore</persName>, <!-- which dr moore? -->
-              <pb/>                    
+              <pb/> 
+              <fw type="pageNum">iv</fw>
                     she would adopt the name of novel with delight: But so much folly,
                     error, and vice are disseminated in books classed under this denomination,
                     that it is hoped the wish to assume another title will be attributed
@@ -148,10 +149,55 @@
                 <dateline>April 20, 1801.</dateline>
             </div>
             <pb/>
-            <!-- Table of Contents -->
-            <pb/>
-            <!-- Add'l Table of Contents -->
-            <pb/>
+            <div type="contents">
+                <head>Contents.</head>
+                <label>Vol. I.</label>
+                <list type="toc">
+                    <item><label>I</label>. <rs>Characters</rs> <ref type="pageNum">1</ref></item> 
+                    <item><label>II</label>. <rs>Masks</rs> <ref type="pageNum">26</ref></item>
+                    <item><label>III</label>. <rs>Lady Delacour's History</rs> <ref type="pageNum">58</ref></item>
+                    <item><label>IV</label>. <rs>The same continued</rs> <ref type="pageNum">96</ref></item>
+                    <item><label>V</label>. <rs>Birthday Dresses</rs> <ref type="pageNum">131</ref></item>
+                    <item><label>VI</label>. <rs>Ways and Means</rs> <ref type="pageNum">155</ref></item>
+                    <item><label>VII</label>. <rs>The Serpentine River</rs> <ref type="pageNum">172</ref></item>
+                    <item><label>VIII</label>. <rs>A Family Party</rs> <ref type="pageNum">191</ref></item>
+                    <item><label>IX</label>. <rs>Advice</rs> <ref type="pageNum">215</ref></item>
+                    <item><label>X</label>. <rs>The Mysterious Boudoir</rs> <ref type="pageNum">247</ref></item>
+                    <item><label>XI</label>. <rs>Difficulties</rs> <ref type="pageNum">270</ref></item>
+                    <item><label>XII</label>. <rs>The Macaw</rs> <ref type="pageNum">303</ref></item>                   
+                </list>
+                <label>Vol. II.</label>
+                <list type="toc">                    
+                    <item><label>XIII</label>. <rs>Sortes Virgilianæ</rs> <ref type="pageNum">1</ref></item>
+                    <item><label>XIV</label>. <rs>The Exhibition</rs> <ref type="pageNum">29</ref></item>
+                    <item><label>XV</label>. <rs>Jealousy</rs> <ref type="pageNum"></ref>75</item>
+                   
+                    <pb/>
+                    <fw type="pageNum">vi</fw>
+                    <item><label>XVI</label>. <rs>Domestic Happiness</rs> <ref type="pageNum">104</ref></item>
+                    <item><label>XVII</label>. <rs>Rights of Woman</rs> <ref type="pageNum">132</ref></item>
+                    <item><label>XVIII</label>. <rs>A Declaration</rs> <ref type="pageNum">153</ref></item>
+                    <item><label>XIX</label>. <rs>A Wedding</rs> <ref type="pageNum">181</ref></item>
+                    <item><label>XX</label>. <rs>Reconciliation</rs> <ref type="pageNum">215</ref></item>
+                    <item><label>XXI</label>. <rs>Helena</rs> <ref type="pageNum">260</ref></item>
+                    <item><label>XXII</label>. <rs>A Spectre</rs> <ref type="pageNum">293</ref></item>
+                    <item><label>XXIII</label>. <rs>The Chaplain</rs> <ref type="pageNum">323</ref></item>                   
+  
+                </list>
+                
+                <label>Vol. III.</label>
+                <list type="toc">
+                    <item><label>XXIV</label>. <rs>Peu à oeur</rs> <ref type="pageNum">1</ref></item> 
+                    <item><label>XXV</label>. <rs>Love me, love my dog</rs> <ref type="pageNum">38</ref></item>
+                    <item><label>XXVI</label>. <rs>Virginia</rs> <ref type="pageNum">77</ref></item>
+                    <item><label>XXVII</label>. <rs>A Discovery</rs> <ref type="pageNum">136</ref></item>
+                    <item><label>XXVIII</label>. <rs>E. O.</rs> <ref type="pageNum">191</ref></item>
+                    <item><label>XXIX</label>. <rs>A Jew</rs> <ref type="pageNum">229</ref></item>
+                    <item><label>XXX</label>. <rs>News</rs> <ref type="pageNum">257</ref></item>
+                    <item><label>XXXI</label>. <rs>The Dénouement</rs> <ref type="pageNum">281</ref></item>               
+                </list>
+            </div> 
+           
         </front>
         <pb/>
         <body>
@@ -10438,7 +10484,26 @@ be down stairs in three minutes.</said>
                         <pubPlace><placeName>New Bridge-street</placeName>, <placeName>London</placeName></pubPlace>. 
                     </docImprint>
                 <pb/>
-                    <!-- table of contents here -->                    
+                    <div type="contents">
+                        <head>Contents.</head>
+                        <label>Vol. II.</label>
+                        <list type="toc">                    
+                            <item><label>XIII</label>. <rs>Sortes Virgilianæ</rs> <ref type="pageNum">1</ref></item>
+                            <item><label>XIV</label>. <rs>The Exhibition</rs> <ref type="pageNum">29</ref></item>
+                            <item><label>XV</label>. <rs>Jealousy</rs> <ref type="pageNum"></ref>75</item>
+                            <item><label>XVI</label>. <rs>Domestic Happiness</rs> <ref type="pageNum">104</ref></item>
+                            <item><label>XVII</label>. <rs>Rights of Woman</rs> <ref type="pageNum">132</ref></item>
+                            <item><label>XVIII</label>. <rs>A Declaration</rs> <ref type="pageNum">153</ref></item>
+                            <item><label>XIX</label>. <rs>A Wedding</rs> <ref type="pageNum">181</ref></item>
+                            <item><label>XX</label>. <rs>Reconciliation</rs> <ref type="pageNum">215</ref></item>
+                            <item><label>XXI</label>. <rs>Helena</rs> <ref type="pageNum">260</ref></item>
+                            <item><label>XXII</label>. <rs>A Spectre</rs> <ref type="pageNum">293</ref></item>
+                            <item><label>XXIII</label>. <rs>The Chaplain</rs> <ref type="pageNum">323</ref></item>
+                            
+                            
+                            <item><label></label>. <rs></rs> <ref type="pageNum"></ref></item>
+                        </list>
+                    </div>               
                 </front> 
         <pb/>
         <body>
@@ -20128,7 +20193,7 @@ be down stairs in three minutes.</said>
    said she, turning to the <ecda:anonPers a-occupation="surgeon" a-gender="male">surgeon</ecda:anonPers>,
    <said>I must invent some new excuse for my
    cowardice; and though I give you notice
-   of it beforehand, as <persName ref="#barrington">Barrington</persName> did when 
+   of it beforehand, as <persName ref="#george_barrington_1755">Barrington</persName> did when 
    he picked the man's pocket, yet, nevertheless,
    I shall succeed. Good night!</said>
    </p>           
@@ -20235,7 +20300,7 @@ be down stairs in three minutes.</said>
     </p>          
     <p><said next="#s030" xml:id="s029">It is no vain imagination—I must
     die,</said> said <persName ref="#ld">lady Delacour</persName>.
-     <quote rend="quotes">
+     <quote rend="quotes" source="#tickell_lucy">
          <lg>
              <l>I hear a voice you cannot hear,</l>
              <l>Which says I must not stay;</l>
@@ -20546,10 +20611,10 @@ be down stairs in three minutes.</said>
    bed-chamber, and whom she had 
    mistaken for a favoured lover.
    </p>  
-   <p><said>Like the <ecda:anonPers a-occupation="surgeon">surgeon</ecda:anonPers> in <title><persName ref="#gil_blas_0001">Gil Blas</persName></title>,</said> said
+   <p><said>Like the <ecda:anonPers a-occupation="surgeon">surgeon</ecda:anonPers> in <title ref="#lesage_gil_blas"><persName ref="#gil_blas_0001">Gil Blas</persName></title>,</said> said
    <persName ref="#rx">doctor X―</persName>, <said>who was challenged for
    having had the honour of a surgical tête-
-   à-tête with <persName ref="#sephora_0001">dame Sephora</persName>.</said>       
+   à-tête with <persName ref="#lorenza_sephora_0001">dame Sephora</persName>.</said>       
    </p>  
    <p><persName ref="#hf">Mrs. Freke's</persName> leg was much cut and
    bruised; and now that she was no longer
@@ -20751,7 +20816,7 @@ be down stairs in three minutes.</said>
      her airs, and be as gentle, good, and kind
      as <persName ref="#bp">Belinda Portman</persName>, for instance, her
      lord would certainly say to her,
-     <quote rend="quotes">
+     <quote rend="quotes" source="#nugent_beautiful">
          <lg>
              <l>So alter'd are your face and mind,</l>
              <l>T'were perjury to love you now.</l>
@@ -20761,7 +20826,7 @@ be down stairs in three minutes.</said>
         </div> 
           <div type="chapter">
          <head><label>Chapter XXIII</label>.
-         The Chaplain.</head>              
+         The <rs ref="#moreton_0001">Chaplain</rs>.</head>              
        <p><hi rend="smallcaps">In</hi> some minds, motions of joy are always
         connected with feelings of benevolence
         and generosity. <persName ref="#ld">Lady Delacour's</persName>
@@ -20867,7 +20932,7 @@ be down stairs in three minutes.</said>
        subjects was not his province, much
        less his inclination; but he was acquainted
        with a <rs type="person" ref="#moreton_0001">person</rs> qualified by his profession
-       and his character <quote rend="quotes">to minister to a mind
+       and his character <quote rend="quotes" source="#shakespeare_macbeth">to minister to a mind
        diseased</quote>, and he resolved on the first
        favourable opportunity to introduce this
        gentleman to her ladyship.
@@ -20889,7 +20954,7 @@ be down stairs in three minutes.</said>
        <p><said>Why not a chaplain, may I ask <rs type="person" ref="#ld">your
        ladyship</rs>?</said> said the <rs type="person" ref="#rx">doctor</rs>.           
        </p>         
-       <p><said>O, because we once had a <ecda:anonPers a-gender="male" a-occupation="chaplain">chaplain</ecda:anonPers>,
+       <p><said>O, because we once had a <ecda:anonPers a-gender="male" a-occupation="chaplain" a-religion="christian">chaplain</ecda:anonPers>,
        who gave me a surfeit of the whole tribe.
        The meanest sycophant, yet the most impertinent
        busy-body—always cringing,
@@ -20903,7 +20968,7 @@ be down stairs in three minutes.</said>
        faith or his profession—greedy for preferment,
        yet without a thought of the duties 
        of his office. It was the common practice
-       of this <ecda:anonPers a-gender="male" a-occupation="chaplain">man</ecda:anonPers> to leap from his <ecda:fauna>horse</ecda:fauna> at the
+       of this <ecda:anonPers a-gender="male" a-occupation="chaplain" a-religion="christian">man</ecda:anonPers> to leap from his <ecda:fauna>horse</ecda:fauna> at the
        church door on a holiday, after following
        a pack of <ecda:fauna>hounds</ecda:fauna>, huddle on his surplice,
        and gabble over the service with the most
@@ -20913,7 +20978,7 @@ be down stairs in three minutes.</said>
        
        indecent mockery of religion.—Do I speak
        with acrimony? I have reason. It was
-       this <ecda:anonPers a-gender="male" a-occupation="chaplain">chaplain</ecda:anonPers> who first led <rs type="person" ref="#md">my lord</rs> to
+       this <ecda:anonPers a-gender="male" a-occupation="chaplain" a-religion="christian">chaplain</ecda:anonPers> who first led <rs type="person" ref="#md">my lord</rs> to
        <placeName>Newmarket</placeName>; it was he who first taught
        my lord to drink. Then he was <soCalled rend="italic">a wit</soCalled>—
        an insufferable wit! His conversation after
@@ -20922,7 +20987,7 @@ be down stairs in three minutes.</said>
        as few <emph>gentlemen</emph> could hear. I have
        never, alas! been thought a prude, but in
        the heyday of my youth and gayety, this 
-       <ecda:anonPers a-occupation="chaplain" a-gender="male">man</ecda:anonPers> always disgusted me. In one word,
+       <ecda:anonPers a-occupation="chaplain" a-gender="male" a-religion="christian">man</ecda:anonPers> always disgusted me. In one word,
        he was a <distinct>buck parson</distinct>. I hope you have
        as great a horror for this species of animal
        as I have?</said>          
@@ -21019,7 +21084,7 @@ be down stairs in three minutes.</said>
     </p>          
     <p><said>Well, <rs type="person" ref="#rx">doctor</rs>! seriously, I am not so
     <emph>illiberal</emph> as to condemn <emph>all</emph> chaplains for
-    <ecda:anonPers a-occupation="chaplain" a-gender="male">one</ecda:anonPers>, odious as he was. But where to find
+    <ecda:anonPers a-occupation="chaplain" a-gender="male" a-religion="christian">one</ecda:anonPers>, odious as he was. But where to find
     his contrast in these degenerate days?
     Can you, who are a defender of the faith,
     and so forth, assist me? Will you recommend
@@ -21038,9 +21103,9 @@ be down stairs in three minutes.</said>
     have a full and true description of him.</said></p>          
     <p><said>Shall I then give you a full and
     true description of him in the words of 
-    <persName>Chaucer</persName>?</said>        
+    <persName ref="#geoffrey_chaucer_1343">Chaucer</persName>?</said>        
     </p>          
-     <p><said>In any words you please. But <ecda:anonPers a-gender="male" a-occupation="chaplain" a-religion="catholic"><persName>Chaucer's</persName>
+     <p><said>In any words you please. But <ecda:anonPers a-gender="male" a-occupation="parson" a-religion="catholic"><persName>Chaucer's</persName>
     chaplain</ecda:anonPers> must be a little old-fashioned
     by this time, I should think.</said>        
     </p>          
@@ -21049,7 +21114,7 @@ be down stairs in three minutes.</said>
     
     
     
-    I should not be ashamed to produce <ecda:anonPers a-gender="male" a-occupation="parish_priest" a-religion="catholic"><persName>Chaucer's</persName>
+    I should not be ashamed to produce <ecda:anonPers a-gender="male" a-occupation="parson" a-religion="catholic"><persName>Chaucer's</persName>
     parish priest</ecda:anonPers> at this day to the best
     company in <placeName>England</placeName>. I am not ashamed
     to produce him to <rs ref="#ld" type="person">your ladyship</rs>; and if
@@ -21072,7 +21137,7 @@ be down stairs in three minutes.</said>
     <p><persName ref="#rx">Doctor X―</persName>, with sundry intervals
     of recollection, which may be spared the
     reader, repeated the following lines:
-    <quote rend="quotes" source="#chaucer_canterbury">
+    <quote rend="quotes" source="#dryden_parson">
         <lg>
             <l>Yet has his aspect nothing of severe,</l>
             <l>But such a face as promis'd him sincere.</l>
@@ -21080,7 +21145,7 @@ be down stairs in three minutes.</said>
             <l>But sweet regards, and pleasing sanctity,</l>
             <l>Mild was his accent, and his action free.</l>
             <l>With eloquence innate his tongue was arm'd,</l>
-            <l>Though harsh the precept, yet the <ecda:anonPers a-religion="catholic" a-gender="male" a-occupation="preacher">preacher</ecda:anonPers> charm'd;</l>
+            <l>Though harsh the precept, yet the <ecda:anonPers a-religion="catholic" a-gender="male" a-occupation="parson">preacher</ecda:anonPers> charm'd;</l>
             
             
             
@@ -21103,7 +21168,7 @@ be down stairs in three minutes.</said>
     </p>         
     <p><persName ref="#ld">Lady Delacour</persName> wished that she could
     find a chaplain, who in any degree resembled
-    this charming <ecda:anonPers a-occupation="parish_priest" a-gender="male" a-religion="catholic">parish priest</ecda:anonPers>, and <persName ref="#rx">Dr.
+    this charming <ecda:anonPers a-occupation="parson" a-gender="male" a-religion="catholic">parish priest</ecda:anonPers>, and <persName ref="#rx">Dr.
     X―</persName> promised that he would the next
     day introduce to her his friend <persName ref="#moreton_0001">Mr. Moreton</persName>.
     </p>          
@@ -21125,7 +21190,7 @@ be down stairs in three minutes.</said>
     strongly interested <persName ref="#ld">lady Delacour</persName> in his
     favour. She found him, upon farther acquaintance,
     a perfect contrast to her former
-    <ecda:anonPers a-gender="male" a-occupation="chaplain">chaplain</ecda:anonPers>; and he gradually acquired
+    <ecda:anonPers a-gender="male" a-occupation="chaplain" a-religion="christian">chaplain</ecda:anonPers>; and he gradually acquired
     such salutary influence over her mind,
     that he relieved her from the terrors of methodism,
     and in their place substituted the
@@ -21208,7 +21273,7 @@ be down stairs in three minutes.</said>
      care—you cannot live in armour all your
      life—lay it aside but for a moment, and
      the little bold urchin will make it his
-     prize. Remember <persName>Raphael's</persName> picture of
+     prize. Remember <persName ref="#raphael_1483">Raphael's</persName> picture of
      <persName ref="#cupid_0001">Cupid</persName> creeping into the armour of the
      conqueror of the world.</said>         
      </p>    
@@ -21323,7 +21388,7 @@ be down stairs in three minutes.</said>
       make <distinct rend="italic">a mistake</distinct> in conversation, she either
       showed involuntary signs of uneasiness, or
       passed it off with that easy wit, by which
-      she generally knew how <quote rend="quotes">to make the
+      she generally knew how <quote rend="quotes" source="#milton_paradise">to make the
       worse appear the better reason</quote>. <persName ref="#bp">Miss Portman</persName>
       knew, that <persName ref="#hp">Mr. Percival</persName> possessed the
       happy talent of drawing out all the abilities
