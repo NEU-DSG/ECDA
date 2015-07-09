@@ -1713,8 +1713,8 @@
         <p>To <persName ref="#belinda_portman_0001">Belinda</persName> the night appeared long
             and dull; the common place wit of <ecda:persGroup>chimney-
             sweepers and gipsies</ecda:persGroup>; the antics of
-            <ecda:persGroup>harlequins</ecda:persGroup>; the graces of <ecda:persGroup>flower-girls</ecda:persGroup> and
-            <ecda:persGroup><name>Cleopatras</name></ecda:persGroup> had not power to amuse her;
+            <ecda:persGroup>harlequins</ecda:persGroup>; the graces of <ecda:persGroup a-gender="female">flower-girls</ecda:persGroup> and
+            <ecda:persGroup a-gender="female"><name>Cleopatras</name></ecda:persGroup> had not power to amuse her;
             for her thoughts still recurred to that conversation
             which had given her so much
             pain—a pain which <persName ref="#t_delacour_0001">lady Delacour's</persName> raillery
@@ -3185,7 +3185,7 @@
             county; <persName ref="#luttridge_0002">Mr. Luttridge</persName> had a good estate
             there next to <placeName ref="#delacour_0002">lord Delacour's</placeName>, and being
             of an ancient family, and keeping a good
-            table, the <ecda:persGroup ref="#luttridge_0001 #luttridge_0002"><name>Luttridges</name></ecda:persGroup> were popular enough.
+            table, the <ecda:persGroup><name ref="#luttridge_0001 #luttridge_0002">Luttridges</name></ecda:persGroup> were popular enough.
             —At the first news of an election, out
             comes a flaming advertisement from <persName ref="#luttridge_0002">Mr.
             Luttridge</persName>; away posted <persName ref="#luttridge_0001">Mrs. Luttridge</persName>
@@ -3845,7 +3845,7 @@
                of our <ecda:flora>aloe</ecda:flora>.—Your <persName ref="#selina_stanhope_0001">aunt Stanhope</persName> managed
                the thing admirably, by means of
                a <ecda:anonPers rend="italic">common friend</ecda:anonPers>, who was not a suspected
-               person with the <ecda:persGroup ref="#luttridge_0001 #luttridge_0002"><name>Luttridges</name></ecda:persGroup>—in short, my
+               person with the <ecda:persGroup><name  ref="#luttridge_0001 #luttridge_0002">Luttridges</name></ecda:persGroup>—in short, my
                <pb/>
                <fw type="pageNum">121</fw>
                dear, I gained my point—every body
@@ -4025,13 +4025,13 @@
               fun.—Can you believe it?—What do you
               think she has done, my dear? She has 
               gone over at last to odious <persName ref="#luttridge_0001">Mrs. Luttridge</persName>
-              —actually she is gone down with the <ecda:persGroup ref="#luttridge_0001 #luttridge_0002"><name>Luttridges</name></ecda:persGroup>
+                —actually she is gone down with the <ecda:persGroup><name ref="#luttridge_0001 #luttridge_0002">Luttridges</name></ecda:persGroup>
               to <placeName>―shire</placeName>. The independent
                 <pb/>
                 <fw type="pageNum">127</fw>
               member has taken the <placeName>Chiltern Hundreds</placeName>,
               vacates his seat—a new election coms on
-              directly—The <ecda:persGroup ref="#luttridge_0001 #luttridge_0002"><name>Luttridges</name></ecda:persGroup> are to bring in
+              directly—The <ecda:persGroup><name ref="#luttridge_0001 #luttridge_0002">Luttridges</name></ecda:persGroup> are to bring in
               <persName ref="#freke_0003">Freke</persName>, not <persName ref="#harriott_freke_0001">Harriot's</persName> <rs type="person" ref="#freke_0002">cousin</rs>, they have cut
               him—but her husband, who is now to
               commence senator—he is to come in for
@@ -4912,7 +4912,7 @@
     <ecda:persGroup>people</ecda:persGroup> coming in?</said> cried <persName ref="#t_delacour_0001">lady Delacour</persName>,
       and she withdrew her hand, but with no
       great precipitation: she was evidently <quote source="#pope_temple" rend="quotes">at
-      this moment, as in all the past</quote>, neither <!-- start here -->
+      this moment, as in all the past</quote>, neither 
       afraid nor ashamed, that <persName ref="#clarence_hervey_0001">Mr. Hervey's</persName> devotions
       to her should be paid in public.
       With much address she had satisfied herself 
@@ -4932,7 +4932,7 @@
           Ways and Means.</head> 
         <p><hi rend="smallcaps">When</hi> <persName ref="#t_delacour_0001">lady Delacour</persName> repeated to <persName ref="#t_delacour_0001">miss
         Portman</persName> the message about <quote rend="quotes">simplicity 
-        of mind, and dignity of character,</quote> she
+        of mind, and dignity of character</quote>, she
         frankly said—            
         </p>        
       <p><said><persName ref="#belinda_portman_0001">Belinda</persName>, nonwithstanding all this,
@@ -4948,14 +4948,14 @@
         between <persName ref="#clarence_hervey_0001">Clarence Hervey</persName> and her ladyship,
         which she, in her great discretion, did not
         immediately repeat to <persName ref="#belinda_portman_0001">miss Portman</persName>—that
-        part which related to the <ecda:fauna>horses</ecda:fauna>.—In this
+        part which related to the <ecda:fauna ana="#commodity">horses</ecda:fauna>.—In this
         transaction <persName ref="#belinda_portman_0001">Belinda</persName> had no farther share,
         <pb/>
         <fw type="pageNum">156</fw>
         than having once, when her ladyship had
-        the handsome <ecda:fauna>horses</ecda:fauna> brought for her to
+        the handsome <ecda:fauna ana="#commodity">horses</ecda:fauna> brought for her to
         look at, assented to the opinion, that they
-        were the handsomest <ecda:fauna>horses</ecda:fauna> she ever beheld.
+        were the handsomest <ecda:fauna ana="#commodity">horses</ecda:fauna> she ever beheld.
         —<persName ref="#clarence_hervey_0001">Mr. Hervey</persName>, however gallantly he
         replied to her ladyship, was secretly
         vexed to find that <persName ref="#belinda_portman_0001">Belinda</persName> had so little
@@ -4966,7 +4966,7 @@
         former opinion of <persName ref="#selina_stanhope_0001">Mrs. Stanhope's</persName> niece.
         —A <choice><sic>relape</sic><corr>relapse</corr></choice> is always more dangerous
         than the first disease.—He sent home the
-        <ecda:fauna>horses</ecda:fauna> to <persName ref="#t_delacour_0001">lady Delacour</persName>, the next day, and
+        <ecda:fauna ana="#commodity">horses</ecda:fauna> to <persName ref="#t_delacour_0001">lady Delacour</persName>, the next day, and
         addressed <persName ref="#belinda_portman_0001">Belinda</persName>, when he met her, with
         the air of a man of gallantry, who
         thought that his peace had been cheaply
@@ -5019,7 +5019,7 @@
          most obstinate of human beings, <persName ref="#delacour_0002">lord Delacour</persName>,
          has reduced me to the most terrible
          situation—I have made <persName ref="#clarence_hervey_0001">Clarence Hervey</persName>
-         buy a pair of <ecda:fauna>horses</ecda:fauna>, and I 
+         buy a pair of <ecda:fauna ana="#commodity #sale">horses</ecda:fauna>, and I 
          cannot make my <persName ref="#delacour_0002">lord Delacour</persName> pay for
          them—but I forgot to tell you, that I took
          your name—not in vain indeed—in this
@@ -5028,7 +5028,7 @@
          would forgive him for all his sins, and
          nay, my dear, why do you look as if I had
          stabbed you to the heart—after all, I only 
-         drew upon your pretty mought for a few
+         drew upon your pretty mouth for a few
          smiles—Pray let me see whether it has actually
          forgotten <emph>how</emph> to smile.</said>    
      </p>
@@ -5102,7 +5102,7 @@
     to be pitied at this present moment than
     you are.—For the catastrophe of the business
     evidently is, that I must pay <measure  ana="#commodity #currency">two 
-    hundred guineas</measure> for the <ecda:fauna>horses</ecda:fauna> some how
+    hundred guineas</measure> for the <ecda:fauna ana="#sale #commodity">horses</ecda:fauna> some how
      or other.</said>
    <said>I can pay for them,</said> exclaimed <persName ref="#belinda_portman_0001">Belinda</persName>,
      <said>and will with the greatest pleasure.
@@ -5110,7 +5110,7 @@
          <pb/>
          <fw type="pageNum">161</fw>
      my <ecda:commodity ana="#textile">dress</ecda:commodity> is not bespoke.—Will <measure ana="#commodity #currency">two hundred
-     guineas</measure> pay for the <ecda:fauna>horses</ecda:fauna>?—O, take
+     guineas</measure> pay for the <ecda:fauna ana="#commodity #sale">horses</ecda:fauna>?—O, take
      the money—pay <persName ref="#clarence_hervey_0001">Mr. Hervey</persName>, dear <persName ref="#t_delacour_0001">lady
      Delacour</persName>, and it will all be right.</said>        
     </p>
@@ -5154,7 +5154,7 @@
        draught.—It is absolutely robbing you.—
        But <persName ref="#delacour_0002">lord Delacour's</persName> the person you must
        blame—it is all his obstinacy—having
-       once said he would not pay for the <ecda:fauna>horses</ecda:fauna>,
+       once said he would not pay for the <ecda:fauna ana="#commodity">horses</ecda:fauna>,
        he would see them and me and the whole
        human race expire, before he would change
        his silly mind.—Next month I shall have
@@ -5210,9 +5210,9 @@
                    <pb/>
                    <fw type="pageNum">164</fw>
                respect that is due to the opinions and advice
-               of the aunt, to whom you ow every
+               of the aunt, to whom you owe every
                thing; but you take upon yourself to
-               laving her money, without common honesty.
+               lavish her money, without common honesty.
                —I send you <measure ana="#commodity #currency">200 guineas</measure>, and
                desire you to go to court—you lend my
                <measure ana="#commodity #currency">200 guineas</measure> to <persName ref="#t_delacour_0001">lady Delacour</persName>, and inform
@@ -5224,7 +5224,7 @@
                satisfactory, truly!—And then to mend
                the matter, you tell me that you do not
                think, that in your situation in life it is necessary
-               thaty ou should go to court.—Your 
+               that you should go to court.—Your 
                opinions and mine, you add, differ in many 
                points. Then I must say that you are
                as ungrateful, as you are presumptuous—
@@ -5276,7 +5276,7 @@
                    entreat that his lordship will not <emph>commit</emph>
                    you with his lady, as she might be offended 
                    at your application to him. I understand
-                   from an intimate acquaintance of his, that
+                   from an <ecda:anonPers>intimate acquaintanc</ecda:anonPers>e of his, that
                    you are a great favourite of his lordship's,
                    and though an obstinate, he is a good-
                    natured man, and can have no fear of being 
@@ -5384,7 +5384,7 @@
           the <ecda:fauna ana="#commodity">horses</ecda:fauna>, and what could I do with the
           <ecda:fauna ana="#commodity">horses</ecda:fauna> without the <ecda:commodity>carriage</ecda:commodity> <persName ref="#clarence_hervey_0001">Clarence
           Hervey</persName>, I knew, could wait for his <ecda:commodity ana="#currency">money</ecda:commodity>
-          better than a poor devil of a coach-maker,
+          better than a poor devil of a <ecda:anonPers a-gender="male" a-occupation="coachmaker">coach-maker</ecda:anonPers>,
           so I paid the <ecda:anonPers a-gender="male" a-occupation="coachmaker">coach-maker</ecda:anonPers>, and a few
           months sooner or later can make no difference
           to <persName ref="#clarence_hervey_0001">Clarence</persName>, who rolls in <ecda:commodity ana="#currency">gold</ecda:commodity>, my
@@ -5404,7 +5404,7 @@
           </p>
           <p><said>Absolutely impossible, my dear.—I
           cannot take it from the <ecda:anonPers a-occupation="coachmaker" a-gender="male">coach-maker</ecda:anonPers>,—he
-          has sent home the <ecda:commodity>carriage</ecda:commodity>—the thing's
+          has sent home the <ecda:commodity ana="#sale">carriage</ecda:commodity>—the thing's
           done, and cannot be undone. But come,
           since I know nothing else will make you
           easy, I will take this mighty favour from
@@ -5432,7 +5432,7 @@
               <fw type="pageNum">171</fw>
           extent all the power she had over his heart,
           and he was upon the point of declaring
-          his attachment to her, when, <quote rend="quotes"><foreign rend="italic" xml:lang="fr">malheureusement</foreign></quote>, 
+          his attachment to her, when, <mcr rend="quotes"><foreign rend="italic" xml:lang="fr">malheureusement</foreign></mcr>, 
           <persName ref="#philip_baddely_0001">sir Philip Baddely</persName> and <persName ref="#rochfort_0001">Mr.
           Rochfort</persName> announced themselves by the
            noise they made on the staircase. These
@@ -5486,22 +5486,22 @@
           Hervey's</persName> judgment as far as eating was concerned,
          yet he would defy him as a connoisseur 
          in <ecda:food>wines</ecda:food>, and he offered to submit the
-         competition to any eminent wine-merchant
+         competition to any eminent <ecda:anonPers a-gender="male" a-occupation="wine_merchant"><ecda:food ana="#commodity">wine</ecda:food>-merchant</ecda:anonPers>
          in <placeName>London</placeName>, and to some common friend
          of acknowledged taste and experience.—
          <persName ref="#rochfort_0001">Mr. Rochfort</persName> was chosen as the common
          friend of acknolwedged taste and experience;
-         and a fashionable <ecda:anonPers a-occupation="wine_merchant" a-gender="male">wine-merchant</ecda:anonPers>
+         and a fashionable <ecda:anonPers a-occupation="wine_merchant" a-gender="male"><ecda:food ana="#commodity">wine</ecda:food>-merchant</ecda:anonPers>
          was pitched upon, to decide with him the
          merits of these candidates for bacchanalian
          fame. <persName ref="#philip_baddely_0001">Sir Philip</persName>, who was just going to
          furnish his cellars, was a person of importance
-         to the <ecda:anonPers a-gender="male" a-occupation="wine_merchant">wine-merchant</ecda:anonPers>, who produced
+         to the <ecda:anonPers a-gender="male" a-occupation="wine_merchant"><ecda:food ana="#commodity">wine</ecda:food>-merchant</ecda:anonPers>, who produced
           accordingly his choicest treasures. <persName ref="#philip_baddely_0001">Sir
           Philip</persName> and <persName ref="#clarence_hervey_0001">Clarence</persName> 
           with affected gravity; and they delivered
           their opinions of the positive and comparative 
-          merits of each. The <ecda:anonPers a-occupation="wine_merchant" a-gender="male">wine-merchant</ecda:anonPers>
+          merits of each. The <ecda:anonPers a-occupation="wine_merchant" a-gender="male"><ecda:food ana="#commodity">wine</ecda:food>-merchant</ecda:anonPers>
           evidently, as <persName ref="#clarence_hervey_0001">Mr. Hervey</persName> thought,
           leaned towards <persName ref="#philip_baddely_0001">sir Philip</persName>. <said>Upon my
               <pb/>
@@ -5509,7 +5509,7 @@
           word, <persName ref="#philip_baddely_0001">sir Philip</persName>, you are right—that
           <ecda:food>wine</ecda:food> is the best I have—you certainly
           have a most discriminating taste,</said> said the
-          complaisant <ecda:anonPers a-gender="male" a-occupation="wine_merchant">wine-merchant</ecda:anonPers>. <said>I'll tell
+          complaisant <ecda:anonPers a-gender="male" a-occupation="wine_merchant"><ecda:food ana="#commodity">wine</ecda:food>-merchant</ecda:anonPers>. <said>I'll tell
           you what,</said> cried <persName ref="#ph">sir Philip</persName>, <said>the thing
           is this—by G― now there's no possibility
           now—no possibility now by G― of
@@ -5544,7 +5544,7 @@
           <persName ref="#philip_baddely_0001">sir Philip</persName>, yawning pathetically.              
           </p>      
           <p><persName ref="#clarence_hervey_0001">Clarence</persName>, not being used to drink in a
-            morning, though all his companions were,
+            morning, though all his <ecda:persGroup a-gender="male">companions</ecda:persGroup> were,
             was much affected by the <ecda:food>wine</ecda:food>, and <persName ref="#rochfort_0001">Rochfort</persName>
             proposed that they should take a turn
             in the park to cool <persName ref="#clarence_hervey_0001">Hervey's</persName> head. To
@@ -5587,7 +5587,11 @@
          <ecda:persGroup a-gender="mixed">childen</ecda:persGroup>, yonder.</said> <said>Now, <emph>I</emph>,</said> said <persName ref="#philip_baddely_0001">sir
           Philip</persName>, <said>dashed fairly through them—
           kept the path, and won my bet.</said>              
-         </p>       
+         </p>    
+          <p><said>But,</said> said <persName ref="#clarence_hervey_0001">Hervey</persName>, <said>would you have
+          had me run over that <ecda:anonPers a-gender="male">little child</ecda:anonPers>, who was 
+          stooping down just in my way?</said>              
+          </p>  
          <p><said><emph>I</emph>, not I,</said> said <persName ref="#philip_baddely_0001">sir Philip</persName>, <said>but I would
          have you go through with your civility—
          If a man will be polite, he must pay for
@@ -5652,15 +5656,15 @@
           undress himself under the <ecda:flora>trees</ecda:flora>, and all
           the other <ecda:persGroup a-gender="male">young men</ecda:persGroup> stood laughing by
           the river side—<said>Who the devil are these 
-          two that seem to be making up to us,</said> said <persName ref="#philip_baddely_0001">sir Philip</persName>, looking at <ecda:persGroup a-gender="male">two gentlemen</ecda:persGroup>
+          two that seem to be making up to us,</said> said <persName ref="#philip_baddely_0001">sir Philip</persName>, looking at <ecda:persGroup ref="#dr_x_0001 #henry_percival_0001">two gentlemen</ecda:persGroup>
           who were coming towards them.—<said><persName ref="#st_george_0001">St.
           George</persName>, hey, you know every body.</said>
           —<said>The foremost is <persName ref="#henry_percival_0001">Percival</persName> of <placeName>Oakly
           Park</placeName>, I think, 'pon my honour,</said> replied
           <persName ref="#st_george_0001">Mr. St. George</persName>—and then he began to
-           settle how many thousands  a year <persName ref="#henry_percival_0001">Mr. 
+           settle how many <ecda:commodity ana="#currency">thousands</ecda:commodity> a year <persName ref="#henry_percival_0001">Mr. 
            Percival</persName> was worth; this point was not
-           decided, when the <ecda:persGroup a-gender="male">gentlemen</ecda:persGroup> came up to
+              decided, when the <ecda:persGroup ref="#dr_x_0001 #henry_percival_0001">gentlemen</ecda:persGroup> came up to
            the spot where <persName ref="#philip_baddely_0001">sir Philip</persName> was standing.
           </p>      
           <p>The <ecda:anonPers a-gender="male">child</ecda:anonPers> for whose sake <persName ref="#clarence_hervey_0001">Clarence
@@ -5712,7 +5716,7 @@
                 <persName ref="#clarence_hervey_0001">Clarence Hervey</persName> was absolutely senseless
                 —<said>Damn it, what shall we do with him
                 now,</said> said <persName ref="#philip_baddely_0001">sir Philip</persName>—<said>Damn it, we
-                must call some of the people from the
+                must call some of the <ecda:persGroup>people</ecda:persGroup> from the
                 boat-house, he's as heavy as lead—damn
                 me if I know what to do with him.</said>                
             </p>
@@ -5754,12 +5758,12 @@
           </p>  
            <p><said>Damn me if I don't flatter myself,
            though, one can make oneself famous
-           enough to all intens and purposes withouth
+           enough to all intents and purposes without
            having any thing to say to these author
            geinusses—You're a famous fellow, faith,
            to want to see youreslf in print—I'll publish
            this in <placeName>Bond-street</placeName>—damn it, in point
-           of famousness, I'd sport my Random
+           of famousness, I'd sport my Random <!-- what is a Random? does it need tagging? -->
            against all the books that were ever read
            or written, damn me—but what are we
            doing here?</said> <said><persName ref="#clarence_hervey_0001">Hervey's</persName> in good hands,</said>
@@ -5772,9 +5776,9 @@
            has such a famous mind to be in the
            doctor's books) to bring <persName ref="#clarence_hervey_0001">Clary</persName> after us,
            when he's ready for dinner and good company
-           agai, you know, h! ha! ha!</said>               
+           again, you know, h! ha! ha!</said>               
            </p> 
-          <p>Away the faithful friends went to the
+          <p>Away the faithful <ecda:persGroup a-gender="male">friends</ecda:persGroup> went to the
               important business of their day.              
           </p>
           <p>When <persName ref="#clarence_hervey_0001">Clarence Hervey</persName> came to his 
@@ -5795,16 +5799,16 @@
           of <ecda:food>red</ecda:food></quote>, as yet, my boy—you'll <emph>do</emph> as well <!-- quote source? -->
           as ever.—So I'll step and call a coach for
           you, <persName ref="#clarence_hervey_0001">Clary</persName>, and we shall be at dinner as 
-          sson as the best of 'em after all, by jingo.
+          soon as the best of 'em after all, by jingo.
               <pb/>
               <fw type="pageNum">183</fw>
-          —I leave you in good hands with the doctor
+          —I leave you in good hands with the <rs ref="#dr_x_0001" type="person">doctor</rs>
           here, that brought you to life, and the
-          gentleman that dragged you out of the
+          <rs type="person" ref="#henry_percival_0001">gentleman</rs> that dragged you out of the
           water.</said>—<said>Here's a note for you,</said> whispered
           <persName ref="#st_george_0001">Mr. St. George</persName>, as he leaned over
           <persName ref="#clarence_hervey_0001">Clarence Hervey</persName>—<said>Here's a note for you 
-          from <persName ref="#philip_baddely_0001">sir Philip</persName> and <persName ref="#rochfort">Rochfort</persName>—read it, do
+          from <persName ref="#philip_baddely_0001">sir Philip</persName> and <persName ref="#rochfort_0001">Rochfort</persName>—read it, do
           you mind, <emph>to yourself</emph>.</said>              
           </p>  
          <p><said>If I can,</said> said <persName ref="#clarence_hervey_0001">Clarence</persName>—<said>but <persName ref="#philip_baddely_0001">sir
@@ -5838,7 +5842,7 @@
               the moment that he had read it, and
               <pb/>
               <fw type="pageNum">184</fw>
-              turning towards the gentleman to whom
+              turning towards the <rs ref="#dr_x_0001" type="person">gentleman</rs> to whom
               it alluded, he began to express, in the
               strongest terms, his gratitude for their benevolence.
               —But he stopped short in the
@@ -5853,12 +5857,20 @@
             </p>
             <p><said>You are not acquainted with <persName ref="#henry_percival_0001">Mr. 
             Percival</persName>, I believe,</said> said <persName ref="#dr_x_0001">Dr. X―</persName>, <said>give
-            me leave, <persName ref="#henry_percival_0001">Mr. Percival</persName>, to
+            me leave, <persName ref="#henry_percival_0001">Mr. Percival</persName>, to introduce to
             you the young gentleman whose life you
-            have saved, and whose life—thoug, by
-            the company in which you found him,
+            have saved, and whose life—though, by
+            the <ecda:persGroup a-gender="male">company</ecda:persGroup> in which you found him,
             you might not think so—is worth saving.
             —This, sir, is no less a man than <persName ref="#clarence_hervey_0001">Mr.
+            Clarence Hervey</persName>—of whose universal genius
+            you have just had a specimen; for 
+            which he was crowned with <ecda:flora>sedges</ecda:flora>, as he
+            well deserved, by the god of the <placeName>Serpentine 
+            River</placeName>.—Do not be so unjust as to
+            imagine, that he has any of the presumption
+            which is sometimes the chief characteristic
+            of a man of universal genius.—<persName ref="#clarence_hervey_0001">Mr.
             Clarence Hervey</persName> is, without exception,
                 <pb/>
                 <fw type="pageNum">185</fw>
@@ -6053,7 +6065,7 @@
                   —Whether she was handsome by the 
                   rules of art, he knew not; but he felt that
                   she had the essential charm of beauty, the
-                  poewr of prepossessing the heart immediately
+                  power of prepossessing the heart immediately
                   in her favour. The effect of her 
                   manners, like that of her beauty, was rather
                   to be felt than described. Every
@@ -6165,7 +6177,7 @@
                    by the questions of the <ecda:persGroup a-gender="mixed">children</ecda:persGroup> from
                    <ecda:fauna>fishes</ecda:fauna> to <ecda:fauna>birds</ecda:fauna>; he spoke of the <rs type="properAdjective">Roman</rs>
                    aviaries, which were so constructed, as to
-                   eep from the sight of the prisoners that
+                   keep from the sight of the prisoners that
                    they contained, <quote rend="quotes" source="#berwick_birds">the fields, woods, and
                    every object which might remind them of
                    their former liberty</quote>. From <ecda:fauna>birds</ecda:fauna> he was
@@ -6227,7 +6239,7 @@
                 <p>At the name of <name>Delacour</name>, <persName ref="#clarence_hervey_0001">Clarence
                 Hervey</persName>, though his head was still half full
                 of the <ecda:fauna>mammoth</ecda:fauna>, looked round in astonishment,
-                and shen he saw the <ecda:food ana="#flora">cherries</ecda:food> 
+                and then he saw the <ecda:food ana="#flora">cherries</ecda:food> 
                placed before the <rs ref="#helena_delacour_0001">young lady</rs> he had before
                 observed, he could not help exclaiming,                    
                 </p>
@@ -6252,7 +6264,7 @@
                you let <persName ref="#helena_delacour_0001">Helena</persName> help you to some <ecda:food ana="#flora">cherries</ecda:food>?</said>                   
                </p>
              <p><said>Her <rs type="person" ref="#t_delacour_0001">ladyship's</rs> <emph>daughter</emph>!</said> exclaimed
-                 <persName ref="#clarence_hervey_0001">Clarence Hervey</persName> in a tone of surprise
+                 <persName ref="#clarence_hervey_0001">Clarence Hervey</persName> in a tone of surprise.
              </p>  
              <p><said>Some <ecda:food ana="#flora">cherries</ecda:food>, sir?</said> said <persName ref="#helena_delacour_0001">Helena</persName>,
                  but her voice faltered so much, that she
@@ -6282,7 +6294,7 @@
               <persName ref="#clarence_hervey_0001">Clarence</persName> bowed, as if he had received a
                high compliment—the <rs type="person" ref="#margaret_delacour_0001">old lady</rs> walked
                away to an antichamber, fanning herself
-               with great energy.                  
+               with great energy.          
               </p> 
               <p><said><persName ref="#margaret_delacour_0001">Mrs. Margaret Delacour</persName>,</said> said <persName ref="#anne_percival_0001">lady
               Anne</persName>, in a low voice to <persName ref="#clarence_hervey_0001">Hervey</persName>, <said>is an
@@ -6374,8 +6386,8 @@
                round of dissipation; who performs no 
                one duty; who exists only for herself;
                how does she show her sensibility?—Has
-               she sensibility for her husband—for her
-               daughter—for any one useful purpose 
+               she sensibility for her <rs type="person" ref="#delacour_0002">husband</rs>—for her
+               <rs type="person" ref="#helena_delacour_0001">daughter</rs>—for any one useful purpose 
                upon earth?—O, how I hate the cambrick
                    <pb/>
                    <fw type="pageNum">202</fw>
@@ -6608,7 +6620,7 @@
           out just as you might expect from a pupil 
           of <persName ref="#selina_stanhope_0001">Mrs. Stanhope's</persName>—the match-making
           <persName ref="#selina_stanhope_0001">Mrs. Stanhope</persName>—you know, sir.</said> (<persName ref="#clarence_hervey_0001">Clarence Hervey</persName> 
-          changed colour.)<said>She turned 
+          changed colour.) <said>She turned 
           out,</said> continued <persName ref="#margaret_delacour_0001">Mrs. Delacour</persName>, <said>Every
           thing that was bad—ruined her husband
           —ran away from him—and left him a 
@@ -6631,11 +6643,11 @@
           <ecda:persGroup a-gender="female" a-occupation="student">school girls</ecda:persGroup>—an <ecda:anonPers a-occupation="gardener" a-gender="male">old man</ecda:anonPers> begged from 
           them in a most moving voice; and as they
           passed, several of the <ecda:persGroup a-occupation="student" a-gender="female">young ladies</ecda:persGroup> threw
-          <ecda:commodity ana="#currency">halfpence</ecda:commodity> to him.—One little girl, who
+          <ecda:commodity ana="#currency #circulation">halfpence</ecda:commodity> to him.—One little girl, who
           observed that the <ecda:anonPers a-occupation="gardener" a-gender="male">old man</ecda:anonPers> could not stoop
           without great difficulty, staid behind the
           rest of her <ecda:persGroup a-gender="female" a-occupation="student">companions</ecda:persGroup>, and collected the
-          <ecda:commodity ana="#currency">halfpence</ecda:commodity> which they had thrown to the
+          <ecda:commodity ana="#currency #circulation">halfpence</ecda:commodity> which they had thrown to the
           <ecda:anonPers a-occupation="gardener" a-gender="male">old man</ecda:anonPers>, and put them into his had.—He
           began to tell his story over again to her,
           and she stayed so long listening to it, that
@@ -6703,7 +6715,7 @@
              his seat by <persName ref="#clarence_hervey_0001">Clarence Hervey</persName> at dinner—
              <said>Here are all the muses for you, <persName ref="ch">Mr.
              Hervey</persName>; which do you like best?—O,
-             that's the tragic muse thaty ou have
+             that's the tragic muse that you have
              chosen!—You don't like the tragic better
              than the comic muse, do you?</said>
          </p>      
@@ -6728,7 +6740,7 @@
          if I were a young man, I would not trust
          to the charming countenance of a young 
          lady, who is a pupil of <persName ref="#selina_stanhope_0001">Mrs. Stanhope's</persName>,
-         and a friends of—<persName ref="#helena_delacour_0001">Helena</persName>, my dear,
+         and a friend of—<persName ref="#helena_delacour_0001">Helena</persName>, my dear,
          shut the door—the most dissipated <rs ref="#t_delacour_0001" type="person">woman</rs> 
          in <placeName>London</placeName>.</said>             
          </p>      
@@ -6836,7 +6848,7 @@
       to balance these perfections.</said>
       </p>
     <p><said>A thousand faults! a charitable allowance,</said>
-      daid <persName ref="#clarence_hervey_0001">Clarence</persName>, smiling.  
+      said <persName ref="#clarence_hervey_0001">Clarence</persName>, smiling.  
     </p>            
     <p><said>There now,</said> said <persName ref="#dr_x_0001">Dr. X―</persName>
     <quote rend="quotes" source="#pope_satire">Touch him, and no minister's so sore.</quote>
@@ -6849,9 +6861,9 @@
     friend.
     </p>                 
     <p><said>I defy you to be so good, or so bad
-    as your word, docor,</said> said <persName ref="#clarence_hervey_0001">Hervey</persName>.—
-    <said>You have too much with to make a good
-    flatterer.</said>
+    as your word, doctor,</said> said <persName ref="#clarence_hervey_0001">Hervey</persName>.—
+    <said>You have too much wit to make a good
+    flatterer.</said> 
     </p>            
    <p><said>And perhaps you think too much to
    make a good friend,</said> said <persName ref="#dr_x_0001">Dr. X―</persName>.       
@@ -6880,7 +6892,7 @@
       </p>
       <p><said>Yes, but do not be prejudiced against
       her on that account,</said> said <persName ref="#clarence_hervey_0001">Clarence</persName>, eagerly,
-      <said>thought I was at first myself.</said>          
+      <said>though I was at first myself.</said>   <!-- start here -->       
       </p>
        <p><said>Then you will excuse my following
        your example instead of your precepts.</said>           
