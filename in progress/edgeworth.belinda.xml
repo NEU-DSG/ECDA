@@ -6892,7 +6892,7 @@
       </p>
       <p><said>Yes, but do not be prejudiced against
       her on that account,</said> said <persName ref="#clarence_hervey_0001">Clarence</persName>, eagerly,
-      <said>though I was at first myself.</said>   <!-- start here -->       
+      <said>though I was at first myself.</said>      
       </p>
        <p><said>Then you will excuse my following
        your example instead of your precepts.</said>           
@@ -6931,7 +6931,7 @@
          visit was over, <said>what is your opinion of
          <persName ref="#t_delacour_0001">lady Delacour</persName>.</said>            
         </p>
-        <p><said>I am <quote rend="quotes">blasted with excess of light</quote>,</said>
+        <p><said>I am <quote rend="quotes" source="#gray_progress">blasted with excess of light</quote>,</said>
            said the <rs ref="#dr_x_0001" type="person">doctor</rs>.
         </p>
         <p><said><rs type="person" ref="#t_delacour_0001">Her ladyship</rs> is certainly very brilliant,</said>
@@ -6958,8 +6958,8 @@
         <p><said>A very poetical hope,</said> said <persName ref="#dr_x_0001">Dr.
         X―</persName>; <said>but in judging of the human
         character, we must not entirely trust to
-        analogies and allusions taken from the vegetable
-        creation.</said>            
+        analogies and allusions taken from the <ecda:flora>vegetable
+        creation</ecda:flora>.</said>            
         </p>
         <p><said>What!</said> cried <persName ref="#clarence_hervey_0001">Clarence Hervey</persName>, looking
             eagerly in the <rs ref="#dr_x_0001" type="person">doctor's</rs> eyes—<said>What
@@ -7048,8 +7048,8 @@
             ground, which the slow don would have
             taken some hours to go regularly over,
             our hero traversed in a few minutes.—
-            From <persName ref="#richard_twiss_1747">Twiss</persName> to <persName ref="#marco_vida_1485">Vida</persName>, from <persName>Irwin</persName> to <persName ref="#william_jones_1747">sir
-            William Jones</persName>, from <placeName>Spain</placeName> to <placeName>India</placeName>, he <!-- who is Irwin? -->
+            From <persName ref="#richard_twiss_1747">Twiss</persName> to <persName ref="#marco_vida_1485">Vida</persName>, from <persName ref="#eyles_irwin_1751">Irwin</persName> to <persName ref="#william_jones_1746">sir
+            William Jones</persName>, from <placeName>Spain</placeName> to <placeName>India</placeName>, he 
             passed with admirable celerity, and seized
             all that could adorn his course from <rs type="properAdjective">Indian</rs> 
             Antiquities or <rs type="properAdjective">Asiatic</rs> Researches.            
@@ -7065,14 +7065,14 @@
             <title ref="#vida_sacchia">Sacchia</title>, asked him if he were as perfect
             in the practice as in the theory of the game
             of chess. <persName ref="#clarence_hervey_0001">Clarence</persName> was too proud of excelling
-            in every thing to decline the <name>Spaniard's</name> 
+            in every thing to decline the <ecda:anonPers a-gender="male" a-aig="spanish"><name>Spaniard's</name></ecda:anonPers>
             challenge.—They sat down to chess.
             <pb/>
             <fw type="pageNum">223</fw>
             —<persName ref="#t_delacour_0001">Lady Delacour</persName>, as they ranged the
             pieces on the board, cried—
         </p>
-        <p><said>Whoever winse shall be my knight;
+        <p><said>Whoever wins shall be my knight;
         and a <ecda:commodity ana="#circulation">silver chess-man</ecda:commodity> shall be his prize.
             —Was it not <persName ref="#elizabeth_i_england_1533">queen Elizabeth</persName>, who gave a
             <ecda:commodity ana="#circulation">silver chess-man</ecda:commodity> to <rs ref="#walter_raleigh_1554" type="person">one of her courtiers</rs> as
@@ -7091,7 +7091,7 @@
          were silent.—<persName ref="#clarence_hervey_0001">Clarence</persName> made an error in
          his first move, for his attention was distracted
          by seeing <persName ref="#belinda_portman_0001">Belinda</persName> behind his adversary's
-         chair. The <name>Spaniard</name> was deceived
+         chair. The <ecda:anonPers a-aig="spanish" a-gender="male"><name>Spaniard</name></ecda:anonPers> was deceived
          by this mistake into a contemptuous
          opinion of his opponent—<persName ref="#belinda_portman_0001">Belinda</persName> 
          changed her place—<persName ref="#clarence_hervey_0001">Clarence</persName> recovered
@@ -7114,7 +7114,7 @@
         </p>
         <p><persName ref="#clarence_hervey_0001">Clarence Hervey</persName>, throwing himself at
             her feet, addressed her in that high flown
-            style, whic her <rs type="person">majesty</rs> was <sic>want</sic> to hear
+            style, whic her <rs type="person" ref="#elizabeth_i_england_1533">majesty</rs> was <sic>want</sic> to hear
             from the gallant <persName ref="#walter_raleigh_1554">Raleigh</persName>, or the accomplished
             <persName ref="#robert_devereux_1565">Essex</persName>.            
         </p>
@@ -7128,11 +7128,11 @@
             and seemed so fully possessed by their 
             parts, as to be insensible to the comments
             that were made on the scene. <persName ref="#clarence_hervey_0001">Clarence
-            hervey</persName> was first recalled to himself by
+            Hervey</persName> was first recalled to himself by
             the deep blush which he saw on <persName ref="#belinda_portman_0001">Belinda's</persName>
             cheek, when <rs type="person" ref="#t_delacour_0001"><persName ref="#elizabeth_i_england_1533">queen Elizabeth</persName></rs> addressed
             her as one of her maids of honour, of 
-            whom she affected to be jealous.—
+            whom she affected to be jealous.—He was
             <pb/>
             <fw type="pageNum">225</fw>
             conscious that he had been hurried by the
@@ -7145,7 +7145,7 @@
             as the <rs type="properAdjective">Spanish</rs> ambassador.
         </p>
         <p><said>Your excellency sees,</said> said he, <said>how
-        this great queen turns the head of her
+        this great <rs ref="#t_delacour_0001" type="person">queen</rs> turns the head of her
         faithful subjects, and afterwards has the art
         of paying them with nothing but words.
         —Has the new world afforded you any
@@ -7174,7 +7174,7 @@
         <p><said>Every body! they incline me more 
         to melancholy than mirth,</said> said <persName ref="#dr_x_0001">Dr.
         X―</persName>. <said>These high spirts do not seem
-        quite natural. The vivacity and youth and
+        quite natural. The vivacity of youth and
         of health, <persName ref="#belinda_portman_0001">miss Portman</persName>, always charms 
         me; but this gayety of <persName ref="#t_delacour_0001">lady Delacour's</persName>
         does not appear to me that of a sound
@@ -7238,7 +7238,7 @@
           talents and acquirements, a man who
           might be any thing, should—pardon the
           expression—choose to be—nothing—
-          should was upon petty objects powers
+          should waste upon petty objects powers
           suited to the greatest—should lend his
           soul to every contest for frivilous superiority,
           when the same energy concentrated,
@@ -7252,7 +7252,7 @@
           content himself with being the evanescent
           amusement of a drawing room?—Shall
           one, who might be great in public, or happy
-          in private life, wast in this deplorable
+          in private life, waste in this deplorable
           manner the best years of his existence—
           time that can never be recalled?</said>‒
           <said>This is declamation!</said>—<said>No: it is
@@ -7287,7 +7287,7 @@
          light—she was proud of her own judgment,
          in having discerned his merit, and
          for a moment she permitted hself to feel
-         <quote rend="quotes">unreproved pleasure in his company.</quote> <!-- quote source? Milton? -->
+         <quote rend="quotes" source="#milton_l_allegro">unreproved pleasure in his company.</quote> 
        </p>
        <p>The next morning, <persName ref="#philip_baddely_0001">sir Philip Baddely</persName>
            and <persName ref="#rochfort_0001">Mr. Rochfort</persName> called at <persName ref="#t_delacour_0001">lady Delacour's</persName>
@@ -7333,13 +7333,13 @@
         the best of all possible reaspons, because it
         entirely agrees with my own.</said>            
         </p>
-        <p><said>Very extraordinary, faith,</said> said <persName ref="#philip_baddely_0001">sor
+        <p><said>Very extraordinary, faith,</said> said <persName ref="#philip_baddely_0001">sir
         Philip</persName>.            
         </p>
         <p><said>And what the devil can you find to
         like in him, <persName ref="#clarence_hervey_0001">Clary</persName>?</said> continued <persName ref="#rochfort_0001">Mr. Rochfort</persName>,
         <said>for one wouldn't be so rude to put
-        that question to a lady.—Ladies, you 
+        that question to a <rs type="person" ref="#belinda_portman_0001">lady</rs>.—Ladies, you 
         know, are never to be questioned about
         their likings and dislikings.—Some have
         pet <ecda:fauna>dogs</ecda:fauna>, some have pet <ecda:fauna>cats</ecda:fauna>; then why
@@ -7358,7 +7358,7 @@
           observed, that she could have no objection
           to give her reasons for preferring <persName ref="#dr_x_0001">Dr.
           X―'s</persName> company, but for fear they might
-          offence to <persName ref="#philip_baddely_0001">sir Philip</persName> and his <ecda:persGroup a-gender="male">friends</ecda:persGroup>.
+          give offence to <persName ref="#philip_baddely_0001">sir Philip</persName> and his <ecda:persGroup a-gender="male">friends</ecda:persGroup>.
             <pb/>
             <fw type="pageNum">232</fw>
          She then defended the doctor with so much
@@ -7468,7 +7468,7 @@
             a great impression upon his benevolent imagination.
             —<said>Why too late?</said> said he to
             himself—<said><persName ref="#margaret_delacour_0001">Mrs. Margaret Delacour</persName> is mistaken,
-            if she thinks this woman wants
+            if she thinks this <rs ref="#t_delacour_0001" type="person">woman</rs> wants
             sensibility.</said>            
         </p>
         <p><said>What have you there, <persName ref="#belinda_portman_0001">miss Portman</persName>?</said>
@@ -7501,7 +7501,7 @@
         ladyship, as she read the letter—<said>where
         did the little gipsy learn to write so charmingly?
         —I protest I should like of all
-        things to have hear at home with me this
+        things to have her at home with me this
         summer—the <date when="--06-21">21st of June</date>—well, after
         the birthday, I shall have time to think
         about it.—But then, we shall be going
@@ -7607,7 +7607,7 @@
         laughing.
         </p>
         <p><said>Why will you delight in making
-        yourself appear leass good than you are,
+        yourself appear less good than you are,
         my dear <persName ref="#t_delacour_0001">lady Delacour</persName>;</said> said <persName ref="#belinda_portman_0001">Belinda</persName>,
         taking her hand.            
         </p>
@@ -7715,7 +7715,7 @@
         <p><said>Her affectionate disposition can be
         nothing to me,</said> said <persName ref="#t_delacour_0001">lady Delacour</persName>.            
         </p>
-        <p><persName ref="#belinda_portman_0001">Belinda</persName> fet a hot tear drop upon her
+        <p><persName ref="#belinda_portman_0001">Belinda</persName> felt a hot tear drop upon her
             hand, which lay upon <persName ref="#t_delacour_0001">lady Delacour's</persName> lap.            
         </p>
         <p><said>Can you wonder,</said> continued her ladyship,
@@ -7771,7 +7771,7 @@
             <persName ref="#t_delacour_0001">lady Delacour</persName> was sinking into the grave,
             had formed a design worthy of his ardent
             and benevolent character.—The manner
-            in which her ladysip had spoken of his
+            in which her ladyship had spoken of his
             friend <persName ref="#dr_x_0001">Dr. X―</persName>, the sigh which she
             gave at the reflection, that she might have 
             been a very different character, if she had
@@ -7796,7 +7796,7 @@
             young man: capable of making
             the greatest sacrifices, when encouraged
             by the hope of doing good, he determined
-            to postpone the declration of his attachment
+            to postpone the declaration of his attachment
             to <persName ref="#belinda_portman_0001">Belinda</persName>, that he might devote
             himself entirely to his new project. His
             plan was to wean <persName ref="#t_delacour_0001">lady Delacour</persName>, by degrees,
@@ -7841,8 +7841,8 @@
         of meeting. But, take my word
         for it, nothing can be done till after the
         birthday; for <persName ref="#t_delacour_0001">lady Delacour's</persName> head is at 
-        present full of crape petticoats, and <ecda:fauna>horses</ecda:fauna>, 
-        and carriages, and a certain <persName ref="#luttridge_0001">Mrs. Luttridge</persName>,
+        present full of <ecda:commodity ana="#textile">crape petticoats</ecda:commodity>, and <ecda:fauna ana="#commodity">horses</ecda:fauna>, 
+        and <ecda:commodity>carriages</ecda:commodity>, and a certain <persName ref="#luttridge_0001">Mrs. Luttridge</persName>,
         whom she hates with a hatred passing 
         that of women.</said>            
         </p>
@@ -7873,7 +7873,7 @@
        </p>
         <pb/>
         <fw type="pageNum">248</fw>
-        <p>Now, it had been said by <ecda:anonPers a-gender="male" a-occupation="coachmaker">coachmaker</ecda:anonPers>
+        <p>Now, it had been said by the <ecda:anonPers a-gender="male" a-occupation="coachmaker">coachmaker</ecda:anonPers>
           that <persName ref="#luttridge_0001">Mrs. Luttridge</persName> would sport a
           most elegant new <ecda:commodity>vis-à-vis</ecda:commodity>, on the <rs type="person" ref="george_III_england_1738">king's</rs>
           birth-day. <persName ref="#t_delacour_0001">Lady Delacour</persName> was immediately
@@ -7919,11 +7919,11 @@
         now, to what they would have been in the
         same circumstances six months ago!—I
         should then have thought the loss of a
-        birthnight ball a might trial of temper.—
+        birthnight ball a mighty trial of temper.—
         It is singular, that my having spent a
         winter with one of the most dissipated
         <choice><sic>woman</sic><corr>women</corr></choice> in <placeName>England</placeName> should have sobered
-        my mind so completely. I f I had never
+        my mind so completely. If I had never
         seen the utmost extent of the pleasures
         of the world, as they are called, my imagination
         might have misled me to the end
@@ -7953,7 +7953,7 @@
         </p>
         <p><said>What is the matter?</said> said <persName ref="#belinda_portman_0001">Belinda</persName>.</p>
         <p><said>The <ecda:fauna>horses</ecda:fauna>—the young <ecda:fauna>horses</ecda:fauna>!—O
-        I wish my lady had never seen them.—O
+        I wish <rs type="person" ref="#t_delacour_0001">my lady</rs> had never seen them.—O
         my lady, my poor lady, what will become
         of her?</said>            
         </p>
@@ -7991,7 +7991,7 @@
         a scream, not a single scream; so it's their
         opinion she was no ways hurt—But that I 
         know can't be—And indeed, they are
-        thinking so much about the carriage, that
+        thinking so much about the <ecda:commodity>carriage</ecda:commodity>, that
         they can't give any one rational <choice><sic>accout</sic><corr>account</corr></choice> of
         any thing—and as for myself, I'm sure I'm
         in such a flutter.—Lord knows, I advised 
@@ -8021,7 +8021,7 @@
         quite safely—trust to me,</said> said <persName ref="#belinda_portman_0001">Belinda</persName>,
         in a firm tone, <said>and do not struggle.</said>
         </p>
-        <p><persName ref="#t_delacour_0001">Lady Delacour</persName> submitted—she was in
+        <p ana="#injury"><persName ref="#t_delacour_0001">Lady Delacour</persName> submitted—she was in
          agonizing pain; but her fortitude was so
          great that she never uttered a groan. It
          was the constraint which she had put upon
@@ -8082,7 +8082,7 @@
          my lord here too!</said>         
         </p>
         <p><said>Have you any <ecda:commodity ana="#medical">arquebusade</ecda:commodity>, <persName ref="#marriott_0001">Marriott</persName>?
-        <ecda:commodity ana="#medical">Arquebusade</ecda:commodity>, for your lady directly!</said>
+        <ecda:commodity ana="#medical">Arquebusade</ecda:commodity>, for <rs ref="#t_delacour_0001" type="person">your lady</rs> directly!</said>
         cried his <rs type="person" ref="#delacour_0002">lordship</rs>, following her to the
         door of the boudoir, where she was going
         for some drops.
@@ -8111,7 +8111,7 @@
         me then,</said> cried <persName ref="#delacour_0002">lord Delacour</persName>, <said>is not a
         lover of <persName ref="#t_delacour_0001">lady Delacour's</persName> concealed there?</said>
         <said>No!—No!—No!</said> answered <persName ref="#belinda_portman_0001">Belinda</persName>.
-        <said>THen a lover of <persName ref="#belinda_portman_0001">miss Portman's</persName></said> said
+        <said>Then a lover of <persName ref="#belinda_portman_0001">miss Portman's</persName></said> said
         <persName ref="#delacour_0002">lord Delacour</persName>—<said>Gad! we have hit it now,
         I believe.</said>            
         </p>
@@ -8148,7 +8148,7 @@
          of all this finery—if you could put me to
          bed I could sleep perhaps.</said>
         </p>
-        <p>Whilst <persName ref="#belinda_portman_0001">Belinda</persName> was undressing <persName ref="#t_delacour_0001">lady
+        <p ana="#injury">Whilst <persName ref="#belinda_portman_0001">Belinda</persName> was undressing <persName ref="#t_delacour_0001">lady
         Delacour</persName>, she shrieked several times; but
         between every interval of pain she repeated,
         <said>I shall be better to-morrow.</said> As
@@ -8159,7 +8159,7 @@
         that she could not endure the shooting
         pains that she felt in her breast.            
         </p>
-        <p><said>Leave me alone with your lady, <persName ref="#marriott_0001">Marriott</persName>,</said>
+        <p><said>Leave me alone with <rs type="person" ref="#t_delacour_0001">your lady</rs>, <persName ref="#marriott_0001">Marriott</persName>,</said>
          said <persName ref="#belinda_portman_0001">Miss Portman</persName>, taking the bot-
             <pb/>
             <fw type="pageNum">257</fw>
@@ -8170,14 +8170,14 @@
         <p>As she spoke, she took <persName ref="#marriott_0001">Marriott</persName> into
         the adjoinding dressing-room.—<said>O dear
         <persName ref="#belinda_portman_0001">miss Portman</persName>,</said> said <persName ref="#marriott">Marriott</persName>, who was
-        sincerely attached to her lady, and who at
+        sincerely attached to <rs ref="#t_delacour_0001" type="person">her lady</rs>, and who at
         this instant forgot all her jealousies, and all
         her love of power—<said>I'll do any thing you
         ask me—but pray let me stay in the room,
         though I know I'm quite helpless.—It will
         be too much for you to be here all night
         by yourself.—The convulsions may take
-        my lad.—What shrieks she gives every
+        my lady.—What shrieks she gives every
         now and then!—and nobody knows what's
         the matter but ourselves; and every body
         in the house is asking me why a surgeon
@@ -8208,7 +8208,7 @@
          promise—you <emph>cannot</emph> betray me—you <emph>will</emph>
          not betray me.</said>   
         </p>
-       <p><said>No,</said> said <persName ref="#belinda_portman_0001">Belinda</persName>, <said>of that I have
+       <p ana="#injury #medical"><said>No,</said> said <persName ref="#belinda_portman_0001">Belinda</persName>, <said>of that I have
        given sufficient proof—but you will betray 
        yourself—it is already known by your
        <ecda:persGroup a-occupation="servant">servants</ecda:persGroup> that you have been hurt by the
@@ -8228,7 +8228,7 @@
        perhaps I may lose my presence of mind,
            <pb/>
            <fw type="pageNum">259</fw>
-       I cannot answer for myself—your husband
+       I cannot answer for myself—<rs type="person" ref="#delacour_0002">your husband</rs>
        may desire to see you.</said>           
        </p>
       <p><said>No danger of that,</said> said <persName ref="#t_delacour_0001">lady Delacour</persName>,
@@ -8313,7 +8313,7 @@
      </p>
      <p>About four o'clock the doctor arrived,
      and <persName ref="#belinda_portman_0001">miss Portman</persName> was relieved from some
-     of her anxiety. He assured her taht there
+     of her anxiety. He assured her that there
      was no immediate danger, and he promised
      that the secret which she had entrusted
      to him should be faithfully kept.—
@@ -8337,7 +8337,7 @@
      that I could not extricate her ladyship
      without exposing myself to—to suspicion.</said>
      </p>
-     <p><persName ref="#belinda_portman_0001">Miss Portman</persName> then related all taht
+     <p><persName ref="#belinda_portman_0001">Miss Portman</persName> then related all that
      had passed about the mysterious door,
      which <persName ref="#delacour_0002">lord Delacour</persName>, in his fit of drunken
      jealousy, had insisted upon breaking open.
@@ -8373,7 +8373,7 @@
      give positive proofs of my speaking truth;
      the key of that room now lies on <persName ref="#t_delacour_0001">lady
      Delacour's</persName> bed—it was that which she
-     grasped in her hand during her delirioum—
+     grasped in her hand during her delirium—
      she has now let it fall—It opens both the 
      doors of the boudoir—you shall see,</said>
      added <persName ref="#belinda_portman_0001">miss Portman</persName> witha a smile, <said>that
@@ -8423,11 +8423,9 @@
       It was a terrible accident.</said>  
     </p>
     <p><said>She has been much hurt,</said> said <persName ref="#dr_x_0001">Dr.
-    X―</persName>, <said>and she has been fore some
+    X―</persName>, <said>and she has been for some
     hours delirious—but ask me no more
-    questions now, for I am asleep and must
-    go to bed—but ask me no more
-    questions now, for I am asleep and must
+    questions now, for I am asleep and must  
     go to bed—unless you have any thing to
         <pb/>
         <fw type="pageNum">265</fw>
@@ -8497,93 +8495,93 @@
    </p>
         <pb/>
         <fw type="pageNum">267</fw>
-   <p><said>The happiest of men!—No, no; keep
-   that superlative exclamation for a future
-   occasion.—But now you behave like a
-   reasonable creature, you deserve to hear
-   the praises of your <persName ref="#belinda_portman_0001">Belinda</persName>—I am so much
-   charmed with her, that I wish—</said>       
-   </p>
-   <p><said>When can I see her,</said> interrupted
-     <persName ref="#clarence_hervey_0001">Hervey</persName>, <said>I'll go to her this instant.</said>       
-   </p>
-   <p><said>Gently,</said> said <persName ref="#dr_x_0001">Dr. X―</persName>, <said>you forget
-   what time of the day it is—you forget
-   that <persName ref="#belinda_portman_0001">miss Portman</persName> has been up all
-   night—that <persName ref="#t_delacour_0001">lady Delacour</persName> is extremely ill
-   —and that this would be the most unseasonable opportunity you could <choice><sic>possible</sic><corr>possibly</corr></choice>
-   choose for your visit.</said>       
-   </p>
-  <p>To this observation <persName ref="#clarence_hervey_0001">Clarence Hervey</persName>
-    assented; but he immediately seized a pen
-    from the <rs ref="#dr_x_0001" type="person">doctor's</rs> writing-table, and began
-    a letter to <persName ref="#belinda_portman_0001">Belinda</persName>.—The doctor threw
-    himself upon his sofa, saying—<said>Waken
-    me when you want me</said>—and in a few
-    minutes he was fast asleep.
-  </p> 
-  <p><said>Doctor, upon second thoughts,</said> said
-   <persName ref="#clarence_hervey_0001">Clarence</persName>, rising suddenly, and tearing his
-   letter down the middle, <said>I cannot write
-   to her yet—I forgot the reformation of
-   <persName ref="#t_delacour_0001">Lady Delacour</persName>—how soon do you think
-       <pb/>
-       <fw type="pageNum">268</fw>
-   she will be well?—Besides, I have another
-   reason for not writing to <persName ref="#belinda_portman_0001">Belinda</persName> at
-   present—you must know, my dear doctor,
-   that I have, or had, another mistress.</said>      
-  </p>
-  <p><said>Another mistress indeed!</said> cried <persName ref="#dr_x_0001">Dr
-  X―</persName>, trying to waken himself.      
-  </p>
-  <p><said>Good God! I do believe you've been
-  asleep.</said>
-  </p>
-  <p><said>I do believe I have.</said>      
-  </p>
-  <p><said>But is it possible that you could fall
-  sound asleep in that time?</said>      
-  </p>
-  <p><said>Very possible,</said> said the doctor,
-  <said>what is there so extraordinary in a man's
-  falling asleep!—men are apt to sleep some
-  time within the four and twenty hours—
-  unless they have half a dozen mistresses to
-  keep them awak, as you seem to have,
-  my good friend.</said>      
-  </p>
-  <p>A servant now came into the room with
-    a letter, that had just arrived express from
-    the country for <persName ref="#dr_x_0001">Dr. X―</persName>.<choice><sic>”</sic><corr/></choice>      
-  </p>
-  <p><said>This is another affair,</said> cried he, rousing
-      hisemf.      
-  </p>
-  <p>The letter required the doctor's immediate
-    attendance. He shook hands with
-    <persName ref="#clarence_hervey_0001">Clarence Hervey</persName>—      
-  </p>
- <p><said>My dear friend, I am really concerned
-     <pb/>
-     <fw type="pageNum">269</fw>
- that I cannot stay to hear the history of
- your six mistresses; but you see that this
- is an affair of life and death.</said>     
- </p>
- <p><said>Farewell,</said> said <persName ref="#clarence_hervey_0001">Clarence</persName>, <said>I have
- not six, I have only three goddesses; even
- if you could <persName ref="#t_delacour_0001">lady Delacour</persName> for one.—But
- I really wanted your advice in good 
- earnest.</said>     
- </p>
- <p><said>If your case be desperate, you can
- write, cannot you?—Direct to me at
- <placeName>Horton hall</placeName>, <placeName>Cambridge</placeName>.—In the mean
- time, as far as general rules go, I can give
- you my advice gratis, in the formula of an
- old <rs type="properAdjective">Scotch</rs> song—
- <quote>
+       <p><said>The happiest of men!—No, no; keep
+       that superlative exclamation for a future
+       occasion.—But now you behave like a
+       reasonable creature, you deserve to hear
+       the praises of your <persName ref="#belinda_portman_0001">Belinda</persName>—I am so much
+       charmed with her, that I wish—</said>       
+       </p>
+       <p><said>When can I see her,</said> interrupted
+         <persName ref="#clarence_hervey_0001">Hervey</persName>, <said>I'll go to her this instant.</said>       
+       </p>
+       <p><said>Gently,</said> said <persName ref="#dr_x_0001">Dr. X―</persName>, <said>you forget
+       what time of the day it is—you forget
+       that <persName ref="#belinda_portman_0001">miss Portman</persName> has been up all
+       night—that <persName ref="#t_delacour_0001">lady Delacour</persName> is extremely ill
+       —and that this would be the most unseasonable opportunity you could <choice><sic>possible</sic><corr>possibly</corr></choice>
+       choose for your visit.</said>       
+       </p>
+      <p>To this observation <persName ref="#clarence_hervey_0001">Clarence Hervey</persName>
+        assented; but he immediately seized a pen
+        from the <rs ref="#dr_x_0001" type="person">doctor's</rs> writing-table, and began
+        a letter to <persName ref="#belinda_portman_0001">Belinda</persName>.—The doctor threw
+        himself upon his sofa, saying—<said>Waken
+        me when you want me</said>—and in a few
+        minutes he was fast asleep.
+      </p> 
+      <p><said>Doctor, upon second thoughts,</said> said
+       <persName ref="#clarence_hervey_0001">Clarence</persName>, rising suddenly, and tearing his
+       letter down the middle, <said>I cannot write
+       to her yet—I forgot the reformation of
+       <persName ref="#t_delacour_0001">Lady Delacour</persName>—how soon do you think
+           <pb/>
+           <fw type="pageNum">268</fw>
+       she will be well?—Besides, I have another
+       reason for not writing to <persName ref="#belinda_portman_0001">Belinda</persName> at
+       present—you must know, my dear doctor,
+       that I have, or had, another mistress.</said>      
+      </p>
+      <p><said>Another mistress indeed!</said> cried <persName ref="#dr_x_0001">Dr
+      X―</persName>, trying to waken himself.      
+      </p>
+      <p><said>Good God! I do believe you've been
+      asleep.</said>
+      </p>
+      <p><said>I do believe I have.</said>      
+      </p>
+      <p><said>But is it possible that you could fall
+      sound asleep in that time?</said>      
+      </p>
+      <p><said>Very possible,</said> said the doctor,
+      <said>what is there so extraordinary in a man's
+      falling asleep!—men are apt to sleep some
+      time within the four and twenty hours—
+      unless they have half a dozen mistresses to
+      keep them awak, as you seem to have,
+      my good friend.</said>      
+      </p>
+      <p>A servant now came into the room with
+        a letter, that had just arrived express from
+        the country for <persName ref="#dr_x_0001">Dr. X―</persName>.<choice><sic>”</sic><corr/></choice>      
+      </p>
+      <p><said>This is another affair,</said> cried he, rousing
+          hisemf.      
+      </p>
+      <p>The letter required the doctor's immediate
+        attendance. He shook hands with
+        <persName ref="#clarence_hervey_0001">Clarence Hervey</persName>—      
+      </p>
+     <p><said>My dear friend, I am really concerned
+         <pb/>
+         <fw type="pageNum">269</fw>
+     that I cannot stay to hear the history of
+     your six mistresses; but you see that this
+     is an affair of life and death.</said>     
+     </p>
+     <p><said>Farewell,</said> said <persName ref="#clarence_hervey_0001">Clarence</persName>, <said>I have
+     not six, I have only three goddesses; even
+     if you could <persName ref="#t_delacour_0001">lady Delacour</persName> for one.—But
+     I really wanted your advice in good 
+     earnest.</said>     
+     </p>
+     <p><said>If your case be desperate, you can
+     write, cannot you?—Direct to me at
+     <placeName>Horton hall</placeName>, <placeName>Cambridge</placeName>.—In the mean
+     time, as far as general rules go, I can give
+     you my advice gratis, in the formula of an
+     old <rs type="properAdjective">Scotch</rs> song—
+     <quote>
      <lg>
          <l rend="prequotes">'Tis good to be merry and wise,</l>
          <l>'Tis good to be honest and true,</l>
@@ -8610,7 +8608,7 @@
       who had just been seized with 
       a violent fever, in consequence of his exertions 
       in saving the poor inhabitants of a
-      village in his neighbourhood from the effecs 
+      village in his neighbourhood from the effects 
       of a dreadful fire, which broke out in
       the middle of the night.
      </p>
@@ -8634,7 +8632,7 @@
      of so much magnanimity should have
      wasted her life on petty objects.</said>         
      </p>    
-     <p><said>Her life is not yet at an end—O, ir,
+     <p><said>Her life is not yet at an end—O, sir,
      if you <emph>could</emph> save her!</said> cried <persName ref="#belinda_portman_0001">Belinda</persName>         
      </p> 
      <p><persName ref="#dr_x_0001">Dr X―</persName> shook his head—but returning
@@ -8647,15 +8645,16 @@
      gone, shut herself up in her own room
      to read the paper which he had given to
      her. <persName ref="#dr_x_0001">Dr X―</persName> first stated that he was
-     by no means certain, that <persName ref="#dr_x_0001">lady Delacour</persName>
+     by no means certain, that <persName ref="#t_delacour_0001">lady Delacour</persName>
      really had the complaint, which she so
      much dreaded; but it was impossible for
      him to decide without farther examination,
-     to which her lady ship could not be pre-
+     to which her lady shipcould not be pre-
          <pb/>
          <fw type="pageNum">272</fw>
      vailed upon to submit. Then he mentioned
-     all that he thought would be most <persName ref="#t_delacour_0001">lady
+     all that he thought would be most 
+     efficacious in mitigating the pain that <persName ref="#t_delacour_0001">lady
      Delacour</persName> might feel, and all that could be
      done, with the great probability of prolonging
      her life.—And he concluded with
@@ -8663,7 +8662,7 @@
      </p>    
       <quote rend="quotes"><p>These are all temporising expidents:
        according to the usual progress of the disease
-       <persName ref="#t_delacour_0001">lady Delacour</persName>  may live a year or perhaps
+       <persName ref="#t_delacour_0001">lady Delacour</persName> may live a year or perhaps
        two.
       </p>
       <p rend="prequotes">It is possible that her life might be
@@ -8693,7 +8692,7 @@
       <p><persName ref="#delacour_0002">Lord Delacour</persName>, in the morning, when
        he was sober, retained but a confused
        idea of the events of the preceding night;
-       but he made an awkwardly good nature
+       but he made an awkwardly good natured
        apology to <persName ref="#belinda_portman_0001">miss Portman</persName> for his intrusion,
        and for the disturbance he had occasioned,
        which he said, must be laid to the blame
@@ -8733,7 +8732,7 @@
        estranged him from her, and from home.—
        She now saw in him much more good sense,
        and symptoms of a more amiable character
-       than his lady lady had described, or than she
+       than his lady had described, or than she
        ever would allow that he possessed.
      </p>    
      <p>The reflections, however, which <persName ref="#belinda_portman_0001">miss
@@ -8747,7 +8746,7 @@
      convenience, and vanity, she was 
      convinced diminished, instead of increasing
      happiness.—Of domestic felicity
-     she had never, except during her childhood,
+     she had never, except during her childhood, <!-- start here -->
      seen examples—she had, indeed,
          <pb/>
          <fw type="pageNum">275</fw>
