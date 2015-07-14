@@ -52,14 +52,23 @@
                         <interp xml:id="performance">References to performance (esp. John Canoe)</interp>
                     </interpGrp>
                 </note>
-                <note xml:id="n01ish" corresp="#a01ish">
-                    <ab><label>(a)</label> The above-mentioned Law was repealed in <date when="1788-12">December 1788</date>, bt an Act intituled, <title rend="quotes">An Act to repeal an
+                <note xml:id="n01ish" target="#a01ish">
+                    <p><label>(a)</label> The above-mentioned Law was repealed in <date when="1788-12">December 1788</date>, bt an Act intituled, <title rend="quotes">An Act to repeal an
                         Act, intituled, An Act to repeal several Acts and Clauses of Acts respecting Slaves, and for the better Order
                         and Government of Slaves, and for other Purposes; and also to repeal the several Acts and Clauses of Acts
                         which wer repealed by the Act intituled as aforesaid, and for consolidating and bringing to One Act the
                         several Laws relating to Slaves, and for giving them further Protection and Security; for altering the Mode of
                         Trial of Slaves charged with Capital Offences, and for other Purposes;</title> which last Act is now in full Force.
-                    </ab>
+                    </p>
+                </note>
+                <note xml:id="n02ish" target="#a02ish"> 
+                    <p><label>(a)</label> <bibl><title>Mythology</title>, Vol. 1. P. 48. 475. and 478.</bibl></p>
+                </note>
+                <note xml:id="n03ish" target="#a03ish">
+                    <p><label>(a)</label> Act. 24. Sect. 10. passed 1760.</p>
+                </note>
+                <note xml:id="n04ish" target="#a04ish">
+                    <p><label>(b)</label> Tome ii. p. 59. 447. 499. 506.</p>
                 </note>
             </ecda:notes>
         </ecda:hyperDiv>
@@ -100,7 +109,7 @@
                     Consideration of all Matters relating to
                     Trade and Foreign Plantations.
                 </byline>
-                <ab>Your Majesty having been pleased by your Order in Council,
+                <p>Your Majesty having been pleased by your Order in Council,
                     bearing date the <date when="1788-02-11">11th of February 1788</date>, to direct that this
                     Committee should forthwith take into their Consideration the present State of
                     The <rs type="properAdjective">African</rs> Trade, particularly as far as relates to the Practice and
@@ -112,8 +121,8 @@
                     Settlements, and to the general Commerce of this Kindgom; and should
                     repot to your Majesty in the Council the Result of their Inquiries, with such
                     Observations as they might have to offer thereupon:
-                </ab>
-                <ab>The Committee, in obedience to your Majesty's said Order of Reference, 
+                </p>
+                <p>The Committee, in obedience to your Majesty's said Order of Reference, 
                     proceeded immediately to investigate the Subject so referred, and
                     examined such Persons as either offered themselves, or such as they
                     thought proper to summon, being in the Judgment of the Committee
@@ -128,12 +137,12 @@
                     be able to procure concerning the State of the <rs type="properAdjective">African</rs> Trade as carried
                     on by Foreign Countries, and concerning the Manner of transporting
                     Slaves to their respective Colonies, and the Treatment of them there.
-                </ab>
+                </p>
                 
                 <pb/>
                 <fw type="pageNum">4</fw>
                 
-                <ab>And the Committee also caused the Books of the late Board of Trade
+                <p>And the Committee also caused the Books of the late Board of Trade
                     to be searched for all the Information to be found therein respecting
                     this Subject. They also called for, and obtained from the Public 
                     Offices and other Sources, such Accounts as appeared to them to be
@@ -141,19 +150,19 @@
                     particularly upon the Extent and Value of this Trade in all its Branches,
                     and the Effects and Consequences of it upon the general Commerce of this
                     Kingdom.
-                </ab>
-                <ab>And the Committee having been employed for upwards of Twelve
+                </p>
+                <p>And the Committee having been employed for upwards of Twelve
                     Months in collecting Information upon several Points before mentioned,
                     and conceiving it may be your Majesty's Intention to order this Report to
                     be laid as soon as possible before Parliament, have thought it right,
                     without any further Delay, or waiting for any additional Information, to
                     direct that the Information already collected be arranged as nearly as may
                     be found practicable, according to the following plan:
-                </ab>
+                </p>
                 <list>
                     <item>
                         <label rend="nobreak">First.</label>
-                        <ab>The Evidence that the Committee has obtained of the
+                        <p>The Evidence that the Committee has obtained of the
                             present state of those Parts of <placeName>Africa</placeName> from whence Slaves have been exported,
                             taking each Country that lies upon the Coast separately, beginning from
                             the <placeName>River Senegal</placeName>, and descending southward to the last of the <rs type="properAdjective">European</rs>
@@ -208,13 +217,13 @@
                                     for that Purpose.
                                 </item>
                             </list>
-                        </ab>
-                        <ab>To this Head is annexed an Account of the Charters and Statutes,
+                        </p>
+                        <p>To this Head is annexed an Account of the Charters and Statutes,
                             under the Authority and Protection of which the African Trade first
                             began, and has continued to the present Time; and of the most 
                             material Proceedings that have been had in the House of Commons 
                             relative thereto.
-                        </ab>
+                        </p>
                     </item>
                     <item><label>Second.</label> The evidence that has been obtained concerning the
                         Manner of carrying Slaves to the <placeName>West Indies</placeName>, under the following Heads:
@@ -238,19 +247,19 @@
                         </list>
                     </item>
                     <item><label>Third.</label>
-                        <ab rend="nobreak">The Treatment of the Slaves in the <placeName>West Indies</placeName>, and all
+                        <p rend="nobreak">The Treatment of the Slaves in the <placeName>West Indies</placeName>, and all
                             Circumstances relating thereto, arranged in the Manner stated in <ref type="goTo">Paper A.
                             in the Appendix</ref>, as will appear in that Part of the Report where the Evidence
                             on this Subject is given.
-                        </ab>
-                        <ab>To this Head is annexed a general View of the Laws respecting
+                        </p>
+                        <p>To this Head is annexed a general View of the Laws respecting
                             <rs type="properAdjective">Negro</rs> Slaves in most of the Islands, followed by a Statement at large of
                             such of the said Laws as now subsist in each Island, arranged under different
                             Titles, as prepared by <persName>Mr. Reeves</persName>, Law Clerk to this Committee;
                             and there is also Information on this Subject in the Answers of some of
                             the Governors and Legislatures of the Islands to the Questions transmitted
                             to them by the Order of this Committee.
-                        </ab>
+                        </p>
                     </item>
                     <item><label>Fourth.</label> The Accounts hat have been called for to shew the 
                         extend ot the Trade in all its Branches, and the Number of the Free 
@@ -278,7 +287,7 @@
                         or by the different People of <placeName>Asia</placeName> and <placeName>Africa</placeName>.
                     </item>
                 </list>
-                <ab>All the Information and Matter collected by the Committe, has, in
+                <p>All the Information and Matter collected by the Committe, has, in
                     pursuance of their Orders, been arranged under the foregoing Heads by
                     the Gentlement belonging to the Office for Trade; and the <distinct type="dialect" rend="italic">vivâ voce</distinct>
                     Evidence upon each Head is stated as nearly as possible in the very Words
@@ -293,12 +302,12 @@
                     the Foreign Islands and Settlements in <placeName>America</placeName> and the <placeName>West Indies</placeName>.
                     These, for reasons respecting the Public as well as Individuals, it may
                     not perhaps be so prudent to wholly divulge.
-                </ab>
+                </p>
             </div>
             <div type="part">
                 <label>I.</label>
                 <div type="section">
-                    <ab>View of the <mcr rend="smallcaps">Evidence</mcr> that the Committee has
+                    <p>View of the <mcr rend="smallcaps">Evidence</mcr> that the Committee has
                         obtained from the present State of those Parts of 
                         <placeName rend="smallcaps">Africa</placeName> from whence <mcr rend="smallcaps">Slaves</mcr> have been
                         exported, taking each Country that lies upon the
@@ -308,7 +317,7 @@
                         such Information as has been obtained of the
                         interior Countries situated behind each of the said
                         Countries on the Coast respectively.
-                    </ab>
+                    </p>
                 </div>
                 
                 <pb/>
@@ -1459,28 +1468,28 @@
                     <div type="section">
                          <div type="subsection">
                             <head>A. Nº 1 and 2.</head>
-                            <ab>What is the legal Power which Masters have over their Slaves in each of the British
+                            <p>What is the legal Power which Masters have over their Slaves in each of the British
                                 Islands of the West Indies?
-                            </ab>
-                            <ab>What is the Protection granted to slaves by Law in each of the British Islands?</ab>
-                            <ab>Vide Abstract of the Laws of Jamaica, Appendix to this Head.</ab>
+                            </p>
+                            <p>What is the Protection granted to slaves by Law in each of the British Islands?</p>
+                            <p>Vide Abstract of the Laws of Jamaica, Appendix to this Head.</p>
                          </div>
                          <div type="subsection">
                             <head>A. Nº 1 and 2.</head>
-                            <ab>The Committee are of opinion, That the Consolidated Slave Act lately passed, will furnish
+                            <p>The Committee are of opinion, That the Consolidated Slave Act lately passed, will furnish
                                 the best Answer to these Heads of Inquiry, and do therefore refer thereto for Satisfaction in
                                 this respect.
-                            </ab>
-                            <ab><label>N.B.</label> The Two Reports from the House of Assembly of the Island of Jamaica are placed
+                            </p>
+                            <p><label>N.B.</label> The Two Reports from the House of Assembly of the Island of Jamaica are placed
                                 in the Appendix to this Head.
-                            </ab>
+                            </p>
                          </div>
                          <div type="subsection">
                             <head>A. Nº 3.</head>
-                            <ab>For what Offences are Slaves subject to their Masters Correction? for what are they amenable
+                            <p>For what Offences are Slaves subject to their Masters Correction? for what are they amenable
                                 to the established Jurisdiction of the Island, and in what Manner are they tried?
-                            </ab>
-                            <ab>For all small Misdemeanors against the Master, or their Fellow Slaves, by the Master or 
+                            </p>
+                            <p>For all small Misdemeanors against the Master, or their Fellow Slaves, by the Master or 
                                 overseer.—for Murder, Rebellion, and capital Crimes, subject to the Jurisdiction of the
                                     
                                 <pb/>
@@ -1490,67 +1499,67 @@
                                 being capital in Jamaica:—Such as Murder, Rebellion, Arson, &amp;c. Vide the Laws of
                                 Jamaica for further Satisfaction. Transportation is the general Punishment, where Negroes
                                 have been found incorrigible.
-                            </ab>
-                            <ab rend="center">Vide Appendix to this Head. Sect. 28. Act. 91. 1781. Mode of Trial.</ab>
-                            <ab rend="italic">To what Places do they generally transport Negroes that have been found incorrigible?</ab>
-                            <ab rend="italic">They are sold to any Body that will buy them; but in general to the Dutch Curasoa Traders, or
+                            </p>
+                            <p rend="center">Vide Appendix to this Head. Sect. 28. Act. 91. 1781. Mode of Trial.</p>
+                            <p rend="italic">To what Places do they generally transport Negroes that have been found incorrigible?</p>
+                            <p rend="italic">They are sold to any Body that will buy them; but in general to the Dutch Curasoa Traders, or
                                 they are sent to the Coast of Honduras.
-                               </ab>
-                            <ab rend="italic">On whom does the Loss fall in consequence of a Negro being transported?</ab>
-                            <ab rend="italic">When they are transported in consequence of a Judicial Sentence, the Master receives a Sum not 
+                               </p>
+                            <p rend="italic">On whom does the Loss fall in consequence of a Negro being transported?</p>
+                            <p rend="italic">When they are transported in consequence of a Judicial Sentence, the Master receives a Sum not 
                                 exceeding 40 l. Currency, which Sum is levied upon the Parish out of a Fund raised by the Parishioners
                                 for that Purpose, pursuant to the Law passed in 1781, above referred to.
-                            </ab>
-                            <ab>For mere Misbehaviour in Duty to their Masters, they are subject to their Masters Discretion,
+                            </p>
+                            <p>For mere Misbehaviour in Duty to their Masters, they are subject to their Masters Discretion,
                                 qualified by the Provisions of the said Consolidated Act; For Misdemeanors and all
                                 petty Offences, they are triable by Two Justices of Peace; and for such Offences as extend 
                                 to Loss of Life, or Imprisonment for Life, they are triable by Three Justices of Nine
                                 Jurors.
-                            </ab>
+                            </p>
                         </div>
                         <div type="subsection">
                             <head>A. Nº 4.</head>
-                            <ab>To what Penalties are masters, or those who act under them, subject if they transgress the
+                            <p>To what Penalties are masters, or those who act under them, subject if they transgress the
                                 Laws made for the Protection of Negroe Slaves, or in any respect exercise Acts of Cruelty 
                                 towards them, and to what Courts are they in such Cases amenable?
-                            </ab>
-                            <ab>Vide Act 38, 1696. Act 183, 1751, and 1781, Act 91.</ab>
-                            <ab>For murdering a Slave; guilty of Felony for the First Offence, and to have the Benefit of
+                            </p>
+                            <p>Vide Act 38, 1696. Act 183, 1751, and 1781, Act 91.</p>
+                            <p>For murdering a Slave; guilty of Felony for the First Offence, and to have the Benefit of
                                 Clergy; and shall suffer, as a further Punishment, an Imprisonment for such a Time as teh
                                 Court shall adjudge, not exceeding Twelve Months.
-                            </ab>
-                            <ab>For the Second Offence, shall suffer Death.—Conviction not to extend to corrupting Blood,
+                            </p>
+                            <p>For the Second Offence, shall suffer Death.—Conviction not to extend to corrupting Blood,
                                 or Forfeiture of Lands, Tenements, &amp;c.
-                            </ab>
-                            <ab>To be tried by the Supreme Court or Court of Assize at the General Gaol Delivery.</ab>
-                            <ab><quote rend="quotes">We understand from recent Advice, that on the <date when="--11-29">29th of November last</date>, the House of
+                            </p>
+                            <p>To be tried by the Supreme Court or Court of Assize at the General Gaol Delivery.</p>
+                            <p><quote rend="quotes">We understand from recent Advice, that on the <date when="--11-29">29th of November last</date>, the House of
                                 Assembly were then assiduously employed in framing a Consolidated Code Noir, or Slave Bill,
                                 which was meant to change in many respects the former System of Regulations. A council of
                                 Protection is established in each Parish, and a Variety of humane Provisions introduced for 
                                 rendering their Condition as easy and happy as possible.—It is made Felony withot Benefit
                                 of Clergy in the First Instance, to murder a Slave, and this Amendment of the old Law passed
                                 the House without a single dissenting Voice.</quote>
-                            </ab>
-                            <ab>In every Parish of the Island is a Coroner, who is required by Law to make Inquisition upon
+                            </p>
+                            <p>In every Parish of the Island is a Coroner, who is required by Law to make Inquisition upon
                                 the Body of every Person, Slave or Free, coming to an untimely Death; and upon every
                                 Slave dying in Gaol, and not certainly known to have died by a natural Death: And he
                                 is liable to Fine and Imprisonment, if he should neglect or refue to attend with his Inquest,
                                 and make due Inquiry.
-                            </ab>
-                            <ab>Vide Appendix, Col. 3. Coroners</ab>
+                            </p>
+                            <p>Vide Appendix, Col. 3. Coroners</p>
                             <note anchored="false"><label>N. B.</label>Since the Answer to this Question was drawn up, we understand that a Gentleman
                                 from Jamaica is arrived in Town who is ready to give Evidence, that the Law therein
                                 referred to, as having been proposed to the House of Assembly in November 1787, has
                                 been passed, and is now in full Force <seg xml:id="a01ish" corresp="#n01ish">(a)</seg>.
                             </note>
-                            <ab>The Committee refer to the Consolidated Act for an Answer to this Head.</ab>
+                            <p>The Committee refer to the Consolidated Act for an Answer to this Head.</p>
                         </div>
                         <div type="subsection">
                             <head>A. Nº 5.</head>
-                            <ab>Are Negro Slaves fed at their Masters Expence, or by their own Labour; and when fed by
+                            <p>Are Negro Slaves fed at their Masters Expence, or by their own Labour; and when fed by
                                 their Masters, with what are they fed, and in what Quantity?
-                            </ab>
-                            <ab>By the Laws of Jamaica, every Proprietor is obliged to allot one Acre of good Provision
+                            </p>
+                            <p>By the Laws of Jamaica, every Proprietor is obliged to allot one Acre of good Provision
                                 Ground to every Four Negroes belongin to him: this is meant for their own private Cultivation:
                                 And besides this, the Negroes have in all the Plantations an unbounded Liberty to
                                 cultivate as much Land as they please. But as the major Part of them are improvident and
@@ -1559,12 +1568,12 @@
                                 such as Plantains, Yams, Cocoa, Potatoe, Cassavi, &amp;c.; and who also take every seasonable
                                 Opportunity of sowing many Acres either of the Maize or Guinea Corn, and the different
                                 Kinds of Pulse and Legumina in use there.
-                            </ab>
-                            <ab>In addition to these, every well regulated Estate imports Herrings or Salt Fish, or bothl
+                            </p>
+                            <p>In addition to these, every well regulated Estate imports Herrings or Salt Fish, or bothl
                                 Flour and Pease. Twenty or Twenty-five Barrels of Herrings to every One Hundred Negroes
                                 (including all Ages) is the common Allowance.
-                            </ab>
-                            <ab>Every industrious Negroe breeds Hogs and Poultry for his own and Family Use, or for
+                            </p>
+                            <p>Every industrious Negroe breeds Hogs and Poultry for his own and Family Use, or for
                                 Sale, and for his own Benefit. These Articles support amonst them a very extensive and
                                 lucrative Commerce, which they carry on uninterruptedly, as well with the King's Ships and
                                 Troops on that Station, as with the Shipping in genera. the Towns, and the Country
@@ -1576,8 +1585,8 @@
                                 keep or dispose of, and devise at their own Pleasure. And some there are, who are rich
                                 enough to purchase their Freedom, if they wer of opinion it would render their Condition
                                 more comfortable and happy than it is at present.
-                            </ab>
-                            <ab>Slaves employed in the Culture of Lands are allowed by their Masters certain Proportions
+                            </p>
+                            <p>Slaves employed in the Culture of Lands are allowed by their Masters certain Proportions
                                 of Land, which they cultivate for their own Support and Maintenance. These Lands are
                                 for the most part found equal to support and sustain the Slaves to whom they are respecively
                                 allotted; and, excepting the Time of Crop, they are allowed, in general, One Day in every
@@ -1591,15 +1600,15 @@
                                 are employed in and about the Towns, or have no Connexion with Plantations, are in general,
                                 if not universally, at Board-wages. The late Consolidated Slave Act furnishes also an 
                                 authoritative Regulation in these Respects.
-                            </ab>
+                            </p>
                         </div>
                         <div type="subsection">
                             <head>A. Nº 6.</head>
-                            <ab>How are Negro Slaves clothed, lodged, and secured against the Incemency of the Season?
+                            <p>How are Negro Slaves clothed, lodged, and secured against the Incemency of the Season?
                                 State the Law and the Practice.
-                            </ab>
-                            <ab>Vide Appendix to this Head. Act 38. 1696. Sec. 3, 4, 5.</ab>
-                            <ab>The general Clothing in Jamaica is what is called Osnamurgh Linen. On every well-
+                            </p>
+                            <p>Vide Appendix to this Head. Act 38. 1696. Sec. 3, 4, 5.</p>
+                            <p>The general Clothing in Jamaica is what is called Osnamurgh Linen. On every well-
                                 regulated Estate, the annual Allowance is from Ten to Twenty Yards to every Man; from
                                 Seven to fifteen Yards to every Woman; and in proportion to the younger People. To
                                 every Negro, a Worsted Cap, Bonnet, or Hat, besides a Woollen Jacket, or Welch Blanket,
@@ -1611,8 +1620,8 @@
                                 Owners as disobey that Injunction. In general, the Negroes in Jamaica are well clothed; and
                                 there are very few Sugar Estates where the Negroes do not, from their own private Earnings,
                                 provide themselves with extra Clothes for Sundays and Holidays.
-                            </ab>
-                            <ab>The Negro Slaves on the Plantations in Jamaica, in general (except the calamitous Years),
+                            </p>
+                            <p>The Negro Slaves on the Plantations in Jamaica, in general (except the calamitous Years),
                                 raise more Provisions than they can consume. They carry the Overplus to Market,
                                 and commonly lay out the Money they receive for it in Fineries, or in Salt Beef, Pork or
                                 Fish, and sometimes in Spiritous Liquors. Before a Planter makes a Purchase of imported
@@ -1621,18 +1630,18 @@
                                 
                                 Slaves, he prepares Houses for them, allots a Portion of Ground stocked with Provisions;
                                 and most Planters also give them a Breed of Hogs and Poultry.
-                            </ab>
-                            <ab>The established Negroe Slaves lie in Houses perfectly convenient to themselves, and
+                            </p>
+                            <p>The established Negroe Slaves lie in Houses perfectly convenient to themselves, and
                                 adapted to the Climate; the Size is proportioned to their Rank and Family. When they 
                                 require to be rebuilt or enlarged, sufficient Time, Materials, and Assistance are allowed
                                 them for those Purposes. Upon the whole, we believe them to be far better clothed, lodged,
                                 and fed in Jamaica, than the Peasantry of Europe in general.
-                            </ab>
-                            <ab rend="italic">Are there many Instances in which the masters or Overseers treat the Slaves, either with respect
+                            </p>
+                            <p rend="italic">Are there many Instances in which the masters or Overseers treat the Slaves, either with respect
                                 to their Food or Clothing, not in conformity to what you have above stated, or otherwise hardly?
-                            </ab>
-                            <ab rend="italic">As far as our Knowledge goes, there are few Instances (if any).</ab>
-                            <ab>The Law upon this Head fully appears in the Consolidated Slave Act. With Respect to 
+                            </p>
+                            <p rend="italic">As far as our Knowledge goes, there are few Instances (if any).</p>
+                            <p>The Law upon this Head fully appears in the Consolidated Slave Act. With Respect to 
                                 the Practice: Slaves employed in Husbandry are usually allowed annually Tow Osnaburgh
                                 Frocks, and Two Pair of Osnaburgh Trowsers, with an Hat or Woollen Bonnet to each Man;
                                 and to each Woman, Two Shifts and Two Petticoats of Osnaburgh, and a Hat; and to each,
@@ -1640,60 +1649,60 @@
                                 Negroes, are usually allowed a double Proportion of each, with a Check Shirt to the Men of
                                 that Description. Domestics and Workmen in and about Towns are clothed as Domestics
                                 and Workmen are clothed as in England in the Summer Time.
-                            </ab>
-                            <ab>Slaves employed in Husbandry are lodged on the Master's Land, in separate Houses,
+                            </p>
+                            <p>Slaves employed in Husbandry are lodged on the Master's Land, in separate Houses,
                                 from about Twenty to Twenty-four Feet in Length, and from Ten to Twelve, or Fourteen
                                 broad, and which, if they are themselves unable to erect, their Masters build for them.
                                 These Houses are in general thatched, wattled, and plaistered, are found a very sufficient 
                                 Protection against the most inclement Seasons, and are for the most Part full as commodious as the
                                 Cottages of the labouring Peasantry in Great Britain. Domestics are as well lodged as Domestics
                                 in England.
-                            </ab>
+                            </p>
                         </div>
                         <div type="subsection">
                             <head>A. Nº 7.</head>
-                            <ab>What is the Annual Expence of the Maintenance of a Negro Man, Woman, and Child,
+                            <p>What is the Annual Expence of the Maintenance of a Negro Man, Woman, and Child,
                                 at different Ages respectively?
-                            </ab>
-                            <ab>This Question is not properly applicable to Jamaica; for in this Island, as the Negroes in all
+                            </p>
+                            <p>This Question is not properly applicable to Jamaica; for in this Island, as the Negroes in all
                                 the Country Parts have Lands assigned them, and are not restricted in Extent of Ground, the
                                 Produce of which, together with an Allowance of Herring or other Salt Fish, Sugar and Rum,
                                 form the principal Source of their Subsistence; we do not know of any Computation which
                                 has been, or can be well made of the Annual Expence.
-                            </ab>
-                            <ab>The Answer to this will be collected from the answer already given to the 5th Query,
+                            </p>
+                            <p>The Answer to this will be collected from the answer already given to the 5th Query,
                                 which represents the Allowance as applied to Men and Women; a Deduction according to the
                                 Ages of Boys and Girls is usually made.
-                            </ab>
+                            </p>
                         </div>
                         <div type="subsection">
                             <head>A. Nº 8.</head>
-                            <ab>Are many Negroes usually let out to hire, in what Numbers and on what Conditions?</ab>
-                            <ab>Till within these Twelve or Fourteen Years, a few Negroes in Jamaica were let out to hire,
+                            <p>Are many Negroes usually let out to hire, in what Numbers and on what Conditions?</p>
+                            <p>Till within these Twelve or Fourteen Years, a few Negroes in Jamaica were let out to hire,
                                 except Domestics and Tradesmen.—But in consequence of some Discouragements which the 
                                 Article Coffee met with, most of the Coffee Planters began to let out their working Negroes
                                 upon Job Work, on the Sugar Estates.
-                            </ab>
-                            <ab>This Business has ever since been followed pretty extensively in Jamaica, both by the inferior
+                            </p>
+                            <p>This Business has ever since been followed pretty extensively in Jamaica, both by the inferior
                                 Settlers, and such Overseers of Sugar-works, who have from time to time become Owners of
                                 Negroes, but not yet possessed of Land of their own, or who have not applied themselves to the
                                 Culture of it.
-                            </ab>
-                            <ab>The Planters have many of them adopted this Practice, both on account of the very advanced
+                            </p>
+                            <p>The Planters have many of them adopted this Practice, both on account of the very advanced
                                 Proce of imported Negroes, and from the Principle of easing and assisting their own People
                                 in the several Parts of their Annual Labour.
-                            </ab>
-                            <ab>The Expence of Job Labour is in general, for holeing and planting Canes, per Acre, 6 l.
+                            </p>
+                            <p>The Expence of Job Labour is in general, for holeing and planting Canes, per Acre, 6 l.
                                 to 7 l. Currency.
-                            </ab>
-                            <ab>Other Operations have their respective usual Prices, as planting Guinea Grass, 5 l. per Acre,
+                            </p>
+                            <p>Other Operations have their respective usual Prices, as planting Guinea Grass, 5 l. per Acre,
                                 Currency, &amp;c.
-                            </ab>
-                            <ab>We do not know that it is usual in Jamaica, with any Planters in tolerable Circumstances, to
+                            </p>
+                            <p>We do not know that it is usual in Jamaica, with any Planters in tolerable Circumstances, to
                                 hire Negroes for any other Operation in the annual Cane Culture and Manufacture, except 
                                 holeing and planting, and sometimes taking off the Crop.
-                            </ab>
-                            <ab>Slaves are frequently hired out; those employed by Day Work in Husbandry, usually at
+                            </p>
+                            <p>Slaves are frequently hired out; those employed by Day Work in Husbandry, usually at
                                 1 s. 10½ d. per Day; those by the Year at 12 l. or 15 l. per Annum, or at a Rate per Cent. on 
                                 
                                 <pb/>
@@ -1702,39 +1711,39 @@
                                 In the two latter Instances, the Slaves so hired usually remain on the Land where they are
                                 hired to work, and are clothed, lodged, and supported in like Manner as the other Slaves
                                 on the Plantation.
-                            </ab>
+                            </p>
                         </div>
                         <div type="subsection">
-                            <ab>Are any Days, or Hours in Days, set apart in which the Slaves may labour for themselves?
+                            <p>Are any Days, or Hours in Days, set apart in which the Slaves may labour for themselves?
                                 State the Law and the Practice.
-                            </ab>
-                            <ab>The Practice is various. On many Estates, Half a Day in every Week. On others, an
+                            </p>
+                            <p>The Practice is various. On many Estates, Half a Day in every Week. On others, an
                                 extra Half Hour at Dinner Time; and out of Crop Time, occasionally a whole Day, when
                                 they are attended to their Grounds by the Overseer, for the more orderly Distribution of their
                                 Labour.
-                            </ab>
-                            <ab>Sundays throughout the Year ar Days of Rest, which they have entirely to themselves.
+                            </p>
+                            <p>Sundays throughout the Year ar Days of Rest, which they have entirely to themselves.
                                 Holidays at Easter, Whitsuntide, and Christmas, settled by the Justice of each Parish or
                                 Precinct; and the Anniversaries of the great Earthquake and Hurricanes; their Working
                                 Hours are Eight, not exceeding Nine in the Four-and-twenty.
-                            </ab>
+                            </p>
                         </div>
                         <div type="subsection">
                             <head>A. Nº 10.</head>
-                            <ab>Have the Slaves any Portions of Land assigned them for the Purpose of cultivating them
+                            <p>Have the Slaves any Portions of Land assigned them for the Purpose of cultivating them
                                 for their own Use? State the Law and the Practice.
-                            </ab>
-                            <ab>This is answered in the Replies to the 5th and 6th Questions.</ab>
-                            <ab>The Consolidated Slave Act, and the former Part of the Answer already given to the 5th
+                            </p>
+                            <p>This is answered in the Replies to the 5th and 6th Questions.</p>
+                            <p>The Consolidated Slave Act, and the former Part of the Answer already given to the 5th
                                 Quere, furnish the best Answer to this Head.
-                            </ab>
+                            </p>
                         </div>
                         <div type="subsection">
                             <head>A. Nº 11.</head>
-                            <ab>Are Negroe Slaves subject to any peculiar Diseases, to which White Inhabitants or Free
+                            <p>Are Negroe Slaves subject to any peculiar Diseases, to which White Inhabitants or Free
                                 Negroes are not subject; and if they are so subject, assign the Causes?
-                            </ab>
-                            <ab>The Gentlemen of the Faculty, who have had experience in the Island of Jamaica, are
+                            </p>
+                            <p>The Gentlemen of the Faculty, who have had experience in the Island of Jamaica, are
                                 certanly best qualified to give a satisfactory Answer to this Inquiry; it may however be
                                 affirmed, upon the Credit of experience Platers and others, who have resided there for
                                 many Years, that the Negroe Slaves are subject to some Diseases, from which the White
@@ -1746,8 +1755,8 @@
                                     <item>The Leprosy of the Arabians,</item>
                                     <item>The Elephantiasis.</item>
                                 </list>
-                            </ab>
-                            <ab>The Yaws is an African Disease, though now common in Jamaica, and many Negroes
+                            </p>
+                            <p>The Yaws is an African Disease, though now common in Jamaica, and many Negroes
                                 afflicted with it, die notwithstanding the ablest mdical Assistance.—As to other Distempers,
                                 it is not pretended that Negroe Slaves are naturally more subject to them than the White
                                 Inhabitants or Free Negroes; what Difference is observable between them in this Respect, is 
@@ -1763,33 +1772,33 @@
                                 Men and Women, most studiously endeavour to conceil their Infection with this Disorder,
                                 either considering it as reproachful to them, or the Necessity of abstaining from Pleasure 
                                 during the medicinal Course as an intolerable Punishment.
-                            </ab>
-                            <ab>Of the Disorders which are more peculairly fatal to them, may be mentioned the Small
+                            </p>
+                            <p>Of the Disorders which are more peculairly fatal to them, may be mentioned the Small
                                 Pox and epidemic Dysentery. From the former, scarcely any who are seized with it in the
                                 natural Way, escape with Life; the latter Distemper commonly happens during a long
                                 Drought, when their usual Stock of vegetable Provisions failing, or the Plantain Trees
                                 destroyed, they feed on unaccustomed Substances, such as Flour (half dressed) and Rice, and
                                 after Droughts (heavy Rains succeeding) crude Fruits and Roots, and parched Corn
-                            </ab>
+                            </p>
                             
                             <pb/>
                             
-                            <ab>Other Causes ther may be of this and other Maladies, which the Practitioners are best
+                            <p>Other Causes ther may be of this and other Maladies, which the Practitioners are best
                                 acquainted with.
-                            </ab>
-                            <ab ana="#obeah">We may add the Effects of Witchcraft or <distinct type="religious" rend="italic">Obeah</distinct>, which, whether they arise from a 
+                            </p>
+                            <p ana="#obeah">We may add the Effects of Witchcraft or <distinct type="religious" rend="italic">Obeah</distinct>, which, whether they arise from a 
                                 distempered Imagination and Credulity, or from Poison secretly administered, are very fatal to
                                 many of the Slaves. The Legislature of Jamaica, in order to check, as much as it lies
                                 in its Power, this destructive Practice, inflict Death upon Conviction of <name rend="italic">Obeah-men</name> or
                                 pretended Wizards.
-                            </ab>
-                            <ab>Of the Children born here, it has been remarked, that One-third die of the <distinct type="scientific" rend="italic">Tetanus</distinct> or
+                            </p>
+                            <p>Of the Children born here, it has been remarked, that One-third die of the <distinct type="scientific" rend="italic">Tetanus</distinct> or
                                 Locked Jaw, before the Ninth Day from their Birth, and of those who survive this
                                 Period, One-half too frequently perish by Worms, or the Yaws, before they attain the
                                 Age of Five Years. Whether these Disorders are qually destructive to the Children of
                                 Free Negroes, the medical Practitioners can best ascertain.
-                            </ab>
-                            <ab>In regard to the Children of the White Inhabitants, they are in general not liable precisely
+                            </p>
+                            <p>In regard to the Children of the White Inhabitants, they are in general not liable precisely
                                 to the same Distempers; such as the Yaws for Example, and venereal and other hereditary
                                 Tains, whic hunquestionable conduce so much to the Mortality observed among the Children
                                 of the Slaves; but we cannot admit the same Disparity between the Two Classes of Children, 
@@ -1798,47 +1807,47 @@
                                 Preservation of the nfant Brood in Jamaica is so very important an Object with the Planters
                                 in general of that Island, that no Care, Attention, and Endeavours, are wanting for that
                                 Purpose.
-                            </ab>
-                            <ab>Negroes are subject ot certain Diseases to which White Inhabitants are not, such as the
+                            </p>
+                            <p>Negroes are subject ot certain Diseases to which White Inhabitants are not, such as the
                                 Yaws, Bone-Ach, Tetanus or Locked Jaw, Elephantisis, and Coco-Bea, or Arabian
                                 Leprosy; thye are also subject to inveterate ulcers, with which, as well as the Tetanus, the
                                 Whites are rarely afflicted; for the Causes of this, the Committee refer to the Examinations of
                                 the several medical Persons, before a Committee of the House of Assembly, given in a Report
                                 transmitted to the Secretary of State.
-                            </ab>
+                            </p>
                         </div>
                         <div type="subsection">
                             <head>A. Nº 12.</head>
-                            <ab>What Care is taken of the Slaves in Sickness? Are there any Laws or Regulations for that
+                            <p>What Care is taken of the Slaves in Sickness? Are there any Laws or Regulations for that
                                 Purpose? What Provision is made for them when old or disbaled; and are their Masters
                                 obliged, in such Cases, to maintain them?
-                            </ab>
-                            <ab>On every Estate is an Hospital (commonly called there a Hot-house) where the sick Negroes
+                            </p>
+                            <p>On every Estate is an Hospital (commonly called there a Hot-house) where the sick Negroes
                                 are attended by a Doctor. In Jamaica, the Doctor's pay is 5 s. per Head per Annum,
                                 which includes the Charge of Medicine and Attendance, for every Negro belonging to the
                                 Estate; he is paid <emph>extra</emph> for chirugical Operations, such as Fractures, Inoculation, and
                                 Drugs and Medicines from Great Britain. Disabled and superannuated Slaves, in that Island,
                                 are cloathed subsisted, and in every respect treated with the same Care as other Slaves;
                                 such is the Practice.
-                            </ab>
-                            <ab>The Laws are silent upon this Subject. As to the Old and Disabled, the Jamaica Laws
+                            </p>
+                            <p>The Laws are silent upon this Subject. As to the Old and Disabled, the Jamaica Laws
                                 have no special Direction, but only enact, that every Person manumitting a Slave, shall give
                                 Security for paying such a freed Slave an Annuity of 5 l. for Life. Act passed in 1774. But
                                 Quere if the Allowance be not, by <emph>subsequent Act</emph>, raised to 10 l. per Annum.
-                            </ab>
-                            <ab>An Hospital is provided for the Sick, and a Doctor is appointed to attend it; which he does
+                            </p>
+                            <p>An Hospital is provided for the Sick, and a Doctor is appointed to attend it; which he does
                                 Two or Three Times a Week as of course, and oftner if Necessity requires. The Hospital is
                                 properly provided with Medicines, Wine, Sago, &amp;c. When the Negroes become old or disabled,
                                 their masters are obliged by Law to maintain them. For the Particulars in this Respect,
                                 the Committee refer to the Consolidated Slave Act.
-                            </ab>
+                            </p>
                         </div>
                         <div type="subsection">
                             <head>A. Nº 13.</head>
-                            <ab>What is the general Period of the Lives of Negro Slaves? Is it of equal Duration with
+                            <p>What is the general Period of the Lives of Negro Slaves? Is it of equal Duration with
                                 that of White Inhabitants, or Free Negroes?
-                            </ab>
-                            <ab>The Duration fo their Lives (meaning the Native Blacks) is in general equal to that of the
+                            </p>
+                            <p>The Duration fo their Lives (meaning the Native Blacks) is in general equal to that of the
                                 Free Negroes, and longer than that of the Whites. But, in considering this Question, due Regard
                                 must be had to local Differences of Situation. The lowest Situations, such as Vallies,
                                 and the Banks of Rivers and Lagoons, are the most unhealthy; and in such Situations in
@@ -1852,21 +1861,21 @@
                                 
                                 Free or Slaves, would live healthier, and for a much longer Term than they do in general,
                                 if it were not for their vicious and irregular Practices.
-                            </ab>
-                            <ab>Many Negroes live to be old, some to the Age of One Hundred Years; the Period of
+                            </p>
+                            <p>Many Negroes live to be old, some to the Age of One Hundred Years; the Period of
                                 their Lives is, in general, of longer Duration that that of the Lives of the White Inhabitants
                                 in this Climate. The Free Negroes (who, by the Labour of One or Two Days, may year na
                                 Sufficiency to allow them to indulge in Irregularities, and remain idle the rest of the Week,
                                 which they are universally disposed to be, and who are not so well taken care of in Sickness as
                                 the Slaves are) seldom live so long as either the Whites or the Slaves.
-                            </ab>
+                            </p>
                         </div>
                         <div type="subsection">
                             <head>A. Nº 14.</head>
-                            <ab>What is the Practice respecting the Marriage of Negro Slaves, and what are the Regulations
+                            <p>What is the Practice respecting the Marriage of Negro Slaves, and what are the Regulations
                                 concerning it?
-                            </ab>
-                            <ab>If, by Marriage, is meant a regular Contract and Union of one Man with one Woman, enforced
+                            </p>
+                            <p>If, by Marriage, is meant a regular Contract and Union of one Man with one Woman, enforced
                                 by positive Institutions; no such Practice exists among the Slaves, and they are left entirely
                                 free in this respect. But every prudent Planter encourages his Negroes to form their Connexions
                                 upon his own Estate, as a Means of preventing them from rambling every Night to
@@ -1882,16 +1891,16 @@
                                 are able to run about, they are usually brought up every Day at Noon to the Overseer's
                                 House, to be served with Messes of Broth provided for them; and many are brought up in
                                 Families, during Infancy, in the same Manner as White Children.
-                            </ab>
-                            <ab>They do not marry, they cohabit by mutual Cosent; they separate occasionally without mch
+                            </p>
+                            <p>They do not marry, they cohabit by mutual Cosent; they separate occasionally without mch
                                 Ceremony, but they much more frequently live and grow old together; when their Children
                                 and Relations, through a strong Family Attachment that generally prevails amongst them, furnish
                                 them with their Care and Assistance, in addition to that of their Masters.
-                            </ab>
+                            </p>
                         </div>
                         <div type="subsection">
-                            <ab>Can any Causes be assigned which impede the natural Increase of Negro Slaves?</ab>
-                            <ab>The great Impediments to natural increase in Jamaica, are―</ab>
+                            <p>Can any Causes be assigned which impede the natural Increase of Negro Slaves?</p>
+                            <p>The great Impediments to natural increase in Jamaica, are―</p>
                             <list>
                                 <item><label>1st.</label> That universal Malady of Infants, the Tetanus (or Jaw-falling), which, on many Estates,
                                     destroys One Third or upwards of all that are born; and for which, notwithstanding
@@ -1908,79 +1917,668 @@
                                     of the Importations.
                                 </item>
                             </list>
-                            <ab>There may be other Diseases, for which it is recommended to consult the experienced West
+                            <p>There may be other Diseases, for which it is recommended to consult the experienced West
                                 India Practitioners: Hooping Cough, Small Pox, Measles, Dropsy, Worms, Dysentery, and
                                 Dirt Eating; Infants are equally subject, as grown Negroes, to the Disorder last mentioned.
-                            </ab>
-                            <ab>A great Dissoluteness and Inordincay of Manners and Habits prevail amongst the Negroes,
+                            </p>
+                            <p>A great Dissoluteness and Inordincay of Manners and Habits prevail amongst the Negroes,
                                 and are thought to tend to impede their natural Increase. For further Particulars, the 
                                 Committee refer to the Examinations of the medical Persons before referred to.
-                            </ab>
+                            </p>
                         </div>
                         <div type="subsection">
                             <head>A. Nº 16.</head>
-                            <ab>Are many Children born of Negro Slaves, and in what Proportion are they reared?</ab>
-                            <ab>There are many Children of Negroe Slaves born in Jamaica; we cannot say positively in what
+                            <p>Are many Children born of Negro Slaves, and in what Proportion are they reared?</p>
+                            <p>There are many Children of Negroe Slaves born in Jamaica; we cannot say positively in what
                                 Proportion they are reared: But if they could get over the locked Jaw, Small Pox, Measles,
                                 Yaws, and Worm Diseases, a greater Proportion of Negroe Children would be reared in Jamaica
                                 than is usual.
-                            </ab>
-                            <ab>Births are not so frequent amongst Negro Slaves in thsi Island, as amongst the Peasantry in
+                            </p>
+                            <p>Births are not so frequent amongst Negro Slaves in thsi Island, as amongst the Peasantry in
                                 Great Britain; and it is in great measure attributed to their Manners and Habits of Life, as
                                 noticed in the Answer to the foregoing Quere.
-                            </ab>
+                            </p>
                         </div>
                         <div type="subsection">
                             <head>A. Nº 17.</head>
-                            <ab>Are the Children of Negro Slaves subject to any Disease, to which the Children of White
+                            <p>Are the Children of Negro Slaves subject to any Disease, to which the Children of White
                                 Inhabitants, or Free Negroes, re not equally subject; and, if they are, to what Cause is it to
                                 be imputed?
-                            </ab>
-                            <ab>Negro Children are not (exclusive of their hereditary Taints) more liable to Diseases than
+                            </p>
+                            <p>Negro Children are not (exclusive of their hereditary Taints) more liable to Diseases than
                                 the Children of White Persons, or Free Blacks.
-                            </ab>
-                            <ab>A great Proportion of Negro Children die within the first Nine Months, of the Tetanus;
+                            </p>
+                            <p>A great Proportion of Negro Children die within the first Nine Months, of the Tetanus;
                                 many from other Causes, for which the Reference may be made to the Examinations annexed
                                 to the Report already mentioned.
-                            </ab>
+                            </p>
                         </div>
                         <div type="subsection">
                             <head>A. Nº 18.</head>
-                            <ab>Are Negro Slaves or their Children in general baptised?</ab>
-                            <ab>The Law of Jamaica is—<quote rend="quotes">That all Masters or Mistresses, or, in their Absence, Overseers,
+                            <p>Are Negro Slaves or their Children in general baptised?</p>
+                            <p>The Law of Jamaica is—<quote rend="quotes">That all Masters or Mistresses, or, in their Absence, Overseers,
                                 shall, as much as in them lies, endeavour the Instruction of their Slaves in the Principles of
                                 the Christian Relition, to facilitate their Conversion, and shall do their utmost to fit them for
                                 Baptism; and, as soon as conveniently they can, shall cause to be baptized all such as they can
                                 make sensible of a Deity, and the Christian Faith.</quote>
-                            </ab>
-                            <ab>Baptism is never refused to any Negro desirous of it; but we cannot say it is universally 
+                            </p>
+                            <p>Baptism is never refused to any Negro desirous of it; but we cannot say it is universally 
                                 attended to in Jamaica; though we have Twenty Ministers of the Established Church, and the
                                 Clergy of the Island have been for many Years, so far as relates to spiritual Discipline, 
                                 included within the Diocese of London.
-                            </ab>
-                            <ab>No—very rarely.</ab>
+                            </p>
+                            <p>No—very rarely.</p>
                         </div>
                         <div type="subsection">
                             <head>A. Nº 19.</head>
-                            <ab>What Religious Institutions are there for the Benefit of Negro Slaves, in each <supplied>of the</supplied> Islands
+                            <p>What Religious Institutions are there for the Benefit of Negro Slaves, in each <supplied>of the</supplied> Islands
                                 in the West Indies?
-                            </ab>
-                            <ab>We know of none such in Jamaica.</ab>
-                            <ab rend="italic">Is the Island of Jamaica divided into Parishes?</ab>
-                            <ab rend="italic">Yes.</ab>
-                            <ab rend="italic">Is there a Church and a Minister assigned for each Parish?</ab>
-                            <ab rend="italic">There is not a Church belongin to every Parish; but in some there is a Chapel as well as a
+                            </p>
+                            <p>We know of none such in Jamaica.</p>
+                            <p rend="italic">Is the Island of Jamaica divided into Parishes?</p>
+                            <p rend="italic">Yes.</p>
+                            <p rend="italic">Is there a Church and a Minister assigned for each Parish?</p>
+                            <p rend="italic">There is not a Church belongin to every Parish; but in some there is a Chapel as well as a
                                 Church. There is a Clergyman to every Parish; their respective Stipends will be found in the Law
                                 passed in Jamaica in 1745.
-                            </ab>
-                            <ab rend="italic">Are these Chruches sufficient to contain the Inhabitants of each Parish, including the Negroes?</ab>
-                            <ab rend="italic">In general they are not sufficient to contain the twentieth Part.</ab>
-                            <ab rend="italic">Are the Parishes of that Extent, that One Minister in each Parish is sufficient for the Discharge of
+                            </p>
+                            <p rend="italic">Are these Chruches sufficient to contain the Inhabitants of each Parish, including the Negroes?</p>
+                            <p rend="italic">In general they are not sufficient to contain the twentieth Part.</p>
+                            <p rend="italic">Are the Parishes of that Extent, that One Minister in each Parish is sufficient for the Discharge of
                                 his ministerial Duty;
-                            </ab>
-                            <ab rend="italic">For the Duty of the Church One Minister is sufficient, but, as the Parishes are very large, more
+                            </p>
+                            <p rend="italic">For the Duty of the Church One Minister is sufficient, but, as the Parishes are very large, more
                                 Chapels of Ease would be convenient.
-                            </ab>
+                            </p>
+                            <p rend="italic">Are the Negroes at Liberty to go to the Place of Divine Worship, if they choose it?</p>
+                            <p rend="italic">They are never hindered; for though the general Rule of the Island is, to prevent them going beyond
+                                the Bounds of the Estate they belong to without a Ticket, such Ticket is never refused to any Negro
+                                that asks it for the Purpose of going to Church.
+                            </p>
+                            
+                            <pb/>
+                            
+                            <p rend="italic">Is there any Impediment to their Attendance upon Divine Service, besides their own Disposition?</p>
+                            <p rend="italic">Yes—the Distance of the Church from the Place of their Residence and the Heat of the Sun in that
+                                Climate.
+                            </p>
+                            <p rend="italic">What is the Religion of those Negroes who are not Christians? Are they pagans, or 
+                                Mahometans?
+                            </p>
+                            <p rend="italic">They are either Pagans or Mahometans, but principally Pagans. The Mahometans are those that
+                                come from the Mandingo Country chiefly.
+                            </p>
+                            <p>Are there any Roman Catholics among the Negroes?</p>
+                            <p>There are some who were brought from Guadaloupe in the War before the last, and some Runaways
+                                from the neighbouring Spanish and French Islands.
+                            </p>
+                            <p>None in particular. The Consolidated Slave Law directs, that Endeavours shall be used to
+                                instruct the Slaves in the Knowledge of Christianity.
+                            </p>
+                        </div>
+                        <div type="subsection">
+                            <head>A. Nº 20.</head>
+                            <p>Are any Missionaries sent from England for the instruction of Negro Slaves, and what
+                                has been their Success? If unsuccessful, to what Causes is it to be attributed?
+                            </p>
+                            <p>We believe that there have been none, under that Description, sent to Jamaica, of the
+                                Established Curch; but some Missionaries of the Moravian Sect have attempted the
+                                religious instruction of Negroes, but we knownot with what Success.
+                            </p>
+                            <p>No Missionaries have been sent hither from England for the Instruction of Slaves, except
+                                a few Moravians; but it has not appeared that they have been of much, if any Use.
+                            </p>
+                        </div>
+                        <div type="subsection">
+                            <head>A. Nº 21.</head>
+                            <p>Are the Missionaries more successful in the Instruction and Conversion of Free Negores,
+                                than in the Instruction and Conversion of Slaves; and to what Causes is any Difference in 
+                                this Respect to be imputed?
+                            </p>
+                            <p>We know not.</p>
+                            <p>This Head can no otherwise be answered than as above.</p>
+                        </div>
+                        <div type="subsection">
+                            <head>A. Nº 22, 23, 24, 25, 26.</head>
+                            <p>Whether Negores called Obeah-Men, or under any other Denomination, practising Witchcraft,
+                                exist in the Island of Jamaica?
+                            </p>
+                            <p>By what Arts or by what Means, do these Obeah-Men cause the Deathsm or otherwise injure,
+                                those who are supposed to be the influenced thereby; and what are the Symptoms and Effects
+                                that have been observed to be produced in People who are supposed to be under the 
+                                Influence of their Practices.
+                            </p>
+                            <p>Are the Instances of Death or Diseases produced by these Arts or Means frequent?</p>
+                            <p>Are these Arts or Means brought by the Obeah-Men from Africa, or are they Infentions
+                                which have been originated on the Island?
+                            </p>
+                            <p>Whether any or what Laws exist in the Island of Jamaica for their Punishment, and
+                                what evidence is generally Required for their Conviction?
+                            </p>
+                            <p>The term <distinct rend="italic">Obeah</distinct>, <distinct rend="italic">Obiah</distinct>, or <distinct rend="italic">Obia</distinct> (for it is variously written), we conceive to be the
+                                Adjective, and <distinct rend="italic">Obe</distinct> or <distinct rend="italic">Obi</distinct> the Noun Substantive; and that by the Words <rs type="properAdjective" rend="italic">Obia</rs> Men or
+                                Women, are meant those who practise <distinct rend="italic">Obi</distinct>. The Origin ofthe Term we should consider
+                                as of no Importance in our Answer to the Questions proposed, if, in search of it, we were
+                                not led to Disquisitions that are highly gratifying to Curiosity. From the learned Mr.
+                                Bryant's <seg xml:id="a02ish" corresp="#n02ish">(a)</seg>  Commentary upon the Word <distinct rend="italic" type="mentioned">Oph</distinct>, we obtain a very probable Etymology of
+                                the Term—<quote rend="quotes">A Serpetn, in the Egyptian Language, was called <distinct rend="italic">Ob</distinct> or <distinct rend="italic">Aub</distinct>.</quote>—<quote><distinct rend="italic">Obion</distinct>
+                                is still the Egyptian Name for a Serpent</quote>—<quote rend="italic">Moses, in the Name of God, forbids the
+                                
+                                <pb/>
+                                
+                                Israelites ever to enquire of the Dæmon <distinct>Ob</distinct>, which is translated in our Bible, Charmer or
+                                Wizard, Divinator aut Sortilegus</quote>—<quote rend="quotes">The Woman at Endor is called <distinct rend="italic">Oub</distinct> or <distinct rend="italic">Ob</distinct>,
+                                translated Pythonissa, and <distinct rend="italic">Oubaios</distinct></quote> (he cites from <persName rend="italic">Hours Apollo</persName>) <quote rend="quotes">was the Name of the
+                                Basilisk or Royal Serpent, Emblem of the Sun, and an ancient oracular Diety of Africa.</quote>
+                                This Derivation, which applies to one particular Sect, the Remnant probably of a very
+                                celebrated religious Order in remote Ages, is now become in Jamaica the general Term to
+                                denote those Africans who in that Island practise Witchcraft and Sorcery, comprehending also
+                                the Class of what are called Myal-Men, or those who by means of a narcotic Potion, made
+                                with the Juice of an Erb (said to be the branched <distinct rend="italic">Calalue</distinct> or Species of <distinct rend="italic">Solanum</distinct>) which
+                                occasions a Trance of profound Sleep of a certain Duration, endeavour to convince the
+                                deluded Spectators of their Power to reanimate dead Bodies.
+                            </p>
+                            <p>As far as we are able to decide from our own Experience and Information when we lived
+                                in the Island, and from the concurrent Testimony of all the Negroes we have ever conversed
+                                with on the Subject, the Professors of of <distinct rend="italic">Obi</distinct> are, and always were, Natives of Africa,
+                                and none other, and they have brought the Science with them from thence to Jamaica,
+                                where it is so universally practiced, tha we believe there are few of the larger Estates possessing
+                                those who usually attract the greatest Devotion and Confidence, those whose hoary Heads,
+                                and a somewhat peculiarly harsh and diaboloic in their Aspect, together with some Skill in
+                                Plants of the medicinal and poisonous Species, have qualified them for successful imposition
+                                upon the weak and credulous. The Noegroes in general, whether Africans or Creoles, revere,
+                                consult, and abhor them; to these Oracles they resort, and with the most implicit Faith, upon
+                                all occasions, whether for the Cure of Disorders, and the obtaining Revenge for the Injuries or
+                                Insults, the Conciliating of Favour, the Discovery and Punishment of the Thief or the
+                                Adulterer, and the Prediction of future Events. The Trade with these Wretches carry on
+                                at different Prices. A Veil of Myster is studiously thrown over their Incantations, to
+                                which the Midnight Hours are allotted, and every Precuation is taken to conceal them from
+                                the Knowledge and Discovery of the White People. The deluded Negroes, who thoroughly
+                                believe in their supernatural Power, become the willing Accomplices in this Concealment,
+                                and the stoutest among them tremble at the very Sight of the ragged Bundle, the Bottle or
+                                the Egg-shells, which are stuck in the Thatch or hung over the Door of a Hut, or upon the
+                                Branch of a Plantain Tree, to deter Marauders. In Cases of Poison, the natural Effects of
+                                it are by the ignorant Negroes ascribed entirely to the potent workings of <name rend="italic">Obi</name>. The
+                                wiser Negroes hesitate to reveal their Suspicions, through a Dread of incurring the terrible
+                                Vengeance which is fulminated by the <name rend="italic">Obiah-men</name> against any who should betray them; it is
+                                very difficult therefore for the White Proprietor to distinguish the <distinct rend="italic">Obia Possessor</distinct> from any
+                                other Negro upon his Plantation; and so infatuated are the Blacks in general, that but few
+                                Instances occur of their having assumed Courage enough to impeach these Miscreants. With
+                                Minds so firmly prepossessed, they no sooner find <name rend="italic">Obi</name> <emph>set for them</emph> near the Door of their
+                                House, or in the Path which leads to it, than they give themselves up for lost. When a
+                                Negro is robbed of a Fowl or a Hog, he applies directly to the <rs type="properAdjective">Obiah</rs>-Man or Woman; it
+                                is then made known among his Fellow Blacks, that <distinct rend="italic"><name>Obi</name> is set</distinct> for the Thief; and as soon as
+                                the latter hears the dreadful News, his terrified Imagination begins to work, no Resource is
+                                left but in the superior Skill of some more eminent <name rend="italic">Obiah-Man</name> of the Neighbourhood,
+                                who may counteract the magical Operations of the other; but if no one can be found
+                                of higher Rank and Ability, or if after gaining such an Ally he should still fancy himself
+                                affected, he presently falls into a Decline, under the incessant Horrour of impending Calamities.
+                                The slightest painful Sensation in the Head, the Bowels, or any other Part, any
+                                casual Loss or Hurt, confirms his apprehensions, and he belives himself the devoted 
+                                Victim of an invisible and irresistible Agency. Sleep, Appetite, and Cheerfulness, forsake
+                                him, his Strength decays, his disturbed Imagination is haunted without Respite, his Features
+                                wear the settled Gloom of Despondency; Dirt, or any other unwholesome Substance, becomes
+                                his only Food, he contracts morbid Habit of the Body, and gradually sinks into the Grave.
+                                A Negro, who is taken ill, enquires of the <name rend="italic">Obiah-man</name> the Cause of his Sickness, whether
+                                it will prove mortal or not, and within what Time he shall die or recover? The Oracle
+                                generally ascribes the Distemper to the Malice of some particular Person by Name, and
+                                advises to set <name rend="italic">Obi</name> for that Person; but if no Hopes are given of Recovery, immediate
+                                Despair takes place, which no Medicine can remove, and Death is the certain Consequence.
+                                Those anomalous Symptoms, which originate from Causes deeply rooted in the Mind, such
+                                as the Terrours of <name rend="italic">Obi</name>, or from Poisons, whose Operation is slow and intricate, will baffle
+                                the Skill of the ablest Physician.
+                            </p>
+                            <p>Considering the Multitude of Occasions which may provoke the Negroes to exercise the
+                                Power of <name rend="italic">Obi</name> against each other, and the astonishing Influence of this Superstition upon their
+                                Minds, we cannot but attribute a very considerable Portion of the annual Mortality among
+                                the Negroes of Jamaica to this fascinating Mischief.
+                            </p>
+                            
+                            <pb/>
+                            
+                            <p>The <name rend="italic">Obi</name> is usually composed of a Farrago of Materials, most of which are enumerated in
+                                the Jamaica Law <seg xml:id="a03ish" corresp="#n03ish">(a)</seg>, viz. <quote rend="quotes">Blood, Feathers, Parrots Beaks, Dogs Teeth, Alligators
+                                Teeth, Broken Bottles, Grave Dirth, Rum, and Eggshells.</quote>
+                            </p>
+                            <p>With a view to illustrate the Description we have given of this Practice and its common
+                                Effects, we have subjoined a few Examples out of the very great Number which have occurred
+                                in Jamaica; not that they are peculiar to that Island only, for we believe similar Examples
+                                may be found in other West India Colonies. <persName rend="italic">Pere Labat</persName>, in his History of Martinico, has
+                                mentioned some which are very remakrable <seg xml:id="a04ish" corresp="#n04ish">(b)</seg>.
+                            </p>
+                            <p>It may seem extraordinary, that a Practice alleged to be so freqent in Jamaica should not
+                                have received an early Check from the Legislature. The Truth is, that the Skill of some
+                                Negroes in the Art of Poisoning has been noticed ever since the Colonists became much
+                                acquainted with them. Sloane and Barham, who practised Physic in Jamaica in thelast Century, 
+                                have mentioned particular instances of it. The secret and insidious Manner in which
+                                this Crime is generally perpetuated, makes the legal Proof of it extremely difficult. Suspicions
+                                therefore have been frequent, but Detections rare: These Murderers have <emph>sometimes</emph>
+                                been brought to Justice, but it is reasonable to believe that a far greater Number have
+                                escaped with Impunity. In regard to the other and more common Tricks of <name rend="italic">Obi</name>, such as
+                                hanging up Feathers, Bottles Eggshells, &amp;c. &amp;c. in order to intimidate Negroes of a theivish
+                                Disposition from plundering Huts, Hog-styes, or Provision Grounds, these were laughted at by
+                                the White Inhabitants as harmless Stratagems, contrived by the more sagacious for deterring
+                                the more simple and superstitious Blacks, and serving for much the same Purpose as the
+                                Scarecrows, which are in general used among our English Farmers and Gardeners. Bt in the
+                                Year 1760, when a very formidible Insurrection of the Cormantin or Gold Coast Negroes
+                                broke out in the Parish of St. Mary, and spread through almost every other District of the 
+                                Parish, who had administered the Fetish or solemn Oath to the Conspirators, and furnished 
+                                them with a magical Preparation which was to render them invulnerable, was fortunately 
+                                apprehended, convicted, and hung up with all his Feathers and Trumperies about him and
+                                this Execution struck the Insurgents with a general Panic, from which they never afterwards
+                                recovered. The Examinations which were taken at that period first opened the Eyes of
+                                this Law, the strict Investigation which ever since been made after the Professors of <name rend="italic">Obi</name>,
+                                nor the many Examples of those who from Time to Time have been hanged or transported,
+                                like others in the World, has flourished under Persecution; or that fresh Supplies are annually
+                                introduced from the African Seminaries.
+                            </p>
+                            <div> <!-- label "A" is placed here --> <!-- this whole section is a little bonkers -->
+                                <head>The Paper referred to in the preceding Account.</head>
+                                <p>We have the following Narratives from a Planter in Jamaica, a Gentleman of the strictest
+                                    Veracity, who is now in London, and ready to attest the truth of them.
+                                </p>
+                                <div>
+                                    <label>A.</label>
+                                    <p>Upon returning to Jamaica in the Year 1775, he found a great many of his Negroes had died
+                                        during his Absence; and that of such as remained alive, at least One-half were debilitated,
+                                        bloated, and in a very deplorable Condition. The Mortality continued after his Arrival, and
+                                        Two or Three were frequently buried in One Day; others were taken ill, and began to decline
+                                        under the same Symptoms. Every Means were tried by Medicines, and the most
+                                        careful Nursing, to preseve the Lives of the feebles; but in spite of all his Endeavours,
+                                        this Depopulation went on for above a Twelvemonth longer, with more or less Intermission,
+                                        and without his being able to ascertain the real Cause, though the <distinct rend="italic">Obiah Practice</distinct> was strongly
+                                        suspected, as well by himself, as by the Doctor and other White Persons upon the Plantation,
+                                        as it was known to have been very common in that Part of the Island, and particularly among the
+                                        Negroes of the <placeName rend="italic">Pawpaw</placeName> of <placeName rend="italic">Popo</placeName> Country. Still he was unable to verify his Suspicions, because
+                                        the Patients constantly denied their having any Thing to do with Persons of that Order, or
+                                        any Knowledge of them. At length a Negress, who had been ill for some Time, came one
+                                        Day and informed him, that feeling it was impossible for her to live much longer, she thought
+                                        herself bound in Duty, before she died, to impart a very great Secret, and acquant him
+                                        with the true Cause of her Disorder, in hopes that the Disclosure might prove the Means
+                                        of stopping that Mischief which had already swept away a Number of her Fellow-slaves.
+                                        She proceeded to say, that her Step-mother (a Woman of the <placeName rend="italic">Popo <hi rend="upright">Country</hi></placeName>, above Eighty
+                                        Years old, but still hale and active) had put <distinct rend="italic"><name>Obi</name> upon her</distinct>, as she had also done upon those
+                                        who had lately died; and that the old Woman had practised <name rend="italic">Obi</name> for as many Years past
+                                        as she could remember.
+                                    </p>
+                                        
+                                        <pb/>
+                                        
+                                    <p>The other Negroes of the Plantation no sooner heard of this Impeachment, than they ran
+                                        in a Body to their Master, and confirmed the Truth of it, adding, that she had carried on
+                                        this Business ever since her Arrival from Africa, and was the Terror of the whole Neighbourhood.—
+                                        Upon this he repaired directly with Six White Servants to the old Woman's House,
+                                        and forcing open the Door, observed the whole inside of the Roof (which was Thatch),
+                                        and every Crevice of the Walls, stuck with the Implements of her trade, consisting of Rags,
+                                        Feathers, Bones of Cats, and a thousand other Articles. Examining further, a large earthen
+                                        Pot or Jar, close covered, was found concealed under the Bed.—It contained a prodigious
+                                        quantity of round Balls of Earth or Clay of various Dimensions, large and small, whitened
+                                        on the Outside, and variously compounded, some with Hair and Rags or Feathers of all Sorts,
+                                        and strongly bound with Twine; others Blended with the upper Section of the Skulls of Cats,
+                                        or stuck round with Cats Teeth and Claws, or with Human or Dogs Teeth, and some Glass
+                                        Beads of different Colours; there were also a great many Eggshells filled with a viscous or
+                                        gummy Substance, the Qualities of which he neglected to examine, and many little Bags
+                                        stuffed with a variety of Articles, the Particulars of which cannot at this Distance of Time
+                                        be recollected. The House was instantly pulled down, and with the whole of its Contents 
+                                        committed to Flames, amidst the general Acclamations of all his other Negroes. In regard
+                                        to the old Woman, he declined bringing her to Trial under the Law of the Island, which
+                                        would have punished her with Death; but from a Principle of Humanity, delivered her into
+                                        the Hands of a Party of Spaniards, who (as she was thought not incapable of doing some
+                                        trifling Kind of Work) were very glad to accept and carry her with them to Cuba. From the 
+                                        Moment of her Departure, his Negroes seemed all to be animated with new Spirits, and the
+                                        Malady spread no farther among them. The Total of his Losses in the course of about Fifteen
+                                        Years preceding the Discover, and imputable solely to the <distinct rend="italic">Obiah Practice</distinct>, he estimates
+                                        at the least, at One Hundred Negroes.
+                                    </p>
+                                </div>
+                                <div>
+                                    <label>B.</label>
+                                    <p>A Wainman (or Waggoner) belonging to the same Plantation happened to lose a Steer
+                                        one very hot Day, on the Road leading to the Shipping Place. The poor Fellow, exceedingly
+                                        vexed at this Accident, immediately went to a noted <name>Obiah-man</name>, who lived near the
+                                        Spot, and after paying thim the usual Fee of 2s. 6d. desired to know the Cause of his being
+                                        so remarkably unfortunate, whilse the other Wainmen travelling on the same Road, and on the
+                                        same Day, had lost none of their Cattle? He concluded with petitioning for <distinct rend="italic">Obi to be put</distinct>,
+                                        that the other Wainmen might suffer equally with himself, or that <emph>he</emph> might not be so particularly
+                                        distinguished for ill Luck.
+                                    </p>
+                                </div>
+                                <div>
+                                    <label>C.</label>
+                                    <p>It may not be desirable that we should multiply Examples, to shew the Prevalence of this
+                                        Superstition; we shall therefore only add one more, in order to display the Influence of ti,
+                                        over Negroes even of tender Years.—As a Gentleman was travelling not long since from Spanish
+                                        Town to Kingston, in Jamaica, accompanied by his Servant (a Negro Boy of about the 
+                                        Age of 12 to 14 Years), who rode a little way before him, the Boy on a sudden stopped short,
+                                        truned about in a very great Fright, and refused to proceed; his Master, surprised at all this, 
+                                        desired to know what was the matter with him? The Boy pointed with a look of Anxiety to
+                                        something on one Side the Raod, which at last his master discovered to be nothing more than
+                                        a Glass Bottle hung by the Neck upon a Sktick which wa fixed in the ground. It was quite
+                                        in vain for him to argue the Case; for neither Threats nor Pursuasion could prevail upon his
+                                        Servant to pass it, nor would he proceed an Inch till his Master had dismounted, and by breaking 
+                                        the Bottle destroyed the <name rend="italic">Obi</name>.
+                                    </p>
+                                    <p>Mr. Fuller thinks that Obeah, or Oby, comes from <!-- greek -->, Serpesn, and that it is a
+                                        manifest Trace of the <rs type="properAdjective" rend="italic">Manichean</rs> Heresy., which prevailed for many Years in Arabia, Egypt
+                                        and Africa, and might possibly take its rise from the Temptation of Eve in Paradise <seg>(a)</seg>.
+                                    </p>
+                                    <p>As for the Word Myal, it may possibly come from the Greek Word <!-- greek --> docere ea quæ ad
+                                        Res sacras seu divinas pertinent, instruere in Sacris initiare: or from <!-- greek --> claudo premo, 
+                                        occulto; from whence <!-- greek --> might also be derived, at its Derivatives <!-- greek -->;
+                                        <!-- greek --> &amp;c.
+                                    </p>
+                                </div>
+                            </div>
+                            <div>
+                                <head>The following Paper relating to the Obeah-men in Jamaica, was delivered by
+                                    Mr. Rheder.
+                                </head>
+                                <p>Obeah-men are the oldest and most artful Negroes; a Peculairity marks them, and every
+                                    Negro pays the greatest Respect to them, they are perfectly well acquainted with medicinal
+                                    Herbs, and know the poisonous ones, which they often use. To prepsess the Stranger in
+                                    favour of their Skill, he is told that they can restore the Dead to Life; for this Purpose he
+                                    is shewn a Negro apparently dead, who, by Dint of their Art, soon recovers; this is produced 
+                                    by administering the narcotic Juice of Vegetables. On searching one of the Obeah-men's
+                                    Houses, was found many Bags filled with parts of Animals, Vegetables, and Earth, which
+                                    the Negroes who attended at the Sight of, were struck with Terror, and begged that they
+                                    might be christened, which was done, and the Impression was done away. In consequence 
+                                    of the Rebellion of the Negroes in the Year 1760, a Law was enacted that Year to render the
+                                    Practice of Obiah, Death.
+                                </p>
+                                <p>The Influence of the Professors of that Art was such as to induce many to enter into that
+                                    Rebellion on the Assurance that they were to be invulnerable, and to render them so, the
+                                    Obeah-men gave them a Powder with which they were to rub themselves.
+                                </p>
+                                <p>On the First Engagement with the Rebels Nine of them were killed, and many Prisoners
+                                    taken: Among the Prisoners was a very sensible Fellow, who offered to discover many 
+                                    important Matters, on the condition that his Life should be spared, which was promised. He then
+                                    related the Part the Obeah-men had taken, One of whom was capitally convicted and 
+                                    sentenced to Death.
+                                </p>
+                                <p>At the Place of Execution he bid defiance to the Executioner, telling him that it was not
+                                    in the Power of White People to kill him; and the Negro Spectators were astonished when
+                                    they saw him expire. On the other Obeah-men, various Experiments wer made with Exectrical
+                                    Machines and Magic Lanthorns, which produced very little Effect; except on one who,
+                                    after receiving many severe Shocks, acknowledged his Master's Obeah exceeded his own.
+                                </p>
+                                <p>I remember sitting Twice on Trials of Obea-men, who were convicted on selling their
+                                    Nostrums, which had produced Death. To prove the Fact, Two Witnesses are necessary,
+                                    with corroborating Circumstances.
+                                </p>
+                            </div>
+                            <div>
+                                <head>The following Paper was delivered by Mr. Fuller, respecting the Evidence 
+                                    generally required for the conviction of Persons who have been tried on the Charge of 
+                                    practicing <name rend="italic">Obeah</name>.
+                                </head>
+                                <p>The Gentleman to whom this Question was particularly referred, having never sat upon,
+                                    nor attended any Trial of this Kind, cannot, from their own personal Knowledge, take upon
+                                    them to explan the Nature of the Evidence, which as been generally required for constituting
+                                    a legal Conviction in such Cases.
+                                </p>
+                                <p>Of the Jamaica Planters now in London, they have, after the most diligent Inquiries, been
+                                    able to meet with only <emph>One</emph> who has attended any such Trials; and they regret exceedingly,
+                                    that the Intelligence which they obtained from him did not appear sufficiently <seg>(a)</seg> pertinent.
+                                </p>
+                                <p>The Cerks of the Peace in the several Parishes or Precincts of Jamaica, whose Duty it is
+                                    to attend these trials to take Minutes of the Evidence, adn to record the Proceedings in their
+                                    official Rolls, might probably Furnish very ample information as to the Proofs which have
+                                    generally operated to Conviction. But we do not know of any Person now in England who
+                                    has acted in that Capacity, and therefore can offer nothing satisfactory on the Subject of the
+                                    Question now proposed.
+                                </p>
+                            </div>
+                            <div>
+                                <head>Obeah Pracitce.</head>
+                                <div>
+                                    <label>Jamaica, ss. Case I.</label>
+                                    <p>Among the Domestics of a Planter in the Parish of Vere, were Two
+                                        Negresses who had suckled Two of his Children, and a Negro who served him
+                                        in the Capacity of Butler or Waiting-man. The Infant which was nursed by One of these
+                                        Women happened to die. Her Misbehaviour after this was such as obliged her Master to
+                                        turn her out of his House, and she was ordered to work among the Field Negroes, The
+                                        Butler, who was her own Brother, highly incensed at this, shewed some Symptoms of 
+                                        Discontent, which were not much regarded; but, in the course of a few Days, the Water of a
+                                        Well from whic hthe Family had their daily Supply, was observed to be very much discoloured, 
+                                        and intolerably fetid. His Master, imagining these might be the natural Effects of
+                                        Stagnation, ordered the Well to be drawn till it was supposed to be nearly drained. But 
+                                        notwithstanding this Operation, the Water still continued ill-coloured, nauseous to the Taste,
+                                        and offensive to the Smell. A Man was then let down, who brough up a <distinct rend="italic">white Fowl</distinct> in a
+                                        
+                                        <pb/>
+                                        
+                                        very putrid State, without Beak or Claws, which had all been cut off. This Fowl was
+                                        proved to have belonged to the Butler's Grandmother, residing upon or near the same Plantation.
+                                        On further Examination, a large Quantity of <distinct rend="italic">Indigo Seed</distinct> was fished up from the
+                                        Bottom of the Well. These Circumstances occasioned Suspicions of some Mischievous Design.
+                                        The Houses of all the Negroes were Searched, and at one of them, inhabited by a
+                                        near Relation of the Butler, a <distinct rend="italic">Calibash</distinct> or Bowl was found, out of which a <distinct rend="italic">greenish Liquid</distinct>
+                                        had been recently emptied. This Circumstance brought to mind, that a Phial containing a
+                                        Liquid of similar Appearance, had been noticed in the Butler's Pantry, who, upon the first
+                                        Rumour of a Search, had conveyed it away. Still it was undecided upon whom the Suspicion
+                                        ought to fall, till the Cook came voluntarily to his Master (apprehensive for his own
+                                        Safety, if Poison should be privately thrown into any of his Dishes), and gave positive
+                                        Information of <quote rend="quotes">his having overheard the Butler threatening <emph>Revenge</emph>, and vowing that he
+                                        would <quote rend="italic">buy some Obi to put for his Master</quote>.</quote>
+                                    </p>
+                                    <p>Upon the Evidence of this Menace, the consequent Impoisoning of the Water, and the 
+                                        other Circumstances, the Butler was brought to Trail, convicted, and sentenced to
+                                        Transportation. The Rectitude of his Sentence was confirmed by the Man's free Confession
+                                        immediately before he was put on board Ship.
+                                    </p>
+                                </div>
+                                <div>
+                                    <label>Second.</label>
+                                    <p>A valuable Negro had for his Wife a Negress who resided on a neighbouring
+                                        Plantation. This Woman fell suddenly into a Decline, without any known Cause, and languishing
+                                        for some Time, contracted at length a very morbid Habit of Body. The Doctor who
+                                        attended her, and tried a Variety of Medicens without any good Effect, declared it beyond
+                                        his Power to afford her any Reliev, and pronounced her incurable. When her Death was
+                                        every Day expected, and after much Importunity to discover the Cause of her Disorder, she 
+                                        was prevailed on to confess that her Husband, from a violent Suspicion of her Infidelity to
+                                        him, and on her sturdy Denial of the Charge, had obliged her <quote rend="quotes">to take Swear</quote> (as she
+                                        called it), by drining a Mixture of <distinct rend="italic">Grave Dirt</distinct> and <distinct rend="italic">water</distinct>, accompanied by the usual
+                                        Imprecation (that her Belly might swell and burst, and her Bones rot, if she was guilty). She
+                                        concluded with deploring the miserable End to which she had brought herself by denying the 
+                                        Fact, for that she really had been false to him. Intelligence of this Confession was given to
+                                        her Husband's Master, who sent immediately for him, and representing the Perin in which he
+                                        stood under the Law of the Land, which had declared the <distinct rend="italic">Obiah Practice</distinct>, with <distinct rend="italic">Grave Dirt</distinct>,
+                                        a capital Offence, advised him to go directly to his Wife, and endeavour to cajole her into a
+                                        Belief, that it was nothing more than a sly Contrivance of his own to get at the truth: That
+                                        the Mixture she had swallowed was not made with <distinct rend="italic">Obiah Dirt</distinct>, but only with a little common
+                                        Earth, which he had picked up on the rad, and therefore it was very harmless. The Fellow
+                                        (who had owned the Fact to his Master) joyfully took his Advice, and acted his Part so
+                                        well , that the poor Woman was completely duped a second Time, and recovering her Spirits,
+                                        was soon restored to perfect Health.
+                                    </p>
+                                    <p>If this Woman had died, the Evidence of her Declaration would not have been deemed
+                                        sufficient for convicting her Husband of <distinct rend="italic">Obiah Practice</distinct>; so that, in such Event, and without
+                                        his own free Confession of the Fact, he would have escaped with Impunity. The singular
+                                        Test of her Continence (it may be remarked by the way) so closely resembles the <title rend="italic">Trial of
+                                        Jealousy</title> by the <distinct rend="italic">bitter Water</distinct> described in the <title>Book of Numbers</title> (Chap. 5) as to point out
+                                        something of a common Origin between them in the most ancient Laws and Customs of
+                                        Africa.
+                                    </p>
+                                </div>
+                                <trailer>Some other Cases are promised, but have not yet been received.</trailer>
+                            </div>
+                            <div>
+                                <head>Obiah Trials.</head>
+                                <p>Having received some further Information upon this Subject from another Jamaica Gentleman,
+                                    who has sat upon the <mcr>Two</mcr> Trials, we beg leave to deliver the same in his own Words, and
+                                    as a Supplement to what we have already had the Honour of submitting.
+                                </p>
+                                <p>In the Year 1760, the Influence of the Professors of the <distinct rend="italic">Obiah Art</distinct> was such, as to induce a 
+                                    great many of the Negro Slaves in Jamaica to engage in the Rebellion which happened in
+                                    that Year, and which gave rise to the Law which was then made against the Practice of <distinct rend="italic">Obiah</distinct>.
+                                </p>
+                                <p>Assurance was given to these deluded People, that they were to become invulnerable; and
+                                    in order to render them so, the <name rend="italic">Obiah-men</name> furnished them with a Powder with which they were 
+                                    to rub themselves.
+                                </p>
+                                <p>In the First Engagement with the Rebels, Nine of them were killed, and many Prisoners
+                                    taken; amongst the latter was One very intelligent Fellow, who offered to disclose many
+                                    important Matters, on conditin that his Life should be spares, which was promised. He then
+                                    related the active Part which the Negroes, known among them by the Name of <name rend="italic">Obiah-men</name>,
+                                    
+                                    <pb/>
+                                    
+                                    had taken in promoting th Insurrection; One of whom was thereupon apprehended, tried (for
+                                    rebellious Conspiracy), convicted, and sentenced to Death.
+                                </p>
+                                <note>[N.B. This was the Cormantin Obiah-man alluded to in our First Paper presented on 
+                                    the Subject of Obiah.]</note>
+                                <p>At the Place of Execution, he bid defiance to the Executioner telling him, that <quote rend="quotes">It
+                                    was not in the Power of the White People to kill him.</quote> And the Negroes (Spectators) were
+                                    greatly perplexed when they saw him expire. Upon other <name rend="italic">Obiah-men</name>, who were apprehended
+                                    at that Time, various Experiments were made with Electrical Machines and Magic Lanthorns,
+                                    but with very little Effect, except on One, who, after recieving some very severe Shocks,
+                                    acknowledged that <quote rend="quotes">his Master's <name rend="italics">Obiah</name> exceeded his own.</quote>
+                                </p>
+                                <p>The Gentleman from whom we have this account, remembers having sat <emph>Twice</emph> on Trials
+                                    of <name rend="italic">Obiah-men</name>, who were both convicted of selling their <distinct rend="italic">Obiah preparations</distinct>, qhich had
+                                    occasioned the Death of the Parties to whom they had been administered; notiwthstanding which
+                                    the Lenity of their Judges prevailed so far, that they were only punished with Transportation.
+                                    To prove the Fact, Two Witnesses were deemed necessary, with corroborating Circumstances.
+                                </p>
+                                <p>Committee of the Council of the Island have returned no Answer to these Heads of Inquiry.</p>
+                            </div>
+                        </div>
+                        <div>
+                            <head>A. Nº 27.</head>
+                            <p>Whether many of the Negroes in the Island are Mahometans?</p>
+                            <p>Vide Answers, A. No. 19.</p>
+                            <p>No Answer.</p>
+                        </div>
+                        <div>
+                            <head>A. Nº 28.</head>
+                            <p>With respect to Negro Slaves and Free Negroes, what is the Proportion between Males and
+                                Females?
+                            </p>
+                            <p>Must refer to Information to be collected in the Island by general Inquiry in everyParish,
+                                which is very practicable by a small Alteration in the quarterly Returns given in to the Vestry
+                                by each Proprietor: At present these Returns give the total Number of Negroes, without
+                                Specification of Ages or Sexes.
+                            </p>
+                            <p>No Answer from the Council.</p>
+                        </div>
+                        <div>
+                            <head>A. Nº 29.</head>
+                            <p>What is the average Value for a Country-born Negro Man and Woman? And what the
+                                average Value of an Imported Negro Man and Woman?
+                            </p>
+                            <p>The Answer must consist of several Parts:—</p>
+                            <table rows="4">
+                                <head>1st. The Price per Head now paid to the African Merchant for—</head>
+                                <row>
+                                    <cell>Able Men</cell>
+                                    <cell>£62 to £65</cell>
+                                    <cell>Jamaica Currency (140 per Cent.)</cell>
+                                </row>
+                                <row>
+                                    <cell>Ditto Women</cell>
+                                    <cell>60 to 63</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>Ditto Boys</cell>
+                                    <cell>55 to 60</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>Ditto Girls</cell>
+                                    <cell>53 to 58</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                            </table>
+                            <p>These new Negroes must necessarily be of inferior Value, because they enter into a
+                                new Climate, and perhaps Change of Diet; are unfit for immediate Labour; unacquainted
+                                with Tools or Implements of Work, or the Manner of performing it; have every thing to
+                                learn, and earn nothing.
+                            </p>
+                            <table rows="21">
+                                <head>2d. The Price per Head of Able Field native</head>
+                                <row>
+                                    <cell>Negro Men</cell>
+                                    <cell>£80 to £100</cell>
+                                </row>
+                                <row>
+                                    <cell>Ditto Women</cell>
+                                    <cell>75 to 85</cell>
+                                </row>
+                                <row>
+                                    <cell>Carpenters, Mill-wright, Copper-smith</cell>
+                                    <cell>140 to 300</cell>
+                                </row>
+                                <row>
+                                    <cell>Wheel-wright, Cooper, Sawyer, Distiller</cell>
+                                    <cell>120 to 200</cell>
+                                </row>
+                                
+                                <pb/>
+                                
+                                <row>
+                                    <cell>Wainman</cell>
+                                    <cell>£120 to £140</cell>
+                                </row>
+                                <row>
+                                    <cell>Blacksmith</cell>
+                                    <cell>140 to 200</cell>
+                                </row>
+                                <row>
+                                    <cell>Bricklayer</cell>
+                                    <cell>140 to 200</cell>
+                                </row>
+                                <row>
+                                    <cell>Midwife</cell>
+                                    <cell>150 to 200</cell>
+                                </row>
+                                <row>
+                                    <cell>Head Drivers</cell>
+                                    <cell>120 to 150</cell>
+                                </row>
+                                <row>
+                                    <cell>Boilers</cell>
+                                    <cell>100 to 120</cell>
+                                </row>
+                                <row>
+                                    <cell>Mulemen</cell>
+                                    <cell>100</cell>
+                                </row>
+                                <row>
+                                    <cell>Cattlemen</cell>
+                                    <cell>100</cell>
+                                </row>
+                                <row>
+                                    <cell>Tradesmen.—Smiths, Coopers,
+                                    Copper-smiths, Carpenters, Mill-
+                                    wrights, Wheel-wrights, Joiners,
+                                    Brickmakers, Masons, Blacksmiths,
+                                    Doctors</cell>
+                                    <cell>100 to 200</cell>
+                                </row>
+                                <row>
+                                    <cell>Superannuated Men and Women</cell>
+                                    <cell>5 to 40</cell>
+                                </row>
+                                <row>
+                                    <cell>Youths of both Sexes</cell>
+                                    <cell>60 to 80</cell>
+                                </row>
+                                <row>
+                                    <cell>Infants</cell>
+                                    <cell>5 to 20 to 30</cell>
+                                </row>
+                            </table>
+                            <p>The Value of a Creole Negroe Man is about 100 l. Currency; a Woman about 90 l.—The
+                                best Negro Man newly imported is worth about 70 l.; a Woman about 60 l.
+                            </p>
+                        </div>
+                        <div>
+                            <head>A. Nº 30.</head>
+                            <p>Has the Produce of each of the Islands increased in proportion to the increased Number of
+                                Negro Slaves?—And, if it has not so increased, what Reason is to be assigned for it?
+                            </p>
                         </div>
                     </div>
                 </div>
