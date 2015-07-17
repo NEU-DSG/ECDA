@@ -53,7 +53,7 @@
                     </interpGrp>
                 </note>
                 <note xml:id="n01ish" target="#a01ish">
-                    <p><label>(a)</label> The above-mentioned Law was repealed in <date when="1788-12">December 1788</date>, bt an Act intituled, <title rend="quotes">An Act to repeal an
+                    <p><label>(a)</label> The above-mentioned Law was repealed in <date when="1788-12">December 1788</date>, by an Act intituled, <title rend="quotes">An Act to repeal an
                         Act, intituled, An Act to repeal several Acts and Clauses of Acts respecting Slaves, and for the better Order
                         and Government of Slaves, and for other Purposes; and also to repeal the several Acts and Clauses of Acts
                         which wer repealed by the Act intituled as aforesaid, and for consolidating and bringing to One Act the
@@ -65,7 +65,7 @@
                     <p><label>(a)</label> <bibl><title>Mythology</title>, Vol. 1. P. 48. 475. and 478.</bibl></p>
                 </note>
                 <note xml:id="n03ish" target="#a03ish">
-                    <p><label>(a)</label> Act. 24. Sect. 10. passed 1760.</p>
+                    <p><label>(a)</label> Act. 24. Sect. 10. passed <date when="1760">1760</date>.</p>
                 </note>
                 <note xml:id="n04ish" target="#a04ish">
                     <p><label>(b)</label> Tome ii. p. 59. 447. 499. 506.</p>
@@ -105,7 +105,7 @@
                     the <date when="1789-03-28">18th of <mcr rend="italic">March</mcr> 1789</date>.
                 </head>
                 <byline>By the Right Honourable the Lords of the 
-                    Committee of Council appointed for the
+                    <orgName>Committee of Council</orgName> appointed for the
                     Consideration of all Matters relating to
                     Trade and Foreign Plantations.
                 </byline>
@@ -127,9 +127,9 @@
                     examined such Persons as either offered themselves, or such as they
                     thought proper to summon, being in the Judgment of the Committee
                     likely to convey useful Information thereupon; and they applied to the
-                    Agents for the several British Islands in the <placeName>West Indies</placeName>; and to your
+                    Agents for the several <rs type="properAdjective">British</rs> Islands in the <placeName>West Indies</placeName>; and to your
                     Majesty's Governors and the Councils and Assemblies of the said Islands;
-                    and also to the Society for the Propagation of the Gospel in Foreign Parts,
+                    and also to the Society for the Propagation of the <rs type="title">Gospel</rs> in Foreign Parts,
                     for Anwers to such Questions as appeared in the Committee to be calculated
                     to produce Information on the several parts of this extensive
                     Subject. The Committee thought proper likewise to apply to your
@@ -154,7 +154,7 @@
                 <p>And the Committee having been employed for upwards of Twelve
                     Months in collecting Information upon several Points before mentioned,
                     and conceiving it may be your Majesty's Intention to order this Report to
-                    be laid as soon as possible before Parliament, have thought it right,
+                    be laid as soon as possible before <orgName>Parliament</orgName>, have thought it right,
                     without any further Delay, or waiting for any additional Information, to
                     direct that the Information already collected be arranged as nearly as may
                     be found practicable, according to the following plan:
@@ -208,10 +208,10 @@
                                 <pb/>
                                 <fw type="pageNum">5</fw>
                                 
-                                <item><label>11th</label>, The Produce of each Country in Africa in which any
+                                <item><label>11th</label>, The Produce of each Country in <placeName>Africa</placeName> in which any
                                     other Commerce is at present carried on: the Extent of such
                                     Commerce, and the Information that has been obtained of any
-                                    Prospect there may be of increasing the Trade with Africa in any
+                                    Prospect there may be of increasing the Trade with <placeName>Africa</placeName> in any
                                     such Articles of Produce, or of creating new Branches of Commerce
                                     in other Articles of Produce, by giving Encouragement
                                     for that Purpose.
@@ -219,9 +219,9 @@
                             </list>
                         </p>
                         <p>To this Head is annexed an Account of the Charters and Statutes,
-                            under the Authority and Protection of which the African Trade first
+                            under the Authority and Protection of which the <rs type="properAdjective">African</rs> Trade first
                             began, and has continued to the present Time; and of the most 
-                            material Proceedings that have been had in the House of Commons 
+                            material Proceedings that have been had in the <orgName>House of Commons</orgName> 
                             relative thereto.
                         </p>
                     </item>
@@ -272,7 +272,7 @@
                     <pb/>
                     <fw type="pageNum">6</fw>
                     
-                    <item><label>Fifth.</label> All the Information that has been obtainedrelating to the
+                    <item><label>Fifth.</label> All the Information that has been obtained relating to the
                         Advantages, which the <placeName>French West India Islands</placeName> are supposed at present
                         to enjoy over the <rs type="place">British Islands</rs>, and the Reasons and Circumstances on
                         which these superior Advantages appear to be funded, according to a 
@@ -287,9 +287,9 @@
                         or by the different People of <placeName>Asia</placeName> and <placeName>Africa</placeName>.
                     </item>
                 </list>
-                <p>All the Information and Matter collected by the Committe, has, in
+                <p>All the Information and Matter collected by the Committee, has, in
                     pursuance of their Orders, been arranged under the foregoing Heads by
-                    the Gentlement belonging to the Office for Trade; and the <distinct type="dialect" rend="italic">vivâ voce</distinct>
+                    the Gentlemen belonging to the <orgName>Office for Trade</orgName>; and the <distinct type="dialect" rend="italic">vivâ voce</distinct>
                     Evidence upon each Head is stated as nearly as possible in the very Words
                     in which the same was given. If it should be wished to see the whole
                     Evidence exactly as it was taken before the Committee, a Copy thereof
@@ -337,14 +337,14 @@
                              Esquire.</byline>
                         <p><persName>John Barnes</persName>, Esquire, was resident at <placeName>Senegal</placeName> near Eight Years, the last Three
                             Years as Governor, the first Five Years as a Merchant; has been at other Places on the
-                            Coast of <placeName>Africa</placeName>, but was never in the Service of the <orgName>African Company</orgName> upon any toher Part
+                            Coast of <placeName>Africa</placeName>, but was never in the Service of the <orgName>African Company</orgName> upon any other Part
                             of the Coast. The Nature of his Commerce upon the <placeName>River Senegal</placeName> was chiefly the gumm
                             Trade.
                         </p>
                         <p>The Countries immediately round <placeName>Senegal</placeName> are the Country of <placeName>Walo</placeName>, and the Country of
                             <placeName>Cayor</placeName> or <placeName>Demel</placeName>; the Nature of the Government in these Countries (which are of considerable
                             Extent) is Monarchy, absolute in some Respects, but limited in others, and hereditary in the 
-                            Female Line. <!-- interesting things about gender? -->
+                            Female Line.
                         </p>
                         <p>As to the Religion of these Countries, great Part of the Inhabitants are <name>Mahometans</name>, but
                             very imperfect. The Government is greatly under the Influence and Countroul of the Moorish
@@ -362,8 +362,8 @@
                         </head>    
                         <byline rend="place-outside"><persName>Mr.
                             Dalrymple</persName>.</byline>
-                        <p><persName>Hught Dalrymple</persName>, Esquire, served as First Lieutenant of Grenadiers in the <persName>Prince 
-                            of Wales's</persName> or 75th Regiment, at the Reduction of <placeName>Goree</placeName> in <date when="1779">1779</date>; remained on that Part of
+                        <p><persName>Hught Dalrymple</persName>, Esquire, served as First Lieutenant of Grenadiers in the <orgName><persName>Prince 
+                            of Wales's</persName> or 75th Regiment</orgName>, at the Reduction of <placeName>Goree</placeName> in <date when="1779">1779</date>; remained on that Part of
                             the Coast from the Beginning of May to the End of September or the Beginning of October in
                             the same Year, and made frequent Excuresions to the adjacent Continent (from whence the
                             <placeName>Island of Goree</placeName> is distant only Two or Three Miles) for several Leagues inland as well as along
@@ -407,7 +407,7 @@
                                 King, consisting of Two Parts; the one annual, which is fixed by the King; the other, in
                                 proportion to the Trade of the Ships.
                             </p>
-                            <p>This Revenue or Custom is paid in Slaves, Powder, Shot, Brandy, Tobacco, and other
+                            <p>This Revenue or Custom is paid in Slaves, <ecda:commodity>Powder</ecda:commodity>, <ecda:commodity>Shot</ecda:commodity>, <ecda:commodity>Brandy</ecda:commodity>, <ecda:commodity>Tobacco</ecda:commodity>, and other
                                 Merchandize brought from <placeName>Europe</placeName>. When this Custom is paid regularly, the King
                                 first gives Notice to pay it, and if not then paid within a certain Time, he comes down with
                                 
@@ -421,35 +421,35 @@
                                 Alcaide, or Chief of the Village, to be incorrigible, the King makes no Scruple of cutting
                                 off their Heads without any Form of Trial.
                             </p>
-                            <p>The People upon the Coast are wholly Mahometans; next to them, internally, there is
-                                a Country containing a People called the Sierrieurs, who believe in a Supreme Being, and 
+                            <p>The People upon the Coast are wholly <name>Mahometans</name>; next to them, internally, there is
+                                a Country containing a People called the <name>Sierrieurs</name>, who believe in a Supreme Being, and 
                                 testify such Belief by shewing great Marks of Joy and Gratitude on occasion of any Behefits
                                 received: they have no Idols, nor any Form of Worship; their principal Tenet is, that
                                 they are to be happy in this World, and they endeavour to make themselves so, by every Species
-                                of licentious Enjoyment, which they even pursue under Allfiction. The Countries beyond
-                                these are chiefly Pagan. The Country of the Sierrieurs is more populous, in proportion to
+                                of licentious Enjoyment, which they even pursue under Affliction. The Countries beyond
+                                these are chiefly <name>Pagan</name>. The Country of the <name>Sierrieurs</name> is more populous, in proportion to
                                 its Extent, than the Mahometan Countries; the Sierrieurs are governed by a Number of
-                                independent Chiefs, but they have no Kings. These People are Wanderers, like the Moors,
+                                independent Chiefs, but they have no Kings. These People are Wanderers, like the <name>Moors</name>,
                                 but they wander only within the Limits of their own Country.
                             </p>
-                            <p>The Language of these Counties (except the Sierrieurs) is what is called Wolloff; and it 
+                            <p>The Language of these Counties (except the <name>Sierrieurs</name>) is what is called <name>Wolloff</name>; and it 
                                 is written in the <rs type="properAdjective">Arabic</rs> Character.
                             </p>
                             <p>The Black <name>Mahometans</name> upon the Coast are strong and robust, very handsome and
                                 remarkably tall; they have woolly Heads, acquiline noses, and thin Lips.
                             </p>
-                            <p>The Barras are short and think, with thick Lips, flat Noses, and wooly Heads: They
-                                speak the Mundingo Language.
+                            <p>The <name>Barras</name> are short and think, with thick Lips, flat Noses, and wooly Heads: They
+                                speak the <rs type="properAdjective">Mundingo</rs> Language.
                             </p>
-                            <p>The Sierrieurs have Noses quite flat, they think it a Beauty, and press down the Noses of
+                            <p>The <name>Sierrieurs</name> have Noses quite flat, they think it a Beauty, and press down the Noses of
                                 their Children accordingly; they are wooly-headed, strong, short and thinck, and their Faces
                                 are tattood; they are fond of War, and are very artful People.
                             </p>
-                            <p>The Wolloffs are a sensible, hospitable, and civil People, but jealous and vindictive.</p>
-                            <p>The People of Tin are serious in their Disposition, much oppressed by their King, and 
+                            <p>The <name>Wolloffs</name> are a sensible, hospitable, and civil People, but jealous and vindictive.</p>
+                            <p>The People of <placeName>Tin</placeName> are serious in their Disposition, much oppressed by their King, and 
                                 naturally jealous and vindictive.
                             </p>
-                            <p>The Barbessins and the Barras are an artful People, much accustomed to Chicanery in
+                            <p>The <name>Barbessins</name> and the <name>Barras</name> are an artful People, much accustomed to Chicanery in
                                 Trade, and perfidious in their Dealings; they are lively, jealous, and vindictive.
                             </p>
                             <p>The People in general are very indolent; the Men do nothing but smoke, shoot, and fish;
@@ -470,11 +470,11 @@
                             Hills</persName>.</byline>
                         <p><persName>John Hills</persName>, Esquire, Captain in the Navy, commanded his Majesty's Sloop <ecda:shipName>Zephyr</ecda:shipName>
                             at <placeName>Goree</placeName>, and in the <placeName>River Gambia</placeName>, in the latter End of the Year <date when="1781">1781</date> and the Beginning
-                            of 1782; was upon these Stations about Five Months in the whole.
+                            of <date when="1782">1782</date>; was upon these Stations about Five Months in the whole.
                         </p>
                         <p>The Nature of the Government, as far as <persName>Captain Hills</persName> could judge, is most despotic, as
-                            the King of <placeName>Demel</placeName> seemed to have a Power of Making his Subjects Slaves and selling them.
-                            The Religion of this Part of the Coast is in general Mahometan.
+                            the King of <placeName>Demel</placeName> seemed to have a Power of Making his Subjects Slaves and selling them. <!-- not sure if King of Damel is a <persName> or if this is used more like a title or a role -->
+                            The Religion of this Part of the Coast is in general <name>Mahometan</name>.
                         </p>
                     </div>
                     <div type="subsection">
@@ -486,7 +486,7 @@
                         <byline rend="place-outside"><persName>Mr. Harry
                             Gandy</persName>.</byline>
                         <p><persName>Mr. Harry Gandy</persName>, one of the People calling themselves <name>Quakers</name>, lived nearly Thirty
-                            Years in the <placeName>West Indies</placeName>, in the Danish Islands, and made Two Voyages to the Coast of 
+                            Years in the <placeName>West Indies</placeName>, in the <rs type="properAdjective">Danish</rs> Islands, and made Two Voyages to the Coast of 
                             <placeName>Africa</placeName> in the Years <date when="1758">1758</date> and <date when="1762">1762</date>, as Master of a Vessel; went to the <placeName>River Gambia</placeName> and
                             to <placeName>Sierra Leone</placeName>; has been more than 200 miles up the <placeName>River Gambia</placeName>; but not above 30
                             Miles up the <placeName>River Sierra Leone</placeName>.
@@ -505,25 +505,25 @@
                         <p><persName>Captain Heatley</persName> has been concerned in the <rs type="properAdjective">African</rs> Trade from the Year <date when="1763">1763</date> to
                             the last Year, was employed as Captain in that Trade on his ownAccount and for other People;
                             remained Five Years at one Time, and Three Years at another, on the <placeName>River Gambia</placeName>,
-                            and was 230 Leagues up the River. He spoke the Mundingo Language, which is the general
+                            and was 230 Leagues up the River. He spoke the <rs type="properAdjective">Mundingo</rs> Language, which is the general
                             Language of the Country. The Motive that induced him to go so far up the River
-                            was to trade for Slaves, and for Ivory and Wax occasionally.
+                            was to trade for Slaves, and for <ecda:commodity>Ivory</ecda:commodity> and <ecda:commodity>Wax</ecda:commodity> occasionally.
                         </p>
                         
                         <pb/>
                         
                         <p>The <placeName>River Gambia</placeName> may be navigated in Vessels that draw Ten Feet Water; that is, in
                             Vessels from 70 to 150 Tons: The Tide flows as far as 230 Leagues, or perhaps 320 Leagues
-                            in dry Seasons,but not in the rainy Seasons: And in the Part of its Course which he speaks
+                            in dry Seasons, but not in the rainy Seasons: And in the Part of its Course which he speaks
                             of, passes through a great number of Kingdoms and Governments.
                         </p>
                         <p>The Nature of the Governments on each Side the River is so various, that he knows not
                             how to give an Account of them, but they are in general Monarchies with Powers variously
-                            limited. The Sovereigns have Princes under them, who frequentlyact very independently
+                            limited. The Sovereigns have Princes under them, who frequently act very independently
                             of the Sovereigns.
                         </p>
                         <p>Upon the Entrance at about Ten Leagues up the River, Vessels are called upon to pay
-                            Custom to the King of Barra, which amounts in proportion to the Tonnage of the Vessel;
+                            Custom to the King of <placeName>Barra</placeName>, which amounts in proportion to the Tonnage of the Vessel; <!-- same question as above re:king name or role? -->
                             110 Leagues up the River at <placeName>Yanamaroo</placeName>, which is a trading Place, another Custom is paid,
                             and as the Ships pass through different Kingdoms in going up the River, if they trade, they 
                             pay Custom at them all.
@@ -548,11 +548,11 @@
                         <p>In Two Voyages, he was at <placeName>Senegal</placeName>, and remained Three Weeks on Shore with <persName>Governor
                             O'Hara</persName>; from thence, he went to <placeName>Gambia</placeName>, where he remained a short Time;
                             from <placeName>Gambia</placeName> to <placeName>Sierra Leone</placeName> for Refreshments, and from thence to <placeName>Cape Appollonia</placeName>, and
-                            most of the Forts upon the Gold Coast, the lowest Part of which was Prampram in Latitude
+                            most of the Forts upon the Gold Coast, the lowest Part of which was <placeName>Prampram</placeName> in Latitude
                             3, or thereabouts.
                         </p>
                         <p>Speaking of the several Governments on these Parts of the Coast, <persName>Sir George Yonge</persName>
-                            informed of the Committee, that the King of <placeName>Bursilam</placeName> at <placeName>Gambia</placeName>, is a very powerful Monarch
+                            informed of the Committee, that the <persName>King of <placeName>Bursilam</placeName></persName> at <placeName>Gambia</placeName>, is a very powerful Monarch
                             and has very extensive Dominions. The greatest Part of the Coast, however where <persName>Sir
                             George Yonge</persName> was, is divided into petty States, but all the Sovereigns are absolute, and have
                             Power of Life and Death; they consider their Subjects as Slaves, and treat them accordingly.
@@ -606,47 +606,47 @@
                         <byline rend="place-outside">
                             <persName>James Penny</persName>,
                             Esquire.</byline>
-                        <p><persName>James Penny</persName>, Esq. African Merchant, and one of the Gentlemen delegated from
-                            <placeName>Liverpool</placeName> on account of the African and the West India Trade, as far as that Town is
+                        <p><persName>James Penny</persName>, Esq. <rs type="properAdjective">African</rs> Merchant, and one of the Gentlemen delegated from
+                            <placeName>Liverpool</placeName> on account of the <rs type="properAdjective">African</rs> and the <placeName type="properAdjective">West India</placeName> Trade, as far as that Town is
                             concerned.
                         </p>
-                        <p>Mr. Penny commanded a Ship in the African Trade, was in the Trade Eighteen Years,
+                        <p><persName>Mr. Penny</persName> commanded a Ship in the <rs type="properAdjective">African</rs> Trade, was in the Trade Eighteen Years,
                             and made Eleven Voyages as a Captain, and Two as First and Second Mate; went Five
                             
                             <pb/>
                             
-                            Voyages to Bonny, Four to Congo and Angola, and the rest to the Windward Coast: Mr. Penny
-                            resided in the Isles de Los and the River Kissey on the Windward Coast about Two Years,
-                            from 1768 to 1770, as Factor, and quitted the Trade in 1784.
+                            Voyages to <placeName>Bonny</placeName>, Four to <placeName>Congo</placeName> and <placeName>Angola</placeName>, and the rest to the <placeName>Windward Coast</placeName>: <persName>Mr. Penny</persName>
+                            resided in the <placeName>Isles de Los</placeName> and the <placeName>River Kissey</placeName> on the <placeName>Windward Coast</placeName> about Two Years,
+                            from <date from="1768" to="1770">1768 to 1770</date>, as Factor, and quitted the Trade in <date when="1784">1784</date>.
                         </p>
-                        <p>In the Parts opposite to the Isles de Los, and the Neighbourhood to the Northward
-                            of <placeName>Sierra Leone</placeName>, where Mr. Penny has been, the Country is divided into a Number of petty
+                        <p>In the Parts opposite to the <placeName>Isles de Los</placeName>, and the Neighbourhood to the Northward
+                            of <placeName>Sierra Leone</placeName>, where <persName>Mr. Penny</persName> has been, the Country is divided into a Number of petty
                             States, ruled by Kings or head Men, whose Districts are very small. The Power of these 
                             Kings or head Men is not absolute and arbitrary; and they generally call a Council consisting of
                             head Men, who are Relations of the Princes, in which all Matters, civil or military, are
-                            decided. The religious Institutions of these petty States are principally Pagan; there
-                            are some Mahometans, and on the Northern Rivers a few black Christians, made such by 
-                            the Portuguese when they were established among them.
+                            decided. The religious Institutions of these petty States are principally <name>Pagan</name>; there
+                            are some <name>Mahometans</name>, and on the Northern Rivers a few black <name>Christians</name>, made such by 
+                            the <name>Portuguese</name> when they were established among them.
                         </p>
-                        <p>Mr. Penny being aksed, Whether the Black Cristians, or the Mahometans, make any Converts?
-                            replied, the Mahometans make a great many by force: There is a large warlike
-                            Mahometan Country to the North-east of Sierra Leone, called Fula, whose Inhabitants are
-                            descended from Arabs; though of a darker colour, they have Arab Features. The Poers
-                            of this Country is employed in making Converts to Mahometanism; they have made a great
-                            Progress in converting the People of the Susa Country, which is a Part of the Coast. The
-                            Princes on the Rivers Kissey and Malachurry, which are also a Part of this Coast, are Tributaries
+                        <p><persName>Mr. Penny</persName> being aksed, Whether the Black <name>Christians</name>, or the <name>Mahometans</name>, make any Converts?
+                            replied, the <name>Mahometans</name> make a great many by force: There is a large warlike
+                            <rs type="properAdjective">Mahometan</rs> Country to the North-east of <placeName>Sierra Leone</placeName>, called <placeName>Fula</placeName>, whose Inhabitants are
+                            descended from <name>Arabs</name>; though of a darker colour, they have <rs type="properAdjective">Arab</rs> Features. The Poers
+                            of this Country is employed in making Converts to <name>Mahometanism</name>; they have made a great
+                            Progress in converting the People of the <placeName>Susa Country</placeName>, which is a Part of the Coast. The
+                            Princes on the <placeName>Rivers Kissey</placeName> and <placeName>Malachurry</placeName>, which are also a Part of this Coast, are Tributaries
                             to the Fula King;  and in thes Two last Countries great Progress has been made in
-                            Mahometansim, and is still making. The Black Christians do not attempt to make any
-                            Converts; they are an obscure Sort of People, and mix Paganism with the Christian Religion.
-                            The King of Sierra Leone sent on of his Sons in 1769 to the Fula Country to learn
-                            Mahometanism, and another to Lancaster to learn the Christian Relgion; the latter turned out very
-                            profligate. Mr. Penny has seen in that Country several Arabian Teachers come down with
-                            Transcripts from the Khoran, to whom they pay great Respect. These Men are sometimes
-                            employed in instructing the Youth of the Country in the Arabic Language and in the Mahometan 
+                            <name>Mahometanism</name>, and is still making. The Black <name>Christians</name> do not attempt to make any
+                            Converts; they are an obscure Sort of People, and mix <name>Paganism</name> with the <rs type="properAdjective">Christian</rs> Religion.
+                            The <persName>King of <placeName>Sierra Leone</placeName></persName> sent on of his <ecda:persGroup a-gender="male" a-religion="mohametan">Sons</ecda:persGroup> in <date when="1769">1769</date> to the <placeName>Fula Country</placeName> to learn
+                            <name>Mahometanism</name>, and <ecda:anonPers a-gender="male" a-religion="christian">another</ecda:anonPers> to <placeName>Lancaster</placeName> to learn the <rs type="properAdjective">Christian</rs> Relgion; the latter turned out very
+                            profligate. <persName>Mr. Penny</persName> has seen in that Country several <rs type="properAdjective">Arabian</rs> Teachers come down with
+                            Transcripts from the <rs type="title">Khoran</rs>, to whom they pay great Respect. These Men are sometimes
+                            employed in instructing the Youth of the Country in the <rs type="properAdjective">Arabic</rs> Language and in the <rs type="properAdjective">Mahometan</rs> 
                             Religion, and with great Success, and they are in general devout; but notwithstanding
-                            their Devotion, the Europeans do not find either their Lives or Properties so safe in the
-                            Mahometan Towns as in those where Paganism prevails. The Pagans are humble and submissive;
-                            the Mahometans are proud and insolent.
+                            their Devotion, the <name>Europeans</name> do not find either their Lives or Properties so safe in the
+                            <rs type="properAdjective">Mahometan</rs> Towns as in those where <name>Paganism</name> prevails. The <name>Pagans</name> are humble and submissive;
+                            the <name>Mahometans</name> are proud and insolent.
                         </p>
                     </div>
                     <div type="subsection">
@@ -658,17 +658,17 @@
                             Matthews</persName>.</byline>
                         <p><persName>Mr. John Mathews</persName> (who was added afterwards to the Delegates from the Town of
                             <placeName>Liverpool</placeName>) is a Lieutenant in the Navy, and has been concerned in the Trade to <placeName>Africa</placeName>, at
-                            Sierra Leone which is a Part of the Windward Coast; and was resident there, as Agent for a 
-                            Merchant in the City of London, Two Years and upwards: He carried on the Trade for him.
+                            <placeName>Sierra Leone</placeName> which is a Part of the <placeName>Windward Coast</placeName>; and was resident there, as Agent for a 
+                            <ecda:anonPers a-occupation="merchant" a-gender="male">Merchant in the City of <placeName>London</placeName></ecda:anonPers>, Two Years and upwards: He carried on the Trade for him.
                             and not upon his own Account.
                         </p>
-                        <p>The Country upon the Windward Coast is formed into a Number of little Independent States:
+                        <p>The Country upon the <placeName>Windward Coast</placeName> is formed into a Number of little Independent States:
                             the Governors are chosen by the People, and there is one head Governor to each of these 
                             States; their Power is not absolute, but on the contrary extremely limited.
                         </p>
-                        <p>The Natives are Pagans, but there are also a great Number of Mahometans. They have
+                        <p>The Natives are <name>Pagans</name>, but there are also a great Number of <name>Mahometans</name>. They have
                             so fixed and Object of Worship, but a great Number of Amulets, which they call Gregories: they
-                            believe in a God; and Mr. Mathes concludes, from the Manner of burying their Dead, they
+                            believe in a God; and <persName>Mr. Mathes</persName> concludes, from the Manner of burying their Dead, they
                             have some Notion of a future State, for they bury in the Ground, and hang round the Grave
                             those Things of which the deceased in his Lifetime was most fond.
                         </p>
@@ -680,18 +680,18 @@
                         </head>
                         <byline><persName>Reverend
                             Mr. Newton</persName>.</byline>
-                        <p>The Reverend John Newton, Rector of St. Mary Wolnoth, lived in Africa, some
-                            Years ago, during Eighteen Moths, and left it in the Year 1748; has since commanded a
-                            Ship in the African Trade, for Three Voyages; but has seen nothing of Africa since the Year
-                            1754.
+                        <p>The <persName>Reverend John Newton</persName>, Rector of <placeName>St. Mary Wolnoth</placeName>, lived in <placeName>Africa</placeName>, some
+                            Years ago, during Eighteen Moths, and left it in the Year <date when="1748">1748</date>; has since commanded a
+                            Ship in the <rs type="properAdjective">African</rs> Trade, for Three Voyages; but has seen nothing of <placeName>Africa</placeName> since the Year
+                            <date when="1754">1754</date>.
                         </p>
-                        <p>Mr. Newton has been about Fifty Miles up the Country, through the Woods on the Sherbro
-                            River. Being asked if the Natives have any Civil Government?—said—<said rend="prequotes" xml:id="s001" next="#s002">The Government of
-                            the Purrah is excellent Government; by their Civil Institutions they may sell their Slaves,
+                        <p><persName>Mr. Newton</persName> has been about Fifty Miles up the Country, through the Woods on the <placeName>Sherbro
+                            River</placeName>. Being asked if the Natives have any Civil Government?—said—<said rend="prequotes" xml:id="s001" next="#s002">The Government of
+                            the <placeName>Purrah</placeName> is excellent Government; by their Civil Institutions they may sell their Slaves,
                             but must not draw Blood from them.</said>
                         </p>
                         <said xml:id="s002" prev="#s001">
-                            <p>They have some Religious Institutions that answer to our old Druids. The Purrah is a Sort of
+                            <p>They have some Religious Institutions that answer to our old <name>Druids</name>. The <name>Purrah</name> is a Sort of
                                 High Priest.
                             </p>
                             <p>They have Laws respecting Property, and the Convicts for Theft lose their Liberty.</p>
@@ -705,23 +705,23 @@
                         <byline rend="place-inside">
                             <persName>Mr.
                             Norris</persName>.</byline>
-                        <p><persName>Robert Norris</persName>, Esq. Carolina Merchant, another of the Delegates from Liverpool.</p>
-                        <p>Mr. Norris was employed as Captain of a Vessel in the Slave Trade, in Five Voyages, and is
-                            particularly acquainted with the Windward and Gold Coast;—and being asked, what is the
+                        <p><persName>Robert Norris</persName>, Esq. <placeName type="properAdjective">Carolina</placeName> Merchant, another of the Delegates from <placeName>Liverpool</placeName>.</p>
+                        <p><persName>Mr. Norris</persName> was employed as Captain of a Vessel in the Slave Trade, in Five Voyages, and is
+                            particularly acquainted with the <placeName>Windward and Gold Coast</placeName>;—and being asked, what is the
                             
                             <pb/>
                             
                             Nature of the Government on these Parts of the Coast, replied—There are various Governments
                             in that comprehensive Tract, from the most absolute Monarchy, to others less oppressive to the
                             Subjects: Some are Monarchies, some Republics. He speaks of a Tract of Country extending
-                            about 1500 Miles upon the Coast, and upon the Gold Coast 130 Miles inland from Whyday.
-                            Mr. Norris is not certain as to the Number of Miles; but the Extend he is able to speak of is,
-                            from Sierra Leone River to Benin.
+                            about 1500 Miles upon the Coast, and upon the Gold Coast 130 Miles inland from <placeName>Whyday</placeName>.
+                            <persName>Mr. Norris</persName> is not certain as to the Number of Miles; but the Extend he is able to speak of is,
+                            from <placeName>Sierra Leone River</placeName> to <placeName>Benin</placeName>.
                         </p>
-                        <p>The Country on the Windward Coast, from Cape Mount to Cape Palmas, is divided into
+                        <p>The Country on the <placeName>Windward Coast</placeName>, from Cape Mount to Cape Palmas, is divided into
                             Petty States and Governments, and governed by the old Men in each Village.
                         </p>
-                        <p>The People are Pagans; they wear Tygers Teeth, and different Amulets, suspended on their
+                        <p>The People are <name>Pagans</name>; they wear Tygers Teeth, and different Amulets, suspended on their
                             Necks, for which they have a religious Veneration.
                         </p>
                     </div>
@@ -733,35 +733,35 @@
                         <byline rend="place-inside">
                             <persName>Mr.
                             Falconbridge</persName>.</byline>
-                        <p><persName>Mr. Alexander Falconbridge</persName> made Give Yoages to the Coast of Africa, as
-                            Surgeon to a British Slave Ship. The first Voyage was to the Windward or Grain Coast, and
-                            Angola: In this Voyage he was taken by a French Man of War. The second Voyage was to
-                            the Windward Cost, when he was driven off the Coast by a French Man of War, and went to
-                            Angola. The two last Voyages were to Bonny.
+                        <p><persName>Mr. Alexander Falconbridge</persName> made Give Yoages to the Coast of <placeName>Africa</placeName>, as
+                            Surgeon to a <rs type="properAdjective">British</rs> Slave Ship. The first Voyage was to the <placeName>Windward or Grain Coast</placeName>, and
+                            <placeName>Angola</placeName>: In this Voyage he was taken by a <rs type="properAdjective">French</rs> Man of War. The second Voyage was to
+                            the <placeName>Windward Coast</placeName>, when he was driven off the Coast by a <rs type="properAdjective">French</rs> Man of War, and went to
+                            <placeName>Angola</placeName>. The two last Voyages were to <placeName>Bonny</placeName>.
                         </p>
-                        <p>The Government on the Windward Coast is a Sort of Aristocracy.</p>
-                        <p>The Gold Coast is divided into small States in general.—Mr. Norris being asked, Whether
+                        <p>The Government on the <placeName>Windward Coast</placeName> is a Sort of Aristocracy.</p>
+                        <p>The <placeName>Gold Coast</placeName> is divided into small States in general.—<persName>Mr. Norris</persName> being asked, Whether
                             the People of this country enjoy any Protection from any Civil Rights they have?—Replied—
-                            <said>We must distinguish the Countries: In the Fantyn Nation</said> (by which he meant, from Caoe
-                            Three Points to Accra), <said>which includes various States, of which the Fantyn is the chief, and
+                            <said>We must distinguish the Countries: In the <placeName>Fantyn Nation</placeName></said> (by which he meant, from <placeName>Caoe
+                            Three Points</placeName> to <placeName>Accra</placeName>), <said>which includes various States, of which the Fantyn is the chief, and
                             whose Manners and Governments are nearly similar, about five Days Journey inland, where 
-                            the Europeans have been longest settled, and possess the greates Number of Forts, Civilization
-                            has improved beyond any thing he has discovered in any other Country of Africa, and the
+                            the <name>Europeans</name> have been longest settled, and possess the greates Number of Forts, Civilization
+                            has improved beyond any thing he has discovered in any other Country of <placeName>Africa</placeName>, and the
                             People have Civil Rights arising from traditionary Laws and Customs; but, even in this
                             Coutnry, much remains to be done towards Civilization. The Bussou and Craba, the confidential
                             Man and favourate Woman, of every Person of Distinction are usually put to Death
                             and interred him.: The imputed Crime of Witchcraft is still believed there, and is
-                            punished with Transportation.</said>—By Transportation, Mr. Norris means, selling them to the White
+                            punished with Transportation.</said>—By Transportation, <persName>Mr. Norris</persName> means, selling them to the White
                             Traders, which is represented in this Nation as the greatest Evil that can befal them, in order
-                            to deter them from Crimes. The superior State of Civilization in this Country, Mr. Norris
-                            imputes to their Intercourse with Europeans; and added—Report says, that formerly a much
+                            to deter them from Crimes. The superior State of Civilization in this Country, <persName>Mr. Norris</persName>
+                            imputes to their Intercourse with <name>Europeans</name>; and added—Report says, that formerly a much
                             greater Number were but to Death, and interred with their deceased Lords.
                         </p>
-                        <p>Paganism is universal.—By Paganism, Mr. Norris means, the Worship of those Objects which
-                            strike the Senses.—At Whyday, a Snake is the principal Object of their Worship; and, besides
-                            this, Trees, Caversn, and Amulets round their Necks which are furnished by their Priests.
-                            At Cape Coast, the Rocks on which the Fort is built is their Tutelar Deity. A Tyger is the
-                            immediate Object of the King of Dahomey's Worship.
+                        <p><name>Paganism</name> is universal.—By <name>Paganism</name>, <persName>Mr. Norris</persName> means, the Worship of those Objects which
+                            strike the Senses.—At <placeName>Whyday</placeName>, a Snake is the principal Object of their Worship; and, besides
+                            this, Trees, Caverns, and Amulets round their Necks which are furnished by their Priests.
+                            At <placeName>Cape Coast</placeName>, the Rocks on which the Fort is built is their Tutelar Deity. A Tyger is the
+                            immediate Object of the <persName>King of <placeName>Dahomey</placeName>'s</persName> Worship.
                         </p>
                     </div>
                     <div type="subsection">
@@ -772,23 +772,23 @@
                             <persName>Mr.
                             Devaynes</persName>.</byline>
                         <p><persName>William Devaynes</persName> Esq. one of the Directors of the <orgName>East India Company</orgName>, resided
-                            Twleve Years on the Coast of <placeName>Africa</placeName>; was Governor at Whyday Eleven Years, and the other
-                            at Annamaboe: he left the Coast of Africa in 1763.
+                            Twleve Years on the Coast of <placeName>Africa</placeName>; was Governor at <placeName>Whyday</placeName> Eleven Years, and the other
+                            at <placeName>Annamaboe</placeName>: he left the Coast of <placeName>Africa</placeName> in <date when="1763">1763</date>.
                         </p>
                         <p>The States upon the Coast are small, but larger in the interior Country. As to the Religious
                             Institutions, the People worship the Sun, the Sea, Thunder and Lightning, Lakes, &amp;c. The
-                            Snake was the peculiar Worship of the ancient People of Whyday, and then this Province was
-                            conquered y the King of Dahomey, the Worship of the Snake was continued upon Motives
+                            Snake was the peculiar Worship of the ancient People of <placeName>Whyday</placeName>, and then this Province was
+                            conquered by the <placeName>King of <placeName>Dahomey</placeName></placeName>, the Worship of the Snake was continued upon Motives
                             of Policy. Formerly, a Person who killed a Snake was put to Death; but now a Goat is sacrificed
                             as an Atonement.
                         </p>
-                        <p>Mr. Devaynes doubts whether a Tyger is the Object of Worship of the King of Dahomey,
+                        <p><persName>Mr. Devaynes</persName> doubts whether a Tyger is the Object of Worship of the King of <placeName>Dahomey</placeName>,
                             But says it is an Animal esteemed royal, and it is not to be killed.
                         </p>
-                        <p>Respecting the Civil Rights of the People, Mr. Devaynes says—They enjoy Civil Rights
+                        <p>Respecting the Civil Rights of the People, <persName>Mr. Devaynes</persName> says—They enjoy Civil Rights
                             and Privileges that are of more ancient Date than our Settlement among them.—He does not
                             believe that the Natives are much improved in their Morals by their Intercourse with the
-                            Europeans; on the contrary, he thinks that the worst Blacks are those who have been the most 
+                            <name>Europeans</name>; on the contrary, he thinks that the worst Blacks are those who have been the most 
                             concerned with the Whites; their Manners and Dress are in some Degree improved thereby.
                         </p>
                     </div>
@@ -799,45 +799,45 @@
                         <byline rend="place-inside">
                             <persName>Mr. Miles</persName>.
                         </byline>
-                        <p>Richard Miles Esq. late Governor of Cape Coast Castle, was in the Company's Service
-                            Eighteen Years and a Half from 1765 to 1784, residing upon the Coast of Africa the
+                        <p><persName>Richard Miles</persName> Esq. late Governor of <placeName>Cape Coast Castle</placeName>, was in the Company's Service
+                            Eighteen Years and a Half from <date from="1765" to="1784">1765 to 1784</date>, residing upon the Coast of <placeName>Africa</placeName> the
                             whole Time, except Twenty-eight Months, when he was called home by the Company.
                             
                             <pb/>
                             
                             He commanded in Succession at all the Company's Forts upon the Coast, and, during the last
-                            Seven Years, had the chief Command of the whole, and resided at Cape Coast Castle.
+                            Seven Years, had the chief Command of the whole, and resided at <placeName>Cape Coast Castle</placeName>.
                         </p>
-                        <p>Mr. Miles traded the whole Time on his own Account, and still carries on the Trade as an
-                            African Merchant.
+                        <p><persName>Mr. Miles</persName> traded the whole Time on his own Account, and still carries on the Trade as an
+                            <rs type="properAdjective">African</rs> Merchant.
                         </p>
-                        <p>Mr. Miles, being asked, What is in general the Nature of the Government on the Coast of 
-                            Africa?—Said—He wished to confine the Information he had to offer entirely to the Gold Coast,
-                            which extends from Cape Le Hou to the River Volta, with which Part of the Coast he is best
-                            acquainted; not including Whydah, of which he could only speak from Hearsay.
+                        <p><persName>Mr. Miles</persName>, being asked, What is in general the Nature of the Government on the Coast of 
+                            <placeName>Africa</placeName>?—Said—He wished to confine the Information he had to offer entirely to the <placeName>Gold Coast</placeName>,
+                            which extends from <placeName>Cape Le Hou</placeName> to the <placeName>River Volta</placeName>, with which Part of the Coast he is best
+                            acquainted; not including <placeName>Whydah</placeName>, of which he could only speak from Hearsay.
                         </p>
-                        <p>On the Gold Coast, he knows but of one despotic Government, which is at Cape Appollonia,
-                            the most Western European Settlement: There the King is absolute; the Monarchy is hereditary 
+                        <p>On the <placeName>Gold Coast</placeName>, he knows but of one despotic Government, which is at <placeName>Cape Appollonia</placeName>,
+                            the most Western <rs type="properAdjective">European</rs> Settlement: There the King is absolute; the Monarchy is hereditary 
                             in the male Issue of the female Line; the Country is large and Populous. Every other 
-                            Part of the Gold Goast is divided into various petty States, governed by very limited
-                            Monarchs: tThe Government consists, first, of the King; then of the Elders, who are rarely chosen
+                            Part of the <placeName>Gold Goast</placeName> is divided into various petty States, governed by very limited
+                            Monarchs: The Government consists, first, of the King; then of the Elders, who are rarely chosen
                             till they have arrived at the Age of Sixty: Upon the Death of any one of them, the Body of
                             these Elders recommends a Successor to the King, who usually confirms the Choice they have
                             made. The third Estate is composed of Captains of the Troops or Town Soldiers, chosen by
                             the People at large, and removable at their Pleasure. These Countries, so governed, are for the
                             most Part populous.
                         </p>
-                        <p>Mr. Miles cannot give any Information respecting the States bordering inland on the Gold
-                            Coast, or concerning the interior Countries of Africa.
+                        <p><persName>Mr. Miles</persName> cannot give any Information respecting the States bordering inland on the <placeName>Gold
+                            Coast</placeName>, or concerning the interior Countries of <placeName>Africa</placeName>.
                         </p>
-                        <p>The Inhabitants are Pagans, and have different material Objects of Worship, such as Rivers,
+                        <p>The Inhabitants are <name>Pagans</name>, and have different material Objects of Worship, such as Rivers,
                             Rocks, and various Idols; to which, on particular Ocassions, they sacrifice Sheep and Goats;
                             and sometimes they make human Sacrifices, of which (though very much discouraged by 
-                            Europeans, and therefore practised in secret) Mr. Miles has had ocular Demonstration. They
+                            <name>Europeans</name>, and therefore practised in secret) <persName>Mr. Miles</persName> has had ocular Demonstration. They
                             recalled Sophas, whose Persons are on all Occasions sacred.
                         </p>
                         <p>Being asked, Whether the People are a moral People, and appear to have a due Sense of
-                            Right and Wrogn?—He replied—In their intercourse and Dealings with each other, they are
+                            Right and Wrong?—He replied—In their intercourse and Dealings with each other, they are
                             very exact and strict; they are punished with the Loss of Liberty for the smallest Theft, and
                             all other Crimes; they have a faint Idea of a future State.
                         </p>
@@ -848,27 +848,27 @@
                         </head>
                         <byline rend="place-inside">
                             <persName>Mr. Weuves</persName>.</byline>
-                        <p>Jerome Bernard Weuves Esq. resided in Africa Fourteen Years, and always
-                            upon the Gold Cast. Mr. Weuves was Governor of Annamaboe from 1778 to 1780. In
-                            tthe Month of December 1780, he became Governer of Cape Coast Castle, and continued so
-                            till April 1782, returned to Annamaboe in May 1782, and continued there as Governor
-                            till his Return to England in January 1784.
+                        <p><persName>Jerome Bernard Weuves</persName> Esq. resided in <placeName>Africa</placeName> Fourteen Years, and always
+                            upon the <placeName>Gold Coast</placeName>. <persName>Mr. Weuves</persName> was Governor of <placeName>Annamaboe</placeName> from <date from="1778" to="1780">1778 to 1780</date>. In
+                            tthe Month of <date when="1780-12">December 1780</date>, he became Governor of <placeName>Cape Coast Castle</placeName>, and continued so
+                            till <date when="1782-04">April 1782</date>, returned to <placeName>Annamaboe</placeName> in <date when="1782-05">May 1782</date>, and continued there as Governor
+                            till his Return to <placeName>England</placeName> in <date when="1784-01">January 1784</date>.
                         </p>
-                        <p>The Gold Coast is divided into a Number of small Governments, principally consisting of
+                        <p>The <placeName>Gold Coast</placeName> is divided into a Number of small Governments, principally consisting of
                             limited Monarchies.
                         </p>
-                        <p>The People are all Pagans; they worship the Moon, which is one of their greatest
+                        <p>The People are all <name>Pagans</name>; they worship the Moon, which is one of their greatest
                             Deities, and Rocks and other Visible Objects. They appear to have a Sense of a supernatural
                             Being, and of a future State, and this they shew by the Sacrifices they make at the Death of
                             their principal People, when they sacrifice some of the Slaves belonging to the deceased, or 
                             others whom they purchase for that Purpose. The Number sacrificed is in Proportion to the
-                            Rank of the deceased. Mr. Weuves never saw any of these sacrifices, but has seen the poor 
+                            Rank of the deceased. <persName>Mr. Weuves</persName> never saw any of these sacrifices, but has seen the poor 
                             Victims parading about, Two or Three days before they were to be sacrificed, they did not
-                            appear to be dejected, but quite the contraryl they were dressed out. It was not customary 
-                            for Europeans to go to these Ceremonies, and Mr. Weuves rather thinks the Natives would
-                            have made Objections. The Europeans have always endeavoured to prevent this, but the
+                            appear to be dejected, but quite the contrary they were dressed out. It was not customary 
+                            for <name>Europeans</name> to go to these Ceremonies, and <persName>Mr. Weuves</persName> rather thinks the Natives would
+                            have made Objections. The <name>Europeans</name> have always endeavoured to prevent this, but the
                             People have a superstitious Idea, that the Manes of the deceased would not be satisfied unless
-                            these Sacrifices were made. Mr. Weuves was not near enough to observe whether the Victims
+                            these Sacrifices were made. <persName>Mr. Weuves</persName> was not near enough to observe whether the Victims
                             appeared to be intoxicated as a Fact, but conceives they had given them Spirits.
                         </p>
                     </div>
@@ -878,12 +878,12 @@
                         </head>
                         <byline rend="place-inside">
                             <persName>Mr. Dalzell</persName>.</byline>
-                        <p>Archibald Dalzell Esq. went out to Africa as a Surgeon in the Year 1763,
-                            and resided Three Years on the Gold Coast, some little part of the Time as Governor,
-                            and Four Years as Governor at Whyday, returning to England in the Year 1770; of the 
-                            Nature of the Government and Religion on the Gold Coast, he gives the following Account:
+                        <p><persName>Archibald Dalzell</persName> Esq. went out to <placeName>Africa</placeName> as a Surgeon in the Year <date when="1763">1763</date>,
+                            and resided Three Years on the <placeName>Gold Coast</placeName>, some little part of the Time as Governor,
+                            and Four Years as Governor at <placeName>Whyday</placeName>, returning to <placeName>England</placeName> in the Year <date when="1770">1770</date>; of the 
+                            Nature of the Government and Religion on the <placeName>Gold Coast</placeName>, he gives the following Account:
                         </p>
-                        <p>The Gold Coast is divided into a Number of petty States, governed by Chiefs or Caboceers.
+                        <p>The <placeName>Gold Coast</placeName> is divided into a Number of petty States, governed by Chiefs or Caboceers.
                             They suppose that an ideal Being, called Braffoe, superintends all these States; and this
                             Being they consult by means of their Priests or <distinct>Fetiche Men</distinct>. These Caboceers have each
                             
@@ -894,13 +894,13 @@
                             Town. The Caboceers have no Power over the Lives and Property of their Vassals, except
                             in consequence of Trial, which is before these Pynims or Elders.
                         </p>
-                        <p>Mr. Dalzell has not observed that the People on this Coast are more civilized than in
-                            other Parts of Africa; they are more hardy and more turbulent.
+                        <p><persName>Mr. Dalzell</persName> has not observed that the People on this Coast are more civilized than in
+                            other Parts of <placeName>Africa</placeName>; they are more hardy and more turbulent.
                         </p>
-                        <p>The Religion is Paganism, and the Objects of their Worship are various, but chiefly
+                        <p>The Religion is <name>Paganism</name>, and the Objects of their Worship are various, but chiefly
                             sensible Objects; it is so unintelligible, that it is extremely difficult to give any Account of it.
-                            The Fisherman of Cape Coast Castle worship the Rock on which the Castle stands; and when
-                            they cross the River Volta they throw a Bottle of Rum into it to secure them a favourable
+                            The Fisherman of <placeName>Cape Coast Castle</placeName> worship the Rock on which the Castle stands; and when
+                            they cross the <placeName>River Volta</placeName> they throw a Bottle of Rum into it to secure them a favourable
                             Passage and safe Return. They have various Superstitions with respect to Food, some 
                             eating one Sort only, and some another.
                         </p>
@@ -913,20 +913,20 @@
                         </head>
                         <byline rend="place-inside">
                             <persName>Mr. Norris</persName>.</byline>
-                        <p>Of the Countries bordering on the Gold Coast, the Kingdom of Dahomey is the largest,
-                            governed by the most absolute Tyrant that exists on Earth. Whydah, where the English,
-                            French and Portugueze, have Forts, is a Province belonging to the Monarch, having been
-                            conquered by his Grandfather about Sixty Years ago. In Dahomey there is not individual
+                        <p>Of the Countries bordering on the <placeName>Gold Coast</placeName>, the Kingdom of <placeName>Dahomey</placeName> is the largest,
+                            governed by the most absolute Tyrant that exists on Earth. <placeName>Whydah</placeName>, where the <name>English</name>,
+                            <name>French</name> and <name>Portugueze</name>, have Forts, is a Province belonging to the <ecda:anonPers a-gender="male" a-occupation="monarch">Monarch</ecda:anonPers>, having been
+                            conquered by his <ecda:anonPers a-gender="male">Grandfather</ecda:anonPers> about Sixty Years ago. In <placeName>Dahomey</placeName> there is not individual
                             Freeman, except the King. The King is absolute Master of the Lives and Properties
                             of his Subjects, and he sports with their Lives in the most wanton and savage
-                            Manner. Mr. Norris has seen at the Gates of his Palace Two Piles of Heads, like Shoe in
+                            Manner. <persName>Mr. Norris</persName> has seen at the Gates of his Palace Two Piles of Heads, like Shoe in
                             an Arsenal; within the Palace, the Heads of Persons newly put to death are strewed at
                             the Distance of a few yeards in the Passage that leads to the Apartment of the Tyrant, in
                             order to inspire the Person who is to be admitted to an Audience  with Awe and Terror,
-                            Mr. Norris does not speak of One particular Tyrant; it is the Custom of the Country on 
-                            great Occasions, such as the Recetiopn of Messengers from neighbouring States, or of White
+                            <persName>Mr. Norris</persName> does not speak of One particular Tyrant; it is the Custom of the Country on 
+                            great Occasions, such as the Reception of Messengers from neighbouring States, or of White
                             Merchants, and in general on Days of Ceremonial; but the great Carnage is once a Year,
-                            when the Poll Tax is paid by his Subjects. Mr. Norris cannot exactly say how many are
+                            when the Poll Tax is paid by his Subjects. <persName>Mr. Norris</persName> cannot exactly say how many are
                             executed in this Manner in the Course of the Year, but speaks within Compass when he
                             reckons them at a Thousand. This is the Custom of the Monarchy, and this Power extends
                             over his whole Dominions. The Kingdom is very populous and runs about 350 Miles
@@ -934,8 +934,8 @@
                             and when the King means to make War, it is an Expression in use to say, <distinct rend="italic">The Palace wants <!-- @type here?? -->
                             Thatching</distinct>. The great Men of the Coutnry cut off a few Heads in these Festivals, which is 
                             a Part ontly of the same Ceremonial, and the Victims are taken from those destined for
-                            Execution by the King. Parents have no Sort of Property in their Children in the Dahoman
-                            Territories; the Children belong  entirely to the King, and are taken by his Order from their
+                            Execution by the King. Parents have no Sort of Property in their Children in the <rs type="properAdjective">Dahoman</rs>
+                            Territories; the Children belong entirely to the King, and are taken by his Order from their
                             Mothers at an early Age, and distributed in Villaged remote from the Place of their Nativity,
                             where there is but little Chance of their being seen, or at least recongized by their Parents
                             afterwards.
@@ -952,53 +952,53 @@
                             violated as soon as their Children are able to undergo the Fatigue of being removed from
                             them.
                         </p>
-                        <p>Mr. Norris added, He should be sorry that Facts so extraodinary should rest on his
-                            Assertion only, and referred hiself to William Devaynes Esquire, formerly Governor of
-                            the English Fort and Whyday, who had been in this Country likewise.
+                        <p><persName>Mr. Norris</persName> added, He should be sorry that Facts so extraodinary should rest on his
+                            Assertion only, and referred hiself to <persName>William Devaynes</persName> Esquire, formerly Governor of
+                            the <rs type="properAdjective">English</rs> Fort and <placeName>Whyday</placeName>, who had been in this Country likewise.
                         </p>
-                        <p>Mr. Norris being asked, Whether the Persons, executed as before mentioned, are taken
+                        <p><persName>Mr. Norris</persName> being asked, Whether the Persons, executed as before mentioned, are taken
                             without Choice and at Random, and whether they have undergone any Form of Trial?
                             replied, On these Occasions the Slave Holes (by which he means a strong Room in every
                             Slave-merchant's House) are ransacked, and the Sweepings of them, that is the Slaves rejected
-                            by the White Men, furnish a Part of these public Executins, whic hconsist besides of
+                            by the White Men, furnish a Part of these public Executions, which consist besides of
                             Prisoners taken in War, and Delinquents. These Person are carried before a Magistrate and
                             undergo a Sort of Trial. There is no particuplar Time when the Slave Holes are fuller than
-                            at others; the Slaves are brought in at different Times and sold as Occastion offers; the
-                            Trade is always going on except in War. Being asked, Whether the Inhabitants of Dahomey
+                            at others; the Slaves are brought in at different Times and sold as Occasion offers; the
+                            Trade is always going on except in War. Being asked, Whether the Inhabitants of <placeName>Dahomey</placeName>
                             are taken for these public Executions without having had some Delinquency previously imputed
                             to them? he replied, Those who have not been accused of any Crime are liable to be
                             induced in the public Executions, when Delinquents, or Captives taken in War do not
                             
                             <pb/>
                             
-                            supply a sufficient Number: Notwithstanding this, the People of Dahomey never quit the
-                            Country; with an Extraordingary Submission, they revere the Name of their Sovereign, and
+                            supply a sufficient Number: Notwithstanding this, the People of <placeName>Dahomey</placeName> never quit the
+                            Country; with an Extraordinary Submission, they revere the Name of their Sovereign, and
                             never mention it in their most private Apartments without kneeling; such is the Force of 
-                            Education and Habit. At Abomey, One of the Royal Residences, there are Twenty-five thousand
-                            Inhabitants, and at Calmina, the other Royal Residence, about Sixteen Thousand.
+                            Education and Habit. At <placeName>Abomey</placeName>, One of the Royal Residences, there are Twenty-five thousand
+                            Inhabitants, and at <placeName>Calmina</placeName>, the other Royal Residence, about Sixteen Thousand.
                         </p>
                         <p>Being asked, Whether if there were no People of the Description before mentioned, the
                             innocent Inhabitants of Dahomey would be put to death on these Occasions? he replied,
                             There is no Doubt, in such Case they would particularly on the great annual Ceremony,
                             diminish the Number of these Sacrifices. If the King is in want of European Goods,
-                            the Number of Executions is smaller; if he is overstocked with Powder, Arms, and European
+                            the Number of Executions is smaller; if he is overstocked with Powder, Arms, and <rs type="properAdjective">European</rs>
                             Goods, not wanting Slaves for purchase of them, he puts to Death a greater Number; as
                             it is considered as Part of his Power and Magnificence to make a great Slaughter on this
                             Occasion, and it is celebrated accordingly.
                         </p>
-                        <p>Mr. Norris being asked, Whether the Prisoners of War are always made Slaves, or are
-                            sometimes put to death? replied, in coonsequence of a Aar that was going on when he was
+                        <p><persName>Mr. Norris</persName> being asked, Whether the Prisoners of War are always made Slaves, or are
+                            sometimes put to death? replied, in consequence of a War that was going on when he was
                             there, 1500 Prisoners were made, many of whom were offered to him. which he declined
-                            purchasing, as they appeared unhealty. The King thereupon told him, since that was the 
-                            Case, he would put them to death. Mr. Norris advised him against it, and recommended to
+                            purchasing, as they appeared unhealty. The <ecda:anonPers a-occupation="king" a-gender="male">King</ecda:anonPers> thereupon told him, since that was the 
+                            Case, he would put them to death. <persName>Mr. Norris</persName> advised him against it, and recommended to
                             him to make them Salt Boilers, as they came from the Country that supplied him with Salt, 
                             or to employ them in some other Way; but the King replied, it would be setting a bad 
-                            Example, and bringing People into the Coutrny who would hold seditious Language. That
+                            Example, and bringing People into the Country who would hold seditious Language. That
                             his was a peculiar Government, and that these strange People might prejudice his Subjects
-                             against it, and infect them with Sentiments incomparable with it. Mr. Norris cannot say what
-                             became of these Prisoners; has no Doubt but many sound Purchasers, but imagines the rest
-                             were put to death. Mr. Norris believes it to be the general Practice in Dahomey to put the
-                             Prisoners of War to death unless they are sold.
+                            against it, and infect them with Sentiments incomparable with it. <persName>Mr. Norris</persName> cannot say what
+                            became of these Prisoners; has no Doubt but many sound Purchasers, but imagines the rest
+                            were put to death. <persName>Mr. Norris</persName> believes it to be the general Practice in <placeName>Dahomey</placeName> to put the
+                            Prisoners of War to death unless they are sold.
                         </p>
                         <p>With respect to the Treatment of Strangers, Whites or Blacks, on coming into the Territory
                             of this Prince, Mr. Norris says, the Whites are treated with greater Civility and Attention
@@ -1093,10 +1093,10 @@
                         </head>
                         <byline rend="place-inside"><persName>Mr.
                             Devaynes</persName>.</byline>
-                        <p>The Nature of the Government at Whydah, which is a Province conquered by the King of
-                            Dahomey, and governed by a Viceroy, is despotic in the highest Degree. With respect to any civil
-                            Rights enjoyed by the People of this Country, there are certain <distinct rend="italic" type="ethnographic">Customs</distinct> which Mr. Dalzell believes
-                            the King of Dahomey would not willingly break through, although he has the Power: He consults 
+                        <p>The Nature of the Government at <placeName>Whydah</placeName>, which is a Province conquered by the King of
+                            <placeName>Dahomey</placeName>, and governed by a Viceroy, is despotic in the highest Degree. With respect to any civil
+                            Rights enjoyed by the People of this Country, there are certain <distinct rend="italic" type="ethnographic">Customs</distinct> which <persName>Mr. Dalzell</persName> believes
+                            the King of <placeName>Dahomey</placeName> would not willingly break through, although he has the Power: He consults 
                             with One or Two of his principal Men, but is in general Master of the Lives and Property of his
                             Subjects. At their Death, their Wives, Property, and all go to the King; but he sometimes
                             restores it to those of the Family whom he finds meritorious.
@@ -1105,21 +1105,21 @@
                             makes what they call <distinct rend="italic">Customs</distinct>. At this Period the Governors of the respective Provinces of the
                             Kingdom are called to the Capital, and their Conduct examined into: If they have behaved ill
                             they are punished, generally with Death; if well, they are dismissed with Presents. Upon this
-                            Occasion the Governors of the Three Forts. viz. French, English, and Portuguese, are invited.
-                            Mr. Dalzell attended as Governor of the English Fort in order to pay the King the annual Present
-                            of the African Committee, consisting of Silk, Brandy &amp;c. to the Value of about 50L for which
+                            Occasion the Governors of the Three Forts. viz. <name>French</name>, <name>English</name>, and <name>Portuguese</name>, are invited.
+                            <persName>Mr. Dalzell</persName> attended as Governor of the <rs type="properAdjective">English</rs> Fort in order to pay the King the annual Present
+                            of the <orgName>African Committee</orgName>, consisting of <ecda:commodity>Silk</ecda:commodity>, <ecda:commodity>Brandy</ecda:commodity> &amp;c. to the Value of about 50L for which
                             he makes a Return of nearly the same Value, which is generally a Slave, and some of the Manufactures
                             of the Country. He is also very liberal to all their Attendants; they are lodged in their
                             Passage to the Capital by the King's Order, and in an House set apart for them at the Capital.
-                            During his Stay there, which has sometimes been for three Weeks or upwards, Mr. Dalzell had
+                            During his Stay there, which has sometimes been for three Weeks or upwards, <persName>Mr. Dalzell</persName> had
                             Opportunities of observing the <distinct rend="italic">Customs</distinct>, which he explained as follows:
                         </p>
                         <p>Every Fourth Day is their Market Day, and may perhaps be called their Sunday, for it is a Day
                             of Rest and Recreation, and of superstitious Ceremony.  On these Days during the <distinct rend="italic">Customs</distinct> there is
                             always some Kind of publick Exhibition going on. For instance, One Day is set apart for the
-                            killing of Cattle, which Day in general is a Day previous to the Market Day. The Meat, being 
-                            in very large Quantity, is dressed by the King's Women, and a large Quantity of the Beer of the 
-                            Country is likewise brewed by the same People. This Beer is made of Indian or Guinea Corn.
+                            killing of Cattle, which Day in general is a Day previous to the Market Day. The <ecda:food>Meat</ecda:food>, being 
+                            in very large Quantity, is dressed by the King's Women, and a large Quantity of the <ecda:food>Beer</ecda:food> of the 
+                            Country is likewise brewed by the same People. This <ecda:food>Beer</ecda:food> is made of <ecda:flora><rs type="properAdjective">Indian</rs> or Guinea Corn</ecda:flora>.
                             
                             <pb/>
                             
@@ -1132,8 +1132,8 @@
                             Governors of the Forts, the King, and principal People attend. There are professed Singers,
                             whose Songs are extempore, generally in Prase of the King's warlike Exploits; and when he
                             is pleased, he makes the Singers a Present of a Bunch of Cowries; and when very much pleased,
-                            as on one Occasion Mr. Dalzell saw him, he made the Performer a Present of a Woman with
-                            a Child at her Back.
+                            as on one Occasion <persName>Mr. Dalzell</persName> saw him, he made the <ecda:anonPers a-occupation="performer">Performer</ecda:anonPers> a Present of a <ecda:anonPers a-gender="female">Woman</ecda:anonPers> with
+                            a <ecda:anonPers>Child</ecda:anonPers> at her Back.
                         </p>
                     </div>
                     <div type="subsection">
@@ -1143,32 +1143,32 @@
                         </head>
                         <byline rend="place-inside">
                             <persName>Mr. Dalzell</persName>.</byline>
-                        <p>Another of these market Days is allotted to the Distribution of Presents. A large Stage is
+                        <p>Another of these market Days is allotted to the Distribution of Presents. A large Stage is  <!-- not sure if I should make the person at the end of this ¶ an anonPers? -->
                             erected contiguous to the King's House, covered with the Cloths of the Country, and adorned with
                             Flags and Umbrellas. A Fence of Thorns is placed round the Stage at some little Distance to
                             keep of the Rabble. The Stage is laoded with a Profusion of Cowries, Manufactures of the
                             Country, and European Goods. At a certain Time the King appears and orders his different
-                            Viceroys, according to their Rank, to chuse a Piece of European Cloth, or the Cloth of the
+                            Viceroys, according to their Rank, to chuse a Piece of <rs type="properAdjective">European</rs> Cloth, or the Cloth of the
                             Country, together with a String of large Coral; which done, the King takes a Bunch of Cowries
-                            with his own Hands, and throws to the Rabble beyond the Fence. The European Governors,
+                            with his own Hands, and throws to the Rabble beyond the Fence. The <rs type="properAdjective">European</rs> Governors,
                             And the other upon the Stage, follow the King's Example, and throw the Whole among the People 
-                            who scramble for it, and carry away what they can get; after this, a Man tied, an Alligator
-                            tied, a pair of Pigeons also tied, were thrown from the Stage; all of which, as Mr. Dalzell was
+                            who scramble for it, and carry away what they can get; after this, a Man tied, an <ecda:fauna>Alligator</ecda:fauna>
+                            tied, a pair of <ecda:fauna>Pigeons</ecda:fauna> also tied, were thrown from the Stage; all of which, as <persName>Mr. Dalzell</persName> was
                             informed, were put to Death by the People below.
                         </p>
-                        <p>During the whole of the <distinct rend="italic">Customs</distinct> Mr. Dalzell always found, upon going to the King's House,
+                        <p>During the whole of the <distinct rend="italic">Customs</distinct> <persName>Mr. Dalzell</persName> always found, upon going to the King's House,
                             Heads that appeared to have been fresh cut off; and he has seen, perhaps, about Twenty of those
                             Victims at a Time, previous to their Execution, whom he conceives to have been Men who had
                             been made Prisoners of War or Slaves.—These were tied to Stakes, and exhibited for a Day or
-                            more before their execution, which e presumes was done in the Night. He has been desired to
+                            more before their execution, which he presumes was done in the Night. He has been desired to
                             go and see it, but never would. He has enquired into the Reason ofthese Executions, and though
                             the People are reserved on this Subject, het he has been told, that they have an Idea of a future
-                            of the King in another World; and these Victims are so resigned to their Fate, that Mr. Dalzell
+                            of the King in another World; and these Victims are so resigned to their Fate, that <persName>Mr. Dalzell</persName>
                             himself observed One of them who was tied to the Stake make Efforts to dance at the Sound of
                             the Music; and he cannot say, as far as he observed, that they appeared to be intoxicated. They
-                            also sacrifice Horses and Mules on the same Occasion, and probably with the same View.
+                            also sacrifice <ecda:fauna>Horses</ecda:fauna> and <ecda:fauna>Mules</ecda:fauna> on the same Occasion, and probably with the same View.
                         </p>
-                        <p>These <distinct rend="italic">Customs</distinct> are repeated once a Year only; and Mr. Dalzell does not know that any but
+                        <p>These <distinct rend="italic">Customs</distinct> are repeated once a Year only; and <persName>Mr. Dalzell</persName> does not know that any but
                             the King performs this Ceremony. He cannot speak as to the Number of People sacrificed on these
                             Occasions, but conceives it to be considerable; he has also seen Numbers of Skulls on the Top of
                             the King's Palace, and also on the Pavement of it. No Subject ventures to approach the King
@@ -1181,16 +1181,16 @@
                             is said to one of the Ministers who is always present, as it is below the Dignity of the King to
                             take Words from the Mouth of the Linguist. The distinguishing Part of the King's Dress is
                             wearing Sandals. There are Centinels at the outward Doors of the Palace which is a vast Wall of
-                            Mud; inclosing a Space as big as St. James's Park; but no Male is allowed to reside within the
+                            Mud; inclosing a Space as big as <placeName>St. James's Park</placeName>; but no Male is allowed to reside within the
                             Walls.
                         </p>
-                        <p>With respect to the Religion of the People at Whydah and the general Object of their Worship,
-                            Mr. Dalzell observed that in no Part of Africa had be been able to understand the Religion of the
-                            Natives. At Whydah they pay a Kind of Veneration to a particular Species of large Snake, which
-                            is very gentle. In Dahomey they pay the same Kind of Veneration to Tygers. This Veneration
+                        <p>With respect to the Religion of the People at <placeName>Whydah</placeName> and the general Object of their Worship,
+                            <persName>Mr. Dalzell</persName> observed that in no Part of <placeName>Africa</placeName> had be been able to understand the Religion of the
+                            Natives. At <placeName>Whydah</placeName> they pay a Kind of Veneration to a particular Species of large Snake, which
+                            is very gentle. In <placeName>Dahomey</placeName> they pay the same Kind of Veneration to Tygers. This Veneration
                             does not prevent People from catching and killing them if they please, but they must not touch
                             the Beard, which is considered a great Offence. They have a great Number of Men they call
-                            <distinct type="religious" rend="italic">Fetiche</distinct> Men, or Padres. The Word Fetiche is derived from a Portugueze Word meaning
+                            <distinct type="religious" rend="italic">Fetiche</distinct> Men, or Padres. The Word Fetiche is derived from a <rs type="properAdjective">Portugueze</rs> Word meaning
                             Witchcraft.
                         </p>
                     </div>
@@ -1202,7 +1202,7 @@
                         </head>
                         <byline rend="place-inside">
                             <persName>Mr. Penny</persName>.</byline>
-                        <p>The Government of Bonny extends only over the Town, and a small District on each Side the
+                        <p>The Government of <placeName>Bonny</placeName> extends only over the Town, and a small District on each Side the
                             River. It is a Monarchy elective and not hereditary. The Election is made out of One of the
                             Families of Royal Blood. It is a limited Monarchy, and no Resolution of consequence is
                             taken, either in civil or military Matters, respecting Peace or War, but by the Advice of a
@@ -1213,26 +1213,26 @@
                             
                             which is a Symbol of Royalty, on his Head. The Priests do not take their own Names, but the
                             Name of the Deity whose Priests they are, and the Natives swear by them. They are not suffered
-                            to trade, but ar supported by Government. They live in a separate Twon, which is a Sanctuary
-                            and Place of Refuge for Griminals and Debtors. Mr. Penny was at Bonny at the Time of a 
+                            to trade, but ar supported by Government. They live in a separate Town, which is a Sanctuary
+                            and Place of Refuge for Griminals and Debtors. <persName>Mr. Penny</persName> was at <placeName>Bonny</placeName> at the Time of a 
                             contested Election for a King, and after some Contest, the defeated Party took Refuge there from
-                            the Resentment of the prevailing one. They hold the Guana, a Species of Lizard, sacred at
-                            Bonny. They offer human Sacrifices to the Manes of their King. Mr. Penny was present at a
-                            Ceremony of this Sort, where a young Slave was sacrificed with great Pomp, and with other
+                            the Resentment of the prevailing one. They hold the <ecda:fauna>Guana</ecda:fauna>, a Species of Lizard, sacred at
+                            <placeName>Bonny</placeName>. They offer human Sacrifices to the Manes of their King. <persName>Mr. Penny</persName> was present at a
+                            Ceremony of this Sort, where <ecda:anonPers a-status="enslaved">a young Slave</ecda:anonPers> was sacrificed with great Pomp, and with other
                             Animals. To give a further Sanction to the Measures taken, there are Twelve old Men, who
-                            are appointed by the King and Nobles, and are generally consulted. These are called Parliament
-                            Gentlemen. Disputes that arise in Matters of Trade between the Whites and Blacks, are
+                            are appointed by the King and Nobles, and are generally consulted. These are called <orgName>Parliament
+                            Gentlemen</orgName>. Disputes that arise in Matters of Trade between the Whites and Blacks, are
                             generally referred to these old Men.
                         </p>
-                        <p>With respect to the Government of the Countries adjoining to Bonny, Mr. Penny can only speak 
-                            from Report. No European has ever resided at Bonny on Shore, or been there, except on Ship
-                            board for the Purpose of Trade. In the Country on the Sea Coast to the Eastward of Bonny,
-                            called Andomey, the Government and Laws are similar to those of Bonny. To the Westard in
-                            the Country called Creek, the People are considered as barbarous, and held in Abhorrence by
-                            their Neighbours, as they are charged with being Cannibals. Mr. Penny does not know what the
+                        <p>With respect to the Government of the Countries adjoining to <placeName>Bonny</placeName>, <persName>Mr. Penny</persName> can only speak 
+                            from Report. No <name>European</name> has ever resided at <placeName>Bonny</placeName> on Shore, or been there, except on Ship
+                            board for the Purpose of Trade. In the Country on the Sea Coast to the Eastward of <placeName>Bonny</placeName>,
+                            called <placeName>Andomey</placeName>, the Government and Laws are similar to those of <placeName>Bonny</placeName>. To the Westard in
+                            the Country called <placeName>Creek</placeName>, the People are considered as barbarous, and held in Abhorrence by
+                            their Neighbours, as they are charged with being Cannibals. <persName>Mr. Penny</persName> does not know what the
                             Government there is; the interior Part of the Country from whence the Bulk of the Slaves are
-                            received, and which is of vast Extent, called Ebo, and another Country bordering on it to the
-                            East, called Ebibee, from the concurrent Testimony of the best informed Traders who have been
+                            received, and which is of vast Extent, called <placeName>Ebo</placeName>, and another Country bordering on it to the
+                            East, called <placeName>Ebibee</placeName>, from the concurrent Testimony of the best informed Traders who have been
                             in that Country, are divided into a Number of petty States, governed by despotic Princes independent
                             of each other.
                         </p>
@@ -1241,26 +1241,26 @@
                             their Subjects, excepting only those of their own Family.
                         </p>
                         <p>The Religion of these Countries is idolatrous. In their Houses they have Idols of different
-                            Sorts, some represengint Men, and some Animlas. They have no Mahometans amongst them.
-                            Mr. Penny conceives that they belive in a future state, and in a good an bad Supreme Deity,
-                            with a Number of inverior Deities under them. They place at the End of every Twon a small
+                            Sorts, some representing Men, and some Animals. They have no <name>Mahometans</name> amongst them.
+                            <persName>Mr. Penny</persName> conceives that they belive in a future state, and in a good an bad Supreme Deity,
+                            with a Number of inverior Deities under them. They place at the End of every Town a small
                             Quantity of Provision and Water as an Offereing to the bad Deity; and when they commit any
                             bad Action, they impute it to the bad Deity, who they say took Possession of them. This 
-                            Account applies principally to the interior Country, but at Bonny, the Religion is nearly similar,
+                            Account applies principally to the interior Country, but at <placeName>Bonny</placeName>, the Religion is nearly similar,
                             except that the Priests have amuch greater Influence there than in the interior Country.
                         </p>
-                        <p>Mr. Penny attributes it to their Intercourse with the Europeans, that the Governments on the
+                        <p><persName>Mr. Penny</persName> attributes it to their Intercourse with the Europeans, that the Governments on the
                             Coast appear to be in general more free than in the interior Country; the only Exceptions thereto,
-                            are the Countries of Dahomey and Benin, which extend to the Sea Coast. He has observed, that
+                            are the Countries of <placeName>Dahomey</placeName> and <placeName>Benin</placeName>, which extend to the Sea Coast. He has observed, that
                             in the monarchical Governments, where there is a stronger Government to protect them, the Lives
                             and the Properties of Strangers are more secure than in the Republics.
                         </p>
-                        <p>The Government of New Calabar is nearly similar to that of Bonny, except that the King is
+                        <p>The Government of <placeName>New Calabar</placeName> is nearly similar to that of <placeName>Bonny</placeName>, except that the King is
                             a mere Pageant. The Power chiefly resides in the principal Traders, who govern very much in
-                            the King's Name. There is a Man there called <distinct rend="italic">Anachree</distinct>, who has more Influence and Wealth
+                            the King's Name. There is <ecda:anonPers a-status="enslaved" a-gender="male">a Man</ecda:anonPers> there called <distinct rend="italic">Anachree</distinct>, who has more Influence and Wealth
                             than all the rest of the Community, though he himself is a purchased Slave brought from the
-                            Braspan Coutnry; he has offered the Price of a hundred Slaves for his Freedom, but, according
-                            to the Laws of the Country he cannot obtain it, though his Master, who is an obscure, and a poor
+                            <placeName>Braspan Country</placeName>; he has offered the Price of a hundred Slaves for his Freedom, but, according
+                            to the Laws of the Country he cannot obtain it, though <ecda:anonPers>his Master</ecda:anonPers>, who is an obscure, and a poor
                             Individual, would gladly let him have it. It is contrary to a fundamental Law of the Country that
                             a purchased Slave should become free, and the Priests, who are Interpreters and Guardians of the
                             Laws are afraid, if it should be permitted in the Case of this Man, of establishing a dangerous
@@ -1268,9 +1268,9 @@
                             should make themsleves Masters of it. Notwithstanding the great Influence and Wealth
                             of this Man, his Power is, in many Instances, restrained by his Condition of Slavery.
                         </p>
-                        <p>The Countries bordering on the Interior of New Calabar, are the same that border upon Bonny.</p>
-                        <p>With respect to the religious Institutions at New Calabar, Mr. Penny cannot give any Account.
-                            He does not know any Thing of Old Calabar.
+                        <p>The Countries bordering on the Interior of <placeName>New Calabar</placeName>, are the same that border upon <placeName>Bonny</placeName>.</p>
+                        <p>With respect to the religious Institutions at <placeName>New Calabar</placeName>, <persName>Mr. Penny</persName> cannot give any Account.
+                            He does not know any Thing of <placeName>Old Calabar</placeName>.
                         </p>
                     </div>
                     <div type="subsection">
@@ -1279,8 +1279,8 @@
                         </head>
                         <byline rend="place-inside">
                             <persName>Mr. Falconbridge</persName>.</byline>
-                        <p>The Government at Bonny consists in a King and Twelve Persons, who stile themselves Parliament
-                            Gentlemen. The People believe in a God, but they worhsip a Sort of Lizard called a Guana.
+                        <p>The Government at <placeName>Bonny</placeName> consists in a King and Twelve Persons, who stile themselves Parliament
+                            Gentlemen. The People believe in a God, but they worhsip a Sort of Lizard called a <ecda:fauna>Guana</ecda:fauna>.
                         </p>
                     </div>
                     <div type="subsection">
@@ -1290,45 +1290,45 @@
                         </head>
                         <byline rend="place-inside">
                             <persName>Captain Hall</persName>.</byline>
-                        <p>Captain Hall made two Voyages to Africa in the Merchants Service from the Year 1772
-                            to 1776, as Third, Second, and Chief Mate. In the first Voyage they traded for Rice on the
-                            Windward Coast 'till they got to Cape Palmas, and went from thence to the River Del Rey, where
+                        <p><persName>Captain Hall</persName> made two Voyages to <placeName>Africa</placeName> in the Merchants Service from the Year <date from="1772" to="1776">1772
+                            to 1776</date>, as Third, Second, and Chief Mate. In the first Voyage they traded for <ecda:commodity>Rice</ecda:commodity> on the
+                            <placeName>Windward Coast</placeName> 'till they got to <placeName>Cape Palmas</placeName>, and went from thence to the <placeName>River Del Rey</placeName>, where
                             they began to trade for Slaves, and completed their Cargo. In the second Voyage wend and slaved
-                            at Calabar
-                        </p><p>Captain Hall made conceives the Slave Trade to be founded in Blood, and perfectly illegal; and
+                            at <placeName>Calabar</placeName>
+                        </p><p><placeName>Captain Hall</placeName> made conceives the Slave Trade to be founded in Blood, and perfectly illegal; and
                             added, he might have obtained the Command of a Ship in that Trade, which is the most lucrative
-                            of any except the India Trade, and in respect of Gain to himself might have obtained the Summit
+                            of any except the <placeName type="properAdjective">India</placeName> Trade, and in respect of Gain to himself might have obtained the Summit
                             of his Wishes, but declined it from Conviction of the Trade being unjust.
                         </p>
-                        <p>Of the Government of this Country, Captain Hall gives the following Account.</p>
-                        <p>The Business of the Town at the River Del Rey appeared to be managed by the old Men.
-                            They had a King, who was absolute, but he always availed himself of the Advice of these old
-                            Men, who were his Council.
+                        <p>Of the Government of this Country, <persName>Captain Hall</persName> gives the following Account.</p>
+                        <p>The Business of the Town at the <placeName>River Del Rey</placeName> appeared to be managed by the old Men.
+                            They had a <ecda:anonPers a-gender="male" a-occupation="king">King</ecda:anonPers>, who was absolute, but he always availed himself of the Advice of these <ecda:persGroup a-gender="male" a-occupation="council">old
+                            Men</ecda:persGroup>, who were his Council.
                         </p>
-                        <p>At Calabar they had Three Kings, one of which had the Civil Government, the other was at the
+                        <p>At <placeName>Calabar</placeName> they had Three Kings, one of which had the Civil Government, the other was at the
                             Head of the Religion, and the third at the Head of the Law. Private Disputes were settled by
                             the Head of the Law. Matters of Greater Consequence were settled by the Three Kings with the
                             Elders of the Country. They have no written Law.
                         </p>
                         <p>They have no Money in this Country; Copper Rods about Fifteen Inches long are substituted
                             for Money. They have no Taxes, and no Army. They never were in actual War while he was
-                            there, but he saw them making Preparation for War, either to resist Encroachments, or agains
-                            their Rivals in Trade, which consists of Slaves and a little Ivory. He does not believe any Wars
-                            are entered into upon the Sea Coast for the Purpose of making Slaves. In the Year 1768, there
+                            there, but he saw them making Preparation for War, either to resist Encroachments, or against
+                            their Rivals in Trade, which consists of Slaves and a little <ecda:commodity>Ivory</ecda:commodity>. He does not believe any Wars
+                            are entered into upon the Sea Coast for the Purpose of making Slaves. In the Year <date when="1768">1768</date>, there
                             was a very violent War, and the Slaves made in it were all either sold or massacred, and none remained in
                             the Country.
                         </p>
                         <p>The Cause of this violent War was this: There was a New Town on the River Calabar, settled
                             from the Old Town. This Town became considerable, and grew to be a Rival in Trade to the
-                            Old Town. In the Year 1786, there were Seven Ships which lay at the Point which separated the
-                            Two Towns. The Two of these belonged to London, and the other Five to Liverpool and Bristol. Trade
+                            Old Town. In the Year <date when="1786">1786</date>, there were Seven Ships which lay at the Point which separated the
+                            Two Towns. The Two of these belonged to <placeName>London</placeName>, and the other Five to <placeName>Liverpool</placeName> and <placeName>Bristol</placeName>. Trade
                             was very slack, and hardly any Slaves were to be purchased, from the Jealousy that subsisted between
                             the Two Towns, which made it unsafe for Parties to go into the Country. The Captains
-                            of the Liverpool and Bristol Ships agreed to invite on board their Ships the People of both Twons,
+                            of the <placeName type="properAdjective">Liverpool</placeName> and <placeName type="properAdjective">Bristol</placeName> Ships agreed to invite on board their Ships the People of both Towns,
                             in order to bring about a Reconciliation; at the same Time they entered into an Agreement with
                             the People of the New Town to cut off all the Old Town People the Day they met on board. So
                             perfectly satisfied were the Old Town People of the Sincerity of the Captains of the Ships to bring
-                            about a Reconciliation, that the King of the Old Town gave his Daughter to Wife to the principal
+                            about a Reconciliation, that the <ecda:anonPers a-gender="male" a-occupation="king">King of the Old Town</ecda:anonPers> gave his <ecda:anonPers a-gender="female">Daughter</ecda:anonPers> to <ecda:anonPers a-gender="female">Wife</ecda:anonPers> to the principal
                             Trader of the New Town. The next Morning at Eight o'Clock, one of the Ships fired a Gun
                             as a Signal to the others, when the Crews on board the other Ships made an Attempt to secure
                             all the Old Town People; those who resisted were put to Death by the Captains and Seamen of
@@ -1337,32 +1337,32 @@
                             to the Old Town. After this the New Town People went along-side the different Ships,
                             Four of Which delivered up the Prisoners they had made to the New Town Canoes. The principal
                             Men of Old Town were put to Death in the Canoes by the New Town People; the lower
-                            Class Prisoners were sold to the Ships as Slaves. One Captain, who had secured Two of the
-                            King's Brothers, refused to deliver them up, till his Ship was supplied with Slaves; and when his
+                            Class Prisoners were sold to the Ships as Slaves. <ecda:anonPers a-gender="male" a-occupation="captain">One Captain</ecda:anonPers>, who had secured <ecda:persGroup a-gender="male">Two of the
+                            King's Brothers</ecda:persGroup>, refused to deliver them up, till his Ship was supplied with Slaves; and when his
                             Ship was supplied, which was very soon, from the Number of Prisoners taken, he told the principal
-                            Man of New Twon that he would not deliver them up, but would carry them off the Coast, 
+                            Man of New Town that he would not deliver them up, but would carry them off the Coast, 
                             which he did.
                         </p>
-                        <p>The Two Brothers of the King were sold in the West Indies; but some Means or other they got
-                            to America, (to Virginia or Maryland), from thence they got to Bristol, where they were taken
-                            up, and put on board-Ship to be sent back to the West Indies. Mr. Jones, an African Merchant
-                            in Bristol, who had Ships trading to Old Calabar, got them taken out of the Ship by a 
-                            Habeas Corups, and they were returned in one of the Ships to Old Calabar, after an Absence of
-                            Five or Six Years, while Captain Hall was there. The King of Old Twon was fortunate enough
-                            to make his Escape by killing Two of the Ship's Crew, who first endeavoured to seize him. He
+                        <p>The <ecda:persGroup a-gender="male" a-status="enslaved">Two Brothers of the King</ecda:persGroup> were sold in the <placeName>West Indies</placeName>; but some Means or other they got
+                            to <placeName>America</placeName>, (to <placeName>Virginia</placeName> or <placeName>Maryland</placeName>), from thence they got to <placeName>Bristol</placeName>, where they were taken
+                            up, and put on board-Ship to be sent back to the <placeName>West Indies</placeName>. <persName>Mr. Jones</persName>, an <rs type="properAdjective">African</rs> Merchant
+                            in <placeName>Bristol</placeName>, who had Ships trading to <placeName>Old Calabar</placeName>, got them taken out of the Ship by a 
+                            Habeas Corpus, and they were returned in one of the Ships to <placeName>Old Calabar</placeName>, after an Absence of
+                            Five or Six Years, while <persName>Captain Hall</persName> was there. The <ecda:anonPers a-gender="male" a-occupation="king">King of Old Town</ecda:anonPers> was fortunate enough
+                            to make his Escape by killing <ecda:persGroup>Two of the Ship's Crew</ecda:persGroup>, who first endeavoured to seize him. He
                             then got into a little Canoe, called a One Man Canoe; One of the Ships fired a Gun at the Canoe
                             and broke it in two; he then swam on Shore, and got into the Wood opposite the Ship. He
-                            was about three Miles off, where he was attended by the Surgeon of the London Ships. This was
+                            was about three Miles off, where he was attended by the <ecda:anonPers a-occupation="surgeon">Surgeon of the London Ships</ecda:anonPers>. This was
                             the Commencement of the War, which lasted three or four Years.
                         </p>
-                        <p>The Account given by the King's Brothers of their Treatment in the West Indies, was, that hey
-                            had not been treated well there; but were well used in America. <!-- ??? -->
+                        <p>The Account given by the <ecda:anonPers a-status="freed" a-gender="male">King's Brothers</ecda:anonPers> of their Treatment in the <placeName>West Indies</placeName>, was, that they
+                            had not been treated well there; but were well used in <placeName>America</placeName>. 
                         </p>
-                        <p>Captain Hall being asked, if the English were as well received at the Old Town after the
+                        <p><persName>Captain Hall</persName> being asked, if the <name>English</name> were as well received at the Old Town after the
                             above Circumstance happened as before? replied, They were. It was their Interest to receive
                             them well.
                         </p>
-                        <p>The People on both these Parts of the Coast acknowledge the Existence of a God, and believe in
+                        <p ana="#religion">The People on both these Parts of the Coast acknowledge the Existence of a God, and believe in
                             Repards and Punishments in another Life; but they are very superstitious, and subject to Notions
                             of Necromancy and Magic
                         </p>
@@ -1379,8 +1379,8 @@
                         </head>
                         <byline rend="place-inside">
                             <persName>Mr. Penny</persName>.</byline>
-                        <p>The Government of the Country from Congo to Angola is limited Monarchy. In the Kingdoms
-                            of Loango, Melimba, and Cabenda, which are on the Coast, the Inheritance goes in the female
+                        <p>The Government of the Country from <placeName>Congo</placeName> to <placeName>Angola</placeName> is limited Monarchy. In the Kingdoms
+                            of <placeName>Loango</placeName>, <placeName>Melimba</placeName>, and <placeName>Cabenda</placeName>, which are on the Coast, the Inheritance goes in the female
                             Line; that is, the Sons of the Daughters only succeed. A Princess in this Country is invested
                             with a great Power, and may marry whom she pleases. In this she is not influenced by Affection
                             but selects some Freeman who is become rich by his Talents and Industry in Trade, and who is
@@ -1400,31 +1400,31 @@
                         <p>There is a Council of Princes of the Blood Royal, whom the King is bound to consult on all
                             Occasions, and there are Two great Officers of State who are principally concerned in the 
                             Government of the Country. The one having the Direction of the interior Country, and the other Prince
-                            that of the Sea Coast and Trade; the former is called the King's Mongoba, and the otehr Prince
+                            that of the Sea Coast and Trade; the former is called the King's Mongoba, and the other Prince
                             Mambooka. There is another Officer called the Mamfooka, who is the Governor at the Place
-                            where the European Factories are established, but who is subject to the Controul of the Prince
-                            Mambooka beforementioned. Mr. Penny speaks from his own Knowledge with respect to the Laws of his
+                            where the <rs type="properAdjective">European</rs> Factories are established, but who is subject to the Controul of the Prince
+                            Mambooka beforementioned. <persName>Mr. Penny</persName> speaks from his own Knowledge with respect to the Laws of his
                             Country, is not permitted to see the Sea, nor to wear any Manufactures of any Country but his
                             own, nor to have any Thing to do with Trade; but through the Mongoba he receives certain
                             Customs upon the Trade of others.
                         </p>
-                        <p>From Cape Lopez to Angola the Extent is about 140 Leagues. Mr. Penny cannot positively
+                        <p>From <placeName>Cape Lopez</placeName> to <placeName>Angola</placeName> the Extent is about 140 Leagues. <persName>Mr. Penny</persName> cannot positively
                             say what is the Extent of the Three Kingdoms before mentioned, <emph>inland</emph>, but believes it may be
                             from 200 to 300 miles. He cannot say any Thing positively with respect to the Nature of the
                             Government in any of the interior Countries bordering on the said Three Kingdoms, but understands
                             that they are divided into Petty States, governed by Princes, with the Nature of whose Authority
                             he is not much acquainted.
                         </p>
-                        <p>With respect to the religious Institutions of these Kingdoms, the People believe in a good and
+                        <p ana="#religion">With respect to the religious Institutions of these Kingdoms, the People believe in a good and
                             bad Deity: They have some few Images, but he never understood they worshipped them; he rather
                             believes they are considered as Charms or Amulets. They bury their Princes with great Pomp and
                             Lamentation, consuming a great Variety of their Effects, and the Trinkets of the deceased, but
                             they have not any human Sacrifices; the lower Orders of the People follow this Example as far as 
-                            their Circumstances permit. Mr. Penny has never observed them to pray, and the Reason they
+                            their Circumstances permit. <persName>Mr. Penny</persName> has never observed them to pray, and the Reason they
                             assign for do not doing so is, <said rend="italic">that God knows what is best for them</said>.
                         </p>
-                        <p>Mr. Penny believes they have a confused Idea of a future State. The French sent Missionaries
-                            among them in the Year 1775 or 1776, but he believes they met with very little Success.
+                        <p><persName>Mr. Penny</persName> believes they have a confused Idea of a future State. The <name>French</name> sent Missionaries
+                            among them in the Year <date notBefore="1775" notAfter="1776">1775 or 1776</date>, but he believes they met with very little Success.
                         </p>
                     </div>
                     <div type="subsection">
@@ -1434,8 +1434,8 @@
                         <byline rend="place-inside">
                             <persName>Mr. Falconbridge</persName>.
                         </byline>
-                        <p>Mr. Falconbridge does not know what the Nature of the Government is at Angola. The Religion
-                            appears to be Roman Catholic.
+                        <p><persName>Mr. Falconbridge</persName> does not know what the Nature of the Government is at <placeName>Angola</placeName>. The Religion
+                            appears to be <name>Roman Catholic</name>.
                         </p>
                     </div>
                 </div>
@@ -1445,7 +1445,7 @@
                 
                 <div type="part">
                     <head>III.</head>
-                    <p>The Committee, before they proceed to submit to your Majesty
+                    <p>The Committee, before they proceed to submit to <rs type="person">your Majesty</rs>
                         the Information they have collected respecting the Treatment of
                         Slaves in the <placeName>West Indies</placeName>, think it proper to take Notice, that the
                         Gentlemen who act as Agents for the several Islands, desired that in
@@ -1468,19 +1468,19 @@
                     <div type="section">
                          <div type="subsection">
                             <head>A. Nº 1 and 2.</head>
-                            <p>What is the legal Power which Masters have over their Slaves in each of the British
-                                Islands of the West Indies?
+                            <p>What is the legal Power which Masters have over their Slaves in each of the <rs type="properAdjective">British</rs>
+                                Islands of the <placeName>West Indies</placeName>?
                             </p>
-                            <p>What is the Protection granted to slaves by Law in each of the British Islands?</p>
-                            <p>Vide Abstract of the Laws of Jamaica, Appendix to this Head.</p>
+                            <p>What is the Protection granted to slaves by Law in each of the <rs type="properAdjective">British</rs> Islands?</p>
+                            <p>Vide Abstract of the Laws of <placeName>Jamaica</placeName>, Appendix to this Head.</p>
                          </div>
                          <div type="subsection">
                             <head>A. Nº 1 and 2.</head>
-                            <p>The Committee are of opinion, That the Consolidated Slave Act lately passed, will furnish
+                            <p>The Committee are of opinion, That the <title>Consolidated Slave Act</title> lately passed, will furnish
                                 the best Answer to these Heads of Inquiry, and do therefore refer thereto for Satisfaction in
                                 this respect.
                             </p>
-                            <p><label>N.B.</label> The Two Reports from the House of Assembly of the Island of Jamaica are placed
+                            <p><label>N.B.</label> The Two Reports from the <orgName>House of Assembly</orgName> of the Island of <placeName>Jamaica</placeName> are placed
                                 in the Appendix to this Head.
                             </p>
                          </div>
@@ -1495,20 +1495,20 @@
                                 <pb/>
                                     
                                 Island. Tried by Two Justices of the Peace, and Three Freeholders, noways interested in the
-                                Case. Are all sworn to do Justice. Those Offences in general which are capital in England
-                                being capital in Jamaica:—Such as Murder, Rebellion, Arson, &amp;c. Vide the Laws of
-                                Jamaica for further Satisfaction. Transportation is the general Punishment, where Negroes
+                                Case. Are all sworn to do Justice. Those Offences in general which are capital in <placeName>England</placeName>
+                                being capital in <placeName>Jamaica</placeName>:—Such as Murder, Rebellion, Arson, &amp;c. Vide the Laws of
+                                <placeName>Jamaica</placeName> for further Satisfaction. Transportation is the general Punishment, where Negroes
                                 have been found incorrigible.
                             </p>
-                            <p rend="center">Vide Appendix to this Head. Sect. 28. Act. 91. 1781. Mode of Trial.</p>
+                            <p rend="center">Vide Appendix to this Head. Sect. 28. Act. 91. <date when="1781">1781</date>. Mode of Trial.</p>
                             <p rend="italic">To what Places do they generally transport Negroes that have been found incorrigible?</p>
-                            <p rend="italic">They are sold to any Body that will buy them; but in general to the Dutch Curasoa Traders, or
-                                they are sent to the Coast of Honduras.
+                            <p rend="italic">They are sold to any Body that will buy them; but in general to the <rs type="properAdjective">Dutch</rs> Curasoa Traders, or
+                                they are sent to the Coast of <placeName>Honduras</placeName>.
                                </p>
                             <p rend="italic">On whom does the Loss fall in consequence of a Negro being transported?</p>
                             <p rend="italic">When they are transported in consequence of a Judicial Sentence, the Master receives a Sum not 
                                 exceeding 40 l. Currency, which Sum is levied upon the Parish out of a Fund raised by the Parishioners
-                                for that Purpose, pursuant to the Law passed in 1781, above referred to.
+                                for that Purpose, pursuant to the Law passed in <date when="1781">1781</date>, above referred to.
                             </p>
                             <p>For mere Misbehaviour in Duty to their Masters, they are subject to their Masters Discretion,
                                 qualified by the Provisions of the said Consolidated Act; For Misdemeanors and all
@@ -1520,20 +1520,20 @@
                         <div type="subsection">
                             <head>A. Nº 4.</head>
                             <p>To what Penalties are masters, or those who act under them, subject if they transgress the
-                                Laws made for the Protection of Negroe Slaves, or in any respect exercise Acts of Cruelty 
+                                Laws made for the Protection of Negro Slaves, or in any respect exercise Acts of Cruelty 
                                 towards them, and to what Courts are they in such Cases amenable?
                             </p>
-                            <p>Vide Act 38, 1696. Act 183, 1751, and 1781, Act 91.</p>
+                            <p>Vide Act 38, <date when="1696">1696</date>. Act 183, <date when="1751">1751</date>, and <date when="1781">1781</date>, Act 91.</p>
                             <p>For murdering a Slave; guilty of Felony for the First Offence, and to have the Benefit of
-                                Clergy; and shall suffer, as a further Punishment, an Imprisonment for such a Time as teh
+                                Clergy; and shall suffer, as a further Punishment, an Imprisonment for such a Time as the
                                 Court shall adjudge, not exceeding Twelve Months.
                             </p>
                             <p>For the Second Offence, shall suffer Death.—Conviction not to extend to corrupting Blood,
                                 or Forfeiture of Lands, Tenements, &amp;c.
                             </p>
                             <p>To be tried by the Supreme Court or Court of Assize at the General Gaol Delivery.</p>
-                            <p><quote rend="quotes">We understand from recent Advice, that on the <date when="--11-29">29th of November last</date>, the House of
-                                Assembly were then assiduously employed in framing a Consolidated Code Noir, or Slave Bill,
+                            <p><quote rend="quotes">We understand from recent Advice, that on the <date when="--11-29">29th of November last</date>, the <orgName>House of
+                                Assembly</orgName> were then assiduously employed in framing a <title>Consolidated Code Noir, or Slave Bill</title>,
                                 which was meant to change in many respects the former System of Regulations. A council of
                                 Protection is established in each Parish, and a Variety of humane Provisions introduced for 
                                 rendering their Condition as easy and happy as possible.—It is made Felony withot Benefit
@@ -1548,8 +1548,8 @@
                             </p>
                             <p>Vide Appendix, Col. 3. Coroners</p>
                             <note anchored="false"><label>N. B.</label>Since the Answer to this Question was drawn up, we understand that a Gentleman
-                                from Jamaica is arrived in Town who is ready to give Evidence, that the Law therein
-                                referred to, as having been proposed to the House of Assembly in November 1787, has
+                                from <placeName>Jamaica</placeName> is arrived in Town who is ready to give Evidence, that the Law therein
+                                referred to, as having been proposed to the <orgName>House of Assembly</orgName> in <date when="1787-11">November 1787</date>, has
                                 been passed, and is now in full Force <seg xml:id="a01ish" corresp="#n01ish">(a)</seg>.
                             </note>
                             <p>The Committee refer to the Consolidated Act for an Answer to this Head.</p>
@@ -1559,21 +1559,21 @@
                             <p>Are Negro Slaves fed at their Masters Expence, or by their own Labour; and when fed by
                                 their Masters, with what are they fed, and in what Quantity?
                             </p>
-                            <p>By the Laws of Jamaica, every Proprietor is obliged to allot one Acre of good Provision
+                            <p>By the Laws of <placeName>Jamaica</placeName>, every Proprietor is obliged to allot one Acre of good Provision
                                 Ground to every Four Negroes belongin to him: this is meant for their own private Cultivation:
                                 And besides this, the Negroes have in all the Plantations an unbounded Liberty to
                                 cultivate as much Land as they please. But as the major Part of them are improvident and
                                 negligent, there are few, if any, Estates, the Owners or Managers of which do not keep a
                                 large Tract of Ground constantly stocked with some or other of the various vegetable Species,
-                                such as Plantains, Yams, Cocoa, Potatoe, Cassavi, &amp;c.; and who also take every seasonable
-                                Opportunity of sowing many Acres either of the Maize or Guinea Corn, and the different
+                                such as <ecda:flora ana="#food">Plantains</ecda:flora>, <ecda:flora ana="#food">Yams</ecda:flora>, <ecda:flora ana="#food">Cocoa</ecda:flora>, <ecda:flora ana="#food">Potatoe</ecda:flora>, <ecda:flora ana="#food">Cassavi</ecda:flora>, &amp;c.; and who also take every seasonable
+                                Opportunity of sowing many Acres either of the <ecda:flora ana="#food">Maize</ecda:flora> or <ecda:flora ana="#food">Guinea Corn</ecda:flora>, and the different
                                 Kinds of Pulse and Legumina in use there.
                             </p>
-                            <p>In addition to these, every well regulated Estate imports Herrings or Salt Fish, or bothl
-                                Flour and Pease. Twenty or Twenty-five Barrels of Herrings to every One Hundred Negroes
+                            <p>In addition to these, every well regulated Estate imports <ecda:food ana="#fauna">Herrings</ecda:food> or Salt Fish, or both
+                                <ecda:food>Flour</ecda:food> and <ecda:food>Pease</ecda:food>. Twenty or Twenty-five Barrels of Herrings to every One Hundred Negroes
                                 (including all Ages) is the common Allowance.
                             </p>
-                            <p>Every industrious Negroe breeds Hogs and Poultry for his own and Family Use, or for
+                            <p>Every industrious Negroe breeds <ecda:fauna>Hogs</ecda:fauna> and <ecda:fauna>Poultry</ecda:fauna> for his own and Family Use, or for
                                 Sale, and for his own Benefit. These Articles support amonst them a very extensive and
                                 lucrative Commerce, which they carry on uninterruptedly, as well with the King's Ships and
                                 Troops on that Station, as with the Shipping in genera. the Towns, and the Country
@@ -1583,7 +1583,7 @@
                                 Negroes have deprived them of any Part of such their Acquisitions, which by long Practice
                                 and Usage are universally considered as their own Property, Right, or <distinct rend="italic">Peculium</distinct>, which they
                                 keep or dispose of, and devise at their own Pleasure. And some there are, who are rich
-                                enough to purchase their Freedom, if they wer of opinion it would render their Condition
+                                enough to purchase their Freedom, if they were of opinion it would render their Condition
                                 more comfortable and happy than it is at present.
                             </p>
                             <p>Slaves employed in the Culture of Lands are allowed by their Masters certain Proportions
@@ -1598,7 +1598,7 @@
                                 Corn, at the Rate of about Six Quarts per Week, or an adequate Supply in Flour, besides
                                 the said usual Supply of Salt Herrings, or other salted Fish: Domestics and Tradesmen, who
                                 are employed in and about the Towns, or have no Connexion with Plantations, are in general,
-                                if not universally, at Board-wages. The late Consolidated Slave Act furnishes also an 
+                                if not universally, at Board-wages. The late <title>Consolidated Slave Act</title> furnishes also an 
                                 authoritative Regulation in these Respects.
                             </p>
                         </div>
@@ -1631,11 +1631,11 @@
                                 Slaves, he prepares Houses for them, allots a Portion of Ground stocked with Provisions;
                                 and most Planters also give them a Breed of Hogs and Poultry.
                             </p>
-                            <p>The established Negroe Slaves lie in Houses perfectly convenient to themselves, and
+                            <p>The established Negro Slaves lie in Houses perfectly convenient to themselves, and
                                 adapted to the Climate; the Size is proportioned to their Rank and Family. When they 
                                 require to be rebuilt or enlarged, sufficient Time, Materials, and Assistance are allowed
                                 them for those Purposes. Upon the whole, we believe them to be far better clothed, lodged,
-                                and fed in Jamaica, than the Peasantry of Europe in general.
+                                and fed in <placeName>Jamaica</placeName>, than the Peasantry of <placeName>Europe</placeName> in general.
                             </p>
                             <p rend="italic">Are there many Instances in which the masters or Overseers treat the Slaves, either with respect
                                 to their Food or Clothing, not in conformity to what you have above stated, or otherwise hardly?
@@ -1655,8 +1655,8 @@
                                 broad, and which, if they are themselves unable to erect, their Masters build for them.
                                 These Houses are in general thatched, wattled, and plaistered, are found a very sufficient 
                                 Protection against the most inclement Seasons, and are for the most Part full as commodious as the
-                                Cottages of the labouring Peasantry in Great Britain. Domestics are as well lodged as Domestics
-                                in England.
+                                Cottages of the labouring Peasantry in <placeName>Great Britain</placeName>. Domestics are as well lodged as Domestics
+                                in <placeName>England</placeName>.
                             </p>
                         </div>
                         <div type="subsection">
@@ -1664,7 +1664,7 @@
                             <p>What is the Annual Expence of the Maintenance of a Negro Man, Woman, and Child,
                                 at different Ages respectively?
                             </p>
-                            <p>This Question is not properly applicable to Jamaica; for in this Island, as the Negroes in all
+                            <p>This Question is not properly applicable to <placeName>Jamaica</placeName>; for in this Island, as the Negroes in all
                                 the Country Parts have Lands assigned them, and are not restricted in Extent of Ground, the
                                 Produce of which, together with an Allowance of Herring or other Salt Fish, Sugar and Rum,
                                 form the principal Source of their Subsistence; we do not know of any Computation which
@@ -1678,12 +1678,12 @@
                         <div type="subsection">
                             <head>A. Nº 8.</head>
                             <p>Are many Negroes usually let out to hire, in what Numbers and on what Conditions?</p>
-                            <p>Till within these Twelve or Fourteen Years, a few Negroes in Jamaica were let out to hire,
+                            <p>Till within these Twelve or Fourteen Years, a few Negroes in <placeName>Jamaica</placeName> were let out to hire,
                                 except Domestics and Tradesmen.—But in consequence of some Discouragements which the 
                                 Article Coffee met with, most of the Coffee Planters began to let out their working Negroes
                                 upon Job Work, on the Sugar Estates.
                             </p>
-                            <p>This Business has ever since been followed pretty extensively in Jamaica, both by the inferior
+                            <p>This Business has ever since been followed pretty extensively in <placeName>Jamaica</placeName>, both by the inferior
                                 Settlers, and such Overseers of Sugar-works, who have from time to time become Owners of
                                 Negroes, but not yet possessed of Land of their own, or who have not applied themselves to the
                                 Culture of it.
@@ -1740,10 +1740,10 @@
                         </div>
                         <div type="subsection">
                             <head>A. Nº 11.</head>
-                            <p>Are Negroe Slaves subject to any peculiar Diseases, to which White Inhabitants or Free
+                            <p>Are Negro Slaves subject to any peculiar Diseases, to which White Inhabitants or Free
                                 Negroes are not subject; and if they are so subject, assign the Causes?
                             </p>
-                            <p>The Gentlemen of the Faculty, who have had experience in the Island of Jamaica, are
+                            <p>The Gentlemen of the Faculty, who have had experience in the Island of <placeName>Jamaica</placeName>, are
                                 certanly best qualified to give a satisfactory Answer to this Inquiry; it may however be
                                 affirmed, upon the Credit of experience Platers and others, who have resided there for
                                 many Years, that the Negroe Slaves are subject to some Diseases, from which the White
@@ -1751,13 +1751,13 @@
                                 and entailed on their Posterity, viz.
                                 <list>
                                     <item>The Coco-bays,</item>
-                                    <item>The Leprosy of the Greeks,</item>
-                                    <item>The Leprosy of the Arabians,</item>
+                                    <item>The Leprosy of the <name>Greeks</name>,</item>
+                                    <item>The Leprosy of the <name>Arabians</name>,</item>
                                     <item>The Elephantiasis.</item>
                                 </list>
                             </p>
-                            <p>The Yaws is an African Disease, though now common in Jamaica, and many Negroes
-                                afflicted with it, die notwithstanding the ablest mdical Assistance.—As to other Distempers,
+                            <p ana="#medical">The Yaws is an <rs type="properAdjective">African</rs> Disease, though now common in <placeName>Jamaica</placeName>, and many Negroes
+                                afflicted with it, die notwithstanding the ablest medical Assistance.—As to other Distempers,
                                 it is not pretended that Negroe Slaves are naturally more subject to them than the White
                                 Inhabitants or Free Negroes; what Difference is observable between them in this Respect, is 
                                 chiefly to be attributed to <emph>Manners</emph>.—Numbers of the Negroe Slaves in that Island either
