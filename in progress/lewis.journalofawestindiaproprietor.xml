@@ -202,7 +202,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
                has appeared in this country; and, considering the charge, a marvel in its bibliopoly.
                Looking at the poetical beauty and extraordinary interest of <persName ref="#lord_byron_1788">Lord 
                Byron's</persName> Muse, the perfect form in which she is presented through the taste
-               and labour of the editor, and the exquisite skill of <persName ref="#john_turner_1775">Turner</persName> and the <name>Findens</name> in <!-- same as <persName ref="#william_finden_1787 #edward_finden_1791">W. and E. Finden</persName>? -->
+               and labour of the editor, and the exquisite skill of <persName ref="#john_turner_1775">Turner</persName> and the <ecda:persGroup><name>Findens</name></ecda:persGroup> in <!-- same as <persName ref="#william_finden_1787 #edward_finden_1791">W. and E. Finden</persName>? -->
                the engravings, we have no hesitation in saying, that <persName ref="#john_murray_1778">Mr. Murray</persName> has proved
                himself a faithful friend to the noble poet, both living and dead, while he has
                by this publication done singular honour to the <rs type="properAdjective">English</rs> press. The tact and
@@ -1364,7 +1364,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
  <quote rend="quotes">that little has been made less</quote>; or, 
     rather it has dwindled away to nothing. We 
     are now so absolutely becalmed, that I began seriously
-    to suspect all the crew of being <name>Phæacians</name>;
+    to suspect all the <ecda:persGroup a-occupation="sailor">crew</ecda:persGroup> of being <name>Phæacians</name>;
     and that at this identical moment <persName ref="#neptune_0001">Neptune</persName> is
     amusing himself by making the ship take root in
     the ocean; a trick which he played once before 
@@ -2226,9 +2226,9 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      them could exceed the scornful animosity and spirit
      of deprecation with which the <ecda:persGroup a-aig="blue"><name>Blues</name></ecda:persGroup> and the <ecda:persGroup a-aig="red"><name>Reds</name></ecda:persGroup>
      of <placeName>Black River</placeName> examined the efforts at display of 
-     each other. The <name>Blues</name> had the advantage beyond
-     a doubt; this <ecda:anonPers a-gender="female">a <rs type="properAdjective">Red</rs> girl</ecda:anonPers> told us that she could not
-     deny; but still, <said direct="false" rend="quotes">though the <name>Reds</name> were beaten,
+     each other. The <ecda:persGroup a-aig="blue"><name>Blues</name></ecda:persGroup> had the advantage beyond
+     a doubt; this <ecda:anonPers a-gender="female" a-aig="red">a <rs type="properAdjective">Red</rs> girl</ecda:anonPers> told us that she could not
+     deny; but still, <said direct="false" rend="quotes">though the <ecda:persGroup a-aig="red"><name>Reds</name></ecda:persGroup> were beaten,
      she would not be a <rs type="properAdjective">Blue</rs> girl for the whole universe!</said>
      On the other hand, <persName ref="#edwards_0001">Miss Edwards</persName> (the 
      mistress of the hotel from whose window we saw 
@@ -2260,16 +2260,16 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      sticks and the elbows of the <ecda:persGroup>fiddlers</ecda:persGroup> attacked her
      in the rear; and on went <ecda:anonPers a-status="enslaved" a-gender="female"><name>Britannia</name></ecda:anonPers> willy-nilly!
   </p>  
-    <p ana="#performance">The <ecda:persGroup a-gender="female"><rs type="properAdjective">Blue</rs> girls</ecda:persGroup> called themselves <quote rend="quotes">the <ecda:persGroup a-gender="female"><rs type="properAdjective">Blue</rs> girls</ecda:persGroup>
+    <p ana="#performance">The <ecda:persGroup a-gender="female" a-aig="blue"><rs type="properAdjective">Blue</rs> girls</ecda:persGroup> called themselves <quote rend="quotes">the <ecda:persGroup a-gender="female"><rs type="properAdjective">Blue</rs> girls</ecda:persGroup>
      of <placeName>Waterloo</placeName></quote>. Their motto was the more patriotic;
      that of the <rs type="properAdjective">Red</rs> was the more gallant:—<quote rend="quotes"><name>Britannia</name>
      rules the day!</quote> streamed upon the <rs type="properAdjective">Blue</rs> flag;
-     <quote rend="quotes"><ecda:persGroup a-gender="female"><rs type="properAdjective">Red</rs> girls</ecda:persGroup> for ever!</quote> floated upon the <rs type="properAdjective">Red</rs>. But, 
+     <quote rend="quotes"><ecda:persGroup a-gender="female" a-aig="red"><rs type="properAdjective">Red</rs> girls</ecda:persGroup> for ever!</quote> floated upon the <rs type="properAdjective">Red</rs>. But, 
  <pb n="63"/>
  <fw type="pageNum">55</fw> 
      in point of taste and invention, the former carried
      it hollow. First marched <ecda:anonPers a-gender="female" a-status="enslaved"><name>Britannia</name></ecda:anonPers>; then came a
-       band of music; then the flag; then the <ecda:anonPers a-gender="male"><rs type="properAdjective">Blue</rs> King</ecda:anonPers>
+       band of music; then the flag; then the <ecda:anonPers a-gender="male" a-aig="blue"><rs type="properAdjective">Blue</rs> King</ecda:anonPers>
        and <ecda:anonPers a-gender="female">Queen</ecda:anonPers>—the <ecda:anonPers a-gender="female">Queen</ecda:anonPers> splendidly dressed in
        white and silver (in scorn of the opposite party, her
        train was born by a <ecda:anonPers a-gender="female">little girl</ecda:anonPers> in red); his <ecda:anonPers a-gender="male">Majesty</ecda:anonPers>
@@ -2285,7 +2285,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
        Dukes and Duchesses, every mother's child
        of them.
     </p>
-     <p ana="#performance">The <ecda:persGroup a-gender="female"><rs type="properAdjective">Red</rs> girls</ecda:persGroup> were also dressed very gaily
+     <p ana="#performance">The <ecda:persGroup a-gender="female" a-aig="red"><rs type="properAdjective">Red</rs> girls</ecda:persGroup> were also dressed very gaily
         and prettily, but they had nothing in point of
         invention that could vie with <name><persName ref="#horatio_nelson_1758">Nelson's</persName> Car</name> and 
         <ecda:anonPers a-gender="female" a-status="enslaved"><name>Britannia</name></ecda:anonPers>; and when the <rs type="properAdjective">Red</rs> throne made its
@@ -2335,7 +2335,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
    <fw type="pageNum">57</fw>         
        <ecda:anonPers>another</ecda:anonPers> dancing to the tune, while she presented
        her <seg ana="#money">money-box</seg> to the <ecda:persGroup>spectators</ecda:persGroup>, and the rest of
-       the <ecda:persGroup a-gender="female"><rs type="properAdjective">Blue</rs> girls</ecda:persGroup> filling up the chorus. I cannot say
+       the <ecda:persGroup a-gender="female" a-aig="blue"><rs type="properAdjective">Blue</rs> girls</ecda:persGroup> filling up the chorus. I cannot say
         much in praise of the <ecda:anonPers a-arc="black" a-gender="female">black <persName ref="#angelica_catalani_1780">Catalani</persName></ecda:anonPers>; but nothing
         could be more light, and playful, and graceful,
         than the extempore movements of the <ecda:anonPers a-gender="female">dancing girl</ecda:anonPers>.
