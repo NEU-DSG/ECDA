@@ -3863,8 +3863,8 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
             I am still more certain, that it is the only agreeable
             place for me to die in; for I have got a family
             mausoleum, which looks for all the world like the
-            theatrical representation of the <quote rend="quotes">tomb of all the
-               Capulets</quote>. Its outside is most plentifully decorated <!-- quote source; could this be from a letter from Burke to Matthew Smith? -->
+            theatrical representation of the <quote rend="quotes" source="#burke_letter">tomb of all the
+               Capulets</quote>. Its outside is most plentifully decorated 
             <quote rend="quotes" source="parnell_death">with sculptured stones</quote>,—
             <quote rend="quotes" source="parnell_death">Arms, angels, epitaphs, and bones</quote>.
             Within is a tomb of purest white marble, raised
@@ -4462,7 +4462,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
           went away, he would leave his picture for the
           <ecda:persGroup a-gender="mixed" a-status="enslaved" a-arc="negro">negroes</ecda:persGroup>; <said rend="quotes" direct="false"><distinct type="dialect">that they might talk to it, all just as
           they did to massa</distinct>.</said></ecda:intSN> <persName ref="#william_shakespeare_1564">Shakespeare</persName> says—
-          <quote rend="quotes">A little flattery does well sometimes!</quote> <!-- quote source? -->
+          <quote rend="quotes" source="#shakespeare_richard_iii">A little flattery does well sometimes!</quote> 
           But, although the mode of expressing it may be
           artifice, the sentiment of good-will may be shown.
           A <ecda:fauna>dog</ecda:fauna> grows attached to the person who feeds
@@ -6170,7 +6170,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     it is extremely difficult to obtain the favours of a
     woman of colour. To gain the situation of housekeeper 
     to a white man, the mulatto girl
-    <quote rend="quotes"><lg><l>directs her aim;</l> <!-- quote? -->
+    <quote rend="quotes" source="#lyttleton_advice"><lg><l>directs her aim;</l>
     <l>This makes her happiness, and this her fame.</l></lg></quote>
  </p>
 </div>  
@@ -8322,10 +8322,10 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
      literally be said to <quote rend="quotes">have put his foot in it</quote>. <persName ref="#bernard_fontenelle_1657">Fontenelle</persName> 
      says, that when <persName ref="#nicolaus_copernicus_1473">Copernicus</persName> published his
      system, he foresaw the contradictions which he
-     should have to undergo—<quote xml:lang="fr">Et il se tira d'affaire
+     should have to undergo—<quote xml:lang="fr" source="#fontenelle_soir">Et il se tira d'affaire
      très-habilement. Le jour qu'on lui présentoit le
      premier exemplaire, scavez-vous ce qu'il fit? Il
-     mourut</quote>; which was precisely the resource resorted <!-- quote source? -->
+     mourut</quote>; which was precisely the resource resorted 
      to by the <ecda:fauna>alligator</ecda:fauna>. He died on the second morning
      of his captivity, and his proprietor, <persName ref="#anthony_storer_0001">Mr. Storer</persName>,
      was obliging enough to order his skin to be stuffed,

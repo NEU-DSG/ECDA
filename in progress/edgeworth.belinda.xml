@@ -1370,7 +1370,7 @@
          </p>  
         <p><said>Damn me if I know any woman,
         young or old, that would <emph>avoid</emph> being
-        married, if she could, though, damn me:</said>
+        married, if she could, though, damn me:</said> <!-- should this kind of speech be encoded with <distinct type="dialect">? there are distinct terms and some phonetic spellings, but I'm not sure whether it's an actual dialect (or, even, a kind of dialect we care about) -->
         cried <persName ref="#philip_baddely_0001">sir Philip Baddely</persName>, a gentleman who
         always supplied <quote rend="quotes" source="#pope_man">each vacuity of sense</quote>
         with an oath—<said>But damn me <persName ref="#rochefort_0001">Rochefort</persName>, 
@@ -5795,7 +5795,7 @@
           squeak for your life—'pon my honour, we
           thought at one time it was all over with 
           you—but you're a tough one—We shan't 
-          have to <quote rend="quotes">pour over your grave a full bottle
+          have to <quote rend="quotes" source="#stevens_wine">pour over your grave a full bottle
           of <ecda:food>red</ecda:food></quote>, as yet, my boy—you'll <emph>do</emph> as well <!-- quote source? -->
           as ever.—So I'll step and call a coach for
           you, <persName ref="#clarence_hervey_0001">Clary</persName>, and we shall be at dinner as 
@@ -11539,7 +11539,7 @@
            are they?—Very strong—and he is prudent
            to leave that opinion in writing.
            Now, whatever happens, he cannot be
-           answerable for <quote rend="quotes">measures which he does <!-- quote source? -->
+           answerable for <quote rend="quotes" source="#pitt_correspondence">measures which he does 
            not guide</quote>. Nor you either, my dear!—
            you have all done what is prudent and
            proper.—But I must beg you to recollect,
@@ -16517,8 +16517,8 @@
            be broken. If the <ecda:fauna>horse</ecda:fauna> has been too ill
                <pb/>
                <fw type="pageNum">188</fw>
-           trained for the heroine's purpose, <quote rend="quotes">some
-           footpad, bandit fierce, or mountaineer,</quote>  <!-- quote source? -->
+           trained for the heroine's purpose, <quote rend="quotes" source="#milton_regained">some
+           footpad, bandit fierce, or mountaineer,</quote>  
            some jealous rival must make his appearance
            quite unexpectedly at the turn of a
            road, and the lady must be carried off,
@@ -18229,7 +18229,7 @@
          face, and my feelings even at this instant,
          alas! confute my system. I shall pay too
          dear yet for some of my experiments.
-         <quote rend="quotes" xml:lang="fr">Sois grand homme, et sois malhereux,</quote> <!-- source? -->
+         <quote rend="quotes" xml:lang="fr" source="#rivarol_hommes">Sois grand homme, et sois malheureux,</quote> 
          is, I am afraid, the law of nature, or rather
          the decree of the world. Your ladyship
          will not read this without a smile; for
@@ -18382,9 +18382,9 @@
           wife, I have seen, at a moderate computation,
           a hundred fit to be his mistress.
           If he should, on the subject, mistake the
-          <mcr rend="italic">fitness of things or of persons</mcr>, he would
-          indeed be <mcr rend="italic">in a fair way to be unhappy for
-          life</mcr>. <!-- is this a quote? -->          
+              <mcr rend="italic">fitness of things or of persons</mcr>, he would <!-- is this a quote? -->  
+          indeed be <quote rend="italic">in a fair way to be unhappy for
+          life</quote>.         
           </p>
           <p rend="prequotes">The substance of a lady's letter, it
            has been said, always is comprised in the 
@@ -18831,7 +18831,7 @@
        these <ecda:flora>green leaves</ecda:flora>, to please botanic ears?</said>           
        </p>         
        <p><said>This,</said> replied <persName ref="#belinda_portman_0001">Belinda</persName>, <said>is what
-       <quote>Th' unlearned, <ecda:flora>duckweed</ecda:flora>: learned, <ecda:flora>lemna</ecda:flora>, call,</quote> <!-- quote source? -->
+       <quote source="#milton_paradise">Th' unlearned, <ecda:flora>duckweed</ecda:flora>: learned, <ecda:flora>lemna</ecda:flora>, call,</quote>
        and it is to be found in any ditch or
        standing pool.</said>           
        </p>         
@@ -19460,8 +19460,8 @@
         to the voice of flattery, of, as <persName ref="#champfort_0001">Mr. Champfort</persName>
         called it, the voice of love. He found 
         it in his interest to court, and she her pleasure
-        to be courted. On these <quote rend="quotes">coquettes
-        of the <emph>second</emph> table</quote>,—on these underplots <!-- quote source?? -->
+        to be courted. On these <soCalled rend="quotes">coquettes
+        of the <emph>second</emph> table</soCalled>,—on these underplots
         in the drama, much of the comedy and
         some of the tragedy of life depends.
         Under the unsuspected mask of stupidity
@@ -21008,8 +21008,8 @@
       <persName ref="#dr_x_0001">Dr. X―</persName>. <said>All ranks, persuasions,
       and descriptions of people, including, I
       hope, those stigmatized by the name of
-      philosophers, have joined in admiration <!-- can we find out who this bishop was -->
-      of the <ecda:anonPers a-gender="male" a-occupation="bishop" a-religion="catholic">bishop</ecda:anonPers> of <placeName>St. Pol de Leon</placeName>. The
+      philosophers, have joined in admiration
+      of the <rs type="person" ref="#jean_francois__de_la_marche_1729">bishop</rs> of <placeName>St. Pol de Leon</placeName>. The
       conduct of the real martyrs to their faith
       amongst the <rs type="properAdjective">French</rs> clergy, not even the
       most witty or brutal sceptic could ridicule.</said>
