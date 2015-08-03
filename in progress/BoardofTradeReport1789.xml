@@ -109,7 +109,7 @@
                     Consideration of all Matters relating to
                     Trade and Foreign Plantations.
                 </byline>
-                <p>Your Majesty having been pleased by your Order in Council,
+                <p><rs type="person">Your Majesty</rs> having been pleased by your Order in Council,
                     bearing date the <date when="1788-02-11">11th of February 1788</date>, to direct that this
                     Committee should forthwith take into their Consideration the present State of
                     The <rs type="properAdjective">African</rs> Trade, particularly as far as relates to the Practice and
@@ -122,7 +122,7 @@
                     repot to your Majesty in the Council the Result of their Inquiries, with such
                     Observations as they might have to offer thereupon:
                 </p>
-                <p>The Committee, in obedience to your Majesty's said Order of Reference, 
+                <p>The Committee, in obedience to your Majesty's said Order of Reference, <!-- title?? -->
                     proceeded immediately to investigate the Subject so referred, and
                     examined such Persons as either offered themselves, or such as they
                     thought proper to summon, being in the Judgment of the Committee
@@ -142,7 +142,7 @@
                 <pb/>
                 <fw type="pageNum">4</fw>
                 
-                <p>And the Committee also caused the Books of the late Board of Trade
+                <p>And the Committee also caused the Books of the late <orgName>Board of Trade</orgName>
                     to be searched for all the Information to be found therein respecting
                     this Subject. They also called for, and obtained from the Public 
                     Offices and other Sources, such Accounts as appeared to them to be
@@ -153,7 +153,7 @@
                 </p>
                 <p>And the Committee having been employed for upwards of Twelve
                     Months in collecting Information upon several Points before mentioned,
-                    and conceiving it may be your Majesty's Intention to order this Report to
+                    and conceiving it may be <rs type="person">your Majesty's</rs> Intention to order this Report to
                     be laid as soon as possible before <orgName>Parliament</orgName>, have thought it right,
                     without any further Delay, or waiting for any additional Information, to
                     direct that the Information already collected be arranged as nearly as may
@@ -281,7 +281,7 @@
                     <item><label>Sixth.</label> All the Information that has been obtained concerning the 
                         Extent of the Trade of other <rs type="properAdjective">European</rs> Nations to <placeName>Africa</placeName>, and the
                         Manner in which the same is carried on; and concerning the Treatment
-                        of Slaves in the Foreign Islands or Colonies in America and the
+                        of Slaves in the Foreign Islands or Colonies in <placeName>America</placeName> and the
                         <placeName>West Indies</placeName>; and concerning the Trade in Slaves carried on in the interior
                         Parts of that Country as connected therewith, either by <name>Europeans</name>,
                         or by the different People of <placeName>Asia</placeName> and <placeName>Africa</placeName>.
@@ -294,7 +294,7 @@
                     in which the same was given. If it should be wished to see the whole
                     Evidence exactly as it was taken before the Committee, a Copy thereof
                     <distinct rend="italic">verbatim</distinct> is ready to be produced; but the Committee think it their
-                    Duty to submit to your Majesty's Consideration, how far it may be
+                    Duty to submit to <rs type="person">your Majesty's</rs> Consideration, how far it may be
                     Proper to make publicall the Information received respecting the present
                     State of the Forts on the Coast of <placeName>Africa</placeName>; and also some Circumstances
                     respecting the Share which your Majesty's Subjects have in the Foreign
@@ -347,7 +347,7 @@
                             Female Line.
                         </p>
                         <p>As to the Religion of these Countries, great Part of the Inhabitants are <name>Mahometans</name>, but
-                            very imperfect. The Government is greatly under the Influence and Countroul of the Moorish
+                            very imperfect. The Government is greatly under the Influence and Countroul of the <rs type="properAdjective">Moorish</rs>
                             Tribes inhabiting the Desert on the North Side of the River; this Desert extends from the
                             North Side of the <placeName>River Senegal</placeName> to the Southern Declivity of <placeName>Mount Atlas</placeName>. The Extent is
                             about Ten Degrees from North to South, and the Borders of it to the <placeName>River Senegal</placeName> or
@@ -362,7 +362,7 @@
                         </head>    
                         <byline rend="place-outside"><persName>Mr.
                             Dalrymple</persName>.</byline>
-                        <p><persName>Hught Dalrymple</persName>, Esquire, served as First Lieutenant of Grenadiers in the <orgName><persName>Prince 
+                        <p><persName>Hugh Dalrymple</persName>, Esquire, served as First Lieutenant of Grenadiers in the <orgName><persName>Prince 
                             of Wales's</persName> or 75th Regiment</orgName>, at the Reduction of <placeName>Goree</placeName> in <date when="1779">1779</date>; remained on that Part of
                             the Coast from the Beginning of May to the End of September or the Beginning of October in
                             the same Year, and made frequent Excuresions to the adjacent Continent (from whence the
@@ -454,7 +454,7 @@
                             </p>
                             <p>The People in general are very indolent; the Men do nothing but smoke, shoot, and fish;
                                 the Women do all the Work in the Field, as well as of the House. Every Man is allowed
-                                to take as many Wives as he pleases, if he can satisfly the Marabou or Priest that he is
+                                to take as many Wives as he pleases, if he can satisfy the Marabou or Priest that he is
                                 able to maintain them. The Wives are in general Slaves to the Husbands, and work very
                                 hard.
                             </p>
@@ -1460,8 +1460,8 @@
                         the several Heads of Inquiry delivered to them, for the Purpose of 
                         obtaining the most complete and authentic Intelligence thereupon. And
                         the said Heads of Inquiry having been also transmitted to the Governors
-                        through the Cannel of your Majesty's Secretary of State having the
-                        Department of America and the West Indies, Answers thereto have
+                        through the Cannel of <rs type="person">your Majesty's</rs> Secretary of State having the
+                        Department of <placeName>America</placeName> and the <placeName>West Indies</placeName>, Answers thereto have
                         been received from many of the Governors, Councils, or Assemblies,
                         according to <ref type="goTo">Paper D in the Appendix</ref>.
                     </p>
@@ -1472,7 +1472,7 @@
                                 Islands of the <placeName>West Indies</placeName>?
                             </p>
                             <p>What is the Protection granted to slaves by Law in each of the <rs type="properAdjective">British</rs> Islands?</p>
-                            <p>Vide Abstract of the Laws of <placeName>Jamaica</placeName>, Appendix to this Head.</p>
+                            <p>Vide Abstract of the Laws of <placeName>Jamaica</placeName>, Appendix to this Head.</p> <!-- is this another ref type="goTo" ?? -->
                          </div>
                          <div type="subsection">
                             <head>A. Nº 1 and 2.</head>
@@ -1507,7 +1507,7 @@
                                </p>
                             <p rend="italic">On whom does the Loss fall in consequence of a Negro being transported?</p>
                             <p rend="italic">When they are transported in consequence of a Judicial Sentence, the Master receives a Sum not 
-                                exceeding 40 l. Currency, which Sum is levied upon the Parish out of a Fund raised by the Parishioners
+                                exceeding <measure>40 l. Currency</measure>, which Sum is levied upon the Parish out of a Fund raised by the Parishioners
                                 for that Purpose, pursuant to the Law passed in <date when="1781">1781</date>, above referred to.
                             </p>
                             <p>For mere Misbehaviour in Duty to their Masters, they are subject to their Masters Discretion,
@@ -1531,12 +1531,12 @@
                             <p>For the Second Offence, shall suffer Death.—Conviction not to extend to corrupting Blood,
                                 or Forfeiture of Lands, Tenements, &amp;c.
                             </p>
-                            <p>To be tried by the Supreme Court or Court of Assize at the General Gaol Delivery.</p>
+                            <p>To be tried by the <orgName>Supreme Court</orgName> or <orgName>Court of Assize</orgName> at the General Gaol Delivery.</p>
                             <p><quote rend="quotes">We understand from recent Advice, that on the <date when="--11-29">29th of November last</date>, the <orgName>House of
                                 Assembly</orgName> were then assiduously employed in framing a <title>Consolidated Code Noir, or Slave Bill</title>,
                                 which was meant to change in many respects the former System of Regulations. A council of
                                 Protection is established in each Parish, and a Variety of humane Provisions introduced for 
-                                rendering their Condition as easy and happy as possible.—It is made Felony withot Benefit
+                                rendering their Condition as easy and happy as possible.—It is made Felony without Benefit
                                 of Clergy in the First Instance, to murder a Slave, and this Amendment of the old Law passed
                                 the House without a single dissenting Voice.</quote>
                             </p>
@@ -1547,7 +1547,7 @@
                                 and make due Inquiry.
                             </p>
                             <p>Vide Appendix, Col. 3. Coroners</p>
-                            <note anchored="false"><label>N. B.</label>Since the Answer to this Question was drawn up, we understand that a Gentleman
+                            <note anchored="false"><label>N. B.</label>Since the Answer to this Question was drawn up, we understand that <ecda:anonPers a-gender="male" a-occupation="gentleman">a Gentleman</ecda:anonPers>
                                 from <placeName>Jamaica</placeName> is arrived in Town who is ready to give Evidence, that the Law therein
                                 referred to, as having been proposed to the <orgName>House of Assembly</orgName> in <date when="1787-11">November 1787</date>, has
                                 been passed, and is now in full Force <seg xml:id="a01ish" corresp="#n01ish">(a)</seg>.
@@ -1591,11 +1591,11 @@
                                 for the most part found equal to support and sustain the Slaves to whom they are respecively
                                 allotted; and, excepting the Time of Crop, they are allowed, in general, One Day in every
                                 Fortnight (independent of Sundays) for the Purpose of cultivating them. In addition to this,
-                                they are, in general, served weekly, or once a Fortnight, with Herrings, or other Salt Fish,
+                                they are, in general, served weekly, or once a Fortnight, with <ecda:food>Herrings</ecda:food>, or other Salt Fish,
                                 after the Rate of a Herring or other such Fish per Day: They are also allowed Slat as they
                                 have occasion to ask for it. Where Lands cannot be allowed them, or where they are inadequate, 
                                 or when they seasones happen to fail, the Master furnishes his Slaves, in general, with
-                                Corn, at the Rate of about Six Quarts per Week, or an adequate Supply in Flour, besides
+                                <ecda:food>Corn</ecda:food>, at the Rate of about Six Quarts per Week, or an adequate Supply in <ecda:food>Flour</ecda:food>, besides
                                 the said usual Supply of Salt Herrings, or other salted Fish: Domestics and Tradesmen, who
                                 are employed in and about the Towns, or have no Connexion with Plantations, are in general,
                                 if not universally, at Board-wages. The late <title>Consolidated Slave Act</title> furnishes also an 
@@ -1608,7 +1608,7 @@
                                 State the Law and the Practice.
                             </p>
                             <p>Vide Appendix to this Head. Act 38. 1696. Sec. 3, 4, 5.</p>
-                            <p>The general Clothing in Jamaica is what is called Osnamurgh Linen. On every well-
+                            <p>The general Clothing in <placeName>Jamaica</placeName> is what is called Osnaburgh Linen. On every well-
                                 regulated Estate, the annual Allowance is from Ten to Twenty Yards to every Man; from
                                 Seven to fifteen Yards to every Woman; and in proportion to the younger People. To
                                 every Negro, a Worsted Cap, Bonnet, or Hat, besides a Woollen Jacket, or Welch Blanket,
@@ -1617,14 +1617,14 @@
                                 principal Negroes, such as Boilers, Drivers, Waggoners, and Tradesmen; and several of our
                                 Planters furnish Handkerchiefs, Knives, Scissars, Thread, Needles, and short Tobacco Pipes.
                                 The Jamaica Law enjoins sufficient Clothing to be given, and inflicts a Penalty on such
-                                Owners as disobey that Injunction. In general, the Negroes in Jamaica are well clothed; and
+                                Owners as disobey that Injunction. In general, the Negroes in <placeName>Jamaica</placeName> are well clothed; and
                                 there are very few Sugar Estates where the Negroes do not, from their own private Earnings,
                                 provide themselves with extra Clothes for Sundays and Holidays.
                             </p>
-                            <p>The Negro Slaves on the Plantations in Jamaica, in general (except the calamitous Years),
+                            <p>The Negro Slaves on the Plantations in <placeName>Jamaica</placeName>, in general (except the calamitous Years),
                                 raise more Provisions than they can consume. They carry the Overplus to Market,
-                                and commonly lay out the Money they receive for it in Fineries, or in Salt Beef, Pork or
-                                Fish, and sometimes in Spiritous Liquors. Before a Planter makes a Purchase of imported
+                                and commonly lay out the Money they receive for it in Fineries, or in <ecda:commodity>Salt Beef</ecda:commodity>, <ecda:commodity>Pork</ecda:commodity> or
+                                <ecda:commodity>Fish</ecda:commodity>, and sometimes in <ecda:commodity>Spiritous Liquors</ecda:commodity>. Before a Planter makes a Purchase of imported
                                 
                                 <pb/>
                                 
@@ -1680,7 +1680,7 @@
                             <p>Are many Negroes usually let out to hire, in what Numbers and on what Conditions?</p>
                             <p>Till within these Twelve or Fourteen Years, a few Negroes in <placeName>Jamaica</placeName> were let out to hire,
                                 except Domestics and Tradesmen.—But in consequence of some Discouragements which the 
-                                Article Coffee met with, most of the Coffee Planters began to let out their working Negroes
+                                Article <ecda:commodity>Coffee</ecda:commodity> met with, most of the Coffee Planters began to let out their working Negroes
                                 upon Job Work, on the Sugar Estates.
                             </p>
                             <p>This Business has ever since been followed pretty extensively in <placeName>Jamaica</placeName>, both by the inferior
@@ -1698,7 +1698,7 @@
                             <p>Other Operations have their respective usual Prices, as planting Guinea Grass, 5 l. per Acre,
                                 Currency, &amp;c.
                             </p>
-                            <p>We do not know that it is usual in Jamaica, with any Planters in tolerable Circumstances, to
+                            <p>We do not know that it is usual in <placeName>Jamaica</placeName>, with any Planters in tolerable Circumstances, to
                                 hire Negroes for any other Operation in the annual Cane Culture and Manufacture, except 
                                 holeing and planting, and sometimes taking off the Crop.
                             </p>
@@ -1747,9 +1747,9 @@
                                 certanly best qualified to give a satisfactory Answer to this Inquiry; it may however be
                                 affirmed, upon the Credit of experience Platers and others, who have resided there for
                                 many Years, that the Negroe Slaves are subject to some Diseases, from which the White
-                                Inhabitants are in general exempt; the Seeds of such Diseases are brought with them from Africa,
+                                Inhabitants are in general exempt; the Seeds of such Diseases are brought with them from <placeName>Africa</placeName>,
                                 and entailed on their Posterity, viz.
-                                <list>
+                                <list ana="#disease">
                                     <item>The Coco-bays,</item>
                                     <item>The Leprosy of the <name>Greeks</name>,</item>
                                     <item>The Leprosy of the <name>Arabians</name>,</item>
@@ -1777,18 +1777,18 @@
                                 Pox and epidemic Dysentery. From the former, scarcely any who are seized with it in the
                                 natural Way, escape with Life; the latter Distemper commonly happens during a long
                                 Drought, when their usual Stock of vegetable Provisions failing, or the Plantain Trees
-                                destroyed, they feed on unaccustomed Substances, such as Flour (half dressed) and Rice, and
-                                after Droughts (heavy Rains succeeding) crude Fruits and Roots, and parched Corn
+                                destroyed, they feed on unaccustomed Substances, such as <ecda:food>Flour</ecda:food> (half dressed) and <ecda:food>Rice</ecda:food>, and
+                                after Droughts (heavy Rains succeeding) crude Fruits and Roots, and parched <ecda:food>Corn</ecda:food>
                             </p>
                             
                             <pb/>
                             
-                            <p>Other Causes ther may be of this and other Maladies, which the Practitioners are best
+                            <p><milestone unit="absent" ana="#medical #disease" spanTo="#anaEnd01"/>Other Causes ther may be of this and other Maladies, which the Practitioners are best
                                 acquainted with.
                             </p>
                             <p ana="#obeah">We may add the Effects of Witchcraft or <distinct type="religious" rend="italic">Obeah</distinct>, which, whether they arise from a 
                                 distempered Imagination and Credulity, or from Poison secretly administered, are very fatal to
-                                many of the Slaves. The Legislature of Jamaica, in order to check, as much as it lies
+                                many of the Slaves. The Legislature of <placeName>Jamaica</placeName>, in order to check, as much as it lies
                                 in its Power, this destructive Practice, inflict Death upon Conviction of <name rend="italic">Obeah-men</name> or
                                 pretended Wizards.
                             </p>
@@ -1804,7 +1804,7 @@
                                 of the Slaves; but we cannot admit the same Disparity between the Two Classes of Children, 
                                 as is found to exist in Great Britain and other Northern Nations, between the Offspring of
                                 the labouring Poor, and the Children of Parents in more opulent Circumstances, because the
-                                Preservation of the nfant Brood in Jamaica is so very important an Object with the Planters
+                                Preservation of the nfant Brood in <placeName>Jamaica</placeName> is so very important an Object with the Planters
                                 in general of that Island, that no Care, Attention, and Endeavours, are wanting for that
                                 Purpose.
                             </p>
@@ -1812,7 +1812,7 @@
                                 Yaws, Bone-Ach, Tetanus or Locked Jaw, Elephantisis, and Coco-Bea, or Arabian
                                 Leprosy; thye are also subject to inveterate ulcers, with which, as well as the Tetanus, the
                                 Whites are rarely afflicted; for the Causes of this, the Committee refer to the Examinations of
-                                the several medical Persons, before a Committee of the House of Assembly, given in a Report
+                                the several medical Persons, before a Committee of the <orgName>House of Assembly</orgName>, given in a Report
                                 transmitted to the Secretary of State.
                             </p>
                         </div>
@@ -1823,23 +1823,23 @@
                                 obliged, in such Cases, to maintain them?
                             </p>
                             <p>On every Estate is an Hospital (commonly called there a Hot-house) where the sick Negroes
-                                are attended by a Doctor. In Jamaica, the Doctor's pay is 5 s. per Head per Annum,
+                                are attended by a Doctor. In <placeName>Jamaica</placeName>, the Doctor's pay is 5 s. per Head per Annum,
                                 which includes the Charge of Medicine and Attendance, for every Negro belonging to the
                                 Estate; he is paid <emph>extra</emph> for chirugical Operations, such as Fractures, Inoculation, and
-                                Drugs and Medicines from Great Britain. Disabled and superannuated Slaves, in that Island,
+                                Drugs and Medicines from <placeName>Great Britain</placeName>. Disabled and superannuated Slaves, in that Island,
                                 are cloathed subsisted, and in every respect treated with the same Care as other Slaves;
                                 such is the Practice.
                             </p>
-                            <p>The Laws are silent upon this Subject. As to the Old and Disabled, the Jamaica Laws
+                            <p>The Laws are silent upon this Subject. As to the Old and Disabled, the <placeName type="properAdjective">Jamaica</placeName> Laws
                                 have no special Direction, but only enact, that every Person manumitting a Slave, shall give
-                                Security for paying such a freed Slave an Annuity of 5 l. for Life. Act passed in 1774. But
+                                Security for paying such a freed Slave an Annuity of 5 l. for Life. Act passed in <date when="1774">1774</date>. But
                                 Quere if the Allowance be not, by <emph>subsequent Act</emph>, raised to 10 l. per Annum.
                             </p>
                             <p>An Hospital is provided for the Sick, and a Doctor is appointed to attend it; which he does
                                 Two or Three Times a Week as of course, and oftner if Necessity requires. The Hospital is
-                                properly provided with Medicines, Wine, Sago, &amp;c. When the Negroes become old or disabled,
+                                properly provided with <ecda:commodity>Medicines</ecda:commodity>, <ecda:commodity>Wine</ecda:commodity>, <ecda:commodity>Sago</ecda:commodity>, &amp;c. When the Negroes become old or disabled,
                                 their masters are obliged by Law to maintain them. For the Particulars in this Respect,
-                                the Committee refer to the Consolidated Slave Act.
+                                the Committee refer to the <title>Consolidated Slave Act</title>.<milestone unit="absent" xml:id="anaEnd01"/>
                             </p>
                         </div>
                         <div type="subsection">
@@ -1855,7 +1855,7 @@
                                 Native Slaves, if industrious and sober, in general attain to the more common Periods of human
                                 Life: The Women in general outlive the Men. As great Part of the Sugar Estates are
                                 Lowlands, the Whites as well as the Blacks are subject to the same Inconveniencies in point of
-                                Health, if they live at their Works. There is no Doubth but the Negroes in Jamaica, whether
+                                Health, if they live at their Works. There is no Doubt but the Negroes in <placeName>Jamaica</placeName>, whether
                                 
                                 <pb/>
                                 
@@ -1892,7 +1892,7 @@
                                 House, to be served with Messes of Broth provided for them; and many are brought up in
                                 Families, during Infancy, in the same Manner as White Children.
                             </p>
-                            <p>They do not marry, they cohabit by mutual Cosent; they separate occasionally without mch
+                            <p>They do not marry, they cohabit by mutual Cosent; they separate occasionally without much
                                 Ceremony, but they much more frequently live and grow old together; when their Children
                                 and Relations, through a strong Family Attachment that generally prevails amongst them, furnish
                                 them with their Care and Assistance, in addition to that of their Masters.
@@ -1902,22 +1902,22 @@
                             <p>Can any Causes be assigned which impede the natural Increase of Negro Slaves?</p>
                             <p>The great Impediments to natural increase in Jamaica, are―</p>
                             <list>
-                                <item><label>1st.</label> That universal Malady of Infants, the Tetanus (or Jaw-falling), which, on many Estates,
+                                <item ana="#medical #disease"><label>1st.</label> That universal Malady of Infants, the Tetanus (or Jaw-falling), which, on many Estates,
                                     destroys One Third or upwards of all that are born; and for which, notwithstanding
                                     every possible Care and Attention, no effectual Preventative is yet discovered. This Disease
                                     predominates in some Districts more than others.
                                 </item>
-                                <item><label>2d.</label> The Yaws.</item>
-                                <item><label>3d.</label> The Veneral Disease, with which great Numbers are infected.</item>
-                                <item><label>4th.</label> Menstrual Obstructions.</item>
-                                <item><label>5th.</label> Promiscuous Venery.</item>
-                                <item><label>6th.</label> Bad and incurable Venereal Ulcers.</item>
-                                <item><label>7th.</label> The Guinea Worm.</item>
+                                <item ana="#medical #disease"><label>2d.</label> The Yaws.</item>
+                                <item ana="#medical #disease"><label>3d.</label> The Veneral Disease, with which great Numbers are infected.</item>
+                                <item ana="#medical"><label>4th.</label> Menstrual Obstructions.</item>
+                                <item ana="#medical"><label>5th.</label> Promiscuous Venery.</item>
+                                <item ana="#medical"><label>6th.</label> Bad and incurable Venereal Ulcers.</item>
+                                <item ana="#medical"><label>7th.</label> The Guinea Worm.</item>
                                 <item><label>8th.</label> A Disproportion of Women to Men; the latter constituting, in general, Two Thirds
                                     of the Importations.
                                 </item>
                             </list>
-                            <p>There may be other Diseases, for which it is recommended to consult the experienced West
+                            <p ana="#disease">There may be other Diseases, for which it is recommended to consult the experienced West
                                 India Practitioners: Hooping Cough, Small Pox, Measles, Dropsy, Worms, Dysentery, and
                                 Dirt Eating; Infants are equally subject, as grown Negroes, to the Disorder last mentioned.
                             </p>
@@ -1929,9 +1929,9 @@
                         <div type="subsection">
                             <head>A. Nº 16.</head>
                             <p>Are many Children born of Negro Slaves, and in what Proportion are they reared?</p>
-                            <p>There are many Children of Negroe Slaves born in Jamaica; we cannot say positively in what
+                            <p>There are many Children of Negroe Slaves born in <placeName>Jamaica</placeName>; we cannot say positively in what
                                 Proportion they are reared: But if they could get over the locked Jaw, Small Pox, Measles,
-                                Yaws, and Worm Diseases, a greater Proportion of Negroe Children would be reared in Jamaica
+                                Yaws, and Worm Diseases, a greater Proportion of Negroe Children would be reared in <placeName>Jamaica</placeName>
                                 than is usual.
                             </p>
                             <p>Births are not so frequent amongst Negro Slaves in thsi Island, as amongst the Peasantry in
@@ -1956,33 +1956,33 @@
                         <div type="subsection">
                             <head>A. Nº 18.</head>
                             <p>Are Negro Slaves or their Children in general baptised?</p>
-                            <p>The Law of Jamaica is—<quote rend="quotes">That all Masters or Mistresses, or, in their Absence, Overseers,
+                            <p>The Law of <placeName>Jamaica</placeName> is—<quote rend="quotes">That all Masters or Mistresses, or, in their Absence, Overseers,
                                 shall, as much as in them lies, endeavour the Instruction of their Slaves in the Principles of
-                                the Christian Relition, to facilitate their Conversion, and shall do their utmost to fit them for
+                                the <rs type="properAdjective">Christian</rs> Relition, to facilitate their Conversion, and shall do their utmost to fit them for
                                 Baptism; and, as soon as conveniently they can, shall cause to be baptized all such as they can
-                                make sensible of a Deity, and the Christian Faith.</quote>
+                                make sensible of a Deity, and the <rs type="properAdjective">Christian</rs> Faith.</quote>
                             </p>
                             <p>Baptism is never refused to any Negro desirous of it; but we cannot say it is universally 
-                                attended to in Jamaica; though we have Twenty Ministers of the Established Church, and the
+                                attended to in <placeName>Jamaica</placeName>; though we have Twenty Ministers of the Established Church, and the
                                 Clergy of the Island have been for many Years, so far as relates to spiritual Discipline, 
-                                included within the Diocese of London.
+                                included within the <orgName>Diocese of <placeName>London</placeName></orgName>.
                             </p>
                             <p>No—very rarely.</p>
                         </div>
                         <div type="subsection">
                             <head>A. Nº 19.</head>
                             <p>What Religious Institutions are there for the Benefit of Negro Slaves, in each <supplied>of the</supplied> Islands
-                                in the West Indies?
+                                in the <placeName>West Indies</placeName>?
                             </p>
-                            <p>We know of none such in Jamaica.</p>
-                            <p rend="italic">Is the Island of Jamaica divided into Parishes?</p>
+                            <p>We know of none such in <placeName>Jamaica</placeName>.</p>
+                            <p rend="italic">Is the Island of <placeName>Jamaica</placeName> divided into Parishes?</p>
                             <p rend="italic">Yes.</p>
                             <p rend="italic">Is there a Church and a Minister assigned for each Parish?</p>
-                            <p rend="italic">There is not a Church belongin to every Parish; but in some there is a Chapel as well as a
+                            <p rend="italic">There is not a Church belonging to every Parish; but in some there is a Chapel as well as a
                                 Church. There is a Clergyman to every Parish; their respective Stipends will be found in the Law
-                                passed in Jamaica in 1745.
+                                passed in <placeName>Jamaica</placeName> in <date when="1745">1745</date>.
                             </p>
-                            <p rend="italic">Are these Chruches sufficient to contain the Inhabitants of each Parish, including the Negroes?</p>
+                            <p rend="italic">Are these Chuches sufficient to contain the Inhabitants of each Parish, including the Negroes?</p>
                             <p rend="italic">In general they are not sufficient to contain the twentieth Part.</p>
                             <p rend="italic">Are the Parishes of that Extent, that One Minister in each Parish is sufficient for the Discharge of
                                 his ministerial Duty;
@@ -2002,18 +2002,18 @@
                             <p rend="italic">Yes—the Distance of the Church from the Place of their Residence and the Heat of the Sun in that
                                 Climate.
                             </p>
-                            <p rend="italic">What is the Religion of those Negroes who are not Christians? Are they pagans, or 
-                                Mahometans?
+                            <p rend="italic">What is the Religion of those Negroes who are not <name>Christians</name>? Are they pagans, or 
+                                <name>Mahometans</name>?
                             </p>
-                            <p rend="italic">They are either Pagans or Mahometans, but principally Pagans. The Mahometans are those that
-                                come from the Mandingo Country chiefly.
+                            <p rend="italic">They are either <name>Pagans</name> or <name>Mahometans</name>, but principally <name>Pagans</name>. The <name>Mahometans</name> are those that
+                                come from the <placeName>Mandingo Country</placeName> chiefly.
                             </p>
-                            <p>Are there any Roman Catholics among the Negroes?</p>
+                            <p>Are there any <placeName>Roman Catholics</placeName> among the Negroes?</p>
                             <p>There are some who were brought from Guadaloupe in the War before the last, and some Runaways
-                                from the neighbouring Spanish and French Islands.
+                                from the neighbouring <rs type="properAdjective">Spanish</rs> and <rs type="properAdjective">French</rs> Islands.
                             </p>
-                            <p>None in particular. The Consolidated Slave Law directs, that Endeavours shall be used to
-                                instruct the Slaves in the Knowledge of Christianity.
+                            <p>None in particular. The <title>Consolidated Slave Law</title> directs, that Endeavours shall be used to
+                                instruct the Slaves in the Knowledge of <name>Christianity</name>.
                             </p>
                         </div>
                         <div type="subsection">
@@ -2022,11 +2022,11 @@
                                 has been their Success? If unsuccessful, to what Causes is it to be attributed?
                             </p>
                             <p>We believe that there have been none, under that Description, sent to Jamaica, of the
-                                Established Curch; but some Missionaries of the Moravian Sect have attempted the
-                                religious instruction of Negroes, but we knownot with what Success.
+                                Established Curch; but some Missionaries of the <rs type="properAdjective">Moravian</rs> Sect have attempted the
+                                religious instruction of Negroes, but we know not with what Success.
                             </p>
-                            <p>No Missionaries have been sent hither from England for the Instruction of Slaves, except
-                                a few Moravians; but it has not appeared that they have been of much, if any Use.
+                            <p>No Missionaries have been sent hither from <placeName>England</placeName> for the Instruction of Slaves, except
+                                a few <name>Moravians</name>; but it has not appeared that they have been of much, if any Use.
                             </p>
                         </div>
                         <div type="subsection">
@@ -2038,60 +2038,60 @@
                             <p>We know not.</p>
                             <p>This Head can no otherwise be answered than as above.</p>
                         </div>
-                        <div type="subsection">
+                        <div type="subsection" ana="#obeah">
                             <head>A. Nº 22, 23, 24, 25, 26.</head>
-                            <p>Whether Negores called Obeah-Men, or under any other Denomination, practising Witchcraft,
-                                exist in the Island of Jamaica?
+                            <p>Whether Negores called <name>Obeah-Men</name>, or under any other Denomination, practising Witchcraft,
+                                exist in the Island of <placeName>Jamaica</placeName>?
                             </p>
-                            <p>By what Arts or by what Means, do these Obeah-Men cause the Deathsm or otherwise injure,
+                            <p>By what Arts or by what Means, do these <name>Obeah-Men</name> cause the Deaths or otherwise injure,
                                 those who are supposed to be the influenced thereby; and what are the Symptoms and Effects
                                 that have been observed to be produced in People who are supposed to be under the 
                                 Influence of their Practices.
                             </p>
                             <p>Are the Instances of Death or Diseases produced by these Arts or Means frequent?</p>
-                            <p>Are these Arts or Means brought by the Obeah-Men from Africa, or are they Infentions
+                            <p>Are these Arts or Means brought by the <name>Obeah-Men</name> from <placeName>Africa</placeName>, or are they Infentions
                                 which have been originated on the Island?
                             </p>
-                            <p>Whether any or what Laws exist in the Island of Jamaica for their Punishment, and
+                            <p>Whether any or what Laws exist in the Island of <placeName>Jamaica</placeName> for their Punishment, and
                                 what evidence is generally Required for their Conviction?
                             </p>
                             <p>The term <distinct rend="italic">Obeah</distinct>, <distinct rend="italic">Obiah</distinct>, or <distinct rend="italic">Obia</distinct> (for it is variously written), we conceive to be the
                                 Adjective, and <distinct rend="italic">Obe</distinct> or <distinct rend="italic">Obi</distinct> the Noun Substantive; and that by the Words <rs type="properAdjective" rend="italic">Obia</rs> Men or
                                 Women, are meant those who practise <distinct rend="italic">Obi</distinct>. The Origin ofthe Term we should consider
                                 as of no Importance in our Answer to the Questions proposed, if, in search of it, we were
-                                not led to Disquisitions that are highly gratifying to Curiosity. From the learned Mr.
-                                Bryant's <seg xml:id="a02ish" corresp="#n02ish">(a)</seg>  Commentary upon the Word <distinct rend="italic" type="mentioned">Oph</distinct>, we obtain a very probable Etymology of
-                                the Term—<quote rend="quotes">A Serpetn, in the Egyptian Language, was called <distinct rend="italic">Ob</distinct> or <distinct rend="italic">Aub</distinct>.</quote>—<quote><distinct rend="italic">Obion</distinct>
-                                is still the Egyptian Name for a Serpent</quote>—<quote rend="italic">Moses, in the Name of God, forbids the
+                                not led to Disquisitions that are highly gratifying to Curiosity. From the learned <persName>Mr.
+                                Bryant's</persName> <seg xml:id="a02ish" corresp="#n02ish">(a)</seg>  Commentary upon the Word <distinct rend="italic" type="mentioned">Oph</distinct>, we obtain a very probable Etymology of
+                                the Term—<quote rend="quotes">A Serpent, in the <rs type="properAdjective">Egyptian</rs> Language, was called <distinct rend="italic">Ob</distinct> or <distinct rend="italic">Aub</distinct>.</quote>—<quote><distinct rend="italic">Obion</distinct>
+                                is still the <rs type="properAdjective">Egyptian</rs> Name for a Serpent</quote>—<quote rend="italic">Moses, in the Name of God, forbids the
                                 
                                 <pb/>
                                 
-                                Israelites ever to enquire of the Dæmon <distinct>Ob</distinct>, which is translated in our Bible, Charmer or
-                                Wizard, Divinator aut Sortilegus</quote>—<quote rend="quotes">The Woman at Endor is called <distinct rend="italic">Oub</distinct> or <distinct rend="italic">Ob</distinct>,
-                                translated Pythonissa, and <distinct rend="italic">Oubaios</distinct></quote> (he cites from <persName rend="italic">Hours Apollo</persName>) <quote rend="quotes">was the Name of the
-                                Basilisk or Royal Serpent, Emblem of the Sun, and an ancient oracular Diety of Africa.</quote>
+                                <name>Israelites</name> ever to enquire of the Dæmon <distinct>Ob</distinct>, which is translated in our Bible, Charmer or
+                                Wizard, Divinator aut Sortilegus</quote>—<quote rend="quotes">The <ecda:anonPers a-gender="female">Woman at Endor</ecda:anonPers> is called <distinct rend="italic">Oub</distinct> or <distinct rend="italic">Ob</distinct>,
+                                translated Pythonissa, and <distinct rend="italic">Oubaios</distinct></quote> (he cites from <persName rend="italic">Horus Apollo</persName>) <quote rend="quotes">was the Name of the
+                                Basilisk or Royal Serpent, Emblem of the Sun, and an ancient oracular Diety of <placeName>Africa</placeName>.</quote>
                                 This Derivation, which applies to one particular Sect, the Remnant probably of a very
-                                celebrated religious Order in remote Ages, is now become in Jamaica the general Term to
-                                denote those Africans who in that Island practise Witchcraft and Sorcery, comprehending also
-                                the Class of what are called Myal-Men, or those who by means of a narcotic Potion, made
-                                with the Juice of an Erb (said to be the branched <distinct rend="italic">Calalue</distinct> or Species of <distinct rend="italic">Solanum</distinct>) which
+                                celebrated religious Order in remote Ages, is now become in <placeName>Jamaica</placeName> the general Term to
+                                denote those <name>Africans</name> who in that Island practise Witchcraft and Sorcery, comprehending also
+                                the Class of what are called <name>Myal-Men, or those who by means of a narcotic Potion, made
+                                with the Juice of an Erb (said to be </name>the branched <distinct rend="italic">Calalue</distinct> or Species of <distinct rend="italic">Solanum</distinct>) which
                                 occasions a Trance of profound Sleep of a certain Duration, endeavour to convince the
                                 deluded Spectators of their Power to reanimate dead Bodies.
                             </p>
                             <p>As far as we are able to decide from our own Experience and Information when we lived
                                 in the Island, and from the concurrent Testimony of all the Negroes we have ever conversed
-                                with on the Subject, the Professors of of <distinct rend="italic">Obi</distinct> are, and always were, Natives of Africa,
-                                and none other, and they have brought the Science with them from thence to Jamaica,
+                                with on the Subject, the Professors of of <distinct rend="italic">Obi</distinct> are, and always were, Natives of <placeName>Africa</placeName>,
+                                and none other, and they have brought the Science with them from thence to <placeName>Jamaica</placeName>,
                                 where it is so universally practiced, tha we believe there are few of the larger Estates possessing
                                 those who usually attract the greatest Devotion and Confidence, those whose hoary Heads,
                                 and a somewhat peculiarly harsh and diaboloic in their Aspect, together with some Skill in
                                 Plants of the medicinal and poisonous Species, have qualified them for successful imposition
-                                upon the weak and credulous. The Noegroes in general, whether Africans or Creoles, revere,
+                                upon the weak and credulous. The Negroes in general, whether <placeName>Africans</placeName> or <placeName>Creoles</placeName>, revere,
                                 consult, and abhor them; to these Oracles they resort, and with the most implicit Faith, upon
                                 all occasions, whether for the Cure of Disorders, and the obtaining Revenge for the Injuries or
                                 Insults, the Conciliating of Favour, the Discovery and Punishment of the Thief or the
                                 Adulterer, and the Prediction of future Events. The Trade with these Wretches carry on
-                                at different Prices. A Veil of Myster is studiously thrown over their Incantations, to
+                                at different Prices. A Veil of Mystery is studiously thrown over their Incantations, to
                                 which the Midnight Hours are allotted, and every Precuation is taken to conceal them from
                                 the Knowledge and Discovery of the White People. The deluded Negroes, who thoroughly
                                 believe in their supernatural Power, become the willing Accomplices in this Concealment,
@@ -2131,7 +2131,7 @@
                             <p>Considering the Multitude of Occasions which may provoke the Negroes to exercise the
                                 Power of <name rend="italic">Obi</name> against each other, and the astonishing Influence of this Superstition upon their
                                 Minds, we cannot but attribute a very considerable Portion of the annual Mortality among
-                                the Negroes of Jamaica to this fascinating Mischief.
+                                the Negroes of <placeName>Jamaica</placeName> to this fascinating Mischief.
                             </p>
                             
                             <pb/>
@@ -2143,13 +2143,13 @@
                             <p>With a view to illustrate the Description we have given of this Practice and its common
                                 Effects, we have subjoined a few Examples out of the very great Number which have occurred
                                 in Jamaica; not that they are peculiar to that Island only, for we believe similar Examples
-                                may be found in other West India Colonies. <persName rend="italic">Pere Labat</persName>, in his History of Martinico, has
+                                may be found in other West India Colonies. <persName rend="italic">Pere Labat</persName>, in his <title>History of <placeName>Martinico</placeName></title>, has
                                 mentioned some which are very remakrable <seg xml:id="a04ish" corresp="#n04ish">(b)</seg>.
                             </p>
-                            <p>It may seem extraordinary, that a Practice alleged to be so freqent in Jamaica should not
+                            <p>It may seem extraordinary, that a Practice alleged to be so freqent in <placeName>Jamaica</placeName> should not
                                 have received an early Check from the Legislature. The Truth is, that the Skill of some
                                 Negroes in the Art of Poisoning has been noticed ever since the Colonists became much
-                                acquainted with them. Sloane and Barham, who practised Physic in Jamaica in thelast Century, 
+                                acquainted with them. <persName>Sloane</persName> and <persName>Barham</persName>, who practised Physic in <placeName>Jamaica</placeName> in the last Century, 
                                 have mentioned particular instances of it. The secret and insidious Manner in which
                                 this Crime is generally perpetuated, makes the legal Proof of it extremely difficult. Suspicions
                                 therefore have been frequent, but Detections rare: These Murderers have <emph>sometimes</emph>
@@ -2159,9 +2159,9 @@
                                 Disposition from plundering Huts, Hog-styes, or Provision Grounds, these were laughted at by
                                 the White Inhabitants as harmless Stratagems, contrived by the more sagacious for deterring
                                 the more simple and superstitious Blacks, and serving for much the same Purpose as the
-                                Scarecrows, which are in general used among our English Farmers and Gardeners. Bt in the
+                                Scarecrows, which are in general used among our <rs type="properAdjective">English</rs> Farmers and Gardeners. But in the
                                 Year 1760, when a very formidible Insurrection of the Cormantin or Gold Coast Negroes
-                                broke out in the Parish of St. Mary, and spread through almost every other District of the 
+                                broke out in the <placeName>Parish of St. Mary</placeName>, and spread through almost every other District of the 
                                 Parish, who had administered the Fetish or solemn Oath to the Conspirators, and furnished 
                                 them with a magical Preparation which was to render them invulnerable, was fortunately 
                                 apprehended, convicted, and hung up with all his Feathers and Trumperies about him and
@@ -2170,16 +2170,16 @@
                                 this Law, the strict Investigation which ever since been made after the Professors of <name rend="italic">Obi</name>,
                                 nor the many Examples of those who from Time to Time have been hanged or transported,
                                 like others in the World, has flourished under Persecution; or that fresh Supplies are annually
-                                introduced from the African Seminaries.
+                                introduced from the <rs type="properAdjective">African</rs> Seminaries.
                             </p>
                             <div> <!-- label "A" is placed here --> <!-- this whole section is a little bonkers -->
                                 <head>The Paper referred to in the preceding Account.</head>
-                                <p>We have the following Narratives from a Planter in Jamaica, a Gentleman of the strictest
-                                    Veracity, who is now in London, and ready to attest the truth of them.
+                                <p>We have the following Narratives from a Planter in <placeName>Jamaica</placeName>, <ecda:anonPers a-occupation="gentleman" a-gender="male">a Gentleman of the strictest
+                                    Veracity</ecda:anonPers>, who is now in London, and ready to attest the truth of them.
                                 </p>
                                 <div>
                                     <label>A.</label>
-                                    <p>Upon returning to Jamaica in the Year 1775, he found a great many of his Negroes had died
+                                    <p>Upon returning to <placeName>Jamaica</placeName> in the Year <date when="1775">1775</date>, he found a great many of his Negroes had died
                                         during his Absence; and that of such as remained alive, at least One-half were debilitated,
                                         bloated, and in a very deplorable Condition. The Mortality continued after his Arrival, and
                                         Two or Three were frequently buried in One Day; others were taken ill, and began to decline
@@ -2191,12 +2191,12 @@
                                         as it was known to have been very common in that Part of the Island, and particularly among the
                                         Negroes of the <placeName rend="italic">Pawpaw</placeName> of <placeName rend="italic">Popo</placeName> Country. Still he was unable to verify his Suspicions, because
                                         the Patients constantly denied their having any Thing to do with Persons of that Order, or
-                                        any Knowledge of them. At length a Negress, who had been ill for some Time, came one
+                                        any Knowledge of them. At length <ecda:anonPers a-gender="female" a-arc="negress" a-status="enslaved">a Negress</ecda:anonPers>, who had been ill for some Time, came one
                                         Day and informed him, that feeling it was impossible for her to live much longer, she thought
-                                        herself bound in Duty, before she died, to impart a very great Secret, and acquant him
+                                        herself bound in Duty, before she died, to impart a very great Secret, and acquaint him
                                         with the true Cause of her Disorder, in hopes that the Disclosure might prove the Means
                                         of stopping that Mischief which had already swept away a Number of her Fellow-slaves.
-                                        She proceeded to say, that her Step-mother (a Woman of the <placeName rend="italic">Popo <hi rend="upright">Country</hi></placeName>, above Eighty
+                                        She proceeded to say, that <ecda:anonPers a-status="enslaved" a-gender="female" a-religion="obi">her Step-mother</ecda:anonPers> (a Woman of the <placeName rend="italic">Popo <hi rend="upright">Country</hi></placeName>, above Eighty
                                         Years old, but still hale and active) had put <distinct rend="italic"><name>Obi</name> upon her</distinct>, as she had also done upon those
                                         who had lately died; and that the old Woman had practised <name rend="italic">Obi</name> for as many Years past
                                         as she could remember.
@@ -2206,7 +2206,7 @@
                                         
                                     <p>The other Negroes of the Plantation no sooner heard of this Impeachment, than they ran
                                         in a Body to their Master, and confirmed the Truth of it, adding, that she had carried on
-                                        this Business ever since her Arrival from Africa, and was the Terror of the whole Neighbourhood.—
+                                        this Business ever since her Arrival from <placeName>Africa</placeName>, and was the Terror of the whole Neighbourhood.—
                                         Upon this he repaired directly with Six White Servants to the old Woman's House,
                                         and forcing open the Door, observed the whole inside of the Roof (which was Thatch),
                                         and every Crevice of the Walls, stuck with the Implements of her trade, consisting of Rags,
@@ -2223,7 +2223,7 @@
                                         committed to Flames, amidst the general Acclamations of all his other Negroes. In regard
                                         to the old Woman, he declined bringing her to Trial under the Law of the Island, which
                                         would have punished her with Death; but from a Principle of Humanity, delivered her into
-                                        the Hands of a Party of Spaniards, who (as she was thought not incapable of doing some
+                                        the Hands of a Party of <name>Spaniards</name>, who (as she was thought not incapable of doing some
                                         trifling Kind of Work) were very glad to accept and carry her with them to Cuba. From the 
                                         Moment of her Departure, his Negroes seemed all to be animated with new Spirits, and the
                                         Malady spread no farther among them. The Total of his Losses in the course of about Fifteen
@@ -2233,11 +2233,11 @@
                                 </div>
                                 <div>
                                     <label>B.</label>
-                                    <p>A Wainman (or Waggoner) belonging to the same Plantation happened to lose a Steer
+                                    <p><ecda:anonPers a-gender="male" a-status="enslaved" a-occupation="waggoner">A Wainman</ecda:anonPers> (or Waggoner) belonging to the same Plantation happened to lose a Steer
                                         one very hot Day, on the Road leading to the Shipping Place. The poor Fellow, exceedingly
-                                        vexed at this Accident, immediately went to a noted <name>Obiah-man</name>, who lived near the
+                                        vexed at this Accident, immediately went to <ecda:anonPers a-gender="male" a-religion="obi">a noted <name>Obiah-man</name></ecda:anonPers>, who lived near the
                                         Spot, and after paying thim the usual Fee of 2s. 6d. desired to know the Cause of his being
-                                        so remarkably unfortunate, whilse the other Wainmen travelling on the same Road, and on the
+                                        so remarkably unfortunate, while the other Wainmen travelling on the same Road, and on the
                                         same Day, had lost none of their Cattle? He concluded with petitioning for <distinct rend="italic">Obi to be put</distinct>,
                                         that the other Wainmen might suffer equally with himself, or that <emph>he</emph> might not be so particularly
                                         distinguished for ill Luck.
@@ -2246,11 +2246,11 @@
                                 <div>
                                     <label>C.</label>
                                     <p>It may not be desirable that we should multiply Examples, to shew the Prevalence of this
-                                        Superstition; we shall therefore only add one more, in order to display the Influence of ti,
-                                        over Negroes even of tender Years.—As a Gentleman was travelling not long since from Spanish
-                                        Town to Kingston, in Jamaica, accompanied by his Servant (a Negro Boy of about the 
+                                        Superstition; we shall therefore only add one more, in order to display the Influence of it,
+                                        over Negroes even of tender Years.—As <ecda:anonPers a-gender="male" a-occupation="gentleman">a Gentleman</ecda:anonPers> was travelling not long since from <placeName>Spanish
+                                        Town</placeName> to <placeName>Kingston</placeName>, in <placeName>Jamaica</placeName>, accompanied by <ecda:anonPers a-gender="male" a-status="enslaved" a-arc="negro">his Servant</ecda:anonPers> (a Negro Boy of about the 
                                         Age of 12 to 14 Years), who rode a little way before him, the Boy on a sudden stopped short,
-                                        truned about in a very great Fright, and refused to proceed; his Master, surprised at all this, 
+                                        turned about in a very great Fright, and refused to proceed; his Master, surprised at all this, 
                                         desired to know what was the matter with him? The Boy pointed with a look of Anxiety to
                                         something on one Side the Raod, which at last his master discovered to be nothing more than
                                         a Glass Bottle hung by the Neck upon a Sktick which wa fixed in the ground. It was quite
@@ -2258,56 +2258,56 @@
                                         Servant to pass it, nor would he proceed an Inch till his Master had dismounted, and by breaking 
                                         the Bottle destroyed the <name rend="italic">Obi</name>.
                                     </p>
-                                    <p>Mr. Fuller thinks that Obeah, or Oby, comes from <!-- greek -->, Serpesn, and that it is a
-                                        manifest Trace of the <rs type="properAdjective" rend="italic">Manichean</rs> Heresy., which prevailed for many Years in Arabia, Egypt
-                                        and Africa, and might possibly take its rise from the Temptation of Eve in Paradise <seg>(a)</seg>.
+                                    <p><persName>Mr. Fuller</persName> thinks that <name>Obeah</name>, or <name>Oby</name>, comes from <!-- greek -->, Serpent, and that it is a
+                                        manifest Trace of the <rs type="properAdjective" rend="italic">Manichean</rs> Heresy., which prevailed for many Years in <placeName>Arabia</placeName>, <placeName>Egypt</placeName>
+                                        and <placeName>Africa</placeName>, and might possibly take its rise from the Temptation of <persName>Eve</persName> in Paradise <seg>(a)</seg>.
                                     </p>
-                                    <p>As for the Word Myal, it may possibly come from the Greek Word <!-- greek --> docere ea quæ ad
-                                        Res sacras seu divinas pertinent, instruere in Sacris initiare: or from <!-- greek --> claudo premo, 
-                                        occulto; from whence <!-- greek --> might also be derived, at its Derivatives <!-- greek -->;
+                                    <p>As for the Word <name>Myal</name>, it may possibly come from the <rs type="properAdjective">Greek</rs> Word <!-- greek --> <distinct xml:lang="la">docere ea quæ ad
+                                        Res sacras seu divinas pertinent, instruere in Sacris initiare</distinct>: or from <!-- greek --> <distinct xml:lang="la">claudo premo, 
+                                        occulto</distinct>; from whence <!-- greek --> might also be derived, at its Derivatives <!-- greek -->;
                                         <!-- greek --> &amp;c.
                                     </p>
                                 </div>
                             </div>
                             <div>
-                                <head>The following Paper relating to the Obeah-men in Jamaica, was delivered by
-                                    Mr. Rheder.
+                                <head>The following Paper relating to the <name>Obeah-men</name> in <placeName>Jamaica</placeName>, was delivered by
+                                    <persName>Mr. Rheder</persName>.
                                 </head>
-                                <p>Obeah-men are the oldest and most artful Negroes; a Peculairity marks them, and every
+                                <p><name>Obeah-men</name> are the oldest and most artful Negroes; a Peculairity marks them, and every
                                     Negro pays the greatest Respect to them, they are perfectly well acquainted with medicinal
-                                    Herbs, and know the poisonous ones, which they often use. To prepsess the Stranger in
+                                    Herbs, and know the poisonous ones, which they often use. To preposess the Stranger in
                                     favour of their Skill, he is told that they can restore the Dead to Life; for this Purpose he
                                     is shewn a Negro apparently dead, who, by Dint of their Art, soon recovers; this is produced 
-                                    by administering the narcotic Juice of Vegetables. On searching one of the Obeah-men's
+                                    by administering the narcotic Juice of Vegetables. On searching one of the <name>Obeah-men's</name>
                                     Houses, was found many Bags filled with parts of Animals, Vegetables, and Earth, which
                                     the Negroes who attended at the Sight of, were struck with Terror, and begged that they
                                     might be christened, which was done, and the Impression was done away. In consequence 
                                     of the Rebellion of the Negroes in the Year 1760, a Law was enacted that Year to render the
-                                    Practice of Obiah, Death.
+                                    Practice of <name>Obiah</name>, Death.
                                 </p>
                                 <p>The Influence of the Professors of that Art was such as to induce many to enter into that
                                     Rebellion on the Assurance that they were to be invulnerable, and to render them so, the
-                                    Obeah-men gave them a Powder with which they were to rub themselves.
+                                    <name>Obeah-men</name> gave them a Powder with which they were to rub themselves.
                                 </p>
                                 <p>On the First Engagement with the Rebels Nine of them were killed, and many Prisoners
                                     taken: Among the Prisoners was a very sensible Fellow, who offered to discover many 
                                     important Matters, on the condition that his Life should be spared, which was promised. He then
-                                    related the Part the Obeah-men had taken, One of whom was capitally convicted and 
+                                    related the Part the <name>Obeah-men</name> had taken, One of whom was capitally convicted and 
                                     sentenced to Death.
                                 </p>
                                 <p>At the Place of Execution he bid defiance to the Executioner, telling him that it was not
-                                    in the Power of White People to kill him; and the Negro Spectators were astonished when
-                                    they saw him expire. On the other Obeah-men, various Experiments wer made with Exectrical
+                                    in the Power of White People to kill him; and the <rs type="properAdjective">Negro</rs> Spectators were astonished when
+                                    they saw him expire. On the other <name>Obeah-men</name>, various Experiments wer made with Exectrical
                                     Machines and Magic Lanthorns, which produced very little Effect; except on one who,
-                                    after receiving many severe Shocks, acknowledged his Master's Obeah exceeded his own.
+                                    after receiving many severe Shocks, acknowledged his Master's <name>Obeah</name> exceeded his own.
                                 </p>
-                                <p>I remember sitting Twice on Trials of Obea-men, who were convicted on selling their
+                                <p>I remember sitting Twice on Trials of <name>Obea-men</name>, who were convicted on selling their
                                     Nostrums, which had produced Death. To prove the Fact, Two Witnesses are necessary,
                                     with corroborating Circumstances.
                                 </p>
                             </div>
                             <div>
-                                <head>The following Paper was delivered by Mr. Fuller, respecting the Evidence 
+                                <head>The following Paper was delivered by <persName>Mr. Fuller</persName>, respecting the Evidence 
                                     generally required for the conviction of Persons who have been tried on the Charge of 
                                     practicing <name rend="italic">Obeah</name>.
                                 </head>
@@ -2316,24 +2316,24 @@
                                     them to explan the Nature of the Evidence, which as been generally required for constituting
                                     a legal Conviction in such Cases.
                                 </p>
-                                <p>Of the Jamaica Planters now in London, they have, after the most diligent Inquiries, been
+                                <p>Of the <rs type="properAdjective">Jamaica</rs> Planters now in <placeName>London</placeName>, they have, after the most diligent Inquiries, been
                                     able to meet with only <emph>One</emph> who has attended any such Trials; and they regret exceedingly,
                                     that the Intelligence which they obtained from him did not appear sufficiently <seg>(a)</seg> pertinent.
                                 </p>
-                                <p>The Cerks of the Peace in the several Parishes or Precincts of Jamaica, whose Duty it is
-                                    to attend these trials to take Minutes of the Evidence, adn to record the Proceedings in their
+                                <p>The Clerks of the Peace in the several Parishes or Precincts of <placeName>Jamaica</placeName>, whose Duty it is
+                                    to attend these trials to take Minutes of the Evidence, and to record the Proceedings in their
                                     official Rolls, might probably Furnish very ample information as to the Proofs which have
-                                    generally operated to Conviction. But we do not know of any Person now in England who
+                                    generally operated to Conviction. But we do not know of any Person now in <placeName>England</placeName> who
                                     has acted in that Capacity, and therefore can offer nothing satisfactory on the Subject of the
                                     Question now proposed.
                                 </p>
                             </div>
                             <div>
-                                <head>Obeah Pracitce.</head>
+                                <head>Obeah Practice.</head>
                                 <div>
-                                    <label>Jamaica, ss. Case I.</label>
-                                    <p>Among the Domestics of a Planter in the Parish of Vere, were Two
-                                        Negresses who had suckled Two of his Children, and a Negro who served him
+                                    <label><placeName>Jamaica</placeName>, ss. Case I.</label>
+                                    <p>Among the Domestics of <ecda:anonPers a-occupation="planter" a-gender="male">a Planter</ecda:anonPers> in the Parish of <placeName>Vere</placeName>, were <ecda:persGroup a-arc="negro" a-gender="female" a-occupation="domestic" a-status="enslaved">Two
+                                        Negresses</ecda:persGroup> who had suckled <ecda:persGroup>Two of his Children</ecda:persGroup>, and <ecda:anonPers a-gender="male" a-status="enslaved" a-arc="negro" a-occupation="butler">a Negro who served him</ecda:anonPers>
                                         in the Capacity of Butler or Waiting-man. The Infant which was nursed by One of these
                                         Women happened to die. Her Misbehaviour after this was such as obliged her Master to
                                         turn her out of his House, and she was ordered to work among the Field Negroes, The
@@ -2343,12 +2343,12 @@
                                         and intolerably fetid. His Master, imagining these might be the natural Effects of
                                         Stagnation, ordered the Well to be drawn till it was supposed to be nearly drained. But 
                                         notwithstanding this Operation, the Water still continued ill-coloured, nauseous to the Taste,
-                                        and offensive to the Smell. A Man was then let down, who brough up a <distinct rend="italic">white Fowl</distinct> in a
+                                        and offensive to the Smell. <ecda:anonPers a-gender="male">A Man</ecda:anonPers> was then let down, who brought up a <distinct rend="italic">white Fowl</distinct> in a
                                         
                                         <pb/>
                                         
                                         very putrid State, without Beak or Claws, which had all been cut off. This Fowl was
-                                        proved to have belonged to the Butler's Grandmother, residing upon or near the same Plantation.
+                                        proved to have belonged to <ecda:anonPers a-gender="female" a-religion="obi">the Butler's Grandmother</ecda:anonPers>, residing upon or near the same Plantation.
                                         On further Examination, a large Quantity of <distinct rend="italic">Indigo Seed</distinct> was fished up from the
                                         Bottom of the Well. These Circumstances occasioned Suspicions of some Mischievous Design.
                                         The Houses of all the Negroes were Searched, and at one of them, inhabited by a
@@ -2369,10 +2369,10 @@
                                 </div>
                                 <div>
                                     <label>Second.</label>
-                                    <p>A valuable Negro had for his Wife a Negress who resided on a neighbouring
+                                    <p><ecda:anonPers a-gender="male" a-arc="negro">A valuable Negro</ecda:anonPers> had for <ecda:anonPers a-arc="negro" a-gender="female">his Wife</ecda:anonPers> a Negress who resided on a neighbouring
                                         Plantation. This Woman fell suddenly into a Decline, without any known Cause, and languishing
-                                        for some Time, contracted at length a very morbid Habit of Body. The Doctor who
-                                        attended her, and tried a Variety of Medicens without any good Effect, declared it beyond
+                                        for some Time, contracted at length a very morbid Habit of Body. <ecda:anonPers a-gender="male" a-occupation="doctor">The Doctor who
+                                        attended her</ecda:anonPers>, and tried a Variety of Medicens without any good Effect, declared it beyond
                                         his Power to afford her any Reliev, and pronounced her incurable. When her Death was
                                         every Day expected, and after much Importunity to discover the Cause of her Disorder, she 
                                         was prevailed on to confess that her Husband, from a violent Suspicion of her Infidelity to
@@ -2397,19 +2397,19 @@
                                         Test of her Continence (it may be remarked by the way) so closely resembles the <title rend="italic">Trial of
                                         Jealousy</title> by the <distinct rend="italic">bitter Water</distinct> described in the <title>Book of Numbers</title> (Chap. 5) as to point out
                                         something of a common Origin between them in the most ancient Laws and Customs of
-                                        Africa.
+                                        <placeName>Africa</placeName>.
                                     </p>
                                 </div>
                                 <trailer>Some other Cases are promised, but have not yet been received.</trailer>
                             </div>
                             <div>
-                                <head>Obiah Trials.</head>
-                                <p>Having received some further Information upon this Subject from another Jamaica Gentleman,
+                                <head><name>Obiah</name> Trials.</head>
+                                <p>Having received some further Information upon this Subject from another <rs type="properAdjective">Jamaica</rs> Gentleman,
                                     who has sat upon the <mcr>Two</mcr> Trials, we beg leave to deliver the same in his own Words, and
                                     as a Supplement to what we have already had the Honour of submitting.
                                 </p>
-                                <p>In the Year 1760, the Influence of the Professors of the <distinct rend="italic">Obiah Art</distinct> was such, as to induce a 
-                                    great many of the Negro Slaves in Jamaica to engage in the Rebellion which happened in
+                                <p>In the Year <date when="1760">1760</date>, the Influence of the Professors of the <distinct rend="italic">Obiah Art</distinct> was such, as to induce a 
+                                    great many of the Negro Slaves in <placeName>Jamaica</placeName> to engage in the Rebellion which happened in
                                     that Year, and which gave rise to the Law which was then made against the Practice of <distinct rend="italic">Obiah</distinct>.
                                 </p>
                                 <p>Assurance was given to these deluded People, that they were to become invulnerable; and
@@ -2426,7 +2426,7 @@
                                     had taken in promoting th Insurrection; One of whom was thereupon apprehended, tried (for
                                     rebellious Conspiracy), convicted, and sentenced to Death.
                                 </p>
-                                <note>[N.B. This was the Cormantin Obiah-man alluded to in our First Paper presented on 
+                                <note>[N.B. This was <ecda:anonPers a-gender="male" a-religion="obi" a-aig="cormantin">the <rs type="properAdjective">Cormantin</rs> <name>Obiah-man</name></ecda:anonPers> alluded to in our First Paper presented on 
                                     the Subject of Obiah.]</note>
                                 <p>At the Place of Execution, he bid defiance to the Executioner telling him, that <quote rend="quotes">It
                                     was not in the Power of the White People to kill him.</quote> And the Negroes (Spectators) were
@@ -2446,7 +2446,7 @@
                         </div>
                         <div>
                             <head>A. Nº 27.</head>
-                            <p>Whether many of the Negroes in the Island are Mahometans?</p>
+                            <p>Whether many of the Negroes in the Island are <name>Mahometans</name>?</p>
                             <p>Vide Answers, A. No. 19.</p>
                             <p>No Answer.</p>
                         </div>
@@ -2455,7 +2455,7 @@
                             <p>With respect to Negro Slaves and Free Negroes, what is the Proportion between Males and
                                 Females?
                             </p>
-                            <p>Must refer to Information to be collected in the Island by general Inquiry in everyParish,
+                            <p>Must refer to Information to be collected in the Island by general Inquiry in every Parish,
                                 which is very practicable by a small Alteration in the quarterly Returns given in to the Vestry
                                 by each Proprietor: At present these Returns give the total Number of Negroes, without
                                 Specification of Ages or Sexes.
@@ -2582,8 +2582,8 @@
                             <p>We can furnish the amounts of the total sugar produced in Jamaica at a few periods; from
                                 which there appears a very considerable Increase of that Article of Produce
                             </p>
-                            <p>As to the other Aricles, Coffee, Cotton, &amp;c. we have not the same Data. The great
-                                Improvement made in Jamaica (next to the Article Sugar) has, for some Years past, consisted in
+                            <p>As to the other Aricles, <ecda:commodity>Coffee</ecda:commodity>, <ecda:commodity>Cotton</ecda:commodity>, &amp;c. we have not the same Data. The great
+                                Improvement made in <placeName>Jamaica</placeName> (next to the Article <ecda:commodity>Sugar</ecda:commodity>) has, for some Years past, consisted in
                                 the culture of Guinea Grass; of which a great Number of very extensive and very flourishing
                                 Plantations have been formed, and are still forming, in the mountainous and interior or central
                                 Parts, where vast Numbers of Horned Cattle, Horses and Mules, are annually bred, pastured
@@ -2611,8 +2611,8 @@
                                     <cell>Ditto 1784</cell>
                                 </row>
                             </table>
-                            <p>Coffee has been fluctuating on account of Duties.—Cotton but lately relieved and increasing.—
-                                No Cocoa Walks to speak of in Jamaica; the Augmentation would no doubt have been
+                            <p><ecda:commodity>Coffee</ecda:commodity> has been fluctuating on account of Duties.—Cotton but lately relieved and increasing.—
+                                No Cocoa Walks to speak of in <placeName>Jamaica</placeName>; the Augmentation would no doubt have been
                                 much greater, if this Island had not lately (from the Year 1780) been visited by <emph>Six Hurricanes</emph>,
                                 whose Devastations not only brought total Ruin upon several flourishing Estates, but occasioned
                                 epidemic Diseases, and partial Famines, destructive to many Thousands of the Negro Slaves:
@@ -2623,7 +2623,7 @@
                                 that Island.
                             </p>
                             <note><label>N.B.</label> The Number 105,400 Hogsheads stated in the Answer, as the Quantity of the
-                                Crop in the Year 1784, was not the Quantity exported, but the Quantity made, or
+                                Crop in the Year <date when="1784">1784</date>, was not the Quantity exported, but the Quantity made, or
                                 waht are susually called <distinct rend="italic">Curing House</distinct> Hogsheads. So many having, according to the
                                 Accounts procured from the Spot, been actually filled in the several Curing Houses.
                                 But the Deductions of Waste, and for what were retained for the Island Consumption,
@@ -2637,7 +2637,7 @@
                         <div>
                             <head>A. Nº 31</head>
                             <p>What Number of Acres has been in cultivation in each Year, distinguishing the Proportion of
-                                Acres that has been appropriated to the Culture of Sugar, Cotton, Coffee, Cocoa, Ground
+                                Acres that has been appropriated to the Culture of <ecda:commodity>Sugar</ecda:commodity>, <ecda:commodity>Cotton</ecda:commodity>, <ecda:commodity>Coffee</ecda:commodity>, <ecda:commodity>Cocoa</ecda:commodity>, Ground
                                 Provisions, &amp;c.; and what has in each Year been the Produce thereof respectively?
                             </p>
                             <p>Cannot be answered here.</p>
@@ -2647,7 +2647,7 @@
                         </div>
                         <div>
                             <head>A. Nº 32.</head>
-                            <p>What is the Mode of cultivating and preparing the Ground for Sugar, Cotton, &amp;c. 
+                            <p>What is the Mode of cultivating and preparing the Ground for <ecda:commodity>Sugar</ecda:commodity>, <ecda:commodity>Cotton</ecda:commodity>, &amp;c. 
                                 respectively?
                             </p>
                             <p>Refer to the Island for Answer.</p>
@@ -2655,7 +2655,7 @@
                         </div>
                         <div>
                             <head>A. Nº 33.</head>
-                            <p>What Soil is most favourable for Sugar, Cotton, &amp;c. and how far is the Soil capable of
+                            <p>What Soil is most favourable for <ecda:commodity>Sugar</ecda:commodity>, <ecda:commodity>Cotton</ecda:commodity>, &amp;c. and how far is the Soil capable of
                                 Improvement by Manure?
                             </p>
                             <p>We observe in Jamaica a great Variety of Soils—The Cane thrives best in deep rich
@@ -2665,10 +2665,10 @@
                                 Manure in great Abundance is absolutely Necessary. Those Situations where Canes thrive
                                 Best, are in general the very worst for Cotton and Coffee, which will not answer where
                                 Rains and Floods are frequent, or the Soil very wet. The far greater Part of the Land at
-                                present under Culture for Canes in Jamaica, is wholly unfit either for Cotton or Coffee. A
+                                present under Culture for Canes in <placeName>Jamaica</placeName>, is wholly unfit either for Cotton or Coffee. A
                                 more particular Reply can only be obtained from the Island itself.
                             </p>
-                            <p>Different Manures are made use of as the Soil may require, as in England; but no Lime is
+                            <p>Different Manures are made use of as the Soil may require, as in <placeName>England</placeName>; but no Lime is
                                 here used as Manure.
                             </p>
                         </div>
@@ -2755,7 +2755,7 @@
                                 of the Cane Liquor (resembling Sweet Wort) and the more settled or drier weather during
                                 that Season of the Year.
                             </p>
-                            <p>The Work of the Negro Slave in Jamaica is far less than that of a Labourer in Britain;
+                            <p>The Work of the Negro Slave in <placeName>Jamaica</placeName> is far less than that of a Labourer in <placeName>Britain</placeName>;
                                 they have in general 15 Hours in 24 to themselves, which is quite sufficient for Sleep, and for
                                 cooking and eating their Victuals, to say nothing of Recreations.
                             </p>
@@ -2771,19 +2771,19 @@
                         </div>
                         <div>
                             <head>A. Nº 37.</head>
-                            <p>Would it be possible to cultivate to Advantage the West India Islands, by the Labour of 
-                                Europeans, or of Free Negroes?
+                            <p>Would it be possible to cultivate to Advantage the <placeName>West India Islands</placeName>, by the Labour of 
+                                <name>Europeans</name>, or of Free Negroes?
                             </p>
-                            <p>We think it impossible with Europeans: So far as Experience can determine, we find that
-                                the same Exposure to the Sun, which cheers the African, is mortal to the European; Nine in
+                            <p>We think it impossible with <name>Europeans</name>: So far as Experience can determine, we find that
+                                the same Exposure to the Sun, which cheers the <name>African</name>, is mortal to the <name>European</name>; Nine in
                                 Ten of them would die in Three Years.
                             </p>
-                            <p>As to Free Negroes;—in Jamaica no Free Negro was ever yet known to hire himself, or be
+                            <p>As to Free Negroes;—in <placeName>Jamaica</placeName> no Free Negro was ever yet known to hire himself, or be
                                 employed in Agriculture upon the Sugar Plantations: The Men are averse to labour the
                                 Ground even for themselves; and whenever they do it, it is only to supply their immediate
                                 Wants: They have all the Vices of Slaves, and no Planter could controul them.
                             </p>
-                            <p>Vide Appendix to this Head, Code Noir.</p>
+                            <p>Vide Appendix to this Head, <title>Code Noir</title>.</p>
                             <p>No Answer.</p>
                         </div>
                         <div>
@@ -2791,7 +2791,7 @@
                             <p>What is the Disposition of the Free Negroes with respect to Labour, particularly continual
                                 or diurnal Labour?
                             </p>
-                            <p>We can only repeat what we have before said—that no Free Negro in Jamaica was every yet
+                            <p>We can only repeat what we have before said—that no Free Negro in <placeName>Jamaica</placeName> was every yet
                                 known to hire himself, or be employed in Agriculture of any Kind.
                             </p>
                             <p>Vide their Answer, Nº 37.</p>
@@ -2802,23 +2802,23 @@
                         </div>
                         <div>
                             <head>A. Nº 39.</head>
-                            <p>Could an European Consitution subsist in a West India Climate, under the Labour necessary
+                            <p>Could an <rs type="properAdjective">European</rs> Consitution subsist in a <placeName type="properAdjective">West India</placeName> Climate, under the Labour necessary
                                 for cultivating a West India Plantation?
                             </p>
-                            <p>We have every Reason to believe it would not: The Nature and Constitution of an European
+                            <p>We have every Reason to believe it would not: The Nature and Constitution of an <name>European</name>
                                 are not so well adapted to retain even Life, much less to support Field Labour, either in the
-                                Climate of Guinea, or that of the West Indies, which is analogous to it.
+                                Climate of <placeName>Guinea</placeName>, or that of the <placeName>West Indies</placeName>, which is analogous to it.
                             </p>
-                            <p>It is not possible for an European Consitution to subsist in this Climate, under the Labour
-                                necessary for cultivating a West India Plantation.
+                            <p>It is not possible for an <rs type="properAdjective">European</rs> Consitution to subsist in this Climate, under the Labour
+                                necessary for cultivating a <placeName type="properAdjective">West India</placeName> Plantation.
                             </p>
                         </div>
                         <div>
                             <head>A. Nº 40.</head>
                             <p>Is the Labour of Cattle, and of what Species and in what Proportion, used in the Cultivation
-                                of a West India Plantation?
+                                of a <placeName type="properAdjective">West India</placeName> Plantation?
                             </p>
-                            <p>In Jamaica, Oxen in general are used in ploughing, where ploughing is practicable; some
+                            <p>In <placeName>Jamaica</placeName>, Oxen in general are used in ploughing, where ploughing is practicable; some
                                 (but they are few) make use of Horses for the same Purpose.
                             </p>
                             <p>Mules are chiefly used for Carriage on steep Acclivities and bad Roads; in other Places the
@@ -2837,14 +2837,14 @@
                             <p>Could the Quantity of Cattle be increased, and could their Labour be substituted for that of
                                 Slaves in a greater Extent than it is at present?
                             </p>
-                            <p>In Jamaica the Quantity of Cattle is daily increasing, and may certainly be increasted
+                            <p>In <placeName>Jamaica</placeName> the Quantity of Cattle is daily increasing, and may certainly be increasted
                                 very considerably, by continuing to open and settle new Breeding Farms: How far the Assistance
                                 of Cattle, in the Cane and other Culture, can be extended beyond what is at present, may
                                 depend on a Variety of Circumstances, best learnt, by inquiring on the Spot; for it is 
                                 presumed, that there are some thousands of Acres new in Culture, which, from their rocky and 
                                 inacessible Nature, cannot be worked by the Plough; and many more thousand Acres yet
                                 in the Wilderness, on which, when Cleared, the Plough may probably be usefully employed:
-                                Cattle, we believe, are already employed in all the Operations of the Jamaica husbandry to
+                                Cattle, we believe, are already employed in all the Operations of the <placeName type="properAdjective">Jamaica</placeName> husbandry to
                                 which their Assistance is applicable.
                             </p>
                             <p>There is a Sufficiency of Cattle in this Island for Work, and also for the Butcher, and
@@ -2856,17 +2856,17 @@
                         </div>
                         <div>
                             <head>A. Nº 42.</head>
-                            <p>Have different European Instruments of Husbandry from Time to Time been introduced
-                                in the Cultivation of Planatations in the West Indies, and is it likely that the Use of them
+                            <p>Have different <rs type="properAdjective">European</rs> Instruments of Husbandry from Time to Time been introduced
+                                in the Cultivation of Planatations in the <placeName>West Indies</placeName>, and is it likely that the Use of them
                                 could be extended, or further Improvements in this respect be applied, to lighten and abridge
-                                the Labour of Slaves in cultivating West India Plantations?
+                                the Labour of Slaves in cultivating <placeName type="properAdjective">West India</placeName> Plantations?
                             </p>
                             <p>No Improvements by Machinery, which have come within the Knowledge of the Planters,
-                                and are calculated to lessen or facilitate human Labour in Jamaica, have been left untried or
+                                and are calculated to lessen or facilitate human Labour in <placeName>Jamaica</placeName>, have been left untried or
                                 unadopted, wherever practicable.
                             </p>
                             <p>The Plough, Harrow, Hoe, Bill, Axe, Spade, Scythe, Hatchet, Waggons, Carts, and
-                                in general all Kinds of Implements of Husbandry used in Great Britain, are used in like
+                                in general all Kinds of Implements of Husbandry used in <placeName>Great Britain</placeName>, are used in like
                                 
                                 <pb/>
                                 
@@ -2877,11 +2877,11 @@
                         </div>
                         <div>
                             <head>A. Nº 43.</head>
-                            <p>What is the whole Number of Acres in the Island of Jamaica, and how much of that Part
+                            <p>What is the whole Number of Acres in the Island of <placeName>Jamaica</placeName>, and how much of that Part
                                 thereof, which is at present not cultivated, is capable of being brought into Culture?
                             </p>
-                            <p>During the Government of Sir Thomas Lynch, above 100 Years ago, Colonel Tassel and
-                                Mr. Rogers were sent to Jamaica, by Order of his Majesty King Charles the Second, for the
+                            <p>During the Government of <persName>Sir Thomas Lynch</persName>, above 100 Years ago, <persName>Colonel Tassel</persName> and
+                                <persName>Mr. Rogers</persName> were sent to <placeName>Jamaica</placeName>, by Order of his Majesty King Charles the Second, for the
                                 Purpose of making an actual Survey and Measurement of that Island.
                             </p>
                             <p>These Gentlemen reported, that its Length was ― 180
@@ -2910,7 +2910,7 @@
                                 the former and 57 Minutes in the latter.
                             </p>
                             <p>In regard to the Latitude of Port royal, there are no less than Seven different fixing,s
-                                making a variance of 20 Minutes in the Position of that Town; so that until som Principle
+                                making a variance of 20 Minutes in the Position of that Town; so that until some Principle
                                 for accurate Computation can be obtained, no positive Exactness is to be hoped for.
                             </p>
                             <table>
@@ -2919,7 +2919,7 @@
                                     <cell>4,500,000 Acres.</cell>
                                 </row>
                                 <row>
-                                    <cell>The late John Ellis, Esq; on his Examination at the Bar of the House 
+                                    <cell>The late <persName>John Ellis</persName>, Esq; on his Examination at the Bar of the House 
                                         Of which be supposed
                                     </cell>
                                     <cell>4,000,000 Acres.</cell>
@@ -2942,7 +2942,7 @@
                                 </row>
                                 <row>
                                     <cell>500,000</cell>
-                                    <cell>Other Settlements, such as Coffee, Cotton, Ginger, Pimento, Indigo &amp;c. &amp;c.</cell>
+                                    <cell>Other Settlements, such as <ecda:commodity>Coffee</ecda:commodity>, <ecda:commodity>Cotton</ecda:commodity>, <ecda:commodity>Ginger</ecda:commodity>, <ecda:commodity>Pimento</ecda:commodity>, <ecda:commodity>Indigo</ecda:commodity> &amp;c. &amp;c.</cell>
                                 </row>
                                 <row>
                                     <cell>3,000,000</cell>
@@ -2955,7 +2955,7 @@
                                     <cell/>
                                 </row>
                             </table>
-                            <p>Mr. Ellis, in this Statement, computed the annual Crop at 80,000 Hogsheads, and the
+                            <p><persName>Mr. Ellis</persName>, in this Statement, computed the annual Crop at 80,000 Hogsheads, and the
                                 yielding of the Cane Land, at a general Average, Half a Hogshead per Acre, which
                                 allows 160,000 Acres for the Cane Land; but it is certain that from this Mode of Statement,
                                 he overlooked and omitted the Land in young or Plant Canes. At present we think
@@ -2984,7 +2984,7 @@
                                 </row>
                                 <closer>Or perhaps a Million of Acres.</closer>
                             </table>
-                            <p>Of the rest we can say nothing authentic. Since the Time when Mr. Ellis gave is
+                            <p>Of the rest we can say nothing authentic. Since the Time when <persName>Mr. Ellis</persName> gave is
                                 public Statement, Cultivation has been considerably extended, Settlements multiplied, and
                                 Products increased; but as this Question, and the Two succeeding ones, lead into a very
                                 minute Investigation and Detail; we are sensible, were we to offer vague Conjecture,
@@ -3009,7 +3009,7 @@
                         </div>
                         <div>
                             <head>A. Nº 45.</head>
-                            <p>What Proportion of the Land which is private Property in the Island of Jamaica is now in
+                            <p>What Proportion of the Land which is private Property in the Island of <placeName>Jamaica</placeName> is now in
                                 Cultivation?
                             </p>
                             <p>We beg to refer to what we have said on the Subject, A. Nº 43.</p>
@@ -3017,7 +3017,7 @@
                         </div>
                         <div>
                             <head>A. Nº 46 and 47.</head>
-                            <p>What Proportion of the Land now in Cultivation in the Island of Jamaica would, from
+                            <p>What Proportion of the Land now in Cultivation in the Island of <placeName>Jamaica</placeName> would, from
                                 Situation or Soil, admit of the Use of the Plough?
                             </p>
                             <p>In how many plantations in the said Island has the Plough been known to be introduced
@@ -3040,8 +3040,8 @@
                         </div>
                         <div>
                             <head>A. Nº 48.</head>
-                            <p>How many Slaves in the whole are employed in the Island of Jamaica, in the Cultivation
-                                of Sugar, Cotton, Coffee, Indigo, &amp;c. &amp;c. and how many in menial Services, in making
+                            <p>How many Slaves in the whole are employed in the Island of <placeName>Jamaica</placeName>, in the Cultivation
+                                of <ecda:commodity>Sugar</ecda:commodity>, <ecda:commodity>Cotton</ecda:commodity>, <ecda:commodity>Coffee</ecda:commodity>, <ecda:commodity>Indigo</ecda:commodity>, &amp;c. &amp;c. and how many in menial Services, in making
                                 Roads, fishing, or any other Employment?
                             </p>
                             <p>As we are not possessed of any such Specification, we must beg to refer to the Island, where
@@ -3059,7 +3059,7 @@
                                 demanded nor paid. The Number upon which the Tax is uncollected, and consequently
                                 not included in the official Returns, may be supposed from 7 to 8000.
                             </note>
-                            <p>In the Year 1768, from the most accurate Account that could be had, it is supposed there
+                            <p>In the Year <date when="1768">1768</date>, from the most accurate Account that could be had, it is supposed there
                                 were 166,914 Negroes, in the whole of which, about 67,852 Negroes were employed in the
                                 Cultivation and Manufacture of Cotton, Coffee, Ginger Pimento, Grass, &amp;c. and about
                                 99,002 Negroes in that of Sugar: The whole Number of Estates at that Time was 648, and
@@ -3085,11 +3085,11 @@
                         </div>
                         <div>
                             <head>A. Nº 50.</head>
-                            <p>Is the Corn, Grass, or Ground Provisions, raised in the Island of Jamaica, produced from
+                            <p>Is the Corn, Grass, or Ground Provisions, raised in the Island of <placeName>Jamaica</placeName>, produced from
                                 separate Farms, or from Lands annexed to the Plantations respectively, and worked by the
                                 Negroes belonging to the said Plantations?
                             </p>
-                            <p>Almost every Sugar Plantation in Jamaica (or with very few Exceptions) has Plantains,
+                            <p>Almost every Sugar Plantation in <placeName>Jamaica</placeName> (or with very few Exceptions) has Plantains,
                                 Ground Provisions of various Species, and Guinea Grass, cultivated on its contiguous Lands;
                                 and no Opportunity of seasonable Weather is neglected, of sowing Indian and Guinea Corn,
                                 and some or other of the various Species of Pulse, as well as on the contiguous Lands, as in the
@@ -3101,7 +3101,7 @@
                                 different Kinds of vegetable Provision, and where Hogs and Poultry are bred for Sale either in
                                 the Towns or the Sugar Estates.
                             </p>
-                            <p>In the Parishes of Vere, St. Elizabeth, and St. Dorothy, the Indian and Guinea Corn are cultivated
+                            <p>In the Parishes of <placeName>Vere</placeName>, <placeName>St. Elizabeth</placeName>, and <placeName>St. Dorothy</placeName>, the Indian and Guinea Corn are cultivated
                                 chiefly by the Cotton-growers, on a more extensive Scale, those Districts being remarkably
                                 favourable to them. The principal grazing and breeding Farms are chiefly situated among the 
                                 midland Mountains, where the Soil and Weather are most suitable to that Branch of Business;
@@ -3118,7 +3118,7 @@
                         <div>
                             <head>A. Nº 51.</head>
                             <p>What is the Kind of Manure made use of in the Island of Jamaica?</p>
-                            <p>The Manure generally used on the Sugar Estates in Jamaica, is a Compost formed
+                            <p>The Manure generally used on the Sugar Estates in <placeName>Jamaica</placeName>, is a Compost formed
                                 <list>
                                     <item>1. Of the Wood Ashes drawn from the Furnaces of the boiling and distilling Houses.</item>
                                     <item>2. <distinct rend="italic">Dunder</distinct>, i.e. Feculencies discharged from the Distilling Houses.</item>
@@ -3148,9 +3148,9 @@
                             <p>If in general the Planters were to employ Mules and Cattle in carrying out the Manure,
                                 would it not be for the Advantage both of the Negroes and the Owners?
                             </p>
-                            <p>On the <sic>the</sic> Sugar Estates in Jamaica, we believe that the Manure is invariably carted out to
+                            <p>On the <sic>the</sic> Sugar Estates in <placeName>Jamaica</placeName>, we believe that the Manure is invariably carted out to
                                 all the accessible Lands, and the Steeps are usually dressed by means of the moveable Cattle-
-                                penns described in the preceding Answer. We do not know of any Sugar Estate in Jamaica,
+                                penns described in the preceding Answer. We do not know of any Sugar Estate in <placeName>Jamaica</placeName>,
                                 where the Practice exists of carrying or laying on Manure in any other Manner.
                             </p>
                             <p>Manure was never carried in this Island in any other Way than by Cattle and Mules.</p>
@@ -3161,9 +3161,9 @@
                                 annual Quantity of Sugar, what may be supposed to be the net Income to the Owner, if living
                                 on the Island, after deducting the Charge of maintaining and clothing his Negroes, the
                                 Wear and Year, and other necessary Expences? And what the net Income to the Owner
-                                living in Great Britain?
+                                living in <placeName>Great Britain</placeName>?
                             </p>
-                            <p>In Jamaica, the Expences and Profits of a Sugar Planttion depend on the local Situation,
+                            <p>In <placeName>Jamaica</placeName>, the Expences and Profits of a Sugar Planttion depend on the local Situation,
                                 the Distance of Carriage to and from the Market or Shipping-place, the Goodness or Badness
                                 of the Orads; the comparative Advantages of a Windmill, Watermill, or Cattlemill; the
                                 Facility of procuring Wood, or the heavy Charges of importing Coals for Fuel; the Labour
@@ -3188,10 +3188,10 @@
                     </div>
                     <div type="appendix">
                         <head>Jamaica. Appendix.</head>
-                        <p>The First Part of the Appendix is an Abstract of the Jamaica Laws for the Government of
+                        <p>The First Part of the Appendix is an Abstract of the <placeName type="properAdjective">Jamaica</placeName> Laws for the Government of
                             the Negro Slaves, beginning with the Act of 1696. The First Column is the Law as it
                             then stood: The Second, Third, and Fourth Columns, are the Alterations that have been made
-                            since that Time. I have added at the End of the Act of 1681; but as it does not distinctly appear
+                            since that Time. I have added at the End of the Act of <date when="1681">1681</date>; but as it does not distinctly appear
                             in that Act, whether the Servants mentioned therein are Negroes, or indented Whies, I have
                             placed it at the End of the Abstract, and have marked it at Bottom with the Letters A and B.
                         </p>
@@ -3201,17 +3201,241 @@
                             Negro Slaves in the Sugar Colonies, which will be found in Page (29), Column 2, of the Abstract
                             of the French Code Noir, at the End of the Appendix.
                         </p>
-                        <p>I have also added an Account of the Slaves imported into Jamaica from 1772 to 1775
+                        <p>I have also added an Account of the Slaves imported into <placeName>Jamaica</placeName> from <date from="1772" to="1775">1772 to 1775</date>
                             inclusive.
                         </p>
-                        <p>And also an Account of the Maroon Negroes in the Year 1770; since which, and before
+                        <p>And also an Account of the Maroon Negroes in the Year <date when="1170">1770</date>; since which, and before
                             which Time, I have seen no other Return of them.
                         </p>
-                        <p>And also an Account of the Number of Negroes and White People in Jamaica in 1787.</p>
-                        <p>And also a Paragraph taken out of the Jamaica Paper for the Country of Cornwal in that
-                            Island, relative to the New Regulations in respect to the Negro Slaves. Resolution dated 29th
-                            November. The Paper the 8th December 1787.
+                        <p>And also an Account of the Number of Negroes and White People in Jamaica in <date when="1787">1787</date>.</p>
+                        <p>And also a Paragraph taken out of the Jamaica Paper for the Country of <placeName>Cornwal</placeName> in that
+                            Island, relative to the New Regulations in respect to the Negro Slaves. Resolution dated <date when="1787-11-29">29th
+                            November</date>. The Paper the <date when="1787-12-08">8th December 1787</date>.
                         </p>
+                        <div type="index">
+                            
+                        </div>
+                        <div type="appendix">
+                            <!-- as far as I can tell, this is a reproduction of the orig 17th century act and then reproductions of later amendments
+                            all as columns. I'm only going to encode orig for now, but we need to figure out how to encode the rest, since amendments are
+                            interspersed according to <emph>what</emph> is being amended. So large spaces. Maybe @corresp?? -->
+                            <head>1696
+                            Jamaica. Acts relative to Slaves.
+                            Act. 38.</head>
+                            <p><label>I.</label> Owners not to give the Slaves leave to go out without a Ticket.</p>
+                            <p><label>II.</label> Slaves for striking a White Person punished at the Discretion of 
+                                Two Justices and Three Freeholders, with Death, or oather Punishment, according to
+                                their Discreation.
+                            </p>
+                            <p><label>III.</label> Men Slaves to have Jackets and Drawers; and Women Jackets
+                                and Petticoats, or Frocks once every Year.
+                            </p>
+                            <p><label>IV.</label> Slaves Complaint of Clothes as above not being given to them to
+                                be dismissed upon the Owners coming before the Justice amd making Oath that the
+                                Complaint is unjust.
+                            </p>
+                            <p><label>V.</label> Constables sowrn not to neglect their Duty.</p>
+                            <p><label>VI.</label> Owners of Plantations shall have One Acre of Grount, well
+                                planted, with Provisions, for every Five Slaves.
+                            </p>
+                            <p><label>VII.</label> Penalty of 40 l. on the Provost Marshal for employing 
+                                Runaway Slaves; or suffering them to want Provisions, dry and convenient Lodging so
+                                that they die in his Custody, 50 l.
+                            </p>
+                            <p><label>VIII.</label> Or disposing of them before they have Twelve Months in Custody, or
+                                otherwise than by Auction, 200 l. Currency.
+                            </p>
+                            <p><label>IX.</label> Penalty of 20 l. on Persons who take up Runaways and bring 
+                                them not to their proper Owners.
+                            </p>
+                            <p><label>X.</label> Marshal to detain Runaways till the Owner reimburses him.</p>
+                            <p><label>XI.</label> Penalty of 50 l. on Marhsal suffering Escapes.</p>
+                            
+                            <pb/>
+                            
+                            <p><label>XII.</label> Slave taking up a Runaway shall have the whole Benefit
+                                thereof; if any Person shall deprive him of it he shall forfeit treble
+                                the Value.
+                            </p>
+                            <p ana="#punishment"><label>XIII.</label> Slave Houses to be searched for mischievous Weapons; if
+                                any found, may be burnt; and if any stolen Goods shall be found in the Custody
+                                of a Slave he shall suffer Death, Transporation, <distinct rend="italic">Dismembering</distinct>,
+                                or other Punishment, at the Discretion  of Two Justices and Three Freeholders, or the major Part; One
+                                to be a Justice. Vide N.B. 1717.
+                            </p>
+                            <p><label>XIV.</label> Penalty of 20 l. on a Master refusing the Seach of his Slave's House.</p>
+                            <p><label>XV.</label> Proviso the Search demanded be authorised by a Justice.</p>
+                            <p><label>XVI.</label> Penalty of 100l. on Persons, stealing, hiding, or employing another Person's Slave.</p>
+                            <p><label>XVII.</label> Slave hiding Runaways, shall be severly whipped, by Order of a Justice of the Peace.</p>
+                            <p><label>XVIII.</label> £5 Reward to any Freeman or Servant that shall kill or take any rebellious
+                                Slave; 40s. to a Slave for the same, and a Serge Coat, with red Cross on the right Shoulder.
+                            </p>
+                            <p><label>XIX></label> Slave continuing away Twelve Months, deemed rebellious, if he has been Three
+                                Years in the Island; and shall be transported by Two Justices and Three Freeholders.
+                            </p>
+                            <p><label>XX.</label> Transported Slave returning to be taken up and executed.</p>
+                            <p><label>XXI.</label> Plantation deserted for Six Months to be ruinated and destroyed,
+                                lest it become a Receptacle for Fugitives.
+                            </p>
+                            
+                            <pb/>
+                            
+                            <p><label>XXII.</label>Commission Officers to pursue Runaways; to have 40s per Head for Slaves taken,
+                                brought in alive, and 20s. per Head for Slaves killed, or driven home. Neglicting Duty to forfeit 20 l.
+                            </p>
+                            <p><label>XXIII.</label> Justice to issue Warrants for apprehending and trying of Felonies, Burglary, Robbery, buring
+                                Houses or Canes, rebellious Conspiracies, or any other capital Offence, to associate another Justice. The
+                                associated Justices to summon Three Freeholders; proceed to Trial; shall give Sentence of Death,
+                                Transportation, Dismembering, or any other Punishment they shall think fit to inflict, and cause immediate
+                                Execution to be done (Women with Child only excepted). &amp;c. &amp;c.
+                            </p>
+                            <p><label>XXIV.</label> Slave compassing or imagining the Death of any White attained, by open Deed, before
+                                Two Justices, or Three Freeholders, to suffer Death: and petty Crimes, Trespasses, and Injuries shall be heard
+                                and determined by any of his Majesty's Justices.
+                            </p>
+                            <p><label>XXV.</label> Justice, Freeholder, or Marhsal, neglecting his Duty, forfeits 20l. Currency.</p>
+                            <p><label>XXVI.</label> Provided that when any of the above Crimes shall be committed by more than One Slave that shall
+                                deserve Death (Murder only excepted), only One of the Criminals shall suffer Death, as exemplary to the rest,
+                                who are to be returned to the Owners, after having received such Punishment as the Justices and Freeholders
+                                shall think fit to inflict. The Owner or Owners of the Slave or Slaves delivered back to bear proportionably the Loss
+                                of the Slave put to death, and the Damage done to the Parties injured, as shall be allotted by the Justices 
+                                and Freeholders.
+                            </p>
+                            <p><label>XXVII.</label>Justices may detain any Person's Goods who refuses to pay.</p>
+                            <p><label>XXVIII.</label> £100 Penalty on Persons concealing Slaves guilty of any capital Offences.</p>
+                            <p><label>XXIX.</label> Any White Servant taken stealing Wood, or Timber, or Bark, convicted before Two Justices, his
+                                Owner or Master shall forfeit 3l. Currency. If a Slave shall be so convicted, the Justices shall condemn him to
+                                serve the Owner or Proprietor of the Land Six Months, without any Satisfaction given to his Master.
+                            </p>
+                            <p><label>XXX.</label> If any Person shall kill a Slave, stealing or Running away, that shall by Night be found
+                                out of his Owner's Ground, Road, or Path, and refuseth to submit; such Person shall not be liable to
+                                any Damage or Action for the same.
+                            </p>
+                            <p><label>XXXI.</label> Justices and Vestery, &amp;c. shall appoint a certain Place in each Parish for the Trial of
+                                all capital Offences committed by Slaves, and a Record kept by the Clerk of the Peace, or Clerk of the Vestry,
+                                who is obliged to give his Attendance. Fees to be paid by the Parish, if the slave shall suffer Death, but by
+                                the Owner, if transported.
+                            </p>
+                            <p ana="#poison"><label>XXXII.</label> Slaves attempting to poison any Person, whatsoever, White or Black, Free or Slave,
+                                although the Poison were never takn, or if taken, Death did not ensue, the said Slave or Slaves, together with
+                                Accessaries, convicted before Two Justices and Three Freehorders, shall be adjudged guilty of Murder, and shall
+                                suffer Death by Hanging, Burning, or other Way or Means, as to the Justices and Freeholders shall seem most convenient.
+                            </p>
+                            <p><label>XXXIII.</label> Such as have been Slaves and made free, and such as are now Slaves, and shall hereafter be made free,
+                                for capital Offences to be tried and adjudged by this Act; and the Evidence of a Slave against them to be good 
+                                and valid to all Intents and Purposes.
+                            </p>
+                            <p><label>XXXIV.</label> Penalty of 40 Shillings on Owner, Overseer, or Commission Officer, suffering Drumming, or Meeting
+                                of any Slaves not belonging to their own Plantation, to rendezvous, revel, beat drum, or cause any other Disturbance 
+                                on Sundays or Holidays, whereby they have taken Liberty to contrive and bring to pass many of their bloody and inhuman
+                                Transactions;—but forthwith endeavours to disperse by himself, Overseer, or Servants; and not being able to 
+                                do it, to give Notice to next Commission-officer to raise a Number of Men sufficient to do it.
+                            </p>
+                            <p><label>XXXV.</label> Penalty of 40 Shilings on Persons permitting Slaves to hire out themselve, or hiring Slaves, except
+                                of their Masters, or permitting Slaves to travel, or Owners contracting with Slaves, for Liberty to employ 
+                                themselves as they shall think fit.
+                            </p>
+                            <p><label>XXXVI.</label> Slaves buying or sellign any Goods, but for their Owner's Use, or belonging to the Owner, expressed
+                                in a Ticket; on Complaint to a Justice, to be whipped by Order and at the Discretion of the Justicel and the Buyer or Seller
+                                shall forfeit 10 l.
+                            </p>
+                            <p><label>XXXVII.</label> Any Person willingly, wantonly, or bloody mindedly killing a Negro Slave, convicted by Verdict
+                                or Confession, in the Supreme Court of Judicature, shall be adjudged guilty of Felony for the First Offence, and have the
+                                Benefit of Clergy; but the Second shall be deemed Murder, and the Offender suffer according to Laws of England,
+                                Forfeiture of Lands, Tenements, Goods and Chattels only excepted.
+                            </p>
+                            <p><label>XXXVIII.</label> Masters of Boats, Wherries and Canoes at Port Royal, to give Bonds of 50 l. Sterling, not to carry a
+                                Negro without a Ticket.
+                            </p>
+                            <p><label>XXXIX.</label> Justices and Freeholders to do their Duty in the several Clauses in this Act when Martial Law
+                                shall happen to be in force, as they might have done in Time of Common Law.
+                            </p>
+                            <p><label>XL.</label> No Slave shall be free by becoming a Christian</p>
+                            
+                            <pb/>
+                            
+                            <p>For Payment of Debts and legacies, Slaves deemed and taken as all other Goods and Chattels are, in the
+                                Hands of the Executors or Administrators as many as are necessary to pay Debts and Legacies to be sold; and
+                                the remaining Slaves deemed as Inheritance, and shall accordingly descend. Children of Slaves shall remain or
+                                revert as their Parents do.
+                            </p>
+                            <p><label>XLI.</label> Slaves asigned for Dower, liable to pay debts but not Legacies.</p>
+                            <p><label>XLII.</label> Proviso, That nothing in this Act shall hinder any Person Possessed in his own Right
+                                of any Slave or Slaves, to sell, or by Gift otherwise dispose of them during his Life-time;
+                                which Sale, &amp;c. shall be a Bar to Claim of Dower.
+                            </p>
+                            <p><label>XLIII.</label> Legal Purchases of Slaves for good and valuable Considerations, good as if they
+                                had been by Deed in Writing.
+                            </p>
+                            <p><label>XLIV.</label> Books to be kept, wherein Entries shall be made by the Clerk of the Peace, or
+                                Vestry, of Slaves bought and sold.
+                            </p>
+                            <p><label>XLV.</label> All Masters and Mistresses, Owners, or in their Absence Overseers, shall as much as
+                                in them lies, endeavour the Instruction of their Slaves in the Principles of the Christian Religion,
+                                to facilitate their Conversion, and shall do their utmost to fit them for Baptism; and as soon as conveniently
+                                they can, shall cause to be baptised all such as they can make sensible of a Deity, and the Christian Faith.
+                            </p>
+                            <p><label>XLVI.</label> Justices, at the First Session in every Year, shall limit and appoint the Number of
+                                Holidays at Christmans, Easter, and Whitsuntide.
+                            </p>
+                            <p><label>XLVII.</label> The Justices shall publish this Act every First Sessions in the Year, under the Penalty
+                                of 10l.
+                            </p>
+                            <p><label>XLVIII.</label> Penalties how to be recovered; under 40 Shillings, by Warrant of Justice; above,
+                                by Action of Debt, Bill, Plaint, or Information, in any Court Record.
+                            </p>
+                            <p><label>XLIX.</label> Repeal of Two former Acts, One 25th Charles II, the other the 4th of James II.</p>
+                        </div>
+                        <div type="appendix">
+                            <head>1699. Act 40. An Act for raising Parties to suppress rebellious and runaway Negroes.</head>
+                            <p><label>I.</label> Preamble—Whereas the rebellious and runaway Negroes have of late murdered several of
+                                the Inhabitants thereof, as well White Persons as Negroes, plundered and destroyed many of the small and Out-
+                                settlements, Officers empowered to pursue and reduce them
+                            </p>
+                            <p><label>II.</label> Officers and Soldiers Pay.</p>
+                            <p><label>III.</label> Satisfaction to Ja Hammond.</p>
+                            <p><label>IV.</label>Payment for Slaves freed for Services done against the French.</p>
+                        </div>
+                        <div type="appendix">
+                            <head>1717. Act 64. repealed 1781. An Act for the more effectual punishing of Crimes committed by Slaves.</head>
+                            <p><label>I.</label>For the encouraging of the Discovery of Crimes committed by Slaves, Owner prosecuting 
+                                his Slave shall, if convicted capitally, recieve the Value of him.
+                            </p>
+                            <p><label>II.</label> Proviso, That no One Slave shall be appraised above the Sum of 40l. Currency.</p>
+                            <p><label>III.</label> Penalty on Commissioner not paying the Value to Owners of Slaves</p>
+                            
+                            <pb/>
+                            
+                            <p><label>IV.</label> No Slave shall be dismembered at the Will and Pleasure of his Master, Owner, or
+                                Employer, under Penalty of 100l. to be recovered in any Court of Record, against the Person
+                                who shall dismember, or order the dismembering of such Slave or Slaves; One Half to his 
+                                Majesty, the other Half to the Informer.
+                            </p>
+                            <p><label>V.</label> If a Slave haging been One whole Year in the Island, shall be absent himself
+                                from his Master for the Slace of Thirty Days, convicted by Two Justices of the Peace, and Three
+                                Freeholders, it shall and may be lawful for such Justices and Freeholders to order such Slave
+                                to be punished by cutting off one of the Feet of such Slave, or inflicting such other corporal
+                                Punishment, as they shall think fit. <note>Vide Code Noir, 1724. xxxii.</note>
+                            </p>
+                                <note>
+                                    <p>N.B. In the Year 1717, when this Law as passed, in the wild Negroes or Maroons were
+                                        in Possession of Three Twons in the mountainous Parts of the Island. The Treaty
+                                        with Cudjoe was not made till 1738, nor completed with Quaqo til 1740.
+                                    </p>
+                                    <p>The Laws of Ina are more severe; such as putting out Eyes, gelding, cutting off
+                                        Hands or Foot. Vide Dugdale, Origines Judicales, London, 1680. p. 88. See also the
+                                        33 Henry 8, c. 12. S. 27. the cutting off the Right hand for striking in the King's
+                                        Palace, and all the Formalities for carrying it into Execution.
+                                    </p>
+                                </note>
+                            <p><label>VI.</label> Slaves playing with Dice, Cards, or any other Game whereby any Profit or Gain can
+                                aris, on Complaint to a Justice, shall be whipped through the Town, or the most public Place in any
+                                Parish.
+                            </p>
+                            <p><label>VII.</label> Retailers of Rum and Punch not to suffer Slaves to game, or meet to drink therein, under
+                                Penalty of 40 Shillings.
+                            </p>
+                        </div>
                     </div>
                 </div>
             
