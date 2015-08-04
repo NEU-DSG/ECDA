@@ -351,7 +351,7 @@
                     <l>Suggenrit; atque epulas sine cæde et sanguine præbet.</l>
                  </lg>
               </quote>
-              <persName>Ovid</persName>. Met. L. Xv. v. 81, 82.
+              <persName ref="#ovid_0043">Ovid</persName>. Met. L. Xv. v. 81, 82.
            </note>
            <note xml:id="n065" target="#a065">
               <p><date when="-0509">509 years before the Christian æra.</date></p>
@@ -363,7 +363,7 @@
                     <l>Inque feras <unclear><!--  --></unclear> tempore deperit ullo.</l>
                  </lg>
               </quote>
-              <persName>Ovid</persName>. Met. L. XV. v. 167. 168.
+              <persName ref="#ovid_0043">Ovid</persName>. Met. L. XV. v. 167. 168.
            </note>
            <note xml:id="n067" target="#a067">
               <quote rend="quotes"><l>So let your dunger <emph>sucrid</emph> ben alite.</l></quote>
@@ -445,7 +445,7 @@
                     due proof being made of their being the head and hand of the said
                     <persName ref="#three_fingered_jack_0001"><hi rend="mixed"><mcr>Three fingered</mcr></hi> Jack</persName>.</p>
                     <closer>By the House,
-                    <signed><persName>Samuel Howell</persName>, Cl. Assem.</signed>
+                    <signed><persName ref="#samuel_howell_1723">Samuel Howell</persName>, Cl. Assem.</signed>
                     </closer>
                  </body>
               </floatingText>
@@ -490,7 +490,7 @@
            </byline>
               
            <docImprint rend="allcaps"><placeName rend="italic">London</placeName>:
-              Printed for <persName>G. C.</persName> and <persName>J. Robinson</persName>, <!-- possibly G. G.? -->
+              Printed for <persName ref="#george_robinson_1736">G.</persName> <persName ref="#george_robinson_0002">G.</persName> and <persName ref="#john_robinson_1753">J. Robinson</persName>, 
               <placeName>Paternoster-Row</placeName>
               
               <date when="1799">MDCCXCIX</date>.
@@ -529,12 +529,12 @@
                </row>
                <row role="data">
                   <cell role="data"><distinct type="dialect" xml:lang="la">Canna Mellea</distinct>.</cell>
-                  <cell role="data"><bibl><author><persName>Cæsalpin</persName></author>, <title rend="italic">Hiſt. Plant</title>.
+                  <cell role="data"><bibl><author><persName ref="#andrea_cesalpino_1519">Cæsalpin</persName></author>, <title rend="italic">Hiſt. Plant</title>.
                   <hi rend="italic">p</hi>. 182.</bibl></cell>
                </row>
                <row role="data">
                   <cell role="data"><distinct type="dialect" xml:lang="la">Canna Saccharifera</distinct>.</cell>
-                  <cell role="data"><bibl><author><persName>Ogilby</persName></author>, <title rend="italic">Chin</title>. I. 228.</bibl></cell>
+                  <cell role="data"><bibl><author><persName ref="#ogilby_0001">Ogilby</persName></author>, <title rend="italic">Chin</title>. I. 228.</bibl></cell> <!-- can we locate this person? -->
                </row>
                <row role="data">
                   <cell role="data"><distinct type="dialect" xml:lang="la">Canna Saccharina</distinct>.</cell>
@@ -565,7 +565,7 @@
                <row role="data">
                   <cell role="data"><distinct type="dialect" xml:lang="la">Saccharum floribus pa-
                      niculatis</distinct>.</cell>
-                  <cell role="data"><bibl><author><persName>Lin.</persName></author> <title rend="italic">Sp. P.</title>.</bibl></cell>
+                  <cell role="data"><bibl><author><persName ref="#carl_linnaeus_1707">Lin.</persName></author> <title rend="italic">Sp. P.</title>.</bibl></cell>
                </row>
                <row role="data">
                   <cell role="data"><distinct type="dialect">Tacomareé, five Arun-
@@ -1240,7 +1240,7 @@
                from place to place, and varied, and cultivated,
                on physical principles, by philosophers.
             </p>
-            <p>In <placeName>England</placeName>, the <persName><hi rend="mixed">Duke of</hi> <placeName>Bedford</placeName></persName>, and <persName ref="#thomas_coke_1754"><hi rend="mixed">Mr.</hi>
+            <p>In <placeName>England</placeName>, the <persName ref="#francis_russell_1765"><hi rend="mixed">Duke of</hi> <placeName>Bedford</placeName></persName>, and <persName ref="#thomas_coke_1754"><hi rend="mixed">Mr.</hi>
                Coke</persName>, have distinguished themselves in this kind
                of knowledge; and have rendered the most essential
                services to their country.
@@ -1309,10 +1309,10 @@
             </quote>
             <p>The method of propagating the <ecda:flora>sugar cane</ecda:flora>
                is by cuttings from the top of it, and we know 
-               of no other method; though <persName><hi rend="mixed">Mr.</hi> Bruce</persName> says,
+               of no other method; though <persName ref="#james_bruce_1730"><hi rend="mixed">Mr.</hi> Bruce</persName> says,
                In <placeName>Abyssinia</placeName> it is raised from the seed. Of this
                fact we have no example; and it is thought
-               that <persName><hi rend="mixed">Mr.</hi> Bruce</persName> is mistaken in this matter.
+               that <persName ref="#james_bruce_1730"><hi rend="mixed">Mr.</hi> Bruce</persName> is mistaken in this matter.
             </p>
             
             <pb/>
@@ -1360,7 +1360,7 @@
                <name>European</name> who explored the country adjacent
                to the lower parts of that river.
             </p>
-            <p><persName>Francis Ximenes</persName>, in his treatise on the
+            <p><persName ref="#francis_ximenes_0001">Francis Ximenes</persName>, in his treatise on the
                plants of <placeName>America</placeName>, says the sugar cane grows
                spontaneously near the <placeName rend="italic">Rio della Plata</placeName>; this is
                also asserted by <persName ref="#francisco_hernandez_de_toledo_1514">Hernandes</persName> and <persName ref="#willem_piso_1611">Piso</persName>. This
@@ -1442,7 +1442,7 @@
                the <name>English</name> in <date when="1660">1660</date>; and <ecda:commodity>sugar</ecda:commodity> first made in
                <date when="1664">1664</date>. But some plantations were made there
                while it was in possession of the <name>Spaniards</name>, by
-               <persName>Esquirnel</persName>, a <rs type="properAdjective">Spanish</rs> governor, under <persName ref="diego_columbus_1479">Diego
+               <persName ref="#juan_de_esquivel_0001">Esquirnel</persName>, a <rs type="properAdjective">Spanish</rs> governor, under <persName ref="diego_columbus_1479">Diego
                Columbus</persName>, son of the renowned <persName ref="#christopher_columbus_1450">Columbus</persName>;
                who brought the plants from <placeName>St. Domingue</placeName>.
                There were in <placeName>Jamaica</placeName>, on the arrival of the
@@ -1471,7 +1471,7 @@
                by the <name>Portuguese</name> in <date when="1405">1405</date>, sugar was made
                much earlier than in the <placeName>West Indies.</placeName>
             </p>
-            <p><persName>Dapper</persName> says (page 491) that the <name>Portuguese</name>
+            <p><persName ref="#olfert_dapper_1636">Dapper</persName> says (page 491) that the <name>Portuguese</name>
                had sixty-one sugar works in this island, before
                the <name>Dutch</name> destroyed them in the year <date when="1610">1610</date>.
             </p>
@@ -1547,7 +1547,7 @@
                second book of his second <title>Decad</title>, speaking of
                the improvements and cultivation carried to
                that island by the <rs type="properAdjective">Jeronimite</rs> friers, says, <quote rend="quotes">One
-               <persName>Aquilon</persName>, and inhabitant of the great plain, carried 
+               <persName>Aquilon</persName>, an inhabitant of the great plain, carried 
                thither, in the year <date when="1506">1506</date>, some sugar
                canes from the <placeName>Canaries</placeName>, and planted them;
                the same answering well, the fathers ordered
@@ -3455,13 +3455,13 @@
                   bitter principle, it must follow, if bitter things,
                   according to universal suffrage, absorb and
                   deterge superfluous humours, expel putrefaction,
-                  and preserve bodies soud for a great
+                  and preserve bodies sound for a great
                   while, that sweet things, from their opposite
                   qualities, must be the fruitful parent of putrescence;
                   and which must necessarily be more active
                   in their effects when a part is attacked not
                   endowed with the power of concoction; and
-                  from which afterwards it it not possible to remove
+                  from which afterwards it is not possible to remove
                   the disease.</quote>
                </p>
                <p><quote rend="prequotes" xml:id="q024" next="#q025" ana="#medical">It is certain there is no fermentation, or
@@ -3469,7 +3469,7 @@
                   agree in their qualities, ans sugar and flesh; on
                   account of the sweetness and balsamic quality
                   of sugar and the sweet essence of flesh, which
-                  assimilate with each other; for, if a peice of
+                  assimilate with each other; for, if a piece of
                   raw meat be put in sugar, it soon becomes putrid,
                   unless the sugar should have been first 
                
@@ -3521,7 +3521,7 @@
                <p><quote rend="quotes" xml:id="q028">It is therefore clearer than the light that
                   sugar is not a nourishment, but an evil; not a
                   preservative, but a destroyer; and should be
-                  sent back to the <placeName>Indies</placeName>, becore the discovery of
+                  sent back to the <placeName>Indies</placeName>, before the discovery of
                   which, probably consumption of the lungs
                   was not known, but brought to us with these
                   fruits of our enterprize.</quote>
@@ -3696,7 +3696,7 @@
                   indispositions that were destitute of adoption.
                </p>
                <p ana="#medical #disease">Consumption of the lungs, and every other
-                  species of scrophyla, are endimal in <placeName>England</placeName>.
+                  species of scrophyla, are endemial in <placeName>England</placeName>.
                   Scurvy is the same. This disease, which 
                   made so much havoc in the last century, is
                   now scarcely known in <placeName>England</placeName>.
@@ -3704,7 +3704,7 @@
                <p ana="#medical #disease">The scurvy, like any sporadic disease, may
                   have its revolutions, and appear and disappear
                   in the character of an epidemic. I do not
-                  speak of scurvy aquired by local and particular
+                  speak of scurvy acquired by local and particular
                   causes.
                </p>
                <p>It is incredible that <persName ref="#thomas_willis_1621">Willis</persName> and <persName ref="john_ray_1627">Ray</persName>, two
@@ -3863,8 +3863,8 @@
                   and stomach moister than sugar does. Put
                   into the eyes, in fine powder, it takes away
                   their dimness, and heals them being bloodshot;
-                  it cleanses old sored, being strewed gently on
-                  them</quote> <bibl rend="italic"><title>Histoire géneéral de Drogues</title>, Lib II.
+                  it cleanses old sores, being strewed gently on
+                  them</quote> <bibl rend="italic"><title>Histoire général de Drogues</title>, Lib II.
                   cap. 38, anno 1694.</bibl>
                </p>
                <p><persName ref="#nicolas_lemery_1645">Lemery</persName> gives nearly a similar account of
@@ -3926,7 +3926,7 @@
                </p>
                <p><persName ref="#etienne_geoffroy_saint_hilaire_1772">Geoffroy</persName> says,
                   <quote rend="prequotes" xml:id="q047" next="#q048">Sugar, taken moderately with food, affords
-                  good nourishment. It promotes concontion,
+                  good nourishment. It promotes concoction,
                   if after a full meal a lump of it be eaten.</quote>
                </p>
                <p><quote rend="prequotes" xml:id="q048" next="#q049" ana="#medical">Almost all physicians recommend it in
@@ -4029,7 +4029,7 @@
                   infants; of which to defraud them is a very
                   cruel thing, if not a crying sin. The argument
                   I bring from Nature's first kind tribute,
-                  or inteded food for children, so soon as they
+                  or intended food for children, so soon as they
                   are born; which is, that fine juice or liquor
                   prepared in the mother's breasts, called breast-
                   milk, of a fine delicate sweet taste. This sweet is
@@ -4052,7 +4052,7 @@
                <pb/>
                <fw type="pageNum">107</fw>
                
-                  drinkers. I asked him how he ws able to bear
+                  drinkers. I asked him how he was able to bear
                   it. He told me that he received much damage in
                   his health, and was apt to be fuddled, before
                   he used to dissolve sugar in his wine; from
@@ -4111,7 +4111,7 @@
                </p>
                <p>Sugar is an essential salt, consisting of an 
                   acid salt, oil, and earth. It shews no signs of
-                  acid or alcali. It takes flame, and brurns
+                  acid or alcali. It takes flame, and burns
                   brightly. It dissolves easily in acqueous menstrua,
                   but not in spiritous or oily. Dissolved 
                   in water, it undergoes fermentation, and
@@ -4132,14 +4132,14 @@
                   warmth of the situation where it is placed, it
                   will produce a strong vinous liquor, not unlike
                   honey and water. This liquor distilled yields
-                  a strong ardent spirit. If the whole fermeting
+                  a strong ardent spirit. If the whole fermenting
                   materials be exposed longer to a continued
                   heat, a strong vinegar, like that of wine, will
                   be produced; by the liquor changing from its
                   vinous to its acetous state.
                </p>
                <p>Among more recent chemical investigation,
-                  and in the higher elementary brances of
+                  and in the higher elementary branches of
                   chemical science, discoveries have been made
                   important to arts and manufactories; and also
                   for the œconomical purposes of life. <ecda:commodity>Sugar</ecda:commodity> 
@@ -4220,7 +4220,7 @@
                   of abridging the number of depurations.
                </p>
                <p><label>H</label> To obtain, therefor, one part of 
-                  this salt, there ar required 3 of sugar, and 30
+                  this salt, there are required 3 of sugar, and 30
                   of nitrous acid. Thus it may be reckoned
                   among the most expensive slats hitherto
                   known.
@@ -4247,11 +4247,11 @@
                   acid, prismaticallly crystallized; but at
                   the same time the solution, even to the last,
                   separates a saccharated lime, which, when
-                  collected, weighs 11, and containts about 5 of the
+                  collected, weighs 11, and contains about 5 of the
                   acid of sugar: 8 parts of highly-rectified spirit
                   of wine, with 24 of nitrous acid, yield 3 of a 
                   saccharine acid, but, for the most part, in a
-                  squamous form, and loaded with much mosture;
+                  squamous form, and loaded with much moisture;
                   besides, honey, and whatever substance
                   contains sugar, in the same way, produces the
                   same acid; although acid of tartar, dissolved 
@@ -4361,7 +4361,7 @@
                         water; which could not possibly be the case if
                         there were present any lime, either crude or
                         united with the saccharine acid; as either of 
-                        these substances, wheter alone or mixed with
+                        these substances, whether alone or mixed with
                         sugar, is utterly insoluble in water.
                      </p>
                      
@@ -4394,14 +4394,14 @@
                         evidently do upon the addition of the smallest 
                         particle of nitrous.
                      </p>
-                     <p>The nitrous acid corrodes tin and antimoney,
+                     <p>The nitrous acid corrodes tin and antimony,
                         but scarcely dissolves them; while acid
                         
                         <pb/>
                         <fw type="pageNum">117</fw>
                         
-                        of sugar readily actus upon them: phlogisticated
-                        nitrous acid, united with vegetabe fixed
+                        of sugar readily acts upon them: phlogisticated
+                        nitrous acid, united with vegetable fixed
                         alkali, deliquesces, does not form crystals, and
                         is readily expelled by vinegar, or even by acid
                         of sugar, still more loaded with phlogiston:
@@ -4464,7 +4464,7 @@
                         (which is yet contradicted by daily observation)
                         had neglected the examination of those
                         acids, considering them as subordinate and
-                        derivative, whe should be to this day ignorant of
+                        derivative, we should be to this day ignorant of
                         many singular facts, which, by degrees, were
                         discovered; principally because many considered
                         
@@ -4527,7 +4527,7 @@
                      it is at present known, that a great number of
                      vegetables, which are not saccharine, afford it
                      in greater abundance: such are gums, starch,
-                     vegetable gluten, salt of forrel, lemon juice,
+                     vegetable gluten, salt of sorrel, lemon juice,
                      spirit of wine, and animal matter, as <persName ref="#claude_louis_berthollet_1748">M.
                      Berthollet</persName> has discovered.
                   </p>
@@ -4536,7 +4536,7 @@
                   <fw type="pageNum">121</fw>
                   
                   <p>Among these substances, those which produce
-                     the greatist quantity of this peculiar acid,
+                     the greatest quantity of this peculiar acid,
                      by the action of spirit of nitre, are such as do
                      not afford sugar.
                   </p>
@@ -4591,15 +4591,15 @@
                <quote rend="bestow-quotes">
                   <p>In some parts of <placeName>North America</placeName>,
                      particularly <placeName>Canada</placeName>, a kind of sugar is prepared
-                     from the juice which issues upon woulding or
+                     from the juice which issues upon wounding or
                      boring certain species of the maple tree, one of
-                     which is named from ence the sugar-maple;
+                     which is named from hence the sugar-maple;
                      as also from the wild or <ecda:flora>black birch</ecda:flora>, the <ecda:flora>honey
                      locust</ecda:flora>, and the <ecda:flora>hickery</ecda:flora>. The <ecda:flora>maple</ecda:flora> is most
                      commonly made use of for this purpose, as
                      being the richest, and as best enduring the long
                      and severe Winters of that climate. The juice
-                     is boiled down, without any additon, to a
+                     is boiled down, without any addition, to a
                      thick consistence, then taken from the fire, kept
                      stirring until its heat is abated, and set in a
                      cold place, where the sugar quickly concretes
@@ -4614,7 +4614,7 @@
                      about the time the snow begins to melt. It is
                      observable, that when the weather begins to
                      grow warm they bleed no more; and that after
-                     the beeding has stopped they begin to run
+                     the bleeding has stopped they begin to run
                      again upon covering the roots with snow. The
                      more severe the Winter has been, the juice is
                      found to be richer, and in greater quantity.
@@ -4750,7 +4750,7 @@
                <pb/>
                <fw type="pageNum">127</fw>
                
-               <p>As a veerb in the <name>Hebrew</name> <distinct type="dialect" xml:lang="he" rend="upright">קגה</distinct>, <distinct type="dialect" rend="italic">kanah</distinct> is, to
+               <p>As a verb in the <name>Hebrew</name> <distinct type="dialect" xml:lang="he" rend="upright">קגה</distinct>, <distinct type="dialect" rend="italic">kanah</distinct> is, to
                   buy, procure, possess. <distinct xml:lang="he" type="dialect" rend="upright">קגה</distinct> as a noun, property
                   which is purchased, or possessed. It is 
                   likewise a spear<anchor xml:id="a037" corresp="#n037"/>, a staff<anchor xml:id="a038" corresp="#n038"/>, a reed, or rush<anchor xml:id="a039" corresp="#n039"/>;
@@ -4782,7 +4782,7 @@
                   instances; and in none is it possible that the
                   <distinct type="dialect" rend="italic">sugar cane</distinct> could be meant by it.
                </p>
-               <p>In the preceding chaper in <title>Exodus</title> we
+               <p>In the preceding chapter in <title>Exodus</title> we
                   find,—
                   <quote xml:lang="he">קגה בשם וקגטן בשם</quote>
                   <quote rend="italic">Kaneh besem, and kinemon besem.</quote>
@@ -4849,10 +4849,10 @@
                <pb/>
                <fw type="pageNum">130</fw>
                
-               <p>The Septuagint has the part of the vers I
+               <p>The Septuagint has the part of the verse I
                   have quoted from the <name>Hebrew</name>, <distinct xml:lang="el" type="dialect" rend="upright">κινναμωμον</distinct>
                   <quote rend="italic"><hi rend="upright"><distinct rend="smallcaps">Cinnamon</distinct></hi> from a far country</quote>. In
-                  the <rs type="properAdjective">Latin</rs> verions it is rendered <quote xml:lang="la" rend="italic">calamus
+                  the <rs type="properAdjective">Latin</rs> versions it is rendered <quote xml:lang="la" rend="italic">calamus
                   suaveolens de terra longinqua</quote>; and <quote xml:lang="la" rend="italic">cinnamomum de
                   terra longinqua</quote>; and <quote xml:lang="la" rend="italic">calamus aromaticus de terra
                   longinqua.</quote>
@@ -4911,7 +4911,7 @@
                   throughout their generations
                </p>
                <p><persName ref="#moses_0001">Moses</persName>, in this remarkable chapter, mentions
-                  also the other compositon, so venerated by the
+                  also the other composition, so venerated by the
                   <name>Israelites</name>. This is the <distinct type="religious" rend="italic">Holy Perfume</distinct>; which,
                   he says, God directed him to make in the 
                   
@@ -4962,7 +4962,7 @@
                <p>It seems to have arisen from the perverseness
                   among <name>Christians</name>, hatred to the <name>Jews</name>, and
                   disrespect to <persName ref="#moses_0001">Moses</persName>, who knew all sciences
-                  and was an excellent physican, that they have
+                  and was an excellent physician, that they have
                   profited so little by the several wise practices, as
                   well as precepts, in the Bible. The papistical
                   <name>Christians</name>, it is true, burn frankincense in
@@ -4978,7 +4978,7 @@
                <p>In <placeName>England</placeName> the <name>Christians</name> are much cleaner
                   than they used to be. They would now call
                   a man,—
-                  <quote rend="block">Misbeliever, cut-throat dog, and sipit upon his gaberdine<anchor xml:id="a045" corresp="#n045"/>,</quote>
+                  <quote rend="block">Misbeliever, cut-throat dog, and spit upon his gaberdine<anchor xml:id="a045" corresp="#n045"/>,</quote>
                   
                   <pb/>
                   <fw type="pageNum">134</fw>
@@ -5005,7 +5005,7 @@
                   was not only aromatic, but precious, from the
                   epithets given to it, and from its uses among
                   the chosen people, and the estimation in which
-                  it ws said to be holden by God.
+                  it s said to be holden by God.
                </p>
                <p>The epithet <distinct xml:lang="he" type="dialect" rend="upright">בשם</distinct> imports <emph>spicey, sweet scented</emph>,
                   not <emph>sweet tasted</emph>; therefore the sugar cane is
@@ -5068,7 +5068,7 @@
                   drink to excess, to be drunk; to hire for wages.
                </p>
                <p>As a noun, it forms various derivatives;
-                  but it is chiefly used for some exhilerating,
+                  but it is chiefly used for some exhilarating,
                   strong, and intoxicating liquor. Our <rs type="properAdjective">English</rs>
                   Bible every where denominates it, <quote rend="quotes">strong
                   drink.</quote>
@@ -5208,7 +5208,7 @@
                   scarcely any thing but water.
                </p>
                <p><ecda:food>Milk</ecda:food> is nutritious on the same account; and
-                  that milk is most nutritous which most abounds
+                  that milk is most nutritious which most abounds
                   with saccharine sweetness; and when milk is
                   defective in this quality, from bad pasturage
                   and other causes, our vegetable sugar should
@@ -5278,7 +5278,7 @@
                   this<anchor xml:id="a056" corresp="#n056"/>; but my authority is my own observation.
                </p>
                <p>In the <placeName>West Indies</placeName>, the negro children, from
-                  crudes vegetable diet, are much afflicted with
+                  crude vegetable diet, are much afflicted with
                   worms. In crop-time, when the canes are
                   ripe, these children are always sucking them.
                   Give a negro infant a piece of sugar cane to
@@ -5301,7 +5301,7 @@
                   fat and sleaky.
                </p>
                <p>The restorative power of sugar, in wasted
-                  and decayed habtis, is recorded by several
+                  and decayed habits, is recorded by several
                   physicians, in different parts of the world. I
                   have known many people, far advanced in
                   pulmonary consumption, recovered by the 
@@ -5371,7 +5371,7 @@
                   term ptisans, and medicated syrups.
                </p>
                <p>The balsamic and fattening properties of <ecda:commodity>sugar</ecda:commodity>
-                  ar more prominently visible in all parts of the
+                  are more prominently visible in all parts of the
                   world where it is made; and not confined to
                   the human race.
                </p>
@@ -5390,7 +5390,7 @@
                
                <p>He says,—<quote rend="quotes">so palatable, salutary, and
                   nourishing is the juice of the cane, that every
-                  individual of the animla creation, drinking
+                  individual of the animal creation, drinking
                   freely of it, derives health and vigour from its
                   use. The meagre and sickly among the <name>negroes</name>
                   exhibit a surprising alteration in a few 
@@ -5428,10 +5428,10 @@
                </p>
                <p>The superiority of sugar would soon be
                   discovered by observing physicians, as being
-                  exempt from the uncertain, and someties
+                  exempt from the uncertain, and sometimes
                   dangerous effects of honey.
                </p>
-               <p ana="#medical #poison">There are many peope whom a tea-spoonful
+               <p ana="#medical #poison">There are many people whom a tea-spoonful
                   of honey will disorder. In some habits,
                   even that quantity will cause violent pains in
                   the stomach and bowels; and will act as an
@@ -5455,7 +5455,7 @@
                   <pb/>
                   <fw type="pageNum">147</fw>
                   
-                  excapted the same fate, with great difficulty,
+                  escaped the same fate, with great difficulty,
                   after vomiting of blood, and convulsions.
                </p>
                <p>The cause of what is considered as the poison
@@ -5481,8 +5481,8 @@
                   current can break their hold.
                </p>
                <p>These filaments issue from an hard cartilaginous
-                  sobstance, at the root of what is commonly
-                  caled the tongue of the muscle, in the
+                  substance, at the root of what is commonly
+                  called the tongue of the muscle, in the
                   middle of its body.
                </p>
                <p>That <ecda:food ana="#poison">honey</ecda:food> should sometimes produce the
@@ -5497,7 +5497,7 @@
                   depends on the quality of his materials.
                </p>
                <p>Hence it is that honey in different countries
-                  divvers so much in flavour, and consequently in
+                  differs so much in flavour, and consequently in
                   wholesomeness.
                </p>
                <p>They <ecda:food ana="#poison">honey</ecda:food> of some countries is poisonous to
@@ -5540,7 +5540,7 @@
                   and perish by convulsions, where no cause
                   is known or suspected!
                </p>
-               <p>Sudden illness not to be difined,—and sudden
+               <p>Sudden illness not to be defined,—and sudden
                   death, without any previous indisposition,
                   or traceable vestiges on dissection after death,
                   —are subjects on which little has been said,
@@ -5563,7 +5563,7 @@
                </p>
                
                <pb/>
-               <fw type="pageNum">50</fw>
+               <fw type="pageNum">150</fw>
                
                <p><ecda:flora ana="#food #poison">Rhubarb</ecda:flora>, among several articles which
                   might be mentioned, violently disorders some
@@ -5579,7 +5579,7 @@
                <p>Even <ecda:food ana="#poison">manna</ecda:food> sometimes acts as a poison.</p>
                <p>My motives here are not to enumerate the 
                   dangerous consequences and solitary instances
-                  of singular antipaty: otherwise, charges 
+                  of singular antipathy: otherwise, charges 
                   might be brought against every article,
                   constituting our daily food.
                </p>
@@ -5646,7 +5646,7 @@
                <p><persName ref="#frederick_slare_1647">Slare</persName> says, his grandfather <persName rend="mixed">Mr. <mcr>Malory</mcr></persName> was
                   strong and chearful in his eighty second year;
                   at which time his hair changed somewhat dark;
-                  his old teeth came out, pushed away by yong
+                  his old teeth came out, pushed away by young
                   ones; which continued so to do, until he had
                   a new set of teeth compete. He lived easy,
                   and free from pain, or sickness, until his
@@ -5841,7 +5841,7 @@
                   their support.
                </p>
                <p>From the loss of <ecda:commodity>sugar</ecda:commodity>, many articles and
-                  vegetable mixtures, which now consitute the
+                  vegetable mixtures, which now constitute the
                   most agreeable and most wholesome parts of
                   the food, particularly of youth and delicate
                   people, would be useless; and for which we
@@ -5956,10 +5956,10 @@
                   in those of <name>Indians</name>; and people living in a state
                   of nature, without foreign communication: and
                   this likewise appears, in great degree, among
-                  artificers and manufacterers, and such as 
+                  artificers and manufacturers, and such as 
                   cannot deviate in habit.
                </p>
-               <p>In commercial countires, where articles of 
+               <p>In commercial countries, where articles of 
                   foreign growth, and dissimilar climates enter
                   into dietetic use, wit the generality of a people,
                   it is impossible that the type of their 
@@ -6024,7 +6024,7 @@
                   says, were <quote rend="quotes">wild, with horns on their heads,
                   very hideous and speak not; but rout as swine<anchor xml:id="a071" corresp="#n071"/>.</quote>
                </p>
-               <p ana="#disease #medical">Wonderful things to certainly apear in all
+               <p ana="#disease #medical">Wonderful things to certainly appear in all
                   ages; the great <persName ref="#desiderius_erasmus_1466">Erasmus</persName> mentions a man, one
                   <persName>Philario</persName>, an <name>Italian</name>, who in <placeName>Holland</placeName> was very
                   much afflicted with worms. While the worms 
@@ -6148,7 +6148,7 @@
                <pb/>
                <fw type="pageNum">167</fw>
                
-               <p ana="#disease">The <distinct type="scientific" rend="italic">yaws</distinct> differs althogether from every other
+               <p ana="#disease">The <distinct type="scientific" rend="italic">yaws</distinct> differs altogether from every other
                   disorder, in its origin, progress, and
                   termination.
                </p>
@@ -6186,7 +6186,7 @@
                <fw type="pageNum">168</fw>
                
                <p ana="#disease">The <distinct type="scientific" rend="italic">common yaws</distinct>, without fever or
-                  indispositon, begins with small pimples, which soon
+                  indisposition, begins with small pimples, which soon
                   increase, and appear in round, white, flabby,
                   eruptions, from about the size of a pea to that
                   of a large strawberry, separately, or in clusters,
@@ -6221,7 +6221,7 @@
                   dangerous. It was then the custom, when a
                   <name>negro</name> was attacked with it, to separate him
                   from the rest, and send him to some lonely
-                  place by the sea sied, to bathe; or into the
+                  place by the sea side, to bathe; or into the
                   mountains, to some Provision Ground, or Plantain
                   Walk; where he could act as a watchman,
                   and maintain himself, without any expence
@@ -6368,7 +6368,7 @@
                   of Ideas, the origin of which, is in the centre
                   of <placeName>Africa</placeName>.
                </p>
-               <p>I saw the <name rend="smallcaps">Obi</name> of the famous negroe robber,
+               <p>I saw the <name rend="smallcaps">Obi</name> of the famous negro robber,
                   <persName ref="#three_fingered_jack_0001"><hi rend="mixed"><mcr>Three fingered</mcr></hi> Jack</persName>, the terror of <placeName>Jamaica</placeName> in
                   <date from="1780" to="1781">1780 and 1781</date>. The <ecda:persGroup a-gender="male" a-aig="maroon" ref="#james_reeder_mos_0001 #sam_mos_0001">Maroons</ecda:persGroup> who slew him
                   brought it to me.
@@ -6430,7 +6430,7 @@
                   his own to carry, without loading him with
                   the sins of others. He would sooner have
                   made a <rs type="properAdjective" rend="italic">Medean</rs> cauldron for the whole island,
-                  than disurb one lady's happiness. He had
+                  than disturb one lady's happiness. He had
                   many opportunities; and, though he had a
                   mortal hatred to white men, he was never
                   known to hurt a child, or abuse a woman.
@@ -6496,7 +6496,7 @@
                <p><persName ref="#three_fingered_jack_0001">Jack's</persName> looks were fierce and terrible. He 
                   told them he would kill them.
                </p>
-               <p ana="#religion"><persName ref="#james_reeder_mos_0001">Reeder</persName>, instad of shooting <persName ref="#three_fingered_jack_0001">Jack</persName>, replied,
+               <p ana="#religion"><persName ref="#james_reeder_mos_0001">Reeder</persName>, instead of shooting <persName ref="#three_fingered_jack_0001">Jack</persName>, replied,
                   that his <name>Obi</name> had no power to hurt him; for
                   he was christianed; and that his name was no
                   longer <persName ref="#james_reeder_mos_0001">Quashee</persName>.
@@ -6508,7 +6508,7 @@
                   several years before, in the woods; in which
                   conflict <persName ref="#three_fingered_jack_0001">Jack</persName> lost the two fingers, which was
                   the origin of his present name; but <persName ref="#three_fingered_jack_0001">Jack</persName> then
-                  beat <persName ref="#james_reeder_mos_0001">Reeder</persName>, and almost killed him with
+                  beat <persName ref="#james_reeder_mos_0001">Reeder</persName>, and almost killed him with se-
                   
                   <pb/>
                   <fw type="pageNum">178</fw>
@@ -6648,11 +6648,11 @@
                   knowing more how it cane, or went away,
                   than we do when it will return.
                </p>
-               <p>This is a subject of concern; but not of surpries
+               <p>This is a subject of concern; but not of surprise
                   Veteran physicians in times of danger
                   generally desert the field; intrench themselves
                   far off, behind old books, and leave raw
-                  recruets to fight the foe: who, experienced
+                  recruits to fight the foe: who, experienced
                   in the tactics of the physic, seldom escape the 
                   recoil of their own artillery; and fall with their
                   patients.
@@ -6711,7 +6711,7 @@
                   <date when="1713">1713</date>, in <placeName>Dantzig</placeName>, <placeName>Hamburg</placeName>, and <placeName>Stockholm</placeName>;
                   all broke out during the frost in winter; and
                   most of them declined with the summer heat.
-                  Such was the case with the plauge at <placeName>Toulon</placeName>,
+                  Such was the case with the plague at <placeName>Toulon</placeName>,
                   in <date when="1721">1721</date>; and so it is with the plagues at
                   <placeName>Constantinople</placeName>, and <placeName>Cairo</placeName>, when they make their
                   appearance in February.
@@ -6744,9 +6744,9 @@
                <p ana="#disease">The cause of a pestilence in summer, may be
                   in the changes which the earth, and consequently
                   its surrounding atmosphere, underwent
-                  in the preceding wingerl and from 
+                  in the preceding winter and from 
                   combinations, perhaps, far beyond our scope of
-                  thought, for years prepatory to its eruption.
+                  thought, for years preparatory to its eruption.
                </p>
                <p>In a new country like <placeName>North America</placeName>, where
                   immense districts of the surface of the earth,
@@ -6789,7 +6789,7 @@
                   <distinct type="scientific" rend="italic">Yellow Fever</distinct> there, was imported in the 
                   beginning of the century from <placeName rend="italic">Siam</placeName>. That it was
                   a contagious, and an original putrid disease;
-                  and that bleeing was death. In my practice
+                  and that bleeding was death. In my practice
                   I proved the reverse of all this.
                </p>
                <p ana="#disease">The cause of pestilential epidemics, cannot
@@ -6803,7 +6803,7 @@
                   only great towns and cities, may be, that
                   the atmosphere, which I conceive to be the
                   universal propagator of pestilence, wants a
-                  commixture, or union, with some compaounded,
+                  commixture, or union, with some compounded,
                   
                   <pb/>
                   <fw type="pageNum">186</fw>
@@ -6833,7 +6833,7 @@
                <p>The skin is covered with the extremities of
                   fibres, nerves, and vessels;—these are in the
                   most exposed situation, with the least power
-                  of resistng external injury.—Hence a destruction,
+                  of resisting external injury.—Hence a destruction,
                   or a privation of their elasticity, and
                   restraining power, from a poisoned atmosphere.
                   —And hence I conceive that the first blow in
@@ -6870,7 +6870,7 @@
                   purging, before the fluids have burst their
                   confines, and dissolved their bond of union
                   with the solids.—The next step is to regain
-                  the lost energy of the sruface of the body,
+                  the lost energy of the surface of the body,
                   by exciting perspiration; and then of the
                   whole system, by tonics.
                </p>
@@ -6902,7 +6902,7 @@
                   have been found to propagate, or believe the
                   well-known and favourite story of the advocates
                   for <persName ref="#richard_mead_1673">Mead's</persName> theories,—that a lady was
-                  killed isntantly by smelling at a <rs type="properAdjective">Turkey</rs>-
+                  killed instantly by smelling at a <rs type="properAdjective">Turkey</rs>-
                   handkerchief; and a gentleman by only walking
                   over a <rs type="properAdjective">Turkey</rs>-carpet!
                </p>
@@ -6971,7 +6971,7 @@
                   <rs>English-West-Indian</rs> literature, <persName ref="#edward_long_1734"><hi rend="mixed">Mr</hi>. Edward
                   Long</persName>; and, since his invaluable publication,
                   we have the learned, and comprehensive 
-                  view of those countires by <persName ref="#bryan_edwards_1743"><hi rend="mixed">Mr</hi>. Bryan
+                  view of those countries by <persName ref="#bryan_edwards_1743"><hi rend="mixed">Mr</hi>. Bryan
                   Edwards</persName>.
                </p>
                <p>These enlightened historians have left scarcely
@@ -7032,7 +7032,7 @@
      <back>
         <div type="appendix">
            <head>An Account of the Quantity of <rs type="properAdjective">British</rs> Plantation Sugar Annually Imported into <placeName>Great Britain</placeName>; with the
-              <gap extent="1word"/> <unclear reason="flawed-reproduction">annuities</unclear> paid thereon, from the year <date from="1764" to="1791">1764 to 1791</date>, buth inclusive. Also, an Account of the Quantity of Raw and Refined
+              <gap extent="1word"/> <unclear reason="flawed-reproduction">annuities</unclear> paid thereon, from the year <date from="1764" to="1791">1764 to 1791</date>, both inclusive. Also, an Account of the Quantity of Raw and Refined
               Sugars Exported from <placeName>Great Britain</placeName> in the above periods; with the amount of Drawbacks and Bounties paid thereon,
               distinguishing each year, and the Raw from the Refined; distinguishing also the quantities exported to <placeName>Ireland</placeName>.
            </head>
@@ -8785,7 +8785,7 @@
                  <cell>3,854,204</cell>
               </row>
            </table>
-           <p>N.B. the total of shipts cleared outwards from <placeName>England</placeName> and
+           <p>N.B. the total of ships cleared outwards from <placeName>England</placeName> and
               <placeName>Scotland</placeName> from <date when="1780-12">December 1780</date> to <date when="1787-12">December 1787</date> was 528, 
               amounting to 123,581 tons; and the amount of those entered inwards 
               was 576, amounting to 132,222 tons. The amount of goods,
@@ -8873,7 +8873,7 @@
            </table>
            <p>N.B. The above are heavier than <rs type="properAdjective">English</rs> weights by 8 <distinct rend="italic">per cent</distinct>.</p>
            <p><persName>St. Domingue</persName> was generally considered in <placeName>France</placeName> to yield about two-third of all their <rs type="properAdjective">West
-              Indian</rs> produce; and, in <date when="1788">1788</date>, this ildand alone loaded for <placeName>France</placeName> 580 ships, of 370 ¾ tons
+              Indian</rs> produce; and, in <date when="1788">1788</date>, this island alone loaded for <placeName>France</placeName> 580 ships, of 370 ¾ tons
               on a medium, and 110 of 740 tons: exclusive of the numerous <rs type="properAdjective">French</rs> and foreign vessels
               employed in the trade with <placeName>North and South America</placeName>, amounting, in the whole to 296,435
               tons, nearly equal to one-third of the private ships of <placeName>Great Britain</placeName>.
