@@ -70,6 +70,15 @@
                 <note xml:id="n04ish" target="#a04ish">
                     <p><label>(b)</label> Tome ii. p. 59. 447. 499. 506.</p>
                 </note>
+                <note xml:id="n05ish" target="#a05ish">
+                    <label>(a)</label> Consisting of
+                    <list>
+                        <item>6 Overseers</item>
+                        <item>14 Common Servants, or Artificers</item>
+                        <item>8 or 10 Women Servants</item>
+                        <item>28</item>
+                    </list>
+                </note>
             </ecda:notes>
         </ecda:hyperDiv>
         
@@ -4031,7 +4040,7 @@
                         </div>
                         <div type="section" xml:lang="fr">
                             <head>Le Code Noir</head>
-                            <div>
+                            <div type="subsection">
                                 <head>Dans les Colonies Françoise, 1724.</head>
                                 <p><label>Art. XXVII.</label> L'esclave qui aura frappe son maitre, sa matresse, le mari de sa matresse,
                                     ou leurs enfans, avec contusion ou effusion de sang ou au visage, sera puni <distinct rend="italic">de mort</distinct>.
@@ -4058,7 +4067,7 @@
                                     commandeurs, sans qu'ils ayent besoin d'obtenir de nous des lettres de grace.
                                 </p>
                             </div>
-                            <div type="section">
+                            <div type="subsection">
                                 <head>De par le Roi</head>
                                 <head>Ordonnances de Monseig. le Duc de Penthievre, Amiral de France.</head>
                                 <p><ref>Code Noir, p. 434.</ref></p>
@@ -4074,13 +4083,13 @@
                                 </p>
                                 <dateline><date>31 Mars</date>, <date>5 April 1762</date>.</dateline>
                             </div>
-                            <div type="section">
+                            <div type="subsection">
                                 <head><ref>Page 438</ref>, Negres detenus en France.</head>
                                 <p>D'ailleurs, les negres en général son des hommes dangereux; <emph>presque pas un de ceux auxquels vous avez rendu 
                                     la liberté, qui ne se soit porté à des excès dangereux pour la societé.</emph>
                                 </p>
                             </div>
-                            <div type="section">
+                            <div type="subsection">
                                 <head>Code Noir, <ref>p. 66,67.</ref> Lettres Patente du Roi.</head>
                                 <dateline><date>Mars 1696.</date></dateline>
                                 <p>Louis, par la grace de Dieu, au miliu des soins que nous donnons à la défence de nos états contre toutes les puissances
@@ -4094,7 +4103,7 @@
                                     avons résolu de maintenir ce <emph>commerce important</emph>, &amp;c. &amp;c.
                                 </p>
                             </div>
-                            <div type="section">
+                            <div type="subsection">
                                 <head>Code Noir, <ref>p. 131.</ref></head>
                                 <dateline>1726.</dateline>
                                 <p>Et comme nous voulons assurer la liberté à ce commerce, et <emph>traite favorablement les negocians, et marchands</emph>, qui
@@ -4103,7 +4112,7 @@
                                     la culture de leurs terres à ces causes et autres</mcr>, à ce nous mouvans, &amp;c.
                                 </p>
                             </div>
-                            <div ana="#punishment">
+                            <div type="subsection" ana="#punishment">
                                 <head>Code Noir, <ref>p. 290</ref>.</head>
                                 <dateline>Mars 1724.</dateline>
                                 <p><label>XIII.</label> Défendons aux ésclaves appartenans à différens maîtres de s'attrouper le jour, ou la nuit, &amp;c. à peine de
@@ -4112,6 +4121,1327 @@
                                     à l'arbitrage des juges.</emph>
                                 </p>
                             </div>
+                        </div>
+                        <div type="section">
+                            <head>Negroes imported from <placeName rend="smallcaps">Africa</placeName> into the Island of <placeName rend="smallcaps">Jamaica</placeName>, and Duty on them,
+                                and exported from the said Island, and Drawback on them, Yearly, from 22d September 1702 to 1775.
+                            </head>
+                            <table>
+                                <row>
+                                    <cell role="label">Time.</cell>
+                                    <cell role="label">No. of Ships</cell>
+                                    <cell role="label">No. of Negroes imported</cell>
+                                    <cell role="label">Duty.</cell>
+                                    <cell role="label">No. of Negroes exported.</cell>
+                                    <cell role="label">Drawback.</cell>
+                                    <cell role="label">Duty on Export or Purchase.</cell>
+                                </row>
+                                <row>
+                                    <cell>1702</cell>
+                                    <cell>5</cell>
+                                    <cell>843</cell>
+                                    <cell>None</cell>
+                                    <cell>327</cell>
+                                    <cell>None</cell>
+                                    <cell>None</cell>
+                                </row>
+                                <row>
+                                    <cell>1703</cell>
+                                    <cell>14</cell>
+                                    <cell>2,740</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>481</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1704</cell>
+                                    <cell>16</cell>
+                                    <cell>4,120</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>221</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1705</cell>
+                                    <cell>16</cell>
+                                    <cell>3,503</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>1,669</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1706</cell>
+                                    <cell>14</cell>
+                                    <cell>3,804</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>1,806</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1707</cell>
+                                    <cell>15</cell>
+                                    <cell>3,358</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>897</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>per Head 1 l.</cell>
+                                </row>
+                                <row>
+                                    <cell>1708</cell>
+                                    <cell>23</cell>
+                                    <cell>6,627</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>1,379</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1709</cell>
+                                    <cell>10</cell>
+                                    <cell>2,234</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>1,275</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1710</cell>
+                                    <cell>15</cell>
+                                    <cell>3,662</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>1,191</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1711</cell>
+                                    <cell>26</cell>
+                                    <cell>6,724</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>1,532</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1712</cell>
+                                    <cell>15</cell>
+                                    <cell>4,128</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>1,903</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1713</cell>
+                                    <cell>19</cell>
+                                    <cell>4,278</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>2,712</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1714</cell>
+                                    <cell>24</cell>
+                                    <cell>5,789</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>3,507</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1715</cell>
+                                    <cell>10</cell>
+                                    <cell>2,372</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>1,089</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1716</cell>
+                                    <cell>24</cell>
+                                    <cell>6,361</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>2,872</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>None</cell>
+                                </row>
+                                <row>
+                                    <cell>1717</cell>
+                                    <cell>29</cell>
+                                    <cell>7,551</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>3,153</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1718</cell>
+                                    <cell>25</cell>
+                                    <cell>6,253</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>2,247</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1719</cell>
+                                    <cell>27</cell>
+                                    <cell>5,120</cell>
+                                    <cell>per Head 5s.</cell>
+                                    <cell>3,161</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1720</cell>
+                                    <cell>23</cell>
+                                    <cell>5,064</cell>
+                                    <cell>per Head 10s.</cell>
+                                    <cell>3,816</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>per Head 1 l.</cell>
+                                </row>
+                                <row>
+                                    <cell>1721</cell>
+                                    <cell>17</cell>
+                                    <cell>3,715</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>1,637</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1722</cell>
+                                    <cell>41</cell>
+                                    <cell>8,469</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>3,263</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1723</cell>
+                                    <cell>30</cell>
+                                    <cell>6,824</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>4,674</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1724</cell>
+                                    <cell>25</cell>
+                                    <cell>6,852</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>3,569</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1725</cell>
+                                    <cell>41</cell>
+                                    <cell>10,297</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>3,388</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1726</cell>
+                                    <cell>50</cell>
+                                    <cell>11,703</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>4,112</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1727</cell>
+                                    <cell>17</cell>
+                                    <cell>3,876</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>1,555</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1728</cell>
+                                    <cell>20</cell>
+                                    <cell>5,350</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>986</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1729</cell>
+                                    <cell>40</cell>
+                                    <cell>10,499</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>4,820</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1730</cell>
+                                    <cell>43</cell>
+                                    <cell>10,104</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>5,222</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1731</cell>
+                                    <cell>45</cell>
+                                    <cell>10,079</cell>
+                                    <cell>per Head 15s.</cell>
+                                    <cell>5,708</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1732</cell>
+                                    <cell>57</cell>
+                                    <cell>13,552</cell>
+                                    <cell>per Head 10s.</cell>
+                                    <cell>5,288</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1733</cell>
+                                    <cell>37</cell>
+                                    <cell>7,413</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>5,176</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>per Head 1l. 10.</cell>
+                                </row>
+                                <row>
+                                    <cell>1734</cell>
+                                    <cell>20</cell>
+                                    <cell>4,570</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>1,666</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>braced</cell>
+                                </row>
+                                <row>
+                                    <cell>1735</cell>
+                                    <cell>20</cell>
+                                    <cell>4,851</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>2,260</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>braced</cell>
+                                </row>
+                                <row>
+                                    <cell>1736</cell>
+                                    <cell>15</cell>
+                                    <cell>3,913</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>1,647</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>braced</cell>
+                                </row>
+                                <row>
+                                    <cell>1737</cell>
+                                    <cell>35</cell>
+                                    <cell>8,995</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>2,240</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>braced</cell>
+                                </row>
+                                <row>
+                                    <cell>1738</cell>
+                                    <cell>32</cell>
+                                    <cell>7,695</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>2,070</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>per Head 1 l. on Purchase</cell>
+                                </row>
+                                <row>
+                                    <cell>1739</cell>
+                                    <cell>29</cell>
+                                    <cell>6,787</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>598</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto, to September 30th</cell>
+                                </row>
+                                <row>
+                                    <cell>1740</cell>
+                                    <cell>29</cell>
+                                    <cell>5,62</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>495</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto, 1750 to 1775, inclusive</cell>
+                                </row>
+                                <row>
+                                    <cell>1741</cell>
+                                    <cell>19</cell>
+                                    <cell>4,255</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>562</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1742</cell>
+                                    <cell>22</cell>
+                                    <cell>5,067</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>792</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1743</cell>
+                                    <cell>38</cell>
+                                    <cell>8,926</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>1,308</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1744</cell>
+                                    <cell>38</cell>
+                                    <cell>8,755</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>1,331</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1745</cell>
+                                    <cell>18</cell>
+                                    <cell>3,843</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>1,344</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1746</cell>
+                                    <cell>16</cell>
+                                    <cell>4,703</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>1,502</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1747</cell>
+                                    <cell>33</cell>
+                                    <cell>10,898</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>3,378</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1748</cell>
+                                    <cell>39</cell>
+                                    <cell>10,430</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>2,426</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1749</cell>
+                                    <cell>25</cell>
+                                    <cell>6,858</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>2,128</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1750</cell>
+                                    <cell>16</cell>
+                                    <cell>3,587</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>721</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1751</cell>
+                                    <cell>21</cell>
+                                    <cell>4,840</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>713</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1752</cell>
+                                    <cell>27</cell>
+                                    <cell>6,117</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>1,038</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1753</cell>
+                                    <cell>39</cell>
+                                    <cell>7,661</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>902</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1754</cell>
+                                    <cell>47</cell>
+                                    <cell>9,551</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>1,592</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1755</cell>
+                                    <cell>64</cell>
+                                    <cell>12,723</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>598</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell/>
+                                    <cell role="sum">1453</cell>
+                                    <cell role="sum">343,751</cell>
+                                    <cell/>
+                                    <cell role="sum">114,286</cell>
+                                    <cell/>
+                                    <cell>Ditto, 1741 to 1749, ditto
+                                        <lb/>Ditto, 1702 t0 1740, ditto
+                                    </cell>
+                                </row>
+                                
+                                <pb/>
+                                
+                                <row>
+                                    <cell role="label">Time.</cell>
+                                    <cell role="label">No. of Ships</cell>
+                                    <cell role="label">No. of Negroes imported</cell>
+                                    <cell role="label">Duty.</cell>
+                                    <cell role="label">No. of Negroes exported.</cell>
+                                    <cell role="label">Drawback.</cell>
+                                    <cell role="label">Duty on Export or Purchase.</cell>
+                                </row>
+                                <row>
+                                    <cell>1756</cell>
+                                    <cell>46</cell>
+                                    <cell>11,166</cell>
+                                    <cell>per Head 10s.</cell>
+                                    <cell>1,902</cell>
+                                    <cell>None</cell>
+                                    <cell>per Head 1 l.</cell>
+                                </row>
+                                <row>
+                                    <cell>1757</cell>
+                                    <cell>32</cell>
+                                    <cell>7,935</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>943</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1758</cell>
+                                    <cell>11</cell>
+                                    <cell>3,405</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>411</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1759</cell>
+                                    <cell>18</cell>
+                                    <cell>5,212</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>681</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1760</cell>
+                                    <cell>23</cell>
+                                    <cell>7,573</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>2,368</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1761</cell>
+                                    <cell>29</cell>
+                                    <cell>6,480</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>624</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1762</cell>
+                                    <cell>24</cell>
+                                    <cell>6,279</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>232</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1763</cell>
+                                    <cell>33</cell>
+                                    <cell>10,079</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>1,582</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1764</cell>
+                                    <cell>41</cell>
+                                    <cell>10,213</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>12,639</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1765</cell>
+                                    <cell>41</cell>
+                                    <cell>8,951</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>2,006</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1766</cell>
+                                    <cell>43</cell>
+                                    <cell>10,208</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>762</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1767</cell>
+                                    <cell>19</cell>
+                                    <cell>3,248</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>375</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1768</cell>
+                                    <cell>27</cell>
+                                    <cell>5,950</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>485</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1769</cell>
+                                    <cell>19</cell>
+                                    <cell>3,575</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>420</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1770</cell>
+                                    <cell>25</cell>
+                                    <cell>6,824</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>836</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1771</cell>
+                                    <cell>17</cell>
+                                    <cell>4,183</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>671</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1772</cell>
+                                    <cell>22</cell>
+                                    <cell>5,278</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>923</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1773</cell>
+                                    <cell>49</cell>
+                                    <cell>9,676</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>800</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell>1774</cell>
+                                    <cell>79</cell>
+                                    <cell>18,448</cell>
+                                    <cell>per H<hi rend="sup()">d</hi> 2l. 10s.</cell>
+                                    <cell>2,511</cell>
+                                    <cell>per Head 2l.</cell>
+                                    <cell>Ditto disallowed</cell>
+                                </row>
+                                <row>
+                                    <cell>1775</cell>
+                                    <cell>39</cell>
+                                    <cell>9,292</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>1,629</cell>
+                                    <cell>Ditto</cell>
+                                    <cell>Ditto</cell>
+                                </row>
+                                <row>
+                                    <cell/>
+                                    <cell role="sum">637</cell>
+                                    <cell role="sum">153,975</cell>
+                                    <cell/>
+                                    <cell role="sum">22,728</cell>
+                                    <cell/>
+                                    <cell/>
+                                </row>
+                                <row>
+                                    <cell/>
+                                    <cell role="sum">1,453</cell>
+                                    <cell role="sum">343,751</cell>
+                                    <cell/>
+                                    <cell role="sum">114,286</cell>
+                                    <cell/>
+                                    <cell/>
+                                </row>
+                                <row>
+                                    <cell/>
+                                    <cell role="sum">2,090</cell>
+                                    <cell role="sum">497,736</cell>
+                                    <cell/>
+                                    <cell role="sum">137,014</cell>
+                                    <cell/>
+                                    <cell/>
+                                </row>
+                            </table>
+                        </div>
+                        <div type="section">
+                            <head>Return of Maroons, 20th October 1770.</head>
+                            <table>
+                                <row>
+                                    <cell role="label">Towns.</cell>
+                                    <cell role="label">Men fit for Duty.</cell>
+                                    <cell role="label">Ditto, unift for Duty</cell>
+                                    <cell role="label">Women</cell>
+                                    <cell role="label">Boys.</cell>
+                                    <cell role="label">Girls.</cell>
+                                    <cell role="label">Total of Negroes in each Town</cell>
+                                </row>
+                                <row>
+                                    <cell>Trelawney</cell>
+                                    <cell>85</cell>
+                                    <cell>18</cell>
+                                    <cell>121</cell>
+                                    <cell>68</cell>
+                                    <cell>70</cell>
+                                    <cell>362</cell>
+                                    <!--<cell>Fort Frederick</cell>
+                                    <cell>House bad Repair.</cell>-->
+                                </row>
+                                <row>
+                                    <cell>Charles</cell>
+                                    <cell>53</cell>
+                                    <cell>8</cell>
+                                    <cell>75</cell>
+                                    <cell>44</cell>
+                                    <cell>46</cell>
+                                    <cell>226</cell>
+                                    <!--<cell>Town Superintend<hi rend="sup()">t</hi></cell>
+                                    <cell>Ditto.</cell>-->
+                                </row>
+                                <row>
+                                    <cell>Nanny or Moore Town</cell>
+                                    <cell>42</cell>
+                                    <cell>8</cell>
+                                    <cell>40</cell>
+                                    <cell>20</cell>
+                                    <cell>26</cell>
+                                    <cell>136</cell>
+                                    <!--<cell>Ditto</cell>
+                                    <cell>No House.</cell>-->
+                                </row>
+                                <row>
+                                    <cell>Accompong</cell>
+                                    <cell>22</cell>
+                                    <cell>7</cell>
+                                    <cell>29</cell>
+                                    <cell>15</cell>
+                                    <cell>23</cell>
+                                    <cell>119</cell>
+                                    <!--<cell>Ditto</cell>
+                                    <cell>House bad Repair.</cell>-->
+                                </row>
+                                <row>
+                                    <cell>Scots Hall</cell>
+                                    <cell>14</cell>
+                                    <cell>4</cell>
+                                    <cell>19</cell>
+                                    <cell>1</cell>
+                                    <cell>4</cell>
+                                    <cell>42</cell>
+                                    <!--<cell>Ditto</cell>
+                                    <cell>No House.</cell>-->
+                                </row>
+                                <row>
+                                    <cell role="label">Total</cell>
+                                    <cell>216</cell>
+                                    <cell>45</cell>
+                                    <cell>284</cell>
+                                    <cell>148</cell>
+                                    <cell>169</cell>
+                                    <cell>885</cell>
+                                    <!--<cell/>
+                                    <cell/>-->
+                                </row>
+                            </table>
+                        </div>
+                        <div type="section">
+                            <head>Review of the State of the Island of <placeName rend="smallcaps">Jamaica</placeName>.</head>
+                            <table>
+                                <row>
+                                    <cell role="label">Counties.</cell>
+                                    <cell role="label">Negroes.</cell>
+                                    <cell role="label">Sugar Estates</cell>
+                                    <cell role="label">Produce Hhds. Sugar</cell>
+                                    <cell role="label">Other Settlements.</cell>
+                                    <cell role="label">Cattle.</cell>
+                                </row>
+                                <row>
+                                    <cell>Middlesex</cell>
+                                    <cell>87,100</cell>
+                                    <cell>323</cell>
+                                    <cell>31,500</cell>
+                                    <cell>917</cell>
+                                    <cell>75,000</cell>
+                                </row>
+                                <row>
+                                    <cell>Surrey</cell>
+                                    <cell>75,600</cell>
+                                    <cell>350</cell>
+                                    <cell>34,900</cell>
+                                    <cell>540</cell>
+                                    <cell>80,000</cell>
+                                </row>
+                                <row>
+                                    <cell>Cornwall</cell>
+                                    <cell>93,000</cell>
+                                    <cell>388</cell>
+                                    <cell>39,000</cell>
+                                    <cell>561</cell>
+                                    <cell>69,500</cell>
+                                </row>
+                                <row>
+                                    <cell role="label">Total</cell>
+                                    <cell>255,700</cell>
+                                    <cell>1,061</cell>
+                                    <cell>105,400</cell>
+                                    <cell>2,018</cell>
+                                    <cell>224,500</cell>
+                                </row>
+                                <note>Twenty Parishes, in which there are Thirty-six Towns and Villages, Eighteen Churches and
+                                    Chapels, and about Twenty-three thousand white Inhabitants.
+                                </note>
+                            </table>
+                        </div>
+                        <div type="section">
+                            <head>Extract from the <title rend="smallcaps">Cornwall Chronicle</title>, 8th December 1787.
+                                <placeName rend="smallcaps">Jamaica.</placeName>
+                            </head>
+                            <dateline>Thursday, November 29th.</dateline>
+                            <p>The House went into a Committee on the Consolidated Slave Bill, and continued to sit
+                                upwards of Three Hours. We understand, that by this Bill, the whole System of the Law
+                                respecting Negroes is intirely changed. A Council of Protection is established in each Parish;
+                                and many humane Provisions are introduced, for rendering their Condition as easy and happy as
+                                possible. It is also made Felony, without Benefit of Clergy, to murder a Slave: A Clause
+                                which, to the great Honour of the House, passed without a single dissenting Voice.
+                            </p>
+                        </div>
+                        <div type="section">
+                            <p>It has been asserted with Confidence that Barbadoes was cultivated by White People.
+                                I have my Doubts about it.
+                            </p>
+                            <p>An English Ship was drove into that Island by Accident.</p>
+                            <p>The Earl of Carlisle's Patent passed.</p>
+                            <p>Twenty Years afterwards Richard Ligon arrived there. He found that Sugar-making was
+                                then but newly practised; and that whilst he lived in the Island there were reckoned in it
+                                about 50,000 Souls, not including the Negroes, who were thought to amount to more than
+                                double the Number of Christians. He arrived in September 1647; the Inhabitants were at
+                                this time so greivously afflicted with a pestilential Diorder, viz. the Yellow Fever, that before
+                                a Month was expired after his Arrival, the living were hardly able to bury the dead. He spent
+                                about Three Years in the Island, he was advised, upon Enquiry, to purchase a plantation
+                                ready stocked with Servants, Slaves, Horses, Cattle, &amp;c. Colonel Modiford, who was a 
+                                Passenger in Ligon's Ship, immediatly treated with Major William Hilliard for Purchase of his
+                                Plantation, viz.
+                                <list>
+                                    <item>500 Acres of Land, with Dwellign House, Mill, Boiling House, Gardening House, Stables
+                                        Smith's Forge, Warehouses for Proviions, Houses for Negroes, and Indian Slaves.
+                                    </item>
+                                    <item>96 Negroes</item>
+                                    <item>3 Indian Women, with their Children</item>
+                                    <item>28 Christian White Servants <seg xml:id="a05ish" corresp="#n05ish">(a)</seg></item>
+                                    <item>45 Working Cattle</item>
+                                    <item>8 Milch Cows</item>
+                                    <item>12 Horses and Mares</item>
+                                    <item>16 Asses</item>
+                                </list>
+                            </p>
+                            <p>For a Moiety of all which he was to pay 1700 l. Sterling.</p>
+                            <list>
+                                <head>Acres</head>
+                                <item>200 Employed in Canes</item>
+                                <item>80 and upards Pasture</item>
+                                <item>120 Wood</item>
+                                <item>30 Tobacco</item>
+                                <item>5 Ginger</item>
+                                <item>5 Cotton</item>
+                                <item>70 Provisions</item>
+                                <item>510</item>
+                            </list>
+                            <p>From the above Account I am unavoidably led to conclude, that 200 Acres in Canes could
+                                not be cultivated by 28 White Servants; and finding that there were 96 Negro Slaves upon it
+                                at the same Time, and that this was only at 23 Years at most after our first setting foot upon
+                                that Island, it seems perfectly clear to me that the Island of Barbadoes was cultivated by Negro
+                                Slaves, and not by White People, as it has been asserted (I think) without Foundation.
+                            </p>
+                        </div>
+                        <div type="section">
+                            <head>First Report of the Committee of the House of Assembly of the Island
+                                of Jamaica
+                            </head>
+                            <head type="sub">Presented the 16th Day of October 1788.</head>
+                            <opener>Mr. Speaker,</opener>
+                            <p>Your Committee appointed to examine into, and report to the House, the various Allegations
+                                and Charges, which, by the Letters of our Agent, and the Minutes of the House of Commons
+                                of Great Britain, appear to be containted in a great Number of Petitions presented to that
+                                Honourable House on the Subject of the Slave Trade, and the Treatment of the Negroes in this
+                                and the rest of his Majesty's Sugar Colonies; to report the Proceedings and Resolutions of the
+                                British Parliament thereon; and further, to consider whether it may be proper of the House to
+                                adopt any, and what Measures on this important Occasion, and to report their Opinion thereon
+                                to the House; do report,
+                            </p>
+                            <p>That it appears to your Committee, from the Minutes of the British House of Commons,
+                                that Petitions have been presented from different Corportations, and respectable Bodies of Men
+                                in Great Britain, praying the Interposition of Parliament in abolishing the Slave Trade; wherein
+                                may of the said Petitioners, not content with stating the various Abuses in the Transportation of
+                                Negroes from Africa, have ventured to bring forward many general unqualified Allegations, in 
+                                respect of the Condition and Treatment of Slaves employed in the Cultivation of this, and
+                                others of his Majesty's Colonies in the West Indies; charging, that the People so employed are
+                                either exposed to the arbitrary Will of avaricious and unfeeling Task-masters, without any Protection
+                                or means of Redress, even in the Cases of the most atrocious Injury, or placed under the 
+                                Dominion of a most merciless and tyrannical System of Laws; that these Laws are executed
+                                with Rigour and Brutality; that our Slaves are destroyed in a few Years by long and painful
+                                Labour, and a Want of the common Necessaries of Life; and that the Result of such Treatment 
+                                is, that our Slaves decrease, instead of increasing, in a Climate perfectly congenial to their
+                                own.
+                            </p>
+                            <p>And it further appears to your Committee, That, in consequence of such Petitions, the House
+                                of Commons did, on the Ninth of May last, come to the Following Resolution: <quote rend="quotes">That this
+                                House will, early in the next Session of Parliament, proceed to take into Consideration the 
+                                Circumstances of the Slave Trade complained of in the Petitions now lying upon the Table, and
+                                what may be fit to be done theron;</quote> and that a Bill was brought in, for providing certain
+                                temporary Regulations respecting the Transportation of Slaves in British Bottoms from the Coast of
+                                Africa; which Bill has since passed into Law.
+                            </p>
+                            <p>Your Committee are of opinion, That the Principle of the said Act of the British Parliament
+                                is founded in Justice, Humanity, and Necessity; and that the Provisions adopted therein, when
+                                further matured by the Wisdom of Parliament, must ultimately prove highly beneficial to the
+                                Sugar Colonies, inasmuch as it is notorious, that Vessels have been frequently corwded witha
+                                greater Number of Negroes than they ought in Prudence to have contained. And it is the
+                                Opinion of the Committee that the Wisdom and Authority of Parliament might be beneficially
+                                exerted, in further Regulations of the African Commerce; particularly in preventing the Detention
+                                of Ships on the Coast; in prohibiting the Purchase of Slaves who shall appear to have been 
+                                kidnapped, or deprived of Liberty contrary to the Usage and Custom of Africa; and in compelling
+                                the said Ships to transport an equal Number of both Sexes, and to provide Ventilators 
+                                and a sufficient Quantity of Provisions, especially Water. It seems not to be understood in Great
+                                Britain, that the Inhabitants of the West India Islands have no Concern in the Ships trading
+                                to Africa. The African Trade is purly a British Trade, carried on by British Subjects residing
+                                in Great Britain of Capitals of their own. The Connection and Intercourse between Planters of
+                                this Island, and the Merchants of Great Britain trading to Africa, extend no further than the mere
+                                Purchase of what British Acts of Parliament have declared to be legal Objects of Purchase.
+                            </p>
+                            <p>Your Committee are further of opinion, That as to the Charges and Allecations brought against
+                                us, with regard to the Treatment and Situation of Slaves in this Island, it is necessary and easy to 
+                                disprove the same, by demonstrating, 1st, That Negroes in this Island are under the Protection of
+                                lenient and salutary Laws, suited to their Situation and Circumstances: 2d, That the Slave Laws are
+                                executed with Humanity, Mildness and Mercy: 3d, That the Laws have made Provision to
+                                grant Slaves Days of Rest, and to prevent their being in want of the Necessaries of Life: and
+                                4th, That the Decrease of our Slaves does not arise from the Causes alleged in the Petitions
+                                presented to the British House of Commons, but from various other Causes not imputable to us,
+                                and which the People in Great Britain do not seem to comprehend.
+                            </p>
+                            <p>And your Committee are of opinion, That to disprove the said Charges and Allegations,
+                                it is proper to recommend to the House, to grant the Committee Power to send for Persons,
+                                Papers, and Records, and to examine all Persons that shall come before them in the most solemn
+                                Manner.
+                            </p>
+                            <p>Ordered, that the said Committee have Power to send for Persons, Papers, and Records, and
+                                to examine all Persons that shall come before them, in the most solemn manner.
+                            </p>
+                        </div>
+                        <div type="section">
+                            <head>Second Report of the Committee of the House of Assembly in the Island
+                                of Jamaica.
+                            </head>
+                            <head type="sub">Presented the 12th Day of November 1788.</head>
+                            <salute>Mr. Speaker,</salute>
+                            <p>Your Committee appointed to examine into, and report to the House, the various Allegations 
+                                and Charges which, by the Letters of our Agent, and the Minutes of the House of Commons
+                                of Great Briatin, appear to be contained in a great Number of Petitions Presented to that 
+                                Honourable House on the Subject of the Slave Trade, and the Treatment of the Negroes in this
+                                and the Rest of his Majesty's Sugar Colonies, and for other Purposes, have, in pursuance of the
+                                Powers granted them by the House on their First Report, proceeded to collect Evidence to
+                                disprove the said Charges and Allegations, by demonstrating, 1st, <quote rend="quote">That Negroes in this
+                                Island are under Protection of lenient and salutary Laws, suited to their Situation and 
+                                Circumstances.</quote>
+                            </p>
+                            <p>On this Subject we have to observe, That it appears by the Letters of our Agent, that certain 
+                                Head of Inquiry were transmitted to him a few Months ago from a Committee of the Lords
+                                of his Majesty's most Honourable Privy Council, many of which related to the Condition and
+                                Government of our Slaves, and in Answer thereto an Abstract of most of our ancient Slave Laws
+                                was laid before their Lordships; to which, if necessary, Reference may be had; but it seems
+                                not to have been understood by our Agesnt, that in 1781 many of those Laws were repealed, and
+                                all the subsisting Laws, and Clauses of Laws, respecting the Order and Government of Slaves,
+                                were consolidated and brough into One Act. This act is known by the Name of the Consolidated
+                                Slave Act, and having expired on the 31st Day of December 1784, has since been
+                                renewed with Amendments. By the said Act of 1781, Clauses 2d and 3d, all Possessors of 
+                                Plantations are obliged, under 50l. to allot Provision Grounds for each of their
+                                Slaves, to allow them sufficient Time to work the same, and also to keep in proper Cultivation
+                                One Acre of Land at least for every Four Negroes, in Plantain Walk and Ground Provisions;
+                                exclusive of the Negroes Grounds, and in case the Owners or Possessors have not Hands proper
+                                for that Purpose, they are required to make some other ample Provision for the Support of their
+                                Slaves.
+                            </p>
+                            <p>By Clause the 4th it is enacted, That every Master, Owner, or Possessor of Slaves, shall, under
+                                the same Penalty, provide and give to each Slave proper and sufficient Clothing to be approved
+                                of by the Justices and Vestry of the Parish.
+                            </p>
+                            <p>By Clause 5th, Slaves giving Information of Thefts, or other Crimes and Misdemeanors, are
+                                entitled to pecuniary Rewards; which is One Proof, among others, that our Laws consider
+                                Slaves and capable of holding Property, and will protect them therein.
+                            </p>
+                            <p>By Clause 6th, the Penalty of 100l. is laid on any Master or Owner who shall mutilate or
+                                dismember any Slave or Slaves.
+                            </p>
+                            <p>By Clause 7th it is enacted, That in case any Person shall mutilate any Slave the Property of
+                                another, such further Punishment should be inflicted, exclusive of the aforesaid fine, as the
+                                Court shous think proper, and at the same Time the Owner of the injured Slave is allowed to
+                                pursue his Remedy for Damages at common Law.
+                            </p>
+                            <p>By Clause 8th, any Person, wantonly beating a Slave, not his own Property, is liable to be
+                                indicted for the same, and punished by Fine and Imprisonment.
+                            </p>
+                            <p>By Clause 28th, further Security was given to Slaves, by altering the Mode of Trial of such
+                                as stood charged with capital Offences; for by former Laws such Trials were directed to be held 
+                                before Two Justices and three Freeholders indiscriminately chosen; whereas by the said act of 
+                                1781 it was enacted that the Freeholders on such Trial should be chosen by Ballot, and out of a
+                                Number not less than Five.
+                            </p>
+                            <p>When we reflect that many of these Clauses were Provisions of our ancient Laws, and in particular
+                                that the Penalty on the Master who should mutilate or dismember his Slave was enacted
+                                so long ago as the Year 1717; and when we consider further that the said Act of 1781 was in
+                                full force until 31st December 1784, we cannot sufficiently express our Astonishment and Concern
+                                that respectable Bodies of Men should have subscribed their Names to Allegations, which a
+                                little Inquiry must have convinced them were totaly groundless.
+                            </p>
+                            <p>On the 31st of December 1784, the Consolidated Slave Law of 1781 (as hath been already observed)
+                                expired, and as it appears by the Minutes of the House that on the 20th Day of October
+                                1784, a Committee was appointed to bring in a Bill to revive and continue the same; but so many
+                                Improvements and Amendments were proposed for giving further Protection and Security to
+                                Slaves, particularly in the Mode of Trial for capital Offences, that it was thought advisable to
+                                disperse throughout the Island printed Copies of the new Bill, with the intended Alterations, in
+                                order that the full Sense of the Country thereon might be collected against the next Session of
+                                Assembly: Much pressing Business prevented it passing into a Law in 1785 and 1786, and in
+                                1787 the Assembly was dissolved; but the new Assembly, which met in October 1787, among 
+                                
+                                <pb/>
+                                
+                                the first Objects of their Attention, took the Subject into their Consideration, and passed the 
+                                Consolidated Slave Bill which is now in force, wherein, among other Improvements and Amendments
+                                to the Act of 1781, it may be sufficient to enumerate the following:
+                            </p>
+                            <p>By Clause 4th, regulations are made to prevent Slaves being deserted in future by their
+                                Owners, on account of Age and Infirmity; and by a subsequent Clause the Justices and Vestry of
+                                each Town and Parish empowered to lay a Tax upon the Inhabitants for providing Food, medical
+                                Care and Attendance on Slaves already deserted by their Owners, and who are disabled from
+                                Labour, by Sickness, old Age, or otherwise. And in order more effectually to enforce the 
+                                Regulations of Former Laws respectng the Subsistence and Clothing of Slaves, it is enacted by Clause
+                                6th, That every Master, Owner, or Attorney, shall under Penalty of 50l. give in to the Vestry,
+                                on Oath, an Account of the Quantity of Land in Ground Provisions (over and above the Negro
+                                Grounds) for the Use of their Slaves; or in case there are not Lands proper for the Purpose, an
+                                Account on Oath of the Means adopted for the Maintenance and Support of their Slaves, and
+                                also under the like Penalty give in an account of the Clothing actually served to each Slave.
+                            </p>
+                            <p>By Clause 9th, The Penalty on Persons mutilating or dismembering their Slaves is increased,
+                                by adding to the Fine of 100l. inflicted by former Laws, the Punishment of imprisonment, not
+                                exceeding Twelve Months, and in certain Cases mutilated Slaves are to be declared Free; andin
+                                all such Cases the Court is authorised to direct that the Fien of 100l. be paid over to the Justices
+                                and Vestry of the Parish, who in consideration thereof are to allow to such Slave declared free
+                                10l. per Annum for Maintenance and Support during Life. By the same Clause the Justices and
+                                Vestry are appointed a Council of Protection, for the purposes of making full Inquiry into the
+                                Mutilation of Slaves, and for prosecuting to Effect such Owner or Owners as may have been
+                                guilty thereof, And by Clause 10th it is enacted, That in case any Information is made before
+                                any Justice of the Peace, that any Slave or Slaves is or are mutilated and confined, it shall and
+                                may be lawful for such Justice of the Peace, as he is required to issue his Warrant to the Marshal
+                                or Constable, to bring the Slave or Slaves before him for Inspection.
+                            </p>
+                            <p>By this Regulation the Power of Concealment is endeavoured to be taken from the Owner; for
+                                as it is not required that the Information shoudl be on Oath, the Magistrate is enable to obtain
+                                a View of the Fact on Evidence, which in other Cases is and ought to be inadmissible.
+                            </p>
+                            <p>By Clause 11th is enacted, That is any Person shall murder any Slave, whether his own
+                                Property of not, he shall suffer Death for such Offence.
+                            </p>
+                            <p>And in order more effectually to prevent the Destruction of Negreos by excessive Labour and
+                                unreasonable Punishments, the Surgeon of every Plantation, by a subsequent Clause, is required to
+                                give in on Oath to the Justices and Vestry, an annual Account of the Decrease and Increase of
+                                the Slaves of such Plantation, with the Causes of such Decrease, to the best of his Knowledge,
+                                Judgment, and Belief.
+                            </p>
+                            <p>On his Head the Committee cannot but remakr how tender and cautious every rational Manager
+                                must necessarily be, in the Punishments which he administers, who considers that the has a
+                                resident Inspector into his Conduct, and that the Punishments of Death may follow and Abuse of his
+                                Authority.
+                            </p>
+                            <p>Neither does the Law extend its protection to the industrious and faithful Negro only; Provision
+                                is made for the Support of such Fugitives and Criminals as are apprehended and lodged in 
+                                the Gaols and Workhouses of this Island; the daily Allowance of good and wholesome Food
+                                required, by Clase 31st, to be given to every Slave in Confinement, being abundantly liberal,
+                                and as we conceive unexampled in most other Countries to unhappy Persons in similar 
+                                Circumstances.
+                            </p>
+                            <p>Having this briefly stated the Protection which the Laws of this Island have provided for our
+                                Slaves in the grand Circumstance of personal Safety; we now proceed to the Secon Head,
+                                namely, to prove <quote rend="quotes">That the Slave Laws in this Island are executed with Humility, Mildness,
+                                and Mercy.</quote>
+                            </p>
+                            <p>By the Slave Laws here alluded to, we understand the Laws and Clauses of Laws which assign
+                                Penalties and Punishments on such Offences and Transgressions of our Slaves as affect the Public;
+                                and in order to obtain the fullest Information on this Head, we have called on the several Clerks
+                                of the Peace of the different Precincts and Parishes for Returns of all Trials of Slaves, with the
+                                Charges, Conviction, and Punishment, severall had thereon, for several Years last past, viz. from
+                                the 1st of January 1784, to the 30th of September 1788. From these Returns we are enabled
+                                to state the following Circumstances:
+                            </p>
+                            <p>In the Parishes and Precinct of St. Catherine, St. John, St. Dorothy, and St. Thomas in the
+                                Vale, containing 21,772 Slaves, the Number of capital Convictions and Executions were Four
+                                only in the said Interval.
+                            </p>
+                            <p>In the Parish of St. Andrew, containing 9,613 Slaves, we find only One Execution in the said
+                                Interval.
+                            </p>
+                            <p>In the Parishes and Precinct of St. Thomas, in the East, and St. David, containing 23, 272 Slaves,
+                                the Number of capital Convictions and executions were Ten in the said Interval.
+                            </p>
+                            <p>In the Parishes and Precinct of St. Mary, and St. George, contianing 22,194 Slaves, the
+                                Number of Capital Convictions and Executions were Four in the said Interval.
+                            </p>
+                            <p>In the Parish of St. Ann, containing 12,324 Slaves, the Number of capital Convictions and
+                                Executions were Two in the said Interval.
+                            </p>
+                            
+                            <pb/>
+                            
+                            <p>In the Parish of Trelawney, containing 12,318 Slaves, The Number of capital Convictions and
+                                Executions were Seven in the said Interval.
+                            </p>
+                            <p>In the Parish of St. James, containing 18,546 Slaves, The Number of capital Convictions and
+                                Executions were Three in the said Interval.
+                            </p>
+                            <p>In the Parish of Hanover, containing 17,612 Slaves, The Number of capital Convictions and
+                                Executions were Two in the said Interval.
+                            </p>
+                            <p>In the Parish of Westmoreland, containing 16,700 Slaves, The Number of capital Convictions and
+                                Executions were Four in the said Interval.
+                            </p>
+                            <p>In the Parish of St. Elizabeth, containing 13,280 Slaves, The Number of capital Convictions and
+                                Executions were Eight in the said Interval.
+                            </p>
+                            <p>In the Parishes and Precinct of Clarendon, and Vere, containing 22,234 Slaves, The Number of 
+                                capital Convictions and Executions were Seven in the said Interval.
+                            </p>
+                            <p>In the several Towns and Parishes of Kingston, Port Royal, and Portland, containing 12,928 
+                                Slaves, there do not appear to be any capital Convictions within the said Period, but the Records
+                                of Trials in the Town of Kingston previous to 1787 are not to be found.
+                            </p>
+                            <p>The Total appears to be 52 Executions in Four Years and Nine Months, which is not more than
+                                Eleven per annum, for the last Five Years, out of 210, 894 Slaves.—A Proof of Lenity in the 
+                                Execution of our Criminal Laws, not to be surpassed, as we conceive, by any Nation in Europe.
+                                Nothing further, therefor, seems necessary to be added on this Head, except the 40th Clause of the
+                                present Consolidated Slave Bill, which directs, That in all Cases where the Punishment of Death
+                                is inflicted, the Execution shall be performed in a public Part of the Parish, and with due
+                                Solemnity; and Care shall be taken by the Gaoler, or Deputy-Marshal, that the Criminal is free from
+                                Intoxication at the Time of his Trial, and from thence, to and at the Time of his Execution,
+                                under the Penalty of 5l.: And the Mode of such Execution is directed to be, hanging by the Neck, and
+                                no other. It is likewise provided, That where several Slaves are capitally convicted for the same
+                                Offence, One only shall suffer Death, except in Cases of Murder or Rebellion.
+                            </p>
+                            <p>But the Committee cannot quit this Subject without observing, That the Number of Negroes at
+                                this Time actually living within this Island, is much greater than appears on the Tax Rolls from
+                                exempt Persons who have not more than Six Negroes from the Payment of Taxes on Slaves, whereby
+                                many of the Negroes (especially in the Towns) are not given in to the different Vestries, and the
+                                Returns of a great many other are fraudulently concealed. We judge, after diligent Investigation,
+                                that the whole Number of Negro Slaves now actually in the Island, are 240,000 at the least.
+                            </p>
+                            <p>On the Third Ground of Inquiry we are to demonstrate, That the Laws have made Provision to
+                                grant Slaves Days of Rest, and to Prevent their being in want of the Necessaries of Life.
+                            </p>
+                            <p>Although we conceive that this Assertion has been sufficiently established by the Recital already
+                                given of such Clauses of our Laws as relate to the Subsistence of our Slaves, yet as the Words
+                                <quote rend="quotes">sufficient Time</quote> in one of the Clauses referred to, left a discretionary Power in the Master, we
+                                shall take occasion, in a subsequent Part of our Report, to show that the Legislature has provided a
+                                Remedy against any possible Abuse of such discretonary Authority.—But the Further Discussion of
+                                this Subject is deferred until we treat of the new Slave Bill passed the present Session.
+                            </p>
+                            <p>On the Fourth and Last  Ground of our Researches, namely, to demonstrate, <quote rend="quotes">That the Decrease
+                                of our Slaves does not arise from the Causes assigned in the Petitions presented to the British House
+                                of Commons, but from other Causes not imputable to us, and which the People of Great Britain
+                                do not seem to comprehend;</quote> the Committee, after diligent Inquiry and Investigation, are of
+                                opinion, that the following are the principal Causes to which the alleged Decrease of our Slaves
+                                ought justly to be imputed:—First, The Disproportion between the Sexes in the annual Importations 
+                                from Africa. Second, The Loss of new Negroes on, or soon after their Arriveal, from epidemic
+                                Diseases brought from Africa, or contracted in the Voyage.
+                            </p>
+                            <p>Respecting the First of these Causes, the Committee have examined the most considerable African
+                                Factors residing in this Island as to the relative Numbers of Males and Females impored and sold
+                                annually for several Years past; and it appears from the Examination of Robert Hibbert, Esquire,
+                                a Member of this House, that of 16,254 Negroes omported and sold by Messrs. Hibberts and
+                                Jackson between the Years 1764 and 1774, 10,149 were Males, and 6,145 Females. It likewise
+                                appears from the Examinations of Messrs. Coppells, and Messrs. Rainsfords, Messrs. Mures and
+                                Dunlop, and Alexander Lindo, Merchant, that out of 32, 881 Slaves sold by them collectively
+                                within these Seven Years last past, the Number fo Males was 20,487, and of Females, 12 394.
+                                The Relative Proportion of the whole is Five Males to Three Females.
+                            </p>
+                            <p>We have annexed to this Report, Extracts from the Books of the aforesaid Factors, as 
+                                produced by them to this Committee, and from which the above statement is formed. They are
+                                marked as Nº 1, 2, 3, 4, and 5.
+                            </p>
+                            <p>With respect to the Second Cause of such Decrease, our Inquiries for the present have been
+                                confined to the Number of new Negroes, that have perished in the Harbours of this Island, between
+                                the time of their having been reported at the Custom-house and the Day of Sale; all which
+                                are included in official Books and Returns as Negroes actually imported. From the Examination
+                                of Mr. Lindo it appears, that out of 7,873 Negroes consigend to him as Factor in the Years
+                                1786, 1787, and 1788, and reported at the Custom-house, no less than 262 perished in the
+                                Harbour of Kingston before the Day of Slae; and if the same Proportion of Deaths be allowed to
+                                
+                                <pb/>
+                                
+                                the whole of the Africans imported since the Conquest of the Island to the present Time (an 
+                                Allowance which, on many Accounts, we conceive to be moderate), the Numbers that have thus
+                                persished are very considerable. We have thought it necessary to investigate this Circumstance
+                                with as much Precision as the Subject will admit; and having, from the Books of the Receiver-
+                                General, and other sufficeint Authorities, procured the most exact Account that can be formed 
+                                of the Imports and Exports of Negroes into and from this Island from the Year 1655 (the Time
+                                of its Conquest) to December 1787, we find the Imports to amount to 676,276 Negroes; of
+                                which according to the Proportion above stated, no less than 31, 181 will appear ot have died on
+                                Ship-board after Entry, although they stand in the Books of Office as constituting Part of the
+                                actual Numbers supposed to have been distributed among the Planders, and destroyed by Neglect,
+                                excessive Labour, or other Mal-treatment.
+                            </p>
+                            <p>The Committee are of opinion, that these Data lead to important Conclusions; for if the
+                                Negroes that have perished as above, and the further Number of 160,449 (being the Total of
+                                the Exports), making together 191,627, be subtracted ferom the Total of the Imports, it will 
+                                appear, that the full Number of Slaves which have been introduced and lef in the Country from
+                                the Conquest of the Island to December of 1787, is reduced to 484, 649. Of this Number, if a
+                                Further Reduction of Two-fifths be made (which most have happened in any Cuntry, and under
+                                any System of Government) to bring the Sexes to an Equality, the Balance is 290, 791. A further
+                                Reduction must likewise be made for Negroes that have deserted from their Owners, and left
+                                the Island; many Hundreds within these few Years having been inveigled over to Cuba, and
+                                great Numbers have been stolen by Privateers in Times of War; others are annual carried to
+                                Europe, and shipped off the Island by their Owners, of which no Account is preserved; exclusive
+                                of such as were executed and transported in the several great Rebellions, and such as have
+                                been transported for other Offences by the Sentence of the Law. It is impossible to ascertain
+                                with Precision the Result of these several combined Causes; but we concieve that a Loss of
+                                13,000 Negroes at the least bay be justly assigned to them since the first Settlement of the Island,
+                                which is not quite an Average of a Hundred per Annum, and which brings the Remainder to
+                                277,791. On the other Hand, to the Number of 140,000 Negroes actually living in the Island
+                                on the 31st of December 1787, as before stated, must be added to the People caled the Maroons,
+                                amounting by the last Returns, to about 1300; and also all the Free Negroes, and People of
+                                Colour; the latter as being Descendents from the Black Females fo the original Stock.
+                            </p>
+                            <p>It is not easy to ascertain either of these Classes, with any Degree of Precision, from the Tax-
+                                rolls, or from the Law, which requires Free Negroes, to take out Certificates, and wear the Badge
+                                of their Freedom, as the Law is very seldom complied with; many of the Free Negroes considering
+                                the Badge rather as a Token of Disgrace than a Mark of Distinction. We judge, on a
+                                loose Computation, that the Free Negroes and People of Colour, of all Ages, and both Sexes,
+                                cannot amount ogether to less than 500 in each Parish on an Average of the whole, which gives
+                                10,000. The Total is 251,300, which, being subtracted from 277,791, leaves 26, 491 as the
+                                Number which would have decreased since the Year 1655, under all Circumstances, and supposing
+                                even that the Sexes had been eaually distributed.
+                            </p>
+                            <p>We shall now point out the principal Causes to which this Mortality is justly chargeable. It
+                                is but too well known to the House, that in the several Years 1780, 1781, 1784, 1785, and
+                                1786, it pleased Divine Providence to visit this Island with repeated Hurricanes, which spread
+                                Desolation throughout most Parts of the Island; but the Parishes which suffered more remarkably
+                                than the rest were those of Westmoreland, Hanover, St. James, Trelawny, Portland, and 
+                                St. Thomas in the East. By these destrutive Visitation, the Plantain Walks, which furnish the
+                                chief Article of Support to the Negroes, were generally rooted up; and the intense Droughts
+                                which followed destroyed those different Species of Ground Provisions which the Hurricanes had
+                                not reached. The storms of 1780 and 1781 happening during the Time of War, no foreign
+                                Supplies, excepting a trifling Assistance from Prize Vessels, could be obtained on any Terms; and
+                                a Famine ensued in the leeward Pars of the Island, which destroyed many thousand Negroes,
+                                After the Storm of the 30th July 1784, the Lieutenant Governor, by the Advice of his Council,
+                                published a Proclamation, dated the 7th of August, permitting the free Importation of
+                                Provisions and Lumber in Foreign Bottoms for Four Months from that Period. As this was much
+                                too short a Time to give sufficient Notice, and obtain all the Supplies that were necessary, the
+                                small Quantities of Flour, Rice, and other Provisions, which were imported in consequence of
+                                the Proclamation, soon rose to so exorbitant a Price as to induce the Assembly, on the 9th of
+                                November the following, to present an Address to the Lieutenant Governor, requesting him to prolong
+                                the Term until the latter end of March 1785; observing, that it was impossible for the
+                                natural Productions of the Country to come to such Maturity as to be wholesome Food before
+                                that Time. The Term of Four Montsh not being expired when this Address was presented,
+                                the Lieutenant Governer declined to comply therewith; but, on the 1st of December following,
+                                the House represented, that a Prolongation of the Term was then absolutely necessary. They
+                                observe, That, persuaded wof the Reluctance with which his Honour would be brought to deviate
+                                from Regulations which e felt himself bound to observe, it would give them much Concern to
+                                address him on the same Occasion a second Time, were they not convinced that it was in a
+                                Case of such extreme Necessity, as to justify such a Deviation. Accordingly the Lieutenant
+                                Governor, by the Advice of his Majesty's Council, directed, that the Time formerly limited
+                                
+                                <pb/>
+                                
+                                should be extended to the 31st of January then ensuing (1785); but at the same Time
+                                he informed the House, that he was not at liberty to deviate any longer from the Regulations
+                                which had been established in Great Britain.
+                            </p>
                         </div>
                     </div>
                 </div>
