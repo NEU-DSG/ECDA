@@ -154,7 +154,7 @@
               <p><bibl><title>De Pulmonis et cæteris Thoracis Vitiis</title>, Lib. IV. Cap, 4.
                  Lib. V. cap. 1. cap. 2. cap. 4. cap. 5. cap. 8.</bibl> He likewise mentions
                  the sugar called <distinct type="dialect" xml:lang="la" rend="italic">penidii</distinct>, Lib. V. cap. 6 and 9.—this <distinct type="dialect" xml:lang="la" rend="italic">penidii</distinct>, or
-                 <distinct type="dialect" xml:lang="la" rend="italic">penidium saccharum</distinct>, is denominated by the <rs type="place">Greek</rs> writers <distinct type="dialect" xml:lang="el" rend="upright"><unclear>ϖεγιδικ</unclear></distinct>.
+                 <distinct type="dialect" xml:lang="la" rend="italic">penidium saccharum</distinct>, is denominated by the <rs type="place">Greek</rs> writers <distinct type="dialect" xml:lang="grc" rend="upright"><unclear>ϖεγιδικ</unclear></distinct>.
               </p>
               <p>It is thought to have been a preparation of sugar, like what we
               call barley-sugar.
@@ -666,7 +666,7 @@
                plants, he says,—
             </p>
             <p>
-               <quote xml:id="a002" corresp="#n002" xml:lang="el">
+               <quote xml:id="a002" corresp="#n002" xml:lang="grc">
                   Καθαπερ εν Αιγυπτω του καλαμου του εν τοις
                   ελεσιν· εχει μεν γαρ τινα γλυxυτητα και αλλως
                   επι των ακρων, αλλ' επι ζραχυ ϖαντων
@@ -723,7 +723,7 @@
          
             <p><persName ref="#dionysius_periegetes_0001" cert="medium">Dionysius Afer</persName> (<date when="0003">anno 3. Ær. Chr.</date> <title><hi rend="smallcaps">Sax</hi>.
                <hi rend="italic">Onomast</hi></title>.) mentions that the <name>Indians</name> drink the 
-               juice of the <distinct type="scientific" xml:lang="el" rend="upright"><unclear>Ερ<gap extent="1 character"/>θραιος καλαμος</unclear></distinct>, or <ecda:flora><rs type="properAdjective">Indian</rs> cane</ecda:flora><anchor xml:id="a004" corresp="#n004"/> 
+               juice of the <distinct type="scientific" xml:lang="grc" rend="upright"><unclear>Ερ<gap extent="1 character"/>θραιος καλαμος</unclear></distinct>, or <ecda:flora><rs type="properAdjective">Indian</rs> cane</ecda:flora><anchor xml:id="a004" corresp="#n004"/> 
             </p>
          
          
@@ -738,7 +738,7 @@
                æra</date>,—
             </p>
             <p>
-               <quote xml:id="a005" corresp="#n005" xml:lang="el">Ειρηκε δε ϖερι καλαμων οτι ϖοιουσι
+               <quote xml:id="a005" corresp="#n005" xml:lang="grc">Ειρηκε δε ϖερι καλαμων οτι ϖοιουσι
                   μελι μελισσων μη ουοων· ου γαρ δενδρον ειναι 
                   καρποΦορον εκ του καρπου μεθυιν.
                </quote>
@@ -754,7 +754,7 @@
                of <persName ref="#eratosthenes_0276">Eratosthenes</persName>,—
             </p>
             <p>
-               <quote xml:lang="el">Τας ριζας των Φυτων και μαλιστα των μεγαλων
+               <quote xml:lang="grc">Τας ριζας των Φυτων και μαλιστα των μεγαλων
                   καλαμων, γλυκειας και Φυσειας και Φυσει και εψησει.
                </quote>
             </p>
@@ -762,7 +762,7 @@
                of the great <ecda:flora>reeds</ecda:flora>, are sweet by nature,
                and by decoction.</quote>
             </p>
-            <p>He also mentions the <ecda:flora xml:lang="el">καλαμος Ινδικος</ecda:flora> growing
+            <p>He also mentions the <ecda:flora xml:lang="grc">καλαμος Ινδικος</ecda:flora> growing
                abundantly in <placeName>Æthiopia</placeName>.
             </p>
          
@@ -1881,56 +1881,56 @@
             <head type="sub">Part the Second.</head>
             <table>
                <row>
-                  <cell xml:lang="el"><distinct>Μελι καλαμινον</distinct>.</cell> <!--  I don't know what the best value is for @type here—agricultural?; should we encode the two tables consistently? this one has the @xml:lang on the cell itself -->
+                  <cell xml:lang="grc"><distinct>Μελι καλαμινον</distinct>.</cell> <!--  I don't know what the best value is for @type here—agricultural?; should we encode the two tables consistently? this one has the @xml:lang on the cell itself -->
                   <cell><persName ref="#theophrastus_0571">Theophrastus</persName></cell>
                </row>
                <row>
-                  <cell xml:lang="el"><distinct>Σακχαρον</distinct>.</cell> 
+                  <cell xml:lang="grc"><distinct>Σακχαρον</distinct>.</cell> 
                   <cell><persName ref="#pedanius_dioscorides_0040">Dioscorides</persName></cell>
                </row>
                <row>
-                  <cell xml:lang="el"><distinct>Saccaron</distinct></cell>
+                  <cell xml:lang="grc"><distinct>Saccaron</distinct></cell>
                   <cell><persName ref="#pliny_0023">Plinius</persName></cell>
                </row>
                <row>
-                  <cell xml:lang="el"><distinct>Σακχαρι</distinct>. <distinct>Μελι καλαμινον</distinct>.</cell> 
+                  <cell xml:lang="grc"><distinct>Σακχαρι</distinct>. <distinct>Μελι καλαμινον</distinct>.</cell> 
                   <cell><persName ref="#arrian_0086">Arrianus</persName></cell>
                </row>
                <row>
-                  <cell xml:lang="el"><distinct>Σακχαρ</distinct>.</cell> 
+                  <cell xml:lang="grc"><distinct>Σακχαρ</distinct>.</cell> 
                   <cell><persName ref="#galen_0129">Galenus</persName></cell>
                </row>
                <row>
-                  <cell xml:lang="el"><distinct>Αλς Ινδικος</distinct>.</cell>
+                  <cell xml:lang="grc"><distinct>Αλς Ινδικος</distinct>.</cell>
                   <cell><persName ref="#paul_of_aegina_0625">P. Ægineta</persName>, <distinct type="dialect" xml:lang="la" rend="italic">ab</distinct> <persName ref="#archigenes_0001">Archigenes</persName></cell>
                </row>
                <row>
                   <cell xml:lang="la"><distinct>Saccharum</distinct>.</cell>
-                  <cell><name rend="italic">Latinè</name></cell>
+                  <cell><name rend="italic" xml:lang="la">Latinè</name></cell>
                </row>
                <row>
                   <cell xml:lang="ar"><distinct>Zuchar</distinct>.</cell>
-                  <cell><name rend="italic">Arabicè</name></cell>
+                  <cell><name rend="italic" xml:lang="la">Arabicè</name></cell>
                </row>
                <row>
                   <cell xml:lang="it"><distinct>Zuccharo</distinct>.</cell>
-                  <cell><name rend="italic">Italicè</name></cell>
+                  <cell><name rend="italic" xml:lang="la">Italicè</name></cell>
                </row>
                <row>
                   <cell xml:lang="es"><distinct>Açúcar</distinct>.</cell> 
-                  <cell><name rend="italic">Hispanicè</name></cell>
+                  <cell><name rend="italic" xml:lang="la">Hispanicè</name></cell>
                </row>
                <row>
                   <cell xml:lang="gl"><distinct>Sucre</distinct>.</cell> 
-                  <cell><name rend="italic">Gallicè</name></cell>
+                  <cell><name rend="italic" xml:lang="la">Gallicè</name></cell>
                </row>
                <row>
                   <cell xml:lang="de"><distinct>Zúcker</distinct>.</cell> 
-                  <cell><name rend="italic">Germanicè</name></cell>
+                  <cell><name rend="italic" xml:lang="la">Germanicè</name></cell>
                </row>
                <row>
-                  <cell><distinct>Suycker</distinct>.</cell>
-                  <cell><name rend="italic">Belgicè</name></cell>
+                  <cell xml:lang="nl"><distinct>Suycker</distinct>.</cell>
+                  <cell><name rend="italic" xml:lang="la">Belgicè</name></cell>
                </row>
             </table>
             <div type="section">
@@ -1949,7 +1949,7 @@
                   (<persName ref="#claudius_salmasius_1588">Saumaise</persName>, his proper name), who went to
                   reside at <placeName>Leyden</placeName> in <date when="1632">1632</date>, asserts, that what
                   authors denominate the <ecda:flora><distinct type="dialect" rend="italic">sacar mambu</distinct></ecda:flora> of the
-                  <name>Indians</name>, was the <ecda:flora><distinct type="agricultural" xml:lang="el">σακχαρον</distinct></ecda:flora>, or <ecda:flora>sugar</ecda:flora>, of the
+                  <name>Indians</name>, was the <ecda:flora><distinct type="agricultural" xml:lang="grc">σακχαρον</distinct></ecda:flora>, or <ecda:flora>sugar</ecda:flora>, of the
                   ancients.
                </p>
                <p>By the word <distinct type="mentioned">ancients</distinct>, in this treatise, the 
@@ -1960,7 +1960,7 @@
                   <fw type="pageNum">44</fw>
                   
                <p>He says,—<quote xml:lang="la" rend="italic">Exercitationes nostræ docent illud
-                  <ecda:flora><distinct type="dialect" xml:lang="el" rend="upright">σακχαρον</distinct></ecda:flora> esse quod hoc tempore vocatur apud <name>Indos</name>
+                  <ecda:flora><distinct type="dialect" xml:lang="grc" rend="upright">σακχαρον</distinct></ecda:flora> esse quod hoc tempore vocatur apud <name>Indos</name>
                   <ecda:flora><distinct type="dialect">Sacar-Mambu</distinct></ecda:flora>; quod in arundine Indica arboreæ
                   ac vastæ proceritatis sponte crescit.</quote> <title>De
                   Sacharo Commentarius.</title>
@@ -1969,7 +1969,7 @@
                   was the <ecda:flora><distinct type="dialect" rend="italic">tabaxir</distinct></ecda:flora> of the <name>Arabians</name>; but
                   that the <name>Arabians</name> were ignorant how it was
                   produced, as were the ancient <name>Greeks</name> of the <quote type="dialect" xml:lang="la" rend="italic">generatio
-                  Mellis Calamini, sive <ecda:flora><distinct type="dialect" xml:lang="el" rend="upright">σακχαρον</distinct></ecda:flora></quote>; who thought 
+                  Mellis Calamini, sive <ecda:flora><distinct type="dialect" xml:lang="grc" rend="upright">σακχαρον</distinct></ecda:flora></quote>; who thought 
                   it was the dew, which, falling on the <ecda:flora><rs type="properAdjective">Indian</rs> 
                   canes</ecda:flora>, concreted: and that it was a kind of 
                   <ecda:food>manna</ecda:food>. 
@@ -1991,7 +1991,7 @@
                   
                   <fw type="pageNum">45</fw>
                   
-                  of the <name>Indians</name> and the real <ecda:food><distinct type="dialect" xml:lang="el" rend="upright">μελι σακχαρον</distinct></ecda:food> of
+                  of the <name>Indians</name> and the real <ecda:food><distinct type="dialect" xml:lang="grc" rend="upright">μελι σακχαρον</distinct></ecda:food> of
                   the <name>Greeks</name>. He says the antients gave it the
                   appellation of <ecda:food><distinct type="agricultural">sugar</distinct></ecda:food>, which the <name>Arabians</name> did
                   not; because they believed it to be the ashes,
@@ -2011,7 +2011,7 @@
                   corroboration of his opinion, to shew, that
                   the virtues attributed by the <name>Arabians</name> to the
                   <distinct type="dialect" rend="italic">tabaxir</distinct> coincide with those which the <name>Greeks</name>
-                  ascribed to their <distinct type="dialect" xml:lang="el" rend="upright">σακχαρον</distinct>.
+                  ascribed to their <distinct type="dialect" xml:lang="grc" rend="upright">σακχαρον</distinct>.
                </p>
                <p>In these conjunctures, I believe, it will appear
                   that the most learned <persName ref="#claudius_salmasius_1588">Salmasius</persName> is mistaken;
@@ -2020,7 +2020,7 @@
                   <distinct type="dialect" rend="italic">tabasis</distinct>, <distinct type="dialect" rend="italic">tabasir</distinct>, and <distinct type="dialect" rend="italic">sabascir</distinct>, of <persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhasis</persName>,
                   <persName ref="#avicenna_0980">Avicenna</persName>, <persName ref="#yahya_ibn_sarafyun_0001 #serapion_the_younger_0001">Serapion</persName>, and <persName ref="#averroes_1126">Averroes</persName>, was
                   neither the <distinct type="dialect" rend="italic">sacar-mambu</distinct> of the <name>Indians</name>, nor
-                  the <distinct type="dialect" xml:lang="el" rend="upright">σακχαρον</distinct> of the antients.
+                  the <distinct type="dialect" xml:lang="grc" rend="upright">σακχαρον</distinct> of the antients.
                </p>
                
                <fw type="pageNum">46</fw>
@@ -2124,12 +2124,12 @@
                   ashes of the <ecda:flora><rs type="properAdjective">Indian</rs> canes</ecda:flora>; or of their joints,
                   or roots: and being of a greyish colour, like
                   <distinct type="dialect" rend="italic">spodium, (pompholix, tutty, putty)</distinct> rendered the
-                  word <distinct type="dialect" rend="italic">tabaxir</distinct>, by that appellation, from <distinct type="dialect" xml:lang="el">σποδος</distinct>,
+                  word <distinct type="dialect" rend="italic">tabaxir</distinct>, by that appellation, from <distinct type="dialect" xml:lang="grc">σποδος</distinct>,
                   ashes. But as it was given internally, it certainly
                   
                   <fw type="pageNum">49</fw>
                   
-                  could not be the <distinct xml:lang="el" type="dialect">σποδος</distinct> of the <name>Greeks</name>;
+                  could not be the <distinct xml:lang="grc" type="dialect">σποδος</distinct> of the <name>Greeks</name>;
                   which was the <distinct type="dialect" xml:lang="la">fordes</distinct>, or recrement of melting
                   brass: and never employed by them but for 
                   external purposes.
@@ -2439,7 +2439,7 @@
                <p><persName ref="#claudius_salmasius_1588">Salmasius</persName>, believing in this error, that
                   sugar was actually found ready made, asserts,—
                   <quote rend="block" xml:lang="la">De hoc ipso priscorum saccharo, sive tabaxir,
-                  accepi debet; cui nomen etiam propterea <distinct type="dialect" xml:lang="el" rend="upright">αλος Ινδικου</distinct>
+                  accepi debet; cui nomen etiam propterea <distinct type="dialect" xml:lang="grc" rend="upright">αλος Ινδικου</distinct>
                   veteres imposuerunt.</quote> <bibl><title>De Canteo</title>, cap. 79.</bibl>
                   
                <pb/>
@@ -2460,8 +2460,8 @@
                   in this error is, that the sugar described by the
                   ancients does not correspond with any species
                   of sugar now in use. His own words are,—
-                  <quote rend="block"><distinct type="dialect" xml:lang="la" rend="italic">Fallitur itaque mirum in modum si quies <distinct type="dialect" xml:lang="el" rend="upright">μελι καλαμωον</distinct>,
-                  aut <distinct xml:lang="el" type="dialect" rend="upright">αλας Ινδικου</distinct>, aut <distinct type="dialect" xml:lang="el" rend="upright">σακχαρον</distinct>, antiquum
+                  <quote rend="block"><distinct type="dialect" xml:lang="la" rend="italic">Fallitur itaque mirum in modum si quies <distinct type="dialect" xml:lang="grc" rend="upright">μελι καλαμωον</distinct>,
+                  aut <distinct xml:lang="grc" type="dialect" rend="upright">αλας Ινδικου</distinct>, aut <distinct type="dialect" xml:lang="grc" rend="upright">σακχαρον</distinct>, antiquum
                   idem putat cum nostro saccharo.</distinct></quote> <title>De Saccharo
                   Comment.</title>
                </p>
@@ -2481,13 +2481,13 @@
                <fw type="pageNum">59</fw>
                
                <p><persName ref="#pedanius_dioscorides_0040">Dioscorides</persName> (anno <date when="0064">64</date>), who is the first writer
-                  which mentions the word <distinct xml:lang="el" type="dialect" rend="upright">σακχαρον</distinct>, or sugar,
-                  in his chapter <distinct type="dialect" xml:lang="el" rend="upright">ϖερι Σακχαρου Μελιτος</distinct>, demonstrates
+                  which mentions the word <distinct xml:lang="grc" type="dialect" rend="upright">σακχαρον</distinct>, or sugar,
+                  in his chapter <distinct type="dialect" xml:lang="grc" rend="upright">ϖερι Σακχαρου Μελιτος</distinct>, demonstrates
                   clearly that he was acquainted with
                   some species of sugar, made from the <ecda:flora>sugar
                   cane</ecda:flora>; though it plainly appears that he was
                   ignorant of the nature of its preparation.—
-                  <quote rend="block" xml:lang="el">Καλειται δε και σακχαρον ειδος ον μελιτος,
+                  <quote rend="block" xml:lang="grc">Καλειται δε και σακχαρον ειδος ον μελιτος,
                      εν Ινδια ϖεπηγοτος και τη ευδαιμονι Αραζικ
                      ευρισκομενον επι των καλαμων, ομοιον τη συστασει
                      αλισι, και ϑραυομενον υπο τοις οδουσι καθαπερ
@@ -2516,14 +2516,14 @@
                </p>
                <p><persName ref="#arrian_0086">Arrian</persName> (anno <date when="0123">123</date>), <title xml:lang="la" rend="italic">in Periplo maris
                   Erythræi</title>, says, there is a nation bordering on the
-                  <placeName>Red Sea</placeName>, who drink <distinct xml:lang="el" type="dialect" rend="upright">μελι το καλαμινον, το 
+                  <placeName>Red Sea</placeName>, who drink <distinct xml:lang="grc" type="dialect" rend="upright">μελι το καλαμινον, το 
                   λεγομενον σακχαρι</distinct>;—<quote rend="quotes">honey of the reed, called
                   sugar.</quote>
                </p>
                <p><persName ref="#galen_0129">Galen</persName> (anno <date when="0164">164</date>), in his 7th book of the
                   temperaments and faculties of simple medicines,
-                  <title xml:lang="el">ϖερι Mελιτος</title>, says,—
-                  <quote rend="block" xml:lang="el">Και το σακχαρ δε καλουμενον οπερ εξ Iνδιας
+                  <title xml:lang="grc">ϖερι Mελιτος</title>, says,—
+                  <quote rend="block" xml:lang="grc">Και το σακχαρ δε καλουμενον οπερ εξ Iνδιας
                      τε και τμς ευδαιμονος Αραζιας καμιζεται ϖερι
                      ϖηγνυται μεν, της Φασι, καλαμοις, εστι δε τι
                      και αυτο μελιτος ειδος ηττον μεν εστιν η το
@@ -2542,7 +2542,7 @@
                   <pb/>
                   <fw type="pageNum">61</fw>
                   
-                  <quote rend="block" xml:lang="el">Αλς ο Ινδικος, χροια μεν και συστασει, ομοιος
+                  <quote rend="block" xml:lang="grc">Αλς ο Ινδικος, χροια μεν και συστασει, ομοιος
                      τω κοινω αλι γευσει δε μελιτωδης.
                   </quote>
                   <quote rend="quotes">The <distinct type="dialect" rend="italic">Indian salt</distinct>, in colour form like
@@ -2590,7 +2590,7 @@
                </p>
                <p>This can be no other preparation than that
                   we now call the white <distinct type="dialect" rend="smallcaps">Sugar-Candy</distinct>; which I
-                  consider as the real <distinct type="dialect" xml:lang="el" rend="upright">μελι καλαμινον: αλς Ινδικος:
+                  consider as the real <distinct type="dialect" xml:lang="grc" rend="upright">μελι καλαμινον: αλς Ινδικος:
                   —σακχαρον</distinct> antiquorum.
                </p>
                <p>It is evident <persName ref="#avicenna_0980">Avicenna</persName> erroneously supposed
@@ -2797,7 +2797,7 @@
                <p><persName ref="#claudius_salmasius_1588">Salmasius</persName> derives it from a corrupt <rs type="properAdjective">Greek</rs>
                   word of the middle ages. He says,—
                   <quote xml:lang="la" rend="block">Saccharum candum, non à candore dictum,
-                  nec à canna; sed <distinct xml:lang="el" type="dialect" rend="upright">καντι, vel καντον &amp; καντιον</distinct>,
+                  nec à canna; sed <distinct xml:lang="grc" type="dialect" rend="upright">καντι, vel καντον &amp; καντιον</distinct>,
                   Græci recentiores vocárunt, quod angulosum
                   sit; &amp; quum frangitur, in partes semper dissiliat
                   angulatas. Id Græci vulgares καντον appellant.</quote>
@@ -2808,7 +2808,7 @@
                   figure, entire, or broken, the word
                   should be written cantum, or candium, in the
                   <name>Latin</name>; or rather <distinct type="dialect" rend="italic">canthum</distinct>, or <distinct type="dialect" rend="italic">canthium</distinct>; as
-                  <distinct type="dialect" xml:lang="el" rend="upright">κανθος</distinct> is <distinct type="dialect" rend="italic">angulus</distinct>, an angle or corner.
+                  <distinct type="dialect" xml:lang="grc" rend="upright">κανθος</distinct> is <distinct type="dialect" rend="italic">angulus</distinct>, an angle or corner.
                </p>
                <p><persName ref="#claudius_salmasius_1588">Salmasius</persName> has taken the barbarous word
                   from <persName ref="#nicholas_myrepsos_0001">Nicholas Myrepsus</persName>, who wrote his collection
@@ -2819,7 +2819,7 @@
                   
                   authors, about the year <date when="1280">1280</date>: he is one of the
                   latest writers in the <rs type="properAdjective">Greek</rs> language. His
-                  writings are full of barbarisms, and <distinct type="dialect" xml:lang="el" rend="upright">καντιον</distinct> is found
+                  writings are full of barbarisms, and <distinct type="dialect" xml:lang="grc" rend="upright">καντιον</distinct> is found
                   used by him, <title rend="italic">De Antidotis</title>, cap. 35, 94, and
                   96, to express what the translators have rendered
                   <quote rend="quotes" xml:lang="la">saccharum appellatum candum;</quote>—the
@@ -2827,16 +2827,16 @@
                </p>
                <p><persName ref="#leonhart_fuchs_1501" cert="high">Fuchsius</persName>, one of his translators, observes,
                   in the notes to cap. 35, and 94, that though
-                  the word is <distinct xml:lang="el" type="dialect" rend="upright">καντιον</distinct> in the manuscript copy, and
+                  the word is <distinct xml:lang="grc" type="dialect" rend="upright">καντιον</distinct> in the manuscript copy, and
                   implies what we now call <distinct type="dialect" rend="italic">saccharum candi, vel
                   candidum,</distinct> yet it seems to have been written
                   originally κανδιον;—and that <distinct type="dialect" rend="italic">candi</distinct> is only an
                   abbreviation of <distinct type="dialect" rend="italic">candidum</distinct>.
                </p>
-               <p>Now <distinct type="dialect" xml:lang="el" rend="upright">κανδιον</distinct>, I believe, stands on no better
+               <p>Now <distinct type="dialect" xml:lang="grc" rend="upright">κανδιον</distinct>, I believe, stands on no better
                   authority in the <rs type="properAdjective">Greek</rs> language than καντιον;
                   and I think it is difficult to ascertain whether
-                  the word be a corruption of the <rs type="properAdjective">Greek</rs> <distinct type="dialect" xml:lang="el" rend="upright">κανθος</distinct>,
+                  the word be a corruption of the <rs type="properAdjective">Greek</rs> <distinct type="dialect" xml:lang="grc" rend="upright">κανθος</distinct>,
                   or the <rs type="properAdjective">Latin</rs> <distinct type="dialect" rend="italic">candidum</distinct>, considering the period
                   when <persName ref="#nicholas_myrepsos_0001">Myrepsus</persName> wrote.
                </p>
@@ -2933,8 +2933,8 @@
                </p>
                <p>The art of refining sugar was first practised 
                   in <placeName>England</placeName> in <date when="1544">1544</date>. The first adventurers in
-                  this business were <persName rend="mixed"><mcr>Cornelius Bussine</mcr></persName>, <persName rend="mixed"><mcr>Ferdinando
-                  Points</mcr></persName>, ...... <persName rend="mixed"><mcr>Mounsie</mcr></persName>, <persName rend="mixed"><mcr>John Gardiner</mcr></persName>, and
+                  this business were <persName rend="mixed" ref="#cornelius_bussine_0001"><mcr>Cornelius Bussine</mcr></persName>, <persName ref="#ferdinando_points_0001" rend="mixed"><mcr>Ferdinando
+                  Points</mcr></persName>, ...... <persName ref="#mounsey_0001" rend="mixed"><mcr>Mounsie</mcr></persName>, <persName ref="#john_gardner_0001" rend="mixed"><mcr>John Gardiner</mcr></persName>, and
                   <persName ref="#william_chester_1509" rend="mixed"><mcr>Sir William Chester</mcr></persName>; these persons were the
                   proprietors of two sugar-houses, which were
                   all that were at that time in <placeName>England</placeName>.
@@ -3036,7 +3036,7 @@
                   <distinct type="dialect" rend="italic">saccharum</distinct> is derived, is also the first who speaks
                   of the medicinal qualities of sugar. In his 
                   chapter, ϖερι Σακχαρου Μελιτος, he says:—
-                  <quote rend="block" xml:lang="el">
+                  <quote rend="block" xml:lang="grc">
                      Εστι δε ευκοιλιον, ευστομαχον, διεθεν υδατι
                      και ϖοθεν ωΦελουν κυοτιν κεκακωμενην καιμεΦρους
                      καθαιρει δε και τα τας κορας επισκο τουντα 
@@ -3057,12 +3057,12 @@
                   originated with <persName ref="#pedanius_dioscorides_0040">Dioscorides</persName>.
                </p>
                <p><persName ref="#galen_0129">Galen</persName>, in his 7th book of the temperaments
-                  and faculties of medicines, <title xml:lang="el">ϖερι Μελιτος</title>, says,—
+                  and faculties of medicines, <title xml:lang="grc">ϖερι Μελιτος</title>, says,—
                   
                   <pb/>
                   <fw type="pageNum">78</fw>
                   
-                  <quote rend="block" xml:lang="el">Την δυ<gap/>κμον ϖαραπλησιον αυτω, καθ' οσον
+                  <quote rend="block" xml:lang="grc">Την δυ<gap/>κμον ϖαραπλησιον αυτω, καθ' οσον
                      απορρυπτει, και ξηραινει, και διαΦορει καθ οσον
                      ουτε κακοστομαχον εστιν ως το ϖαρ ημιν,
                      ουτε διψωδες, αποκεχωρηκε της ουσιας αυτον,
@@ -4785,7 +4785,7 @@
                   <quote rend="italic">Kaneh besem, and kinemon besem.</quote>
                </p>
                <p>This is rendered in the Septuagint version,                 <!-- are we marking versions of the Bible? -->
-                  <quote xml:lang="el">Κινναμωμον ευωες και καλαμος ευωδες και καλαμος ευωδης.</quote>
+                  <quote xml:lang="grc">Κινναμωμον ευωες και καλαμος ευωδες και καλαμος ευωδης.</quote>
                </p>
                <p>The <rs type="properAdjective">Latin</rs> versions in the Polyglott have it,
                   <quote xml:lang="la" rend="italic">Cinnamomum odoriferum, et calamus odoriferus.</quote>
@@ -4800,7 +4800,7 @@
                <p>Again, in the <title>Canticles</title>, both <distinct type="dialect" rend="italic">kaneh</distinct> and
                   cinnamon are mentioned, as distinct articles
                   <quote xml:lang="he">קגה וקגמון</quote>
-                  <quote xml:lang="el">Καλαμος και κινναμωμον</quote>
+                  <quote xml:lang="grc">Καλαμος και κινναμωμον</quote>
                </p>
                <p>The <rs type="properAdjective">Latin</rs> versions have this, <distinct type="dialect" rend="italic">calamus 
                   aromaticus et cinnamomum</distinct>; and <distinct type="dialect" rend="italic">fistula et
@@ -4847,7 +4847,7 @@
                <fw type="pageNum">130</fw>
                
                <p>The Septuagint has the part of the verse I
-                  have quoted from the <name>Hebrew</name>, <distinct xml:lang="el" type="dialect" rend="upright">κινναμωμον</distinct>
+                  have quoted from the <name>Hebrew</name>, <distinct xml:lang="grc" type="dialect" rend="upright">κινναμωμον</distinct>
                   <quote rend="italic"><hi rend="upright"><distinct rend="smallcaps">Cinnamon</distinct></hi> from a far country</quote>. In
                   the <rs type="properAdjective">Latin</rs> versions it is rendered <quote xml:lang="la" rend="italic">calamus
                   suaveolens de terra longinqua</quote>; and <quote xml:lang="la" rend="italic">cinnamomum de
@@ -4855,7 +4855,7 @@
                   longinqua.</quote>
                </p>
                <p>It is necessary to observe here, that, in the 
-                  Septuagint, <distinct type="dialect" xml:lang="he" rend="upright">קגה</distinct> is converted into <distinct xml:lang="el" type="dialect" rend="upright">κινναμωμον</distinct>,
+                  Septuagint, <distinct type="dialect" xml:lang="he" rend="upright">קגה</distinct> is converted into <distinct xml:lang="grc" type="dialect" rend="upright">κινναμωμον</distinct>,
                   <distinct type="dialect" rend="italic">cinnamon</distinct>; which word is not the original
                   text; and the epithet <distinct type="dialect" xml:lang="he" rend="upright">טוב</distinct> <distinct type="dialect" rend="italic">tub</distinct>, good, perfect,
                   best, is entirely omitted.
@@ -5032,7 +5032,7 @@
                   only instance where they were not so correct
                   as they should have been.
                </p>
-               <p>We find among the <rs type="properAdjective">Greek</rs> writers <distinct xml:lang="el" type="dialect" rend="upright">καννα
+               <p>We find among the <rs type="properAdjective">Greek</rs> writers <distinct xml:lang="grc" type="dialect" rend="upright">καννα
                   δοναξ</distinct> and <distinct type="dialect" xml:lang="he" rend="upright">καλαμος</distinct>; and among the <rs type="properAdjective">Roman</rs>
                   writers <distinct type="dialect" rend="italic">canna</distinct>, <distinct type="dialect" rend="italic">arundo</distinct>, and <distinct type="dialect" rend="italic">calamus</distinct>;—but these
                   names are used indiscriminately for a <distinct rend="italic">cane</distinct>, or
@@ -5043,7 +5043,7 @@
                   context has been inadequate to settle a precise and
                   determinate meaning.
                </p>
-               <p>The <distinct type="dialect" xml:lang="el" rend="upright">γλυκοκαλμος</distinct>, in later times, of <persName ref="#nicholas_myrepsos_0001">Nicholas
+               <p>The <distinct type="dialect" xml:lang="grc" rend="upright">γλυκοκαλμος</distinct>, in later times, of <persName ref="#nicholas_myrepsos_0001">Nicholas
                   Myrepsus</persName>, which is translators have rendered
                   
                   <pb/>
@@ -5070,7 +5070,7 @@
                   Bible every where denominates it, <quote rend="quotes">strong
                   drink.</quote>
                </p>
-               <p>The Septuagint renders it <distinct type="dialect" xml:lang="el" rend="upright">σικορα</distinct><anchor xml:id="a049" corresp="#n049"/>, σικερα<anchor xml:id="a050" corresp="#n050"/>,
+               <p>The Septuagint renders it <distinct type="dialect" xml:lang="grc" rend="upright">σικορα</distinct><anchor xml:id="a049" corresp="#n049"/>, σικερα<anchor xml:id="a050" corresp="#n050"/>,
                   the <rs type="properAdjective">Latin</rs> versions <distinct type="dialect" rend="italic">sechar</distinct>, <distinct type="dialect" rend="italic">sicera</distinct>.
                </p>
                <p><persName ref="#moses_0001">Moses</persName> says, God ordered him to proclaim
@@ -5304,10 +5304,10 @@
                   pulmonary consumption, recovered by the 
                   juice of the sugar cane.
                </p>
-               <p><persName ref="#benito_arias_montano_1527">Fontanus</persName>, <persName ref="#valeriola_0001">Valeriola</persName>, and <persName ref="#forrestus_0001">Forrestus</persName>, <!-- I think these are Benito Montanus, Franciscus Valleriola, and Petrus Forestus; they are frequently cited together on this topic-->
+               <p><persName ref="#benito_arias_montano_1527">Fontanus</persName>, <persName ref="#francisco_valeriola_1504">Valeriola</persName>, and <persName ref="#petrus_forestus_1521">Forrestus</persName>, 
                   assert that they had patients cured of consumptions
                   of the lungs by a continued use of the
-                  <distinct type="scientific" rend="italic">conserve of roses</distinct>; and <persName>Reverius</persName> knew an
+                  <distinct type="scientific" rend="italic">conserve of roses</distinct>; and <persName ref="#lazare_riviere_1589">Reverius</persName> knew an
                   apothecary who cured himself of a confirmed
                   consumption by almost living on the conserve of
                   roses. <seg ana="#medical">Foreign journals are full of histories of
@@ -5620,7 +5620,7 @@
                   found not only sufficient to sustain nature, but
                   has caused lean people to grow fat, and has
                   increased the vigour of their bodies. The late
-                  <persName rend="mixed">king of <placeName>Sardinia</placeName></persName> at a great quantity of <ecda:commodity ana="#food">sugar</ecda:commodity>
+                  <ecda:anonPers a-gender="male" a-occupation="king" a-aig="sardinian">king of <placeName>Sardinia</placeName></ecda:anonPers> at a great quantity of <ecda:commodity ana="#food">sugar</ecda:commodity>
                   daily. He ate it by itself; without dissolving
                   it, or mixing it with anything. It was his
                   chief food. After his death, his body was
@@ -5631,7 +5631,7 @@
                <pb/>
                <fw type="pageNum">152</fw>
                
-               <p>The great <persName rend="upright">duke of <placeName>Beaufort</placeName></persName>, as he was 
+               <p>The great <persName ref="#henry_somerset_1629" rend="upright">duke of <placeName>Beaufort</placeName></persName>, as he was 
                   called, who died about an hundred years ago
                   at the age of seventy, was opened; his viscera
                   were found in the same manner; as perfect as
@@ -5640,7 +5640,7 @@
                   death used a pound of <ecda:commodity ana="#food">sugar</ecda:commodity> daily, in his
                   <ecda:food>wine</ecda:food>, <ecda:food>chocolate</ecda:food>, and <ecda:food>sweet-meats</ecda:food>.
                </p>
-               <p><persName ref="#frederick_slare_1647">Slare</persName> says, his grandfather <persName rend="mixed">Mr. <mcr>Malory</mcr></persName> was
+               <p><persName ref="#frederick_slare_1647">Slare</persName> says, his grandfather <persName ref="#ralph_malory_0001" rend="mixed">Mr. <mcr>Malory</mcr></persName> was
                   strong and chearful in his eighty second year;
                   at which time his hair changed somewhat dark;
                   his old teeth came out, pushed away by young
@@ -6023,13 +6023,13 @@
                </p>
                <p ana="#disease #medical">Wonderful things to certainly appear in all
                   ages; the great <persName ref="#desiderius_erasmus_1466">Erasmus</persName> mentions a man, one
-                  <persName>Philario</persName>, an <name>Italian</name>, who in <placeName>Holland</placeName> was very
+                  <persName ref="#philario_0001">Philario</persName>, an <name>Italian</name>, who in <placeName>Holland</placeName> was very
                   much afflicted with worms. While the worms 
                   were in his body, he spoke the <rs type="properAdjective">Dutch</rs> language
                   fluently. When <ecda:anonPers a-occupation="physician">his physician</ecda:anonPers> cured him of
                   the disorder, he could not speak a word of that
                   language. The <rs type="properAdjective">Dutch</rs> worms and the <rs type="properAdjective">Dutch</rs>
-                  language, left <persName rend="mixed"><mcr>Philario</mcr></persName> together<anchor xml:id="a072" corresp="#a072"/>!
+                  language, left <persName ref="#philario_0001" rend="mixed"><mcr>Philario</mcr></persName> together<anchor xml:id="a072" corresp="#a072"/>!
                </p>
                <p ana="#disease #medical">In this <distinct rend="italic">Cowmania</distinct> it is not enough for reason
                   to concede, that the Cow-pox may lessen, <emph>for
@@ -6129,10 +6129,10 @@
                   No period from infancy to age exempts them
                   from it. Its appearance is uncertain.
                </p>
-               <p ana="#disease #medical"><persName>Chevalier</persName> and <persName>Hillary</persName> speak of the <distinct type="scientific" rend="italic">yaws</distinct>;
-                  but their accounts are erroneous. <persName>Chevalier</persName>
-                  perhaps never saw it<anchor xml:id="a073" corresp="#n073"/>. <persName>Hillary</persName> often saw
-                  it; but he misunderstands <persName>Hali Abras</persName>, whom
+               <p ana="#disease #medical"><persName ref="#jean_damien_chevalier_0001">Chevalier</persName> and <persName ref="#william_hillary_1697">Hillary</persName> speak of the <distinct type="scientific" rend="italic">yaws</distinct>;
+                  but their accounts are erroneous. <persName ref="#jean_damien_chevalier_0001">Chevalier</persName>
+                  perhaps never saw it<anchor xml:id="a073" corresp="#n073"/>. <persName ref="#william_hillary_1697">Hillary</persName> often saw
+                  it; but he misunderstands <persName ref="#abbas_al_majusi_982">Hali Abras</persName>, whom
                   he has quoted; endeavoring to prove it is
                   common in <placeName>Arabia</placeName> as well as in <placeName>Africa</placeName><anchor xml:id="a074" corresp="#n074"/>.
                </p>
@@ -6367,7 +6367,7 @@
                </p>
                <p>I saw the <name rend="smallcaps">Obi</name> of the famous negro robber,
                   <persName ref="#three_fingered_jack_0001"><hi rend="mixed"><mcr>Three fingered</mcr></hi> Jack</persName>, the terror of <placeName>Jamaica</placeName> in
-                  <date from="1780" to="1781">1780 and 1781</date>. The <ecda:persGroup a-gender="male" a-aig="maroon" ref="#james_reeder_mos_0001 #sam_mos_0001">Maroons</ecda:persGroup> who slew him
+                  <date from="1780" to="1781">1780 and 1781</date>. The <ecda:persGroup a-gender="male" a-aig="maroon" ref="#james_reeder__0001 #sam_grant_0001">Maroons</ecda:persGroup> who slew him
                   brought it to me.
                </p>
                <p>His <name rend="smallcaps">Obi</name> consisted of the end of a goat's horn,
@@ -6441,16 +6441,16 @@
                   <pb/>
                   <fw type="pageNum">176</fw>
                   
-                  <name>negroes</name>, named <persName ref="#james_reeder_mos_0001">Quashee</persName> and <persName ref="#sam_mos_0001">Sam</persName> (<persName ref="#sam_mos_0001">Sam</persName>
-                  was <persName><hi rend="mixed">Captain</hi> Davy's</persName> son, he who shot a
-                  <persName><hi rend="mixed">Mr</hi>. Thompson</persName>, the master of a <rs type="properAdjective">London</rs> ship,
+                  <name>negroes</name>, named <persName ref="#james_reeder__0001">Quashee</persName> and <persName ref="#sam_grant_0001">Sam</persName> (<persName ref="#sam_grant_0001">Sam</persName>
+                  was <persName ref="#davy_0001"><hi rend="mixed">Captain</hi> Davy's</persName> son, he who shot a
+                  <persName ref="#thompson_0001"><hi rend="mixed">Mr</hi>. Thompson</persName>, the master of a <rs type="properAdjective">London</rs> ship,
                   at <placeName>Old Harbour</placeName>), both of <placeName><mcr>Scots Hall</mcr> Maroon
                   Town</placeName>, with a <ecda:persGroup>party of their townsmen</ecda:persGroup>, went
                   in search of him.
                </p>
-               <p ana="#religion"><persName ref="#james_reeder_mos_0001">Quashee</persName>, before he set out on the expedition, 
+               <p ana="#religion"><persName ref="#james_reeder__0001">Quashee</persName>, before he set out on the expedition, 
                   got himself christianed, and changed his
-                  name to <persName ref="#james_reeder_mos_0001">James Reeder</persName>.
+                  name to <persName ref="#james_reeder__0001">James Reeder</persName>.
                </p>
                <p>The expedition commenced; and the whole
                   party had been creeping about in the woods,
@@ -6459,7 +6459,7 @@
                   the island, where <persName ref="#three_fingered_jack_0001">Jack</persName>, far remote from all
                   human society, resided,—but in vain.
                </p>
-               <p><persName ref="#james_reeder_mos_0001">Reeder</persName> and <persName ref="#sam_mos_0001">Sam</persName>, tired with this mode of
+               <p><persName ref="#james_reeder__0001">Reeder</persName> and <persName ref="#sam_grant_0001">Sam</persName>, tired with this mode of
                   war, resolved on proceeding in search of his
                   retreat; and taking him, by storming it, or
                   perishing in the attempt.
@@ -6493,19 +6493,19 @@
                <p><persName ref="#three_fingered_jack_0001">Jack's</persName> looks were fierce and terrible. He 
                   told them he would kill them.
                </p>
-               <p ana="#religion"><persName ref="#james_reeder_mos_0001">Reeder</persName>, instead of shooting <persName ref="#three_fingered_jack_0001">Jack</persName>, replied,
+               <p ana="#religion"><persName ref="#james_reeder__0001">Reeder</persName>, instead of shooting <persName ref="#three_fingered_jack_0001">Jack</persName>, replied,
                   that his <name>Obi</name> had no power to hurt him; for
                   he was christianed; and that his name was no
-                  longer <persName ref="#james_reeder_mos_0001">Quashee</persName>.
+                  longer <persName ref="#james_reeder__0001">Quashee</persName>.
                </p>
-               <p><persName ref="#three_fingered_jack_0001">Jack</persName> knew <persName ref="#james_reeder_mos_0001">Reeder</persName>; and as if paralysed,
+               <p><persName ref="#three_fingered_jack_0001">Jack</persName> knew <persName ref="#james_reeder__0001">Reeder</persName>; and as if paralysed,
                   he let is two guns remain on the ground, and took up only his cutlass.
                </p>
                <p>These two had a desperate engagement
                   several years before, in the woods; in which
                   conflict <persName ref="#three_fingered_jack_0001">Jack</persName> lost the two fingers, which was
                   the origin of his present name; but <persName ref="#three_fingered_jack_0001">Jack</persName> then
-                  beat <persName ref="#james_reeder_mos_0001">Reeder</persName>, and almost killed him with se-
+                  beat <persName ref="#james_reeder__0001">Reeder</persName>, and almost killed him with se-
                   
                   <pb/>
                   <fw type="pageNum">178</fw>
@@ -6514,7 +6514,7 @@
                   from <persName ref="#three_fingered_jack_0001">Jack</persName>.
                </p>
                <p>To do <persName ref="#three_fingered_jack_0001"><hi rend="mixed"><mcr>Three fingered</mcr></hi> Jack</persName> justice, he would
-                  now have killed both <persName ref="#james_reeder_mos_0001">Reeder</persName> and <persName ref="#sam_mos_0001">Sam</persName>; for,
+                  now have killed both <persName ref="#james_reeder__0001">Reeder</persName> and <persName ref="#sam_grant_0001">Sam</persName>; for,
                   at first, they were frightened at the sight of
                   him, and the dreadful tone of his voice; and
                   well they might: they had been besides no retreat,
@@ -6525,14 +6525,14 @@
                   that <emph>white</emph> <distinct type="religious" rend="smallcaps">Obi</distinct> would get the better of 
                   him; and, from experience, he knew the
                   charm would lose none of its strength in the
-                  hands of <persName ref="#james_reeder_mos_0001">Reeder</persName>.
+                  hands of <persName ref="#james_reeder__0001">Reeder</persName>.
                </p>
                <p>Without further parley, <persName ref="#three_fingered_jack_0001">Jack</persName>, with his
                   cutlass in hand, threw himself down a precipice
                   at the back of the cave.
                </p>
-               <p><persName ref="#james_reeder_mos_0001">Reeder's</persName> gun missed fire. <persName ref="#sam_mos_0001">Sam</persName> shot him
-                  in the shoulder. <persName ref="#james_reeder_mos_0001">Reeder</persName>, like an <rs type="properAdjective">English</rs>
+               <p><persName ref="#james_reeder__0001">Reeder's</persName> gun missed fire. <persName ref="#sam_grant_0001">Sam</persName> shot him
+                  in the shoulder. <persName ref="#james_reeder__0001">Reeder</persName>, like an <rs type="properAdjective">English</rs>
                   bull-dog, never looked, but, with is cutlass 
                   in his hand, plunged headlong down after
                   <persName ref="#three_fingered_jack_0001">Jack</persName>. The descent was about thirty yards,
@@ -6552,31 +6552,31 @@
                   top of the precipice, and during the fight,
                   shot <persName ref="#three_fingered_jack_0001">Jack</persName> in the belly.
                </p>
-               <p><persName ref="#sam_mos_0001">Sam</persName> was crafty, and coolly took a round
+               <p><persName ref="#sam_grant_0001">Sam</persName> was crafty, and coolly took a round
                   about way to get to the field of action. When
                   he arrived at the spot where it began, <persName ref="#three_fingered_jack_0001">Jack</persName>
-                  and <persName ref="#james_reeder_mos_0001">Reeder</persName> had closed, and tumbled together
+                  and <persName ref="#james_reeder__0001">Reeder</persName> had closed, and tumbled together
                   down another precipice, on the side of the 
                   mountain, in which fall they both lost their 
                   weapons.
                </p>
-               <p><persName ref="#sam_mos_0001">Sam</persName> descended after them, who also lost his
+               <p><persName ref="#sam_grant_0001">Sam</persName> descended after them, who also lost his
                   cutlass, among the trees and bushes in getting
                   down.
                </p>
                <p>When he came to them, though without
                   weapons, they were not idle; and, luckily for
-                  <persName ref="#james_reeder_mos_0001">Reeder</persName>, <persName ref="#three_fingered_jack_0001">Jack's</persName> wounds were deep and
+                  <persName ref="#james_reeder__0001">Reeder</persName>, <persName ref="#three_fingered_jack_0001">Jack's</persName> wounds were deep and
                   desperate, and he was in great agony.
                </p>
-               <p><persName ref="#sam_mos_0001">Sam</persName> came up just time enough to save
-                  <persName ref="#james_reeder_mos_0001">Reeder</persName>; for, <persName ref="#three_fingered_jack_0001">Jack</persName> had caught him by the
-                  throat, with his giant's grasp. <persName ref="#james_reeder_mos_0001">Reeder</persName> then
+               <p><persName ref="#sam_grant_0001">Sam</persName> came up just time enough to save
+                  <persName ref="#james_reeder__0001">Reeder</persName>; for, <persName ref="#three_fingered_jack_0001">Jack</persName> had caught him by the
+                  throat, with his giant's grasp. <persName ref="#james_reeder__0001">Reeder</persName> then
                   was with his right hand almost cut off, an
                   <persName ref="#three_fingered_jack_0001">Jack</persName> streaming with blood from his shoulder
                   and belly; both covered with gore and gashes.
                </p>
-               <p>In this state <persName ref="#sam_mos_0001">Sam</persName> was umpire; and decided
+               <p>In this state <persName ref="#sam_grant_0001">Sam</persName> was umpire; and decided
                   the fate of the battle. He knocked <persName ref="#three_fingered_jack_0001">Jack</persName>
                   down with a piece of a rock.
                </p>
