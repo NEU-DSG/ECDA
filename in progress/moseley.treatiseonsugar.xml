@@ -2030,6 +2030,8 @@
                   <distinct type="dialect" rend="italic">tabaxir</distinct>.
                </p>
                <p><bibl><author><persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhases</persName></author></bibl> (anno <date when="0930">930</date>) says,—
+               </p>
+                  <p>                     
                   <quote xml:lang="la" rend="italic">Tarathit, it est Spodium, frigida est &amp; sicca,
                   qhæ &amp; ventrem stringit, &amp; sanguinem exire prohibet.
                   Spudium frigidum est &amp; siccum, quod sebribus
@@ -2068,6 +2070,8 @@
                </p>
                <p><persName ref="#yahya_ibn_sarafyun_0001 #serapion_the_younger_0001">Serapion</persName> (anno <date when="1070">1070</date>) says, adducing his
                   authorities,—
+               </p>
+               <p>
                   <quote rend="italic" xml:lang="la">Sataiscir, vel Rescius, id est Spodium.</quote>
                </p>
                <p><persName ref="#borzuya_0001">Bedigores</persName>,—<quote rend="italic" xml:lang="la" ana="#medical">Proprietatis spodii est, quod
@@ -2105,6 +2109,8 @@
                   Simplicium</title>, Cap. 332.</bibl>
                </p>
                <p><persName ref="#averroes_1126">Averroes</persName>, (anno <date when="1198">1198</date>) says,
+               </p>
+               <p>
                   <quote ana="#medical" rend="italic" xml:lang="la">Tabaisis, id est spodium, carbo est nodorum arundinum
                   adjustarum Indiæ: frigidum est &amp; siccum in
                   tertio gradu, et ejus proprietas est removere caliditatem
@@ -2214,11 +2220,11 @@
                   says <quote rend="quotes">it is evident from what is stated, that
                   <persName ref="#avicenna_0980">Avicenna</persName> was mistaken in supposing the
                   <distinct type="dialect" rend="italic">tabaxir</distinct> to be the ashes of the roots of the 
-                  <ecda:flora>canes</ecda:flora>.</quote> <!-- start here -->
+                  <ecda:flora>canes</ecda:flora>.</quote> 
                </p>
                <p>He says also, as a further proof of the <distinct type="dialect" rend="italic">tabaxir</distinct>
                   and <distinct type="dialect" rend="italic">spodium</distinct> having been erroneously
-                  confounded together, <quote rend="quotes">that <distinct type="dialect" rend="italic">spodium</distinct> was not used
+                  confounded together, <quote ana="#medical" rend="quotes">that <distinct type="dialect" rend="italic">spodium</distinct> was not used
                   internally by the <name>Greeks</name>; and that by the testimony 
                   of the <rs type="properAdjective">Indian</rs>, <rs type="properAdjective">Arabian</rs>, <rs type="properAdjective">Persian</rs>, and
                   <rs type="properAdjective">Turkish</rs> physicians, the <distinct type="dialect" rend="italic">tabaxir</distinct> is used not
@@ -2228,17 +2234,17 @@
                <p><persName ref="#willem_piso_1611">Piso</persName> a <rs type="properAdjective">Dutch</rs> physician, who lived in the
                   <placeName>Brasils</placeName> in the beginning of the last century,
                   says, <quote rend="prequotes">in <placeName>Egypt</placeName> the <distinct type="dialect" rend="italic">sacar</distinct> of the <name>Arabians</name>,
-                  from whence our word sugar is derived, is
+                  from whence our word <distinct type="mentioned">sugar</distinct> is derived, is
                   
                   <pb/>
                   <fw type="pageNum">52</fw>
                      
                   produced from a low and little plant, coagulated
                   by the heat of the sun; but in the <placeName>East
-                  Indies</placeName>, from the <distinct type="dialect" rend="italic">mambu reed tree</distinct>,</quote> (he then
+                  Indies</placeName>, from the <ecda:flora rend="italic">mambu reed tree</ecda:flora>,</quote> (he then
                   refers to <persName ref="#garcia_de_orta_1501">Garcias</persName>, whom he little more than 
                   copies in the whole article,) <quote rend="postquotes">which is full of 
-                  joints, and in size as large as the poplar tree.
+                  joints, and in size as large as the <ecda:flora>poplar tree</ecda:flora>.
                   The <distinct type="dialect" rend="italic">sacar-mambu</distinct>, which the <name>Arabians</name> call
                   <distinct type="dialect" rend="italic">tabaxir</distinct> issues from this tree, a viscid whitish
                   liquor, according to <persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhazes</persName>, <persName ref="#avicenna_0980">Avicenna</persName>, and
@@ -2250,18 +2256,18 @@
                   species of <ecda:flora>canes</ecda:flora>, called <distinct type="dialect" rend="italic">Mambu</distinct>; or, as the
                   <name>Portuguese</name> have corrupted the word into, <distinct type="dialect" rend="italic">Bambu</distinct>.
                   One sort is small and full of pith; and
-                  the other large, and more hollow:for which
+                  the other large, and more hollow: for which
                   reason they have been called by writers sometimes
-                  canes, and sometimes trees.</quote>
+                  <ecda:flora>canes</ecda:flora>, and sometimes <ecda:flora>trees</ecda:flora>.</quote>
                </p>
                <p>He then gives an account, not much deviating
                   from <persName ref="#garcia_de_orta_1501">Garcias</persName>, concerning the uses, and 
-                  other particulars, of the <distinct type="dialect" rend="italic">Bambu</distinct> cane, observing,
+                  other particulars, of the <ecda:flora><distinct type="dialect" rend="italic">Bambu</distinct> cane</ecda:flora>, observing,
                   <quote rend="quotes" xml:id="q007" next="#q008">that there are some so large, that the
                   <name>Indians</name> make canoes of them, capable of carrying
                   two people.</quote>
                </p>
-               <p>He says, <quote rend="quotes">the full-grown <distinct type="dialect" rend="italic">Mambu</distinct> canes
+               <p>He says, <quote rend="quotes">the full-grown <ecda:flora><distinct type="dialect" rend="italic">Mambu</distinct> canes</ecda:flora>
                   have a soft, spongy, liquid, medullary substance,
                   
                   <pb/>
@@ -2270,7 +2276,7 @@
                   which the common people suck with avidity,
                   on account of its grateful taste.</quote>
                </p>
-               <p><quote rend="quotes" xml:id="q008" next="#q009" prev="#q007">When these canes are large and old, the
+               <p><quote rend="quotes" xml:id="q008" next="#q009" prev="#q007">When these <ecda:flora>canes</ecda:flora> are large and old, the
                   liquor which they contain changes in colour,
                   taste, and efficacy, and gradually protrudes
                   through the cane, between the joints, and is
@@ -2314,17 +2320,17 @@
                   their language for this concreted juice, not on 
                   account of any sweetness in it, for many centuries. 
                   In after-times, when the art of making
-                  sugar from the expressed juice of the sugar-cane
+                  sugar from the expressed juice of the <ecda:flora>sugar-cane</ecda:flora>
                   was known, that factitious substance received
                   the appellation of <distinct type="dialect" xml:lang="la" rend="italic">saccharum</distinct>, or sugar:
-                  probably deriving its etymology from the <distinct type="dialect" rend="italic">sacar</distinct>
+                  probably deriving its etymology from the <distinct type="dialect" rend="italic">sacar</distinct> 
                   of the <name>Indians</name>.</quote> <bibl rend="italic"><title>Mantiss. Aromal.</title> cap. 10.</bibl>
                </p>
                <p>He makes many other remarks, chiefly copied
                   from <persName ref="#garcia_de_orta_1501">Garcias</persName> and <persName ref="#claudius_salmasius_1588">Salmasius</persName>.
                </p>
                <p>I think it is evident, from the authors above 
-                  cited, that, supposing the <distinct type="dialect" rend="italic">sacar mambu</distinct> if the
+                  cited, that, supposing the <distinct type="dialect" rend="italic">sacar mambu</distinct> of the
                   <name>Indians</name> were the <distinct type="dialect" rend="italic">tabaxir</distinct> of the <name>Arabians</name>, it is
                   impossible it could be the saccharum of the
                   ancients.
@@ -2342,23 +2348,23 @@
                
                <p>It is certain that the <distinct type="dialect" rend="italic">sacar-mambu</distinct> is not
                   sweet, according to their account, and consequently
-                  cannot have any relation to sugar:
+                  cannot have any relation to <ecda:food>sugar</ecda:food>:
                   and if it be the exuded gummous juice of the
-                  mambu, or, as we call it the <distinct type="dialect" rend="italic">bambu-cane</distinct>, it
+                  <ecda:flora>mambu</ecda:flora>, or, as we call it the <ecda:flora><distinct type="dialect" rend="italic">bambu-cane</distinct></ecda:flora>, it
                   could not be sweet, for that tree contains no
                   saccharine juice. How then could this be the
-                  sugar of the ancients?
+                  <ecda:food>sugar</ecda:food> of the ancients?
                </p>
                <p>The <name>Arabians</name> had their <distinct type="dialect" rend="italic">tabaxir</distinct> from <placeName>India</placeName>.
                   Their account of it is fabulous. Yet they all
-                  agree that it was the ashes of the <rs type="properAdjective">Indian</rs> cane:
+                  agree that it was the ashes of the <ecda:flora><rs type="properAdjective">Indian</rs> cane</ecda:flora>:
                   and whether it was a kind of pot-ash, or any 
                   other saline preparation, from vegetable
                   excineration, we cannot determine from any
                   chemical or medical facts they have left us on
                   the subject. Certain it is, there is no <emph>sweetness</emph>
                   attributed to it, and consequently it could not
-                  be sugar; and, as it was given internally, whatever
+                  be <ecda:food>sugar</ecda:food>; and, as it was given internally, whatever
                   resemblance it might have to <distinct type="dialect" rend="italic">spodium</distinct>, it has
                   no right to that interpretation, as the <distinct type="dialect" rend="italic">spodium</distinct>
                   of the <name>Greeks</name>, as already observed, was a metallic
@@ -2367,7 +2373,7 @@
                <p>The <rs type="properAdjective">Arabian</rs> medical writers were chiefly
                   compilers and copiers from the <name>Greeks;</name> and
                   seem to have known but little, even of their
-                  own country. Their account of <distinct type="dialect" rend="italic">manna</distinct> is as
+                  own country. Their account of <ecda:food><distinct type="dialect" rend="italic">manna</distinct></ecda:food> is as
                   fabulous as that of their <distinct type="dialect" rend="italic">tabaxir</distinct>, and has
                   given rise to as many speculations. They supposed
                   
@@ -2377,35 +2383,35 @@
                   it was a dew, attracted by certain trees,
                   plants, and stones, and there concreted.
                </p>
-               <p><persName ref="#avicenna_0980">Avicenna</persName> denominates manna, a species of
-                  sugar, <distinct type="dialect" rend="italic">zuccarum alhusar</distinct>; which, he says, falls
-                  on the plant <distinct type="dialect" rend="italic">alhusar</distinct>, or <distinct type="dialect" rend="italic">alhossar</distinct>, and is there
-                  collected in lumps, like salt.
+               <p><persName ref="#avicenna_0980">Avicenna</persName> denominates <ecda:food>manna</ecda:food>, a species of
+                  <ecda:food>sugar</ecda:food>, <ecda:food><distinct type="dialect" rend="italic">zuccarum alhusar</distinct></ecda:food>; which, he says, falls
+                  on the plant <ecda:flora><distinct type="dialect" rend="italic">alhusar</distinct></ecda:flora>, or <ecda:flora><distinct type="dialect" rend="italic">alhossar</distinct></ecda:flora>, and is there
+                  collected in lumps, like <ecda:food>salt</ecda:food>.
                </p>
-               <p><quote rend="italic">Zuccarum Albusar quid est? Manna; cadens
-                  super albusar, et est sicut frusta salis.</quote> <bibl>Lib. II.
+               <p><quote rend="italic" xml:lang="la"><ecda:food>Zuccarum Albusar</ecda:food> quid est? <ecda:food>Manna</ecda:food>; cadens
+                  super <ecda:flora>albusar</ecda:flora>, et est sicut frusta <ecda:food>salis</ecda:food>.</quote> <bibl>Lib. II.
                   Tract. II. Cap. 756.</bibl>
                </p>
                <p><bibl><author><persName ref="#yahya_ibn_sarafyun_0001 #serapion_the_younger_0001">Serapion</persName></author>, Cap. 45. <title rend="italic">de Temperamentis Simplicium</title></bibl>,
-                  speaking of <distinct type="dialect" rend="italic">men</distinct>, or <distinct type="dialect" rend="italic">manna</distinct>, says, from
+                  speaking of <ecda:food><distinct type="dialect" rend="italic">men</distinct></ecda:food>, or <ecda:food><distinct type="dialect" rend="italic">manna</distinct></ecda:food>, says, from
                   <persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhases</persName>, when it first falls on the leaves of
-                  the trees, it is like honey, but green, which,
+                  the trees, it is like <ecda:food>honey</ecda:food>, but green, which,
                   by remaining there for some time, becomes
                   white. He says also, from <persName ref="#masawaiyh_0777">Mescha</persName>, that its
                   qualities depend on the nature of the trees on
                   which it falls. He has another species of
-                  manna, <hi rend="italic">Cap</hi>. 41. which he calls <distinct type="dialect" rend="italic">tereniabin</distinct>,—
+                  <ecda:food>manna</ecda:food>, <hi rend="italic">Cap</hi>. 41. which he calls <ecda:food><distinct type="dialect" rend="italic">tereniabin</distinct></ecda:food>,—
                   <distinct type="dialect" rend="italic">mel roris</distinct>, and which he says, from
-                  <persName ref="#ebenamrez_0001">Ebenamrez</persName>, falls on trees with thorns, in the East. <!-- could this be Ishaq Ibn Imran? Serapion has "Isaac Eben Amraz"-->
+                  <persName ref="#ebenamrez_0001">Ebenamrez</persName>, falls on <ecda:flora>trees with thorns</ecda:flora>, in the East. <!-- could this be Ishaq Ibn Imran? Serapion has "Isaac Eben Amraz"-->
                </p>
                <p>The <rs type="properAdjective">Arabian</rs> writers were all unacquainted
-                  with the real nature of manna, in supposing it
+                  with the real nature of <ecda:food>manna</ecda:food>, in supposing it
                   to be dew, instead of the inspissated juice of
                   trees.
                </p>
                <p><persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhazes</persName> says, <bibl rend="italic">Cap. 20. <title>de Simpicibus</title></bibl>,—
-                  <distinct type="dialect" rend="italic" ana="#medical">teroniabin</distinct> is hot, purges the bowels, and assuages
-                  the throat.
+                  <seg ana="#medical"><distinct type="dialect" rend="italic" ana="#medical">teroniabin</distinct> is hot, purges the bowels, and assuages
+                  the throat.</seg>
                </p>
                
                <pb/>
@@ -2417,36 +2423,42 @@
                   country.—
                </p>
                <p><quote xml:lang="la" rend="italic">Terregebim, id est manna, provenit à partibus
-                  superioribus Syriæ, vel indiæ.</quote> <bibl>Cap. 55. Simplicia.</bibl>
+                  superioribus <placeName>Syriæ</placeName>, vel <placeName>Indiæ</placeName>.</quote> <bibl>Cap. 55. <title xml:lang="la">Simplicia</title>.</bibl>
                </p>
                <p>However, a different inference may be drawn
                   from <persName ref="#avicenna_0980">Avicenna</persName>, who says, there are two sorts
-                  of manna, and both the produce of <placeName>Arabia</placeName>.
+                  of <ecda:food>manna</ecda:food>, and both the produce of <placeName>Arabia</placeName>.
                   The white sort from <placeName rend="italic">Iamen</placeName>, or <placeName rend="italic">Yemen</placeName>; and the
                   dark sort from <placeName rend="italic">Agizium</placeName>, or <placeName rend="italic">Hagiazi</placeName>. The
                   former of these places is in <placeName>Arabia Felix</placeName>, and
                   the latter in <placeName>Arabia Deserta</placeName>;—
-                  <quote rend="block">Aliud est Iamenum, album; et aliud est Agizium,
+               </p>
+                  <p>
+                  <quote rend="italic" xml:lang="la">Aliud est Iamenum, album; et aliud est <placeName>Agizium</placeName>,
                   ad nigridinem declinans.</quote>
                   <bibl>Lib. II. Tract. II. Cap. 756.</bibl>
                </p>
-               <p><persName ref="#avicenna_0980">Avicenna</persName> mentions a sugar, which is found
-                  on canes, like salt:—
-                  <quote rend="block" xml:lang="la">Illud <unclear>seac</unclear> arum, quod super arundinem, invenitur,
-                  sicut sal.</quote> <bibl><title>De Zuccaro</title>, Lib. II. Tract. 2.
+               <p><persName ref="#avicenna_0980">Avicenna</persName> mentions a <ecda:food>sugar</ecda:food>, which is found
+                  on canes, like <ecda:food>salt</ecda:food>:—
+               </p>
+               <p>
+                  <quote rend="italic" xml:lang="la">Illud <ecda:food>saccharum</ecda:food>, quod super arundinem, invenitur,
+                  sicut <ecda:food>sal</ecda:food>.</quote> <bibl><title xml:lang="la">De Zuccaro</title>, Lib. II. Tract. 2.
                   Cap. 755.</bibl>
                </p>
                <p><persName ref="#claudius_salmasius_1588">Salmasius</persName>, believing in this error, that
-                  sugar was actually found ready made, asserts,—
-                  <quote rend="block" xml:lang="la">De hoc ipso priscorum saccharo, sive tabaxir,
+                  <ecda:food>sugar</ecda:food> was actually found ready made, asserts,—
+               </p>
+                  <p>
+                  <quote rend="italic" xml:lang="la">De hoc ipso priscorum saccharo, sive tabaxir,
                   accepi debet; cui nomen etiam propterea <distinct type="dialect" xml:lang="grc" rend="upright">αλος Ινδικου</distinct>
-                  veteres imposuerunt.</quote> <bibl><title>De Canteo</title>, cap. 79.</bibl>
-                  
+                  veteres imposuerunt.</quote> <bibl><title xml:lang="la">De Canteo</title>, cap. 79.</bibl>
+               </p>
                <pb/>
                <fw type="pageNum">58</fw>
-                  
+                  <p>
                   <quote rend="quotes">This is the sugar of the ancients, to which
-                  they also gave the name of <distinct type="dialect" rend="italic">Indian Salt</distinct>; it is also
+                  they also gave the name of <distinct type="dialect" rend="italic"><rs type="properAdjective">Indian</rs> Salt</distinct>; it is also
                   the <distinct type="dialect" rend="italic">tabaxir</distinct> of the <name>Arabians</name>.</quote>
                </p>
                <p>I have already shewn that this was not sugar,
@@ -2460,10 +2472,12 @@
                   in this error is, that the sugar described by the
                   ancients does not correspond with any species
                   of sugar now in use. His own words are,—
-                  <quote rend="block"><distinct type="dialect" xml:lang="la" rend="italic">Fallitur itaque mirum in modum si quies <distinct type="dialect" xml:lang="grc" rend="upright">μελι καλαμωον</distinct>,
+               </p>
+               <p>
+                  <quote rend="italic" xml:lang="la">Fallitur itaque mirum in modum si quies <distinct type="dialect" xml:lang="grc" rend="upright">μελι καλαμωον</distinct>,
                   aut <distinct xml:lang="grc" type="dialect" rend="upright">αλας Ινδικου</distinct>, aut <distinct type="dialect" xml:lang="grc" rend="upright">σακχαρον</distinct>, antiquum
-                  idem putat cum nostro saccharo.</distinct></quote> <title>De Saccharo
-                  Comment.</title>
+                  idem putat cum nostro saccharo.</quote> <bibl><title xml:lang="la">De Saccharo
+                  Comment.</title></bibl>
                </p>
                <p>It may now be proper to see what the ancients
                   have left on record relative to our subject, 
@@ -2481,29 +2495,36 @@
                <fw type="pageNum">59</fw>
                
                <p><persName ref="#pedanius_dioscorides_0040">Dioscorides</persName> (anno <date when="0064">64</date>), who is the first writer
-                  which mentions the word <distinct xml:lang="grc" type="dialect" rend="upright">σακχαρον</distinct>, or sugar,
-                  in his chapter <distinct type="dialect" xml:lang="grc" rend="upright">ϖερι Σακχαρου Μελιτος</distinct>, demonstrates
+                  which mentions the word <distinct xml:lang="grc" type="mentioned">σακχαρον</distinct>, or <gloss>sugar</gloss>,
+                  in his chapter <distinct type="dialect" xml:lang="grc">ϖερι Σακχαρου Μελιτος</distinct>, demonstrates
                   clearly that he was acquainted with
                   some species of sugar, made from the <ecda:flora>sugar
                   cane</ecda:flora>; though it plainly appears that he was
                   ignorant of the nature of its preparation.—
-                  <quote rend="block" xml:lang="grc">Καλειται δε και σακχαρον ειδος ον μελιτος,
-                     εν Ινδια ϖεπηγοτος και τη ευδαιμονι Αραζικ
+               </p>
+               <p>
+                  <quote xml:lang="grc">Καλειται δε και σακχαρον ειδος ον μελιτος,
+                     εν <placeName>Ινδια</placeName> ϖεπηγοτος και τη <placeName>ευδαιμονι Αραζικ</placeName>
                      ευρισκομενον επι των καλαμων, ομοιον τη συστασει
                      αλισι, και ϑραυομενον υπο τοις οδουσι καθαπερ
                      οι αλες.
                   </quote>
-                  <quote rend="quotes">There is a sort of concreted honey, which
-                  is called sugar, found upon canes, in <placeName>India</placeName> and
-                  <placeName>Arabia Felix</placeName>: it is in consistence like salt, and
-                  it is brittle between the teeth like salt.</quote>
                </p>
-               <p><persName ref="#pliny_0023">Pliny</persName> says,—
-                  <quote rend="block" xml:lang="la">Saccaron &amp; Arabia fert, sed laudatius <placeName>India</placeName>.
+               <p>
+                  <quote rend="quotes">There is a sort of concreted <ecda:food>honey</ecda:food>, which
+                  is called <ecda:food>sugar</ecda:food>, found upon <placeName>canes</placeName>, in <placeName>India</placeName> and
+                  <placeName>Arabia Felix</placeName>: it is in consistence like <ecda:food>salt</ecda:food>, and
+                  it is brittle between the teeth like <ecda:food>salt</ecda:food>.</quote>
+               </p>
+               <p><persName ref="#pliny_0023">Pliny</persName> says,—</p>
+               <p>
+                  <quote rend="italic" xml:lang="la">Saccaron &amp; <placeName>Arabia</placeName> fert, sed laudatius <placeName>India</placeName>.
                   Est auten mel in barundibus collectum, gummium
-                  modo,candidum, dentibus fragile; amplissimum
+                  modo, candidum, dentibus fragile; amplissimum
                   nucis avellanæ magnitudine: ad medicinæ
                   tantum usum.</quote> <bibl><title>Hist. Nat.</title> lib. XII. cap. 8.</bibl>
+               </p>
+                  <p>
                   <quote rend="quotes">Sugar is brought from <placeName>Arabia</placeName>, but the
                   best sort from <placeName>India</placeName>, It is honey collected 
                   from canes, like a gum, white, and brittle
@@ -2516,40 +2537,46 @@
                </p>
                <p><persName ref="#arrian_0086">Arrian</persName> (anno <date when="0123">123</date>), <title xml:lang="la" rend="italic">in Periplo maris
                   Erythræi</title>, says, there is a nation bordering on the
-                  <placeName>Red Sea</placeName>, who drink <distinct xml:lang="grc" type="dialect" rend="upright">μελι το καλαμινον, το 
+                  <placeName>Red Sea</placeName>, who drink <distinct xml:lang="grc" type="dialect">μελι το καλαμινον, το 
                   λεγομενον σακχαρι</distinct>;—<quote rend="quotes">honey of the reed, called
-                  sugar.</quote>
+                  sugar.</quote> 
                </p>
                <p><persName ref="#galen_0129">Galen</persName> (anno <date when="0164">164</date>), in his 7th book of the
                   temperaments and faculties of simple medicines,
                   <title xml:lang="grc">ϖερι Mελιτος</title>, says,—
-                  <quote rend="block" xml:lang="grc">Και το σακχαρ δε καλουμενον οπερ εξ Iνδιας
-                     τε και τμς ευδαιμονος Αραζιας καμιζεται ϖερι
+               </p>
+               <p>
+                  <quote xml:lang="grc">Και το σακχαρ δε καλουμενον οπερ εξ <placeName>Iνδιας</placeName>
+                     τε και τμς <placeName>ευδαιμονος Αραζιας</placeName> καμιζεται ϖερι
                      ϖηγνυται μεν, της Φασι, καλαμοις, εστι δε τι
                      και αυτο μελιτος ειδος ηττον μεν εστιν η το
                      ϖαρ ημιν γλυκυ.
                   </quote>
-                  <quote rend="quotes">Sugar, as they call it, which is brought
+               </p>
+               <p>
+                  <quote rend="quotes"><ecda:food>Sugar</ecda:food>, as they call it, which is brought
                   from <placeName>India</placeName> and <placeName>Arabia Felix</placeName>, concretes, as
-                  they say, about the canes, and is a species of
-                  honey: it is less sweet than our honey.</quote>
+                  they say, about the <ecda:flora>canes</ecda:flora>, and is a species of
+                  <ecda:food>honey</ecda:food>: it is less sweet than our <ecda:food>honey</ecda:food>.</quote>
                </p>
                <p><persName ref="#paul_of_aegina_0625">Paulus Ægineta</persName> (anno <date when="0670">670</date>), the last of
-                  the <rs type="properAdjective">Greek</rs> writers on medicine, lib. II. cap.
-                  54. says, from <persName ref="#archigenes_0001">Archigenes</persName>, who lived anno
+                  the <rs type="properAdjective">Greek</rs> writers on medicine, <bibl>lib. II. cap.
+                  54.</bibl> says, from <persName ref="#archigenes_0001">Archigenes</persName>, who lived anno
                   <date when="0117">117</date>,—
-                  
+               </p>
                   <pb/>
                   <fw type="pageNum">61</fw>
-                  
-                  <quote rend="block" xml:lang="grc">Αλς ο Ινδικος, χροια μεν και συστασει, ομοιος
+                  <p>
+                  <quote xml:lang="grc"><ecda:food>Αλς ο <rs type="properAdjective">Ινδικος</rs></ecda:food>, χροια μεν και συστασει, ομοιος
                      τω κοινω αλι γευσει δε μελιτωδης.
                   </quote>
+               </p>
+               <p>
                   <quote rend="quotes">The <distinct type="dialect" rend="italic">Indian salt</distinct>, in colour form like
                   common salt, but in taste and sweetness like
                   honey.</quote>
                </p>
-               <p>In <hi rend="italic">lib.</hi> VII. <hi rend="italic">cap.</hi>3, he says, <quote rend="quotes" ana="#medical">Honey is of an
+               <p>In <bibl><hi rend="italic">lib.</hi> VII. <hi rend="italic">cap.</hi> 3</bibl>, he says, <quote rend="quotes" ana="#medical">Honey is of an
                   heating and drying nature in the second degree,
                   and is abundantly cleansing. Boiled, it is
                   less acrid and detersive, and opens the bowels,
@@ -2562,15 +2589,15 @@
                   nor excites thirst like our honey.</quote> 
                </p>
                <p>It is true that <persName ref="#pedanius_dioscorides_0040">Dioscorides</persName>, <persName ref="#pliny_0023">Pliny</persName>, <persName ref="#galen_0129">Galen</persName>,
-                  and <persName ref="#paul_of_aegina_0625">P. Ægineta</persName>, all mention that the <ecda:flora>sugar cane</ecda:flora>
+                  and <persName ref="#paul_of_aegina_0625">P. Ægineta</persName>, all mention that <ecda:food>sugar</ecda:food> came
                   from <placeName>Arabia</placeName> as well as from <placeName>India</placeName>; but it is
-                  certain that the sugar described by them to be
-                  <quote rend="quotes">white like salt, and brittle between the teeth,
-                  and sweet like honey,</quote> was brought from <placeName>India</placeName> 
+                  certain that the <ecda:food>sugar</ecda:food> described by them to be
+                  <quote rend="quotes">white like <ecda:food>salt</ecda:food>, and brittle between the teeth,
+                  and sweet like <ecda:food>honey</ecda:food>,</quote> was brought from <placeName>India</placeName> 
                   into <placeName>Arabia</placeName>; and was not the produce of
                   <placeName>Arabia</placeName>; and this is proved by what follows.
                </p>
-               <p><persName ref="#avicenna_0980">Avicenna</persName> recommends, from <persName ref="#archigenes_0001">Archigenes</persName>,
+               <p ana="#medical"><persName ref="#avicenna_0980">Avicenna</persName> recommends, from <persName ref="#archigenes_0001">Archigenes</persName>,
                   as quoted by <persName ref="#paul_of_aegina_0625">P. Ægineta</persName>, when the tongue is
                   
                   <pb/>
@@ -2580,64 +2607,66 @@
                   oil of <ecda:flora>almonds</ecda:flora> and white sugar; and that the
                   sick should have in his mouth a lump of <quote rend="quotes">the
                   salt that is brought from <placeName>India</placeName>; which in
-                  color is like salt, and in sweetness like honey.</quote>
-                  <quote rend="block" xml:lang="la">Sal, qui asportatur de <placeName>India</placeName>, &amp; in colore
-                  salis, &amp; dulcidine mellis.</quote> <bibl><title>De Asperitate Linguæ</title>,
+                  color is like <ecda:food>salt</ecda:food>, and in sweetness like <ecda:food>honey</ecda:food>.</quote>
+               </p>
+               <p>
+                  <quote rend="quotes" xml:lang="la"><hi rend="italic">Sal, qui asportatur de <placeName>India</placeName>, &amp; in colore
+                  <ecda:food>salis</ecda:food>, &amp; dulcidine <ecda:food>mellis</ecda:food>.</hi></quote> <bibl><title xml:lang="la">De Asperitate Linguæ</title>,
                   lib. IV. fen. I. tr. 2. cap. 22.</bibl>
                </p>
-               <p>Here we have, I think, decidedly the sugar 
+               <p>Here we have, I think, decidedly the <ecda:food>sugar</ecda:food> 
                   of the ancients.
                </p>
                <p>This can be no other preparation than that
-                  we now call the white <distinct type="dialect" rend="smallcaps">Sugar-Candy</distinct>; which I
-                  consider as the real <distinct type="dialect" xml:lang="grc" rend="upright">μελι καλαμινον: αλς Ινδικος:
-                  —σακχαρον</distinct> antiquorum.
+                  we now call the white <ecda:food rend="smallcaps">Sugar-Candy</ecda:food>; which I
+                  consider as the real <distinct type="scientific"><ecda:food xml:lang="grc">μελι καλαμινον</ecda:food>: <ecda:food xml:lang="grc">αλς <rs type="properAdjective">Ινδικος</rs></ecda:food>:
+                  —<ecda:food xml:lang="grc">σακχαρον</ecda:food> <distinct type="dialect" xml:lang="la">antiquorum</distinct></distinct>.
                </p>
                <p>It is evident <persName ref="#avicenna_0980">Avicenna</persName> erroneously supposed
                   this saccharine preparation as a natural, and not
                   as an artificial production; when, speaking of
-                  the different sorts, or rather coloured sugars,
-                  he compares it in appearance to salt; and says
-                  it is found on canes, in the passage before 
+                  the different sorts, or rather coloured <ecda:food>sugars</ecda:food>,
+                  he compares it in appearance to <ecda:food>salt</ecda:food>; and says
+                  it is found on <ecda:flora>canes</ecda:flora>, in the passage before 
                   mentioned.
                </p>
                <p>In different parts of this treatise, I have selected
                   from the <name>Arabians</name> every thing they have
                   said pertaining to the subject; but there is such
                   a want of discrimination among the <rs type="properAdjective">Arabian</rs>
-                  writers, with their editors, translators, and 
+                  writers, which their editors, translators, and 
                   commentators, have further perplexed with
                   
                   <pb/>
                   <fw type="pageNum">63</fw>
                   
-                  various text, interpretations, and conjectures,
+                  various texts, interpretations, and conjectures,
                   that it is impossible to know exactly the precise
                   distinctions, intended by the original authors,
-                  in their different appellations of <distinct type="dialect" rend="italic">honey</distinct>, <distinct type="dialect" rend="italic">manna</distinct>,
-                  and <distinct type="dialect" rend="italic">sugar</distinct>.
+                  in their different appellations of <ecda:food><distinct type="scientific" rend="italic">honey</distinct></ecda:food>, <ecda:food><distinct type="scientific" rend="italic">manna</distinct></ecda:food>,
+                  and <ecda:food><distinct type="scientific" rend="italic">sugar</distinct>.</ecda:food>
                </p>
                <p>However, the <ecda:flora>sugar cane</ecda:flora> is unquestionably
                   a native plant of some parts of <placeName>Arabia</placeName>; and,
                   though the art of evaporating its juice for the
-                  purpose of making a common coarse, or <ecda:commodity>muscovado
+                  purpose of making a common coarse, or <ecda:commodity ana="#food">muscovado
                   sugar</ecda:commodity>, was known long before <persName ref="#avicenna_0980">Avicenna's</persName>
                   time; yet I cannot suppose, a thousand 
-                  years prior to his time, that the sugar of the
-                  ancients, being sugar-candy, was made in <placeName>Arabia</placeName>;
+                  years prior to his time, that the <ecda:food>sugar</ecda:food> of the
+                  ancients, being <ecda:food>sugar-candy</ecda:food>, was made in <placeName>Arabia</placeName>;
                   especially as <persName ref="#avicenna_0980">Avicenna</persName> himself, if we admit
-                  the <emph>salt</emph> he mentions to be the same, says
+                  the <ecda:food><distinct type="scientific" rend="italic">salt</distinct></ecda:food> he mentions to be the same, says
                   it was brought to <placeName>Arabia</placeName> from <placeName>India</placeName>.
                </p>
                <p>Yet <persName ref="#pliny_0023">Pliny</persName>is very particular in observing
-                  that the <rs type="properAdjective">Indian</rs> sugar was superior in quality to
+                  that the <ecda:food><rs type="properAdjective">Indian</rs> sugar</ecda:food> was superior in quality to
                   the <rs type="properAdjective">Arabian</rs>; which shews that some of the
-                  sugar known to the <name>Romans</name> in his time must
+                  <ecda:food>sugar</ecda:food> known to the <name>Romans</name> in his time must
                   have been brought from <placeName>Arabia</placeName>, if not 
                   manufactured there.
                </p>
                <p>Besides, we know that there is no such thing
-                  as sugar found on canes; and so far from the
+                  as <ecda:food>sugar</ecda:food> found on <ecda:flora>canes</ecda:flora>; and so far from the
                   juice of the cane issuing from the plant, and
                   concreting like the gummous or vegetable rezinous juices,
                   the plant decays on being wounded; and,
@@ -2648,34 +2677,34 @@
                   without being wounded, the juice never escapes 
                   from its stem.
                </p>
-               <p>Every kind of <ecda:commodity>sugar</ecda:commodity> whatever is made by      <!-- this is interesting, but I have no way to mark it. -->
-                  art. Native sugar never existed. Ignorant
+               <p>Every kind of <ecda:commodity ana="#food">sugar</ecda:commodity> whatever is made by      <!-- this is interesting, but I have no way to mark it. -->
+                  art. Native <ecda:food>sugar</ecda:food> never existed. Ignorant
                   people, even at this day, in our own part of 
-                  the world, imagine that sugar is found, like
-                  pith, in the hollow of the canes; in the state
+                  the world, imagine that <ecda:food>sugar</ecda:food> is found, like
+                  pith, in the hollow of the <ecda:flora>canes</ecda:flora>; in the state
                   in which it is brought to <placeName>Europe</placeName>.
                </p>
-               <p>The crystalline appearance of sugar-candy,
+               <p>The crystalline appearance of <ecda:food>sugar-candy</ecda:food>,
                   and its fragility between the teeth, might 
                   naturally lead the ancient writers to give it the
-                  appellation of <distinct type="dialect" rend="italic">salt</distinct>; and, from its sweetness,
-                  that of <distinct type="dialect" rend="italic">honey <hi rend="upright">of the</hi> reed</distinct>; as honey was their
+                  appellation of <ecda:food><distinct type="scientific" rend="italic">salt</distinct></ecda:food>; and, from its sweetness,
+                  that of <ecda:food><distinct type="scientific" rend="italic">honey <hi rend="upright">of the</hi> reed</distinct></ecda:food>; as <ecda:food>honey</ecda:food> was their
                   standard of sweetness.
                </p>
                <p>It was also very natural, for people who
-                  knew nothing of the process of making sugar,
+                  knew nothing of the process of making <ecda:commodity ana="#food">sugar</ecda:commodity>,
                   that they should consider it, being a vegetable
                   production, as a gum; and, like other gums,
                   to be the exudations of some plant, or tree,
                   concreted by the heat of the sun.
                </p>
-               <p>There can be no doubt that the <ecda:commodity>sugar</ecda:commodity>
-                  of the ancients, and that species of sugar described
-                  by the <name>Arabians</name> as resembling salt, with
-                  the sweetness of honey, were the same identical
+               <p>There can be no doubt that the <ecda:food>sugar</ecda:food>
+                  of the ancients, and that species of <ecda:food>sugar</ecda:food> described
+                  by the <name>Arabians</name> as resembling <ecda:food>salt</ecda:food>, with
+                  the sweetness of <ecda:food>honey</ecda:food>, were the same identical
                   article; and as in the writing of the ancients
-                  there is only one sort of sugar mentioned,
-                  and though that sugar is said by some
+                  there is only one sort of <ecda:food>sugar</ecda:food> mentioned,
+                  and though that <ecda:food>sugar</ecda:food> is said by some
                   of them to have been brought from <placeName>Arabia</placeName>,
                   
                   <pb/>
@@ -2685,24 +2714,24 @@
                   mention it as brought from <placeName>India</placeName> only;
                   and there is every reason to believe, at that period,
                   that the art of chrystallizing the juice of
-                  the cane was known only in <placeName>India</placeName>.
+                  the <ecda:flora>cane</ecda:flora> was known only in <placeName>India</placeName>.
                </p>
-               <p>Indeed, sugar must have been better known
+               <p>Indeed, <ecda:food>sugar</ecda:food> must have been better known
                   in <placeName>Greece</placeName> and in <placeName>Italy</placeName>, from their contiguity
                   to <placeName>Arabia</placeName>, had it then been manufactured in
                   that country. Besides, there is no mention
-                  among the antients of any kind of sweet canes
-                  or reeds, but what were particularly said to
+                  among the antients of any kind of <ecda:flora>sweet canes</ecda:flora>
+                  or <ecda:flora>reeds</ecda:flora>, but what were particularly said to
                   have grown in <placeName>India</placeName>.
                </p>
-               <p>As it is certain that sugar was brought from
+               <p>As it is certain that <ecda:commodity ana="#food">sugar</ecda:commodity> was brought from
                   <placeName>India</placeName> at the time when mention was first made
                   of it, it is proper to enquire whether it was
                   manufactured in <placeName>India</placeName> only; and what sort of
-                  sugar was made in <placeName>India</placeName> in those times; or at
+                  <ecda:commodity ana="#food">sugar</ecda:commodity> was made in <placeName>India</placeName> in those times; or at
                   least to draw the best inference we can from
                   what we know of the history of the commerce
-                  of <ecda:commodity>sugar</ecda:commodity>, and the manufacture of it in the <placeName>East
+                  of <ecda:commodity ana="#food">sugar</ecda:commodity>, and the manufacture of it in the <placeName>East
                   Indies</placeName>, at this time.
                </p>
                <p>There have ever been, since our knowledge
@@ -2710,15 +2739,15 @@
                   <ecda:commodity>raw or muscovado sugar</ecda:commodity>, and <ecda:commodity>sugar-candy</ecda:commodity>;
                   the first used only for culinary purposes, and
                   the latter for every other purpose of diet, 
-                  luxury, and exportation
+                  luxury, and exportation. 
                </p>
                
                <pb/>
                <fw type="pageNum">66</fw>
                
                <p>The art of refining <ecda:commodity ana="#refine">sugar</ecda:commodity>, and making what
-                  is called loaf-sugar, is a modern <rs type="properAdjective">European</rs>
-                  invention, the discovery of a <name>Venitian</name> about
+                  is called <ecda:commodity><distinct type="economic">loaf-sugar</distinct></ecda:commodity>, is a modern <rs type="properAdjective">European</rs>
+                  invention, the discovery of a <ecda:anonPers a-aig="venitian"><name>Venitian</name></ecda:anonPers> about
                   the end of the 15th, or the beginning of the 16th
                   century; and not practised in <placeName>India</placeName> until very
                   lately.
@@ -2730,13 +2759,13 @@
                   The climate and soil in many parts of 
                   <placeName>Bengal</placeName>, and other districts of the <placeName>East Indies</placeName>,
                   are also suitable to the growth and cultivation
-                  of the cane; and sugar is, and we have reason
+                  of the <ecda:flora>cane</ecda:flora>; and <ecda:commodity ana="#food">sugar</ecda:commodity> is, and we have reason
                   to suppose ever has been, produced there. Nevertheless,
                   <placeName>China</placeName> is the only country in the
-                  East, even now, where <ecda:commodity ana="#production">sugar-candy</ecda:commodity> is made in
+                  East, even now, where <ecda:commodity ana="#production #food">sugar-candy</ecda:commodity> is made in
                   perfection.
                </p>
-               <p>The bright, transparent sugar-candy, so
+               <p>The bright, transparent <ecda:commodity ana="#food">sugar-candy</ecda:commodity>, so
                   beautiful in appearance, and so grateful to the
                   taste, is a peculiar manufacture, and was
                   originally invented in <placeName>China</placeName>.
@@ -2745,31 +2774,31 @@
                   <placeName>India</placeName>, and even to many countries there,
                   where abundance of <ecda:commodity>sugar</ecda:commodity> is made.
                </p>
-               <p><persName ref="#jean-baptiste_du_halde_1674">Du Halde</persName> says, the sugar of <placeName>China</placeName>
+               <p><persName ref="#jean-baptiste_du_halde_1674">Du Halde</persName> says, the <ecda:commodity>sugar</ecda:commodity> of <placeName>China</placeName>
                   constitutes a great trade to <placeName>Japan</placeName>; and that when
                   ships go directly from <placeName>Canton</placeName> to <placeName>Japan</placeName>, the
                   
                   <pb/>
                   <fw type="pageNum">67</fw>
                   
-                  sugar-candy so transported yields a profit of a
+                  <ecda:commodity ana="#transport">sugar-candy</ecda:commodity> so transported yields a profit of a
                   thousand per cent.
                </p>
                <p>The <name>Chinese</name>, and all the nations of the
-                  East, set no estimation on any other sugar
-                  than <ecda:commodity>sugar-candy</ecda:commodity>. They use it in <ecda:commodity>tea</ecda:commodity>, <ecda:commodity>coffee</ecda:commodity>,
+                  East, set no estimation on any other <ecda:commodity>sugar</ecda:commodity>
+                  than <ecda:commodity>sugar-candy</ecda:commodity>. They use it in <ecda:commodity ana="#food">tea</ecda:commodity>, <ecda:commodity ana="#food">coffee</ecda:commodity>,
                   and all other beverages; and this presence,
                   no doubt arises from judgement, as the fine
-                  sugar-candy is incomparably the most delicious
+                  <ecda:food>sugar-candy</ecda:food> is incomparably the most delicious
                   sweet in the world. This may account for the
-                  art of refining sugar into loaf-sugar never
+                  art of refining <ecda:food>sugar</ecda:food> into <ecda:commodity>loaf-sugar</ecda:commodity> never
                   having been practised in the East.
                </p>
                <p>In the ancient, steady, and unchangeable
                   empire of <placeName>China</placeName>, arts existed while <placeName>Europe</placeName>
                   was in a state of barbarism; arts, which are
                   still the admiration of mankind: and it is 
-                  probable that this mode of preparing sugar, so
+                  probable that this mode of preparing <ecda:commodity>sugar</ecda:commodity>, so
                   well calculated for carriage and preservation,
                   was practised by the <name>Chinese</name>, and was an
                   article of commerce among them, in much earlier
@@ -2777,10 +2806,10 @@
                   traditions; which they consider but as the records of yesterday.
                </p>
                <p>In respect to the derivation of the word
-                  <distinct type="dialect" rend="italic">candy</distinct>, and when this adjunctive appellation
-                  was first used, to distinguish <distinct type="dialect" rend="italic">sugar-candy</distinct> from
-                  other species of sugar, various have been the
-                  opinions of the learned
+                  <ecda:commodity ana="#food"><distinct type="economic" rend="italic">candy</distinct></ecda:commodity>, and when this adjunctive appellation
+                  was first used, to distinguish <ecda:commodity ana="#food" rend="italic">sugar-candy</ecda:commodity> from
+                  other species of <ecda:commodity>sugar</ecda:commodity>, various have been the
+                  opinions of the learned.
                </p>
                
                <pb/>
@@ -2788,72 +2817,72 @@
                
                <p>Some suppose it had its origin from the island
                   of <placeName>Candia</placeName> (<placeName>Crete</placeName>);—others, from <placeName>Gandia</placeName>, a
-                  town in <placeName>Valencia</placeName>, in which province sugar
+                  town in <placeName>Valencia</placeName>, in which province <ecda:commodity>sugar</ecda:commodity>
                   was first made in <placeName>Spain</placeName><anchor xml:id="a017" corresp="#n017"/>;—others, from the
-                  <rs type="properAdjective">Arabic</rs> <distinct type="dialect" rend="italic">elkende—elkendit</distinct>, which simply signify
-                  sugar;—and others, from the <rs type="properAdjective">Latin</rs> <distinct type="dialect" rend="italic">candidum</distinct>
-                  (<distinct type="dialect" rend="italic">à candore</distinct>), bright, shining, white.
+                  <rs type="properAdjective">Arabic</rs> <distinct xml:lang="ar" type="dialect" rend="italic">elkende—elkendit</distinct>, which simply signify
+                  <gloss>sugar</gloss>;—and others, from the <rs type="properAdjective">Latin</rs> <distinct xml:lang="la" type="dialect" rend="italic">candidum</distinct>
+                  (<distinct type="dialect" rend="italic">à candore</distinct>), <gloss>bright, shining, white</gloss>.
                </p>
                <p><persName ref="#claudius_salmasius_1588">Salmasius</persName> derives it from a corrupt <rs type="properAdjective">Greek</rs>
-                  word of the middle ages. He says,—
-                  <quote xml:lang="la" rend="block">Saccharum candum, non à candore dictum,
+                  word of the middle ages. He says,—</p>
+                  <p><quote xml:lang="la" rend="quotes"><hi rend="italic">Saccharum candum, non à candore dictum,
                   nec à canna; sed <distinct xml:lang="grc" type="dialect" rend="upright">καντι, vel καντον &amp; καντιον</distinct>,
                   Græci recentiores vocárunt, quod angulosum
                   sit; &amp; quum frangitur, in partes semper dissiliat
-                  angulatas. Id Græci vulgares καντον appellant.</quote>
+                  angulatas. Id Græci vulgares καντον appellant.</hi></quote>
                   <bibl><persName ref="#pliny_0023" rend="mixed">Plin.</persName> Excert. p. 718.</bibl>
                </p>
                <p>But this is by no means satisfactory; for, if 
-                  sugar candy had this appellation from its angular
-                  figure, entire, or broken, the word
-                  should be written cantum, or candium, in the
-                  <name>Latin</name>; or rather <distinct type="dialect" rend="italic">canthum</distinct>, or <distinct type="dialect" rend="italic">canthium</distinct>; as
-                  <distinct type="dialect" xml:lang="grc" rend="upright">κανθος</distinct> is <distinct type="dialect" rend="italic">angulus</distinct>, an angle or corner.
-               </p>
+                  <ecda:commodity>sugar candy</ecda:commodity> had this appellation from its angular
+                  figure, entire, or broken, the word 
+                  should be written <distinct xml:lang="la">cantum</distinct>, or <distinct xml:lang="la">candium</distinct>, in the
+                  <name>Latin</name>; or rather <distinct rend="italic" xml:lang="la">canthum</distinct>, or <distinct rend="italic" xml:lang="la">canthium</distinct>; as
+                  <distinct xml:lang="grc" rend="upright">κανθος</distinct> is <distinct rend="italic" xml:lang="la">angulus</distinct>, an <gloss>angle or corner</gloss>.
+               </p> 
                <p><persName ref="#claudius_salmasius_1588">Salmasius</persName> has taken the barbarous word
                   from <persName ref="#nicholas_myrepsos_0001">Nicholas Myrepsus</persName>, who wrote his collection
-                  of <distinct type="dialect" rend="italic">formulæ</distinct>, from the <rs type="properAdjective">Greek</rs> and <rs type="properAdjective">Arabian</rs>
+                  of <distinct type="dialect" rend="italic" xml:lang="la">formulæ</distinct>, from the <rs type="properAdjective">Greek</rs> and <rs type="properAdjective">Arabian</rs>
                   
                   <pb/>
                   <fw type="pageNum">69</fw>
                   
                   authors, about the year <date when="1280">1280</date>: he is one of the
                   latest writers in the <rs type="properAdjective">Greek</rs> language. His
-                  writings are full of barbarisms, and <distinct type="dialect" xml:lang="grc" rend="upright">καντιον</distinct> is found
-                  used by him, <title rend="italic">De Antidotis</title>, cap. 35, 94, and
-                  96, to express what the translators have rendered
+                  writings are full of barbarisms, and <distinct xml:lang="grc" rend="upright">καντιον</distinct> is found
+                  used by him, <bibl><title rend="italic">De Antidotis</title>, cap. 35, 94, and
+                  96</bibl>, to express what the translators have rendered
                   <quote rend="quotes" xml:lang="la">saccharum appellatum candum;</quote>—the
                   sugar candy of the moderns.
                </p>
                <p><persName ref="#leonhart_fuchs_1501" cert="high">Fuchsius</persName>, one of his translators, observes,
                   in the notes to cap. 35, and 94, that though
-                  the word is <distinct xml:lang="grc" type="dialect" rend="upright">καντιον</distinct> in the manuscript copy, and
-                  implies what we now call <distinct type="dialect" rend="italic">saccharum candi, vel
+                  the word is <distinct xml:lang="grc" rend="upright">καντιον</distinct> in the manuscript copy, and
+                  implies what we now call <distinct xml:lang="la" rend="italic">saccharum candi, vel
                   candidum,</distinct> yet it seems to have been written
-                  originally κανδιον;—and that <distinct type="dialect" rend="italic">candi</distinct> is only an
-                  abbreviation of <distinct type="dialect" rend="italic">candidum</distinct>.
+                  originally <distinct xml:lang="grc">κανδιον</distinct>;—and that <distinct type="mentioned" rend="italic">candi</distinct> is only an
+                  abbreviation of <distinct type="dialect" rend="italic" xml:lang="la">candidum</distinct>.
                </p>
-               <p>Now <distinct type="dialect" xml:lang="grc" rend="upright">κανδιον</distinct>, I believe, stands on no better
-                  authority in the <rs type="properAdjective">Greek</rs> language than καντιον;
+               <p>Now <distinct xml:lang="grc">κανδιον</distinct>, I believe, stands on no better
+                  authority in the <rs type="properAdjective">Greek</rs> language than <distinct xml:lang="grc">καντιον</distinct>;
                   and I think it is difficult to ascertain whether
-                  the word be a corruption of the <rs type="properAdjective">Greek</rs> <distinct type="dialect" xml:lang="grc" rend="upright">κανθος</distinct>,
-                  or the <rs type="properAdjective">Latin</rs> <distinct type="dialect" rend="italic">candidum</distinct>, considering the period
+                  the word be a corruption of the <rs type="properAdjective">Greek</rs> <distinct xml:lang="grc">κανθος</distinct>,
+                  or the <rs type="properAdjective">Latin</rs> <distinct rend="italic" xml:lang="la">candidum</distinct>, considering the period
                   when <persName ref="#nicholas_myrepsos_0001">Myrepsus</persName> wrote.
                </p>
                <p>However, I am not inclined to give my
                   suffrage to any of the preceding etymons.
                </p>
-               <p>May it not be from the <rs type="properAdjective">Indian</rs> word <distinct type="dialect" rend="italic">khand</distinct>,
+               <p>May it not be from the <rs type="properAdjective">Indian</rs> word <distinct rend="italic">khand</distinct>,
                   which is a general appellation for sugar in
-                  <name>Hindostan</name>? Sugar candy is called <distinct type="dialect" rend="italic">misree</distinct>;
-                  white sugar, <distinct type="dialect" rend="italic">chinny</distinct>; a composition they
-                  make of sugar and roses, <distinct type="dialect" rend="italic">goolkund</distinct>; a drink
-                  made of the same materials, <distinct type="dialect" rend="italic">goolchukeree</distinct>; the
+                  <placeName>Hindostan</placeName>? <ecda:food>Sugar candy</ecda:food> is called <ecda:food><distinct type="dialect" rend="italic">misree</distinct></ecda:food>;
+                  <ecda:food>white sugar</ecda:food>, <ecda:food><distinct type="dialect" rend="italic">chinny</distinct></ecda:food>; a composition they
+                  make of <ecda:food>sugar</ecda:food> and <ecda:flora>roses</ecda:flora>, <ecda:food><distinct type="dialect" rend="italic">goolkund</distinct></ecda:food>; a drink
+                  made of the same materials, <ecda:food><distinct type="dialect" rend="italic">goolchukeree</distinct></ecda:food>; the
                   
                   <pb/>
                   <fw type="pageNum">70</fw>
                   
-                  inspissated juice of the cane, <distinct type="dialect" rend="italic">kund-seah</distinct>, or
+                  inspissated juice of the <ecda:flora>cane</ecda:flora>, <distinct type="dialect" rend="italic">kund-seah</distinct>, or
                   <distinct type="dialect" rend="italic">jaggery</distinct>.
                </p>
                <p><distinct type="dialect" rend="italic">Shukur</distinct> also is a general appellation for
@@ -2861,7 +2890,7 @@
                   appears to me that others are compounded.
                </p>
                <p>From <distinct type="dialect" rend="italic">shukur</distinct>, the <rs type="properAdjective">Indian</rs> origin, it is most
-                  probable that the word sugar is derived; from 
+                  probable that the word <distinct type="mentioned">sugar</distinct> is derived; from 
                   thence the <name>Arabians</name> had it; and it has
                   undergone but little variation since, in <rs type="properAdjective">European</rs>
                   languages. And, though these particulars do 
@@ -2871,13 +2900,13 @@
                   ab Indis Barbaricis, cum re translata.</quote>
                </p>
                <p>To conclude this part of my subject, I think
-                  there can be no doubt but that sugar-candy
-                  was the first and only species of sugar known
+                  there can be no doubt but that <ecda:food>sugar-candy</ecda:food>
+                  was the first and only species of <ecda:commodity>sugar</ecda:commodity> known
                   to the <rs type="properAdjective">European</rs> antients, and that it was the
                   original manufacture of the East, particularly
                   of <placeName>China</placeName>, the most ancient of the Eastern nations;
                   and found its way into <placeName>Europe</placeName>, as we
-                  are certain raw sugars did in after-ages, when
+                  are certain <ecda:commodity>raw sugars</ecda:commodity> did in after-ages, when
                   first known to <name>Europeans</name>, by way of <placeName>India</placeName>,
                   <placeName>Arabia</placeName>, and the <placeName>Red Sea</placeName>; several centuries 
                   before <persName ref="#nicholas_myrepsos_0001">Myrepsus</persName> lived.
@@ -2891,7 +2920,7 @@
                   
                   <ecda:food>Sugar</ecda:food> was likewise made before that time in
                   the <placeName>Island of Sicily</placeName>. With the produce of this
-                  island, and the sugar imported from <placeName>India</placeName> and
+                  island, and the <ecda:commodity ana="#transport">sugar</ecda:commodity> imported from <placeName>India</placeName> and
                   <placeName>Egypt</placeName>, the <name>Venetians</name> carried on a great traffic,
                   and supplied all the markets of <placeName>Europe</placeName> with
                   this commodity<anchor xml:id="a018" corresp="#n018"/>.
@@ -2901,8 +2930,8 @@
                   of <placeName>Venice</placeName>, the <name>Venetians</name>, then forcing their
                   commerce with the <name>Saracens</name> into <placeName>Syria</placeName> and
                   <placeName>Egypt</placeName>, brought back from thence in return,
-                  not only <ecda:commodity>rice</ecda:commodity>, <ecda:commodity>dates</ecda:commodity>, <ecda:commodity>sena</ecda:commodity>, <ecda:commodity>cassia</ecda:commodity>, <ecda:commodity>flax</ecda:commodity>, &amp;c. but
-                  also <ecda:commodity>sugar</ecda:commodity><anchor xml:id="a019" corresp="#n019"/>.
+                  not only <ecda:commodity ana="#food #transport">rice</ecda:commodity>, <ecda:commodity ana="#food #transport">dates</ecda:commodity>, <ecda:commodity ana="#transport">sena</ecda:commodity>, <ecda:commodity ana="#transport">cassia</ecda:commodity>, <ecda:commodity ana="#transport #food">flax</ecda:commodity>, &amp;c. but
+                  also <ecda:commodity ana="#food #transport">sugar</ecda:commodity><anchor xml:id="a019" corresp="#n019"/>.
                </p>
                <p>This shews how much <persName ref="#william_wotton_1666">Wotton</persName> was
                   mistaken, when he asserted that <quote rend="quotes">all the arts
@@ -2913,23 +2942,23 @@
                <p><persName ref="#william_douglass_1691"><hi rend="mixed">Doctor</hi> William Douglas</persName>, of <placeName>Boston</placeName> in
                   <placeName>America</placeName>, was also mistaken, when, remarking
                   that <quote rend="quotes">the ancient <name>Greeks</name> and <name>Romans</name> used
-                  honey only for sweetening, and that sugar was
+                  <ecda:food>honey</ecda:food> only for sweetening, and that <ecda:food>sugar</ecda:food> was
                   not known amongst them,</quote> he asserts that
                   <quote rend="quotes"><persName ref="#paul_of_aegina_0625">Paulus Ægineta</persName> is the first who expressly
-                  mentions sugar<anchor xml:id="a021" corresp="#n021"/>.</quote>
+                  mentions <ecda:food>sugar</ecda:food><anchor xml:id="a021" corresp="#n021"/>.</quote>
                </p>
                
                <pb/>
                <fw type="pageNum">72</fw>
                
                <p><persName ref="john_campbell_1708"><hi rend="mixed">Doctor</hi> Campbell</persName> was likewise erroneous
-                  when he asserted, that <quote rend="quotes">the sugar canes were
+                  when he asserted, that <quote rend="quotes">the <ecda:flora>sugar canes</ecda:flora> were
                   certainly known to the ancients, thought what
-                  we call sugar was not; for, manufacturing
-                  the sweet juice of the sugar-cane into that
+                  we call <ecda:food>sugar</ecda:food> was not; for, manufacturing
+                  the sweet juice of the <ecda:flora>sugar-cane</ecda:flora> into that
                   form was the invention of the <name>Arabians</name>, who
                   bestowed upon it the name it bears, calling
-                  it in their own language <distinct type="dialect" rend="italic">succar</distinct><anchor xml:id="a022" corresp="#n022"/>.</quote>
+                  it in their own language <distinct xml:lang="ar" type="dialect" rend="italic">succar</distinct><anchor xml:id="a022" corresp="#n022"/>.</quote>
                </p>
                <p>The art of refining sugar was first practised 
                   in <placeName>England</placeName> in <date when="1544">1544</date>. The first adventurers in
@@ -2954,12 +2983,12 @@
                </p>
                
                <pb/>
-               <fw type="pageNum">73</fw>
+               <fw type="pageNum">73</fw> 
                
                <p>In <date when="1596">1596</date>, <persName ref="#thomas_mildmay_1540" rend="mixed">Sir <mcr>Thomas Mildmay</mcr></persName>, on the pretext
-                  that frauds were practised in refining sugar,
+                  that frauds were practised in refining <ecda:commodity ana="#refine">sugar</ecda:commodity>,
                   petitioned <persName ref="elizabeth_i_england_1533" rend="mixed">queen Elizabeth</persName> for a license, for an 
-                  exclusive right to refine sugars, for a term of
+                  exclusive right to refine <ecda:commodity ana="#refine">sugars</ecda:commodity>, for a term of
                   years; for which monopoly he offered to pay
                   an annual sum. His petition however was
                   rejected: and <placeName>England</placeName>, which formerly had
@@ -2968,9 +2997,9 @@
                   <placeName>Europe</placeName>, now not only supplied itself, but
                   exported great quantities to other countries.
                </p>
-               <p><ecda:commodity>Sugar</ecda:commodity> was taxed by name in <placeName>England</placeName>,
-                  2 James II. cap. 4. prior to that time, it paid
-                  twelve pence per pound, or five per cent.
+               <p><ecda:commodity ana="#sale">Sugar</ecda:commodity> was taxed by name in <placeName>England</placeName>,
+                  2 James II. cap. 4.; prior to that time, it paid
+                  <measure ana="#currency #commodity">twelve pence</measure> per pound, or five per cent.
                   poundage, as then was the case with all other 
                   imported goods.
                </p>
@@ -2980,16 +3009,16 @@
             <div type="part" ana="#medical #disease">
                <head>On the Properties and Use of Sugar</head>
                <head>Part the Third</head>
-               <p>Sugar, when first introduced into every 
+               <p><ecda:commodity ana="#medical">Sugar</ecda:commodity>, when first introduced into every 
                   country, was used only medicinally <persName ref="#pliny_0023">Pliny</persName>
                   leaves no room for doubt on this point. Even
-                  in <placeName>Arabia</placeName>, in <persName ref="#avicenna_0980">Avicenna's</persName> time, though sugar
+                  in <placeName>Arabia</placeName>, in <persName ref="#avicenna_0980">Avicenna's</persName> time, though <ecda:commodity ana="#medical">sugar</ecda:commodity>
                   was an article of commerce from the East,
                   there is no record of its being used in dietetic,
                   or culinary purposes, for several centuries
                   afterwards.
                </p>
-               <p><ecda:food ana="#medical">Sugar</ecda:food> was employed originally to render
+               <p ana="#medical"><ecda:food ana="#medical">Sugar</ecda:food> was employed originally to render
                   unpleasant and nauseating medicines grateful to
                   the sick; and in pharmacy, in syrups, electuaries,
                   confections, and conserves.
@@ -2999,7 +3028,7 @@
                <fw type="pageNum">76</fw>
                
                <p ana="#medical"><persName ref="#joannes_actuarius_1275">Actuarius</persName> was the first physician who 
-                  substituted sugar for honey in medicinal
+                  substituted <ecda:food ana="#medical">sugar</ecda:food> for <ecda:food ana="#medical">honey</ecda:food> in medicinal
                   compositions<anchor xml:id="a023" corresp="#n023"/>.
                </p>
                <p>It is not to be supposed, however, that such
@@ -3009,20 +3038,20 @@
                   the quantity obtainable was insufficient for the
                   purposes of luxury; and the price too great
                   to be admitted, by the generality of mankind,
-                  as an ingredient in their food,
+                  as an ingredient in their food.
                </p>
                <p>As there are but few of the ancients who
-                  have even mentioned sugar, it is not difficult
+                  have even mentioned <ecda:food>sugar</ecda:food>, it is not difficult
                   to collect all that has been said of it by them,
                   as to its use. It appears nevertheless, that it
-                  was preferred in their days to honey in
+                  was preferred in their days to <ecda:food ana="#medical">honey</ecda:food> in
                   medicine.
                </p>
                <p>I have said that <persName ref="#joannes_actuarius_1275">Actuarius</persName> was the first
-                  physician who used sugar, instead of honey,
+                  physician who used <ecda:food ana="#medical">sugar</ecda:food>, instead of <ecda:food ana="#medical">honey</ecda:food>,
                   in prescriptions; because he is supposed, by
                   me, to have written anno <date when="1000">1000</date>; which was
-                  before <persName ref="#nicholas_myrepsos_0001">Myrepsus</persName> made is compilation; though
+                  before <persName ref="#nicholas_myrepsos_0001">Myrepsus</persName> made his compilation; though
                   some writers place <persName ref="#joannes_actuarius_1275">Actuarius</persName> three centuries
                   
                   <pb/>
@@ -3032,16 +3061,20 @@
                   to <persName ref="#nicholas_myrepsos_0001">Myrepsus</persName>.
                </p>
                <p><persName ref="#pedanius_dioscorides_0040">Dioscorides</persName>, who is the first that mentions
-                  sugar by name, σακχαρον, from which the Latin
-                  <distinct type="dialect" rend="italic">saccharum</distinct> is derived, is also the first who speaks
-                  of the medicinal qualities of sugar. In his 
-                  chapter, ϖερι Σακχαρου Μελιτος, he says:—
-                  <quote rend="block" xml:lang="grc">
+                  <ecda:food>sugar</ecda:food> by name, <distinct ana="#food" xml:lang="grc">σακχαρον</distinct>, from which the Latin
+                  <distinct ana="#food" xml:lang="la" rend="italic">saccharum</distinct> is derived, is also the first who speaks
+                  of the medicinal qualities of <ecda:food ana="#medical">sugar</ecda:food>. In his 
+                  chapter, <title xml:lang="grc">ϖερι Σακχαρου Μελιτος</title>, he says:—
+               </p>
+               <p>
+                  <quote xml:lang="grc" ana="#medical">
                      Εστι δε ευκοιλιον, ευστομαχον, διεθεν υδατι
                      και ϖοθεν ωΦελουν κυοτιν κεκακωμενην καιμεΦρους
                      καθαιρει δε και τα τας κορας επισκο τουντα 
                      επιχριομενον.
                   </quote>
+               </p>
+                  <p>
                   <quote rend="quotes" ana="#medical">It opens the bowels, and is good for the
                      stomach, when drunk dissolved in water: it
                      relieves pains in the bladder and kidnies: and
@@ -3061,12 +3094,13 @@
                   
                   <pb/>
                   <fw type="pageNum">78</fw>
-                  
-                  <quote rend="block" xml:lang="grc">Την δυ<gap/>κμον ϖαραπλησιον αυτω, καθ' οσον
+                  </p><p>
+                  <quote xml:lang="grc">Την δυ<gap/>κμον ϖαραπλησιον αυτω, καθ' οσον
                      απορρυπτει, και ξηραινει, και διαΦορει καθ οσον
                      ουτε κακοστομαχον εστιν ως το ϖαρ ημιν,
                      ουτε διψωδες, αποκεχωρηκε της ουσιας αυτον,
                   </quote>
+                  </p><p>
                   <quote rend="quotes" ana="#medical">It possesses similar virtues (to honey), as far
                   as relates to absterging, drying, and digesting;
                   however, it is not hurtful to the stomach
@@ -3078,8 +3112,8 @@
                   articles to be used, for the regimen of the sick in
                   fevers.
                </p>
-               <p><bibl><persName ref="#paul_of_aegina_0625">Paulus Ægineta</persName>, lib. II. cap. 54,</bibl> recommends
-                  from <persName ref="#archigenes_0001">Archigenes</persName>, a piece of <quote rend="quotes">the
+               <p><persName ref="#paul_of_aegina_0625">Paulus Ægineta</persName>, <bibl>lib. II. cap. 54</bibl>, recommends
+                  from <persName ref="#archigenes_0001">Archigenes</persName>, a piece of <quote rend="quotes" ana="#medical">the
                   <rs type="properAdjective">Indian</rs> salt, which in appearance, resembles
                   common salt, but in sweetness honey;</quote> to be
                   kept in the mouth, to moisten it in fevers.
@@ -3104,13 +3138,16 @@
                   only.
                </p>
                <p><persName ref="#avicenna_0980">Avicenna</persName> says, in his chapter on <ecda:food>honey</ecda:food>,—
-                  <quote rend="block" xml:lang="la">Mel cannarum lenit ventrem, et mel tabazet non
-                  lenit.</quote> <bibl>Lib. II. tract. 2. cap. 497.</bibl>
-                  <quote rend="quotes">The honey of the canes opens the bowels; but
-                  the <distinct type="dialect" rend="italic">tabazet</distinct> (a white sort of honey) does not.</quote>
+                  </p><p>
+                  <quote xml:lang="la" rend="italic" ana="#medical">Mel cannarum lenit ventrem, et mel tabazet non
+                  lenit.</quote> <bibl>Lib. II. tract. 2. cap. 497.</bibl> 
+                  </p><p>
+                  <quote rend="quotes" ana="#medical">The honey of the canes opens the bowels; but
+                  the <distinct rend="italic" xml:lang="la">tabazet</distinct> (a white sort of honey) does not.</quote>
                </p>
                <p>In his chapter expressly on <ecda:food>sugar</ecda:food>, he says,—
-                  <quote rend="block" xml:lang="la">Zuccarum quid est? Arundo zuccari in natura
+               </p><p>
+                  <quote rend="italic" xml:lang="la">Zuccarum quid est? Arundo zuccari in natura
                      zuccari existit, et est vehementioris lenificationis
                      quàm ipsum. Frigidius est album et est subilius.
                      Et universaliter est calidum in fine primi. Et
@@ -3140,18 +3177,20 @@
                      et ipsum quidem cum oleo amydalino confert 
                      cholicae.</quote> <bibl>Lib. II. tract. 2. cap. 755.</bibl>
                </p>
-               <p><persName ref="#avicenna_0980">Avicenna</persName>, in his chapter <title rend="italic">de Asperitate
+               <p ana="#medical"><persName ref="#avicenna_0980">Avicenna</persName>, in his chapter <title xml:lang="la" rend="italic">de Asperitate
                   Linguæ</title>, copying <persName ref="#paul_of_aegina_0625">P. Ægineta</persName>, says, the tongue,
                   when rough and foul in fevers, should be
-                  cleansed with oil of almonds and white sugar;
+                  cleansed with <ecda:food>oil of <ecda:flora>almonds</ecda:flora></ecda:food> and <ecda:food>white sugar</ecda:food>;
                   and after that he says,—
-                  <quote rend="block" xml:lang="la">Teneat in ore suo salem qui asportatur de India,
+               </p><p>
+                  <quote ana="#medical" rend="italic" xml:lang="la">Teneat in ore suo salem qui asportatur de <placeName>India</placeName>,
                   et est in colore salis, et dulcidine mellis; et sumat de
                   eo secundum quod dixit <persName ref="#archigenes_0001">Archigenes</persName>, quantitatem
                   fabæ unius.</quote> <bibl>Lib. IV. Fen. I. Tract. 2. cap. 22.</bibl>
-                  <quote rend="quotes">The sick should hold in his mouth the
-                  salt which is brought from <placeName>India</placeName>, which is in
-                  colour like salt, but in sweetness like honey;
+               </p><p>
+                  <quote rend="quotes" ana="#medical">The sick should hold in his mouth the
+                  <ecda:food>salt which is brought from <placeName>India</placeName></ecda:food>, which is in
+                  colour like <ecda:food>salt</ecda:food>, but in sweetness like <ecda:food>honey</ecda:food>;
                   and he should take it, according to the
                   
                   <pb/>
@@ -3160,29 +3199,32 @@
                   directions of <persName ref="#archigenes_0001">Archigenes</persName>, the quantity of a 
                   bean.</quote>
                </p>
-               <p>He says again, in his chapter <title rend="italic">de Cibatione
+               <p>He says again, in his chapter <title rend="italic" xml:lang="la">de Cibatione
                   Febricitantium in generali</title>,—
-                  <quote xml:lang="la" rend="italic">Mel cannæ, quod est zuccarum, et proprie
-                  mundificatum, est melius melle apis, licet ejus
-                  abstersio sit minor abstersione mellis.</quote> <bibl>Lib. IV.
+               </p><p>
+                  <quote ana="#medical" xml:lang="la" rend="italic"><ecda:food>Mel cannæ</ecda:food>, quod est <ecda:food>zuccarum</ecda:food>, et proprie
+                  mundificatum, est melius <ecda:food>melle apis</ecda:food>, licet ejus
+                  abstersio sit minor abstersione <ecda:food>mellis</ecda:food>.</quote> <bibl>Lib. IV.
                   fen. I. tract. 2. cap. 8.</bibl>
-                  <quote rend="quotes">The honey of the cane, that is, sugar, well
-                  cleansed, is better than the honey of bees,
+                  <quote ana="#medical" rend="quotes">The <ecda:food>honey of the cane</ecda:food>, that is, <ecda:food>sugar</ecda:food>, well
+                  cleansed, is better than the <ecda:food>honey of bees</ecda:food>,
                   although its abstensive quality is less than that
-                  of their honey.</quote>
+                  of their <ecda:food>honey</ecda:food>.</quote>
                </p>
-               <p>In his chapter <title rend="italic">De Adustione Linguæ</title>, he
-                  advises sugar to be holden in the mouth, to
+               <p>In his chapter <title rend="italic" xml:lang="la">De Adustione Linguæ</title>, he
+                  advises <ecda:food>sugar</ecda:food> to be holden in the mouth, to
                   assuage thirst. <bibl>Lib. III. fen. 6. tract. 2. cap. 19.</bibl>
                </p>
                <p><persName ref="#avicenna_0980">Avicenna</persName> further remarks, on the virtues of
                   sugar, compared with honey;—
-                  <quote rend="block" xml:lang="la">Quod in Syrupo Acetoso ponatur zuccarum loco
+               </p><p>
+                  <quote ana="#medical" rend="italic" xml:lang="la">Quod in Syrupo Acetoso ponatur zuccarum loco
                   mellis; quum zuccarum in abstersione non deficiat
                   à melle plurimum valde; et sit zuccarum minus
                   calidum quam mel, et magis remotum valde, ut
                   convertatur in choleram, quam mel.</quote> 
                   <title>Tract. de Syrupo Acetoso</title>
+               </p><p>
                   <quote rend="quotes" ana="#medical">That sugar should be used in the syrup of
                   wood sorrel (which was used among the <name>Arabians</name>
                   to make a cooling beverage in the summer
@@ -3195,28 +3237,29 @@
                   and is less heating; and much less subject
                   to produce bile.</quote>
                </p>
-               <p><persName ref="#avicenna_0980">Avicenna</persName> has a chapter on Fanid, or
-                  Pinidium, sugar which the translators have rendered
-                  <distinct type="dialect" rend="italic">Penidii</distinct>; the same as before termed
-                  <distinct type="dialect" rend="italic">Alfenid</distinct> or <distinct type="dialect" rend="italic">Saccharum Penidium</distinct>.
+               <p><persName ref="#avicenna_0980">Avicenna</persName> has a chapter on <distinct>Fanid</distinct>, or
+                  <distinct>Pinidium</distinct>, sugar which the translators have rendered
+                  <distinct rend="italic" xml:lang="la">Penidii</distinct>; the same as before termed
+                  <distinct rend="italic">Alfenid</distinct> or <distinct xml:lang="la" rend="italic">Saccharum Penidium</distinct>.
                </p>
                <p>He says,—
-                  <quote rend="block" xml:lang="la">Penidii, calidi sunt et humidi in primo, et proprie
+               </p><p>
+                  <quote ana="#medical" rend="italic" xml:lang="la">Penidii, calidi sunt et humidi in primo, et proprie
                   albi, et sunt humidiores aliis. Sunt grossiores
                   zuccaro. Sunt boni tussi. Sunt lenitivi ventirs.</quote>
                   <bibl>De Penidiis, lib. II. tract. 2. cap. 556.</bibl>
                </p>
                <p>
-                  <quote rend="quotes">The <distinct rend="italic">Penidii</distinct> are hot and moist in the first
+                  <quote rend="quotes" ana="#medical">The <distinct xml:lang="la" rend="italic">Penidii</distinct> are hot and moist in the first
                   degree, particularly the white, which are more
                   moist than the others. They are larger than
-                  sugar. They are good for a couch. They 
-                  open the bowels.</quote> He says he knew <ecda:anonPers a-gender="female">a woman
+                  sugar. They are good for a cough. They 
+                  open the bowels.</quote> He says he knew <ecda:anonPers ana="#medical #disease" a-gender="female">a woman
                   cured of a consumption</ecda:anonPers>, and became fat, by
-                  eating a considerable quantity of conserve of
-                  roses. <bibl>Lib. III. fen. 10. tr. 3 c. 6.</bibl>
+                  eating a considerable quantity of <ecda:food ana="#flora">conserve of
+                  roses</ecda:food>. <bibl>Lib. III. fen. 10. tr. 3 c. 6.</bibl>
                </p>
-               <p><persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhases</persName> says, <quote rend="quotes">sugar softens the throat and
+               <p><persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhases</persName> says, <quote ana="#medical" rend="quotes">sugar softens the throat and
                   bowels, and does not heat but in a very small 
                   degree. Honey is hot, and soon converted
                   into bile; but it destroys phlegm, and is good
@@ -3226,7 +3269,7 @@
                <pb/>
                <fw type="pageNum">83</fw>   
                
-                  hurtful. The <distinct rend="italic">Pinidii</distinct> are hot; but are alleviating
+                  hurtful. The <distinct xml:lang="la" rend="italic">Pinidii</distinct> are hot; but are alleviating
                   to the throat, bowels and bladder, and
                   warm the parts about the kidneys.</quote>   
                </p>
@@ -3234,26 +3277,26 @@
                   concerning sugar, relates only the opinion of
                   others.
                </p>
-               <p>He begins with <persName ref="#galen_0129">Galen</persName>, and mentions almost
+               <p ana="#medical">He begins with <persName ref="#galen_0129">Galen</persName>, and mentions almost
                   verbatim what I have already given from that 
                   author: particularly that sugar is not prejudicial
                   to the stomach, nor causes thirst, like
                   honey.
                </p>
                <p>From <persName ref="#pedanius_dioscorides_0040">Dioscorides</persName> he has given the same
-                  account I have; that it is a species of honey
-                  found on the canes in <placeName>India</placeName> and <placeName>Arabia</placeName>: that
-                  it is in substance like salt, and brittle between 
-                  the teeth like salt.
+                  account I have; that it is a species of <ecda:food>honey</ecda:food>
+                  found on the <ecda:flora>canes</ecda:flora> in <placeName>India</placeName> and <placeName>Arabia</placeName>: that
+                  it is in substance like <ecda:food>salt</ecda:food>, and brittle between 
+                  the teeth like <ecda:food>salt</ecda:food>.
                </p>
                <p>From <persName ref="#masawaiyh_0777" cert="medium">Aben Mesuai</persName>, he says, <quote rend="prequotes" xml:id="q012" next="#q013" ana="#medical">it opens the
                   bowels, strengthens the stomach and cleanses
                   it, particularly from bile; which it expels by
                   its abstersive property. The white sort is not
                   so mollifying as the red, and that brought
-                  from <placeName rend="italic">Hegen</placeName>, like lumps of salt.</quote>
+                  from <placeName rend="italic">Hegen</placeName>, like lumps of <ecda:food>salt</ecda:food>.</quote>
                </p>
-               <p><quote rend="prequotes" xml:id="q013" next="#q014">The <distinct rend="italic">haoscer</distinct> sugar strengthens the stomach,
+               <p><quote ana="#medical" rend="prequotes" xml:id="q013" next="#q014">The <distinct rend="italic">haoscer</distinct> sugar strengthens the stomach,
                   and is good for pains in the bladder and kidneys, 
                   and clears the sight when used in a collyrium;
                   and it trues and resolves the lax films
@@ -3264,32 +3307,32 @@
                
                   the pupils: when drunk, it does not cause
                   thirst, and on this account it is good in the
-                  dropsy, when drunk with the milk of the mandragora,
-                  or <distinct type="dialect" rend="italic">Lafaba</distinct>.</quote>
+                  dropsy, when drunk with the <ecda:flora>milk of the mandragora</ecda:flora>,
+                  or <distinct type="scientific" rend="italic">Lafaba</distinct>.</quote>
                </p>
-               <p><quote rend="quotes" xml:id="q014">New sugar is hot, and moist; and the old
+               <p><quote ana="#medical" rend="quotes" xml:id="q014">New sugar is hot, and moist; and the old
                   hot, and dry. It is good for wind in the
                   bowels, and opens them, and when taken
-                  with oil of sweet almonds, it is good in the
+                  with <ecda:food>oil of <ecda:flora>sweet almonds</ecda:flora></ecda:food>, it is good in the
                   cholic; and the old sort is good for phlegm in
                   the stomach, unless it causes thirst, and
                   generates thick blood. That which is brought
                   from <placeName rend="italic">Aliemen</placeName>, and is like mastich, and is
-                  called <distinct type="dialect" rend="italic">haoscer</distinct>, is good for the stomach and
+                  called <distinct rend="italic">haoscer</distinct>, is good for the stomach and
                   liver; on account of a small degree of bitterness 
                   in it: sugar is good for pains in the bladder
                   and kidneys, and cleanses them.</quote>
                </p>
                <p>From <persName ref="#isaac_israeli_ben_solomon_832">Isaac Bensulaimen</persName> he says, <quote rend="quotes">the
                   sugar brought from the region of <placeName rend="italic">Heigen</placeName>, and
-                  called <distinct type="dialect" rend="italic">haoscer</distinct>, is less sweet than the other
+                  called <distinct rend="italic">haoscer</distinct>, is less sweet than the other
                   sorts of sugar, and more drying; for which 
                   reason it does not remove thirst like the other
                   species of sugar: but it produces good effects
                   in pains of the kidneys, and when drunk in
-                  milk of mandragora is good in the dropsy. The
-                  milk of the <distinct type="dialect" rend="italic">haoscer</distinct> also, when drunk with the
-                  milk of mandragora, has the same operations,
+                  milk of <ecda:flora>mandragora</ecda:flora> is good in the dropsy. The
+                  milk of the <distinct rend="italic">haoscer</distinct> also, when drunk with the
+                  milk of <ecda:flora>mandragora</ecda:flora>, has the same operations,
                   in a greater degree; but it is not so safe, in
                   habits of hot temperaments.</quote>
                </p>
@@ -3297,23 +3340,23 @@
                <pb/>
                <fw type="pageNum">85</fw>
                
-               <p>From <persName ref="#aabrianifa_0001">Abrianifa</persName> he says <quote rend="quotes">the <distinct type="dialect" rend="italic">haoscer</distinct> has
-                  broad leaves, and has sugar, which comes out <!-- can we find this person? -->
+               <p>From <persName ref="#aabrianifa_0001">Abrianifa</persName> he says <quote rend="quotes">the <ecda:flora><distinct rend="italic">haoscer</distinct></ecda:flora> has  <!-- can we find this person? -->
+                  broad leaves, and has sugar, which comes out
                   at the buds of the branches, and at the bottom
                   of the leaves; from whence it is collected:
                   in which sugar, there is a bitterness. The
-                  tree bears a kind of apple, about the size of
-                  an egg, which yields a corrosive liquor. It
+                  tree bears a kind of <ecda:flora>apple</ecda:flora>, about the size of
+                  an <ecda:food>egg</ecda:food>, which yields a corrosive liquor. It
                   produces a down, with which pillows and
-                  bolsters are stuffed. The tree is called <distinct type="dialect" rend="italic">percha</distinct>.
-                  when the leaves are cut, the <distinct type="dialect" rend="italic">haoscer</distinct> yields a 
+                  bolsters are stuffed. The tree is called <distinct type="scientific" rend="italic">percha</distinct>.
+                  when the leaves are cut, the <distinct rend="italic">haoscer</distinct> yields a 
                   milk which is collected in the month of May,
                   and skins are put in it; and it takes off the
-                  hair. The wood of the <distinct type="dialect" rend="italic">hahoscer</distinct> is smooth,
+                  hair. The wood of the <distinct rend="italic"><sic>hahoscer</sic></distinct> is smooth,
                   straight, and beautiful; and musical bards,
                   in their love songs, compare the limbs of
                   their mistresses to it.</quote>
-                  <title rend="italic">De Temperament. Simpl.</title> cap. 50.
+                  <title rend="italic" xml:lang="la">De Temperament. Simpl.</title> cap. 50. <!-- start here -->
                </p>
                <p><persName ref="#yahya_ibn_sarafyun_0001 #serapion_the_younger_0001">Serapion</persName> has a chapter also from <persName ref="#masawaiyh_0777" cert="medium">Aben
                   Mesuai</persName>, on the <distinct type="dialect" rend="italic">pinidii</distinct>, before mentioned, by
