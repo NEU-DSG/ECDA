@@ -3356,10 +3356,10 @@
                   straight, and beautiful; and musical bards,
                   in their love songs, compare the limbs of
                   their mistresses to it.</quote>
-                  <title rend="italic" xml:lang="la">De Temperament. Simpl.</title> cap. 50. <!-- start here -->
+                  <title rend="italic" xml:lang="la">De Temperament. Simpl.</title> cap. 50. 
                </p>
                <p><persName ref="#yahya_ibn_sarafyun_0001 #serapion_the_younger_0001">Serapion</persName> has a chapter also from <persName ref="#masawaiyh_0777" cert="medium">Aben
-                  Mesuai</persName>, on the <distinct type="dialect" rend="italic">pinidii</distinct>, before mentioned, by
+                  Mesuai</persName>, on the <distinct xml:lang="la" rend="italic">pinidii</distinct>, before mentioned, by
                   <persName ref="#avicenna_0980">Avicenna</persName>, and <persName ref="#muhammad_ibn_zakariya_al_razi_0854">Rhases</persName>. It is verbatim from
                   <persName ref="#avicenna_0980">Avicenna</persName>.
                </p>
@@ -3380,36 +3380,36 @@
                   preceded them, with his crude notions.
                </p>
                <p>The opinions of these physicians were
-                  adopted, in the infancy of sugar in <placeName>England</placeName>,
-                  by <persName ref="john_ray_1627"><hi rend="mixed">Mr</hi>. Ray</persName>; and the sentiments of these four
-                  authors have been disseminated in every part
+                  adopted, in the infancy of <ecda:food>sugar</ecda:food> in <placeName>England</placeName>,
+                  by <persName ref="#john_ray_1627"><hi rend="mixed">Mr</hi>. Ray</persName>; and the sentiments of these <ecda:persGroup ref="#john_ray_1627 #thomas_willis_1621 #simon_paulli_1603 #theophilius_de_garencieres_1610">four
+                  authors</ecda:persGroup> have been disseminated in every part
                   of <placeName>Europe</placeName>.
                </p>
-               <p><persName ref="#theophilius_de_garencieres_1610">Garencieres</persName> says,<quote xml:lang="la" rend="quotes">Saccharum et saccharata
-                  omnia toto genere huic morbo (Tabes Anglica) 
+               <p rend="italic"><hi rend="upright"><persName ref="#theophilius_de_garencieres_1610">Garencieres</persName> says,</hi> <quote xml:lang="la" rend="quotes" ana="#medical">Saccharum et saccharata
+                  omnia toto genere huic morbo (<placeName>Tabes Anglica</placeName>) 
                   insensissima, &amp; in eo progignendo multa esse censeo
                   quorum quum usus si tam frequens, mirum videri non
                   debet si tanta tabidorum seges hic pullutat,</quote> &amp;c.
                </p>
-               <p>
-                  <quote xml:lang="la" rend="quotes">Cum de saccharo prædominante qualitate sit
+               <p rend="italic">
+                  <quote xml:lang="la" rend="quotes" ana="#medical">Cum de saccharo prædominante qualitate sit
                   sermo, illam esse calidetatem contendo, qamvis satis
                   obscuram; indicio est quod sitim gignit,</quote> &amp;c.
                </p>
-               <p>
-                  <quote xml:lang="la" rend="quotes">Qua qualitate calida non parum pulmoni obesse
+               <p rend="italic">
+                  <quote xml:lang="la" rend="quotes" ana="#medical">Qua qualitate calida non parum pulmoni obesse
                   postest, cum pulmo sit maximè calidus et moderatè
                   frigidis potius detectetur, calidiorum vero usu facile
                   inflammationem excipiat,</quote> &amp;c.
                </p>
-               <p>
-                  <quote xml:lang="la" rend="quotes">Sed quod cardo totius rei est, saccharum non
+               <p rend="italic">
+                  <quote xml:lang="la" rend="quotes" ana="#medical">Sed quod cardo totius rei est, saccharum non
                   solum temeramento et materia, verum etiam tota
                   substatia pulmoni est inimicum id qhod neminem
                   non ignarum mihi negaturum essa puto; cume enim
                   non solum aulce, sed etiam sit dulcissimum, &amp;
                   propterea amaro è diametro oppositum numquid sequi debet,
-                  si amaru <gap extent="1char"/> ex omnium recepta sententia super vacuos
+                  si amaru<gap extent="1char"/> ex omnium recepta sententia super vacuos
                
                <pb/>
                <fw type="pageNum">87</fw>
@@ -3422,8 +3422,8 @@
                   facultate prædita sid incidat, à quâ postea non possit
                   edomari?</quote> &amp;c.
                </p>
-               <p>
-                  <quote xml:lang="la" rend="italic">Certum est nullam, vel minimam, fieri fermentationem
+               <p rend="italic">
+                  <quote xml:lang="la" rend="quotes" ana="#medical">Certum est nullam, vel minimam, fieri fermentationem
                   inter ea quæ qualitatibus inter se conveniunt,
                   ut saccharum et caro, illud enim propter dulcedinem et balsamicam qualitatem, hæc vero ob
                   humorem dulcem, ita ad invicem accedant, ut si
@@ -3440,7 +3440,7 @@
                   quia ipsius dulcedo cum aciditate seu acerbitate
                   fermentatur, et novum inde temperamentum perfectè
                   mixtum producit. In spuradictorum confirmationem
-                  non omittendum est, quod in insula Sancti Thomæ
+                  non omittendum est, quod in insula <placeName>Sancti Thomæ</placeName>
                   sub Æquatore molunt cannas, et quod superat, expresso
                   succo, objiciunt porcis qui inde dicuntur in tam
                   miram teneritundinem pinguescere, ut de bonitate
@@ -3448,7 +3448,7 @@
                <pb/>
                <fw type="pageNum">88</fw>
                      
-                  cum capris Hispanicis certent, denturque vulgo
+                  cum capris <rs type="properAdjective">Hispanicis</rs> certent, denturque vulgo
                   ventriculis invaidis ad facilem concocturam. Unde
                   colligere est, quod, si saccharum ea vi et facultate
                   pollet, ut suillam omnium fere carnium tenacissimam
@@ -3458,25 +3458,25 @@
                   substantiæ, et stypticis astringentibus conserventur. Luce
                   igitur clarius est saccharum non alimentum sed
                   nocumentum, non alexiterium sed deleterium, esse ad
-                  Indias rursus ab egandum, ante quas detectas verisimile
+                  <placeName>Indias</placeName> rursus ab egandum, ante quas detectas verisimile
                   est effectum hunc planè latuisse, et cum iis
-                  mercibus ad nos esse advectum.</quote> <bibl><title>Angliæ Flagellum,
-                  seu Tabes Anglica</title>. Anno <date when="1647">1647</date>. p. 92. &amp; seq.</bibl>
+                  mercibus ad nos esse advectum.</quote> <bibl rend="upright"><title xml:lang="la">Angliæ Flagellum,
+                  seu Tabes Anglica</title>. <hi rend="italic">Anno</hi> <date when="1647">1647</date>. p. 92. &amp; seq.</bibl>
                </p>
                <p>The substance of which is,—
-                  <quote rend="prequotes" xml:id="q020" next="#q021">Sugar and all kinds of sweetmeats are
+                  <quote rend="prequotes" xml:id="q020" next="#q021" ana="#medical">Sugar and all kinds of sweetmeats are
                   very hurtful in consumption of the lungs, and 
                   tend much to create that disease; as I conceive,
                   from the so frequent use of these things:
                   and it is not to be wondered at, that consumptive
                   complaints are so common in <placeName>England</placeName>.</quote>
                </p>
-               <p><quote rend="prequotes" xml:id="q021" next="#q022">In respect to the predominant quality of
+               <p><quote rend="prequotes" xml:id="q021" next="#q022" ana="#medical">In respect to the predominant quality of
                   sugar, I contend that it is heating, although
                   hidden; and, as a proof of it, it excites
                   thirst.</quote>
                </p>
-               <p><quote rend="prequotes" xml:id="q022" next="#q023">This heating quality of sugar renders it not
+               <p><quote rend="prequotes" xml:id="q022" next="#q023" ana="#medical">This heating quality of sugar renders it not
                   a little injurious to the lungs, which are in
                
                <pb/>
@@ -3506,11 +3506,11 @@
                </p>
                <p><quote rend="prequotes" xml:id="q024" next="#q025" ana="#medical">It is certain there is no fermentation, or
                   very little, produced between things which 
-                  agree in their qualities, ans sugar and flesh; on
+                  agree in their qualities, as sugar and flesh; on
                   account of the sweetness and balsamic quality
                   of sugar and the sweet essence of flesh, which
                   assimilate with each other; for, if a piece of
-                  raw meat be put in sugar, it soon becomes putrid,
+                  <ecda:food ana="#fauna">raw meat</ecda:food> be put in sugar, it soon becomes putrid,
                   unless the sugar should have been first 
                
                <pb/>
@@ -3518,30 +3518,30 @@
                
                   boiled until all its sweetness is consumed, and
                   it has acquired a bitterness; but when the
-                  meat is put into salt, it will be kept from
+                  <ecda:food ana="#fauna">meat</ecda:food> is put into salt, it will be kept from
                   putrifying for a great length of time, from that
                   property in the salt which is acrid, and the
-                  balsam of the meat is sweet, causing a
+                  balsam of the <ecda:food ana="#fauna">meat</ecda:food> is sweet, causing a
                   kind of fermentation from the opposition of
                   their qualities; after which fermentation a
                   certain new temperament arises.</quote>
                </p>
                <p><quote rend="prequotes" xml:id="q025" next="#q026" ana="#medical">The same also appears in sugar, which,
                   though it so soon corrupts flesh, yet it will 
-                  preserve acid fruits from putrefaction for a
+                  preserve <ecda:food ana="#flora">acid fruits</ecda:food> from putrefaction for a
                   long time; because its sweetness ferments with
-                  the acidity or sharpness of fruits, from
+                  the acidity or sharpness of <ecda:food ana="#flora">fruits</ecda:food>, from
                   which a new uniform temperament is
                   produced.</quote>
                </p>
                <p><quote rend="prequotes" xml:id="q026" next="#q027" ana="#medical">In confirmation of the preceding observations,
                   it is not to be omitted, that in the island 
                   of <placeName rend="italic">Saint Thomas</placeName>, under the æquator, the
-                  inhabitants feed their hogs with canes, and the
-                  refuse of the cane juice; from which they are
+                  inhabitants feed their <ecda:fauna ana="#food">hogs</ecda:fauna> with <ecda:flora>canes</ecda:flora>, and the
+                  refuse of the <ecda:flora>cane juice</ecda:flora>; from which they are
                   said to fatten, and acquire such wonderful
                   tenderness, that their flesh equals in goodness
-                  to the <rs type="properAdjective">Spanish</rs> kids, and is commonly given to
+                  to the <ecda:fauna ana="#food"><rs type="properAdjective">Spanish</rs> kids</ecda:fauna>, and is commonly given to
                   people with weak stomachs, on account of its
                   easiness of digestion.</quote>
                </p>
@@ -3551,7 +3551,7 @@
                <pb/>
                <fw type="pageNum">91</fw>
                
-                  hogs' flesh, the toughest almost of any animal's,
+                  <ecda:food ana="#fauna">hogs' flesh</ecda:food>, the toughest almost of any animal's,
                   to so great a degree of tenderness, for
                   the same reason it must accelerate the decay
                   and sphacelation of the lungs, when they are
@@ -3562,12 +3562,13 @@
                   sugar is not a nourishment, but an evil; not a
                   preservative, but a destroyer; and should be
                   sent back to the <placeName>Indies</placeName>, before the discovery of
-                  which, probably consumption of the lungs
+                  which, probably, consumption of the lungs
                   was not known, but brought to us with these
                   fruits of our enterprize.</quote>
                </p>
                <p><persName ref="#thomas_willis_1621">Willis</persName> says,—
-                  <quote rend="block" xml:lang="la">Saccharo condita, aut plurimum imbuta, in
+                  </p><p>
+                  <quote rend="italic" xml:lang="la">Saccharo condita, aut plurimum imbuta, in
                   tantum vitupero, ut illius inventionem, ac usum
                   immodicum, scorbuti in nupero hoc seculo immani
                   augmento, plurimum contribuisse, existimenl enim
@@ -3588,8 +3589,8 @@
                   ita copiosce a nobis assumitur, quam verisimile
                   est, ab ejus usu quotidiano, sanguinem &amp;
                   humores, salsos et acres, proindeque scorbuticos,
-                  reddi? Author quidam insignis<anchor xml:id="a025" corresp="#n025"/> <distinct type="dialect" xml:lang="la" rend="smallcaps upright">Tabis
-                  Angliæ</distinct> causam in immoderatum sacchari apud
+                  reddi? Author quidam insignis<anchor xml:id="a025" corresp="#n025"/> <placeName rend="smallcaps"><hi rend="upright">Tabis
+                  Angliæ</hi></placeName> causam in immoderatum sacchari apud
                   nostrates usum retulit: nescio au non poitus etiam
                   hinc scorbuti ingrebrescentis fomes derivetur.</quote> <bibl><title>De
                   Scorbuto</title>, cap. 10. Anno <date when="1674">1674</date>.</bibl>
@@ -3617,13 +3618,13 @@
                <pb/>
                <fw type="pageNum">93</fw>
                
-               <p><quote rend="prequotes" xml:id="q032" next="#q033" ana="#medical">Therefore it is very probably, that mixing
-                  sugar with almost all our food, and taken to so
+               <p><quote rend="prequotes" xml:id="q032" next="#q033" ana="#medical">Therefore it is very probable, that mixing
+                  <ecda:food>sugar</ecda:food> with almost all our food, and taken to so
                   great a degree, from its daily use, renders the
                   blood and humours salt and acrid; and consequently
                   scorbutic.</quote>
                </p>
-               <p><quote rend="quotes" xml:id="q033">A <rs type="person">certain eminent author</rs><anchor xml:id="a026" corresp="#n026"/> attributes the
+               <p><quote rend="quotes" xml:id="q033">A <rs type="person" ref="#theophilius_de_garencieres_1610">certain eminent author</rs><anchor xml:id="a026" corresp="#n026"/> attributes the
                   cause of the frequency of consumptions of the 
                   lungs, in <placeName>England</placeName>, to the immoderate use of
                   sugar. I am not certain whether also the fomes
@@ -3631,25 +3632,26 @@
                   derived from thence.</quote>
                </p>
                <p><persName ref="john_ray_1627">Ray</persName> says,—
-                  <quote xml:lang="la" rend="italic">Antiquiores medici, qui superiore seculo vixerunt,
+                  </p><p>
+                  <quote ana="#medical" xml:lang="la" rend="italic">Antiquiores medici, qui superiore seculo vixerunt,
                   unanimi fere consensu saccharum ad pectoris &amp;
                   pulmonum vitia, rancedinem, tussium gutturis asperitatem,
                   lateris &amp; thoracis ulcera, commendant.
-                  Cæterum apud nos in Anglia non ita pridem in
+                  Cæterum apud nos in <placeName>Anglia</placeName> non ita pridem in
                   crimen adduci, &amp; magna infamia laborare cœpit,
                   medicis tum nostratibus, tum extraneis, scorbuti &amp;
                   tabis popularium morborum præter solitum 
                   grassantium nuperas furias, immoderato in cibis &amp;
                   potu sacchari usui imputantibus<anchor xml:id="a027" corresp="#n027"/>, et ne quis 
                   humidiori potius æris consitutioni eas pestes suspicetur;
-                  in Lusitania (aiunt) regione calida ob
+                  in <placeName>Lusitania</placeName> (aiunt) regione calida ob
                   eandam rationem tabes epidemica facta est.
                   
                   <pb/>
                   <fw type="pageNum">94</fw>
                   
-                  sitani enim plus sacchari consumunt quam quævis
-                  alia gens præter Anglos</quote>
+                  <name>Lusitani</name> enim plus sacchari consumunt quam quævis
+                  alia gens præter <name>Anglos</name></quote>
                </p>
                <p>
                   <quote xml:lang="la" rend="italic">De scorbuto iidem antiquiores, quos diximus, 
@@ -3661,21 +3663,21 @@
                   enim salem acidum &amp; maxime corrosivum
                   continere ex distilliatione patet. Scorbutus autem
                   sali fixo in sanguine reduntati debetur, proinde
-                  iis quæ sale volatili abundant sanatur.</quote> <bibl><title>Historia
+                  iis quæ sale volatili abundant sanatur.</quote> <bibl><title xml:lang="la">Historia
                   Plantarum</title>, lib. XXII. cap. 3. p. 1279, 1280,
                   anno <date when="1688">1688</date>.</bibl>
                </p>
                <p><quote rend="prequotes" xml:id="q034" next="#q035" ana="#medical">The physicians who lived in the last
                   century, with unanimous consent, recommend sugar
                   for complaints in the lungs, hoarseness,
-                  couch, rawness of the throat, and internal
+                  cough, rawness of the throat, and internal
                   ulcerations: yet, among us in <placeName>England</placeName>, not
                   long since, it began to be accused, and to 
                   labour under great discredit, by our won, as
                   well as foreign physicians, who impute the
                   ravages which the scurvy and consumption
                   have lately made in <placeName>England</placeName> to the
-                  immoderate use of sugar in our food and drinks.</quote>
+                  immoderate use of <ecda:food>sugar</ecda:food> in our food and drinks.</quote>
                </p>
                <p><quote rend="prequotes" xml:id="q035" next="#q036">No person should therefore attribute these
                   evils to the moisture of the atmosphere; for,
@@ -3698,10 +3700,10 @@
                   in their sockets, and to fall out; which are
                   certain signs and symptoms of scurvy.</quote>
                </p>
-               <p><quote rend="prequotes" xml:id="q037" next="#q038">Sugar also contains and acid and very
+               <p><quote rend="prequotes" xml:id="q037" next="#q038">Sugar also contains an acid and very
                   corrosive salt; which appears from distillation</quote>
                </p>
-               <p><quote rend="quotes" xml:id="q038">The scurvy is cause by a redundant fixed
+               <p><quote rend="quotes" xml:id="q038" ana="#medical">The scurvy is cause by a redundant fixed
                   salt in the blood; and is therefore cured by
                   such things as abound with a volatile salt.</quote>
                </p>
@@ -3722,15 +3724,16 @@
                   many subsequent writers; and quoted in academic
                   dissertations in the schools of medicine.
                </p>
-               <p>In <persName ref="#thomas_willis_1621">Willis's</persName>, according to his account,
+               <p>In <persName ref="#thomas_willis_1621">Willis's</persName> time, according to his account,
                   and his account is true, almost every person
                   had, or fancied he had, the scurvy.
                </p>
                <p>He says,—
-                  <quote rend="block" xml:lang="la">Nunc fere onmes eo laborant, aut se laborare
+                  </p><p>
+                  <quote rend="italic" xml:lang="la" ana="#disease">Nunc fere onmes eo laborant, aut se laborare
                   putant.</quote>
                </p>
-               <p>The scurvy at the time made great ravages
+               <p ana="#disease">The scurvy at the time made great ravages
                   in <placeName>England</placeName>; besides which, the fashion of the
                   day gave to the scurvy, all the minor straggling
                   indispositions that were destitute of adoption.
@@ -3763,14 +3766,14 @@
                   to the weak effusions of <persName ref="#simon_paulli_1603">Simon Paulli</persName>.
                </p>
                <p>The rhapsody of <persName ref="#theophilius_de_garencieres_1610">Garencieres</persName> is entirely
-                  his own; but that <persName ref="#thomas_willis_1621">Willis</persName> advances has a
+                  his own; but what <persName ref="#thomas_willis_1621">Willis</persName> advances has a
                   better stamen, but it is not his own. It is taken
                   from <persName ref="#angelo_sala_1576">Angelus Sala</persName>, whom he has not
                   mentioned, and from whom he has made a
                   partial selection, merely to support his
                   favourite theory of the scurvy.
                </p>
-               <p><persName ref="#angelo_sala_1576">Sala</persName> enumerates many evils which may
+               <p ana="#medical #disease"><persName ref="#angelo_sala_1576">Sala</persName> enumerates many evils which may
                   arise in weak habits and bad constitutions from
                   the <emph>excessive</emph>, and what he terms the <emph>abuse</emph> of
                   sugar; such as, debility of digestion; loss of
@@ -3815,7 +3818,7 @@
                   humores influxos coquendo, aut si ad suppurationem
                   inhabiles sunt digerendo, dissipat; pluresque
                   alios in medicina usus habet, brevitas gratia
-                  prætermittendos.</quote> <bibl><title>Saccharologiæ</title>, part I.
+                  prætermittendos.</quote> <bibl><title xml:lang="la">Saccharologiæ</title>, part I.
                   cap. 6. anno <date when="1637">1637</date>.</bibl>
                </p>
                <p><quote rend="prequotes" xml:id="q039" next="#q040" ana="#medical">Sugar, used in a proper manner, nourishes
@@ -3866,18 +3869,19 @@
                   must not be omitted; because his opinion
                   of sugar was the prevailing one, prior
                   and down to his time, all over <placeName>Europe</placeName>.
-                  Besides, as he lived at <placeName>Naples</placeName>, the use of sugar
+                  Besides, as he lived at <placeName>Naples</placeName>, the use of <ecda:commodity>sugar</ecda:commodity>
                   was better known to him, at that period, than
                   to any contemporary writer in the northern
                   parts of <placeName>Europe</placeName>; where it has then scarcely
                   entered into dietic use. He says,—
-                  <quote rend="block" xml:lang="la">Ex harundinibus saccharum extrahimus, non
+                  </p><p>
+                  <quote rend="italic" xml:lang="la" ana="#medical">Ex harundinibus saccharum extrahimus, non
                      solum id incorruptibilie, sed aliis præstat ne 
                      corrumptantur; vulneribus injectum à putrafactione
                      liberat; ex eo solo ingentia vulnera sanari vidimus.
                      Sit igitur familiare saccharum vitam prolongare
                      cupientibus, quia nec humores, nec cibum in ventre
-                     putrefierii, permittit. <bibl><title>Phytognomica</title>, lib. V.
+                     putrefierii, permittit. <bibl><title xml:lang="la">Phytognomica</title>, lib. V.
                      cap. I. p. 201. anno <date when="1560">1560</date>.</bibl>
                   </quote>
                </p>
@@ -3904,17 +3908,17 @@
                   into the eyes, in fine powder, it takes away
                   their dimness, and heals them being bloodshot;
                   it cleanses old sores, being strewed gently on
-                  them</quote> <bibl rend="italic"><title>Histoire général de Drogues</title>, Lib II.
+                  them</quote> <bibl rend="italic"><title xml:lang="fr">Histoire général de Drogues</title>, Lib II.
                   cap. 38, anno 1694.</bibl>
                </p>
                <p><persName ref="#nicolas_lemery_1645">Lemery</persName> gives nearly a similar account of
                   sugar; but says it is hurtful to the teeth, and
-                  causes vapours. <bibl rend="italic"><title>Traité Universel des Drogues
+                  causes vapours. <bibl rend="italic"><title xml:lang="fr">Traité Universel des Drogues
                   Simples</title>, anno 1693,</bibl>
                </p>
                <p><persName ref="#paul_hermann_1646">Hermann</persName> says, <quote rend="prequotes" xml:id="q043" next="#q044" ana="#medical">Sugar consists of a sweet
                   soft mucilage, and an agreeable sharpness;
-                  from whence it becomes and aliment as well as
+                  from whence it becomes an aliment as well as
                   a medicine. The <name>Indians</name> boil it in water with
                   a small quantity of flower for nourishment.
                   It promotes urine, and is specific in coughs,
@@ -3930,12 +3934,12 @@
                   nor by people in fevers, on account of its
                   proneness to ascescence.</quote>
                </p>
-               <p><quote rend="prequotes" xml:id="q045" next="#q046" ana="#medical">With fat broth and <distinct type="dialect" rend="italic">sal gem</distinct>, it is used in
+               <p><quote rend="prequotes" xml:id="q045" next="#q046" ana="#medical">With <ecda:food>fat broth</ecda:food> and <distinct rend="italic">sal gem</distinct>, it is used in
                   glysters for children; and it is also given to
                   them, newly born, to relax the bowels, with 
-                  oil of sweet almonds.</quote>
+                  <ecda:food>oil of <ecda:flora>sweet almonds</ecda:flora></ecda:food>.</quote>
                </p>
-               <p><quote rend="quotes" xml:id="q046" ana="#medical">Taken with oil of <ecda:flora ana="#food">sweet almonds</ecda:flora>, it is a
+               <p><quote rend="quotes" xml:id="q046" ana="#medical">Taken with <ecda:food>oil of <ecda:flora>sweet almonds</ecda:flora></ecda:food>, it is a
                   remedy for pains in the bowels. It is an excellent
                   vulnerary and balsamic, resisting putrefaction;
                   it is good for putrid ulcers, and absterges
@@ -3945,11 +3949,12 @@
                   and gums; rendering the breath offensive, and
                   the teeth black and rotten. In glysters it is
                   good against worms, and is also an anthelmintic
-                  remedy taken by the mouth.</quote> <bibl rend="italic"><title>Cynosura</title>,
+                  remedy taken by the mouth.</quote> <bibl rend="italic"><title xml:lang="la">Cynosura</title>,
                   vol. I. p. 704. &amp; seq, anno 1710.</bibl>
                </p>
                <p><persName ref="#herman_boerhaave_1668">Boerhaave</persName> says,—
-                  <quote rend="block" ana="#medical">Sugar never generates phlegm, but, on the
+                  </p><p>
+                  <quote rend="quotes" ana="#medical">Sugar never generates phlegm, but, on the
                   contrary dissolves it. Neither does it increase
                   the bile, or is converted into it; but opens,
                   attenuates, and divides it. At the same time,
@@ -3961,11 +3966,11 @@
                   
                   attenuation, produce debility, and too great
                   laxity. For which reason, it is often found
-                  hurtful to the ricketty and scorbutic.</quote> <bibl rend="italic"><title>Element.
+                  hurtful to the ricketty and scorbutic.</quote> <bibl rend="italic"><title xml:lang="la">Element.
                   Chemiæ</title>, vol. II. p. 260, anno, 1742.</bibl>
                </p>
                <p><persName ref="#etienne_geoffroy_saint_hilaire_1772">Geoffroy</persName> says,
-                  <quote rend="prequotes" xml:id="q047" next="#q048">Sugar, taken moderately with food, affords
+                  <quote rend="prequotes" xml:id="q047" next="#q048"><ecda:food>Sugar</ecda:food>, taken moderately with food, affords
                   good nourishment. It promotes concoction,
                   if after a full meal a lump of it be eaten.</quote>
                </p>
@@ -3980,7 +3985,7 @@
                </p>
                <p><quote rend="prequotes" xml:id="q049" next="#q050" ana="#medical">It promotes expectoration, particularly if
                   reduced to the consistence of a syrup with the
-                  oil of linseed, or sweet almonds. Taken in this
+                  <ecda:food>oil of <ecda:flora>linseed</ecda:flora></ecda:food>, or <ecda:flora ana="#food">sweet almonds</ecda:flora>. Taken in this
                   manner, it also eases the colic and pains in the
                   bowels, and assuages the gripes in children.</quote>
                </p>
@@ -4003,14 +4008,14 @@
                   Hence, sugar and sweet things are said to create
                   bile.</quote>
                </p>
-               <p><quote rend="prequotes" xml:id="q052" next="#q053">From the saline spiculæ of sugar, the bile
+               <p><quote rend="prequotes" xml:id="q052" next="#q053">From the <distinct xml:lang="la">saline spiculæ</distinct> of sugar, the bile
                   is rendered more acrid; from which an heat is 
                   not only kindled in the bowels, but also in the
                   whole body, and is carried into the mass of 
                   blood.</quote>
                </p>
-               <p><quote rend="prequotes" xml:id="q053" next="#q054">It creates worms in children.</quote></p>
-               <p><quote rend="prequotes" xml:id="q054" next="#q055">It is hurtful to the teeth, causing blackness
+               <p><quote rend="prequotes" xml:id="q053" next="#q054" ana="#medical">It creates worms in children.</quote></p>
+               <p><quote rend="prequotes" xml:id="q054" next="#q055" ana="#medical">It is hurtful to the teeth, causing blackness
                   and scales, and making them loose. Therefore,
                   always after using much sugar, it is proper
                   to rinse the mouth and teeth carefully.</quote>
@@ -4025,14 +4030,14 @@
                   and the bowels; from whence the best quality
                   of the blood, and other humours of the body
                   depending on the first concoction, is produced.</quote>
-                  <bibl rend="italic"><title>De Vegetabilibus</title>, Sect. 1. Art. 9, anno 1741.</bibl>
+                  <bibl rend="italic"><title xml:lang="la">De Vegetabilibus</title>, Sect. 1. Art. 9, anno 1741.</bibl>
                </p>
                
                <pb/>
                <fw type="pageNum">105</fw>
                
                <p>In taking a survey of the writers on sugar,
-                  it is impossible to over look <persName ref="#frederick_slare_1647"><hi rend="mixed">Dr</hi>. Frederick
+                  it is impossible to overlook <persName ref="#frederick_slare_1647"><hi rend="mixed">Dr</hi>. Frederick
                   Slare</persName>; whose unqualified praises of the virtues
                   of sugar may be properly opposed to the
                   unqualified censures bestowed on it by <persName ref="#theophilius_de_garencieres_1610">Garencieres</persName>
@@ -4048,12 +4053,12 @@
                <p><quote rend="prequote" xml:id="q057" next="#q058"><persName ref="#william_butler_1535" cert="medium"><hi rend="mixed">Dr</hi>. Butler</persName>, one of the most learned and
                   famous physicians that this nation or the world
                   ever bred, was wont to say,—
-                  <quote rend="block">If sugar can preserve both <ecda:flora ana="#food">pears</ecda:flora> and <ecda:flora ana="#food">plumbs</ecda:flora>,
-                  Why can it not preserve as well our lungs<anchor xml:id="a029" corresp="#n029"/>?</quote></quote>
+                  <quote rend="italic"><lg><l>If sugar can preserve both <ecda:flora ana="#food">pears</ecda:flora> and <ecda:flora ana="#food">plumbs</ecda:flora>,</l>
+                  <l>Why can it not preserve as well our lungs<anchor xml:id="a029" corresp="#n029"/>?</l></lg></quote></quote>
                </p>
                <p><quote rend="quotes" xml:id="q058" ana="#medical">And, that it might work the same effect on
                   himself, he always drank in his <ecda:food>claret wine</ecda:food>
-                  great store of the best refined sugar; and also
+                  great store of the best <ecda:food>refined sugar</ecda:food>; and also
                   prescribed it several ways to his patients, for
                
                <pb/>
@@ -4071,23 +4076,23 @@
                   I bring from Nature's first kind tribute,
                   or intended food for children, so soon as they
                   are born; which is, that fine juice or liquor
-                  prepared in the mother's breasts, called breast-
-                  milk, of a fine delicate sweet taste. This sweet is
+                  prepared in the mother's breasts, called <ecda:food>breast-
+                  milk</ecda:food>, of a fine delicate sweet taste. This sweet is
                   somewhat analogous, or a taste agreeable,
-                  to sugar; and, in what want of this milk, it is well 
-                  known, sugar is brought to supply it. You
+                  to <ecda:food>sugar</ecda:food>; and, in what want of this milk, it is well 
+                  known, <ecda:food>sugar</ecda:food> is brought to supply it. You
                   may soon be convinced of the satisfaction
-                  which a child has from the taste of sugar, by
-                  making tow sorts of water-paps, one with,
-                  and the other without, sugar; they will
+                  which a child has from the taste of <ecda:food>sugar</ecda:food>, by
+                  making two sorts of <ecda:food>water-paps</ecda:food>, one with,
+                  and the other without, <ecda:food>sugar</ecda:food>; they will
                   greedily suck down the one, and make faces at the
-                  other. Nor will they be pleased with cow's
-                  milk, unless that be blessed with a little sugar,
-                  to bring it to the sweetness of breast milk.</quote>
+                  other. Nor will they be pleased with <ecda:food><ecda:fauna>cow's</ecda:fauna>
+                  milk</ecda:food>, unless that be blessed with a little <ecda:food>sugar</ecda:food>,
+                  to bring it to the sweetness of <ecda:food>breast milk</ecda:food>.</quote>
                </p>
                <p><quote rend="prequotes" xml:id="q060" next="#q061">I will set down an experiment I had from
                   <ecda:anonPers a-gender="male">a friend</ecda:anonPers>. He was a little lean man, who used
-                  to drink much wine in the company of strong
+                  to drink much <ecda:food>wine</ecda:food> in the company of strong
                
                <pb/>
                <fw type="pageNum">107</fw>
@@ -4095,27 +4100,27 @@
                   drinkers. I asked him how he was able to bear
                   it. He told me that he received much damage in
                   his health, and was apt to be fuddled, before
-                  he used to dissolve sugar in his wine; from
+                  he used to dissolve <ecda:food>sugar</ecda:food> in his <ecda:food>wine</ecda:food>; from
                   that time he was never sick nor inflamed, nor
-                  fuddled with wine. He usually drank red
-                  wine.</quote>
+                  fuddled with <ecda:food>wine</ecda:food>. He usually drank <ecda:food>red
+                  wine</ecda:food>.</quote>
                </p>
-               <p><quote rend="prequotes" xml:id="q061" next="#q062">I made use of sugar myself in <ecda:food>red wine</ecda:food>, and
+               <p><quote rend="prequotes" xml:id="q061" next="#q062">I made use of <ecda:food>sugar</ecda:food> myself in <ecda:food>red wine</ecda:food>, and
                   I found the like good effect; that it prevents
-                  heating my blood, or giving my read any disturbance,
+                  heating my blood, or giving my head any disturbance,
                   if I drink a larger portion than ordinary.</quote>
                </p>
-               <p><quote rend="prequotes" xml:id="q062" next="#q063">I allow about two ounces of sugar to a pint
-                  of wine; and dare assert that this proportion
-                  will take off the heating quality of wine in a
+               <p><quote rend="prequotes" xml:id="q062" next="#q063">I allow about <measure>two ounces</measure> of <ecda:food>sugar</ecda:food> to a <measure>pint</measure>
+                  of <ecda:food>wine</ecda:food>; and dare assert that this proportion
+                  will take off the heating quality of <ecda:food>wine</ecda:food> in a
                   good measure; and, after one has some time
-                  used himself to add sugar to his wine, he will
+                  used himself to add <ecda:food>sugar</ecda:food> to his <ecda:food>wine</ecda:food>, he will
                   be pleased with the taste, and feel the comfortable
                   and cordial virtue of this composition.</quote>
                </p>
                <p><quote rend="quotes" xml:id="q063">Let those that are thin, and apt to have
                   hot hands and heated brains upon drinking 
-                  wine, and cannot abstain or be excused from 
+                  <ecda:food>wine</ecda:food>, and cannot abstain or be excused from 
                   drinking, take notice of this counsel, and try
                   it for some time; and they will be pleased with
                   the delicious taste, and salubrious effects, of
@@ -4129,9 +4134,10 @@
                <p>Sugar, analytically examined, demonstrates
                   phlegm, spirit, acid, and oil; and, by fermentation,
                   yields an ardent spirit.
-               </p>
-               <p>Two pounds of refined <ecda:commodity>sugar</ecda:commodity> produce one
-                  ounce and thirty-six grains of a limpid,
+               </p> <!-- start here
+               zz-->
+               <p><measure>Two pounds</measure> of refined <ecda:commodity>sugar</ecda:commodity> produce <measure>one
+                  ounce and thirty-six grains</measure> of a limpid,
                   inodorous, insipid phlegm; twelve ounces and six
                   drams of a liquor at first limpid, then brownish
                   and empyreumatic, then acid, and then
