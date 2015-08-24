@@ -256,7 +256,7 @@
               <p><distinct type="dialect" xml:lang="he" rend="upright">ךוקה</distinct> an apothecary, or compounder of sweet ointments.</p>
            </note>
            <note xml:id="n044" target="#a044">
-              <bibl><title>Proverbs</title>, c. vii. v. 17. English Bible</bibl>
+              <bibl><title rend="italic">Proverbs</title>, c. vii. v. 17. English Bible</bibl>
            </note>
            <note xml:id="n045" target="#a045">
               <persName ref="#shylock_0001" rend="mixed"><mcr>Shylock</mcr></persName>.
@@ -2821,7 +2821,7 @@
                   was first made in <placeName>Spain</placeName><anchor xml:id="a017" corresp="#n017"/>;—others, from the
                   <rs type="properAdjective">Arabic</rs> <distinct xml:lang="ar" type="dialect" rend="italic">elkende—elkendit</distinct>, which simply signify
                   <gloss>sugar</gloss>;—and others, from the <rs type="properAdjective">Latin</rs> <distinct xml:lang="la" type="dialect" rend="italic">candidum</distinct>
-                  (<distinct type="dialect" rend="italic">à candore</distinct>), <gloss>bright, shining, white</gloss>.
+                  (<distinct type="dialect" rend="italic" xml:lang="la">à candore</distinct>), <gloss>bright, shining, white</gloss>.
                </p>
                <p><persName ref="#claudius_salmasius_1588">Salmasius</persName> derives it from a corrupt <rs type="properAdjective">Greek</rs>
                   word of the middle ages. He says,—</p>
@@ -2872,24 +2872,24 @@
                <p>However, I am not inclined to give my
                   suffrage to any of the preceding etymons.
                </p>
-               <p>May it not be from the <rs type="properAdjective">Indian</rs> word <distinct rend="italic">khand</distinct>,
+               <p>May it not be from the <rs type="properAdjective">Indian</rs> word <distinct rend="italic" xml:lang="hi">khand</distinct>,
                   which is a general appellation for sugar in
-                  <placeName>Hindostan</placeName>? <ecda:food>Sugar candy</ecda:food> is called <ecda:food><distinct type="dialect" rend="italic">misree</distinct></ecda:food>;
-                  <ecda:food>white sugar</ecda:food>, <ecda:food><distinct type="dialect" rend="italic">chinny</distinct></ecda:food>; a composition they
-                  make of <ecda:food>sugar</ecda:food> and <ecda:flora>roses</ecda:flora>, <ecda:food><distinct type="dialect" rend="italic">goolkund</distinct></ecda:food>; a drink
-                  made of the same materials, <ecda:food><distinct type="dialect" rend="italic">goolchukeree</distinct></ecda:food>; the
+                  <placeName>Hindostan</placeName>? <ecda:food>Sugar candy</ecda:food> is called <ecda:food><distinct xml:lang="hi" rend="italic">misree</distinct></ecda:food>;
+                  <ecda:food>white sugar</ecda:food>, <ecda:food><distinct xml:lang="hi" rend="italic">chinny</distinct></ecda:food>; a composition they
+                  make of <ecda:food>sugar</ecda:food> and <ecda:flora>roses</ecda:flora>, <ecda:food><distinct xml:lang="hi" rend="italic">goolkund</distinct></ecda:food>; a drink
+                  made of the same materials, <ecda:food><distinct xml:lang="hi" rend="italic">goolchukeree</distinct></ecda:food>; the
                   
                   <pb/>
                   <fw type="pageNum">70</fw>
                   
-                  inspissated juice of the <ecda:flora>cane</ecda:flora>, <distinct type="dialect" rend="italic">kund-seah</distinct>, or
-                  <distinct type="dialect" rend="italic">jaggery</distinct>.
+                  inspissated juice of the <ecda:flora>cane</ecda:flora>, <distinct xml:lang="hi" rend="italic">kund-seah</distinct>, or
+                  <distinct xml:lang="hi" rend="italic">jaggery</distinct>.
                </p>
-               <p><distinct type="dialect" rend="italic">Shukur</distinct> also is a general appellation for
-                  sugar; from which, and the word <distinct type="dialect" rend="italic">khand</distinct>, it
+               <p><distinct xml:lang="hi" rend="italic">Shukur</distinct> also is a general appellation for
+                  sugar; from which, and the word <distinct xml:lang="hi" rend="italic">khand</distinct>, it
                   appears to me that others are compounded.
                </p>
-               <p>From <distinct type="dialect" rend="italic">shukur</distinct>, the <rs type="properAdjective">Indian</rs> origin, it is most
+               <p>From <distinct xml:lang="hi" rend="italic">shukur</distinct>, the <rs type="properAdjective">Indian</rs> origin, it is most
                   probable that the word <distinct type="mentioned">sugar</distinct> is derived; from 
                   thence the <name>Arabians</name> had it; and it has
                   undergone but little variation since, in <rs type="properAdjective">European</rs>
@@ -2930,7 +2930,7 @@
                   of <placeName>Venice</placeName>, the <name>Venetians</name>, then forcing their
                   commerce with the <name>Saracens</name> into <placeName>Syria</placeName> and
                   <placeName>Egypt</placeName>, brought back from thence in return,
-                  not only <ecda:commodity ana="#food #transport">rice</ecda:commodity>, <ecda:commodity ana="#food #transport">dates</ecda:commodity>, <ecda:commodity ana="#transport">sena</ecda:commodity>, <ecda:commodity ana="#transport">cassia</ecda:commodity>, <ecda:commodity ana="#transport #food">flax</ecda:commodity>, &amp;c. but
+                  not only <ecda:commodity ana="#food #transport">rice</ecda:commodity>, <ecda:commodity ana="#food #transport">dates</ecda:commodity>, <ecda:commodity ana="#transport #flora">sena</ecda:commodity>, <ecda:commodity ana="#flora #transport">cassia</ecda:commodity>, <ecda:commodity ana="#transport #food">flax</ecda:commodity>, &amp;c. but
                   also <ecda:commodity ana="#food #transport">sugar</ecda:commodity><anchor xml:id="a019" corresp="#n019"/>.
                </p>
                <p>This shews how much <persName ref="#william_wotton_1666">Wotton</persName> was
@@ -2998,7 +2998,7 @@
                   exported great quantities to other countries.
                </p>
                <p><ecda:commodity ana="#sale">Sugar</ecda:commodity> was taxed by name in <placeName>England</placeName>,
-                  2 James II. cap. 4.; prior to that time, it paid
+                  <bibl>2 <persName ref="#james_ii_vii">James II</persName>. cap. 4.</bibl>; prior to that time, it paid <!-- this is definitely a reference to James II, the king of England, but I'm not sure if it's also the title of a book or chapter -->
                   <measure ana="#currency #commodity">twelve pence</measure> per pound, or five per cent.
                   poundage, as then was the case with all other 
                   imported goods.
@@ -3155,7 +3155,7 @@
                      humidum in ipso; et quanto magis antiquatur,
                      tanto plus exsiccatur. Est lenificativum, abstersivum,
                      lavativum. Et sulimenum est magis lenitivum,
-                     et proprie Alfenid<anchor xml:id="a024" corresp="#n024"/>; imò mel arundinis et
+                     et proprie <distinct xml:lang="al">Alfenid</distinct><anchor xml:id="a024" corresp="#n024"/>; imò mel arundinis et
                      zuccarum non sunt inferiora melle in abstergendo,
                      et minidficando; et quanto plus antiquatur zuccarum,
                      tanto sit subtilius, Assumptum sicut gumma
@@ -3237,10 +3237,10 @@
                   and is less heating; and much less subject
                   to produce bile.</quote>
                </p>
-               <p><persName ref="#avicenna_0980">Avicenna</persName> has a chapter on <distinct>Fanid</distinct>, or
+               <p><persName ref="#avicenna_0980">Avicenna</persName> has a chapter on <distinct xml:lang="al">Fanid</distinct>, or
                   <distinct>Pinidium</distinct>, sugar which the translators have rendered
                   <distinct rend="italic" xml:lang="la">Penidii</distinct>; the same as before termed
-                  <distinct rend="italic">Alfenid</distinct> or <distinct xml:lang="la" rend="italic">Saccharum Penidium</distinct>.
+                  <distinct rend="italic" xml:lang="al">Alfenid</distinct> or <distinct xml:lang="la" rend="italic">Saccharum Penidium</distinct>.
                </p>
                <p>He says,—
                </p><p>
@@ -3386,7 +3386,7 @@
                   of <placeName>Europe</placeName>.
                </p>
                <p rend="italic"><hi rend="upright"><persName ref="#theophilius_de_garencieres_1610">Garencieres</persName> says,</hi> <quote xml:lang="la" rend="quotes" ana="#medical">Saccharum et saccharata
-                  omnia toto genere huic morbo (<placeName>Tabes Anglica</placeName>) 
+                  omnia toto genere huic morbo (Tabes Anglica) 
                   insensissima, &amp; in eo progignendo multa esse censeo
                   quorum quum usus si tam frequens, mirum videri non
                   debet si tanta tabidorum seges hic pullutat,</quote> &amp;c.
