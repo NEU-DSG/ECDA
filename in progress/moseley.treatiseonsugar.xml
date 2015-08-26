@@ -4134,26 +4134,25 @@
                <p>Sugar, analytically examined, demonstrates
                   phlegm, spirit, acid, and oil; and, by fermentation,
                   yields an ardent spirit.
-               </p> <!-- start here
-               zz-->
+               </p> 
                <p><measure>Two pounds</measure> of refined <ecda:commodity>sugar</ecda:commodity> produce <measure>one
                   ounce and thirty-six grains</measure> of a limpid,
-                  inodorous, insipid phlegm; twelve ounces and six
-                  drams of a liquor at first limpid, then brownish
+                  inodorous, insipid phlegm; <measure>twelve ounces and six
+                  drams</measure> of a liquor at first limpid, then brownish
                   and empyreumatic, then acid, and then
-                  urinous; and six drams of thin brownish oil.
+                  urinous; and <measure>six drams</measure> of thin brownish oil.
                </p>
                <p>The black residuary mass in the retort
-                  weighed eight ounces, two drams, and three
-                  grains; which, calcined in a furnace for fifteen
-                  hours, left one ounce, one dram, and ten
-                  grains, of brown cinders; from which two
-                  drams and forty grains of a fixed alcali salt 
+                  weighed <measure>eight ounces, two drams, and three
+                  grains</measure>; which, calcined in a furnace for fifteen
+                  hours, left <measure>one ounce, one dram, and ten
+                  grains</measure>, of brown cinders; from which <measure>two
+                  drams and forty grains</measure> of a fixed alcali salt 
                   were obtained by lixivium.
                </p>
-               <p>In the distillation, there was a loss of eight
-                  ounces and six drams; in the calcination,
-                  seven ounces, and fifty three grains.
+               <p>In the distillation, there was a loss of <measure>eight
+                  ounces and six drams</measure>; in the calcination,
+                  seven ounces, and <measure>fifty three grains</measure>.
                </p>
                <p>Sugar is an essential salt, consisting of an 
                   acid salt, oil, and earth. It shews no signs of
@@ -4169,18 +4168,18 @@
                   <pb/>
                   <fw type="pageNum">109</fw>
                   
-                  yeast of <ecda:food>beer</ecda:food> be added to it, and well mixed,
+                  <ecda:food>yeast</ecda:food> of <ecda:food>beer</ecda:food> be added to it, and well mixed,
                   and exposed to gentle heat, in a vessel properly
                   closed, but the vessel must not be full, in a few
                   hours it will begin to ferment with great
                   vehemence; and in three or four weeks, more or
                   less, according to the quantity of liquor, and
                   warmth of the situation where it is placed, it
-                  will produce a strong vinous liquor, not unlike
-                  honey and water. This liquor distilled yields
-                  a strong ardent spirit. If the whole fermenting
+                  will produce a <ecda:food>strong vinous liquor</ecda:food>, not unlike
+                  <ecda:food>honey and water</ecda:food>. This liquor distilled yields
+                  a <ecda:food>strong ardent spirit</ecda:food>. If the whole fermenting
                   materials be exposed longer to a continued
-                  heat, a strong vinegar, like that of wine, will
+                  heat, a strong <ecda:food>vinegar</ecda:food>, like that of wine, will
                   be produced; by the liquor changing from its
                   vinous to its acetous state.
                </p>
@@ -4195,11 +4194,8 @@
                <p>The renowned <persName ref="#torbern_bergman_1735">Bergman</persName> gives us the 
                   following new and interesting observations:
                </p>
-               <quote rend="bestowquotes">
-               <floatingText>
-                  <body>
-               <div>
-                  <p>Sugar being justly considered as an
+               <!-- the long section below is a good example of the problem/question of sugar, salt, and other 'foodlike' things being treated as chemical/scientific substances (as well as of potentially interesting substances we're not tagging) -->
+                 <quote rend="quotes"><p>Sugar being justly considered as an
                   essential salt, it will readily be granted, that it 
                   contains an acid; this acid may be separated, and
                
@@ -4209,84 +4205,84 @@
                   exhibited in a crystalline form, by the following
                   process:—
                </p>
-               <p><label>A</label> Let one ounce of the purest sugar, in
+                    <p rend="prequotes"><label>A</label> Let one ounce of the purest sugar, in
                   powder, be mixed, in a tubulated retort, with
                   three ounces of strong nitrous acid, whose specific
-                  gravity is nearly 1,567
+                  gravity is nearly 1,567.
                </p>
-               <p><label>B</label> When the solution is completed, and
+                    <p rend="prequotes"><label>B</label> When the solution is completed, and
                   the most phlogisticated part of the nitrous
                   acid has flown off, let a receiver be luted on,
                   and the solution gently boiled. In this process
                   and immense quantity of nitrous air is discharged<anchor xml:id="a030" corresp="#n030"/>.
                </p>
-               <p><label>C</label> When the liquor acquires a dark-
+                    <p rend="prequotes"><label>C</label> When the liquor acquires a dark-
                   brown colour, let three ounces more of nitrous
                   acid be poured on, and the boiling continued
                   until the coloured and smoking acid has entirely
                   disappeared.
                </p>
-               <p><label>D</label> Let the liquor in the receiver be then
+                    <p rend="prequotes"><label>D</label> Let the liquor in the receiver be then
                   poured into a larger vessel; and, upon cooling,
                   small quadrilateral prismatic crystals are
                   found adhering together, at an angle generally
                   of about 45 degrees: these collected and dried
-                  on a bibulous paper, weigh 109 grains.
+                  on a bibulous paper, weigh <measure>109 grains</measure>.
                </p>
-               <p><label>E</label> The remaining lixivium, boiled again
+                    <p rend="prequotes"><label>E</label> The remaining lixivium, boiled again
                   in the same retorts, with two ounces of nitrous
                
                <lb/>
                <fw type="pageNum">111</fw>
                
                   acid, until the red vapours begin to disappear,
-                  upon cooing, as before, affords 43 grains of
+                  upon cooing, as before, affords <measure>43 grains</measure> of
                   saline aciculæ.
                </p>
-               <p><label>F</label> If to the viscid glutinous liquor which
+                    <p rend="prequotes"><label>F</label> If to the viscid glutinous liquor which
                   remains, there be added, at different times,
                   small quantities of nitrous acid, amounting in
                   all to two ounces, by boiling and evaporating
                   to dryness, a saline mass is at length formed,
                   brown, glutinous, and deliquescent, which,
-                  when perfectly dried, weights half a drachm;
+                  when perfectly dried, weights <measure>half a drachm</measure>;
                   but in depuration nearly half of this weight is
                   lost.
                </p>
-               <p><label>G</label> The crystals obtained in the manner
+                    <p rend="prequotes"><label>G</label> The crystals obtained in the manner
                   above described, are to be depurated by 
                   repeated solution and crystallization; and operation
                   which is particularly necessary to the portion
                   got, as described in (F).
                </p>
-               <p>The last lixivium (F), digested with nitrous
+                    <p>The last lixivium (F), digested with nitrous
                   acid, and evaporated to dryings by the sun's 
                   heat, exhibits prisms similar to those mentioned,
                   (D) and (E); so that this affords a method
                   of abridging the number of depurations.
                </p>
-               <p><label>H</label> To obtain, therefor, one part of 
+                    <p rend="prequotes"><label>H</label> To obtain, therefor, one part of 
                   this salt, there are required 3 of sugar, and 30
                   of nitrous acid. Thus it may be reckoned
-                  among the most expensive slats hitherto
+                  among the most expensive salts hitherto
                   known.
                </p>
-                  
+                 
                   <pb/>
                   <fw type="pageNum">112</fw>
                   
-               <p>It must be particularly observed, that a
+                    <p rend="prequotes">It must be particularly observed, that a
                   much smaller quantity of crystals will be
                   obtained, if the boiling be continued ever so
                   little beyond the proper time.
                </p>
-                  <p><label>I</label> The acid thus obtained I call <distinct type="scientific" rend="italic">acid of
+                    <p rend="prequotes"><label>I</label> The acid thus obtained I call <distinct type="scientific" rend="italic">acid of
                   sugar</distinct>; not because it is procurable from that
                   substance only, but because sugar affords it
                   more pure, and in greater quantity, than any
                   other matter hitherto tried.
                </p>
-               <p>Thus 100 parts of gum arabic, treated as
+                    <p rend="prequotes">Thus 100 parts of gum arabic, treated as
                   above, with 900 of nitrous acid, at the beginning
                   of the boiling foam violently, and, upon
                   cooling, yield scarce more than 21 of saccharine
@@ -4312,44 +4308,45 @@
                   in the fire, yielding only a coal as
                   before.
                </p>
-               <p>In another dissertation it will be shewn that
+                    <p rend="prequotes">In another dissertation it will be shewn that
                   the acid of sugar occurs also in animal substances.
                </p>
-               <p>This salt possesses many properties; some
+                    <p rend="prequotes">This salt possesses many properties; some
                   peculiar to itself, some common to it with
                   other acids, though differing more or less in
                   degree: and these we are now to consider.
                </p>
-               <p><label>A</label> The crystals have an exceeding
+                    <p rend="prequotes"><label>A</label> The crystals have an exceeding
                   pungent taste; but a solution of these, when 
                   sufficiently diluted, excites a very agreeable
-                  sensation on the tongue. Twenty grains 
+                  sensation on the tongue. <measure>Twenty grains</measure> 
                   communicate a sensible acidity to a quart of
                   water.
                </p>
-               <p><label>B</label> It makes red all the blue vegetable
-                  juices, except that of indigo. A single grain
-                  dissolved in four ounces of water instantly
+                    <p rend="prequotes"><label>B</label> It makes red all the blue vegetable
+                  juices, except that of indigo. A <measure>single grain</measure>
+                  dissolved in <measure>four ounces</measure> of water instantly
                   makes red the blue paper for covering sugar-
                   loaves; which is not affected by the weaker
-                  acids: and twelve grains, dissolved in a quart
-                  of water, produce the same effect upon paper
+                  acids: and <measure>twelve grains</measure>, dissolved in a <measure>quart
+                  of water</measure>, produce the same effect upon paper
                   tinged with turnsole.
                </p>
-               <p><label>C</label> It attacks alkalis, earths, and sundry
+                    <p rend="prequotes"><label>C</label> It attacks alkalis, earths, and sundry
                   metals; and dissolves them with effervescence,
                   if they be united with aërial acid. These 
                   combinations serve to distinguish this evidently
                   from all other acids.
                </p>
-               </div>
+                 </quote>
                
                
                <pb/>
                <fw type="pageNum">114</fw>
-               <div>
-                  <head>Saccharated Lime</head><anchor xml:id="a031" corresp="#n031"/>
-                     <p>Eighty-two parts of saccharine acid take
+             <floatingText><body><div type="section">
+                <head>Saccharated Lime</head><anchor xml:id="a031" corresp="#n031"/>
+                  <quote rend="quotes">
+                     <p rend="prequotes">Eighty-two parts of saccharine acid take
                         up 100 of pellucid calcareous spar, but not
                         immediately; because the surface, when saturated
                         with acid, prevents the access of the
@@ -4358,22 +4355,22 @@
                         the form of a white powder, not soluble in
                         water.
                      </p>
-                     <p>Of the 119 parts, by weight, of this powder, 72
+                     <p rend="prequotes">Of the 119 parts, by weight, of this powder, 72
                         fall to the bottom, and 47 appear upon evaporation:
                         hence it is shewn that 100 parts
                         contain, of acid 48, of pure lime 46, and of
                         water 6; so that not only the presence of lime
                         in water is discovered by acid of sugar, but
                         even its quantity may, without difficulty, be
-                        ascertained,
+                        ascertained.
                      </p>
-                     <p>The saccharine acid attacks lime with such
+                     <p rend="prequotes">The saccharine acid attacks lime with such
                         force that it separates it from every other: this
                         combination, therefore, cannot be decomposed
                         by any acid, alkali, or earth, hitherto known,
                         and can only be decomposed by fire.
                      </p>
-                     <p>Hence also we understand the necessity of
+                     <p rend="prequotes">Hence also we understand the necessity of
                         lime-water in the purification of sugar; for,
                         
                         <pb/>
@@ -4385,7 +4382,7 @@
                         added the saccharine acid, it will not form
                         crystalline grains.
                      </p>
-                     <p>Now, nothing more powerfully attracts
+                     <p rend="prequotes">Now, nothing more powerfully attracts
                         this acid than lime; and, when united with it,
                         it is insoluble, and either falls to the bottom, or
                         floats in the scum. Lime-water, therefore,
@@ -4395,7 +4392,7 @@
                         proportion, without communicating any
                         heterogeneous matter.
                      </p>
-                     <p>Many persons have thought that a portion
+                     <p rend="prequotes">Many persons have thought that a portion
                         of the lime remains mixed with the sugar;
                         but, if the purification be properly conducted,
                         the nature of the ingredients, the circumstances
@@ -4403,7 +4400,7 @@
                         analysis, abundantly shew, that there is
                         not the smallest trace of lime remaining.
                      </p>
-                     <p>Good sugar dissolves totally in distilled
+                     <p rend="prequotes">Good sugar dissolves totally in distilled
                         water; which could not possibly be the case if
                         there were present any lime, either crude or
                         united with the saccharine acid; as either of 
@@ -4414,16 +4411,16 @@
                      <pb/>
                      <fw type="pageNum">116</fw>
                      
-                     <p><anchor xml:id="a032" corresp="#n032"/>The vegetable alkali does indeed absorb
+                     <p rend="prequotes"><anchor xml:id="a032" corresp="#n032"/>The vegetable alkali does indeed absorb
                         the acid of sugar, but forms with it a salt not
                         very difficult of solution; and, besides, a caustic
                         lixivion, if used in too great a quantity, will
                         dissolve a portion of the sugar. In saccharated
                         lime, the earthy basis predominates: for,
-                        when boiled with syrup of violets, it strikes a
+                        when boiled with syrup of <ecda:flora>violets</ecda:flora>, it strikes a
                         green colour.
                      </p>
-                     <p>If we consider the nature of the acid of
+                     <p rend="prequotes">If we consider the nature of the acid of
                         sugar, we find that it does not resemble 
                         the nitrous acid in any other instance than 
                         those properties which are common to all
@@ -4433,14 +4430,15 @@
                         while the nitrous acid produces salt, either
                         deliquescent or easily soluble, acid of sugar yields
                         such as are scarcely soluble in water.
-                     </p>
-                     <p>Alkalis, when nitrated, detonate with
+                     </p> <!-- start here
+                     \-->
+                     <p rend="prequotes">Alkalis, when nitrated, detonate with
                         ignited phlogiston; but, when saccharated, shew
                         not the least signs of deflagration, which they
                         evidently do upon the addition of the smallest 
                         particle of nitrous.
                      </p>
-                     <p>The nitrous acid corrodes tin and antimony,
+                     <p rend="prequotes">The nitrous acid corrodes tin and antimony,
                         but scarcely dissolves them; while acid
                         
                         <pb/>
@@ -4455,19 +4453,19 @@
                         place with respect to the fixed vegetable alkali
                         united with acid of sugar.
                      </p>
-                     <p>Many other dissimilarities will occur upon
+                     <p rend="prequotes">Many other dissimilarities will occur upon
                         comparison; so that these acids are of a nature
                         not only unlike, but in many instances diametrically
                         opposite.
                      </p>
-                     <p>If any will attribute all the difference to
+                     <p rend="prequotes">If any will attribute all the difference to
                         phlogiston, I will not deny that that subtile
                         principle forms a wonderful source of difference;
                         but the difference which takes place 
                         here can by no means be attributed to this,
                         when properly examined.
                      </p>
-                     <p>The nitrous acid is weakened, and made far
+                     <p rend="prequotes">The nitrous acid is weakened, and made far
                         more volatile, by union with the phligiston;
                         the acid of sugar much more fixed, even when
                         loaded with os great a quantity as to be 
@@ -4477,7 +4475,7 @@
                         with the very same matter, compounds
                         totally different from those with acid of sugar.
                      </p>
-                     <p>Nothing can be judged from circumstances
+                     <p rend="prequotes">Nothing can be judged from circumstances
                         
                         <pb/>
                         <fw type="pageNum">118</fw>
@@ -4488,7 +4486,7 @@
                         no signs of its being derived from the nitrous 
                         acid.
                      </p>
-                     <p>However, let us enquire more deeply; let
+                     <p rend="prequotes">However, let us enquire more deeply; let
                         us principally consult nature, not indifferently
                         and slightly, supplying the deficiencies with
                         fiction, but candidly and properly, by apt and
@@ -4496,7 +4494,7 @@
                         like those of the oracles of old, will be either
                         delusive or ambiguous.
                      </p>
-                     <p>But, by whatever means the acid of sugar is
+                     <p rend="prequotes">But, by whatever means the acid of sugar is
                         produced, it must be considered as distinct,
                         and different from all others, being always 
                         essentially and specifically the same. Its singular
@@ -4504,7 +4502,7 @@
                         use in chemistry, shew that it deserves the most 
                         particular attention.
                      </p>
-                     <p>From the time of <persName ref="#georg_ernst_stahl_1659">Stahl</persName>, many considered
+                     <p rend="prequotes">From the time of <persName ref="#georg_ernst_stahl_1659">Stahl</persName>, many considered
                         the nitrous and marine acids as generated from 
                         the vitriolic; but, if all confiding in this theory
                         (which is yet contradicted by daily observation)
@@ -4519,11 +4517,9 @@
                         
                         these acids as distinct and separate
                         substances<anchor xml:id="a033" corresp="#n033"/>.
-                     </p>
-                     </div>
-                  </body>
-               </floatingText>
-               </quote>
+                     </p></quote>
+                     </div></body></floatingText>
+                 
                <p>The saccharine matter, says the illustrious
                   <persName ref="#antoine_francois_de_fourcroy_1755">De Fourcroy</persName>,―<quote rend="prequotes">which many chemists
                   consider as a kind of essential salt, is found in a 
