@@ -123,7 +123,7 @@
               </p>
            </note>
            <note xml:id="n015" target="#a015">
-              <p><persName ref="antonio_de_herrerra_y_tordesillas_1549">Herrara</persName> says, the <name>Spaniards</name> first imported their <name>negroes</name>
+              <p><persName ref="antonio_de_herrerra_y_tordesillas_1549">Herrara</persName> says, the <name>Spaniards</name> first imported their negroes
               from the <name>Portuguese</name>, who had settlements on the coast of <placeName>Africa</placeName>.
               </p>
            </note>
@@ -373,7 +373,7 @@
               hogsheads per annum.</p>
            </note>
            <note xml:id="n069" target="#a069">
-              <p>The <name>negroes</name> employed in the <placeName>West Indies</placeName>, in cultivating the
+              <p>The negroes employed in the <placeName>West Indies</placeName>, in cultivating the
               cane, and manufacturing sugar, do not much exceed this number.
               Altogether there are, in the <rs type="properAdjective">English</rs> colonies about 1461,684
               blacks; and in the <rs type="properAdjective">French</rs> colonies about 498,265. In <placeName>Jamaica</placeName>,
@@ -408,8 +408,8 @@
               <bibl><title rend="italic">Treatise of Tropical Diseases</title>, ed. 3, p. 519.</bibl>
            </note>
            <note xml:id="n078" target="#a078" ana="#obeah">
-              <p>This <name>Obi</name>, or, as it is pronounced in the <placeName>English West Indies</placeName>,
-              <distinct type="dialect">Obeah</distinct>, had its origin, like many customs among the <name>Africans</name>,
+              <p>This <name ana="#obeah">Obi</name>, or, as it is pronounced in the <placeName>English West Indies</placeName>,
+              <name ana="#obeah">Obeah</name>, had its origin, like many customs among the <name>Africans</name>,
               from the ancient <name>Egyptians</name>.</p>
               <p><distinct type="dialect" xml:lang="he" rend="upright">אוב</distinct> <distinct type="dialect">OB</distinct> is a demon, a spirit of divination, and magic. When
               <persName ref="#saul_0001" rend="mixed">Saul</persName> wanted to raise up <persName ref="#samuel_0001" rend="mixed">Samuel</persName> from the dead, he said to his
@@ -1484,7 +1484,7 @@
                for their masters, and the seventh for themselves,
                which they spend in sewing and planting
                their <ecda:flora ana="#food">seeds, fruits and provisions</ecda:flora>. They
-               bring the <name>negroes</name> from the <rs type="place">opposite continent</rs>,
+               bring the negroes from the <rs type="place">opposite continent</rs>,
                
                <pb/>
                <fw type="pageNum">29</fw>
@@ -1772,7 +1772,7 @@
                was concluded between the <name>Dutch</name> and the <name>Portuguese</name>,
                the Former were in number 20,000, and
                had acquired seven of the fourteen captainships
-               of <placeName>Brazil</placeName>. They had 60,000 <name>negroes</name>
+               of <placeName>Brazil</placeName>. They had 60,000 negroes
                there, and made 25,000 chests of <ecda:commodity>sugar</ecda:commodity>. But,
                in <date when="1655">1655</date>, they were dispossessed of their territories,
                and ceded them by treaty, in <date when="1661">1661</date>, to
@@ -6040,9 +6040,9 @@
                   should not now be much benefited in our
                   practice, by their labours.
                </p>
-               <p>The <distinct type="scientific" rend="italic">Cow-Pox</distinct> has lately appeared in <placeName>England</placeName>.
+               <p ana="#disease">The <distinct type="scientific" rend="italic">Cow-Pox</distinct> has lately appeared in <placeName>England</placeName>.
                   This is a new star in the <rs type="properAdjective">Æsculapian</rs>
-                  system. It was first observed from the Provinces.
+                  system. It was first observed from the <rs type="place">Provinces</rs>.
                   It is so luminous there, that the greasy-
                   heeled hind feet of <name>Pegasus</name> are visible to the
                   naked eye: the hidden parts of that constellation,
@@ -6059,15 +6059,15 @@
                <p>The medical <name>Pythonissas</name> are divided in their
                   opinion respecting this phenomenon.
                </p>
-               <p>Great events are foreboded.—Some pretend                 <!-- I don't know what to do with this -->
+               <p>Great events are foreboded.—<seg ana="#medical">Some pretend                 <!-- I don't know what to do with this -->
                   that a restive <mcr>greasy-heeled <ecda:fauna>horse</ecda:fauna></mcr> will kick
-                  down all the old gally-pots of <persName ref="#galen_0129">Galen</persName>—Others,
+                  down all the old gally-pots of <persName ref="#galen_0129">Galen</persName></seg>—Others,
                   that the people of <placeName>England</placeName> are becoming like
                   the inhabitants of a wilderness, beyond the
                   land of <placeName>Cathay</placeName>, seen in <date when="1333">1333</date>, by the rare and
                   inimitable <persName ref="#john_mandeville_0001"><hi rend="mixed">Sir John</hi> Mandevile</persName>,—who, he
                   says, were <quote rend="quotes">wild, with horns on their heads,
-                  very hideous and speak not; but rout as swine<anchor xml:id="a071" corresp="#n071"/>.</quote>
+                  very hideous and speak not; but rout as <ecda:fauna>swine</ecda:fauna><anchor xml:id="a071" corresp="#n071"/>.</quote>
                </p>
                <p ana="#disease #medical">Wonderful things to certainly appear in all
                   ages; the great <persName ref="#desiderius_erasmus_1466">Erasmus</persName> mentions a man, one
@@ -6079,7 +6079,7 @@
                   language. The <rs type="properAdjective">Dutch</rs> worms and the <rs type="properAdjective">Dutch</rs>
                   language, left <persName ref="#philario_0001" rend="mixed"><mcr>Philario</mcr></persName> together<anchor xml:id="a072" corresp="#a072"/>!
                </p>
-               <p ana="#disease #medical">In this <distinct rend="italic">Cowmania</distinct> it is not enough for reason
+               <p ana="#disease #medical">In this <soCalled rend="italic">Cowmania</soCalled> it is not enough for reason
                   to concede, that the Cow-pox may lessen, <emph>for
                   a time</emph>, the disposition in the habit to receive
                   the infection of the <distinct type="scientific" rend="italic">Small pox</distinct>.
@@ -6135,12 +6135,12 @@
                   experience, that disease, properly treated,
                   leaves nothing after it injurious to the 
                   constitution.
-               </p> <!-- start here -->
+               </p>
                <p ana="#medical">Can any person say what may be the 
                   consequences of introducing a <emph>bestial</emph> humour—
                   the Cow-pox, I hope, does not deserve the
                   name of disease—into the human frame, after
-                  a long lapse of hears? I mention this serious
+                  a long lapse of years? I mention this serious
                   trifling, not from disrespect to the ingenious,
                   nor to discourage inquiry; the object well
                   deserves it;—but the doctrine of engrafting
@@ -6223,18 +6223,18 @@
                   hard and callous.
                </p>
                <p ana="#disease">There are two sorts of <distinct type="scientific" rend="italic">yaws</distinct>, like the two
-                  species of <distinct type="scientific" rend="italic">Farcy</distinct> in horses; the <distinct type="scientific" rend="italic">common yaws</distinct>
+                  species of <distinct type="scientific" rend="italic">Farcy</distinct> in <ecda:fauna>horses</ecda:fauna>; the <distinct type="scientific" rend="italic">common yaws</distinct>
                   and the <distinct type="scientific" rend="italic">running yaws</distinct>.
                </p>
                
                <pb/>
                <fw type="pageNum">168</fw>
                
-               <p ana="#disease">The <distinct type="scientific" rend="italic">common yaws</distinct>, without fever or
+               <p ana="#disease #medical">The <distinct type="scientific" rend="italic">common yaws</distinct>, without fever or
                   indisposition, begins with small pimples, which soon
                   increase, and appear in round, white, flabby,
-                  eruptions, from about the size of a pea to that
-                  of a large strawberry, separately, or in clusters,
+                  eruptions, from about the size of a <ecda:flora>pea</ecda:flora> to that
+                  of a large <ecda:flora>strawberry</ecda:flora>, separately, or in clusters,
                   in different parts of the body. These eruptions 
                   do not appear all at once; and, when
                   some are declining, and others disappearing, a
@@ -6248,7 +6248,7 @@
                   of acrid corrosive matter, in different parts of
                   the body. This is the worst sort.
                </p>
-               <p ana="#medical">The cure of the yaws is now understood by
+               <p ana="#medical">The cure of the <distinct type="scientific" rend="italic">yaws</distinct> is now understood by
                   skilful practitioners. Inoculation is performed
                   with success. Care soon removes the principal
                   mischief of the distemper; and the <distinct type="scientific" rend="italic">crab yaws</distinct>
@@ -6264,19 +6264,19 @@
                   <fw type="pageNum">169</fw>
                   
                   dangerous. It was then the custom, when a
-                  <name>negro</name> was attacked with it, to separate him
+                  negro was attacked with it, to separate him
                   from the rest, and send him to some lonely
                   place by the sea side, to bathe; or into the
-                  mountains, to some Provision Ground, or Plantain
-                  Walk; where he could act as a watchman,
+                  mountains, to some <rs type="place">Provision Ground</rs>, or <rs type="place">Plantain
+                  Walk</rs>; where he could act as a watchman,
                   and maintain himself, without any expence
                   to the estate, until he was well; then he
-                  was brought back to the Sugar work.
+                  was brought back to the <ecda:commodity>Sugar</ecda:commodity> work.
                </p>
-               <p>But this rarely happened. A cold, damp,
-                  smoky hut, for his habitation; snakes and 
-                  lizards is companions; crude, viscid food, and
-                  bad water, his only support; and shunned as
+               <p ana="#disease">But this rarely happened. A cold, damp,
+                  smoky hut, for his habitation; <ecda:fauna>snakes</ecda:fauna> and 
+                  <ecda:fauna>lizards</ecda:fauna> his companions; crude, viscid <ecda:food>food</ecda:food>, and
+                  <ecda:food>bad water</ecda:food>, his only support; and shunned as
                   a leper;—he usually sunk from the land of the
                   living. 
                </p>
@@ -6299,11 +6299,11 @@
                <fw type="pageNum">170</fw>
                
                <p>In their banishment, their huts often became
-                  the receptacles of robbers and fugitive <name>negroes</name>;
+                  the receptacles of robbers and fugitive negroes;
                   and, as they had no power to resist any who
                   chose to take shelter in their hovels, and had
                   nothing to lose, and were forsaken by the world,
-                  a tyger would hardly molest them. Their 
+                  a <ecda:fauna>tyger</ecda:fauna> would hardly molest them. Their 
                   desperate guests never did.
                </p>
                <p>The host of the hut, as he grew more 
@@ -6321,7 +6321,7 @@
                   they usually taught their landlord the
                   mysteries of sigils, spells, and sorcery; and
                   <emph>illuminated</emph> him in all the occult science of
-                  <distinct type="religious" ana="#obeah #religious" rend="smallcaps">Obi</distinct><anchor xml:id="a078" corresp="#n078"/>.
+                  <name ana="#obeah" rend="smallcaps">Obi</name><anchor xml:id="a078" corresp="#n078"/>.
                </p>
                
                <pb/>
@@ -6333,19 +6333,19 @@
                   in mind, and by the malicious, for wicked
                   purposes.
                </p>
-               <p><distinct type="religious" rend="smallcaps">Obi</distinct>, and <distinct rend="italic">gambling</distinct>, are the only instances I 
+               <p><name ana="#obeah" rend="smallcaps">Obi</name>, and <distinct rend="italic">gambling</distinct>, are the only instances I 
                   have been able to discover, among the natives
                   of the negro land in <placeName>Africa</placeName>, in which any
                   effort at combining ideas, has ever been
                   demonstrated.
                </p>
-               <p>The science of <distinct type="religious" rend="smallcaps">Obi</distinct> is very extensive.</p>
-               <p><distinct type="religious" rend="smallcaps">Obi</distinct>, for the purposes of bewitching people,
+               <p>The science of <name ana="#obeah" rend="smallcaps">Obi</name> is very extensive.</p>
+               <p><name ana="#obeah" rend="smallcaps">Obi</name>, for the purposes of bewitching people,
                   or consuming them by lingering illness, is
-                  made of grave dirt, hair, teeth of sharks, and
+                  made of grave dirt, hair, teeth of <ecda:fauna>sharks</ecda:fauna>, and
                   other creatures, blood, feathers, egg-shells,
-                  images in wax, the hearts of birds, and some
-                  potent roots, weeds, and bushes, of which
+                  images in wax, the hearts of <ecda:fauna>birds</ecda:fauna>, and some
+                  potent <ecda:flora>roots</ecda:flora>, <ecda:flora>weeds</ecda:flora>, and <ecda:flora>bushes</ecda:flora>, of which
                   <name>Europeans</name> are at this time ignorant; but which
                   were known, for the same purposes, to the
                   ancients.
@@ -6367,27 +6367,27 @@
                   in the curse.
                </p>
                <p>A negro, who thinks himself bewitched
-                  by <distinct type="religious" rend="smallcaps">Obi</distinct>, will apply to an <name rend="italic">Obi-man</name> or <name rend="italic">Obi-
+                  by <name ana="#obeah" rend="smallcaps">Obi</name>, will apply to an <name ana="#obeah" rend="italic">Obi-man</name> or <name ana="#obeah" rend="italic">Obi-
                   woman</name>, for cure.
                </p>
                <p>These magicians will interrogate the patient,
                   as to the part of the body most afflicted.
                   This part they will torture with pinching,
-                  drawing with gourds, or calabashes, beating,
+                  drawing with <ecda:flora>gourds</ecda:flora>, or <ecda:flora>calabashes</ecda:flora>, beating,
                   and pressing. When the patient is nearly 
-                  exhausted with this rough <distinct rend="italic">magnetising</distinct>, <distinct type="religious" rend="smallcaps">Obi</distinct> brings
+                  exhausted with this rough <distinct type="religious" rend="italic">magnetising</distinct>, <name ana="#obeah" rend="smallcaps">Obi</name> brings
                   out an old rusty nail, or piece of bone, or
-                  an ass's tooth, or the jaw-bone of a rat, or
+                  an <ecda:fauna>ass's</ecda:fauna> tooth, or the jaw-bone of a <ecda:fauna>rat</ecda:fauna>, or
                   a fragment of a quart bottle, from the part;
                   and the patient is well the next day.
                </p>
                <p>The most wrinkled, and most deformed
-                  <rs type="properAdjective" rend="italic">Obian</rs> magicians, are most venerated. This
+                  <rs ana="#obeah" type="properAdjective" rend="italic">Obian</rs> magicians, are most venerated. This
                   was the case among the <name>Egyptians</name> and
                   <name>Chaldeans</name>.
                </p>
-               <p ana="#gender">In general, <distinct type="religious" rend="italic"><name>Obi-men</name></distinct> are more sagacious than
-                  <distinct type="religious" rend="italic"><name>Obi-women</name></distinct>, in giving, or taking away diseases;
+               <p ana="#gender #poison #disease">In general, <name ana="#obeah" rend="italic">Obi-men</name> are more sagacious than
+                <name rend="italic" ana="#obeah">Obi-women</name>, in giving, or taking away diseases;
                   
                   <pb/>
                   <fw type="pageNum">173</fw>
@@ -6396,7 +6396,7 @@
                   department to blind <ecda:fauna>pigs</ecda:fauna>, and <ecda:fauna>poultry</ecda:fauna>; and
                   lame <ecda:fauna>cattle</ecda:fauna>.
                </p>
-               <p>It is the province of the <distinct type="religious" rend="italic"><name>Obi-women</name></distinct> to
+               <p ana="#gender">It is the province of the <name ana="#obeah" rend="italic">Obi-women</name> to
                   dispose of the passions. They sell foul winds for
                   inconstant mariners; dreams and phantasies
                   for jealousy; vexation, and pains in the heart,
@@ -6407,31 +6407,31 @@
                   sense of the tempest-tossed querent.
                </p>
                <p>Laws have been made in the <placeName>West Indies</placeName> to
-                  punish this <rs type="properAdjective" rend="smallcaps">Obian</rs> practice with death; but
+                  punish this <rs ana="#obeah" type="properAdjective" rend="smallcaps">Obian</rs> practice with death; but
                   they have had no effect. Laws constructed in
                   the <placeName>West Indies</placeName>, can never suppress the effect
                   of Ideas, the origin of which, is in the centre
                   of <placeName>Africa</placeName>.
                </p>
-               <p>I saw the <name rend="smallcaps">Obi</name> of the famous negro robber,
+               <p>I saw the <name ana="#obeah" rend="smallcaps">Obi</name> of the famous negro robber,
                   <persName ref="#three_fingered_jack_0001"><hi rend="mixed"><mcr>Three fingered</mcr></hi> Jack</persName>, the terror of <placeName>Jamaica</placeName> in
-                  <date from="1780" to="1781">1780 and 1781</date>. The <ecda:persGroup a-gender="male" a-aig="maroon" ref="#james_reeder__0001 #sam_grant_0001">Maroons</ecda:persGroup> who slew him
+                  <date from="1780" to="1781">1780 and 1781</date>. The <ecda:persGroup a-gender="male" a-aig="maroon" ref="#james_reeder_0001 #sam_grant_0001">Maroons</ecda:persGroup> who slew him
                   brought it to me.
                </p>
-               <p>His <name rend="smallcaps">Obi</name> consisted of the end of a goat's horn,
+               <p>His <name ana="#obeah" rend="smallcaps">Obi</name> consisted of the end of a <ecda:fauna>goat's</ecda:fauna> horn,
                   filled with a compound of grave dirt, ashes,
-                  the blood of a black cat, and human fat; all
-                  mixed into a kind of paste. A black cat's
-                  foot, a dried toad, a pig's tail, a slip of
+                  the blood of a <ecda:fauna>black cat</ecda:fauna>, and human fat; all
+                  mixed into a kind of paste. A <ecda:fauna>black cat's</ecda:fauna>
+                  foot, a dried <ecda:fauna>toad</ecda:fauna>, a <ecda:fauna>pig's</ecda:fauna> tail, a slip of
                   
                   <pb/>
                   <fw type="pageNum">174</fw>
                   
-                  parchment of kid's skin, with characters marked 
-                  blood on it, were also in his <rs type="properAdjective" rend="italic">Obian</rs> bag.
+                  parchment of <ecda:fauna>kid's</ecda:fauna> skin, with characters marked in
+                  blood on it, were also in his <rs ana="#obeah" type="properAdjective" rend="italic">Obian</rs> bag.
                </p>
                <p>These, with a keen sabre, and two guns,
-                  like <persName ref="#robinson_crusoe_0001" rend="mixed"><mcr>Robinson Crusoe</mcr></persName>, were all his <name>Obi</name>; with
+                  like <persName ref="#robinson_crusoe_0001" rend="mixed"><mcr>Robinson Crusoe</mcr></persName>, were all his <name rend="smallcaps" ana="#obeah">Obi</name>; with
                   which, and his courage in descending into the
                   plains and plundering to supply his wants,
                   and his skill in retreating into difficult fastnesses,
@@ -6442,7 +6442,7 @@
                   defiance, for two years.
                </p>
                <p>He had neither accomplice nor associate.
-                  There were a few runaway <name>negroes</name> in the
+                  There were a few runaway negroes in the
                   woods near <placeName>Mount Libanus</placeName>, the place of his
                   retreat; but he had crossed their foreheads
                   with some of the magic in his horn, and they 
@@ -6452,7 +6452,7 @@
                   battles alone; and always killed his pursuers.
                </p>
                <p>By his magic, he was not only the dread of
-                  the <name>negroes</name>, but there were many white people,
+                  the negroes, but there were many white people,
                   who believed he was possessed of some supernatural
                   power.
                </p>
@@ -6474,7 +6474,7 @@
                <p>God knows, poor <persName ref="#three_fingered_jack_0001">Jack</persName> had sins enough of
                   his own to carry, without loading him with
                   the sins of others. He would sooner have
-                  made a <rs type="properAdjective" rend="italic">Medean</rs> cauldron for the whole island,
+                  made a <rs type="properAdjective" rend="italic">Medean</rs> cauldron for the whole <rs type="place">island</rs>,
                   than disturb one lady's happiness. He had
                   many opportunities; and, though he had a
                   mortal hatred to white men, he was never
@@ -6489,25 +6489,25 @@
                   <pb/>
                   <fw type="pageNum">176</fw>
                   
-                  <name>negroes</name>, named <persName ref="#james_reeder__0001">Quashee</persName> and <persName ref="#sam_grant_0001">Sam</persName> (<persName ref="#sam_grant_0001">Sam</persName>
+                  negroes, named <persName ref="#james_reeder_0001">Quashee</persName> and <persName ref="#sam_grant_0001">Sam</persName> (<persName ref="#sam_grant_0001">Sam</persName>
                   was <persName ref="#davy_0001"><hi rend="mixed">Captain</hi> Davy's</persName> son, he who shot a
                   <persName ref="#thompson_0001"><hi rend="mixed">Mr</hi>. Thompson</persName>, the master of a <rs type="properAdjective">London</rs> ship,
                   at <placeName>Old Harbour</placeName>), both of <placeName><mcr>Scots Hall</mcr> Maroon
                   Town</placeName>, with a <ecda:persGroup>party of their townsmen</ecda:persGroup>, went
                   in search of him.
                </p>
-               <p ana="#religion"><persName ref="#james_reeder__0001">Quashee</persName>, before he set out on the expedition, 
+               <p ana="#religion"><persName ref="#james_reeder_0001">Quashee</persName>, before he set out on the expedition, 
                   got himself christianed, and changed his
-                  name to <persName ref="#james_reeder__0001">James Reeder</persName>.
+                  name to <persName ref="#james_reeder_0001">James Reeder</persName>.
                </p>
                <p>The expedition commenced; and the whole
                   party had been creeping about in the woods,
                   for three weeks, and blockading, as it were, the
                   deepest recesses of the most inacessible part of 
-                  the island, where <persName ref="#three_fingered_jack_0001">Jack</persName>, far remote from all
+                  the <rs type="place">island</rs>, where <persName ref="#three_fingered_jack_0001">Jack</persName>, far remote from all
                   human society, resided,—but in vain.
                </p>
-               <p><persName ref="#james_reeder__0001">Reeder</persName> and <persName ref="#sam_grant_0001">Sam</persName>, tired with this mode of
+               <p><persName ref="#james_reeder_0001">Reeder</persName> and <persName ref="#sam_grant_0001">Sam</persName>, tired with this mode of
                   war, resolved on proceeding in search of his
                   retreat; and taking him, by storming it, or
                   perishing in the attempt.
@@ -6523,7 +6523,7 @@
                <p>These three, whom I well knew, had not 
                   been long separated, before their cunning
                   eyes discovered, by impressions among the
-                  weeds and bushes, that some person must have
+                  <ecda:flora>weeds</ecda:flora> and <ecda:flora>bushes</ecda:flora>, that some person must have
                   lately been that way.
                </p>
                <p>They softly followed these impressions, making 
@@ -6541,19 +6541,19 @@
                <p><persName ref="#three_fingered_jack_0001">Jack's</persName> looks were fierce and terrible. He 
                   told them he would kill them.
                </p>
-               <p ana="#religion"><persName ref="#james_reeder__0001">Reeder</persName>, instead of shooting <persName ref="#three_fingered_jack_0001">Jack</persName>, replied,
-                  that his <name>Obi</name> had no power to hurt him; for
+               <p><persName ref="#james_reeder_0001">Reeder</persName>, instead of shooting <persName ref="#three_fingered_jack_0001">Jack</persName>, replied,
+                  that his <name rend="smallcaps" ana="#obeah">Obi</name> had no power to hurt him; for
                   he was christianed; and that his name was no
-                  longer <persName ref="#james_reeder__0001">Quashee</persName>.
+                  longer <persName ref="#james_reeder_0001">Quashee</persName>.
                </p>
-               <p><persName ref="#three_fingered_jack_0001">Jack</persName> knew <persName ref="#james_reeder__0001">Reeder</persName>; and as if paralysed,
-                  he let is two guns remain on the ground, and took up only his cutlass.
+               <p><persName ref="#three_fingered_jack_0001">Jack</persName> knew <persName ref="#james_reeder_0001">Reeder</persName>; and as if paralysed,
+                  he let his two guns remain on the ground, and took up only his cutlass.
                </p>
                <p>These two had a desperate engagement
                   several years before, in the woods; in which
                   conflict <persName ref="#three_fingered_jack_0001">Jack</persName> lost the two fingers, which was
                   the origin of his present name; but <persName ref="#three_fingered_jack_0001">Jack</persName> then
-                  beat <persName ref="#james_reeder__0001">Reeder</persName>, and almost killed him with se-
+                  beat <persName ref="#james_reeder_0001">Reeder</persName>, and almost killed him with se-
                   
                   <pb/>
                   <fw type="pageNum">178</fw>
@@ -6562,25 +6562,25 @@
                   from <persName ref="#three_fingered_jack_0001">Jack</persName>.
                </p>
                <p>To do <persName ref="#three_fingered_jack_0001"><hi rend="mixed"><mcr>Three fingered</mcr></hi> Jack</persName> justice, he would
-                  now have killed both <persName ref="#james_reeder__0001">Reeder</persName> and <persName ref="#sam_grant_0001">Sam</persName>; for,
+                  now have killed both <persName ref="#james_reeder_0001">Reeder</persName> and <persName ref="#sam_grant_0001">Sam</persName>; for,
                   at first, they were frightened at the sight of
                   him, and the dreadful tone of his voice; and
-                  well they might: they had been besides no retreat,
-                  and were to grapple wit the bravest, and 
+                  well they might: they had besides no retreat,
+                  and were to grapple with the bravest, and 
                   strongest man in the world.
                </p>
                <p>But <persName ref="#three_fingered_jack_0001">Jack</persName> was cowed; for, he had prophesied,
-                  that <emph>white</emph> <distinct type="religious" rend="smallcaps">Obi</distinct> would get the better of 
+                  that <emph>white</emph> <name ana="#obeah" rend="smallcaps">Obi</name> would get the better of 
                   him; and, from experience, he knew the
                   charm would lose none of its strength in the
-                  hands of <persName ref="#james_reeder__0001">Reeder</persName>.
+                  hands of <persName ref="#james_reeder_0001">Reeder</persName>.
                </p>
                <p>Without further parley, <persName ref="#three_fingered_jack_0001">Jack</persName>, with his
                   cutlass in hand, threw himself down a precipice
                   at the back of the cave.
                </p>
-               <p><persName ref="#james_reeder__0001">Reeder's</persName> gun missed fire. <persName ref="#sam_grant_0001">Sam</persName> shot him
-                  in the shoulder. <persName ref="#james_reeder__0001">Reeder</persName>, like an <rs type="properAdjective">English</rs>
+               <p><persName ref="#james_reeder_0001">Reeder's</persName> gun missed fire. <persName ref="#sam_grant_0001">Sam</persName> shot him
+                  in the shoulder. <persName ref="#james_reeder_0001">Reeder</persName>, like an <rs type="properAdjective">English</rs>
                   bull-dog, never looked, but, with is cutlass 
                   in his hand, plunged headlong down after
                   <persName ref="#three_fingered_jack_0001">Jack</persName>. The descent was about thirty yards,
@@ -6603,7 +6603,7 @@
                <p><persName ref="#sam_grant_0001">Sam</persName> was crafty, and coolly took a round
                   about way to get to the field of action. When
                   he arrived at the spot where it began, <persName ref="#three_fingered_jack_0001">Jack</persName>
-                  and <persName ref="#james_reeder__0001">Reeder</persName> had closed, and tumbled together
+                  and <persName ref="#james_reeder_0001">Reeder</persName> had closed, and tumbled together
                   down another precipice, on the side of the 
                   mountain, in which fall they both lost their 
                   weapons.
@@ -6614,12 +6614,12 @@
                </p>
                <p>When he came to them, though without
                   weapons, they were not idle; and, luckily for
-                  <persName ref="#james_reeder__0001">Reeder</persName>, <persName ref="#three_fingered_jack_0001">Jack's</persName> wounds were deep and
+                  <persName ref="#james_reeder_0001">Reeder</persName>, <persName ref="#three_fingered_jack_0001">Jack's</persName> wounds were deep and
                   desperate, and he was in great agony.
                </p>
                <p><persName ref="#sam_grant_0001">Sam</persName> came up just time enough to save
-                  <persName ref="#james_reeder__0001">Reeder</persName>; for, <persName ref="#three_fingered_jack_0001">Jack</persName> had caught him by the
-                  throat, with his giant's grasp. <persName ref="#james_reeder__0001">Reeder</persName> then
+                  <persName ref="#james_reeder_0001">Reeder</persName>; for, <persName ref="#three_fingered_jack_0001">Jack</persName> had caught him by the
+                  throat, with his giant's grasp. <persName ref="#james_reeder_0001">Reeder</persName> then
                   was with his right hand almost cut off, an
                   <persName ref="#three_fingered_jack_0001">Jack</persName> streaming with blood from his shoulder
                   and belly; both covered with gore and gashes.
@@ -6642,7 +6642,7 @@
                </p>
                <p>There they put their trophies into a pail of
                   rum; and followed by a vast concourse of
-                  <name>negroes</name>, now no longer afraid of <persName ref="#three_fingered_jack_0001">Jack's</persName> <distinct type="religious" rend="smallcaps">Obi</distinct>,
+                 negroes, now no longer afraid of <persName ref="#three_fingered_jack_0001">Jack's</persName> <name ana="#obeah" rend="smallcaps">Obi</name>,
                   they carried them to <placeName>Kingston</placeName>, and <placeName>Spanish
                   Town</placeName>; and claimed the reward of the King's 
                   Proclamation, and the <orgName>House of Assembly</orgName>.
