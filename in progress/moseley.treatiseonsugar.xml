@@ -4430,8 +4430,7 @@
                         while the nitrous acid produces salt, either
                         deliquescent or easily soluble, acid of sugar yields
                         such as are scarcely soluble in water.
-                     </p> <!-- start here
-                     \-->
+                     </p> 
                      <p rend="prequotes">Alkalis, when nitrated, detonate with
                         ignited phlogiston; but, when saccharated, shew
                         not the least signs of deflagration, which they
@@ -4468,7 +4467,7 @@
                      <p rend="prequotes">The nitrous acid is weakened, and made far
                         more volatile, by union with the phligiston;
                         the acid of sugar much more fixed, even when
-                        loaded with os great a quantity as to be 
+                        loaded with so great a quantity as to be 
                         crystallizable; it almost every where expels the
                         strongest nitrous acid, as experiments shew;
                         besides, the phlogisticated nitrous acid produces,
@@ -4518,35 +4517,37 @@
                         these acids as distinct and separate
                         substances<anchor xml:id="a033" corresp="#n033"/>.
                      </p></quote>
-                     </div></body></floatingText>
+                     </div>
+             </body>
+             </floatingText>
                  
                <p>The saccharine matter, says the illustrious
-                  <persName ref="#antoine_francois_de_fourcroy_1755">De Fourcroy</persName>,―<quote rend="prequotes">which many chemists
+                  <persName ref="#antoine_francois_de_fourcroy_1755">De Fourcroy</persName>,―<quote xml:id="qdf001" next="#qdf002" rend="prequotes">which many chemists
                   consider as a kind of essential salt, is found in a 
                   great number of vegetables: and may be properly
                   ranged among their immediate principles.</quote>
                </p>
-               <quote rend="bestow-quotes">
-                  <p>The <ecda:flora>maple</ecda:flora>, the <ecda:flora>birch</ecda:flora>, the <ecda:flora>red beet</ecda:flora>, the
+               <quote xml:id="qdf002" prev="#qdf001" rend="quotes">
+                  <p rend="prequotes">The <ecda:flora>maple</ecda:flora>, the <ecda:flora>birch</ecda:flora>, the <ecda:flora>red beet</ecda:flora>, the
                      <ecda:flora>parsnip</ecda:flora>, the <ecda:flora>grape</ecda:flora>, <ecda:flora>wheat</ecda:flora>, &amp;c. contain it.
                      <persName ref="#georg_marcgrave_1610">Margraff</persName> extracted it from most vegetables.
                      The petals of many flowers, and the necatriums
                      placed in these organs, elaborate a
                      principle of this kind.
                   </p>
-                  <p>The <ecda:flora>sugar cane</ecda:flora>, <distinct type="dialect" rend="italic">arundo saccharifera</distinct>, 
+                  <p rend="prequotes">The <ecda:flora>sugar cane</ecda:flora>, <distinct type="scientific" xml:lang="la" rend="italic">arundo saccharifera</distinct>, 
                      contains it in larger quantities, and affords it
                      more readily, than any other plant.
                   </p>
-                  <p>Sugar consists of a peculiar acid united to
+                  <p rend="prequotes">Sugar consists of a peculiar acid united to
                      a small quantity of alkali, and much fat
                      
                      <lb/>
                      <fw type="pageNum">120</fw>
                      
                      matter. It crystallizes in hexahedral
-                     truncated prisms; and in this state is called sugar-
-                     candy. By distillation it affords and acid 
+                     truncated prisms; and in this state is called <distinct>sugar-
+                     candy</distinct>. By distillation it affords an acid 
                      phlegm, and a few drops of empyreumatic
                      oil. The residue is a spungy light coal, which
                      contains a small quantity of vegetable alkali.
@@ -4556,48 +4557,48 @@
                      brown yellow matter. It is very soluble in
                      water, to which it gives much consistence,
                      and constitutes a kind of mucilage, called
-                     syrup. Syrup diluted with water is capable
+                     <distinct>syrup</distinct>. Syrup diluted with water is capable
                      of fermentation, and affords ardent spirit.
                   </p>
-                  <p><persName ref="#torbern_bergman_1735">Bergman</persName> has obtained, from all saccharine
+                  <p rend="prequotes"><persName ref="#torbern_bergman_1735">Bergman</persName> has obtained, from all saccharine
                      matters, especially sugar, an acid of peculiar
                      nature.
                   </p>
-                  <p>Though, at the time of the first discovery
+                  <p rend="prequotes">Though, at the time of the first discovery
                      of this acid, it was though that the saccharine 
                      principle was necessary for its formation<anchor xml:id="a034" corresp="#n034"/>,
                      it is at present known, that a great number of
                      vegetables, which are not saccharine, afford it
                      in greater abundance: such are gums, starch,
-                     vegetable gluten, salt of sorrel, lemon juice,
-                     spirit of wine, and animal matter, as <persName ref="#claude_louis_berthollet_1748">M.
+                     vegetable gluten, salt of <ecda:flora>sorrel</ecda:flora>, <ecda:flora>lemon</ecda:flora> juice,
+                     spirit of <ecda:food>wine</ecda:food>, and animal matter, as <persName ref="#claude_louis_berthollet_1748">M.
                      Berthollet</persName> has discovered.
                   </p>
                   
                   <lb/>
                   <fw type="pageNum">121</fw>
                   
-                  <p>Among these substances, those which produce
+                  <p rend="prequotes">Among these substances, those which produce
                      the greatest quantity of this peculiar acid,
                      by the action of spirit of nitre, are such as do
                      not afford sugar.
                   </p>
-                  <p>Pure sugar did not afford <persName ref="#torbern_bergman_1735">Bergman</persName> more
+                  <p rend="prequotes">Pure sugar did not afford <persName ref="#torbern_bergman_1735">Bergman</persName> more
                      than one third of its weight of acid; and <persName ref="#claude_louis_berthollet_1748">M.
                      Berthollet</persName> obtained more than half, from
                      wool.
                   </p>
-                  <p>It seems, therefore, as <persName ref="#louis-bernard_guyton-morveau_1737">M. De Morveau</persName>
+                  <p rend="prequotes">It seems, therefore, as <persName ref="#louis-bernard_guyton-morveau_1737">M. De Morveau</persName>
                      thinks, that this acid is formed by the union
                      of a peculiar attenuated oil, which exists in
-                     all organic substances, and is the same through-out;
+                     all organic substances, and is the same throughout;
                      and that consequently the same saccharine
                      acid is improper.
                   </p>
-                  <p><persName ref="#carl_wilhelm_scheele_1742">Scheele</persName> has observed that the acid of lemons,
+                  <p rend="prequotes"><persName ref="#carl_wilhelm_scheele_1742">Scheele</persName> has observed that the acid of lemons,
                      chrystallized by the process described by <persName ref="#torbern_bergman_1735">Bergman</persName>,
                      does not afford saccharine acid by
-                     treatment with nitrous acid; though lemon
+                     treatment with nitrous acid; though <ecda:flora>lemon</ecda:flora>
                      juice itself affords it. The vitriolic acid, 
                      employed for the purification of this acid of
                      sugar, seems therefore to decompose the oil
@@ -4606,10 +4607,10 @@
                </quote>
                <p>The saccharine principle of <ecda:flora>grapes</ecda:flora>, <ecda:flora>berries</ecda:flora>,
                    and fruits, is the basis of their respective <ecda:food>wines</ecda:food>;
-                   therefore almost every description of wine may
+                   therefore almost every description of <ecda:food>wine</ecda:food> may
                    be imitated by art, from sugar.
                </p>
-               <p>The wines of <placeName>France</placeName>, <placeName>Italy</placeName>, <placeName>Spain</placeName>, and
+               <p>The <ecda:food>wines</ecda:food> of <placeName>France</placeName>, <placeName>Italy</placeName>, <placeName>Spain</placeName>, and
                   <placeName>Portugal</placeName>, particularly of the two last countries,
                   
                   <lb/>
@@ -4623,19 +4624,19 @@
                   the liquor, and giving it the essential 
                   characteristic of the relative vegetable flavour, can
                   deceive people of no mean judgment, and 
-                  sell them a cask of wine <quote rend="quotes">neat as imported.</quote>
+                  sell them a cask of <ecda:food>wine</ecda:food> <quote rend="quotes">neat as imported.</quote>
                </p>
                <p>Of other vegetable juices abounding with
                   sugar, <persName ref="#william_lewis_1708">Lewis</persName> has given the following description,
                   in his translation of <persName ref="#caspar_neumann_1648">Newmann's</persName>
                   chemistry:
                </p>
-               <quote rend="bestow-quotes">
+               <quote rend="quotes">
                   <p>In some parts of <placeName>North America</placeName>,
-                     particularly <placeName>Canada</placeName>, a kind of sugar is prepared
+                     particularly <placeName>Canada</placeName>, a kind of <ecda:food>sugar</ecda:food> is prepared
                      from the juice which issues upon wounding or
-                     boring certain species of the maple tree, one of
-                     which is named from hence the sugar-maple;
+                     boring certain species of the <ecda:flora>maple tree</ecda:flora>, one of
+                     which is named from hence the <ecda:flora>sugar-maple</ecda:flora>;
                      as also from the wild or <ecda:flora>black birch</ecda:flora>, the <ecda:flora>honey
                      locust</ecda:flora>, and the <ecda:flora>hickery</ecda:flora>. The <ecda:flora>maple</ecda:flora> is most
                      commonly made use of for this purpose, as
@@ -4644,15 +4645,15 @@
                      is boiled down, without any addition, to a
                      thick consistence, then taken from the fire, kept
                      stirring until its heat is abated, and set in a
-                     cold place, where the sugar quickly concretes
-                     into grains, resembling common brown powder
-                     sugar.
+                     cold place, where the <ecda:food>sugar</ecda:food> quickly concretes
+                     into grains, resembling <ecda:food>common brown powder
+                     sugar</ecda:food>.
                   </p>
                   
                   <pb/>
                   <fw type="pageNum">123</fw>
                   
-                  <p>The trees are tapped early in the Spring,
+                  <p rend="prequotes">The trees are tapped early in the Spring,
                      about the time the snow begins to melt. It is
                      observable, that when the weather begins to
                      grow warm they bleed no more; and that after
@@ -4660,72 +4661,72 @@
                      again upon covering the roots with snow. The
                      more severe the Winter has been, the juice is
                      found to be richer, and in greater quantity.
-                     The trees which grow in hills, or high land,
+                     The <ecda:flora>trees</ecda:flora> which grow in hills, or high land,
                      yield a richer juice than those which are
                      produced in low countries; and the middle-aged
                      that the young or old.
                   </p>
-                  <p><persName ref="#pehr_kalm_1716"><hi rend="upright">Mr</hi>. Kalm</persName> informs us the <rs type="properAdjective">Swedish</rs>
-                     Transactions for the year <date when="1751">1751</date>, that one tree, if the
+                  <p rend="prequotes"><persName ref="#pehr_kalm_1716"><hi rend="upright">Mr</hi>. Kalm</persName> informs us the <title><rs type="properAdjective">Swedish</rs>
+                     Transactions</title> for the year <date when="1751">1751</date>, that one <ecda:flora>tree</ecda:flora>, if the
                      Summer does not come on hastily, will yield
-                     about forty-two gallons of juice, <rs type="properAdjective">English</rs>
+                     about <measure>forty-two gallons</measure> of juice, <rs type="properAdjective">English</rs>
                      measure; and that the quantity which issues in one
-                     day is from three to six gallons; that eleven 
-                     gallons of juice of middling quality give a
-                     pound of sugar, and that a pound of has been
-                     gained from three gallons and an half. That
+                     day is from <measure>three to six gallons</measure>; that <measure>eleven 
+                     gallons</measure> of juice of middling quality give a
+                     pound of <ecda:commodity ana="#food #production">sugar</ecda:commodity>, and that a <measure>pound</measure> of has been
+                     gained from <measure>three gallons and an half</measure>. That
                      two persons can, in one Spring, prepare
-                     commodiously two hundred pounds. He observes,
-                     that this sugar is weaker than that from the
-                     sugar-cane; and that it is reckoned that a
-                     pound of common sugar goes as far in sweetning
-                     as two pounds of maple sugar.
+                     commodiously <measure>two hundred pounds</measure>. He observes,
+                     that this <ecda:commodity ana="#fauna">sugar</ecda:commodity> is weaker than that from the
+                     <ecda:flora>sugar-cane</ecda:flora>; and that it is reckoned that <measure>a
+                     pound</measure> of <ecda:commodity ana="#food">common sugar</ecda:commodity> goes as far in sweetning
+                     as <measure>two pounds</measure> of <ecda:commodity ana="#food">maple sugar</ecda:commodity>.
                   </p>
                   
                   <pb/>
                   <fw type="pageNum">124</fw>
                   
-                  <p>The large maple, commonly called <ecda:flora>sycamore-
+                  <p rend="prequotes">The large <ecda:flora>maple</ecda:flora>, commonly called <ecda:flora>sycamore-
                      tree</ecda:flora>, bleeds also in <placeName>Europe</placeName>; from which
-                     an actual sugar has been prepared. In the
-                     Transactions above mentioned, for the year
+                     an actual <ecda:food>sugar</ecda:food> has been prepared. In the
+                     <title>Transactions</title> above mentioned, for the year
                      <date when="1754">1754</date>, there is an account of some experiments
                      made in this view upon the <ecda:flora><rs type="properAdjective">Swedish</rs> maple</ecda:flora>.
-                     Eight trees, non of them under thirty years,
-                     bled, in four days, fourteen gallons of juice,
-                     which inspissated gave two pounds and a half
-                     of brown sugar. Another time, the same eight
-                     trees bled, in three days, ten gallons and an 
-                     half, which yielded one pound four ounces of 
-                     sugar, with half a pound of syrup. It is the
+                     Eight trees, none of them under thirty years,
+                     bled, in four days, <measure>fourteen gallons of juice</measure>,
+                     which inspissated gave <measure>two pounds and a half</measure>
+                     of <ecda:commodity ana="#production #food">brown sugar</ecda:commodity>. Another time, the same eight
+                     trees bled, in three days, <measure>ten gallons and an 
+                     half</measure>, which yielded <measure>one pound four ounces</measure> of 
+                     <ecda:commodity ana="#food #production">sugar</ecda:commodity>, with <measure>half a pound</measure> of syrup. It is the
                      saccharine juice of the <ecda:flora>maple-tree</ecda:flora>, which, 
                      exuding from the leaves, renders them so apt to
-                     be preyed upon by insects.
+                     be preyed upon by <ecda:fauna>insects</ecda:fauna>. 
                   </p>
-                  <p>The <ecda:flora>common birch</ecda:flora> bleeds also a large quantity
+                  <p rend="prequotes">The <ecda:flora>common birch</ecda:flora> bleeds also a large quantity
                      of sweetish juice, which yields, on being
                      inspissated, a sweet saline concrete, not
                      however perfectly of the saccharine kind; but
                      seeming to approach more to the nature of
-                     manna.
+                     <ecda:food>manna</ecda:food>.
                   </p>
-                  <p>There are sundry other vegetables, raised in
+                  <p rend="prequotes">There are sundry other vegetables, raised in
                      our own country, which afford saccharine
                      concretes; as <ecda:flora>beet-roots</ecda:flora>, <ecda:flora>skirrets</ecda:flora>, <ecda:flora>parsneps</ecda:flora>,
                      <ecda:flora>potatoes</ecda:flora>, <ecda:flora>celery</ecda:flora>, <ecda:flora>red cabbage-stalks</ecda:flora>, the young
-                     shoots of <ecda:flora><rs type="properAdjective">Indian</rs>-wheat</ecda:flora>. The sugar is most
+                     shoots of <ecda:flora><rs type="properAdjective">Indian</rs>-wheat</ecda:flora>. The <ecda:food>sugar</ecda:food> is most
                      readily obtained from by these, by making a tincture
                      
                      <pb/>
                      <fw type="pageNum">125</fw>
                      
-                     of the subject in rectified spirits of wine;
+                     of the subject in rectified spirits of <ecda:food>wine</ecda:food>;
                      which, when saturated by heat, will deposit the
-                     sugar upon standing in the cold<anchor xml:id="a035" corresp="#n035"/>.
+                     <ecda:food>sugar</ecda:food> upon standing in the cold<anchor xml:id="a035" corresp="#n035"/>.
                   </p>
                </quote>
             </div>
-            <div type="section" ana="#religion">
+            <div type="section">
                <p>We have now some rational data concerning
                   the real principles of sugar; from which
                   it may be suggested, that it has not even yet
@@ -4741,15 +4742,15 @@
                   researches, to the learned and curious. This
                   may contribute to settle many vague notions
                   and erroneous opinions relative to the heraldry
-                  of sugar, and the cane, of which it is the
+                  of <ecda:food>sugar</ecda:food>, and the <ecda:flora>cane</ecda:flora>, of which it is the
                   produce.
                </p>
                <p>I have before observed, that the ancient
                   <name>Grecians</name> and <name>Romans</name> had no knowledge either
                   of the <ecda:flora>sugar-cane</ecda:flora>, or of <ecda:food>sugar</ecda:food>.
                </p>
-               <p>For, there is no mention made of the <distinct rend="smallcaps">Sugar-
-                  Cane</distinct> among the <rs type="properAdjective">Grecian</rs> writers, until an
+               <p>For, there is no mention made of the <ecda:flora rend="smallcaps">Sugar-
+                  Cane</ecda:flora> among the <rs type="properAdjective">Grecian</rs> writers, until an
                   hundred years after <persName ref="#hippocrates_0460">Hippocrates</persName>; nor among
                   
                   <pb/>
@@ -4759,7 +4760,7 @@
                   expedition to <placeName>Syria</placeName>.
                </p>
                <p><distinct rend="smallcaps">Sugar</distinct> is not mentioned by either <rs type="properAdjective">Grecian</rs>
-                  or <rs type="properAdjective">Roma</rs> writer until the time of <persName ref="#nero_0037">Nero</persName>. 
+                  or <rs type="properAdjective">Roman</rs> writer until the time of <persName ref="#nero_0037">Nero</persName>. 
                   Neither poet nor historian mentions it in the <rs type="properAdjective">Augustan</rs>
                   age.
                </p>
@@ -4773,34 +4774,34 @@
                </p>
                <p>From the writers on the expedition of the
                   <name>Crusaders</name> but little is to be collected respecting
-                  the <ecda:flora>sugar-cane</ecda:flora>, and less of sugar; notwithstanding
-                  sugar had been a commercial article
+                  the <ecda:flora>sugar-cane</ecda:flora>, and less of <ecda:food>sugar</ecda:food>; notwithstanding
+                  <ecda:commodity ana="#food">sugar</ecda:commodity> had been a commercial article
                   for centuries prior to that memorable epoch of
                   insanity<anchor xml:id="a036" corresp="#n036"/>.
                </p>
                <p>In the writings of <persName ref="#moses_0001">Moses</persName>, and in many parts
                   of the Bible written by others, we find the word
-                  <distinct type="dialect" xml:lang="he" rend="upright">קגה</distinct> <distinct type="dialect" rend="italic">Kaneh</distinct>.
+                  <distinct xml:lang="he">קגה</distinct> <distinct rend="italic" xml:lang="he">Kaneh</distinct>.
                </p>
                <p>This word, passing into the <rs type="properAdjective">Arabic</rs> language,
-                  became the origin of <distinct type="dialect" rend="italic">canna</distinct>, a cane.
+                  became the origin of <distinct xml:lang="la" rend="italic">canna</distinct>, a <ecda:flora><gloss>cane</gloss></ecda:flora>.
                </p>
-               <p>But this <distinct xml:lang="he" type="dialect" rend="upright">קגה</distinct> in the Bible has many 
+               <p>But this <distinct xml:lang="he">קגה</distinct> in the Bible has many 
                   significations.
                </p>
                
                <pb/>
                <fw type="pageNum">127</fw>
                
-               <p>As a verb in the <name>Hebrew</name> <distinct type="dialect" xml:lang="he" rend="upright">קגה</distinct>, <distinct type="dialect" rend="italic">kanah</distinct> is, to
-                  buy, procure, possess. <distinct xml:lang="he" type="dialect" rend="upright">קגה</distinct> as a noun, property
-                  which is purchased, or possessed. It is 
-                  likewise a spear<anchor xml:id="a037" corresp="#n037"/>, a staff<anchor xml:id="a038" corresp="#n038"/>, a reed, or rush<anchor xml:id="a039" corresp="#n039"/>;
-                  a balance<anchor xml:id="a040" corresp="#n040"/>; bone of the arm<anchor xml:id="a041" corresp="#n041"/>; branches of
-                  the candlestick in the temple<anchor xml:id="a042" corresp="#n042"/>.
+               <p>As a verb in the <name>Hebrew</name> <distinct xml:lang="he">קגה</distinct>, <distinct xml:lang="he" rend="italic">kanah</distinct> is, to
+                  <gloss>buy, procure, possess</gloss>. <distinct xml:lang="he">קגה</distinct> as a noun, <gloss>property
+                  which is purchased, or possessed</gloss>. It is 
+                  likewise a <gloss>spear</gloss><anchor xml:id="a037" corresp="#n037"/>, a <gloss>staff</gloss><anchor xml:id="a038" corresp="#n038"/>, a <gloss>reed, or rush</gloss><anchor xml:id="a039" corresp="#n039"/>;
+                  a <gloss>balance</gloss><anchor xml:id="a040" corresp="#n040"/>; <gloss>bone of the arm</gloss><anchor xml:id="a041" corresp="#n041"/>; <gloss>branches of
+                  the candlestick in the temple</gloss><anchor xml:id="a042" corresp="#n042"/>.
                </p>
-               <p>It is said by several writers, that by <distinct type="dialect" xml:lang="he" rend="upright">קגה</distinct>, in 
-                  some places in the Bible, the <distinct type="dialect" rend="italic">sugar cane</distinct> is
+               <p>It is said by several writers, that by <distinct xml:lang="he">קגה</distinct>, in 
+                  some places in the Bible, the <ecda:flora><distinct rend="italic">sugar cane</distinct></ecda:flora> is
                   meant; and consequently that this plant was
                   known to the ancient <name>Hebrews</name>. This is to
                   our present purpose, and the first object of inquiry.
@@ -4815,19 +4816,19 @@
                   <bibl><title rend="italic">Jeremiah</title>, c. vi. v. 20.</bibl> and <bibl><title rend="italic">Ezekiel</title>, c. xxcii. vi. 19.</bibl>
                </p>
                <p>If we examine the passages here referred to,
-                  we shall find that <distinct xml:lang="he" type="dialect" rend="upright">קגה</distinct> has been doubtfully
+                  we shall find that <distinct xml:lang="he">קגה</distinct> has been doubtfully
                   
                   <pb/>
                   <fw type="pageNum">128</fw>
                   
                   interpreted at best; evidently erroneously in some
                   instances; and in none is it possible that the
-                  <distinct type="dialect" rend="italic">sugar cane</distinct> could be meant by it.
+                  <ecda:flora><distinct rend="italic">sugar cane</distinct></ecda:flora> could be meant by it.
                </p>
                <p>In the preceding chapter in <title>Exodus</title> we
                   find,—
                   <quote xml:lang="he">קגה בשם וקגטן בשם</quote>
-                  <quote rend="italic">Kaneh besem, and kinemon besem.</quote>
+                  <quote xml:lang="he" rend="italic">Kaneh besem, and kinemon besem.</quote>
                </p>
                <p>This is rendered in the Septuagint version,                 <!-- are we marking versions of the Bible? -->
                   <quote xml:lang="grc">Κινναμωμον ευωες και καλαμος ευωδες και καλαμος ευωδης.</quote>
@@ -4835,54 +4836,54 @@
                <p>The <rs type="properAdjective">Latin</rs> versions in the Polyglott have it,
                   <quote xml:lang="la" rend="italic">Cinnamomum odoriferum, et calamus odoriferus.</quote>
                </p>
-               <p>In our <rs type="properAdjective">English</rs> Bible it is, <quote rend="quotes">sweet cinnamon
-                  and <distinct rend="italic">sweet calamus</distinct>.</quote>
+               <p>In our <rs type="properAdjective">English</rs> Bible it is, <quote rend="quotes"><ecda:food ana="#flora">sweet cinnamon</ecda:food>
+                  and <ecda:flora><distinct rend="italic">sweet calamus</distinct></ecda:flora>.</quote>
                </p>
-               <p>In some of the <rs type="properAdjective">Latin</rs> the <distinct xml:lang="he" type="dialect" rend="upright">קגה בשם</distinct>
-                  is rendered <distinct type="dialect" rend="italic">calamus beneolens</distinct>, and <distinct type="dialect" rend="italic">
-                  aromaticus.</distinct>
+               <p>In some of the <rs type="properAdjective">Latin</rs> the <distinct xml:lang="he">קגה בשם</distinct>
+                  is rendered <ecda:flora><distinct xml:lang="la" rend="italic">calamus beneolens</distinct></ecda:flora>, and <ecda:flora><distinct xml:lang="la" rend="italic">
+                  aromaticus</distinct></ecda:flora>.
                </p>
-               <p>Again, in the <title>Canticles</title>, both <distinct type="dialect" rend="italic">kaneh</distinct> and
-                  cinnamon are mentioned, as distinct articles
+               <p>Again, in the <title>Canticles</title>, both <ecda:flora><distinct xml:lang="he" rend="italic">kaneh</distinct></ecda:flora> and
+                  <ecda:flora ana="#flora">cinnamon</ecda:flora> are mentioned, as distinct articles:
                   <quote xml:lang="he">קגה וקגמון</quote>
                   <quote xml:lang="grc">Καλαμος και κινναμωμον</quote>
                </p>
-               <p>The <rs type="properAdjective">Latin</rs> versions have this, <distinct type="dialect" rend="italic">calamus 
-                  aromaticus et cinnamomum</distinct>; and <distinct type="dialect" rend="italic">fistula et
-                     cinnamomum:</distinct> <distinct type="dialect" xml:lang="he" rend="upright">קוה</distinct> <distinct type="dialect" rend="italic">canna</distinct> in one version
-                  of the Polyglott, as it is by <persName ref="#benito_arias_montano_1527">Montanus</persName>, Our
+               <p>The <rs type="properAdjective">Latin</rs> versions have this, <quote  rend="italic">calamus 
+                  aromaticus et cinnamomum</quote>; and <quote rend="italic">fistula et
+                     cinnamomum:</quote> <distinct xml:lang="he">קוה</distinct> <distinct xml:lang="la" rend="italic">canna</distinct> in one version
+                  of the Polyglott, as it is by <persName ref="#benito_arias_montano_1527">Montanus</persName>. Our
                   
                   <pb/>
                   <fw type="pageNum">129</fw>
                   
-                  <rs type="properAdjective">English</rs> Bible has it <quote rend="quotes">calamus and
-                  cinnamon.</quote>
+                  <rs type="properAdjective">English</rs> Bible has it <quote rend="quotes"><ecda:flora>calamus</ecda:flora> and
+                  <ecda:food ana="#flora">cinnamon</ecda:food>.</quote>
                </p>
-               <p>In <title rend="italic">Isaiah</title>, this <distinct type="dialect" rend="italic">kaneh</distinct> appears to be highly
+               <p>In <title rend="italic"><persName ref="#isaiah_0001">Isaiah</persName></title>, this <ecda:flora xml:lang="he" rend="italic">kaneh</ecda:flora> appears to be highly
                   grateful to God, who is represented by him as
                   being angry with the <name>Israelites</name>, for neglecting
                   their burnt offerings and sacrifices.
                   <quote xml:lang="he">לא קגיה לי בבםת קגה</quote>
                </p>
                <p>In our <rs type="properAdjective">English</rs> Bible this passage is,—
-                  <quote rend="quotes">Thou hast bought me no <distinct type="dialect" rend="italic">sweet cane</distinct> with
+                  <quote rend="quotes">Thou hast bought me no <ecda:flora rend="italic">sweet cane</ecda:flora> with
                   money.</quote>
                </p>
                <p>This is the passage which has misled so
-                  many people; from <distinct type="dialect" rend="italic">kaneh</distinct> being erroneously
-                  rendered <distinct type="dialect" rend="italic">sweet cane</distinct>.
+                  many people; from <ecda:flora><distinct xml:lang="he" rend="italic">kaneh</distinct></ecda:flora> being erroneously
+                  rendered <ecda:flora><distinct rend="italic">sweet cane</distinct></ecda:flora>. 
                </p>
-               <p><title rend="italic">Jeremiah</title> represents God, as being angry
+               <p><title rend="italic"><persName ref="#jeremiah_0001">Jeremiah</persName></title> represents God, as being angry
                   with the <name>Israelites</name>; and will not receive their
                   burnt offerings, and sacrifices. Here also the
-                  <distinct type="dialect" rend="italic">kaneh</distinct> is mentioned by God, as an article of
+                  <ecda:flora xml:lang="he" rend="italic">kaneh</ecda:flora> is mentioned by God, as an article of
                   the first consideration.
                   <quote xml:lang="he">זקגה הטוב טאדץ טדהק</quote>
                </p>
                <p>The whole verse is thus rendered in the
                   <rs type="properAdjective">English</rs> Bible.
                   <quote rend="block">To what purpose cometh there to me 
-                  incense from <placeName>Sheba</placeName>? <emph>end the sweet calamus
+                  incense from <placeName>Sheba</placeName>? <emph>and the <ecda:flora>sweet calamus</ecda:flora>
                   from a far country?</emph> Your burnt offerings are
                   not acceptable to me, nor your sacrifices sweet
                   unto me.</quote>
@@ -4892,18 +4893,18 @@
                <fw type="pageNum">130</fw>
                
                <p>The Septuagint has the part of the verse I
-                  have quoted from the <name>Hebrew</name>, <distinct xml:lang="grc" type="dialect" rend="upright">κινναμωμον</distinct>
-                  <quote rend="italic"><hi rend="upright"><distinct rend="smallcaps">Cinnamon</distinct></hi> from a far country</quote>. In
+                  have quoted from the <name>Hebrew</name>, <distinct xml:lang="grc">κινναμωμον</distinct>
+                  <quote rend="italic"><ecda:flora><distinct rend="smallcaps">Cinnamon</distinct></ecda:flora> from a far country</quote>. In
                   the <rs type="properAdjective">Latin</rs> versions it is rendered <quote xml:lang="la" rend="italic">calamus
                   suaveolens de terra longinqua</quote>; and <quote xml:lang="la" rend="italic">cinnamomum de
                   terra longinqua</quote>; and <quote xml:lang="la" rend="italic">calamus aromaticus de terra
                   longinqua.</quote>
                </p>
                <p>It is necessary to observe here, that, in the 
-                  Septuagint, <distinct type="dialect" xml:lang="he" rend="upright">קגה</distinct> is converted into <distinct xml:lang="grc" type="dialect" rend="upright">κινναμωμον</distinct>,
-                  <distinct type="dialect" rend="italic">cinnamon</distinct>; which word is not the original
-                  text; and the epithet <distinct type="dialect" xml:lang="he" rend="upright">טוב</distinct> <distinct type="dialect" rend="italic">tub</distinct>, good, perfect,
-                  best, is entirely omitted.
+                  Septuagint, <distinct xml:lang="he">קגה</distinct> is converted into <distinct xml:lang="grc">κινναμωμον</distinct>,
+                  <ecda:flora><gloss rend="italic">cinnamon</gloss></ecda:flora>; which word is not the original
+                  text; and the epithet <distinct xml:lang="he">טוב</distinct> <distinct xml:lang="he">tub</distinct>, <gloss>good, perfect,
+                  best</gloss>, is entirely omitted.
                </p>
                <p>These are errors in the labours of those great
                   men, who first took the <rs type="properAdjective">Hebrew</rs> Bible out of
@@ -4911,31 +4912,31 @@
                   known of it to posterity.
                </p>
                <p>But these errors have led some writers, who
-                  knew no more of <distinct xml:lang="he" type="dialect" rend="upright">קגה</distinct> than what they obtained
+                  knew no more of <distinct xml:lang="he">קגה</distinct> than what they obtained
                   from this passage in the Bible, to suppose it
-                  was a synonyme for cinnamon.
+                  was a synonyme for <ecda:flora>cinnamon</ecda:flora>.
                </p>
-               <p>In <title rend="italic">Ezekiel</title>, we find the <distinct type="dialect" rend="italic">kaneh</distinct> enumerated
+               <p>In <title rend="italic">Ezekiel</title>, we find the <ecda:commodity ana="#flora" xml:lang="he" rend="italic">kaneh</ecda:commodity> enumerated
                   by God, among the boasted commodities of
                   merchandize at <placeName>Tyre</placeName>, in her most flourishing
                   state of commerce.
                   <quote xml:lang="he">קדה וקגה בטעדבך היה׃</quote>
-                  <quote rend="quotes">Cassia and <distinct rend="italic">calamus</distinct> were in thy market.</quote>
+                  <quote rend="quotes"><ecda:commodity ana="#flora">Cassia</ecda:commodity> and <ecda:commodity ana="#flora" xml:lang="he" rend="italic">calamus</ecda:commodity> were in thy market.</quote>
                </p>
                
                <pb/>
                <fw type="pageNum">131</fw>
                
-               <p>In <title rend="italic">Exodus</title>, <distinct type="dialect" rend="italic">kaneh</distinct> is mentioned by <persName ref="#moses_0001">Moses</persName> as
+               <p>In <title rend="italic">Exodus</title>, <ecda:flora xml:lang="he" rend="italic">kaneh</ecda:flora> is mentioned by <persName ref="#moses_0001">Moses</persName> as
                   one of the four spices in the <distinct type="religious" rend="italic">Holy Anointing Oil</distinct>;
                   which, he says, God ordered him to make in
                   the following manner:
                </p>
                <p>
                   <quote rend="quotes">Take thou unto thee, principal spices of
-                  pure myrrh 500 shekels; sweet cinnamon and
-                  <distinct type="dialect" rend="italic">sweet calamus</distinct>, of each 250 shekels; cassia 500
-                  shekels; and of olive oil as <distinct type="dialect" rend="italic">hin</distinct>. And thou
+                  pure <ecda:flora>myrrh</ecda:flora> <measure>500 shekels</measure>; <ecda:flora>sweet cinnamon</ecda:flora> and
+                  <ecda:flora><distinct type="dialect" rend="italic">sweet calamus</distinct></ecda:flora>, of each <measure>250 shekels</measure>; <ecda:flora>cassia</ecda:flora> <measure>500
+                  shekels</measure>; and of <ecda:flora>olive oil</ecda:flora> an <measure><distinct xml:lang="he" rend="italic">hin</distinct></measure>. And thou
                   shalt make it an oil of Holy Ointment, to be
                   made an ointment compound, after the art of
                   the apothecary<anchor xml:id="a043" corresp="#n043"/>.</quote>
@@ -4946,11 +4947,11 @@
                   vessels, the candlesticks, the altar of incense,
                   the alter of burnt-offering, and the laver and
                   his foot, that they might be sacred; he was
-                  also ordered to anoint <persName ref="#aaron_0001">Aaron</persName> and his sons, and
+                  also ordered to anoint <persName ref="#aaron_0001">Aaron</persName> and <ecda:persGroup a-gender="male">his sons</ecda:persGroup>, and
                   consecrate them, that they might minister in
                   the priests office; and it was to be an <distinct type="religious" rend="italic">Holy
                   Anointing Oil</distinct> for the children of <name>Israel</name>
-                  throughout their generations
+                  throughout their generations.
                </p>
                <p><persName ref="#moses_0001">Moses</persName>, in this remarkable chapter, mentions
                   also the other composition, so venerated by the
@@ -4960,9 +4961,10 @@
                   <pb/>
                   <fw type="pageNum">132</fw>
                   
-                  following manner, for perfuming the Tabernacle.
-                  <quote rend="quotes">Take unto thee sweet spices, with
-                  pure frankincense, of each shall there be a like
+                  following manner, for perfuming the <name>Tabernacle</name>.
+                  <quote rend="quotes">Take unto thee sweet spices, <ecda:flora>stacte</ecda:flora>, and onycha,
+                   and <ecda:flora>galbanum</ecda:flora>; these sweet spices, with
+                  pure <ecda:flora>frankincense</ecda:flora>, of each shall there be a like
                   weight.</quote>
                </p>
                <p><quote rend="quotes">And thou shalt make it a perfume, or 
@@ -4983,9 +4985,9 @@
                </p>
                <p>They used them even in their beds:—
                   <quote xml:lang="he">גמהי טשבבי טד אהלים וקגטון׃</quote>
-                  <quote rend="quotes">I have perfumed my bed with myrrh,
-                  aloes, and cinnamon<anchor xml:id="a044" corresp="#n044"/>.</quote>
-               </p>
+                  <quote rend="quotes">I have perfumed my bed with <ecda:flora>myrrh</ecda:flora>,
+                  <ecda:flora>aloes</ecda:flora>, and <ecda:flora>cinnamon</ecda:flora><anchor xml:id="a044" corresp="#n044"/>.</quote>
+               </p> 
                <p>The ingredients they used were indeed
                   coarse, but wholesome. By fumigation and
                   
@@ -5007,11 +5009,11 @@
                   and was an excellent physician, that they have
                   profited so little by the several wise practices, as
                   well as precepts, in the Bible. The papistical
-                  <name>Christians</name>, it is true, burn frankincense in
+                  <name>Christians</name>, it is true, burn <ecda:flora>frankincense</ecda:flora> in
                   their churches; but it is chiefly near the altar,
                   where the priest only is benefited by it.
                </p>
-               <p>The <name>Christians</name> in <placeName>England</placeName> cleanse their
+               <p ana="#disease">The <name>Christians</name> in <placeName>England</placeName> cleanse their
                   houses and public places by water, heated air,
                   and ventilation; and hence it is we have to
                   lament, that often the best <name>Christians</name> die of
@@ -5020,7 +5022,8 @@
                <p>In <placeName>England</placeName> the <name>Christians</name> are much cleaner
                   than they used to be. They would now call
                   a man,—
-                  <quote rend="block">Misbeliever, cut-throat dog, and spit upon his gaberdine<anchor xml:id="a045" corresp="#n045"/>,</quote>
+                  
+                  <quote rend="quotes">Misbeliever, cut-throat <ecda:fauna>dog</ecda:fauna>, and spit upon his gaberdine<anchor xml:id="a045" corresp="#n045"/>,</quote>
                   
                   <pb/>
                   <fw type="pageNum">134</fw>
@@ -5030,33 +5033,33 @@
                   after the manner of the <name>Israelites</name>.
                </p>
                <p>But I must finish my observations on
-                  <distinct type="dialect" rend="italic">kaneh</distinct>.
+                  <ecda:flora xml:lang="he" rend="italic">kaneh</ecda:flora>.
                </p>
-               <p>What this <distinct xml:lang="he" type="dialect" rend="upright">קוה</distinct> was, I know not. It could 
-                  not be the <distinct rend="italic">acorus</distinct>, or the <distinct rend="italic">calamus aromaticus</distinct>; that
-                  was to plentiful to be so valued; and grew in 
+               <p>What this <distinct xml:lang="he">קוה</distinct> was, I know not. It could 
+                  not be the <ecda:flora><distinct rend="italic">acorus</distinct></ecda:flora>, or <ecda:flora><distinct xml:lang="la" type="scientific" rend="italic">calamus aromaticus</distinct></ecda:flora>; that
+                  was too plentiful to be so valued; and grew in 
                   <placeName>Syria</placeName>, <placeName>Arabia</placeName>, and the islands of the <name>Gentiles</name>,
                   and in all the swamps and marshes in the adjacent
                   countries to the land of <placeName>Israel</placeName>; and
-                  was not brought <distinct type="dialect" xml:lang="he" rend="upright">טאדץ טדהק</distinct> <quote rend="quotes">from a far
+                  was not brought <distinct xml:lang="he">טאדץ טדהק</distinct> <quote rend="quotes">from a far
                   country.</quote>
                </p>
-               <p>That the <distinct type="dialect" rend="italic">kaneh</distinct> was some spicey produce of
+               <p>That the <ecda:flora xml:lang="he" rend="italic">kaneh</ecda:flora> was some spicey produce of
                   a tree, concretion, bitumen, wood, bark, or
                   gum, is certain; and it is also certain that it
                   was not only aromatic, but precious, from the
                   epithets given to it, and from its uses among
                   the chosen people, and the estimation in which
-                  it s said to be holden by God.
+                  it is said to be holden by God.
                </p>
-               <p>The epithet <distinct xml:lang="he" type="dialect" rend="upright">בשם</distinct> imports <emph>spicey, sweet scented</emph>,
-                  not <emph>sweet tasted</emph>; therefore the sugar cane is
+               <p>The epithet <distinct xml:lang="he" type="dialect" rend="upright">בשם</distinct> imports <gloss rend="italic">spicey, sweet scented</gloss>,
+                  not <gloss rend="italic">sweet tasted</gloss>; therefore the <ecda:flora>sugar cane</ecda:flora> is
                   entirely out of the question.
                </p>
                <p>The <ecda:flora rend="italic">sugar cane</ecda:flora> does not yield a fragrant
                   smell, naturally or burnt. Neither will it keep
                   sound, when ripe, after it is cut; but will
-                  perish like the stalk of the cabbage-plant; and
+                  perish like the stalk of the <ecda:flora>cabbage-plant</ecda:flora>; and
                   
                   <pb/>
                   <fw type="pageNum">135</fw>
@@ -5064,7 +5067,7 @@
                   could not be preserved from rotting in a passage
                   <quote rend="quotes">from a far country<anchor xml:id="a046" corresp="#n046"/>.</quote>
                </p>
-               <p>How <distinct type="dialect" xml:lang="he" rend="upright">קוה</distinct> should have been rendered <distinct type="dialect" rend="italic">calamus</distinct>,
+               <p>How <distinct xml:lang="he">קוה</distinct> should have been rendered <distinct rend="italic">calamus</distinct>,
                   so universally as it has been, I cannot 
                   conceive.
                </p>
@@ -5077,66 +5080,66 @@
                   only instance where they were not so correct
                   as they should have been.
                </p>
-               <p>We find among the <rs type="properAdjective">Greek</rs> writers <distinct xml:lang="grc" type="dialect" rend="upright">καννα
-                  δοναξ</distinct> and <distinct type="dialect" xml:lang="he" rend="upright">καλαμος</distinct>; and among the <rs type="properAdjective">Roman</rs>
-                  writers <distinct type="dialect" rend="italic">canna</distinct>, <distinct type="dialect" rend="italic">arundo</distinct>, and <distinct type="dialect" rend="italic">calamus</distinct>;—but these
-                  names are used indiscriminately for a <distinct rend="italic">cane</distinct>, or
-                  a <distinct rend="italic">reed</distinct>.
+               <p>We find among the <rs type="properAdjective">Greek</rs> writers <distinct xml:lang="grc">καννα
+                  δοναξ</distinct> and <distinct xml:lang="grc">καλαμος</distinct>; and among the <rs type="properAdjective">Roman</rs>
+                  writers <distinct xml:lang="la" rend="italic">canna</distinct>, <distinct xml:lang="la" rend="italic">arundo</distinct>, and <distinct xml:lang="la" rend="italic">calamus</distinct>;—but these
+                  names are used indiscriminately for a <gloss rend="italic">cane</gloss>, or
+                  a <gloss rend="italic">reed</gloss>.
                </p>
                <p>This has been the cause frequently of 
                   misunderstanding these writers; where the
                   context has been inadequate to settle a precise and
                   determinate meaning.
                </p>
-               <p>The <distinct type="dialect" xml:lang="grc" rend="upright">γλυκοκαλμος</distinct>, in later times, of <persName ref="#nicholas_myrepsos_0001">Nicholas
+               <p>The <ecda:flora><distinct xml:lang="grc">γλυκοκαλμος</distinct></ecda:flora>, in later times, of <persName ref="#nicholas_myrepsos_0001">Nicholas
                   Myrepsus</persName>, which is translators have rendered
                   
                   <pb/>
                   <fw type="pageNum">136</fw>
                   
-                  <distinct type="dialect" rend="italic">dulcis calamus repurgatus</distinct>, is the pulp of the
-                  <distinct rend="italic">cassia fistula</distinct><anchor xml:id="a048" corresp="#n048"/>.
+                  <ecda:flora><distinct xml:lang="la" rend="italic">dulcis calamus repurgatus</distinct></ecda:flora>, is the pulp of the
+                  <ecda:flora xml:lang="la" rend="italic">cassia fistula</ecda:flora><anchor xml:id="a048" corresp="#n048"/>.
                </p>
                <p>It has been said, by some writers, that the
-                  word <distinct type="dialect" xml:lang="he" rend="upright">שבד</distinct> in the Bible has an allusion to
-                  sugar.
+                  word <distinct xml:lang="he">שבד</distinct> in the Bible has an allusion to
+                  <ecda:food>sugar</ecda:food>.
                </p>
-               <p>This word, like <distinct type="dialect" rend="italic">kaneh</distinct>, according to the
+               <p>This word, like <distinct xml:lang="he" rend="italic">kaneh</distinct>, according to the
                   construction of the <rs type="properAdjective">Hebrew</rs> language, has 
                   several significations; but none whatever that
-                  has any relation to sugar.
+                  has any relation to <ecda:food>sugar</ecda:food>.
                </p>
-               <p>As a verb <distinct type="dialect" xml:lang="he" rend="upright">שבד</distinct> <distinct rend="italic">shakar</distinct> or <distinct rend="italic">shacar</distinct>, imports to
-                  drink to excess, to be drunk; to hire for wages.
+               <p>As a verb <distinct xml:lang="he">שבד</distinct> <distinct xml:lang="he" rend="italic">shakar</distinct> or <distinct xml:lang="he" rend="italic">shacar</distinct>, imports <gloss>to
+                  drink to excess, to be drunk; to hire for wages</gloss>.
                </p>
                <p>As a noun, it forms various derivatives;
-                  but it is chiefly used for some exhilarating,
-                  strong, and intoxicating liquor. Our <rs type="properAdjective">English</rs>
+                  but it is chiefly used for <gloss>some exhilarating,
+                  strong, and intoxicating liquor</gloss>. Our <rs type="properAdjective">English</rs>
                   Bible every where denominates it, <quote rend="quotes">strong
                   drink.</quote>
                </p>
-               <p>The Septuagint renders it <distinct type="dialect" xml:lang="grc" rend="upright">σικορα</distinct><anchor xml:id="a049" corresp="#n049"/>, σικερα<anchor xml:id="a050" corresp="#n050"/>,
-                  the <rs type="properAdjective">Latin</rs> versions <distinct type="dialect" rend="italic">sechar</distinct>, <distinct type="dialect" rend="italic">sicera</distinct>.
+               <p>The Septuagint renders it <distinct xml:lang="grc">σικορα</distinct><anchor xml:id="a049" corresp="#n049"/>, <distinct xml:lang="grc">σικερα</distinct><anchor xml:id="a050" corresp="#n050"/>,
+                  the <rs type="properAdjective">Latin</rs> versions <distinct xml:lang="la" rend="italic">sechar</distinct>, <distinct xml:lang="la" rend="italic">sicera</distinct>.
                </p>
                <p><persName ref="#moses_0001">Moses</persName> says, God ordered him to proclaim
                   to the children of <placeName>Israel</placeName>, that <quote rend="quotes">when
                   either man or woman shall separate themselves
                   to a vow, a vow of a <name>Nazarite</name> he shall
-                  separate himself from wine, and <distinct type="dialect" xml:lang="he" rend="upright">שבד</distinct> <distinct rend="italic">(shecar) strong
-                  drink</distinct>; and shall drink no vinegar of wine, or
-                  vinegar of <distinct type="dialect" xml:lang="he" rend="upright">שבד</distinct> <distinct rend="italic">(shecar) strong drink</distinct>; neither
+                     separate himself from <ecda:food>wine</ecda:food>, and <ecda:food xml:lang="he">שבד</ecda:food> <gloss ana="#food" rend="italic">(<distinct xml:lang="he">shecar</distinct>) strong
+                  drink</gloss>; and shall drink no <ecda:food>vinegar of wine</ecda:food>, or
+                     <ecda:food>vinegar</ecda:food> of <ecda:food xml:lang="he">שבד</ecda:food> <gloss ana="#food" rend="italic">(<distinct xml:lang="he">shecar</distinct>) strong drink</gloss>; neither
                   
                   <pb/>
                   <fw type="pageNum">137</fw>
                   
-                  shall he drink any liquor of grapes, nor eat
-                  moist grapes, or dried<anchor xml:id="a051" corresp="#n051"/>.</quote>
+                  shall he drink any <ecda:food>liquor of grapes</ecda:food>, nor eat
+                  <ecda:food>moist grapes</ecda:food>, or <ecda:food>dried</ecda:food><anchor xml:id="a051" corresp="#n051"/>.</quote>
                </p>
                <p>The inspired prophet <persName ref="jeremiah_0001">Jeremiah</persName> says, God
                   gave him <quote rend="quotes">the cup of his fury;</quote> and that he
                   <quote rend="quotes">made all nations drink of it, to whom the
                   Lord had sent him;</quote> and he said unto them,
-                  <quote rend="quotes">drink ye, and be <distinct type="dialect" xml:lang="he" rend="upright">וְש֧בְדו</distinct> (<distinct type="dialect" rend="italic">veshikru</distinct>) drunken,
+                  <quote rend="quotes">drink ye, and be <distinct xml:lang="he">">וְש֧בְדו</distinct> (<distinct xml:lang="he" rend="italic">veshikru</distinct>) <gloss>drunken</gloss>,
                   and spue, and fall<anchor xml:id="a052" corresp="#n052"/>.</quote>
                </p>
                <p>These passages are here given, the original
@@ -5144,8 +5147,8 @@
                   Bible<anchor xml:id="a053" corresp="#n053"/>; which, though not an elegant, is a
                   faithful translation of the <name>Hebrew</name>.
                </p>
-               <p>What sottish liquor <distinct type="dialect" xml:lang="he" rend="upright">ׁשֵבׇד</distinct> <distinct rend="italic" type="dialect">shekar</distinct> was, no
-                  person knows. It was probably made from grain.
+               <p>What <ecda:food>sottish liquor</ecda:food> <ecda:food><distinct xml:lang="he">ׁשֵבׇד</distinct></ecda:food> <ecda:food><distinct xml:lang="he" type="dialect">shekar</distinct></ecda:food> was, no
+                  person knows. It was probably made from <ecda:food>grain</ecda:food>.
                </p>
                <p>The most wild and barbarous nations have
                   ever had the art of making intoxicating
@@ -5155,7 +5158,7 @@
             </div>
             <div>
                <p>The <ecda:flora>sugar cane</ecda:flora>, though indigenous to 
-                  latitudes within, and, and near the torrid zone, arrives
+                  latitudes within, and near the torrid zone, arrives
                   at excellence only in the hottest climate. But
                   much rain, or water, as well as sun, is necessary
                   to its maturity.
@@ -5169,20 +5172,20 @@
                   see how sparingly it is diffused through the
                   general productions of the earth; and how
                   little is collected from the wide range of 
-                  flowers, by the consummate skill of the laborious
-                  bee; or from roots, trees, fruit, and grain, by
+                  <ecda:flora>flowers</ecda:flora>, by the consummate skill of the laborious
+                  <ecda:fauna>bee</ecda:fauna>; or from <ecda:flora>roots, trees, fruit, and grain</ecda:flora>, by
                   the chemic art; we cannot but admire the
-                  partiality of Nature to the luscious <distinct rend="smallcaps">Cane</distinct>, her
+                  partiality of Nature to the luscious <ecda:flora rend="smallcaps">Cane</ecda:flora>, her
                   favourite offspring, the sublimest effort of
                   heat and light.
                </p>
-               <p>The proportion of <ecda:commodity>sugar</ecda:commodity> to the cane juice 
-                  depends on the quality of the cane<anchor xml:id="a054" corresp="#n054"/>. We
-                  consider a pound of sugar from a gallon of cane
+               <p>The proportion of <ecda:commodity ana="#food">sugar</ecda:commodity> to the cane juice 
+                  depends on the quality of the <ecda:flora>cane</ecda:flora><anchor xml:id="a054" corresp="#n054"/>. We
+                  consider a pound of <ecda:commodity ana="#food #production">sugar</ecda:commodity> from a gallon of cane
                   juice, as good yielding; and that an acre of
-                  land, giving three hogsheads of sugar of 14
-                  cwt. each, as ample produce. But for this
-                  quantity the soil must be good, and the canes
+                  land, giving <measure>three hogsheads</measure> of <ecda:commodity ana="#food #production">sugar</ecda:commodity> of <measure>14
+                  cwt.</measure> each, as ample produce. But for this
+                  quantity the soil must be good, and the <ecda:flora>canes</ecda:flora>
                   of the first year's cutting, and in perfection.
                </p>
                <p>In the process of refining <ecda:commodity ana="#refine">muscovado sugar</ecda:commodity>,
@@ -5200,7 +5203,7 @@
                      <cell>Double, and single refined sugar,</cell>
                      <cell>9</cell>
                      <cell>1</cell>
-                     <cell>5 5/10</cell>
+                     <cell>5 5/16</cell>
                   </row>
                   <row>
                      <cell>Piece ditto,</cell>
@@ -5237,7 +5240,7 @@
                <pb/>
                <fw type="pageNum">139</fw>
                
-               <p>That sugar is nutritious in the most eminent
+               <p>That <ecda:food>sugar</ecda:food> is nutritious in the most eminent
                   degree has been long known. It is the basis
                   of all vegetable nutrition.
                </p>
@@ -5245,21 +5248,21 @@
                   nutritious, in proportion to the saccharine principle
                   it contains. Nothing nourishes that is entirely
                   free from this saccharine principle; otherwise,
-                  turnips would be as little nitritive as <ecda:food ana="#flora">cucumbers</ecda:food>,
-                  being, like them, the sugar excepted,
+                  <ecda:food ana="#flora">turnips</ecda:food> would be as little nutritive as <ecda:food ana="#flora">cucumbers</ecda:food>,
+                  being, like them, the <ecda:flora>sugar</ecda:flora> excepted,
                   scarcely any thing but water.
                </p>
                <p><ecda:food>Milk</ecda:food> is nutritious on the same account; and
-                  that milk is most nutritious which most abounds
-                  with saccharine sweetness; and when milk is
+                  that <ecda:food>milk</ecda:food> is most nutritious which most abounds
+                  with saccharine sweetness; and when <ecda:food>milk</ecda:food> is
                   defective in this quality, from bad pasturage
-                  and other causes, our vegetable sugar should
+                  and other causes, our <ecda:food ana="#flora">vegetable sugar</ecda:food> should
                   be added to it, to remedy such defect.
                </p>
-               <p>In all cases sugar helps the assimilation of
-                  milk in the stomach; and not only prevents 
+               <p>In all cases <ecda:food>sugar</ecda:food> helps the assimilation of
+                  <ecda:food>milk</ecda:food> in the stomach; and not only prevents 
                   its curdling, and disordering that organ, but
-                  corrects the tendency which milk has to injure
+                  corrects the tendency which <ecda:food>milk</ecda:food> has to injure
                   the breath, by adhering to the teeth and
                   gums, and rendering them foul and offensive.
                </p>
@@ -5268,7 +5271,7 @@
                   the sustenance of most young people, a toothbrush
                   and water should always be employed;
                   or at least the mouth should be well rinced
-                  with water, after a meal made of milk.
+                  with water, after a meal made of <ecda:food>milk</ecda:food>.
                </p>
                
                <pb/>
@@ -5276,118 +5279,118 @@
                
                <p>No modern physicians have noticed this;
                   but the ancients were well acquainted with the
-                  injurious effects of milk, on the teeth and 
+                  injurious effects of <ecda:food>milk</ecda:food>, on the teeth and 
                   gums<anchor xml:id="a055" corresp="#n055"/>.
                </p>
-               <p>In regard to sugar being prejudicial to the
+               <p>In regard to <ecda:food>sugar</ecda:food> being prejudicial to the
                   teeth, this has long been known as a prudent
                   old woman's bug-bear, to frighten children;
                   that they might not follow their natural
                   inclination, by seizing opportunities, when they 
-                  are not watched, of devouring all the sugar 
+                  are not watched, of devouring all the <ecda:food>sugar</ecda:food> 
                   they can find.
                </p>
                <p>This story has had a good effect among the
-                  common people in Scotland. They are impressed 
+                  common people in <placeName>Scotland</placeName>. They are impressed 
                   with a notion that <soCalled rend="italic">sweeties</soCalled> hurt the
                   teeth; therefore they live contented without
                   an article, not always within the compass of
                   their finances.
                </p>
-               <p><persName ref="#frederick_slare_1647">Slare</persName>, and many others, used sugar as a
+               <p><persName ref="#frederick_slare_1647">Slare</persName>, and many others, used <ecda:flora>sugar</ecda:flora> as a
                   principal ingredient in tooth powders. It is
                   a component part of many pastes, and other
                   
                   <pb/>
                   <fw type="pageNum">141</fw>
                   
-                  dentrifices; and what the <name>French</name> call <distinct type="dialect" rend="italic">opiates</distinct>,
+                  dentrifices; and what the <name>French</name> call <distinct xml:lang="fr" rend="italic">opiates</distinct>,
                   for the preservation of the teeth and gums.
                </p>
-               <p>When milk is not the sole diet of children
-                  at their mother's breast, sugar, in various 
+               <p>When <ecda:food>milk</ecda:food> is not the sole diet of children
+                  at their mother's breast, <ecda:food>sugar</ecda:food>, in various 
                   mixtures and vehicles, makes the chief portion,
                   essentially, of their support.
                </p>
-               <p><ecda:commodity>Sugar</ecda:commodity> affords great nourishment, without
+               <p><ecda:food>Sugar</ecda:food> affords great nourishment, without
                   oppressing their tender powers of digestion.
                   The nutritive principle of their natural food
                   is thus happily imitated.
                </p>
-               <p><ecda:commodity>Sugar</ecda:commodity> does not create worms in children,
+               <p><ecda:food>Sugar</ecda:food> does not create worms in children,
                   as has been often said: on the contrary, it
                   destroys worms. Some writers have mentioned
                   this<anchor xml:id="a056" corresp="#n056"/>; but my authority is my own observation.
                </p>
-               <p>In the <placeName>West Indies</placeName>, the negro children, from
+               <p ana="#disease">In the <placeName>West Indies</placeName>, the negro children, from
                   crude vegetable diet, are much afflicted with
-                  worms. In crop-time, when the canes are
+                  worms. In crop-time, when the <ecda:flora ana="#food #medical">canes</ecda:flora> are
                   ripe, these children are always sucking them.
-                  Give a negro infant a piece of sugar cane to
-                  suck, and the impoverished milk of his mother
+                  Give a negro infant a piece of <ecda:flora ana="#food #medical">sugar cane</ecda:flora> to
+                  suck, and the impoverished <ecda:food>milk</ecda:food> of his mother
                   is tasteless to him. This salubrious luxury
                   soon changes his appearance. Worms are 
                   discharged; his enlarged belly and joints
                   diminish; his emaciated limbs increase; and, if
-                  canes were always ripe, he would never be
+                  <ecda:flora ana="#food #medical">canes</ecda:flora> were always ripe, he would never be
                   diseased.
                </p>
-               
+             
                <pb/>
                <fw type="pageNum">142</fw>
                
                <p>I have often seen old, scabby, wasted
                   negroes, crawl from the <distinct type="agricultural" rend="italic">hot houses</distinct>, apparently
-                  half dead, in crop-time; and by sucking canes
+                  half dead, in crop-time; and by sucking <ecda:flora ana="#food">canes</ecda:flora>
                   all day long, they have soon become strong,
                   fat and sleaky.
                </p>
-               <p>The restorative power of sugar, in wasted
+               <p ana="#medical">The restorative power of <ecda:food>sugar</ecda:food>, in wasted
                   and decayed habits, is recorded by several
                   physicians, in different parts of the world. I
                   have known many people, far advanced in
                   pulmonary consumption, recovered by the 
-                  juice of the sugar cane.
+                  juice of the <ecda:flora ana="#food">sugar cane</ecda:flora>.
                </p>
-               <p><persName ref="#benito_arias_montano_1527">Fontanus</persName>, <persName ref="#francisco_valeriola_1504">Valeriola</persName>, and <persName ref="#petrus_forestus_1521">Forrestus</persName>, 
+               <p ana="#medical"><persName ref="#benito_arias_montano_1527">Fontanus</persName>, <persName ref="#francisco_valeriola_1504">Valeriola</persName>, and <persName ref="#petrus_forestus_1521">Forrestus</persName>, 
                   assert that they had patients cured of consumptions
                   of the lungs by a continued use of the
                   <distinct type="scientific" rend="italic">conserve of roses</distinct>; and <persName ref="#lazare_riviere_1589">Reverius</persName> knew an
-                  apothecary who cured himself of a confirmed
-                  consumption by almost living on the conserve of
-                  roses. <seg ana="#medical">Foreign journals are full of histories of
-                  consumptions cured by this medicine</seg>.
+                  <ecda:anonPers a-gender="male" a-occupation="apothecary">apothecary</ecda:anonPers> who cured himself of a confirmed
+                  consumption by almost living on the <ecda:food ana="#flora">conserve of
+                  roses</ecda:food>. Foreign journals are full of histories of
+                  consumptions cured by this medicine.
                </p>
                <p>There are instances where people have
                   scarcely taken any other nutriment than
-                  conserve of roses. Some have eaten a pound, and
+                  <ecda:food ana="#flora">conserve of roses</ecda:food>. Some have eaten a pound, and
                   a pound and a half, of this conserve every
-                  day:—<emph>three fourths of this conserve are sugar.</emph>
+                  day:—<emph>three fourths of this <ecda:food ana="#flora">conserve</ecda:food> are <ecda:food>sugar</ecda:food></emph>.
                </p>
                <p>The virtues of <ecda:commodity>sugar</ecda:commodity> are not confined to its
                   nutritive and balsamic qualities. It resists 
-                  putrefaction, and preserves all substances,—flesh,
-                  fruits, vegetables,—from corruption.
+                  putrefaction, and preserves all substances,—<ecda:food ana="#fauna">flesh</ecda:food>,
+                  <ecda:food ana="#flora">fruits</ecda:food>, <ecda:food ana="#flora">vegetables</ecda:food>,—from corruption.
                </p>
                
                <pb/>
                <fw type="pageNum">143</fw>
                
                <p>It has a great solvent power; and helps the
-                  solution of fat oily, and incongruous foods
-                  and mixtures. It promotes their <!-- del --> maceration
+                  solution of fat, oily, and incongruous foods
+                  and mixtures. It promotes their  maceration
                   and digestion in the stomach; and qualifies
                   the effects of digestion, to the powers of the
                   lacteals<anchor xml:id="a057" corresp="#n057"/>.
                </p>
-               <p>For this reason, sugar is much used in foreign
+               <p>For this reason, <ecda:food>sugar</ecda:food> is much used in foreign
                   cookery, and so much introduced at the tables
                   of the luxurious in <placeName>France</placeName>, and also in
                   <placeName>Italy</placeName>, <placeName>Portugal</placeName>, <placeName>Spain</placeName>,—and indeed in every
-                  country, excepting <placeName>England</placeName>, in confections,
-                  preserves, sweetmeats, and liqueurs<anchor xml:id="a058" corresp="#n058"/>.
+                  country, excepting <placeName>England</placeName>, in <ecda:food>confections</ecda:food>,
+                  <ecda:food>preserves</ecda:food>, <ecda:food>sweetmeats</ecda:food>, and <ecda:food>liqueurs</ecda:food><anchor xml:id="a058" corresp="#n058"/>.
                </p>
-               <p>Sugar, in the form of syrup is an admirable
+               <p ana="#medical">Sugar, in the form of syrup is an admirable
                   vehicle, to comminute and convey to the
                   
                   <pb/>
@@ -5396,7 +5399,7 @@
                   internal absorbing vessels, any alternative,
                   mineral, or vegetable medicine.
                </p>
-               <p>By its <sic>miserable</sic> <!-- hand?? --> property, it diffuses minutely
+               <p ana="#medical">By its <sic>miserable</sic> <!-- hand?? --> property, it diffuses minutely
                   any preparation it may hold in solution, or
                   union, on the surface of the stomach and 
                   intestines; and subjects it to the capacity of the
@@ -5406,11 +5409,11 @@
                   and made into a common syrup with water,
                   and disguised, and perhaps somewhat improved
                   by vegetable additions, has performed many
-                  cured in diseases, from impoverished blood,
+                  cures in diseases, from impoverished blood,
                   rickets, and scrophula, that have baffled the
                   most skilful physicians; and empiricks have
                   accordingly availed themselves of what they
-                  term ptisans, and medicated syrups.
+                  term <distinct>ptisans</distinct>, and <distinct>medicated syrups</distinct>.
                </p>
                <p>The balsamic and fattening properties of <ecda:commodity>sugar</ecda:commodity>
                   are more prominently visible in all parts of the
@@ -5424,17 +5427,17 @@
                </p>
                <p>In his <title>History of the West Indies</title>, he has
                   drawn a faithful representation of a plantation,
-                  in the season of making <ecda:commodity>sugar</ecda:commodity><anchor xml:id="a059" corresp="#n059"/>.
+                  in the season of making <ecda:commodity ana="#production">sugar</ecda:commodity><anchor xml:id="a059" corresp="#n059"/>.
                </p>
                
                <pb/>
                <fw type="pageNum">145</fw>
                
                <p>He says,—<quote rend="quotes">so palatable, salutary, and
-                  nourishing is the juice of the cane, that every
+                  nourishing is the juice of the <ecda:flora ana="#food">cane</ecda:flora>, that every
                   individual of the animal creation, drinking
                   freely of it, derives health and vigour from its
-                  use. The meagre and sickly among the <name>negroes</name>
+                  use. The meagre and sickly among the negroes
                   exhibit a surprising alteration in a few 
                   weeks, after the mill is set in action. The
                   labouring <ecda:flora>horses</ecda:flora>, <ecda:flora>oxen</ecda:flora>, and <ecda:flora>mules</ecda:flora>, though
@@ -5445,7 +5448,7 @@
                   more than at any other period of the year<anchor xml:id="a060" corresp="#n060"/>.</quote>
                </p>
                <p ana="#medical">It must be observed, that <ecda:commodity>muscovado</ecda:commodity>, or
-                  what is called mosit sugar, is laxative; and
+                  what is called moist sugar, is laxative; and
                   that, in using the juice of the cane, either
                   as a luxury or a medicine, this also is of a
                   laxative nature, particularly with people 
@@ -5463,26 +5466,26 @@
                   <fw type="pageNum">146</fw>
                   
                   only in medicine; that it was then preferred
-                  to honey, and in process of time almost entirely
-                  supplanted honey; the sweet, which had
+                  to <ecda:food>honey</ecda:food>, and in process of time almost entirely
+                  supplanted <ecda:food>honey</ecda:food>; the sweet, which had
                   been in use among mankind, coeval with 
                   natural history.
                </p>
                <p>The superiority of sugar would soon be
                   discovered by observing physicians, as being
                   exempt from the uncertain, and sometimes
-                  dangerous effects of honey.
+                  dangerous effects of <ecda:food>honey</ecda:food>.
                </p>
                <p ana="#medical #poison">There are many people whom a tea-spoonful
-                  of honey will disorder. In some habits,
+                  of <ecda:food>honey</ecda:food> will disorder. In some habits,
                   even that quantity will cause violent pains in
                   the stomach and bowels; and will act as an
                   emetic, or cathartic, or as both. In others,
                   honey will cause erysipelas, nettle rash, 
                   itching, and occasion such deleterious effects,
-                  as are produced by some vegetable <distinct rend="italic">fungi</distinct>;
-                  some kinds of fishes, muscles, and poisonous
-                  plants.
+                  as are produced by some <ecda:flora ana="#food">vegetable <distinct rend="italic">fungi</distinct></ecda:flora>;
+                  some kinds of <ecda:fauna ana="#food">fishes</ecda:fauna>, <ecda:fauna ana="#food">muscles</ecda:fauna>, and <ecda:flora ana="#poison">poisonous
+                  plants</ecda:flora>.
                </p>
                <p>Medical men who have travelled, or read,
                   or have had much experience, know what
@@ -5501,21 +5504,21 @@
                   after vomiting of blood, and convulsions.
                </p>
                <p>The cause of what is considered as the poison
-                  of muscles, is generally supposed to arise
+                  of <ecda:food ana="#food #poison">muscles</ecda:food>, is generally supposed to arise
                   from some malignant quality inherent in the 
                   fish itself; according to the place where it is
                   found, and particular seasons. Some suppose
-                  the poison consists in a kind of <distinct type="scientific" rend="italic">stella marina</distinct>, a
-                  sea insect, frequently found in <ecda:food>muscles</ecda:food>; whose 
+                  the poison consists in a kind of <ecda:fauna><distinct type="scientific" rend="italic">stella marina</distinct></ecda:fauna>, a
+                  sea insect, frequently found in <ecda:food ana="#fauna">muscles</ecda:food>; whose 
                   spawn is very corrosive, and when applied to
                   the skin excoriates it.
                </p>
                <p>But the real cause is, in the indigestible 
-                  property of a part of the <ecda:food>muscle</ecda:food>, which should
+                  property of a part of the <ecda:food ana="#fauna">muscle</ecda:food>, which should
                   never be eaten; and without which, muscles
                   are innocent and nutritive.
                </p>
-               <p>The noxious part of the <ecda:food>muscles</ecda:food> is in the hard
+               <p>The noxious part of the <ecda:food ana="#fauna">muscles</ecda:food> is in the hard
                   threads, or wiry filaments, by which they fasten
                   themselves to one another; to the bottom of
                   ships; and to rocks, and stones; and, as if
@@ -5529,7 +5532,7 @@
                </p>
                <p>That <ecda:food ana="#poison">honey</ecda:food> should sometimes produce the
                   ill effects I have mentioned cannot create
-                  surprize; if we reflect that the bee distils from
+                  surprize; if we reflect that the <ecda:fauna>bee</ecda:fauna> distils from
                   
                   <pb/>
                   <fw type="pageNum">148</fw>
@@ -5538,15 +5541,15 @@
                   Nature; and that the quality of his manufacture
                   depends on the quality of his materials.
                </p>
-               <p>Hence it is that honey in different countries
+               <p>Hence it is that <ecda:food>honey</ecda:food> in different countries
                   differs so much in flavour, and consequently in
                   wholesomeness.
                </p>
                <p>They <ecda:food ana="#poison">honey</ecda:food> of some countries is poisonous to
                   everyone who makes use of it. <persName ref="#pompey_0106">Pompey</persName> lost
-                  three regiments in <placeName rend="italic">Pontus</placeName>, poisoned by honey<anchor xml:id="a061" corresp="#n061"/>;
+                  three regiments in <placeName rend="italic">Pontus</placeName>, poisoned by <ecda:food ana="#poison">honey</ecda:food><anchor xml:id="a061" corresp="#n061"/>;
                   and <persName ref="#pliny_0023">Pliny</persName> says, there is a district in that
-                  country, which yields honey that makes people
+                  country, which yields <ecda:food ana="#poison">honey</ecda:food> that makes people
                   mad who eat it.
                </p>
                <p>But the peculiar antipathy to <ecda:food>honey</ecda:food>, the
@@ -5560,7 +5563,7 @@
                   person who cannot touch honey with her finger</ecda:anonPers>,
                   without immediate nervous affections, and
                   cold sweats; and, what is still more extraordinary,
-                  the handling, and smelling bee's wax,
+                  the handling, and smelling <ecda:fauna>bee's</ecda:fauna> wax,
                   is accompanied with sensations of the same
                   tendency. <ecda:anonPers a-gender="male">Her son</ecda:anonPers>, a strong, healthy young
                   
@@ -5582,7 +5585,7 @@
                   and perish by convulsions, where no cause
                   is known or suspected!
                </p>
-               <p>Sudden illness not to be defined,—and sudden
+               <p ana="#disease">Sudden illness not to be defined,—and sudden
                   death, without any previous indisposition,
                   or traceable vestiges on dissection after death,
                   —are subjects on which little has been said,
@@ -5626,12 +5629,12 @@
                   constituting our daily food.
                </p>
                <p><persName ref="#francis_bacon_1561">Bacon</persName> says, <quote rend="quotes">all life hath a sympathy with
-                  <distinct rend="italic">salt</distinct><anchor xml:id="a062" corresp="#n062"/>.</quote> This is true, and the same may be
+                  <ecda:food rend="italic">salt</ecda:food><anchor xml:id="a062" corresp="#n062"/>.</quote> This is true, and the same may be
                   said of <ecda:food>sugar</ecda:food>. I have one instance of antipathy
-                  on record however, against salt<anchor xml:id="a063" corresp="#n063"/>; I know
+                  on record however, against <ecda:food>salt</ecda:food><anchor xml:id="a063" corresp="#n063"/>; I know
                   of none against <ecda:commodity>sugar</ecda:commodity>. But doubtless there are
-                  instances, where individuals dislike sugar: but
-                  I never knew an instance of sugar disagreeing
+                  instances, where individuals dislike <ecda:food>sugar</ecda:food>: but
+                  I never knew an instance of <ecda:food>sugar</ecda:food> disagreeing
                   with any person.
                </p>
                <p>This subject leads to an extensive field,
@@ -5650,7 +5653,7 @@
                   may keep a jealous eye on the operations of
                   any article of food, or medicine, which has
                   been known to produce injurious effects in
-                  habits, under the influence of Idiocracy.
+                  habits, under the influence of <name>Idiocracy</name>.
                </p>
                <p ana="#medical">Aged people, who have no teeth, and whose
                   digestive faculties are impaired, and as
@@ -5665,7 +5668,7 @@
                   found not only sufficient to sustain nature, but
                   has caused lean people to grow fat, and has
                   increased the vigour of their bodies. The late
-                  <ecda:anonPers a-gender="male" a-occupation="king" a-aig="sardinian">king of <placeName>Sardinia</placeName></ecda:anonPers> at a great quantity of <ecda:commodity ana="#food">sugar</ecda:commodity>
+                  <ecda:anonPers a-gender="male" a-occupation="king" a-aig="sardinian">king of <placeName>Sardinia</placeName></ecda:anonPers> ate a great quantity of <ecda:commodity ana="#food">sugar</ecda:commodity>
                   daily. He ate it by itself; without dissolving
                   it, or mixing it with anything. It was his
                   chief food. After his death, his body was
@@ -5690,7 +5693,7 @@
                   at which time his hair changed somewhat dark;
                   his old teeth came out, pushed away by young
                   ones; which continued so to do, until he had
-                  a new set of teeth compete. He lived easy,
+                  a new set of teeth complete. He lived easy,
                   and free from pain, or sickness, until his
                   hundredth year, when he died. He used <ecda:commodity ana="#food">sugar</ecda:commodity> to
                   a great degree in all his food, vegetable, and
@@ -5698,14 +5701,14 @@
                   meats.
                </p>
                <p><persName ref="#frederick_slare_1647">Slare</persName> says, he followed the practice of his
-                  grandfather; and used sugar in every thing he
+                  grandfather; and used <ecda:food>sugar</ecda:food> in every thing he
                   ate and drank: and in the sixty-seventh year 
                   of his age, all his teeth were sound, and firm,
                   and in their full number.
                </p>
                <p>I know <ecda:anonPers>a person</ecda:anonPers> at this time, about eighty
                   years old, who has lived for several years
-                  almost on sugar: and is as healthy and strong,
+                  almost on <ecda:food>sugar</ecda:food>: and is as healthy and strong,
                   
                   <pb/>
                   <fw type="pageNum">153</fw>
@@ -5713,30 +5716,30 @@
                   and as youthful in appearance, as most people
                   at fifty.
                </p>
-               <p>The cause of this fondness for sugar was an
+               <p>The cause of this fondness for <ecda:food>sugar</ecda:food> was an
                   accident that happened nearly twenty years
                   ago, which prevented the person for a considerable 
                   time, swallowing any thing but fluids,
-                  in which a portion of sugar was dissolved.
+                  in which a portion of <ecda:food>sugar</ecda:food> was dissolved.
                </p>
-               <p>The diet now consists of sugar, and the simple
+               <p>The diet now consists of <ecda:food>sugar</ecda:food>, and the simple
                   vehicles in which it is taken; these are
-                  <ecda:food>tea</ecda:food>, <ecda:food>milk</ecda:food>, <ecda:food>gruel</ecda:food>, <ecda:food>barley water</ecda:food>, <ecda:food>roasted, and
+                  <ecda:food>tea</ecda:food>, <ecda:food>milk</ecda:food>, <ecda:food>gruel</ecda:food>, <ecda:food>barley water</ecda:food>, <ecda:food ana="#flora">roasted, and
                   boiled apples</ecda:food>; and <ecda:food>beer</ecda:food>, generally for
                   supper.
                </p>
-               <p>Animal food is not necessary for the pleasurable
+               <p><ecda:food ana="#fauna">Animal food</ecda:food> is not necessary for the pleasurable
                   existence, and bodily health of man<anchor xml:id="a064" corresp="#n064"/>;
                   for the mental pleasure and health, perhaps quite
                   the contrary.
                </p>
-               <p>In the time of <persName ref="#pythagoras_0001">Pythagoras</persName><anchor xml:id="a065" corresp="#n065"/>, sugar was
+               <p>In the time of <persName ref="#pythagoras_0001">Pythagoras</persName><anchor xml:id="a065" corresp="#n065"/>, <ecda:commodity>sugar</ecda:commodity> was
                   unknown; even to this great traveller. Otherwise
                   his philosophy would have had more converts.
                   His diet was impracticable in most
                   countries, from bulk, carriage, and season.
                   There is more nourishment in a pound of
-                  sugar, than in a load of pulse, or vegetables.
+                  <ecda:food>sugar</ecda:food>, than in a load of <ecda:food ana="#flora">pulse</ecda:food>, or <ecda:food ana="#flora">vegetables</ecda:food>.
                </p>
                
                <pb/>
@@ -5751,7 +5754,7 @@
                   on his foundation, to the heights of truth;
                   by living according to the simplicity of nature,
                   and the dictates of reason; that their brutal
-                  hunter after the lives of God's creatures, and
+                  hunt after the lives of <ecda:fauna>God's creatures</ecda:fauna>, and
                   making a science of butchery, would stop;
                   and that the earth would cease to represent a
                   grazing ground, for slaughter; and its bloody
@@ -5759,16 +5762,16 @@
                </p>
                <!-- division here?? -->
                <p>Two centuries have not elapsed since it
-                  can be properly said, that <ecda:commodity>sugar</ecda:commodity> has become an
+                  can be properly said, that <ecda:commodity ana="#food">sugar</ecda:commodity> has become an
                   ingredient in the popular diet of <placeName>Europe</placeName>.
                </p>
                <p>There is now scarcely any person who does
                   not mix, more or less of it, in his daily food;
                   excepting the poor, remote inhabitants of the
                   interior, and northern parts of <placeName>Europe</placeName>; whose
-                  cold, water diet, most requires it.
+                  cold, watery diet, most requires it.
                </p>
-               <p>The increased consumption of <ecda:commodity>sugar</ecda:commodity>, and
+               <p>The increased consumption of <ecda:commodity ana="#food">sugar</ecda:commodity>, and
                   the increasing demand for it, exceeds all
                   comparison with any other article, used as an
                   
@@ -5776,7 +5779,7 @@
                   <fw type="pageNum">155</fw>
                   
                   auxiliary, in food: for, such is the influence of
-                  sugar, that one touching the nerves of taste,
+                  <ecda:food>sugar</ecda:food>, that once touching the nerves of taste,
                   no person was ever known to have the power
                   of relinquishing the desire for it.
                </p>
@@ -5792,72 +5795,72 @@
                   consumption for nearly a century, subsequent to
                   this period, was inconsiderable.
                </p>
-               <p><persName ref="#geoffrey_chaucer_1343">Chaucer</persName>, in his <title>Troilus and Cressida</title>,
+               <p><persName ref="#geoffrey_chaucer_1343">Chaucer</persName>, in his <title><persName ref="#troilus_0001">Troilus</persName> and <persName ref="#cressida_001">Cressida</persName></title>,
                   written in <date when="1380">1380</date>, mentions, allegorically, the
                   sweetness of <ecda:food>sugar</ecda:food><anchor xml:id="a067" corresp="#n067"/>.
                </p>
                <p>The importation of <ecda:commodity>sugar</ecda:commodity> into <placeName>England</placeName> in
-                  <date when="1700">1700</date> amounted to 481,425 hundred weight;
-                  or 48,142 hogsheads, at ten hundred weight
-                  each. The price was then thirty-two shillings
+                  <date when="1700">1700</date> amounted to <measure>481,425 hundred weight</measure>;
+                  or <measure>48,142 hogsheads</measure>, at <measure>ten hundred weight</measure>
+                  each. The price was then <measure ana="#commodity #currency">thirty-two shillings</measure>
                   the hundred weight.
                </p>
                <p>The importation into <placeName>England</placeName> and <placeName>Scotland</placeName>
                   on average, for <date when="1787">1787</date>, <date when="1788">1788</date>, <date when="1789">1789</date>, and <date when="1790">1790</date>,
-                  amounted anually to 1,952,262 hundred
-                  weight.
+                  amounted anually to <measure>1,952,262 hundred
+                  weight</measure>.
                </p>
                
                <pb/>
                <fw type="pageNum">156</fw>
                
                <p>The annual exportation during this period
-                  was, on average, 296,996 hundred weight;
+                  was, on average, <measure>296,996 hundred weight</measure>;
                   which leaves the annual consumption in <placeName>England</placeName>
-                  and <placeName>Scotland</placeName> 1,655,266 hundred weight;
-                  or 118,233 hogsheads, of 14 hundred
-                  weight each<anchor xml:id="a068" corresp="#n068"/>.
+                  and <placeName>Scotland</placeName> <measure>1,655,266 hundred weight</measure>;
+                  or <measure>118,233 hogsheads</measure>, of <measure>14 hundred
+                  weight</measure> each<anchor xml:id="a068" corresp="#n068"/>.
                </p>
-               <p>Thus we find 185,389,792 pounds of <ecda:food>sugar</ecda:food>
+               <p>Thus we find <measure>185,389,792 pounds</measure> of <ecda:food>sugar</ecda:food>
                   are annually consumed in <placeName>England</placeName> and
                   <placeName>Scotland</placeName>.
                </p>
                <p>But the proportion consumed in <placeName>Scotland</placeName> is
-                  small; not exceeding 12,000 hogsheads, or
-                  18,816,448 pounds. The consumption then in
-                  <placeName>England</placeName> only, is 166,573,344 pounds.
+                  small; not exceeding <measure>12,000 hogsheads</measure>, or
+                  <measure>18,816,448 pounds</measure>. The consumption then in
+                  <placeName>England</placeName> only, is <measure>166,573,344 pounds</measure>.
                </p>
                <p>Now taking the population of <placeName>England</placeName> at
-                  at 8,000,000, the proportion of sugar to each
+                  8,000,000, the proportion of sugar to each
                   individual, if each individual had his share,
-                  would be at twenty pounds per annum.
+                  would be at <measure>twenty pounds</measure> per annum.
                </p>
                <p>These calculations are made, reducing the
                   whole to <distinct rend="italic" type="agricultural">raw</distinct>, or <ecda:commodity><distinct rend="italic" type="agricultural">muscovado</distinct> sugar</ecda:commodity>.
                </p>
                <p>The consumption in <placeName>Ireland</placeName> is not in this
-                  calculation. <placeName>Ireland</placeName> consumes 20,000 
-                  hogsheads per annum.
+                  calculation. <placeName>Ireland</placeName> consumes <measure>20,000 
+                  hogsheads</measure> per annum.
                </p>
                <p><ecda:commodity>Sugar</ecda:commodity> is not an article of smuggling; and
-                  there were no prize-sugars at the above
+                  there were no <ecda:commodity>prize-sugars</ecda:commodity> at the above
                   period.
                </p>
                
                <pb/>
                <fw type="pageNum">157</fw>
                
-               <p>Before the Furies lighted their torches in <placeName rend="italic"><hi rend="upright">St</hi>.
+               <p>Before the <name>Furies</name> lighted their torches in <placeName rend="italic"><hi rend="upright">St</hi>.
                   Domingue</placeName>, that beautiful island, yielded, for the
-                  benefit of mankind, 200,000 hogsheads of
+                  benefit of mankind, <measure>200,000 hogsheads</measure> of
                   <ecda:commodity>sugar</ecda:commodity>.
                </p>
                <p>The importation then, into all <placeName>Europe</placeName>,
-                  from every part of the world, was about 500,000
-                  hogsheads.
+                  from every part of the world, was about <measure>500,000
+                  hogsheads</measure>.
                </p>
                <p>The <placeName>East Indies</placeName> have not given us a quantity
-                  exceeding 5,000 hogsheads <distinct rend="italic">per annum</distinct>. The
+                  exceeding <measure>5,000 hogsheads</measure> <distinct rend="italic">per annum</distinct>. The
                   <placeName>East Indies</placeName> cannot, I believe, spare much more
                   for the <rs type="properAdjective">English</rs> market, without further
                   expensive arrangements.
@@ -5885,7 +5888,7 @@
                <p>From the loss of <ecda:commodity>sugar</ecda:commodity>, many articles and
                   vegetable mixtures, which now constitute the
                   most agreeable and most wholesome parts of
-                  the food, particularly of youth and delicate
+                  the <ecda:food>food</ecda:food>, particularly of youth and delicate
                   people, would be useless; and for which we
                   have no salutary substitute.
                </p>
@@ -5920,7 +5923,7 @@
                <p>The formation of the body, and more of
                   the inclination of the mind than is generally
                   imagined, depend on the nature and quality
-                  of our food. This I had occasion formerly to
+                  of our <ecda:food>food</ecda:food>. This I had occasion formerly to
                   remark<anchor xml:id="a070" corresp="#n070"/>.
                </p>
                <p>Without resorting to the metamorphosis of
@@ -5938,7 +5941,7 @@
                </p>
                <p><placeName>Europe</placeName> is in a much better state of bodily
                   health than it was formerly. It has also undergone
-                  great changed in its mental condition; as
+                  great changes in its mental condition; as
                   all <placeName>Europe</placeName> feels. There is still some room for
                   improvement in both. But the latter is a
                   devious road from my object, which I must
@@ -5951,8 +5954,8 @@
                   acquainted—<placeName rend="smallcaps">Warwick Lane</placeName>.
                </p>
                <p ana="#medical">There are no distempers now in <placeName>Europe</placeName>
-                  ravaging and depopulating who countries;—
-                  and, I conceive, what our ancestors reprobated
+                  ravaging and depopulating whole countries;—
+                  and, I conceive, what our ancestors reprobated,
                   and dreaded the importation of so much,
                   under the appellation of luxuries, has had a
                   considerable share in this alteration.
@@ -6003,7 +6006,7 @@
                </p>
                <p>In commercial countries, where articles of 
                   foreign growth, and dissimilar climates enter
-                  into dietetic use, wit the generality of a people,
+                  into dietetic use, with the generality of a people,
                   it is impossible that the type of their 
                   diseases should remain stationary; or that some
                   will not appear, and others disappear, from
@@ -6027,7 +6030,7 @@
                   diseases in general. Accurate physicians know,
                   that fevers are continually disappointing them.
                </p>
-               <p>The science of medicine therefore has not
+               <p ana="#medical">The science of medicine therefore has not
                   improved,—it has changed: because diseases
                   change. It is to be remembered that <persName ref="#hippocrates_0460">Hippocrates</persName>,
                   <persName ref="#aulus_cornelius_celsus_0025">Celsus</persName>, and <persName ref="#galen_0129">Galen</persName>, knew all that
@@ -6053,11 +6056,11 @@
                <pb/>
                <fw type="pageNum">163</fw>
                
-               <p>The medical Pythonissas are divided in their
+               <p>The medical <name>Pythonissas</name> are divided in their
                   opinion respecting this phenomenon.
                </p>
                <p>Great events are foreboded.—Some pretend                 <!-- I don't know what to do with this -->
-                  that a restive <mcr>greasy-heeled horse</mcr> will kick
+                  that a restive <mcr>greasy-heeled <ecda:fauna>horse</ecda:fauna></mcr> will kick
                   down all the old gally-pots of <persName ref="#galen_0129">Galen</persName>—Others,
                   that the people of <placeName>England</placeName> are becoming like
                   the inhabitants of a wilderness, beyond the
@@ -6108,7 +6111,7 @@
                   Cow-pox, then, are not analogous; but
                   radically dissimilar.
                </p>
-               <p>The Small-pox is undoubtedly an evil; but
+               <p ana="#disease">The Small-pox is undoubtedly an evil; but
                   we understand the extent of that ill; which he
                   had better bear,
                   <quote rend="quotes">Than fly to others that we know not of.</quote>
@@ -6132,7 +6135,7 @@
                   experience, that disease, properly treated,
                   leaves nothing after it injurious to the 
                   constitution.
-               </p>
+               </p> <!-- start here -->
                <p ana="#medical">Can any person say what may be the 
                   consequences of introducing a <emph>bestial</emph> humour—
                   the Cow-pox, I hope, does not deserve the
