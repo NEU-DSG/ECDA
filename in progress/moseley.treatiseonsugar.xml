@@ -154,7 +154,7 @@
               <p><bibl><title>De Pulmonis et cæteris Thoracis Vitiis</title>, Lib. IV. Cap, 4.
                  Lib. V. cap. 1. cap. 2. cap. 4. cap. 5. cap. 8.</bibl> He likewise mentions
                  the sugar called <distinct type="dialect" xml:lang="la" rend="italic">penidii</distinct>, Lib. V. cap. 6 and 9.—this <distinct type="dialect" xml:lang="la" rend="italic">penidii</distinct>, or
-                 <distinct type="dialect" xml:lang="la" rend="italic">penidium saccharum</distinct>, is denominated by the <rs type="place">Greek</rs> writers <distinct type="dialect" xml:lang="grc" rend="upright"><unclear>ϖεγιδικ</unclear></distinct>.
+                 <distinct type="dialect" xml:lang="la" rend="italic">penidium saccharum</distinct>, is denominated by the <rs type="place">Greek</rs> writers <distinct type="dialect" xml:lang="grc"><unclear>ϖεγιδικ</unclear></distinct>.
               </p>
               <p>It is thought to have been a preparation of sugar, like what we
               call barley-sugar.
@@ -253,7 +253,7 @@
               <bibl><title>Exodus</title>, c.xxv. v.32.</bibl>
            </note>
            <note xml:id="n043" target="#a043">
-              <p><distinct type="dialect" xml:lang="he" rend="upright">ךוקה</distinct> an apothecary, or compounder of sweet ointments.</p>
+              <p><distinct type="dialect" xml:lang="he">ךוקה</distinct> an apothecary, or compounder of sweet ointments.</p>
            </note>
            <note xml:id="n044" target="#a044">
               <bibl><title rend="italic">Proverbs</title>, c. vii. v. 17. English Bible</bibl>
@@ -433,7 +433,7 @@
                     <p>Resolved, that, over and above the reward of one hundred 
                     pounds offered by his Majesty's proclamation for taking or killing
                     the rebellious negro called <persName ref="#three_fingered_jack_0001"><hi rend="mixed"><mcr>Three fingered</mcr></hi> Jack</persName>, the further reward
-                    of <distinct>Freedom</distinct> shall be given to any slave that shall take or kill the
+                    of <mcr rend="smallcaps">Freedom</mcr> shall be given to any slave that shall take or kill the
                     said <persName ref="#three_fingered_jack_0001"><hi rend="mixed"><mcr>Three fingered</mcr></hi> Jack</persName> and that the House will make good the
                     value of such slave to the proprietor thereof. And if any one of
                     his accomplices will kill the said <persName ref="#three_fingered_jack_0001"><hi rend="mixed"><mcr>Three fingered</mcr></hi> Jack</persName>, and bring in
@@ -441,7 +441,7 @@
                     <pb xml:id="pbn002" corresp="#pb002"/>
                        
                     his head, and hand wanting three fingers, such accomplice shall be
-                    entitled to his <emph>free</emph> <distinct rend="smallcaps">Pardon</distinct>, and his <distinct rend="smallcaps">Freedom</distinct>, as above, upon
+                    entitled to his <emph>free</emph> <mcr rend="smallcaps">Pardon</mcr>, and his <mcr rend="smallcaps">Freedom</mcr>, as above, upon
                     due proof being made of their being the head and hand of the said
                     <persName ref="#three_fingered_jack_0001"><hi rend="mixed"><mcr>Three fingered</mcr></hi> Jack</persName>.</p>
                     <closer>By the House,
@@ -1881,55 +1881,55 @@
             <head type="sub">Part the Second.</head>
             <table>
                <row>
-                  <cell xml:lang="grc"><distinct>Μελι καλαμινον</distinct>.</cell> <!--  I don't know what the best value is for @type here—agricultural?; should we encode the two tables consistently? this one has the @xml:lang on the cell itself -->
+                  <cell><distinct xml:lang="grc">Μελι καλαμινον</distinct>.</cell> 
                   <cell><persName ref="#theophrastus_0571">Theophrastus</persName></cell>
                </row>
                <row>
-                  <cell xml:lang="grc"><distinct>Σακχαρον</distinct>.</cell> 
+                  <cell><distinct xml:lang="grc">Σακχαρον</distinct>.</cell> 
                   <cell><persName ref="#pedanius_dioscorides_0040">Dioscorides</persName></cell>
                </row>
                <row>
-                  <cell xml:lang="grc"><distinct>Saccaron</distinct></cell>
+                  <cell><distinct xml:lang="grc">Saccaron</distinct></cell>
                   <cell><persName ref="#pliny_0023">Plinius</persName></cell>
                </row>
                <row>
-                  <cell xml:lang="grc"><distinct>Σακχαρι</distinct>. <distinct>Μελι καλαμινον</distinct>.</cell> 
+                  <cell><distinct xml:lang="grc">Σακχαρι</distinct>. <distinct>Μελι καλαμινον</distinct>.</cell> 
                   <cell><persName ref="#arrian_0086">Arrianus</persName></cell>
                </row>
                <row>
-                  <cell xml:lang="grc"><distinct>Σακχαρ</distinct>.</cell> 
+                  <cell><distinct xml:lang="grc">Σακχαρ</distinct>.</cell> 
                   <cell><persName ref="#galen_0129">Galenus</persName></cell>
                </row>
                <row>
-                  <cell xml:lang="grc"><distinct>Αλς Ινδικος</distinct>.</cell>
+                  <cell><distinct xml:lang="grc">Αλς Ινδικος</distinct>.</cell>
                   <cell><persName ref="#paul_of_aegina_0625">P. Ægineta</persName>, <distinct type="dialect" xml:lang="la" rend="italic">ab</distinct> <persName ref="#archigenes_0001">Archigenes</persName></cell>
                </row>
                <row>
-                  <cell xml:lang="la"><distinct>Saccharum</distinct>.</cell>
+                  <cell><distinct xml:lang="la">Saccharum</distinct>.</cell>
                   <cell><name rend="italic" xml:lang="la">Latinè</name></cell>
                </row>
                <row>
-                  <cell xml:lang="ar"><distinct>Zuchar</distinct>.</cell>
+                  <cell><distinct xml:lang="ar">Zuchar</distinct>.</cell>
                   <cell><name rend="italic" xml:lang="la">Arabicè</name></cell>
                </row>
                <row>
-                  <cell xml:lang="it"><distinct>Zuccharo</distinct>.</cell>
+                  <cell><distinct xml:lang="it">Zuccharo</distinct>.</cell>
                   <cell><name rend="italic" xml:lang="la">Italicè</name></cell>
                </row>
                <row>
-                  <cell xml:lang="es"><distinct>Açúcar</distinct>.</cell> 
+                  <cell><distinct xml:lang="es">Açúcar</distinct>.</cell> 
                   <cell><name rend="italic" xml:lang="la">Hispanicè</name></cell>
                </row>
                <row>
-                  <cell xml:lang="gl"><distinct>Sucre</distinct>.</cell> 
+                  <cell><distinct xml:lang="gl">Sucre</distinct>.</cell> 
                   <cell><name rend="italic" xml:lang="la">Gallicè</name></cell>
                </row>
                <row>
-                  <cell xml:lang="de"><distinct>Zúcker</distinct>.</cell> 
+                  <cell><distinct xml:lang="de">Zúcker</distinct>.</cell> 
                   <cell><name rend="italic" xml:lang="la">Germanicè</name></cell>
                </row>
                <row>
-                  <cell xml:lang="nl"><distinct>Suycker</distinct>.</cell>
+                  <cell><distinct xml:lang="nl">Suycker</distinct>.</cell>
                   <cell><name rend="italic" xml:lang="la">Belgicè</name></cell>
                </row>
             </table>
@@ -4008,7 +4008,7 @@
                   Hence, sugar and sweet things are said to create
                   bile.</quote>
                </p>
-               <p><quote rend="prequotes" xml:id="q052" next="#q053">From the <distinct xml:lang="la">saline spiculæ</distinct> of sugar, the bile
+               <p><quote rend="prequotes" xml:id="q052" next="#q053">From the <distinct type="scientific" xml:lang="la">saline spiculæ</distinct> of sugar, the bile
                   is rendered more acrid; from which an heat is 
                   not only kindled in the bowels, but also in the
                   whole body, and is carried into the mass of 
@@ -4546,7 +4546,7 @@
                      <fw type="pageNum">120</fw>
                      
                      matter. It crystallizes in hexahedral
-                     truncated prisms; and in this state is called <distinct>sugar-
+                     truncated prisms; and in this state is called <distinct type="scientific">sugar-
                      candy</distinct>. By distillation it affords an acid 
                      phlegm, and a few drops of empyreumatic
                      oil. The residue is a spungy light coal, which
@@ -4557,7 +4557,7 @@
                      brown yellow matter. It is very soluble in
                      water, to which it gives much consistence,
                      and constitutes a kind of mucilage, called
-                     <distinct>syrup</distinct>. Syrup diluted with water is capable
+                     <distinct type="scientific">syrup</distinct>. Syrup diluted with water is capable
                      of fermentation, and affords ardent spirit.
                   </p>
                   <p rend="prequotes"><persName ref="#torbern_bergman_1735">Bergman</persName> has obtained, from all saccharine
@@ -5413,7 +5413,7 @@
                   rickets, and scrophula, that have baffled the
                   most skilful physicians; and empiricks have
                   accordingly availed themselves of what they
-                  term <distinct>ptisans</distinct>, and <distinct>medicated syrups</distinct>.
+                  term <distinct type="scientific">ptisans</distinct>, and <distinct type="scientific">medicated syrups</distinct>.
                </p>
                <p>The balsamic and fattening properties of <ecda:commodity>sugar</ecda:commodity>
                   are more prominently visible in all parts of the
@@ -5483,7 +5483,7 @@
                   emetic, or cathartic, or as both. In others,
                   honey will cause erysipelas, nettle rash, 
                   itching, and occasion such deleterious effects,
-                  as are produced by some <ecda:flora ana="#food">vegetable <distinct rend="italic">fungi</distinct></ecda:flora>;
+                  as are produced by some <ecda:flora ana="#food">vegetable <mcr rend="italic">fungi</mcr></ecda:flora>;
                   some kinds of <ecda:fauna ana="#food">fishes</ecda:fauna>, <ecda:fauna ana="#food">muscles</ecda:fauna>, and <ecda:flora ana="#poison">poisonous
                   plants</ecda:flora>.
                </p>
@@ -5860,7 +5860,7 @@
                   hogsheads</measure>.
                </p>
                <p>The <placeName>East Indies</placeName> have not given us a quantity
-                  exceeding <measure>5,000 hogsheads</measure> <distinct rend="italic">per annum</distinct>. The
+                  exceeding <measure>5,000 hogsheads</measure> <distinct type="dialect" xml:lang="la" rend="italic">per annum</distinct>. The
                   <placeName>East Indies</placeName> cannot, I believe, spare much more
                   for the <rs type="properAdjective">English</rs> market, without further
                   expensive arrangements.
@@ -5902,7 +5902,7 @@
                   scurvy, perhaps the parent of scrophula and
                   consumption, disposes the system to the ravages
                   of fevers; and hence the great mortality in former
-                  times; when pestilential fevers and <distinct rend="italic">plagues</distinct>
+                  times; when pestilential fevers and <mcr rend="italic">plagues</mcr>
                   invaded the <name>English</name>, deeply infected by the
                   scurvy.
                </p>
@@ -6313,7 +6313,8 @@
                   being both cunning and strong.
                </p>
                
-               <milestone unit="unnumbered" ana="#obeah" spanTo="#ana001"/>
+               <floatingText type="subsection" ana="#obeah"><body>  <!-- thought: is <floatingText> too much of a lie about what's happening with this digression? it does have a rule at the end, though no marking at the begining -->
+                 <milestone unit="unnumbered" ana="#obeah" spanTo="#ana001"/>
                <p>Many of their wayward visitors were deeply
                   skilled in magic, and what we call the <distinct type="religious" rend="italic">black
                   art</distinct>, which they brought with them from
@@ -6333,7 +6334,7 @@
                   in mind, and by the malicious, for wicked
                   purposes.
                </p>
-               <p><name ana="#obeah" rend="smallcaps">Obi</name>, and <distinct rend="italic">gambling</distinct>, are the only instances I 
+               <p><name ana="#obeah" rend="smallcaps">Obi</name>, and <mcr rend="italic">gambling</mcr>, are the only instances I 
                   have been able to discover, among the natives
                   of the negro land in <placeName>Africa</placeName>, in which any
                   effort at combining ideas, has ever been
@@ -6580,8 +6581,8 @@
                   at the back of the cave.
                </p>
                <p><persName ref="#james_reeder_0001">Reeder's</persName> gun missed fire. <persName ref="#sam_grant_0001">Sam</persName> shot him
-                  in the shoulder. <persName ref="#james_reeder_0001">Reeder</persName>, like an <rs type="properAdjective">English</rs>
-                  bull-dog, never looked, but, with is cutlass 
+                  in the shoulder. <persName ref="#james_reeder_0001">Reeder</persName>, like an <ecda:fauna><rs type="properAdjective">English</rs>
+                  bull-dog</ecda:fauna>, never looked, but, with his cutlass 
                   in his hand, plunged headlong down after
                   <persName ref="#three_fingered_jack_0001">Jack</persName>. The descent was about thirty yards,
                   and almost perpendicular. Both of them
@@ -6620,7 +6621,7 @@
                <p><persName ref="#sam_grant_0001">Sam</persName> came up just time enough to save
                   <persName ref="#james_reeder_0001">Reeder</persName>; for, <persName ref="#three_fingered_jack_0001">Jack</persName> had caught him by the
                   throat, with his giant's grasp. <persName ref="#james_reeder_0001">Reeder</persName> then
-                  was with his right hand almost cut off, an
+                  was with his right hand almost cut off, and
                   <persName ref="#three_fingered_jack_0001">Jack</persName> streaming with blood from his shoulder
                   and belly; both covered with gore and gashes.
                </p>
@@ -6632,23 +6633,25 @@
                <pb/>
                <fw type="pageNum">180</fw>
                
-               <p>When the lion fell, the two tigers got upon
+               <p>When the <ecda:fauna>lion</ecda:fauna> fell, the two <ecda:fauna>tigers</ecda:fauna> got upon
                   him, and beat his brains out with stones.
                </p>
                <p>The <ecda:anonPers a-gender="male">little boy</ecda:anonPers> soon after found his way to
                   them. He had a cutlass, with which they cut
-                  off <persName ref="#three_fingered_jack_0001">Jack's</persName> head, and <distinct rend="smallcaps">three-fingered hand</distinct>,
+                  off <persName ref="#three_fingered_jack_0001">Jack's</persName> head, and <mcr rend="smallcaps">three-fingered hand</mcr>,
                   and took them in triumph to <placeName>Morant Bay</placeName>.
                </p>
                <p>There they put their trophies into a pail of
-                  rum; and followed by a vast concourse of
+                  <ecda:food>rum</ecda:food>; and followed by a vast concourse of
                  negroes, now no longer afraid of <persName ref="#three_fingered_jack_0001">Jack's</persName> <name ana="#obeah" rend="smallcaps">Obi</name>,
                   they carried them to <placeName>Kingston</placeName>, and <placeName>Spanish
-                  Town</placeName>; and claimed the reward of the King's 
-                  Proclamation, and the <orgName>House of Assembly</orgName>.
+                  Town</placeName>; and claimed the reward of the <title>King's 
+                  Proclamation</title>, and the <orgName>House of Assembly</orgName>.
                </p>
                <milestone unit="unnumbered" xml:id="ana001"/>
-               
+               </body>
+               </floatingText>
+              
                <div type="section">
                <p>But to return to medicine's melancholy
                   road.
@@ -6657,7 +6660,7 @@
                   burst on the inhabitants. It first appeared at
                   <placeName>Philadelphia</placeName> in <date when="1793-08">August, 1793</date>
                </p>
-               <p ana="#medical"><persName ref="#benjamin_rush_1746">Doctor Benjamin Rush</persName>, of <placeName>Philadelphia</placeName>,
+               <p ana="#medical #disease"><persName ref="#benjamin_rush_1746">Doctor Benjamin Rush</persName>, of <placeName>Philadelphia</placeName>,
                   a physician of the most distinguished learning
                   and talents, has given an interesting account
                   of this calamity. He has denominated this
@@ -6670,7 +6673,7 @@
                   <pb/>
                   <fw type="pageNum">181</fw>
                   
-                  of the <placeName>Est Indies</placeName>; and from its yielding, as
+                  of the <placeName>East Indies</placeName>; and from its yielding, as
                   he has shewn, to the same means I used in 
                   that fever, and have published in my <title rend="italic">Treatise
                   on Tropical Diseases.</title>
@@ -6690,14 +6693,14 @@
                   will vanish. <placeName>England</placeName> was relieved from the
                   plague, without any general rational method
                   of cure being adopted, or without physicians
-                  knowing more how it cane, or went away,
+                  knowing more how it came, or went away,
                   than we do when it will return.
                </p>
-               <p>This is a subject of concern; but not of surprise
+               <p>This is a subject of concern; but not of surprise.
                   Veteran physicians in times of danger
                   generally desert the field; intrench themselves
                   far off, behind old books, and leave raw
-                  recruits to fight the foe: who, experienced
+                  recruits to fight the foe: who, inexperienced
                   in the tactics of the physic, seldom escape the 
                   recoil of their own artillery; and fall with their
                   patients.
@@ -6780,7 +6783,7 @@
                
                <pb/>
                <fw type="pageNum">184</fw>
-               
+               <!-- start here -->
                <p ana="#disease">To look for the cause of an epidemic in the
                   present state of the air, or weather, when it
                   makes its appearance, is a very narrow, contracted,
@@ -7001,7 +7004,7 @@
                <div type="section">
                <p>I shall now conclude this treatise; not without
                   hopes that the difficulties I mentioned in
-                  the way of a correct history of <distinct rend="smallcaps">Sugar</distinct>, have
+                  the way of a correct history of <ecda:commodity rend="smallcaps">Sugar</ecda:commodity>, have
                   sufficiently appeared, to justify my motives in
                   premising them: and to extenuate many defects
                   in the execution of this undertaking.
@@ -7036,11 +7039,11 @@
                <fw type="pageNum">191</fw>
                
                <p>Great beauties, and sublime objects, are still
-                  untouched by <name>Europeans</name>; and the <distinct rend="smallcaps">Sugar
-                  Cane</distinct>, the heart of the solar world, has never 
+                  untouched by <name>Europeans</name>; and the <ecda:commodity ana="#flora" rend="smallcaps">Sugar
+                  Cane</ecda:commodity>, the heart of the solar world, has never 
                   been dissected.
                </p>
-               <p>By the Planter, the <distinct rend="smallcaps">Sugar Cane</distinct> has been no
+               <p>By the Planter, the <ecda:commodity ana="#flora" rend="smallcaps">Sugar Cane</ecda:commodity> has been no
                   further considered, than as it relates to the engine,
                   and the copper.
                </p>
@@ -8916,7 +8919,7 @@
                  <cell>968,626</cell>
               </row>
            </table>
-           <p>N.B. The above are heavier than <rs type="properAdjective">English</rs> weights by 8 <distinct rend="italic">per cent</distinct>.</p>
+           <p>N.B. The above are heavier than <rs type="properAdjective">English</rs> weights by 8 <mcr rend="italic">per cent</mcr>.</p>
            <p><placeName>St. Domingue</placeName> was generally considered in <placeName>France</placeName> to yield about two-third of all their <rs type="properAdjective">West
               Indian</rs> produce; and, in <date when="1788">1788</date>, this island alone loaded for <placeName>France</placeName> 580 ships, of 370 ¾ tons
               on a medium, and 110 of 740 tons: exclusive of the numerous <rs type="properAdjective">French</rs> and foreign vessels
