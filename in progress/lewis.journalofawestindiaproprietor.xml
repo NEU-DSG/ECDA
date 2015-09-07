@@ -60,7 +60,7 @@
               </interpGrp>
            </note>
            <note xml:id="n001" target="#a001"><foreign xml:lang="fr">*L'heure du berger</foreign>.</note>
-           <note xml:id="n002" target="#a002">*The <ecda:persGroup a-arc="negro" a-gender="mixed" a-status="enslaved">negroes</ecda:persGroup> never distinguish between <distinct rend="quotes" type="dialect">him</distinct> and <distinct rend="quotes">her</distinct> in their conversation.</note>
+           <note xml:id="n002" target="#a002">*The <ecda:persGroup a-arc="negro" a-gender="mixed" a-status="enslaved">negroes</ecda:persGroup> never distinguish between <distinct type="mentioned" rend="quotes">him</distinct> and <distinct type="mentioned" rend="quotes">her</distinct> in their conversation.</note>
            <note xml:id="n003" target="#a003"><quote xml:lang="la" rend="quotes" source="virgil_aeneid">Purpureus veluti flos,</quote> &amp;c. <bibl><author rend="smallcaps"><persName ref="#virgil_0070">Virgil</persName></author></bibl>.</note>
             <note xml:id="n004" target="#a004"><quote rend="quotes" xml:lang="la" source="virgil_georgics">Qualis populcâ, &amp;c.</quote>–<bibl><author rend="smallcaps"><persName ref="#virgil_0070">Virgil</persName></author></bibl>.</note>
            <note xml:id="n005" target="#a005">*<placeName>The Dezertas.</placeName></note>
@@ -4516,16 +4516,16 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
            <l><said xml:id="s006" next="#s007" prev="#s005"><distinct type="dialect">Missy, you eyes like diamond shine</distinct>!</said></l> 
            <l><said xml:id="s007" next="#s008" prev="#s006"><distinct type="dialect">Missy, you Massa's sole delight</distinct>,</said></l> 
            <l><said xml:id="s008" next="#s009" prev="#s007"><distinct type="dialect">And <persName ref="#sally_0001">Lilly Sally</persName>, him was mine</distinct>!</said></l> 
-           <l><said xml:id="s009" next="#s010" prev="#s008"><distinct type="dialect">Him say—</distinct><said rend="quotes"><distinct>Come, <persName ref="#peter_0001">Peter</persName>, mid me go</distinct>!</said>—</said></l> 
-           <l><said xml:id="s010" next="#s011" prev="#s009"><distinct type="dialect">Could me refuse him? Could me say <distinct rend="quotes">no</distinct></distinct>?—</said></l> 
-           <l><said xml:id="s011" next="#s012" prev="#s010"><distinct type="dialect">Poor <persName ref="#peter_0001">Peter</persName>—<distinct rend="quotes">no</distinct> him could not say</distinct>!</said></l> 
+           <l><said xml:id="s009" next="#s010" prev="#s008"><distinct type="dialect">Him say—</distinct><said rend="quotes"><distinct type="dialect">Come, <persName ref="#peter_0001">Peter</persName>, mid me go</distinct>!</said>—</said></l> 
+           <l><said xml:id="s010" next="#s011" prev="#s009"><distinct type="dialect">Could me refuse him? Could me say <distinct type="mentioned" rend="quotes">no</distinct></distinct>?—</said></l> 
+           <l><said xml:id="s011" next="#s012" prev="#s010"><distinct type="dialect">Poor <persName ref="#peter_0001">Peter</persName>—<distinct type="mentioned" rend="quotes">no</distinct> him could not say</distinct>!</said></l> 
            <l><said rend="postquotes" xml:id="s012" prev="#s011"><distinct type="dialect">So <persName ref="#peter_0001">Peter</persName>, <persName ref="#peter_0001">Peter</persName> ran away</distinct>!</said>—</l> 
         </lg> 
         <lg>
            <l><distinct type="dialect">Him Missy him pray; him Massa so kind</distinct></l> 
            <l><distinct type="dialect">Was moved by him prayer, and to <persName ref="#peter_0001">Peter</persName> him say:</distinct></l> 
            <l><said rend="prequotes" xml:id="s013" next="#s014">Well, boy, for this once I forgive you!—but mind!</said></l> 
-           <l><said xml:id="s014" next="#s015" prev="#s013">With the <distinct>buckra girls</distinct> you no more go away!</said></l> 
+           <l><said xml:id="s014" next="#s015" prev="#s013">With the <distinct type="dialect">buckra girls</distinct> you no more go away!</said></l> 
            <l><said xml:id="s015" next="#s016" prev="#s014">Though fair without, they're foul within;</said></l> 
            <l><said xml:id="s016" next="#s017" prev="#s015">Their heart is black, though white their skin.</said></l> 
            <l><said xml:id="s017" prev="#s016" next="#s018">Then <persName ref="#peter_0001">Peter</persName>,<persName ref="#peter_0001">Peter</persName> with me stay;</said></l> 
@@ -5090,7 +5090,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
          then went back to his work; and this evening,
          when I sent him a <ecda:food>dish</ecda:food> from my table, <persName ref="#pickle_0001">Pickle</persName> desired
          the <ecda:anonPers a-occupation="servant">servant</ecda:anonPers> to tell me, that he had hardly any
-         fever, and felt <said rend="quotes"><distinct rend="italic">quite so so</distinct>,</said> which, in the negro
+         fever, and felt <said rend="quotes"><distinct type="dialect" rend="italic">quite so so</distinct>,</said> which, in the negro
          dialect, means <gloss rend="quotes">a great deal better</gloss>. I begin,
          therefore, to hope that we shall save the foolish fellow's
          life at last, which, at one time, appeared to
@@ -5995,9 +5995,9 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
    negro worthless, <said rend="quotes">to sell him at once, and not stay
    to flog him, and so, by spoiling his appearance,
    make him sell for less; for blacks must not be
-   treated now, <distinct>massa</distinct>, as they used to be; they can
+   treated now, <distinct type="dialect">massa</distinct>, as they used to be; they can
    think, and hear, and see, as well as white people:
-   blacks are wiser, <distinct>massa</distinct>, than they were, and will
+   blacks are wiser, <distinct type="dialect">massa</distinct>, than they were, and will
    soon be still wiser.</said> I thought the fellow himself
    was a good proof of his assertion.</seg></ecda:intSN>  
 </p>
@@ -6088,7 +6088,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
    with an endless variety of surface, and enriched
    with a profusion of <ecda:flora>trees</ecda:flora> majestic in stature and
    picturesque in their shapes, many of them entirely
-   covered with the beautiful flowers of <distinct rend="quotes"><ecda:flora>hogsmeat</ecda:flora></distinct>,
+   covered with the beautiful flowers of <distinct type="dialect" rend="quotes"><ecda:flora>hogsmeat</ecda:flora></distinct>,
    and other <ecda:flora>creeping plants</ecda:flora>. The <ecda:flora>logwood</ecda:flora>, too, is 
    now perfectly golden with its full bloom, and perfumes 
    all the air; and nothing can be more gay
@@ -6728,7 +6728,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     to stop, and if the <ecda:anonPers a-occupation="postillon" a-gender="male">boy</ecda:anonPers> does not obey instantly, he
     abuses him with all his power; <said rend="quotes"><distinct type="dialect">for why him no stop
     when him want talk to massa</distinct>?</said>—<said rend="quotes">But look, <persName ref="#strap_0001">Strap</persName>,
-    your beast is getting away!</said>—<said rend="quotes"><distinct>Oh! damn beast,
+    your beast is getting away!</said>—<said rend="quotes"><distinct type="dialect">Oh! damn beast,
     massa</distinct>.</said>—<said rend="quotes">But you should go to <rs type="place">your mountain</rs>,
     or you will get no vittle.</said>—<said rend="quotes"><distinct type="dialect">Oh, damn vittle, and
     damn <rs type="place">mountain</rs>! me no want vittle, me want talk
@@ -6917,7 +6917,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
     fell to singing and dancing again with as much 
     violence as if they had been a pack of <rs type="properAdjective">French</rs> furies
     at the Opera. The favorite song of the night was,
-    <title rend="quotes"><distinct>Since massa come, we very well off</distinct></title>;
+    <title rend="quotes"><distinct type="dialect">Since massa come, we very well off</distinct></title>;
     which words they repeated in chorus, without
     intermission (dancing all the time), for hours together;
     till, at half-past three, neither my eyes nor
@@ -11158,7 +11158,7 @@ this grand field of sports, are striking and amusing.</p></quote>—<bibl><title
         <p>It seems to be an indispensable requisite for a
            <title ref="#anansi_story">Nancy-story</title>, that it should contain a witch, or a
            duppy, or, in short, some marvellous personage or
-           other. It is a kind of <distinct rend="quotes"><foreign rend="italic">pièce à machines</foreign></distinct>. <ecda:embLore xml:id="l0001" next="l0002">But the
+           other. It is a kind of <foreign rend="italic"><hi rend="quotes">pièce à machines</hi></foreign>. <ecda:embLore xml:id="l0001" next="l0002">But the
            <ecda:persGroup a-aig="creole" a-status="enslaved">creole slaves</ecda:persGroup> are very fond of another species of
            tale, which they call <title rend="quotes">Neger-tricks</title>, and which
            bear the same relation to a <title ref="#anansi_story">Nancy-story</title> which a farce

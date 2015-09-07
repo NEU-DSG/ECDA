@@ -72,7 +72,7 @@
               <persName ref="#marcus_terentius_varro_116">M.T. Varro</persName>.</p>
            </note>
            <note xml:id="n004" target="#a004">
-              <unclear>Periegeris</unclear>, viz. <date when="1127">1127</date>.
+              <unclear>Periegesis</unclear>, viz. <date when="1127">1127</date>.
            </note>
            <note xml:id="n005" target="#a005">
               <bibl>P. 1016. <edition>edit. 1707</edition>.</bibl>
@@ -411,24 +411,24 @@
               <p>This <name ana="#obeah">Obi</name>, or, as it is pronounced in the <placeName>English West Indies</placeName>,
               <name ana="#obeah">Obeah</name>, had its origin, like many customs among the <name>Africans</name>,
               from the ancient <name>Egyptians</name>.</p>
-              <p><distinct type="dialect" xml:lang="he" rend="upright">אוב</distinct> <distinct type="dialect">OB</distinct> is a demon, a spirit of divination, and magic. When
+              <p><distinct type="dialect" xml:lang="he" rend="upright">אוב</distinct> <name rend="allcaps">Ob</name> is a demon, a spirit of divination, and magic. When
               <persName ref="#saul_0001" rend="mixed">Saul</persName> wanted to raise up <persName ref="#samuel_0001" rend="mixed">Samuel</persName> from the dead, he said to his
-              servants, <quote rend="quotes">Seek me a woman (<distinct type="dialect" xml:lang="he" rend="upright">בעלה אוב</distinct> eminent for <distinct type="dialect">Ob</distinct>) that
+              servants, <quote rend="quotes">Seek me a woman (<distinct type="dialect" xml:lang="he">בעלה אוב</distinct> eminent for <distinct rend="smallcaps">Ob</distinct>) that
               hath a familiar spirit</quote></p>
               
               <pb xml:id="pbn001" corresp="#pb001"/>
               
               <p>His servants replied to him, <quote rend="quotes">There is (<distinct type="dialect" xml:lang="he" rend="upright">אשה בעלה אוב</distinct>
-              a woman mistress in the art of <distinct type="dialect">Ob</distinct>) that hath a familiar spirit, at
+              a woman mistress in the art of <name rend="smallcaps">Ob</name>) that hath a familiar spirit, at
               <placeName>Endor</placeName>.</quote></p>
               <p>When the witch of <placeName>Endor</placeName> came to <persName ref="#saul_0001" rend="mixed">Saul</persName>, he said to her, <quote rend="quotes">Divine 
-                 unto me (<distinct type="dialect" xml:lang="he" rend="upright">באוב</distinct> by thy witchcraft <distinct type="dialect" rend="smallcaps">Ob</distinct>) by the familiar spirit,
+                 unto me (<distinct type="dialect" xml:lang="he" rend="upright">באוב</distinct> by thy witchcraft <name rend="smallcaps">Ob</name>) by the familiar spirit,
                  and bring me him up whom I shall name unto thee.</quote> <bibl><title>1 Samuel</title>,
                  chap. xxviii. v. 7 and 8.</bibl></p>
            </note>
            <note xml:id="n079" target="#a079">
-              <floatingText> <!-- I made this <floatingText> to allow for <closer> -->
-                 <body>
+              <floatingText type="notice"> <!-- I made this <floatingText> to allow for <closer> -->
+                 <body>            
                     <head><orgName rend="smallcaps">House of Assembly</orgName>, <date when="1780-12-29">29th December, 1780</date>.</head>
                     <p>Resolved, that, over and above the reward of one hundred 
                     pounds offered by his Majesty's proclamation for taking or killing
@@ -723,7 +723,7 @@
          
             <p><persName ref="#dionysius_periegetes_0001" cert="medium">Dionysius Afer</persName> (<date when="0003">anno 3. Ær. Chr.</date> <title><hi rend="smallcaps">Sax</hi>.
                <hi rend="italic">Onomast</hi></title>.) mentions that the <name>Indians</name> drink the 
-               juice of the <distinct type="scientific" xml:lang="grc" rend="upright"><unclear>Ερ<gap extent="1 character"/>θραιος καλαμος</unclear></distinct>, or <ecda:flora><rs type="properAdjective">Indian</rs> cane</ecda:flora><anchor xml:id="a004" corresp="#n004"/> 
+               juice of the <distinct type="scientific" xml:lang="grc" rend="upright">Ερυθραιος καλαμος</distinct>, or <ecda:flora><rs type="properAdjective">Indian</rs> cane</ecda:flora><anchor xml:id="a004" corresp="#n004"/> 
             </p>
          
          
@@ -3296,7 +3296,7 @@
                   so mollifying as the red, and that brought
                   from <placeName rend="italic">Hegen</placeName>, like lumps of <ecda:food>salt</ecda:food>.</quote>
                </p>
-               <p><quote ana="#medical" rend="prequotes" xml:id="q013" next="#q014">The <distinct rend="italic">haoscer</distinct> sugar strengthens the stomach,
+               <p><quote ana="#medical" rend="prequotes" xml:id="q013" next="#q014">The <ecda:commodity><distinct rend="italic">haoscer</distinct></ecda:commodity> sugar strengthens the stomach,
                   and is good for pains in the bladder and kidneys, 
                   and clears the sight when used in a collyrium;
                   and it trues and resolves the lax films
@@ -3318,20 +3318,20 @@
                   the stomach, unless it causes thirst, and
                   generates thick blood. That which is brought
                   from <placeName rend="italic">Aliemen</placeName>, and is like mastich, and is
-                  called <distinct rend="italic">haoscer</distinct>, is good for the stomach and
+                  called <ecda:commodity><distinct rend="italic">haoscer</distinct></ecda:commodity>, is good for the stomach and
                   liver; on account of a small degree of bitterness 
                   in it: sugar is good for pains in the bladder
                   and kidneys, and cleanses them.</quote>
                </p>
                <p>From <persName ref="#isaac_israeli_ben_solomon_832">Isaac Bensulaimen</persName> he says, <quote rend="quotes">the
                   sugar brought from the region of <placeName rend="italic">Heigen</placeName>, and
-                  called <distinct rend="italic">haoscer</distinct>, is less sweet than the other
+                  called <ecda:commodity><distinct rend="italic">haoscer</distinct></ecda:commodity>, is less sweet than the other
                   sorts of sugar, and more drying; for which 
                   reason it does not remove thirst like the other
                   species of sugar: but it produces good effects
                   in pains of the kidneys, and when drunk in
                   milk of <ecda:flora>mandragora</ecda:flora> is good in the dropsy. The
-                  milk of the <distinct rend="italic">haoscer</distinct> also, when drunk with the
+                  milk of the <ecda:flora><distinct rend="italic">haoscer</distinct></ecda:flora> also, when drunk with the
                   milk of <ecda:flora>mandragora</ecda:flora>, has the same operations,
                   in a greater degree; but it is not so safe, in
                   habits of hot temperaments.</quote>
@@ -3349,10 +3349,10 @@
                   an <ecda:food>egg</ecda:food>, which yields a corrosive liquor. It
                   produces a down, with which pillows and
                   bolsters are stuffed. The tree is called <distinct type="scientific" rend="italic">percha</distinct>.
-                  when the leaves are cut, the <distinct rend="italic">haoscer</distinct> yields a 
+                  when the leaves are cut, the <ecda:flora><distinct rend="italic">haoscer</distinct></ecda:flora> yields a 
                   milk which is collected in the month of May,
                   and skins are put in it; and it takes off the
-                  hair. The wood of the <distinct rend="italic"><sic>hahoscer</sic></distinct> is smooth,
+                  hair. The wood of the <ecda:flora><distinct rend="italic"><sic>hahoscer</sic></distinct></ecda:flora> is smooth,
                   straight, and beautiful; and musical bards,
                   in their love songs, compare the limbs of
                   their mistresses to it.</quote>
@@ -5036,7 +5036,7 @@
                   <ecda:flora xml:lang="he" rend="italic">kaneh</ecda:flora>.
                </p>
                <p>What this <distinct xml:lang="he">קוה</distinct> was, I know not. It could 
-                  not be the <ecda:flora><distinct rend="italic">acorus</distinct></ecda:flora>, or <ecda:flora><distinct xml:lang="la" type="scientific" rend="italic">calamus aromaticus</distinct></ecda:flora>; that
+                  not be the <ecda:flora><distinct xml:lang="la" rend="italic">acorus</distinct></ecda:flora>, or <ecda:flora><distinct xml:lang="la" type="scientific" rend="italic">calamus aromaticus</distinct></ecda:flora>; that
                   was too plentiful to be so valued; and grew in 
                   <placeName>Syria</placeName>, <placeName>Arabia</placeName>, and the islands of the <name>Gentiles</name>,
                   and in all the swamps and marshes in the adjacent
@@ -6668,7 +6668,7 @@
                   <placeName>America</placeName>; from its being accompanied by the
                   terrible complexion, and other pathognomonics,
                   which I have given of the <distinct type="scientific" rend="italic">Endemial Causas</distinct>,
-                  or, as it is commonly called, the <distinct type="dialect" rend="italic">Yellow Fever</distinct>
+                  or, as it is commonly called, the <distinct type="scientific" rend="italic">Yellow Fever</distinct>
                   
                   <pb/>
                   <fw type="pageNum">181</fw>
@@ -6783,7 +6783,7 @@
                
                <pb/>
                <fw type="pageNum">184</fw>
-               <!-- start here -->
+         
                <p ana="#disease">To look for the cause of an epidemic in the
                   present state of the air, or weather, when it
                   makes its appearance, is a very narrow, contracted,
@@ -6824,7 +6824,7 @@
                   people; and dishearten them, at a time they
                   stand most in need of fortitude.
                </p>
-               <p>Exposing the well-known umbrous <distinct type="scientific" rend="italic">Pontini</distinct>
+               <p>Exposing the well-known umbrous <placeName rend="italic">Pontini</placeName>
                   marshes, by cutting down the woods, which
                   kept their foul vapours from being rarified by
                   the sun, and borne away by the winds, produced 
@@ -6872,13 +6872,13 @@
                   perceptible, as the effects of approaching, or
                   retreating from, a fire.
                </p>
-               <p>In the common order of pestilential fevers,
+               <p ana="#disease">In the common order of pestilential fevers,
                   they commence with coldness, and shivering;
                   simply demonstrating, that something unusual
                   has been in contact with the skin, agonizing
                   cutanoeus sensibility.
                </p>
-               <p>The skin is covered with the extremities of
+               <p ana="#disease #medical">The skin is covered with the extremities of
                   fibres, nerves, and vessels;—these are in the
                   most exposed situation, with the least power
                   of resisting external injury.—Hence a destruction,
@@ -6889,12 +6889,12 @@
                   strength of the whole frame is thus prostrated
                   in a moment, and every nerve and muscle
                   paralysed.
-               </p>
+               </p> 
                
                <pb/>
                <fw type="pageNum">187</fw>
                
-               <p>Sickness at the stomach, and an immoveable
+               <p ana="#disease">Sickness at the stomach, and an immoveable
                   pressure about the præcordia follow. These
                   demonstrate, that the blood cannot pervade
                   the extremities of the body, and that the
@@ -6903,7 +6903,7 @@
                   organs, and is crowding, and distending the
                   heart, and central vessels.
                </p>
-               <p>The restraining power of the remoter blood
+               <p ana="#disease">The restraining power of the remoter blood
                   vessels being destroyed, the thinner parts of the
                   blood escape their boundaries; hence arises
                   yellowness in the skin, in some climates:—in
@@ -6911,7 +6911,7 @@
                   forming black lodgements, bubo, anthrax, and
                   exanthemata.
                </p>
-               <p>The object in these fevers, is to decide the
+               <p ana="#disease #medical">The object in these fevers, is to decide the
                   contest between the solids and the fluids; and
                   this appears to me, to be the only practicable,
                   by draining the vital parts, by bleeding and
@@ -6922,7 +6922,7 @@
                   by exciting perspiration; and then of the
                   whole system, by tonics.
                </p>
-               <p>When these things are not done in the first
+               <p ana="#medical #disease">When these things are not done in the first
                   hours of attack, in pestilential fevers, and
                   the conflict is not <emph>extinguished</emph> at once,—bark,
                   
@@ -6932,32 +6932,32 @@
                   stimulants, and cordials, may be called on—like
                   undertakers,—to perform an useless ceremony.
                </p>
-               <p>Importing epidemics, and the existence of
+               <p ana="#disease #medical">Importing epidemics, and the existence of
                   contagion in pestilential diseases, are contrary
                   to the opinion I ever had, and still maintain.
                </p>
-               <p>From whence was the importation of the
+               <p ana="#medical #disease">From whence was the importation of the
                   contagion of the plague at <placeName>Naples</placeName> in <date when="1656">1656</date>;
                   by which 20,000 people died in one day?
                </p>
                <p>Can any person, for a moment reflecting,
                   believe that the plague of <placeName>London</placeName> in
-                  <date when="1665">1665</date>, was caused by opening a bag of cotton
-                  in the city, or a package of help in <placeName>St. Giles's
+                  <date when="1665">1665</date>, was caused by opening a <ecda:commodity>bag of cotton</ecda:commodity>
+                  in the city, or a package of <ecda:commodity>hemp</ecda:commodity> in <placeName>St. Giles's
                   parish</placeName>?
                </p>
                <p>Is it possible to suppose that people should
                   have been found to propagate, or believe the
                   well-known and favourite story of the advocates
-                  for <persName ref="#richard_mead_1673">Mead's</persName> theories,—that a lady was
+                  for <persName ref="#richard_mead_1673">Mead's</persName> theories,—that a <ecda:anonPers a-gender="female">lady</ecda:anonPers> was
                   killed instantly by smelling at a <rs type="properAdjective">Turkey</rs>-
-                  handkerchief; and a gentleman by only walking
+                  handkerchief; and a <ecda:anonPers a-gender="male">gentleman</ecda:anonPers> by only walking
                   over a <rs type="properAdjective">Turkey</rs>-carpet!
                </p>
                <p>One might ask—What became of the
                   persons, who delivered the handkerchief to the
-                  lady—and laid down the carpet for the
-                  gentleman?
+                  <ecda:anonPers a-gender="female">lady</ecda:anonPers>—and laid down the carpet for the
+                  <ecda:anonPers a-gender="male">gentleman</ecda:anonPers>?
                </p>
                <p>I have seen almost all the lazarettos, hospitals,
                   and prisons in <placeName>Europe</placeName>. The worst 
@@ -6974,7 +6974,7 @@
                   would imagine that whole nations were 
                   criminals, or expected to become so.
                </p>
-               <p>Even in these false, cheating, impositions
+               <p ana="#punishment">Even in these false, cheating, impositions
                   on benevolence,—where pomp and magnificence
                   is pictured without, and neglect, dirt, 
                   misery, and often malicious oppression, are
@@ -6983,11 +6983,11 @@
                   possible so to be, I should have been long since
                   dead.
                </p>
-               <p>Quarantine, always expensive to commerce,
+               <p ana="#medical">Quarantine, always expensive to commerce,
                   and often ruinous to individuals, is a reflexion
                   on the good sense of countries.
                </p>
-               <p>No pestilential fever was ever imported, or
+               <p ana="#medical">No pestilential fever was ever imported, or
                   exported; and I have always considered the
                   fumigating ship-letters, and shutting up the
                   crews and passengers of vessels, on their arrival
@@ -7011,7 +7011,7 @@
                </p>
                <p>The political government, civil administration
                   of public and private affairs, and the 
-                  commercial interests of the sugar colonial
+                  commercial interests of the <ecda:commodity>sugar</ecda:commodity> colonial
                   settlements, have been well delineated by historians
                   of different nations.
                </p>
@@ -7057,8 +7057,8 @@
                   of his alchemy.
                </p>
                <p>In the season of this great—this fascinating
-                  work—a sugar-plantation represents the days
-                  of <name>Saturn</name>.—Every animal seems to be a
+                  work—a <ecda:commodity ana="#flora">sugar</ecda:commodity>-plantation represents the days
+                  of <persName>Saturn</persName>.—Every <ecda:fauna>animal</ecda:fauna> seems to be a
                   member of the golden age.
                </p>
                <p>At home, the merchant, from this transatlantic
@@ -7073,23 +7073,24 @@
                </p>
                </div>
             </div>
-            <dateline><placeName rend="smallcaps">London</placeName>, <placeName rend="italic">Pall Mall</placeName>, <date when="1799-01-01">1st of January, 1799</date></dateline>
-            <signed>B.M.</signed>
+            <dateline><placeName rend="smallcaps">London</placeName>, <placeName rend="italic">Pall Mall</placeName>, <date when="1799-01-01">1st of January, 1799</date>.</dateline>
+            <signed><persName ref="#benjamin_moseley_1742">B.M.</persName></signed>
          </div>
       </body>
      <back>
         <div type="appendix">
-           <head>An Account of the Quantity of <rs type="properAdjective">British</rs> Plantation Sugar Annually Imported into <placeName>Great Britain</placeName>; with the
-              <gap extent="1word"/> <unclear reason="flawed-reproduction">annuities</unclear> paid thereon, from the year <date from="1764" to="1791">1764 to 1791</date>, both inclusive. Also, an Account of the Quantity of Raw and Refined
-              Sugars Exported from <placeName>Great Britain</placeName> in the above periods; with the amount of Drawbacks and Bounties paid thereon,
-              distinguishing each year, and the Raw from the Refined; distinguishing also the quantities exported to <placeName>Ireland</placeName>.
+           <head rend="allcaps">Appendix</head>
+           <head><hi rend="allcaps">An Account</hi> of the <hi rend="allcaps">Quantity</hi> of <hi rend="allcaps"><rs type="properAdjective">British</rs> <ecda:commodity>Plantation Sugar</ecda:commodity> Annually Imported into <placeName>Great Britain</placeName></hi>; with the
+              amount of duties paid thereon, from the year <date from="1764" to="1791">1764 to 1791</date>, both inclusive. Also, an <hi rend="allcaps">Account</hi> of the <hi rend="allcaps">Quantity</hi> of <ecda:commodity><hi rend="allcaps">Raw</hi> and <hi rend="allcaps">Refined
+              Sugars</hi></ecda:commodity> <hi rend="allcaps">Exported from <placeName>Great Britain</placeName></hi> in the above periods; with the amount of Drawbacks and Bounties paid thereon,
+              distinguishing each year, and the <ecda:commodity>Raw</ecda:commodity> from the <ecda:commodity>Refined</ecda:commodity>; distinguishing also the quantities exported to <placeName>Ireland</placeName>.
            </head>
            <table cols="4" rows="1"> 
               <row>
                  <cell>
                     <table cols="1" rows="29">
                        <row xml:id="head1">
-                          <cell>Year.</cell>
+                          <cell>Yrs.</cell>
                        </row>
                        <row xml:id="head2">
                           <cell/>
@@ -7182,7 +7183,7 @@
                  </cell>
                  <cell>
                     <table cols="2" rows="1">
-                       <head>British Plantation Sugar imported.</head>
+                       <head>British <ecda:commodity>Plantation Sugar</ecda:commodity> imported.</head>
                        <row>
                           <cell>
                              <table cols="3" rows="29">
@@ -7193,62 +7194,62 @@
                                    <cell>lb.</cell>
                                 </row>
                                 <row corresp="#d1764">
-                                   <cell><unclear><gap/>97</unclear></cell>
+                                   <cell>1,488,079</cell>
                                    <cell>—</cell>
                                    <cell>15</cell>
                                 </row>
                                 <row corresp="#d1765">
-                                   <cell><gap/>7,159</cell>
+                                   <cell>1,227,159</cell>
                                    <cell>3</cell>
                                    <cell>18</cell>
                                 </row>
                                 <row corresp="#d1766">
-                                   <cell><gap/>32</cell>
+                                   <cell>1,522,732</cell>
                                    <cell>2</cell>
                                    <cell>19</cell>
                                 </row>
                                 <row corresp="#d1767">
-                                   <cell><gap/>,834</cell>
+                                   <cell>1,538,834</cell>
                                    <cell>1</cell>
                                    <cell>8</cell>
                                 </row>
                                 <row corresp="#d1768">
-                                   <cell><gap/>12</cell>
+                                   <cell>1,651,512</cell>
                                    <cell>2</cell>
                                    <cell>14</cell>
                                 </row>
                                 <row corresp="#d1769">
-                                   <cell><gap/>,070</cell>
+                                   <cell>1,525,070</cell>
                                    <cell>—</cell>
                                    <cell>5</cell>
                                 </row>
                                 <row corresp="#d1770">
-                                   <cell><gap/>,229</cell>
+                                   <cell>1,818,229</cell>
                                    <cell>1</cell>
                                    <cell>23</cell>
                                 </row>
                                 <row corresp="#d1771">
-                                   <cell><gap/>2,096</cell>
+                                   <cell>1,492,096</cell>
                                    <cell>2</cell>
                                    <cell>24</cell>
                                 </row>
                                 <row corresp="#d1772">
-                                   <cell><gap/>0,721</cell>
+                                   <cell>1,829,721</cell>
                                    <cell>—</cell>
                                    <cell>8</cell>
                                 </row>
                                 <row corresp="#d1773">
-                                   <cell><gap/>4,080</cell>
+                                   <cell>1,804,080</cell>
                                    <cell>2</cell>
                                    <cell>26</cell>
                                 </row>
                                 <row corresp="#d1774">
-                                   <cell>1,229,725</cell>
+                                   <cell>2,029,725</cell>
                                    <cell>1</cell>
                                    <cell>25</cell>
                                 </row>
                                 <row corresp="#d1775">
-                                   <cell>1,022,059</cell>
+                                   <cell>2,021,059</cell>
                                    <cell>3</cell>
                                    <cell>23</cell>
                                 </row>
@@ -7263,32 +7264,32 @@
                                    <cell>5</cell>
                                 </row>
                                 <row corresp="#1778">
-                                   <cell>1,521,157</cell>
+                                   <cell>1,521,457</cell>
                                    <cell>1</cell>
                                    <cell>24</cell>
                                 </row>
                                 <row corresp="#1779">
-                                   <cell>1525,833</cell>
+                                   <cell>1,525,833</cell>
                                    <cell>—</cell>
                                    <cell>―</cell>
                                 </row>
                                 <row corresp="#d1780">
                                    <cell>1,394,559</cell>
                                    <cell>1</cell>
-                                   <cell>23</cell>
+                                   <cell>25</cell>
                                 </row>
                                 <row corresp="#d1781">
-                                   <cell><gap/>,080,848</cell>
+                                   <cell>1,080,848</cell>
                                    <cell>2</cell>
                                    <cell>9</cell>
                                 </row>
                                 <row corresp="#d1782">
-                                   <cell><unclear>1</unclear>,374,269</cell>
+                                   <cell>1,374,269</cell>
                                    <cell>3</cell>
                                    <cell>24</cell>
                                 </row>
                                 <row corresp="#d1783">
-                                   <cell><gap/>584,275</cell>
+                                   <cell>1,584,275</cell>
                                    <cell>—</cell>
                                    <cell>18</cell>
                                 </row>
@@ -7308,7 +7309,7 @@
                                    <cell>14</cell>
                                 </row>
                                 <row corresp="#d1787">
-                                   <cell>1,936,440</cell>
+                                   <cell>1,926,621</cell>
                                    <cell>—</cell>
                                    <cell>26</cell>
                                 </row>
@@ -7330,22 +7331,22 @@
                                 <row corresp="#d1791">
                                    <cell>1,808,950</cell>
                                    <cell>—</cell>
-                                   <cell>9</cell>
+                                   <cell>7</cell>
                                 </row>
                              </table>
                           </cell>
-                          <cell>
+                          <cell> 
                              <table cols="3" rows="29">
                                 <head corresp="#head1">Duty</head>
                                 <row corresp="#head2">
-                                   <cell>L.</cell>
-                                   <cell>s.</cell>
-                                   <cell>d.</cell>
+                                   <cell><ecda:commodity ana="#currency">L.</ecda:commodity></cell>
+                                   <cell><ecda:commodity ana="#currency">s.</ecda:commodity></cell>
+                                   <cell><ecda:commodity ana="#currency">d.</ecda:commodity></cell>
                                 </row>
                                 <row corresp="#d1764">
                                    <cell>467,814</cell>
-                                   <cell>7</cell>
-                                   <cell>—</cell>
+                                   <cell>17</cell>
+                                   <cell>4</cell>
                                 </row>
                                 <row corresp="#d1765">
                                    <cell>385,788</cell>
@@ -7487,9 +7488,9 @@
                        </row>
                     </table>
                  </cell>
-                 <cell>
+                 <cell> 
                     <table cols="4" rows="1">
-                       <head>British Plantation Sugar exported.</head>
+                       <head><ecda:commodity ana="#transport"><rs type="properAdjective">British</rs> Plantation Sugar</ecda:commodity> exported.</head>
                        <row>
                           <cell>
                              <table rows="29" cols="3">
@@ -7537,7 +7538,7 @@
                                 <row corresp="#d1771">
                                    <cell>192,120</cell>
                                    <cell>2</cell>
-                                   <cell>12</cell>
+                                   <cell>17</cell>
                                 </row>
                                 <row corresp="#d1772">
                                    <cell>172,269</cell>
@@ -7655,7 +7656,7 @@
                                    <cell>12</cell>
                                 </row>
                                 <row corresp="#d1765">
-                                   <cell>13.120</cell>
+                                   <cell>13,120</cell>
                                    <cell>1</cell>
                                    <cell>25</cell>
                                 </row>
@@ -7665,7 +7666,7 @@
                                    <cell>6</cell>
                                 </row>
                                 <row corresp="#d1767">
-                                   <cell>19,376</cell>
+                                   <cell>29,376</cell>
                                    <cell>3</cell>
                                    <cell>5</cell>
                                 </row>
@@ -7760,7 +7761,7 @@
                                    <cell>9</cell>
                                 </row>
                                 <row corresp="#d1786">
-                                   <cell>3,676</cell>
+                                   <cell>3,767</cell>
                                    <cell>2</cell>
                                    <cell>2</cell>
                                 </row>
@@ -7782,7 +7783,7 @@
                                 <row corresp="#d1790">
                                    <cell>2,991</cell>
                                    <cell>1</cell>
-                                   <cell>14</cell>
+                                   <cell>7</cell>
                                 </row>
                                 <row corresp="#d1791">
                                    <cell>12,383</cell>
@@ -7837,7 +7838,7 @@
                                 <row corresp="#d1771">
                                    <cell>195,859</cell>
                                    <cell>1</cell>
-                                   <cell>11</cell>
+                                   <cell>1</cell>
                                 </row>
                                 <row corresp="#d1772">
                                    <cell>183,865</cell>
@@ -7945,9 +7946,9 @@
                              <table>
                                 <head corresp="#head1">Drawbacks.</head>
                                 <row corresp="#head2">
-                                   <cell>L.</cell>
-                                   <cell>s.</cell>
-                                   <cell>d.</cell>
+                                   <cell><ecda:commodity ana="#currency">L.</ecda:commodity></cell>
+                                   <cell><ecda:commodity ana="#currency">s.</ecda:commodity></cell>
+                                   <cell><ecda:commodity ana="#currency">d.</ecda:commodity></cell>
                                 </row>
                                 <row corresp="#d1764">
                                    <cell>62,734</cell>
@@ -8055,7 +8056,7 @@
                                    <cell>4</cell>
                                 </row>
                                 <row corresp="#d1785">
-                                   <cell>115,154</cell>
+                                   <cell>125,154</cell>
                                    <cell>19</cell>
                                    <cell>9</cell>
                                 </row>
@@ -8096,7 +8097,7 @@
                  </cell>
                  <cell>
                     <table>
-                       <head>Refined Sugar exported.</head>
+                       <head><ecda:commodity>Refined Sugar</ecda:commodity> exported.</head>
                        <row cols="4" rows="1">
                           <cell>
                              <table rows="29" cols="3">
@@ -8192,14 +8193,14 @@
                                    <cell>7</cell>
                                 </row>
                                 <row corresp="#d1781">
-                                   <cell>12,941</cell>
+                                   <cell>12,033</cell>
                                    <cell>2</cell>
                                    <cell>17</cell>
                                 </row>
                                 <row corresp="#d1782">
                                    <cell>7,634</cell>
                                    <cell>—</cell>
-                                   <cell>12</cell>
+                                   <cell>22</cell>
                                 </row>
                                 <row corresp="#d1783">
                                    <cell>10,977</cell>
@@ -8242,7 +8243,7 @@
                                    <cell>—</cell>
                                 </row>
                                 <row corresp="#d1791">
-                                   <cell>10,616</cell>
+                                   <cell>10,626</cell>
                                    <cell>—</cell>
                                    <cell>16</cell>
                                 </row>
@@ -8348,7 +8349,7 @@
                                 </row>
                                 <row corresp="#d1782">
                                    <cell>24,824</cell>
-                                   <cell>2</cell>
+                                   <cell>1</cell>
                                    <cell>12</cell>
                                 </row>
                                 <row corresp="#d1783">
@@ -8482,7 +8483,7 @@
                                    <cell>25</cell>
                                 </row>
                                 <row corresp="#d1779">
-                                   <cell>26,117</cell>
+                                   <cell>26,127</cell>
                                    <cell>2</cell>
                                    <cell>21</cell>
                                 </row>
@@ -8509,7 +8510,7 @@
                                 <row corresp="#d1784">
                                    <cell>131,609</cell>
                                    <cell>1</cell>
-                                   <cell>10</cell>
+                                   <cell>20</cell>
                                 </row>
                                 <row corresp="#d1785">
                                    <cell>135,993</cell>
@@ -8544,7 +8545,7 @@
                                 <row corresp="#d1791">
                                    <cell>158,573</cell>
                                    <cell>3</cell>
-                                   <cell>14</cell>
+                                   <cell>24</cell>
                                 </row>
                              </table>
                           </cell>
@@ -8552,9 +8553,9 @@
                              <table>
                                 <head corresp="#head1">Bounties.</head>
                                 <row corresp="#head2">
-                                   <cell>L.</cell>
-                                   <cell>s.</cell>
-                                   <cell>d.</cell>
+                                   <cell><ecda:commodity ana="#currency">L.</ecda:commodity></cell>
+                                   <cell><ecda:commodity ana="#currency">s.</ecda:commodity></cell>
+                                   <cell><ecda:commodity ana="#currency">d.</ecda:commodity></cell>
                                 </row>
                                 <row corresp="#d1764">
                                    <cell>127,819</cell>
@@ -8647,7 +8648,7 @@
                                    <cell>1 ½</cell>
                                 </row>
                                 <row corresp="#d1782">
-                                   <cell>42,107</cell>
+                                   <cell>42,207</cell>
                                    <cell>16</cell>
                                    <cell>4 ¾</cell>
                                 </row>
@@ -8708,12 +8709,12 @@
         
         <pb/>
         <fw type="pageNum">193</fw>
-        
+        <!-- start here -->
         <div type="appendix">
            <table>
-              <head>The value of the whole of the British West Indian
+              <head>The value of the whole of the <rs type="properAdjective">British West Indian</rs>
                products imported, for the following years, according
-               to the Custom-House prices.
+               to the <orgName>Custom-House</orgName> prices.
               </head>
               <row>
                  <cell>Years.</cell>
@@ -8721,124 +8722,124 @@
               </row>
               <row>
                  <cell/>
-                 <cell>£.</cell>
+                 <cell><ecda:commodity ana="#currency">£.</ecda:commodity></cell>
               </row>
               <row>
-                 <cell>1764</cell>
+                 <cell><date when="1764">1764</date></cell>
                  <cell>2,391,552</cell>
               </row>
               <row>
-                 <cell>1765</cell>
+                 <cell><date when="1765">1765</date></cell>
                  <cell>2,196,549</cell>
               </row>
               <row>
-                 <cell>1766</cell>
+                 <cell><date when="1766">1766</date></cell>
                  <cell>2,704,114</cell>
               </row>
               <row>
-                 <cell>1767</cell>
+                 <cell><date when="1767">1767</date></cell>
                  <cell>2,690,673</cell>
               </row>
               <row>
-                 <cell>1768</cell>
+                 <cell><date when="1768">1768</date></cell>
                  <cell>2,942,717</cell>
               </row>
               <row>
-                 <cell>1769</cell>
+                 <cell><date when="1769">1769</date></cell>
                  <cell>2,686,714</cell>
               </row>
               <row>
-                 <cell>1770</cell>
+                 <cell><date when="1770">1770</date></cell>
                  <cell xml:id="a081" corresp="#n081">2,110,026</cell>
               </row>
               <row>
-                 <cell>1771</cell>
+                 <cell><date when="1771">1771</date></cell>
                  <cell xml:id="a082" corresp="#n082">2,979,378</cell>
               </row>
               <row>
-                 <cell>1772</cell>
-                 <cell>3,330,082</cell>
+                 <cell><date when="1772">1772</date></cell>
+                 <cell>3,350,082</cell>
               </row>
               <row>
-                 <cell>1773</cell>
+                 <cell><date when="1773">1773</date></cell>
                  <cell>2,902,407</cell>
               </row>
               <row>
-                 <cell>1774</cell>
+                 <cell><date when="1774">1774</date></cell>
                  <cell>3,574,702</cell>
               </row>
               <row>
-                 <cell>1775</cell>
+                 <cell><date when="1775">1775</date></cell>
                  <cell>3,688,795</cell>
               </row>
               <row>
-                 <cell>1776</cell>
+                 <cell><date when="1776">1776</date></cell>
                  <cell>3,340,949</cell>
               </row>
               <row>
-                 <cell>1777</cell>
+                 <cell><date when="1777">1777</date></cell>
                  <cell>2,840,802</cell>
               </row>
               <!-- column break -->
               <row>
-                 <cell>1778</cell>
+                 <cell><date when="1778">1778</date></cell>
                  <cell>3,059,922</cell>
               </row>
               <row>
-                 <cell>1779</cell>
+                 <cell><date when="1779">1779</date></cell>
                  <cell>2,836,489</cell>
               </row>
               <row>
-                 <cell>1780</cell>
+                 <cell><date when="1780">1780</date></cell>
                  <cell>2,612,236</cell>
               </row>
               <row>
-                 <cell>1781</cell>
+                 <cell><date when="1781">1781</date></cell>
                  <cell>2,023,546</cell>
               </row>
               <row>
-                 <cell>1782</cell>
+                 <cell><date when="1782">1782</date></cell>
                  <cell>2,612,910</cell>
               </row>
               <row>
-                 <cell>1783</cell>
+                 <cell><date when="1783">1783</date></cell>
                  <cell>2,820,387</cell>
               </row>
               <row>
-                 <cell>1784</cell>
+                 <cell><date when="1784">1784</date></cell>
                  <cell>3,531,705</cell>
               </row>
               <row>
-                 <cell>1785</cell>
+                 <cell><date when="1785">1785</date></cell>
                  <cell>4,400,956</cell>
               </row>
               <row>
-                 <cell>1786</cell>
+                 <cell><date when="1786">1786</date></cell>
                  <cell>3,484,025</cell>
               </row>
               <row>
-                 <cell>1787</cell>
+                 <cell><date when="1787">1787</date></cell>
                  <cell>3,758,087</cell>
               </row>
               <row>
-                 <cell>1788</cell>
+                 <cell><date when="1788">1788</date></cell>
                  <cell>4,307,866</cell>
               </row>
               <row>
-                 <cell>1789</cell>
+                 <cell><date when="1789">1789</date></cell>
                  <cell>3,917,301</cell>
               </row>
               <row>
-                 <cell>1790</cell>
+                 <cell><date when="1790">1790</date></cell>
                  <cell>3,854,204</cell>
               </row>
            </table>
            <p>N.B. the total of ships cleared outwards from <placeName>England</placeName> and
               <placeName>Scotland</placeName> from <date when="1780-12">December 1780</date> to <date when="1787-12">December 1787</date> was 528, 
-              amounting to 123,581 tons; and the amount of those entered inwards 
-              was 576, amounting to 132,222 tons. The amount of goods,
+              amounting to <measure>123,581 tons</measure>; and the amount of those entered inwards 
+              was 576, amounting to <measure>132,222 tons</measure>. The amount of goods,
               <rs type="properAdjective">British</rs> produce, and manufacturers, exported from <placeName>Great Britain</placeName> 
-              to the <rs type="properAdjective">West Indian</rs> colonies in 1787, was £,1,463, 879 14s. 11d.
+              to the <rs type="properAdjective">West Indian</rs> colonies in <date when="1787">1787</date>, was <measure ana="#currency">£,1,463, 879 14s. 11d.</measure>
            </p>
         </div>
         <div type="appendix">
@@ -8848,11 +8849,11 @@
            <table>
               <row>
                  <cell>Years.</cell>
-                 <cell>Sugar Clayed.</cell>
-                 <cell>Ditto Muscovado.</cell>
-                 <cell>Coffee.</cell>
-                 <cell>Cotton.</cell>
-                 <cell>Indigo</cell>
+                 <cell><ecda:commodity ana="#food">Sugar Clayed</ecda:commodity>.</cell>
+                 <cell>Ditto <ecda:commodity ana="#food">Muscovado</ecda:commodity>.</cell>
+                 <cell><ecda:commodity ana="#food">Coffee</ecda:commodity>.</cell>
+                 <cell><ecda:commodity ana="#textile">Cotton</ecda:commodity>.</cell>
+                 <cell><ecda:commodity>Indigo</ecda:commodity></cell>
               </row>
               <row>
                  <cell/>
@@ -8863,55 +8864,55 @@
                  <cell>lb.</cell>
               </row>
               <row>
-                 <cell>1783</cell>
-                 <cell>77,<gap extent="3numbers"/>,113</cell>
+                 <cell><date when="1783">1783</date></cell>
+                 <cell>77,339,113</cell>
                  <cell>44,312,919</cell>
                  <cell>44,537,479</cell>
                  <cell>4,871,718</cell>
                  <cell>1,868,728</cell>
               </row>
               <row>
-                 <cell>1784</cell>
-                 <cell>6<gap extent="5numbers"/>50</cell>
+                 <cell><date when="1784">1784</date></cell>
+                 <cell>65,053,050</cell>
                  <cell>77,344,464</cell>
                  <cell>52,885,095</cell>
                  <cell>4,756,857</cell>
                  <cell>1,555,142</cell>
               </row>
               <row>
-                 <cell>1785</cell>
-                 <cell>6<gap extent="6numbers"/>7</cell>
+                 <cell><date when="1785">1785</date></cell>
+                 <cell>66,589,357</cell>
                  <cell>83,610,521</cell>
-                 <cell>51,268,109</cell>
+                 <cell>51,368,109</cell>
                  <cell>4,486,261</cell>
                  <cell>1,546,575</cell>
               </row>
               <row>
-                 <cell>1786</cell>
-                 <cell>7<gap extent="6numbers"/>7</cell>
+                 <cell><date when="1786">1786</date></cell>
+                 <cell>71,063,697</cell>
                  <cell>61,887,814</cell>
                  <cell>52,180,311</cell>
                  <cell>5,203,161</cell>
                  <cell>1,103,907</cell>
               </row>
               <row>
-                 <cell>1787</cell>
-                 <cell>5<gap extent="1number"/><unclear>1</unclear><gap extent="1number"/><unclear>2,403</unclear></cell>
+                 <cell><date when="1787">1787</date></cell>
+                 <cell>56,182,403</cell>
                  <cell>72,896,676</cell>
                  <cell>70,003,161</cell>
                  <cell>6,806,174</cell>
                  <cell>1,166,177</cell>
               </row>
               <row>
-                 <cell>1788</cell>
-                 <cell>7<unclear>2,227,709</unclear></cell>
+                 <cell><date when="1788">1788</date></cell>
+                 <cell>70,227,709</cell>
                  <cell>93,177,512</cell>
                  <cell>68,151,181</cell>
                  <cell>1,286,126</cell>
                  <cell>930,016</cell>
               </row>
               <row>
-                 <cell>1789</cell>
+                 <cell><date when="1789">1789</date></cell>
                  <cell>47,516,531</cell>
                  <cell>91,899,963</cell>
                  <cell>76,286,530</cell>
@@ -8923,8 +8924,8 @@
            <p><placeName>St. Domingue</placeName> was generally considered in <placeName>France</placeName> to yield about two-third of all their <rs type="properAdjective">West
               Indian</rs> produce; and, in <date when="1788">1788</date>, this island alone loaded for <placeName>France</placeName> 580 ships, of 370 ¾ tons
               on a medium, and 110 of 740 tons: exclusive of the numerous <rs type="properAdjective">French</rs> and foreign vessels
-              employed in the trade with <placeName>North and South America</placeName>, amounting, in the whole to 296,435
-              tons, nearly equal to one-third of the private ships of <placeName>Great Britain</placeName>.
+              employed in the trade with <placeName>North</placeName> and <placeName>South America</placeName>, amounting, in the whole to <measure>296,435
+              tons</measure>, nearly equal to one-third of the private ships of <placeName>Great Britain</placeName>.
            </p>
         </div>
       </back>
