@@ -61,18 +61,18 @@
            </interpGrp>
         </note>
            <note xml:id="n001" target="#a001">
-              <bibl><edition>Ed. <persName ref="#daniel_heinsius_1580">Heinsii</persName>, <date when="1613">1613</date>, p. 475.</edition></bibl>
-           </note>
+              <bibl>Ed. <docRole type="editor"><persName ref="#daniel_heinsius_1580">Heinsii</persName>,</docRole> <date when="1613">1613</date>, p. 475.</bibl>
+           </note> <!-- using <docRole> for now, because <editor> is not allowed -->
            <note xml:id="n002" target="#a002">
-              <bibl><title>De Causis Plant.</title> lib. VI. c.16. ed. <persName ref="#daniel_heinsius_1580">Heinsii</persName></bibl>
+              <bibl><title xml:lang="la">De Causis Plant.</title> lib. VI. c.16. ed. <docRole type="editor"><persName ref="#daniel_heinsius_1580">Heinsii</persName></docRole></bibl>
            </note>
            <note xml:id="n003" target="#a003">
-              <p><persName ref="#varro_attacinus_0082"><unclear>Varro <hi rend="mixed">Narboncensis</hi></unclear></persName>, or, as he is sometimes called, <persName ref="#varro_attacinus_0082">Varro
-              <unclear><hi rend="mixed">Atacinus</hi></unclear></persName>. a poetical writer, contemporary with the celebrated
+              <p><persName ref="#varro_attacinus_0082">Varro <hi rend="mixed">Narboensis</hi></persName>, or, as he is sometimes called, <persName ref="#varro_attacinus_0082">Varro
+             <hi rend="mixed">Atacinus</hi></persName>. a poetical writer, contemporary with the celebrated
               <persName ref="#marcus_terentius_varro_116">M.T. Varro</persName>.</p>
            </note>
            <note xml:id="n004" target="#a004">
-              <unclear>Periegesis</unclear>, viz. <date when="1127">1127</date>.
+              <persName ref="#dionysius_periegetes_0001" rend="mixed">Periegesis</persName>, viz. <date when="1127">1127</date>.
            </note>
            <note xml:id="n005" target="#a005">
               <bibl>P. 1016. <edition>edit. 1707</edition>.</bibl>
@@ -81,7 +81,7 @@
               <p>In the year <date when="1642">1642</date>.</p>
            </note>
            <note xml:id="n007" target="#a007">
-              <p><placeName>Ferro</placeName> is about fifteen leagues in circumference, and five in
+              <p><placeName>Ferro</placeName> is about <measure>fifteen leagues</measure> in circumference, and <measure>five</measure> in
               breadth. It is subject to frequent drought, there being only
               three inconsiderable springs in it.
               </p>
@@ -90,13 +90,13 @@
               <bibl><author><persName ref="#george_glas_1725">Glass's</persName></author> <title>History of the <placeName>Canary Islands</placeName></title>, p. 275, anno <date when="1764">1764</date>.</bibl>
            </note>
            <note xml:id="n009" target="#a009">
-              <bibl>P. 275, <edition>edit. <persName ref="#georg_heinrich_gotze_1667" rend="mixed">Goezii</persName>, <date when="1777">1777</date></edition>.</bibl>
+              <bibl>P. 275, edit. <docRole type="editor"><persName ref="#georg_heinrich_gotze_1667" rend="mixed">Goezii</persName></docRole>, <date when="1777">1777</date>.</bibl>
            </note>
            <note xml:id="n010" target="#a010">
-              <p><placeName rend="italic">Madeira</placeName>. <quote xml:lang="la" rend="italic">Nomen factum est à Lat. <distinct rend="italic">materia</distinct> quâ tam in
+              <p><placeName rend="italic">Madeira</placeName>. <quote xml:lang="la">Nomen factum est à <name>Lat.</name> <distinct rend="italic">materia</distinct> quâ tam in
               vulgatâ Bibliorum versione quam alibi significature idem quòd
-              Anglicè <distinct rend="italic">timber</distinct>; quia tali materiâ abundabat ista insula.</quote> <bibl>Hydii,
-              not in <unclear><title>Perits</title>.</unclear> Itin. p. 113.</bibl>
+              <name>Anglicè</name> <distinct rend="italic">timber</distinct>; quia tali materiâ abundabat ista insula.</quote> <bibl><persName ref="#hydii_0001">Hydii</persName>,
+              not. in <unclear><title>Perits</title>.</unclear> Itin. p. 113.</bibl> <!-- can we find this author -->
               </p>
            </note>
            <note xml:id="n011" target="#a011">
