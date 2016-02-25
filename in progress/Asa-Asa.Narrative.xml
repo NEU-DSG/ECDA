@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../out/ecda.odd.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ecda="http://dsg.northeastern.edu/ecda/ns/1.0">
- <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Title</title>
@@ -13,60 +13,190 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
-  <text>
-     <ecda:hyperDiv>
-        <ecda:notes>
-           <note type="ecda">
-              <interpGrp type="commType">
-                 <interp xml:id="flora">plants (flora)</interp>
-                 <interp xml:id="fauna">animals (fauna)</interp>
-                 <interp xml:id="food">food and other consumable items (incl. drinks, seasonings, etc.)</interp>
-                 <interp xml:id="medical">medical or medicinal items (including references to folk medicine)</interp>
-                 <interp xml:id="textile">sartorial and textile references</interp>
-                 <interp xml:id="currency">references to money or currency</interp>
-              </interpGrp>
-              <interpGrp type="productionPhase">
-                 <interp xml:id="plant">planting</interp>
-                 <interp xml:id="cultivation">cultivation</interp>
-                 <interp xml:id="harvest">harvesting</interp>
-                 <interp xml:id="refine">refining</interp>
-                 <interp xml:id="production">production (non plant-based commodities)</interp>
-                 <interp xml:id="transport">transport</interp>
-                 <interp xml:id="sale">sale</interp>
-                 <interp xml:id="circulation">circulation of commodities, such as through gift-giving or theft</interp>
-                 <interp xml:id="use">use of commodities</interp>
-              </interpGrp>
-              <interpGrp>
-                 <interp xml:id="punishment">References to scenes of punishment or the enforcement of colonial rule</interp>
-                 <interp xml:id="military">References to the material conditions, social institutions or actual events of warfare</interp>
-                 <interp xml:id="abolition">References to the abolition of slavery or abolitionist movement</interp>
-                 <interp xml:id="disease">References to ailment and disease, specifically in people</interp>
-                 <interp xml:id="poison">References to poison</interp>
-                 <interp xml:id="obeah">References to Obeah</interp>
-                 <interp xml:id="performance">References to performance (esp. John Canoe)</interp>
-              </interpGrp>
-          </note>
-        </ecda:notes>
-     </ecda:hyperDiv>
-     
-     
-     <front>
-        <titleBlock>
-           <docTitle>
-              <titlePart></titlePart>
-           </docTitle>
-           
-        </titleBlock>
-     </front>
-     
+   </teiHeader>
+   <text>
+      <ecda:hyperDiv>
+         <ecda:notes>
+            <note type="ecda">
+               <interpGrp type="commType">
+                  <interp xml:id="flora">plants (flora)</interp>
+                  <interp xml:id="fauna">animals (fauna)</interp>
+                  <interp xml:id="food">food and other consumable items (incl. drinks, seasonings,
+                     etc.)</interp>
+                  <interp xml:id="medical">medical or medicinal items (including references to folk
+                     medicine)</interp>
+                  <interp xml:id="textile">sartorial and textile references</interp>
+                  <interp xml:id="currency">references to money or currency</interp>
+               </interpGrp>
+               <interpGrp type="productionPhase">
+                  <interp xml:id="plant">planting</interp>
+                  <interp xml:id="cultivation">cultivation</interp>
+                  <interp xml:id="harvest">harvesting</interp>
+                  <interp xml:id="refine">refining</interp>
+                  <interp xml:id="production">production (non plant-based commodities)</interp>
+                  <interp xml:id="transport">transport</interp>
+                  <interp xml:id="sale">sale</interp>
+                  <interp xml:id="circulation">circulation of commodities, such as through
+                     gift-giving or theft</interp>
+                  <interp xml:id="use">use of commodities</interp>
+               </interpGrp>
+               <interpGrp>
+                  <interp xml:id="punishment">References to scenes of punishment or the enforcement
+                     of colonial rule</interp>
+                  <interp xml:id="military">References to the material conditions, social
+                     institutions or actual events of warfare</interp>
+                  <interp xml:id="abolition">References to the abolition of slavery or abolitionist
+                     movement</interp>
+                  <interp xml:id="disease">References to ailment and disease, specifically in
+                     people</interp>
+                  <interp xml:id="poison">References to poison</interp>
+                  <interp xml:id="obeah">References to Obeah</interp>
+                  <interp xml:id="performance">References to performance (esp. John Canoe)</interp>
+               </interpGrp>
+            </note>
+         </ecda:notes>
+      </ecda:hyperDiv>
+
+
+      <front>
+         <titleBlock>
+            <docTitle>
+               <titlePart/>
+            </docTitle>
+
+         </titleBlock>
+      </front>
+
       <body>
          <div type="prefatory">
-      
-         <p>Some text here.</p>
+
+            <p>THE following interesting narrative is a convenient supplement to the history of Mary
+               Prince. It is given, like hers, as nearly as possible in the narrator’s words, with
+               only so much correction as was necessary to connect the story, and render it
+               grammatical. The concluding passage in inverted commas, is entirely his own. While
+               Mary’s narrative shews the disgusting character of colonial slavery, this little tale
+               explains with equal force the horrors in which it originates.</p>
+            <p>It is necessary to explain that Louis came to this country about five year ago, in a
+               French vessel called the Pearl. She had lost her reckoning, and was driven by stress
+               of weather into the port of St Ives, in Cornwall. Louis and his four companions were
+               brought to London upon a writ of Habeas Corpus at the instance of Mr George Stephen;
+               and, after some trifling opposition on the part of the master of the vessel, were
+               discharged by Lord Wynford. Two of his unfortunate fellow-sufferers died of the
+               measles at Hampstead; the other two returned to Sierra Leone; but poor Louis, when
+               offered the choice of going back to Africa, replied, ‘Me no father, no mother now; me
+               stay with you.’ And here he has ever since remained; conducting himself in a way to
+               gain the good will and respect of all who know him. He is remarkably intelligent ,
+               understands our language perfectly, and can read and write well. The last sentences
+               of the following narrative will seem almost too peculiar to be his own; but it is not
+               the first time that in conversation with Mr George Stephen, he has made similar
+               remarks. On one occasion in particular, he was heard saying to himself in the
+               kitchen, while sitting by the fire apparently in deep thought, ‘Me think,--me
+               think--’ A fellow-servant inquired what he meant; and he added, ‘Me think what a good
+               thing I came to England! Here, I know what God is, and read my Bible; in my country
+               they have no God, no Bible.’</p>
+            <p>How severe and just a reproof of the guilty wretches who visit his country only with
+               fire and sword! How deserved a censure upon the not less guilty men, who dare to
+               vindicate the state of slavery, on the lying pretext, that its victims are of an
+               inferior nature! And scarcely less deserving of reprobation are those who have it in
+               their power to prevent these crimes, but who remain inactive from indifference, or
+               are dissuaded from throwing the shield of British power over the victim of
+               oppression, by the sophistry, and the clamour, and the avarice of the oppressor. It
+               is the reproach and the sin of England. May God avert from our country the ruin which
+               this national guilt deserves! </p>
+            <p>We lament to add, that the Pearl which brought these negroes to our shore, was
+               restored to its owners at the instance of the French Government, instead of being
+               condemned as a prize to Lieut. Rye who, on his own responsibility, detained her, with
+               all her manacles and chains and other detestable proofs of her piratical occupation
+               on board. We trust it is not yet too late to demand investigation into the reasons
+               for restoring her.</p>
          </div>
-      
+         <div type="section">
+            <head> The Negro Boy's Narrative</head>
+            <p>My father's name was Clashoquin; mine is Asa-Asa. He lived in a country called Bycla,
+               near Egie, a large town. Egie is as latge as Brighton; it was some way from the sea.
+               I had five brothers and sisters. We all lived together with my father and mother; he
+               kept a horse, and was respectable, but not one of the great men. My uncle was one of
+               the great men at Egie: he could make men come and work for him: his name was Otou. He
+               had a great deal of land and cattle. My father sometimes worked on his own land, and
+               used to make charcoal. I was too little to work; my eldest brother used to work on
+               the land; and we were all very happy.</p>
+            <p> A great many people, whom we called Adiny[insert]s, set fire to Egie in the morning
+               before daybreak; there were some thousands of them. They killed a great many, and
+               burnt all their houses. They staid two days, and then carried all the people whom
+               they did not kill.</p>
+            <p>They came again every now and then for a month, as long as they could find people to
+               carry away. They used to tie them by the feet, except when they were taking them off,
+               and then they let them loose; but if they offered to run away, the would shoot them.
+               I lost a great many friends and relations at Egie; about a dozen. They sold all they
+               carried away, to be slaves. I know this because I afterwards saw them as slaves on
+               the other side of the sea. They took away brothers, and sisters, and husbands, and
+               wives; they did not care about this. They were sod for cloth or gunpowder, sometimes
+               for salt or guns; sometimes they got four or five guns for a man: they were English
+               guns, made like my master's that I clean for his shooting. The Adiny{insert] burnt a
+               great many places besides Egie. They burnt all the country wherever they found
+               villages; they used to shoot men, women, and children, if they ran away.</p>
+            <p>They came to us about eleven o'clock one day, and directly they came they set our
+               house on fire. All of us had run away. We kept together, and went into the woods, and
+               stopped there two days. The Adiny[insert]s then went away, and we returned home and
+               found everything burnt. We tried to build a little shed, and were beginning to get
+               comfortable again. We found several of our neighbours lying around wounded; they had
+               been shot. I saw the bodies of four or five little children whom they had killed with
+               blows on the head. They had carried away their fathers and mothers, but the children
+               were too small for slaves, so they killed them. They kad killed severl others, but
+               these were all tht I saw. I saw them lying in the street like dead dogs.</p>
+            <p> In about a week after we got back, the Adiny[insert[s returned, and burnt all the
+               sheds and houses they had left standing. We all ran away again; we went to the woods
+               as we had done before.--They followed us the next day. We went farther into the
+               woods, and staid there four days and nights; we were half starved; we only got a few
+               potatoes. My uncle Otou was with us. At the end of this time, the Adiny[insert[s
+               found us. We ran away. They called my uncle to go to them; but he refused, and they
+               shot him immediately: they killed him. The rest of us ran on, and they did not get at
+               us till the next day. I ran up into a tree: they followed me and brought me down.
+               They tied my feet. I do not know if they found my father and mother, and brothers and
+               sisters: they had run faster than me, and were half a mile further when I got up into
+               the tree: I have never seen them since. --There was man who ran up into the tree with
+               me: I believe they shot him, for I never saw him again.</p>
+            <p>They carried away about twenty besides me. They carried us to the sea. They did not
+               beat us: they only killed one man, who ws very ill and too weak to carry his load:
+               they made all of us carry chickens and meat for our food; but this poor man could not
+               carry his load, and they ran him through the body with a sword. -- He was a neighbour
+               of ours. When we got to the sea they sold all of us, but not to the same person. The
+               sold us for money; and I was sold six times over, sometimes for money, sometimes for
+               cloth, and sometimes for a gun. I was about thirteen years old. It was about half a
+               year from the time I waas taken, before I saw the white people.</p>
+            <p>We were taken in a boat from place to place, and sold at every place we stopped at.
+               In about six months we got to a ship, in which we first saw white people: they were
+               French. They bought us. We found here a great many other slaves; there were about
+               eighty, including women and children. The Frenchmen sent away all but five of us into
+               another very large ship. We five staid on board till we got to England, which was
+               about five or six months. The slaves we saw on board the ship were chained together
+               by the legs below deck, so close they could not move. They were flogged very cruelly:
+               I saw one of them flogged till he diedl we could not tell wat for. They gave them
+               enough to eat. The place they were confined in below deck was so hot and nasty I
+               could not bear to be in it. A great many of the slaves were ill, ut they were not
+               attended to. They used to flog me very bad on board the ship: the captain cut my head
+               very bad one time. </p>
+            <p>'I am very happy to be in England, as far as I am very well;--but I have no friend
+               belonging to me, but God, who will take care of me as he has done already. I am very
+               glad I have come to England, to know who God is. I should lke much to see my friends
+               again, but I do not now wish to go back to the,: for if I go back to my own country,
+               I might be taken as a slave again. I would rather stay here, where I am free, than go
+               back to my country to be sold. I shall stay in England as long as (please God) I
+               shall live. I wish the King of England could know all I have told you. I wish it that
+               he my see how cruelly we are used. We had no king in our country, or he would have
+               stopt it. I think the king of England might stop it, and this is why I wish him to
+               know it all. I have heard say he is good; and if he is, he will stop it if he can. I
+               am well of f myself, for I am well taken care of, and have good bed and good clothes;
+               but I wish my own people to be as comfortable.'</p>
+
+
+
+
+
+         </div>
+
+
       </body>
-      
-  </text>
+
+   </text>
 </TEI>
