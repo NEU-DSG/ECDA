@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../out/ecda.odd.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:ecda="http://dsg.northeastern.edu/ecda/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <ecda:hyperDiv>
+         <ecda:notes>
+            <note type="ecda">
+               <interpGrp type="commType">
+                  <interp xml:id="flora">plants (flora)</interp>
+                  <interp xml:id="fauna">animals (fauna)</interp>
+                  <interp xml:id="food">food and other consumable items (incl.
+                     drinks, seasonings, etc.)</interp>
+                  <interp xml:id="medical">medical or medicinal items (including
+                     references to folk medicine)</interp>
+                  <interp xml:id="textile">sartorial and textile
+                     references</interp>
+                  <interp xml:id="currency">references to money or
+                     currency</interp>
+               </interpGrp>
+               <interpGrp type="productionPhase">
+                  <interp xml:id="plant">planting</interp>
+                  <interp xml:id="cultivation">cultivation</interp>
+                  <interp xml:id="harvest">harvesting</interp>
+                  <interp xml:id="refine">refining</interp>
+                  <interp xml:id="production">production (non plant-based
+                     commodities)</interp>
+                  <interp xml:id="transport">transport</interp>
+                  <interp xml:id="sale">sale</interp>
+                  <interp xml:id="circulation">circulation of commodities, such
+                     as through gift-giving or theft</interp>
+                  <interp xml:id="use">use of commodities</interp>
+               </interpGrp>
+               <interpGrp>
+                  <interp xml:id="punishment">References to scenes of punishment
+                     or the enforcement of colonial rule</interp>
+                  <interp xml:id="military">References to the material
+                     conditions, social institutions or actual events of
+                     warfare</interp>
+                  <interp xml:id="abolition">References to the abolition of
+                     slavery or abolitionist movement</interp>
+                  <interp xml:id="disease">References to ailment and disease,
+                     specifically in people</interp>
+                  <interp xml:id="poison">References to poison</interp>
+                  <interp xml:id="obeah">References to Obeah</interp>
+                  <interp xml:id="performance">References to performance (esp.
+                     John Canoe)</interp>
+               </interpGrp>
+            </note>
+         </ecda:notes>
+      </ecda:hyperDiv>
+
+
+      <front>
+         <titleBlock>
+            <docTitle>
+               <titlePart/>
+            </docTitle>
+
+         </titleBlock>
+      </front>
+
+      <body>
+         <div>
+
+            <listPerson>
+               <person xml:id="aaron001">
+                  <persName><forename>Aaron</forename>
+                     <roleName type="honorific">The Priest</roleName></persName>
+               </person>
+               <person xml:id="achilles_001">
+                  <persName><forename>Achille</forename>
+                  </persName>
+               </person>
+               <person xml:id="joannes_actuarius_1275">
+                  <persName><forename>Joannes</forename>
+                     <surname>Actuarius</surname>
+                  </persName>
+                  <birth when="1275">1275</birth>
+               </person>
+               <person xml:id="john_adams_1735">
+                  <persName><forename>John</forename>
+                     <surname>Adams</surname>
+                  </persName>
+                  <birth when="1735">1735</birth>
+               </person>
+               <person xml:id="aesop_620">
+                  <persName><forename>Aesop</forename>
+                  </persName>
+                  <birth when="-0620">620</birth>
+               </person>
+               <person xml:id="alcyone_0001">
+                  <persName><forename>Alcyone</forename></persName>
+               </person>
+               <person xml:id="alexander_the_great_356">
+                  <persName><forename>Alexander</forename>
+                     <nameLink>the</nameLink>
+                     <addName type="ephitet">the Great</addName>
+                  </persName>
+                  <birth when="-0356">-356</birth>
+               </person>
+               <person xml:id="anne_great_britain_1665">
+                  <persName><forename>Anne</forename>
+                     <roleName type="nobility">Queen</roleName>
+                  </persName>
+                  <birth when="1665">1665</birth>
+               </person>
+               <person xml:id="antoine_francois_de_fourcroy_1755">
+                  <persName><forename>Antoine</forename>
+                     <surname>Francois</surname>
+                     <roleName type="nobility">comte</roleName>
+                     <addName type="honorifc">comte de Fourcroy</addName>
+                  </persName>
+                  <birth when="1665">1755</birth>
+               </person>
+               <person xml:id="apollo_0001">
+                  <persName><forename>Apollo</forename>
+                  </persName>
+               </person>
+               <person xml:id="archigenes_0001">
+                  <persName><forename>Archigenes</forename>
+                  </persName>
+               </person>
+               <person xml:id="ariel_0001">
+                  <persName><forename>Ariel</forename>
+                  </persName>
+               </person>
+               <person xml:id="arion_0001">
+                  <persName><forename>Arion</forename>
+                  </persName>
+               </person>
+               <person xml:id="ludovico_ariosto_1474">
+                  <persName><forename>Ludovico</forename>
+                     <surname>Ariosto</surname>
+                  </persName>
+                  <birth when="1474">1474</birth>
+               </person>
+               <person xml:id="arrian_0086">
+                  <persName><forename>Arrian</forename>
+                  </persName>
+                  <birth when="-0086">86</birth>
+               </person>
+               <person xml:id="philip_astley_1742">
+                  <persName><forename>Philip</forename>
+                     <surname>Astley</surname>
+                  </persName>
+                  <birth when="1742"/>
+               </person>
+               <person xml:id="atahualpa_1500">
+                  <persName><forename>Atahualpa</forename>
+                  </persName>
+                  <birth when="1500">1500</birth>
+               </person>
+               <person xml:id="atargatis_0001">
+                  <persName><forename>Atargatis</forename>
+                  </persName>
+               </person>
+               <person xml:id="aulus_cornelius_celsus_0025">
+                  <persName><forename>Aulus</forename>
+                     <forename type="middle">Cornelius</forename>
+                     <surname>Celsus</surname>
+                  </persName>
+                  <birth when="-0025">25</birth>
+               </person>
+               <person xml:id="averroes_1126">
+                  <persName><forename>Averroes</forename>
+                  </persName>
+               </person>
+               <person xml:id="avicenna_0980">
+                  <persName><forename>Avicenna</forename>
+                  </persName>
+                  <birth when="-0980">980</birth>
+               </person>
+               <person xml:id="charles_babbage_1791">
+                  <persName><forename>Charles</forename>
+                     <surname>Babbage</surname>
+                  </persName>
+                  <birth when="1791">1791</birth>
+               </person>
+               <person xml:id="francis_bacon_1561">
+                  <persName><forename>Francis</forename>
+                     <surname>Bacon</surname>
+                  </persName>
+                  <birth when="1561">1561</birth>
+               </person>
+               <person xml:id="john_bacon_1740">
+                  <persName><forename>John</forename>
+                     <surname>Bacon</surname>
+                  </persName>
+                  <birth when="1740">1740</birth>
+               </person>
+               <person xml:id="gaspard_bauhin_1560">
+                  <persName><forename>Gaspard</forename>
+                     <surname>Bauhin</surname>
+                  </persName>
+                  <birth when="1560">1560</birth>
+               </person>
+               <person xml:id="johann_bauhin_1541">
+                  <persName><forename>Johann</forename>
+                     <surname>Bauhin</surname>
+                  </persName>
+                  <birth when="1541">1541</birth>
+               </person>
+               <person xml:id="andrew_bell_1753">
+                  <persName><forename>Andrew</forename>
+                     <surname>Bell</surname>
+                  </persName>
+                  <birth when="1753">1753</birth>
+               </person>
+               <person xml:id="george_bellamy_1727">
+                  <persName><forename>George</forename>
+                     <surname>Bellamy</surname>
+                  </persName>
+                  <birth when="1727">1727</birth>
+               </person>
+               <person xml:id="bellona_0001">
+                  <persName><forename>Bellona</forename>
+                  </persName>
+               </person>
+               <person xml:id="augustin_belloste_1654">
+                  <persName><forename>Augustin</forename>
+                     <surname>Belloste</surname>
+                  </persName>
+                  <birth when="1654">1654</birth>
+               </person>
+               <person xml:id="john_benbow_1653">
+                  <persName><forename>John</forename>
+                     <surname>Benbow</surname>
+                  </persName>
+                  <birth when="1653">1653</birth>
+               </person>
+               <person xml:id="torbern_bergman_1735">
+                  <persName><forename>Torbern</forename>
+                     <surname>Bergman</surname>
+                  </persName>
+                  <birth when="1735">1735</birth>
+               </person>
+               <person xml:id="claude_louis_berthollet">
+                  <persName><forename>Claude</forename>
+                     <forename type="middle">Louis</forename>
+                     <surname>Berthollet</surname>
+                  </persName>
+                  <birth when="1748">1748</birth>
+               </person>
+               <person xml:id="thomas_berwick_1753">
+                  <persName><forename>Thomas</forename>
+                     <surname>Berwick</surname>
+                  </persName>
+                  <birth when="1753">1753</birth>
+               </person>
+              <person xml:id="bluebeard_0001">
+                  <persName><surname>Bluebeard</surname>
+                  </persName>
+               </person>
+               <person xml:id="napolean_bonaparte_1769">
+                  <persName><forename>Napoleon</forename>
+                     <surname>Bonaparte</surname>
+                  </persName>
+                  <birth when="1769">1769</birth>
+               </person>
+               <person xml:id="madame_de_brinvilliers_1630">
+                  <persName><forename>Marie-Madeleine-Marguerite</forename>
+                     <nameLink>de</nameLink>
+                     <surname>Brinvilliers</surname>
+                  </persName>
+                  <birth when="1630">1630</birth>
+               </person>
+               <person xml:id="henry_brougham_1778">
+                  <persName><forename>Henry</forename>
+                     <surname>Brougham</surname>
+                  </persName>
+                  <birth when="1778">1778</birth>
+               </person>
+               <person xml:id="jean_de_la_bruyere_1645">
+                  <persName><forename>Jean</forename>
+                     <nameLink>de la</nameLink>
+                     <surname>Bruyre</surname>
+                  </persName>
+                  <birth when="1561">1561</birth>
+               </person>
+               <person xml:id="samuel_brydges_1762">
+                 <persName> <forename>Samuel</forename>
+                  <forename type="middle">Egerton</forename>
+                  <surname>Brydges</surname></persName>
+                  <birth when="1762">1762</birth>
+               </person>
+              <person xml:id="herman_boerhaave_1668">
+                  <persName><forename>Herman</forename>
+                     <surname>Boerhaave</surname>
+                  </persName>
+                  <birth when="1668">1668</birth>
+               </person>
+               <person xml:id="richard_bowen_1761">
+                  <persName><forename>Richard</forename>
+                     <surname>Bowen</surname>
+                  </persName>
+                  <birth when="1761">1761</birth>
+               </person>
+               <person xml:id="john_bull_1712">
+                  <persName><forename>John</forename>
+                     <surname>Bull</surname>
+                  </persName>
+                  <birth when="1712">1712</birth>
+               </person>
+               <person xml:id="gottfried_burger_1747">
+                  <persName><forename>Gottfried</forename>
+                     <surname>Bürger</surname>
+                  </persName>
+                  <birth when="1747">1747</birth>
+               </person>
+               <person xml:id="edmund_burke_1729">
+                  <persName><forename>Edmund</forename>
+                     <surname>Burke</surname>
+                  </persName>
+                  <birth when="1729">1729</birth>
+               </person>
+               <person xml:id="alexander_burnes_1805">
+                  <persName><forename>Alexander</forename>
+                     <surname>Burnes</surname>
+                  </persName>
+                  <birth when="1805">1805</birth>
+               </person>
+               <person xml:id="frances_burney_1752">
+                  <persName><forename>Frances</forename>
+                     <surname>Burney</surname>
+                  </persName>
+                  <birth when="1752">1752</birth>
+               </person>
+               <person xml:id="samuel_butler_1613">
+                  <persName><forename>Samuel</forename>
+                     <surname>Butler</surname>
+                  </persName>
+                  <birth when="1613">1613</birth>
+               </person>
+               <person xml:id="william_butler">
+                  <persName><forename>William</forename>
+                     <surname>Butler</surname>
+                  </persName>
+                  <birth when="1535">1535</birth>
+               </person>
+               <person xml:id="lord_byron_1798">
+                  <persName><forename>George</forename>
+                     <forename type="middle">Gordon</forename>
+                     <surname>Byron</surname>
+                     <addName type="honorific">Lord</addName>
+                  </persName>
+                  <birth when="1747">1747</birth>
+               </person>
+               
+               
+               
+               
+               
+               
+               
+            </listPerson>
+
+
+
+         </div>
+
+
+
+
+      </body>
+
+   </text>
+</TEI>

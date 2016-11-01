@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../out/ecda.odd.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ecda="http://dsg.northeastern.edu/ecda/ns/1.0">
+ <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+     <ecda:hyperDiv>
+        <ecda:notes>
+           <note type="ecda">
+              <interpGrp type="commType">
+                 <interp xml:id="flora">plants (flora)</interp>
+                 <interp xml:id="fauna">animals (fauna)</interp>
+                 <interp xml:id="food">food and other consumable items (incl. drinks, seasonings, etc.)</interp>
+                 <interp xml:id="medical">medical or medicinal items (including references to folk medicine)</interp>
+                 <interp xml:id="textile">sartorial and textile references</interp>
+                 <interp xml:id="currency">references to money or currency</interp>
+              </interpGrp>
+              <interpGrp type="productionPhase">
+                 <interp xml:id="plant">planting</interp>
+                 <interp xml:id="cultivation">cultivation</interp>
+                 <interp xml:id="harvest">harvesting</interp>
+                 <interp xml:id="refine">refining</interp>
+                 <interp xml:id="production">production (non plant-based commodities)</interp>
+                 <interp xml:id="transport">transport</interp>
+                 <interp xml:id="sale">sale</interp>
+                 <interp xml:id="circulation">circulation of commodities, such as through gift-giving or theft</interp>
+                 <interp xml:id="use">use of commodities</interp>
+              </interpGrp>
+              <interpGrp>
+                 <interp xml:id="punishment">References to scenes of punishment or the enforcement of colonial rule</interp>
+                 <interp xml:id="military">References to the material conditions, social institutions or actual events of warfare</interp>
+                 <interp xml:id="abolition">References to the abolition of slavery or abolitionist movement</interp>
+                 <interp xml:id="disease">References to ailment and disease, specifically in people</interp>
+                 <interp xml:id="poison">References to poison</interp>
+                 <interp xml:id="obeah">References to Obeah</interp>
+                 <interp xml:id="performance">References to performance (esp. John Canoe)</interp>
+              </interpGrp>
+          </note>
+        </ecda:notes>
+     </ecda:hyperDiv>
+     
+     
+     <front>
+        <titleBlock>
+           <docTitle>
+              <titlePart></titlePart>
+           </docTitle>
+           
+        </titleBlock>
+     </front>
+     
+      <body>
+         <div type="section">
+      
+         <p>I saw the OBI of the famous robber, <hi rend="italic">Three fingered JACK</hi>, the terror
+            of Jamaica in 1780. The Maroons who flew him brought it to me*.
+            <note>He was slain on Saturday 27th of January, 1781.</note></p>
+            <p>His OBI consisted of the end of a goat's horn, filled with a
+               compound of grave dirt, ashes, the blood of a black cat, and
+               human fat; all mixed into a kind of paste. A cat's foot, a dried
+               toad, a pig's tail, a slip of virginial parchment of kid's skin,
+               with characters marked in blood on it, were also in his <hi
+                  rend="italic">Obian</hi>
+               bag.
+            </p>
+            <p>These, with a keen sabre, and two guns, like <hi
+               rend="italic">Robinson Crusoe</hi>, were all his OBI; with which,
+            and his courage in descending into the plains and plundering to
+            supply his wants, and his skill in retreating into difficult
+            fastnesses, among the mountains, commanding the only access to them,
+            where none dared to follow him, he terrified the inhabitants, and
+            set the civil power, and the neighbouring militia  
+         <pb n="198"/>
+              of that island, at defiance, for nearly two years.
+            </p>
+            <p>He had neither accomplice, nor associate. There were a few
+               runaway negroes in the woods near Mount Lebanus, the place of his
+               retreat; but he had crossed their foreheads with some of the
+               magic in his horn, and they count not betray him. But he trusted
+               no one. He scorned assistance. He ascended above SPARTACUS. He
+               robbed alone; fought all his battles alone; and always killed his
+               pursuers.
+            </p>
+            <p>
+               By his magic, he was not only the dread of the negroes, but there
+               were many white people, who believed he was possessed of some
+               supernatural powers. 
+            </p>
+            <p>In hot climates females marry very young; and often with great
+               disparity of age. Here JACK was the author of many troubles; —for
+               several matches proved unhappy.</p>
+            <p>
+               "Give a dog an ill name, and hang him."
+            </p>
+            <p>
+               Clamours rose on clamours against the cruel sorcerer; and every
+               conjugal mishap was laid at the door of JACK'S malific spell of
+               <hi rend="italic">tying the point</hi>, on the wedding day.
+            </p>
+            <p>GOD knows, poor JACK had sins enough of his own to carry, without
+               loading him with the sins of others. He would sooner have made a
+               <hi rend="italic">Mcdean</hi> cauldron for the whole island, <pb
+                  n="199"/> than disturb one lady's happiness. He had many
+               opportunities; and, though he had a mortal hatred to white men,
+               he was never known to hurt a child, or abuse a woman.</p>
+            <p>But even JACK himself was born to die.</p>
+            <p>Allured by the rewards offered by Governor DALLING, in
+               proclamations, dated the 12th of December, in 1780, and 13th of
+               January, 1781*;<note><p>BY THE KING. A PROCLAMATION.</p><p> 
+              Whereas we have been informed by our House of Assembly of this our
+              Island of Jamaica, that a very desperate gang of Negro Slaves,
+              headed by a Negro Man Slave called and known by the name of
+              <hi rend="italic">Three-fingered JACK</hi>, hath, for many months
+                  past, committed many robberies, and carried off many Negro and
+                  other Slaves on the Windward roads into the woods, and hath
+                  also committed several murders; and that repeated parties have
+                  been fitted out and sent against the said <hi
+                     rend="italic">Three-fingered JACK</hi>, and also a further
+                  reward for apprehending each and every Negro Man Slave
+                  belonging to the said gang, and delivering him or them to any
+                  of the gaolers in this Island; And whereas, we have since
+                  received another message from our said House of Assembly,
+                  requesting us to offer an additional reward of <hi
+                     rend="italic">Two Hundred
+                  Pounds</hi>, as a further encouragement for the apprehending,
+                  or bringing in the head of that daring Rebel, called <hi
+                     rend="italic">Three-fingered JACK</hi>, who hath hitherto
+                  eluded every attempt against him; We, having taken the same
+                  into our consideration, have thought fit to issue this our
+                  Royal Proclamation, hereby strictly charging and commanding,
+                  and we do hereby strictly charge and command, all and every
+                  our loving subjects within our said Island, to pursue and
+                  apprehend, or cause to be pursued and apprehended, the body of
+                  the said Negro Man named <hi rend="italic">Three-fingered
+                     JACK</hi>, and also of each and every Negro Man Slave
+                  belonging to the said gang, and deliver him or them to any of
+                  the gaolers of this Island. And we do, at the influence of our
+                  said House of Assembly, offer a reward of <hi
+                     rend="italic">One Hundred Pounds</hi>, and at the like
+                  instance a further reward of <hi rend="italic">Two Hundred
+                     Pounds</hi>, to be paid to the person or persons who shall
+                  so apprehend and take the body of the said Negro called <hi
+                     rend="italic">Three-fingered JACK</hi>. And we do, at the
+                  instance of our said House of Assembly, offer a further reward
+                  of <hi rend="italic">Five Pounds</hi>, over and above what is
+                  allowed by law, for apprending each and every Negro Man Slave
+                  belonging to said gang, and delivering him or them to any of
+                  the gaolers of this Island, to be dealth with according to
+                  law. </p>
+                  <p>Witness his Excellency, JOHN DALLING, Esquire,
+                     Captain-General and Governor in Chief of our said Island of
+                     Jamaica, and other the Territories thereon depending in
+                     America, Chancellor and Vice-Admiral of the same, at Saint
+                     Jago de la Vega, the thirteenth day of January, in the
+                     twenty0first year of our reign, annoque Domini one thousand
+                     seven hundred and eighty-one. </p>
+                  <p>JOHN DALLING</p>
+                  <p>By his Excellency's command,</p>
+                  <p>R. Lewing, Sec.</p>
+                  <p>GOD SAVE THE KING.</p>
+            </note>
+              and, by a resolution of the House of <pb n="200"/>Assembly*,
+               <note>
+                 <p>*HOUSE OF ASSEMBLY, 29TH DECEMBER, 1780 </p>
+                 <p>RESOLVED, that, over and above the reward of one hundred
+                    pounds offered by his Majesty's proclamation for taking or
+                    killing the rebellious Negro called <hi
+                       rend="italic">Three-fingered JACK</hi>, the further
+                    reward of FREEDOM shall be given to any slave that shall
+                    take or kill the said <hi
+                       rend="italic">Three-fingered JACK</hi>, and that the
+                    House will make good the value of such slave to the
+                    proprieter thereof. And if any one of his accomplices will
+                    kill the said <hi rend="italic">Three-fingered JACK</hi>,
+                    and bring in his head, and hand wanting the fingers, such
+                    accomplice shall be entitled to his <hi
+                       rend="italic">free</hi> PARDON, and his <hi
+                          rend="italic">FREEDOM</hi> as above, upon due proof
+                    being made of their being the head and hand of the said <hi
+                       rend="italic">Three-fingered JACK</hi>.  </p>
+                 <p>By the House, </p>
+                 <p>SAMUEL HOWELL, Cl. Assem.</p>
+              </note>
+               which followed the first proclamation; two negroes, named
+               Quashee, and <pb n="201"/> SAM (SAM was Captain Davy's son, he
+               who shot a Mr. THOMPSON, the master of a London ship, at Old
+               Harbour), both of <hi rend="italic">Scots Hall</hi> Maroon Town,
+               with a party of their townsmen, went in search of him.</p>
+            <p>QUASHEE, before he set out on the expedition, got himself
+               christianed, and changed his name to JAMES REEDER.
+            </p>
+            <p>The expedition commenced; and the whole party had been creeping
+               about in the woods, for three weeks, and bloacking, as it were,
+               the deepest recesses of the most inaccessible part of the
+               island, where JACK, far remote from all human society,
+               resides,—but in vain.</p>
+            <p>REEDER and SAM, tired with this mode of war, resolved on
+               proceeding in search of his retreat; and taking him by storming
+               it, or perishing in the attempt.</p>
+            <p>They took with them a little boy, a proper spirit, and a good
+               shot, and left the rest of the party.</p>
+            <pb n="202"/>
+            <p>These three, whom I well knew, had not been long separated from
+               their companions, before their cunning eyes discovered, by
+               impressions among the weeds and bushes, that some person must
+               have lately been that way.</p>
+            <p>They softly followed these impressions, making not the least
+               noise. Presently they discovered a smoke.</p>
+            <p>They prepared for war. They came upon JACK before he perceived
+               them. He was roasting <hi rend="italic">plantains</hi>, by a
+               little fire on the ground, at the mouth of a cave.</p>
+            <p>This was a scene:—not where ordinary actors had a common part to
+               play.</p>
+            <p>JACK'S looks were fierce and terrible. He told them he would kill
+               them.</p>
+            <p>REEDER, instead of shooting Jack, replied, that his OBI had no
+               power to hurt him; for he was christianed; and that his name was
+               no longer QUASHEE.</p>
+            <p>JACK new REEDER; and, as if paralyzed, he let his two guns remain
+               on the ground, and took up only his cutlass.</p>
+            <p>These two had a severe engagement several years before, in the
+               woods; in which conflict JACK lost the two fingers, which was the
+               origin of his present name; but JACK then beat REEDER, and almost
+               killed him, with several <pb n="203"/> offers who assisted him,
+               and they fled from JACK.</p>
+            <p>To do <hi rend="italic">Three-fingered JACK</hi> justice, he
+               would now have killed both REEDER and SAM; for, at first, they
+               were frightened at the sight of him, and the dreadful tone of his
+               voice; and well theymight: they had besides no retreat, and were
+               to grapple with the bravet, and strongest man in the world.</p>
+            <p>But JACK was cowed; for, he had prophesied, that <hi
+               rend="italic">white</hi> OBI would get the better of him; and,
+               from experience, he kenw the charm would lose none of its
+               strength in the hands of REEDER. </p>
+            <p>Without farther parley, JACK, with his cutlass in his hand, threw
+               himself down a precipice at the back of the cave.</p>
+            <p>REEDER'S gun missed fire. SAM shot him in the shoulder. REEDER,
+               like an English bull-dog, never looked, but, with his cutlass in
+               his hand, plunged headlong down after JACK. The descent was about
+               thirty yards, and almost perpendicular. Both of them had
+               preserved their cutlasses in the fall.</p>
+            <p>Here was the stage,—on which two of the stoutest hearts, that
+               were ever hooped with ribs, began their bloody struggle.</p>
+            <pb n="204"/>
+            <p>The little boy, who was ordered to keep back, out of harm's way,
+               now reached the top of the precipice, and, during the fight, shot
+               JACK in the belly.</p>
+            <p>SAM was crafty, and cooly took a round-about way to get to the
+               field of action. When he arrived at the spot where it began, JACK
+               and REEDER had closed, and tumbled together down another
+               precipice, on the side of the mountain, in which fall they both
+               lost their weapons.</p>
+            <p>SAM descended after them, who also lost his cutlass, among the
+               trees and bushes in getting down.</p>
+            <p>When he came to them, though without weapons, they were not idle;
+               and, luckily for REEDER, JACK'S wounds were deep and desperate,
+               and he was in great agony.</p>
+            <p>SAM came up just time enough to save REEDER; for, JACK had caught
+               him by the throat, with his giant's grasp. REEDER then was with
+               his right hand almost cut off, and JACK streaming with blood from
+               his shoulder and belly; both covered with gore and gashes.</p>
+            <p>In this state SAM was umpire; and decided the fate of the battle.
+               He knocked JACK down with a piece of a rock.</p>
+            <pb n="205"/>
+            <p>When the lion fell, the two tigerts got upon him, and beat his
+               brains out with stones.</p>
+            <p>The little boy soon after found his way to them. He had a
+               cutlass, with which they cut off JACK'S head, and THREE-FINGERED
+               HAND, and took them in triumph to Morant Bay.</p>
+            <p>There they put their trophies into a pail of rum; and, followed
+               by a vast concourse of negroes, now no longer afraid of JACK'S
+               OBI, blowing their shells and horns, and firing guns in their
+               rude method, they carried them to Kingston, and Spanish Town; and
+               claimed the rewards offered by the King's Proclamation, and the
+               House of Assembly.</p>
+         </div>
+      
+      </body>
+      
+  </text>
+</TEI>

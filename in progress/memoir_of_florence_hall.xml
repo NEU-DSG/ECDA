@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../out/ecda.odd.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ecda="http://dsg.northeastern.edu/ecda/ns/1.0">
+ <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memoir of the Life of Florence Hall</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+     <ecda:hyperDiv>
+        <ecda:notes>
+           <note type="ecda">
+              <interpGrp type="commType">
+                 <interp xml:id="flora">plants (flora)</interp>
+                 <interp xml:id="fauna">animals (fauna)</interp>
+                 <interp xml:id="food">food and other consumable items (incl. drinks, seasonings, etc.)</interp>
+                 <interp xml:id="medical">medical or medicinal items (including references to folk medicine)</interp>
+                 <interp xml:id="textile">sartorial and textile references</interp>
+                 <interp xml:id="currency">references to money or currency</interp>
+              </interpGrp>
+              <interpGrp type="productionPhase">
+                 <interp xml:id="plant">planting</interp>
+                 <interp xml:id="cultivation">cultivation</interp>
+                 <interp xml:id="harvest">harvesting</interp>
+                 <interp xml:id="refine">refining</interp>
+                 <interp xml:id="production">production (non plant-based commodities)</interp>
+                 <interp xml:id="transport">transport</interp>
+                 <interp xml:id="sale">sale</interp>
+                 <interp xml:id="circulation">circulation of commodities, such as through gift-giving or theft</interp>
+                 <interp xml:id="use">use of commodities</interp>
+              </interpGrp>
+              <interpGrp>
+                 <interp xml:id="punishment">References to scenes of punishment or the enforcement of colonial rule</interp>
+                 <interp xml:id="military">References to the material conditions, social institutions or actual events of warfare</interp>
+                 <interp xml:id="abolition">References to the abolition of slavery or abolitionist movement</interp>
+                 <interp xml:id="disease">References to ailment and disease, specifically in people</interp>
+                 <interp xml:id="poison">References to poison</interp>
+                 <interp xml:id="obeah">References to Obeah</interp>
+                 <interp xml:id="performance">References to performance (esp. John Canoe)</interp>
+              </interpGrp>
+          </note>
+        </ecda:notes>
+     </ecda:hyperDiv>
+     
+     
+     <front>
+        <titleBlock>
+           <docTitle>
+              <titlePart></titlePart>
+           </docTitle>
+           
+        </titleBlock>
+     </front>
+     
+      <body>
+        
+         <p><placeName>Africa</placeName> is my Country—In the Country of the <name>Eboe</name> and on the
+            banks of the great_____ river, my people lived. The manner of my life before I was
+            taken and sold to the white people I can scarcely remember beyond that I was still
+            unclothed, sometime employed in attending our people, while engaged in Fishing, at
+            other times guarding the <ecda:fauna>fowls</ecda:fauna> and <ecda:fauna>chickens</ecda:fauna> from <ecda:fauna>Hawks</ecda:fauna> or more frequently at play
+            with other children. In one of those evening plays, while at a distance from our
+            houses a party of the enemy came around [‘us’ is crossed out] and drove us, into an
+            enclosed place, and immediately secured us—our hands were tied—in vain our cries and
+            screams were raised, but raised unheard, if heard, unattended, and by force we were
+            hurried along and rested not until the sun arose and marked our <unclear>[dis….?]</unclear> and distance
+            from our homes. The day we lay concealed, and in the night our journey was performed.
+            Day and night succeeded each other, in hunger, weariness, and grief at the end of the
+            15th night our traveling was at an end and the dawn of the day shewed us the Great
+            sea, and the ship, <unclear>on/to</unclear> which we were soon embarked and atonce <unclear>[another word
+            beginning with a c is crossed out]</unclear> left our <rs type="place">Country</rs>, and our freedom, and consigned
+            to foreigners and Slavery. The enemies of our country seized and sold us to the White
+            people, for the love of drink, and from the quarrels of their chiefs—The white people
+            received and stripped us of all our beads, and shells and while the naked children
+            were permitted to walk about the ship, the men and women were chained and kept in
+            dark[<unclear>ness?</unclear>] below [<unclear>replaced dark places</unclear>]. Our <ecda:food>food</ecda:food> was sparing, and ever bad. Our
+            punishment was frequent and sever and death became so frequent an occurrence, that at
+            last it <unclear>???</unclear> on, without fear on the dying, or grief on those left behind, as we
+            believed that those who died, were restored to their people and Country. A long
+            voyage at length brought the ship to <placeName>Jamaica</placeName> [another name seems to be crossed out,
+            maybe Barbados?]. My <name>Eboe</name> name was <persName ref="#florence_hall">Akeiso</persName>. The <unclear>something</unclear> of which soon put an end
+            to all [<unclear>all is added</unclear>] recollections of my people—another name—a strange language, and
+            [<unclear>another, is crossed out</unclear>] a new master confused my mind, and while ignorance of each,
+            made my labour more troublesome, yet the dread of punishment compelled me to work,
+            [narrative ends abruptly here with the comma following work].</p>
+      </body>
+      
+  </text>
+</TEI>
