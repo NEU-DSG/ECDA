@@ -1,8 +1,57 @@
-below is a listing of common elements, attributes, and values we will use in our markup:
+Below is a listing of common elements, attributes, and values we will use in our markup:
+
 
 *XML Commenting* 
 when you encounter something you are unsure about marking up, or have a general note or question about the document to the editors, please use, 
+<!-- ... -->
+where "..." is your note, question, comment
 
-<!-- my note, question, comment here -->
 
-**
+*SYNTAX/STRUCTURE*
+**BASIC**
+<p class="a-paragraph" id="my-paragraph"></p>
+
+- where 'p' is the element, 'class' and 'id' are attributes of the element, and 'a-paragraph' and 'my-paragraph' are values of the given the classes.
+-- You might think of class as categories that conceptually group elements (e.g., this is a paragraph that share qualities w/ all paragraphs; or this is a paragraph that shares qualities w/ paragraphs contained within the body of a text, but not the front matter of a text)
+-- -- You might think of id as the unique identifier of the content contained in element (e.g., this is a paragraph that Ben wrote)
+-- -- -- You can add multiple class values to an element:
+<p class="a-paragraph a-paragraph-mainbody" id="my-paragraph"></p>
+
+**NESTING**
+<div>
+  <p>Here is a <a href="#">link</a> to some content.</p>
+</div>
+- note how <div> is the parent element of both <p> and <a>, and <p> is the parent of <a> (or, <a> is the child of both <p> and <div> because it is contained within <p> and within <div>
+
+*SOME RULES*
+**Open Tag :: Close Tag**
+In almost all cases, an HTML element requires both open (<>) and close (</>) tags: <div>...</div>
+<img> is one you do not: <img src="http://mydomain.com/myimages/image1234567.jpg">
+**PROPER NESTING**
+correct: <div><p></p></div>
+incorrect: <div><p></div></p>
+**Tag vs tag**
+correct:<div></div>
+incorrect:<Div></div>
+
+*ELEMENT LIST*
+
+<div> : use this to define a major division of a text/document
+<p> : use this to define a paragraph normatively defined
+<span> : use this as a generic element to mark aspects of document not supported by <div>, <p>
+<a> : use to mark "ref"erences
+
+*INSTRUCTIONS*
+Titles: use <span class="title">...</span>
+
+Epigraphs: use <span class="epigraph">...</span>
+
+
+
+
+
+
+
+
+
+
