@@ -1,1 +1,83 @@
-
+<!-- file header, storing metadata -->
+<div class="document-header" id="head">
+  <div class="file-description" id="fileDesc">
+    <div class="" id="titleStmt">
+      <span class="" id="meta-title"><!-- full title --></span>
+      <span class="" id="meta-author">
+        <a href="#" class="persName"><!-- source author --></a>
+      </span>
+      <span class="" id="meta-sponsor">
+        <a href="#ecda" class="orgName" id="ecda">The Early Caribbean Digital Archive</a>
+      </span>
+      <span class="" id="meta-funder">
+        <span class="orgName" id="">
+        <a href="#nulab" class="orgName" id="">The NULab for Texts, Maps, and Networks</a>
+        </span>
+      </span>
+    </div>
+    <div class="" id="respStmt">
+      <span class="resp" id="titleStmt-resp">Transcribed by,</span>
+      <span class="persName" id="titleStmt-persName">
+        <a href="#" class="name" id=""><!-- transcriber Name --></a>
+      </span>
+       <span class="persName" id="titleStmt-persName">
+        <a class="name" id=""></a>
+      </span>
+    </div>
+    <div class="" id="editionStmt"></div>
+    <div class="" id="publicationStmt">
+      <div class="" id="meta-publisher">
+        <span class="orgName" id="">
+          <a href="#ecda" class="orgName" id="">The Eary Caribbean Digital Archive</a>
+        </span>
+      </div>
+      <div class="address" id="meta-address">
+        <span class="address-line">Northeastern University</span>
+        <span class="address-line">360 Huntington Ave</span>
+        <span class="address-line">Boston, MA 02115</span>
+        <span class="address-line">http://ecda.northeastern.edu</span>
+        <span class="address-line">info.ecdaproject@gmail.com</span>
+      </div>
+      <div class="availability" id="meta-availability">
+        <p>This document is publicly available for reuse and repurposing for project development purposes that are scholarly or educational and maintain open-source, public access of original source content.</p>
+        <a href="http://ecda.northeastern.edu/faq#license" class="license" id="meta-license">Read our license</a>
+      </div>
+    </div>
+    <div class="" id="sourceDesc">
+      <div class="bibl" id="meta-bibl">
+        <span class="title" id="sourceDesc-title"></span>
+        <span class="author" id="sourceDesc-author">
+          <a href="#" class="persName" id=""><!-- source Author --></a>
+        </span>
+        <span class="pubplace" id="sourceDesc-pubplace">
+          <a href="#" class="placeName" id=""><!-- placeName --></a>
+        </span>
+        <span class="publisher" id="sourceDesc-publisher">
+          <a href="#" class="orgName" id=""><!-- publisher Name --></a>
+        </span>
+        <span class="date" id="sourceDesc-date"></span>
+      </div>
+    </div>
+  </div>
+  <!-- 
+  <div class="encoding-description" id="encodingDesc"></div>
+  <div class="project-description" id="projectDesc"></div>
+  <div class="profile-description" id="profileDesc"></div>
+  <div class="revision-descriptoin" id="revisionDesc"></div>
+-->
+</div>
+<!-- start document -->
+<div class="document-text" id="text">
+  <!-- front matter of document -->
+  <div class="document-front" id="front">
+    <p></p>
+  </div>
+  <!-- body of document -->
+  <div class="document-body" id="body">
+    <p></p>
+  </div>
+  <!-- back matter of document -->
+  <div class="document-back" id="back">
+    <p></p>
+  </div>
+</div>
