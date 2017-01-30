@@ -11,7 +11,7 @@
       </span>
       <span class="" id="meta-funder">
         <span class="orgName" id="">
-        <a href="#nulab" class="orgName" id="">The NULab for Texts, Maps, and Networks</a>
+        <a href="#nulab" class="name" id="">The NULab for Texts, Maps, and Networks</a>
         </span>
       </span>
     </div>
@@ -28,7 +28,7 @@
     <div class="" id="publicationStmt">
       <div class="" id="meta-publisher">
         <span class="orgName" id="">
-          <a href="#ecda" class="orgName" id="">The Eary Caribbean Digital Archive</a>
+          <a href="#ecda" class="name" id="">The Eary Caribbean Digital Archive</a>
         </span>
       </div>
       <div class="address" id="meta-address">
@@ -42,6 +42,16 @@
         <p>This document is publicly available for reuse and repurposing for project development purposes that are scholarly or educational and maintain open-source, public access of original source content.</p>
         <a href="http://ecda.northeastern.edu/faq#license" class="license" id="meta-license">Read our license</a>
       </div>
+    </div>
+    <div class="" id="seriesStmt">
+      <span class="title" id="seriesStmt-title"><!-- title of series in which work was published --></span>
+      <div class="respStmt" id="seriesStmt-respStmt">
+        <span class="resp" id="">Edited by,</span>
+        <span class="persName" id="">
+          <a href="#" class="name" id=""><!-- editor name --></a>
+        </span>
+      </div>
+      <div class="bibl" id="seriesStmt-biblScope"><!-- page range:pp x-xx --></div>
     </div>
     <div class="" id="sourceDesc">
       <div class="bibl" id="meta-bibl">
