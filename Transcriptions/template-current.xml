@@ -1,0 +1,29 @@
+<!-- file header, storing metadata -->
+<div class="document-header" id="head">
+  <?xml version="1.0" encoding="UTF-8"?>
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Title of Work</dc:title>
+    <dc:creator>Creator or Author of work</dc:creator>
+    <dc:subject>Subject category of work (e.g., Nineteenth-Century Caribbean Slave Narratives)</dc:subject>
+    <dc:description>A description of the source work </dc:description>
+    <dc:publisher>Publisher of source work</dc:publisher>
+    <dc:contributor>Contributor to creation of source work (repeat field where necessary)</dc:contributor>
+    <dc:date>Date of publication of source work</dc:date>
+    <dc:language>Language of Source Work</dc:language>
+    <dc:rights>This item is free for reuse or repurposing for educational and scholarly purposes</dc:rights>
+  </metadata>
+</div>
+<!-- start document -->
+<div class="document-text" id="text">
+  <!-- front matter of document -->
+  <div class="document-front" id="front">
+    <p></p>
+  </div>
+  <!-- body of document -->
+  <div class="document-body" id="body">
+  </div>
+  <!-- back matter of document -->
+  <div class="document-back" id="back">
+    <p></p>
+  </div>
+</div>
